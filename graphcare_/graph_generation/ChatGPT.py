@@ -6,8 +6,8 @@ with open("../../resources/ecnu.key", 'r') as f:
     ecnu_key = f.readlines()[0].strip()
 
 # 保留原有的OpenAI实现
-with open("../../resources/openai.key", 'r') as f:
-    openai_key = f.readlines()[0][:-1]
+# with open("../../resources/openai.key", 'r') as f:
+#     openai_key = f.readlines()[0][:-1]
 
 class ChatGPT:
     def __init__(self):
@@ -27,7 +27,7 @@ class ChatGPT:
         return response["choices"][0]["message"]
 
 class ChatECNU:
-    def __init__(self, model="ecnu-max"):
+    def __init__(self, model="ecnu-plus"):
         # 使用ECNU的API配置
         self.client = OpenAI(
             api_key=ecnu_key,

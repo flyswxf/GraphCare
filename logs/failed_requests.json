@@ -1,0 +1,12 @@
+[
+  {
+    "term": "tuberculosis",
+    "mode": "condition",
+    "error": "name 'openai_key' is not defined"
+  },
+  {
+    "term": "immunizations and screening for infectious disease",
+    "mode": "condition",
+    "error": "ChatECNU returned None"
+  }
+]
