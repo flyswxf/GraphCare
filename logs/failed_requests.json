@@ -8,5 +8,10 @@
     "term": "immunizations and screening for infectious disease",
     "mode": "condition",
     "error": "ChatECNU returned None"
+  },
+  {
+    "term": "tuberculosis",
+    "mode": "condition",
+    "error": "ChatECNU returned None"
   }
 ]

@@ -27,7 +27,7 @@ class ChatGPT:
         return response["choices"][0]["message"]
 
 class ChatECNU:
-    def __init__(self, model="ecnu-plus"):
+    def __init__(self, model="ecnu-max"):
         # 使用ECNU的API配置
         self.client = OpenAI(
             api_key=ecnu_key,

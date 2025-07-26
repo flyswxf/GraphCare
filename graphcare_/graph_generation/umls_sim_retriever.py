@@ -2,6 +2,7 @@ import pickle
 import numpy as np
 from tqdm import tqdm
 import multiprocessing
+import os
 
 def cosine_similarity(u, v):
     return np.dot(u, v) / (np.linalg.norm(u) * np.linalg.norm(v))
@@ -41,7 +42,14 @@ def parallel_mapping(id2emb, umls_ent_emb, num_processes):
     return dict(output_dict)
 
 if __name__ == "__main__":
-    with open("/home/pj20/GraphCare/KG_mapping/umls/concept_names.txt", 'r') as f:
+    # 获取脚本目录和项目根目录
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.join(script_dir, "../..")
+    data_dir = os.path.join(project_root, "data")
+    concept_names_path = os.path.join(project_root, "KG_mapping/umls/concept_names.txt")
+    
+    # 原始路径: /home/pj20/GraphCare/KG_mapping/umls/concept_names.txt
+    with open(concept_names_path, 'r', encoding='utf-8') as f:
         umls_ent = f.readlines() 
     
     umls_ids = []
@@ -54,17 +62,20 @@ if __name__ == "__main__":
         umls_ids.append(umls_id)
         
         
-
-    with open('/data/pj20/exp_data/umls_ent_emb_.pkl', 'rb') as f:
+    # 原始路径: /data/pj20/exp_data/umls_ent_emb_.pkl
+    with open(os.path.join(data_dir, 'umls_ent_emb_.pkl'), 'rb') as f:
         umls_ent_emb = pickle.load(f)
         
-    with open('/data/pj20/exp_data/atc3_id2emb.pkl', 'rb') as f:
+    # 原始路径: /data/pj20/exp_data/atc3_id2emb.pkl
+    with open(os.path.join(data_dir, 'atc3_id2emb.pkl'), 'rb') as f:
         atc3_id2emb = pickle.load(f)
         
-    with open('/data/pj20/exp_data/ccscm_id2emb.pkl', 'rb') as f:
+    # 原始路径: /data/pj20/exp_data/ccscm_id2emb.pkl
+    with open(os.path.join(data_dir, 'ccscm_id2emb.pkl'), 'rb') as f:
         ccscm_id2emb = pickle.load(f)
         
-    with open('/data/pj20/exp_data/ccsproc_id2emb.pkl', 'rb') as f:
+    # 原始路径: /data/pj20/exp_data/ccsproc_id2emb.pkl
+    with open(os.path.join(data_dir, 'ccsproc_id2emb.pkl'), 'rb') as f:
         ccsproc_id2emb = pickle.load(f)
 
 
@@ -81,11 +92,14 @@ if __name__ == "__main__":
 
     
     
-    with open('/data/pj20/exp_data/ccscm2umls.pkl', 'wb') as f:
+    # 原始路径: /data/pj20/exp_data/ccscm2umls.pkl
+    with open(os.path.join(data_dir, 'ccscm2umls.pkl'), 'wb') as f:
         pickle.dump(ccscm2umls, f)
         
-    with open('/data/pj20/exp_data/ccsproc2umls.pkl', 'wb') as f:
+    # 原始路径: /data/pj20/exp_data/ccsproc2umls.pkl
+    with open(os.path.join(data_dir, 'ccsproc2umls.pkl'), 'wb') as f:
         pickle.dump(ccsproc2umls, f)
         
-    with open('/data/pj20/exp_data/atc32umls.pkl', 'wb') as f:
+    # 原始路径: /data/pj20/exp_data/atc32umls.pkl
+    with open(os.path.join(data_dir, 'atc32umls.pkl'), 'wb') as f:
         pickle.dump(atc32umls, f)
