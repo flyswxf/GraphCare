@@ -1,0 +1,100 @@
+eyelid surgery	is a	therapeutic procedure
+conjunctival graft	is a	therapeutic procedure
+corneal cross-linking	is a	therapeutic procedure
+eyelid surgery	treats	ectropion
+eyelid surgery	treats	entropion
+conjunctival graft	treats	pterygium
+corneal cross-linking	treats	keratoconus
+eyelid surgery	requires	local anesthesia
+conjunctival graft	uses	autologous tissue
+corneal cross-linking	uses	riboflavin
+eyelid surgery	prevents	corneal exposure
+conjunctival graft	prevents	recurrence
+corneal cross-linking	strengthens	corneal collagen
+eyelid surgery	improves	tear distribution
+conjunctival graft	covers	scleral thinning
+corneal cross-linking	slows	disease progression
+eyelid surgery	corrects	malposition
+conjunctival graft	reduces	inflammation
+corneal cross-linking	increases	corneal stiffness
+eyelid surgery	addresses	blepharospasm
+conjunctival graft	repairs	conjunctival defects
+corneal cross-linking	utilizes	UV light
+eyelid surgery	manages	ptosis
+conjunctival graft	restores	ocular surface
+corneal cross-linking	delays	transplantation
+eyelid surgery	involves	skin excision
+conjunctival graft	requires	suturing
+corneal cross-linking	avoids	scarring
+eyelid surgery	enhances	comfort
+conjunctival graft	protects	limbal stem cells
+corneal cross-linking	preserves	vision
+eyelid surgery	relieves	irritation
+conjunctival graft	prevents	symblepharon
+corneal cross-linking	stabilizes	ectasia
+eyelid surgery	corrects	retraction
+conjunctival graft	treats	chemical burns
+corneal cross-linking	reduces	astigmatism
+eyelid surgery	improves	cosmesis
+conjunctival graft	reconstructs	fornix
+corneal cross-linking	requires	epithelial removal
+eyelid surgery	tightens	laxity
+conjunctival graft	provides	vascularization
+corneal cross-linking	enhances	structural integrity
+eyelid surgery	alleviates	dry eye
+conjunctival graft	addresses	scarring
+corneal cross-linking	follows	topography
+eyelid surgery	removes	tumors
+conjunctival graft	transplants	mucous membrane
+corneal cross-linking	monitors	endothelial cells
+eyelid surgery	repairs	trauma
+conjunctival graft	covers	melting
+corneal cross-linking	compares	collagen fibers
+eyelid surgery	repositions	fat pads
+conjunctival graft	supports	glaucoma surgery
+corneal cross-linking	evaluates	corneal thickness
+eyelid surgery	adjusts	muscle tension
+conjunctival graft	prevents	adhesion
+corneal cross-linking	requires	riboflavin penetration
+eyelid surgery	treats	trichiasis
+conjunctival graft	uses	amniotic membrane
+corneal cross-linking	measures	corneal curvature
+eyelid surgery	creates	symmetry
+conjunctival graft	treats	Stevens-Johnson syndrome
+corneal cross-linking	assesses	progression
+eyelid surgery	removes	excess skin
+conjunctival graft	reconstructs	ocular surface
+corneal cross-linking	requires	preoperative evaluation
+eyelid surgery	improves	eyelid closure
+conjunctival graft	covers	exposed sclera
+corneal cross-linking	determines	treatment parameters
+eyelid surgery	corrects	congenital anomalies
+conjunctival graft	prevents	recurrent erosion
+corneal cross-linking	combines	contact lens
+eyelid surgery	uses	cautery
+conjunctival graft	treats	ocular pemphigoid
+corneal cross-linking	follows	postoperative care
+eyelid surgery	repairs	canthal tendons
+conjunctival graft	addresses	limbal deficiency
+corneal cross-linking	monitors	haze formation
+eyelid surgery	treats	dermatochalasis
+conjunctival graft	uses	fibrin glue
+corneal cross-linking	evaluates	visual acuity
+eyelid surgery	manages	lagophthalmos
+conjunctival graft	treats	conjunctivochalasis
+corneal cross-linking	requires	epithelial healing
+eyelid surgery	adjusts	lid height
+conjunctival graft	reconstructs	conjunctival sac
+corneal cross-linking	prevents	corneal perforation
+eyelid surgery	uses	sutures
+conjunctival graft	treats	conjunctival tumors
+corneal cross-linking	analyzes	biomechanics
+eyelid surgery	corrects	eyelid retraction
+conjunctival graft	preserves	goblet cells
+corneal cross-linking	enhances	corneal transparency
+eyelid surgery	addresses	facial nerve palsy
+conjunctival graft	treats	conjunctival scarring
+corneal cross-linking	follows	safety protocols
+eyelid surgery	improves	peripheral vision
+conjunctival graft	supports	corneal healing
+corneal cross-linking	maintains	corneal shape

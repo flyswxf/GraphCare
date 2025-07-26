@@ -1,0 +1,100 @@
+other aftercare	includes	wound care
+other aftercare	involves	medication management
+other aftercare	requires	follow-up appointments
+other aftercare	may include	physical therapy
+other aftercare	supports	recovery process
+other aftercare	prevents	complications
+other aftercare	involves	pain management
+other aftercare	includes	nutrition counseling
+other aftercare	requires	patient education
+other aftercare	may involve	occupational therapy
+other aftercare	supports	mental health
+other aftercare	includes	monitoring vitals
+other aftercare	involves	lifestyle adjustments
+other aftercare	may require	home healthcare
+other aftercare	includes	infection prevention
+other aftercare	involves	wound dressing changes
+other aftercare	supports	mobility improvement
+other aftercare	may include	speech therapy
+other aftercare	requires	adherence to instructions
+other aftercare	involves	symptom tracking
+other aftercare	includes	hydration management
+other aftercare	may involve	respiratory therapy
+other aftercare	supports	emotional well-being
+other aftercare	includes	activity restrictions
+other aftercare	involves	sleep hygiene
+other aftercare	may require	assistive devices
+other aftercare	includes	medication reconciliation
+other aftercare	involves	caregiver training
+other aftercare	supports	independence
+other aftercare	includes	monitoring for side effects
+other aftercare	involves	dietary modifications
+other aftercare	may include	cognitive therapy
+other aftercare	requires	coordination with specialists
+other aftercare	includes	stress management
+other aftercare	involves	rehabilitation exercises
+other aftercare	supports	wound healing
+other aftercare	includes	blood sugar monitoring
+other aftercare	may involve	social work support
+other aftercare	requires	transportation assistance
+other aftercare	involves	weight management
+other aftercare	includes	family education
+other aftercare	may include	palliative care
+other aftercare	supports	chronic condition management
+other aftercare	involves	skin care
+other aftercare	includes	immunization updates
+other aftercare	may require	laboratory tests
+other aftercare	involves	breathing exercises
+other aftercare	supports	medication adherence
+other aftercare	includes	bowel regimen
+other aftercare	may involve	peer support groups
+other aftercare	requires	emergency contact information
+other aftercare	involves	smoking cessation
+other aftercare	includes	alcohol moderation
+other aftercare	supports	hygiene maintenance
+other aftercare	may include	alternative therapies
+other aftercare	involves	medical equipment training
+other aftercare	includes	dental care
+other aftercare	may require	psychiatric evaluation
+other aftercare	supports	fall prevention
+other aftercare	involves	vision care
+other aftercare	includes	hearing care
+other aftercare	may involve	genetic counseling
+other aftercare	requires	advance directives
+other aftercare	involves	allergy management
+other aftercare	includes	pressure ulcer prevention
+other aftercare	supports	continence management
+other aftercare	may include	acupuncture
+other aftercare	involves	massage therapy
+other aftercare	includes	aromatherapy
+other aftercare	requires	health insurance coordination
+other aftercare	involves	financial counseling
+other aftercare	supports	community resource access
+other aftercare	includes	pet therapy
+other aftercare	may involve	music therapy
+other aftercare	requires	legal assistance
+other aftercare	involves	end-of-life planning
+other aftercare	includes	spiritual support
+other aftercare	supports	grief counseling
+other aftercare	may include	art therapy
+other aftercare	involves	relaxation techniques
+other aftercare	includes	biofeedback
+other aftercare	requires	medical ID bracelet
+other aftercare	involves	foot care
+other aftercare	supports	vaccination schedule
+other aftercare	includes	telehealth services
+other aftercare	may involve	remote monitoring
+other aftercare	requires	medication reminders
+other aftercare	involves	symptom reporting
+other aftercare	supports	patient advocacy
+other aftercare	includes	exercise regimen
+other aftercare	may include	yoga
+other aftercare	involves	tai chi
+other aftercare	requires	environmental modifications
+other aftercare	supports	caregiver respite
+other aftercare	includes	support groups
+other aftercare	may involve	volunteer services
+other aftercare	involves	home safety assessment
+other aftercare	supports	adaptive equipment use
+other aftercare	includes	community reintegration
+other aftercare	may require	long-term care planning

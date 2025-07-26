@@ -1,0 +1,100 @@
+other agents acting on the renin-angiotensin system	classified under	ATC system
+other agents acting on the renin-angiotensin system	belongs to	cardiovascular drugs
+other agents acting on the renin-angiotensin system	includes	aliskiren
+aliskiren	is a	renin inhibitor
+aliskiren	used for	hypertension
+hypertension	is a	cardiovascular disease
+cardiovascular disease	risk factor for	stroke
+aliskiren	may interact with	diuretics
+diuretics	used for	edema
+edema	symptom of	heart failure
+heart failure	treated with	ACE inhibitors
+ACE inhibitors	are part of	renin-angiotensin system drugs
+renin-angiotensin system	regulates	blood pressure
+blood pressure	measured by	sphygmomanometer
+sphygmomanometer	used in	clinical examination
+clinical examination	performed by	physician
+physician	prescribes	antihypertensive drugs
+antihypertensive drugs	include	ARBs
+ARBs	block	angiotensin II receptors
+angiotensin II	causes	vasoconstriction
+vasoconstriction	increases	blood pressure
+aliskiren	decreases	plasma renin activity
+plasma renin activity	marker for	RAAS activation
+RAAS activation	associated with	kidney disease
+kidney disease	leads to	fluid retention
+fluid retention	treated with	diuretics
+aliskiren	contraindicated in	pregnancy
+pregnancy	risk factor for	preeclampsia
+preeclampsia	characterized by	hypertension
+aliskiren	metabolized by	CYP3A4
+CYP3A4	is a	liver enzyme
+liver enzyme	affected by	grapefruit juice
+grapefruit juice	increases	drug concentration
+aliskiren	has	bioavailability
+bioavailability	affected by	food intake
+food intake	influences	drug absorption
+drug absorption	occurs in	small intestine
+small intestine	part of	digestive system
+digestive system	affected by	NSAIDs
+NSAIDs	may cause	gastric ulcers
+gastric ulcers	treated with	proton pump inhibitors
+proton pump inhibitors	interact with	clopidogrel
+clopidogrel	is a	antiplatelet drug
+antiplatelet drugs	prevent	thrombosis
+thrombosis	causes	myocardial infarction
+myocardial infarction	treated with	beta blockers
+beta blockers	affect	heart rate
+heart rate	regulated by	autonomic nervous system
+autonomic nervous system	includes	sympathetic nerves
+sympathetic nerves	release	norepinephrine
+norepinephrine	increases	cardiac output
+cardiac output	determines	blood pressure
+aliskiren	has	half-life
+half-life	determines	dosing frequency
+dosing frequency	affects	patient compliance
+patient compliance	important for	treatment efficacy
+treatment efficacy	measured by	blood pressure reduction
+blood pressure reduction	prevents	target organ damage
+target organ damage	includes	retinal changes
+retinal changes	detected by	fundoscopy
+fundoscopy	performed by	ophthalmologist
+ophthalmologist	specialist in	eye diseases
+eye diseases	include	glaucoma
+glaucoma	treated with	eye drops
+eye drops	contain	beta blockers
+beta blockers	contraindicated in	asthma
+asthma	characterized by	bronchoconstriction
+bronchoconstriction	treated with	bronchodilators
+bronchodilators	include	salbutamol
+salbutamol	acts on	beta-2 receptors
+beta-2 receptors	found in	lung tissue
+lung tissue	affected by	smoking
+smoking	risk factor for	COPD
+COPD	treated with	inhaled corticosteroids
+inhaled corticosteroids	may cause	oral thrush
+oral thrush	caused by	Candida albicans
+Candida albicans	treated with	antifungal drugs
+antifungal drugs	include	fluconazole
+fluconazole	inhibits	CYP450 enzymes
+CYP450 enzymes	metabolize	many drugs
+aliskiren	excreted by	kidneys
+kidneys	affected by	dehydration
+dehydration	causes	electrolyte imbalance
+electrolyte imbalance	leads to	arrhythmias
+arrhythmias	treated with	antiarrhythmic drugs
+antiarrhythmic drugs	include	amiodarone
+amiodarone	affects	thyroid function
+thyroid function	assessed by	TSH test
+TSH test	measures	thyroid activity
+thyroid activity	regulates	metabolism
+metabolism	affects	drug clearance
+drug clearance	important for	dosing adjustment
+dosing adjustment	needed in	renal impairment
+renal impairment	contraindication for	NSAIDs
+NSAIDs	may worsen	heart failure
+heart failure	monitored by	BNP levels
+BNP levels	marker for	cardiac stress
+cardiac stress	reduced by	RAAS inhibitors
+RAAS inhibitors	include	aliskiren
+aliskiren	alternative to	ACE inhibitors

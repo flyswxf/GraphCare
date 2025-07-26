@@ -1,0 +1,100 @@
+musculoskeletal procedure	is a	medical procedure
+musculoskeletal procedure	involves	bones
+musculoskeletal procedure	involves	muscles
+musculoskeletal procedure	involves	joints
+arthroscopy	is a type of	musculoskeletal procedure
+arthroscopy	examines	joint structures
+arthroscopy	diagnoses	joint injuries
+joint injection	is a type of	musculoskeletal procedure
+joint injection	treats	arthritis
+joint injection	uses	corticosteroids
+joint aspiration	is a type of	musculoskeletal procedure
+joint aspiration	removes	synovial fluid
+joint aspiration	diagnoses	infections
+tendon repair	is a type of	musculoskeletal procedure
+tendon repair	fixes	tendon tears
+tendon repair	restores	mobility
+ligament reconstruction	is a type of	musculoskeletal procedure
+ligament reconstruction	repairs	ligament damage
+ligament reconstruction	stabilizes	joints
+bone biopsy	is a type of	musculoskeletal procedure
+bone biopsy	diagnoses	bone tumors
+bone biopsy	detects	infections
+bone marrow aspiration	is a type of	musculoskeletal procedure
+bone marrow aspiration	collects	stem cells
+bone marrow aspiration	diagnoses	blood disorders
+spinal tap	is a type of	musculoskeletal procedure
+spinal tap	collects	cerebrospinal fluid
+spinal tap	diagnoses	neurological conditions
+fracture reduction	is a type of	musculoskeletal procedure
+fracture reduction	realigns	broken bones
+fracture reduction	uses	anesthesia
+external fixation	is a type of	musculoskeletal procedure
+external fixation	stabilizes	fractures
+external fixation	promotes	bone healing
+internal fixation	is a type of	musculoskeletal procedure
+internal fixation	uses	screws
+internal fixation	uses	plates
+joint replacement	is a type of	musculoskeletal procedure
+joint replacement	treats	osteoarthritis
+joint replacement	improves	mobility
+cartilage repair	is a type of	musculoskeletal procedure
+cartilage repair	treats	cartilage damage
+cartilage repair	uses	stem cells
+synovectomy	is a type of	musculoskeletal procedure
+synovectomy	removes	inflamed synovium
+synovectomy	treats	rheumatoid arthritis
+meniscectomy	is a type of	musculoskeletal procedure
+meniscectomy	removes	damaged meniscus
+meniscectomy	relieves	knee pain
+osteotomy	is a type of	musculoskeletal procedure
+osteotomy	realigns	bones
+osteotomy	corrects	deformities
+discectomy	is a type of	musculoskeletal procedure
+discectomy	removes	herniated disc
+discectomy	relieves	nerve pressure
+spinal fusion	is a type of	musculoskeletal procedure
+spinal fusion	stabilizes	spine
+spinal fusion	treats	scoliosis
+vertebroplasty	is a type of	musculoskeletal procedure
+vertebroplasty	repairs	spinal fractures
+vertebroplasty	uses	bone cement
+kyphoplasty	is a type of	musculoskeletal procedure
+kyphoplasty	treats	vertebral compression
+kyphoplasty	restores	height
+bursectomy	is a type of	musculoskeletal procedure
+bursectomy	removes	inflamed bursa
+bursectomy	relieves	pain
+fasciotomy	is a type of	musculoskeletal procedure
+fasciotomy	relieves	compartment pressure
+fasciotomy	treats	compartment syndrome
+debridement	is a type of	musculoskeletal procedure
+debridement	removes	dead tissue
+debridement	promotes	wound healing
+tenotomy	is a type of	musculoskeletal procedure
+tenotomy	cuts	tendons
+tenotomy	treats	contractures
+neurolysis	is a type of	musculoskeletal procedure
+neurolysis	releases	entrapped nerves
+neurolysis	relieves	neuropathy
+capsulotomy	is a type of	musculoskeletal procedure
+capsulotomy	releases	joint capsule
+capsulotomy	improves	joint mobility
+acupuncture	is a type of	musculoskeletal procedure
+acupuncture	relieves	pain
+acupuncture	uses	needles
+chiropractic adjustment	is a type of	musculoskeletal procedure
+chiropractic adjustment	aligns	spine
+chiropractic adjustment	reduces	back pain
+physical therapy	is a type of	musculoskeletal procedure
+physical therapy	improves	strength
+physical therapy	enhances	flexibility
+massage therapy	is a type of	musculoskeletal procedure
+massage therapy	reduces	muscle tension
+massage therapy	improves	circulation
+ultrasound therapy	is a type of	musculoskeletal procedure
+ultrasound therapy	promotes	tissue healing
+ultrasound therapy	reduces	inflammation
+electrical stimulation	is a type of	musculoskeletal procedure
+electrical stimulation	strengthens	muscles
+electrical stimulation	relieves	pain

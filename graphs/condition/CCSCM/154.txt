@@ -1,0 +1,100 @@
+noninfectious gastroenteritis	is a	digestive disorder
+noninfectious gastroenteritis	affects	stomach
+noninfectious gastroenteritis	affects	intestines
+noninfectious gastroenteritis	has symptom	abdominal pain
+noninfectious gastroenteritis	has symptom	nausea
+noninfectious gastroenteritis	has symptom	vomiting
+noninfectious gastroenteritis	has symptom	diarrhea
+noninfectious gastroenteritis	may cause	dehydration
+noninfectious gastroenteritis	may cause	electrolyte imbalance
+noninfectious gastroenteritis	is treated with	antacids
+noninfectious gastroenteritis	is treated with	proton pump inhibitors
+noninfectious gastroenteritis	is treated with	antiemetics
+noninfectious gastroenteritis	is treated with	antidiarrheals
+noninfectious gastroenteritis	may require	fluid replacement
+noninfectious gastroenteritis	is diagnosed via	medical history
+noninfectious gastroenteritis	is diagnosed via	physical examination
+noninfectious gastroenteritis	may be caused by	food intolerance
+noninfectious gastroenteritis	may be caused by	medication side effect
+noninfectious gastroenteritis	may be caused by	stress
+noninfectious gastroenteritis	may be caused by	alcohol consumption
+noninfectious gastroenteritis	may be caused by	smoking
+noninfectious gastroenteritis	may lead to	malnutrition
+noninfectious gastroenteritis	may lead to	weight loss
+noninfectious gastroenteritis	is associated with	irritable bowel syndrome
+noninfectious gastroenteritis	is associated with	gastritis
+noninfectious gastroenteritis	is differentiated from	infectious gastroenteritis
+noninfectious gastroenteritis	may require	endoscopy
+noninfectious gastroenteritis	may require	stool tests
+noninfectious gastroenteritis	increases risk of	hospital admission
+noninfectious gastroenteritis	may cause	fatigue
+noninfectious gastroenteritis	may cause	dizziness
+antacids	neutralize	stomach acid
+proton pump inhibitors	reduce	stomach acid
+antiemetics	control	nausea
+antiemetics	control	vomiting
+antidiarrheals	slow down	bowel movements
+dehydration	requires	oral rehydration
+dehydration	may require	intravenous fluids
+electrolyte imbalance	may require	supplementation
+food intolerance	triggers	digestive symptoms
+lactose intolerance	is a	food intolerance
+gluten intolerance	is a	food intolerance
+stress	exacerbates	digestive symptoms
+alcohol	irritates	stomach lining
+smoking	worsens	digestive conditions
+endoscopy	examines	digestive tract
+stool tests	rule out	infections
+irritable bowel syndrome	shares symptoms with	noninfectious gastroenteritis
+gastritis	is related to	stomach inflammation
+infectious gastroenteritis	is caused by	pathogens
+nutritional counseling	helps manage	noninfectious gastroenteritis
+probiotics	may benefit	digestive health
+fiber	affects	bowel function
+hydration	prevents	complications
+elderly patients	are vulnerable to	complications
+children	may experience	severe symptoms
+chronic cases	require	long-term management
+pain management	is part of	treatment
+dietary modifications	alleviate	symptoms
+small frequent meals	help with	digestion
+fatty foods	aggravate	symptoms
+spicy foods	trigger	discomfort
+caffeine	stimulates	bowel movements
+dairy products	may worsen	symptoms
+food diary	identifies	triggers
+allergy testing	may identify	causes
+autoimmune conditions	may cause	similar symptoms
+celiac disease	mimics	noninfectious gastroenteritis
+Crohn's disease	differs from	noninfectious gastroenteritis
+ulcerative colitis	differs from	noninfectious gastroenteritis
+H2 blockers	reduce	acid production
+ranitidine	is a	H2 blocker
+omeprazole	is a	proton pump inhibitor
+loperamide	is an	antidiarrheal
+ondansetron	is an	antiemetic
+bismuth subsalicylate	coats	stomach lining
+electrolyte solutions	restore	balance
+intravenous therapy	treats	severe dehydration
+primary care physician	manages	mild cases
+gastroenterologist	treats	severe cases
+emergency department	handles	complications
+quality of life	is affected by	chronic cases
+work productivity	decreases during	flare-ups
+mental health	is impacted by	chronic illness
+support groups	help with	coping
+clinical trials	research	new treatments
+genetic factors	may influence	susceptibility
+environmental factors	contribute to	occurrence
+preventive measures	reduce	recurrence
+hand hygiene	prevents	secondary infections
+food safety	prevents	symptom triggers
+stress management	reduces	flare-ups
+exercise	benefits	digestive health
+sleep quality	affects	symptom severity
+alternative therapies	complement	treatment
+acupuncture	may help	symptom relief
+herbal remedies	are used by	some patients
+follow-up visits	monitor	condition progress
+treatment plan	is tailored to	individual needs
+patient education	improves	outcomes

@@ -1,0 +1,100 @@
+pedestrian injury	is classified by	e codes
+e codes	describe	injury circumstances
+pedestrian	may experience	falls
+pedestrian	may experience	collisions
+pedestrian injury	may require	emergency care
+pedestrian injury	may result in	fractures
+pedestrian injury	may cause	head trauma
+pedestrian injury	may lead to	hospitalization
+pedestrian injury	has risk factor	poor lighting
+pedestrian injury	has risk factor	uneven surfaces
+pedestrian injury	relates to	urban design
+pedestrian injury	relates to	sidewalk quality
+pedestrian injury	may involve	bicycles
+pedestrian injury	may involve	animals
+pedestrian injury	may involve	stationary objects
+pedestrian injury	affects	elderly population
+pedestrian injury	affects	children
+pedestrian injury	requires	injury documentation
+e codes	are used for	insurance claims
+e codes	assist in	injury prevention
+pedestrian injury	may lead to	disability
+pedestrian injury	may require	physical therapy
+pedestrian injury	may cause	soft tissue damage
+pedestrian injury	may result in	chronic pain
+pedestrian injury	relates to	pedestrian density
+pedestrian injury	relates to	crosswalk availability
+pedestrian injury	has seasonal variation	winter
+pedestrian injury	relates to	alcohol consumption
+pedestrian injury	relates to	medication use
+pedestrian injury	may involve	skateboards
+pedestrian injury	may involve	scooters
+pedestrian injury	may involve	wheelchairs
+pedestrian injury	relates to	visual impairment
+pedestrian injury	relates to	mobility issues
+pedestrian injury	relates to	cognitive impairment
+pedestrian injury	may require	surgical intervention
+pedestrian injury	may lead to	infections
+pedestrian injury	may cause	internal bleeding
+pedestrian injury	affects	quality of life
+pedestrian injury	relates to	socioeconomic factors
+pedestrian injury	has time pattern	evening hours
+pedestrian injury	has time pattern	rush hour
+pedestrian injury	relates to	distracted walking
+pedestrian injury	relates to	footware type
+pedestrian injury	may involve	stairs
+pedestrian injury	may involve	escalators
+pedestrian injury	may involve	curbs
+pedestrian injury	may involve	potholes
+pedestrian injury	relates to	weather conditions
+pedestrian injury	relates to	ice accumulation
+pedestrian injury	relates to	snow cover
+pedestrian injury	relates to	rain
+pedestrian injury	relates to	visibility
+pedestrian injury	may involve	construction sites
+pedestrian injury	may involve	parking lots
+pedestrian injury	may involve	shopping malls
+pedestrian injury	may involve	sports venues
+pedestrian injury	may involve	public transport
+pedestrian injury	relates to	population density
+pedestrian injury	relates to	city planning
+pedestrian injury	relates to	traffic calming
+pedestrian injury	relates to	street lighting
+pedestrian injury	relates to	pedestrian bridges
+pedestrian injury	relates to	traffic signals
+pedestrian injury	may involve	trip hazards
+pedestrian injury	may involve	slip hazards
+pedestrian injury	may involve	fall hazards
+pedestrian injury	relates to	building codes
+pedestrian injury	relates to	accessibility standards
+pedestrian injury	may require	imaging tests
+pedestrian injury	may require	X-rays
+pedestrian injury	may require	CT scans
+pedestrian injury	may require	MRI
+pedestrian injury	may result in	concussion
+pedestrian injury	may result in	spinal injury
+pedestrian injury	may result in	pelvic fracture
+pedestrian injury	may result in	wrist fracture
+pedestrian injury	may result in	hip fracture
+pedestrian injury	may result in	knee injury
+pedestrian injury	may result in	ankle sprain
+pedestrian injury	may result in	abrasions
+pedestrian injury	may result in	lacerations
+pedestrian injury	may result in	contusions
+pedestrian injury	may require	wound care
+pedestrian injury	may require	sutures
+pedestrian injury	may require	casting
+pedestrian injury	may require	pain management
+pedestrian injury	may require	rehabilitation
+pedestrian injury	may lead to	mobility aids
+pedestrian injury	may lead to	home modifications
+pedestrian injury	affects	healthcare costs
+pedestrian injury	affects	work productivity
+pedestrian injury	relates to	disability insurance
+pedestrian injury	relates to	workers compensation
+pedestrian injury	relates to	public health policy
+pedestrian injury	relates to	safety campaigns
+pedestrian injury	relates to	community education
+pedestrian injury	relates to	risk assessment
+pedestrian injury	relates to	injury surveillance
+pedestrian injury	relates to	prevention strategies

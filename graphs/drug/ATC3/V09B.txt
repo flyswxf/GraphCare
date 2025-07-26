@@ -1,0 +1,100 @@
+skeleton diagnostic radiopharmaceuticals	is a	diagnostic agent
+skeleton diagnostic radiopharmaceuticals	detects	bone abnormalities
+skeleton diagnostic radiopharmaceuticals	contains	radioactive isotopes
+skeleton diagnostic radiopharmaceuticals	used in	bone scans
+bone scans	diagnose	osteoporosis
+bone scans	diagnose	bone metastases
+bone scans	diagnose	fractures
+bone scans	diagnose	Paget's disease
+bone metastases	originate from	primary cancer
+primary cancer	includes	breast cancer
+primary cancer	includes	prostate cancer
+primary cancer	includes	lung cancer
+osteoporosis	causes	bone fragility
+bone fragility	leads to	fractures
+fractures	require	medical intervention
+medical intervention	includes	surgery
+skeleton diagnostic radiopharmaceuticals	accumulates in	bone tissue
+bone tissue	contains	osteoblasts
+bone tissue	contains	osteoclasts
+osteoblasts	produce	bone matrix
+osteoclasts	resorb	bone
+skeleton diagnostic radiopharmaceuticals	emits	gamma radiation
+gamma radiation	detected by	gamma camera
+gamma camera	produces	diagnostic images
+diagnostic images	interpreted by	radiologist
+radiologist	makes	diagnosis
+diagnosis	guides	treatment plan
+treatment plan	may include	chemotherapy
+treatment plan	may include	radiation therapy
+treatment plan	may include	bisphosphonates
+bisphosphonates	treat	osteoporosis
+bisphosphonates	treat	bone metastases
+bisphosphonates	inhibit	osteoclasts
+skeleton diagnostic radiopharmaceuticals	has	half-life
+half-life	determines	imaging timing
+imaging timing	affects	image quality
+image quality	influences	diagnosis accuracy
+skeleton diagnostic radiopharmaceuticals	administered via	injection
+injection	performed by	medical staff
+medical staff	follow	safety protocols
+safety protocols	protect against	radiation exposure
+radiation exposure	can cause	tissue damage
+tissue damage	leads to	complications
+complications	require	medical management
+skeleton diagnostic radiopharmaceuticals	contraindicated in	pregnancy
+pregnancy	involves	fetal development
+fetal development	vulnerable to	radiation
+skeleton diagnostic radiopharmaceuticals	requires	patient preparation
+patient preparation	includes	hydration
+hydration	facilitates	radiopharmaceutical clearance
+radiopharmaceutical clearance	prevents	background activity
+background activity	reduces	image contrast
+skeleton diagnostic radiopharmaceuticals	binds to	hydroxyapatite
+hydroxyapatite	found in	bone mineral
+bone mineral	gives	bone strength
+skeleton diagnostic radiopharmaceuticals	examples include	technetium-99m
+technetium-99m	decays to	technetium-99
+technetium-99m	emits	gamma rays
+gamma rays	detected by	scintillation detector
+scintillation detector	converts	radiation to light
+light	forms	image
+image	shows	tracer distribution
+tracer distribution	indicates	disease activity
+disease activity	correlates with	prognosis
+prognosis	informs	treatment decisions
+skeleton diagnostic radiopharmaceuticals	contraindicated in	breastfeeding
+breastfeeding	transmits	radiopharmaceuticals to infant
+infant	vulnerable to	radiation effects
+radiation effects	include	developmental issues
+skeleton diagnostic radiopharmaceuticals	interacts with	bone metabolism
+bone metabolism	regulated by	hormones
+hormones	include	parathyroid hormone
+parathyroid hormone	increases	osteoclast activity
+osteoclast activity	affects	bone density
+bone density	measured by	DXA scan
+DXA scan	complements	bone scan
+bone scan	provides	functional information
+functional information	differentiates	active lesions
+active lesions	indicate	current disease
+skeleton diagnostic radiopharmaceuticals	used for	staging
+staging	determines	cancer extent
+cancer extent	guides	therapy choice
+therapy choice	affects	survival rate
+survival rate	depends on	early detection
+early detection	facilitated by	diagnostic imaging
+diagnostic imaging	includes	bone scan
+bone scan	requires	radiopharmaceutical administration
+radiopharmaceutical administration	has	dosage guidelines
+dosage guidelines	minimize	side effects
+side effects	include	allergic reactions
+allergic reactions	require	emergency treatment
+emergency treatment	includes	epinephrine
+epinephrine	counteracts	anaphylaxis
+skeleton diagnostic radiopharmaceuticals	stored in	lead containers
+lead containers	shield	radiation
+radiation	measured in	becquerels
+becquerels	quantify	radioactivity
+radioactivity	decreases with	time
+time	affects	radiopharmaceutical efficacy
+radiopharmaceutical efficacy	ensures	accurate diagnosis

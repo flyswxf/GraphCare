@@ -1,0 +1,100 @@
+other bowel diagnostic procedures	include	colonoscopy
+other bowel diagnostic procedures	include	sigmoidoscopy
+other bowel diagnostic procedures	include	virtual colonoscopy
+other bowel diagnostic procedures	include	barium enema
+other bowel diagnostic procedures	include	stool tests
+colonoscopy	detects	colorectal cancer
+colonoscopy	detects	polyps
+colonoscopy	detects	inflammatory bowel disease
+colonoscopy	requires	bowel preparation
+sigmoidoscopy	examines	rectum
+sigmoidoscopy	examines	sigmoid colon
+sigmoidoscopy	less invasive than	colonoscopy
+virtual colonoscopy	uses	CT scan
+virtual colonoscopy	alternative to	colonoscopy
+virtual colonoscopy	detects	polyps
+barium enema	uses	X-ray
+barium enema	visualizes	large intestine
+barium enema	detects	structural abnormalities
+stool tests	detect	occult blood
+stool tests	screen for	colorectal cancer
+stool tests	include	FIT
+stool tests	include	gFOBT
+stool tests	include	stool DNA test
+FIT	detects	hemoglobin
+FIT	screens for	colorectal cancer
+gFOBT	detects	blood in stool
+gFOBT	requires	dietary restrictions
+stool DNA test	detects	genetic mutations
+stool DNA test	screens for	cancer
+colonoscopy	performed by	gastroenterologist
+sigmoidoscopy	performed by	gastroenterologist
+virtual colonoscopy	performed by	radiologist
+barium enema	interpreted by	radiologist
+stool tests	analyzed by	lab technician
+colonoscopy	requires	sedation
+sigmoidoscopy	may require	sedation
+virtual colonoscopy	non-invasive
+barium enema	involves	contrast medium
+stool tests	non-invasive
+colonoscopy	may cause	perforation
+colonoscopy	may cause	bleeding
+sigmoidoscopy	may cause	discomfort
+virtual colonoscopy	limited by	polyp removal
+barium enema	may cause	constipation
+stool tests	may yield	false positives
+colonoscopy	recommended for	over 50
+sigmoidoscopy	recommended for	over 50
+virtual colonoscopy	alternative for	high-risk patients
+barium enema	used when	colonoscopy contraindicated
+stool tests	first-line screening
+colonoscopy	gold standard for	polyp detection
+sigmoidoscopy	less effective than	colonoscopy
+virtual colonoscopy	requires	bowel prep
+barium enema	less common than	colonoscopy
+stool tests	require	repeat testing
+colonoscopy	can remove	polyps
+sigmoidoscopy	cannot reach	entire colon
+virtual colonoscopy	uses	3D imaging
+barium enema	may miss	small polyps
+stool tests	convenient for	patients
+colonoscopy	associated with	anesthesia risks
+sigmoidoscopy	quicker than	colonoscopy
+virtual colonoscopy	no risk of	perforation
+barium enema	may require	laxatives
+stool tests	cost-effective
+colonoscopy	prevents	cancer progression
+sigmoidoscopy	screens for	distal cancers
+virtual colonoscopy	limited by	radiation exposure
+barium enema	outdated by	newer techniques
+stool tests	detect	early-stage cancer
+colonoscopy	requires	recovery time
+sigmoidoscopy	minimal recovery
+virtual colonoscopy	no sedation needed
+barium enema	may cause	allergic reactions
+stool tests	affected by	dietary factors
+colonoscopy	reduces	mortality risk
+sigmoidoscopy	combined with	stool tests
+virtual colonoscopy	requires	specialized equipment
+barium enema	less accurate than	colonoscopy
+stool tests	lack	therapeutic option
+colonoscopy	allows for	biopsy
+sigmoidoscopy	useful for	left-sided lesions
+virtual colonoscopy	excludes	therapeutic intervention
+barium enema	may reveal	diverticulosis
+stool tests	influenced by	sample quality
+colonoscopy	detects	ulcerative colitis
+sigmoidoscopy	limited in	Crohn's disease
+virtual colonoscopy	contraindicated in	pregnancy
+barium enema	may show	strictures
+stool tests	recommended annually
+colonoscopy	requires	follow-up
+sigmoidoscopy	every 5 years
+virtual colonoscopy	every 5 years
+barium enema	rarely used
+stool tests	covered by	insurance
+colonoscopy	high sensitivity
+sigmoidoscopy	moderate sensitivity
+virtual colonoscopy	high specificity
+barium enema	low sensitivity
+stool tests	variable accuracy

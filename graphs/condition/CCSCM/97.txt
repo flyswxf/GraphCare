@@ -1,0 +1,100 @@
+myocarditis	is an	heart inflammation
+pericarditis	is an	heart inflammation
+endocarditis	is an	heart inflammation
+cardiomyopathy	is a	heart disease
+myocarditis	may lead to	cardiomyopathy
+pericarditis	may lead to	cardiac tamponade
+endocarditis	may cause	valvular damage
+cardiomyopathy	has types	dilated cardiomyopathy
+cardiomyopathy	has types	hypertrophic cardiomyopathy
+cardiomyopathy	has types	restrictive cardiomyopathy
+viral infection	may cause	myocarditis
+bacterial infection	may cause	endocarditis
+tuberculosis	may cause	pericarditis
+staphylococcus aureus	causes	infective endocarditis
+coxackievirus	causes	viral myocarditis
+myocarditis	may result in	heart failure
+cardiomyopathy	may result in	heart failure
+endocarditis	may lead to	septic embolism
+pericarditis	may cause	pericardial effusion
+heart failure	requires treatment	diuretics
+beta blockers	treat	cardiomyopathy
+ACE inhibitors	treat	cardiomyopathy
+antibiotics	treat	bacterial endocarditis
+antivirals	treat	viral myocarditis
+colchicine	treats	pericarditis
+NSAIDs	treat	pericarditis
+immunosuppressants	treat	autoimmune myocarditis
+heart transplantation	treats	end-stage cardiomyopathy
+ECG	diagnoses	myocarditis
+echocardiogram	diagnoses	cardiomyopathy
+blood cultures	diagnose	endocarditis
+pericardial rub	indicates	pericarditis
+troponin	is elevated in	myocarditis
+BNP	is elevated in	heart failure
+CRP	is elevated in	inflammation
+ESR	is elevated in	inflammation
+chest pain	is symptom of	pericarditis
+dyspnea	is symptom of	cardiomyopathy
+palpitations	is symptom of	myocarditis
+fever	is symptom of	endocarditis
+fatigue	is symptom of	heart failure
+edema	is symptom of	heart failure
+autoimmune disease	may cause	myocarditis
+rheumatic fever	may cause	endocarditis
+radiation therapy	may cause	pericarditis
+chemotherapy	may cause	cardiomyopathy
+alcohol abuse	may cause	cardiomyopathy
+hypertension	may lead to	cardiomyopathy
+diabetes	may lead to	cardiomyopathy
+obesity	is risk factor for	cardiomyopathy
+IV drug use	is risk factor for	endocarditis
+prosthetic valves	increase risk of	endocarditis
+immunodeficiency	increases risk of	myocarditis
+pericardiocentesis	treats	cardiac tamponade
+valve replacement	treats	endocarditis
+ICD	prevents sudden death in	cardiomyopathy
+CRT	treats	heart failure
+myocarditis	has complication	arrhythmia
+cardiomyopathy	has complication	sudden death
+endocarditis	has complication	stroke
+pericarditis	has complication	constrictive pericarditis
+aspirin	reduces inflammation in	pericarditis
+warfarin	prevents thromboembolism in	endocarditis
+amiodarone	treats arrhythmias in	cardiomyopathy
+spironolactone	reduces mortality in	heart failure
+cardiac MRI	diagnoses	myocarditis
+endomyocardial biopsy	diagnoses	myocarditis
+transesophageal echo	diagnoses	endocarditis
+pericardial window	treats	recurrent pericardial effusion
+cardiac catheterization	assesses	cardiomyopathy
+stress test	evaluates	cardiomyopathy
+Holter monitor	detects arrhythmias in	myocarditis
+BNP	predicts prognosis in	heart failure
+troponin	predicts severity of	myocarditis
+ejection fraction	measures severity of	cardiomyopathy
+pulmonary hypertension	complicates	cardiomyopathy
+renal failure	complicates	heart failure
+liver congestion	occurs in	heart failure
+pleural effusion	occurs in	heart failure
+ascites	occurs in	heart failure
+cachexia	occurs in	advanced cardiomyopathy
+syncope	occurs in	hypertrophic cardiomyopathy
+angina	occurs in	ischemic cardiomyopathy
+myocardial fibrosis	results from	myocarditis
+ventricular remodeling	occurs in	cardiomyopathy
+cardiac arrest	may result from	cardiomyopathy
+shock	may result from	myocarditis
+sepsis	may complicate	endocarditis
+abscess	may form in	endocarditis
+pericardial calcification	occurs in	chronic pericarditis
+autoantibodies	are present in	autoimmune myocarditis
+viral PCR	detects	viral myocarditis
+steroids	treat	autoimmune myocarditis
+IVIG	treats	viral myocarditis
+mechanical support	bridges to transplant in	cardiomyopathy
+palliative care	manages	end-stage cardiomyopathy
+cardiac rehabilitation	improves outcomes in	cardiomyopathy
+salt restriction	manages	heart failure
+fluid restriction	manages	heart failure
+exercise limitation	is advised in	cardiomyopathy

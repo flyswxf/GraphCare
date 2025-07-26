@@ -1,0 +1,100 @@
+spinal cord injury	causes	paralysis
+spinal cord injury	affects	mobility
+spinal cord injury	requires	rehabilitation
+spinal cord injury	may cause	neuropathic pain
+spinal cord injury	associated with	autonomic dysreflexia
+spinal cord injury	leads to	muscle atrophy
+spinal cord injury	results in	sensory loss
+spinal cord injury	increases risk of	pressure ulcers
+spinal cord injury	linked to	bladder dysfunction
+spinal cord injury	connected to	bowel dysfunction
+spinal cord injury	may lead to	depression
+spinal cord injury	affects	respiratory function
+spinal cord injury	treated with	physical therapy
+spinal cord injury	managed with	occupational therapy
+spinal cord injury	requires	wheelchair
+spinal cord injury	may need	assistive devices
+spinal cord injury	related to	osteoporosis
+spinal cord injury	associated with	spasticity
+spinal cord injury	increases risk of	deep vein thrombosis
+spinal cord injury	may cause	heterotopic ossification
+spinal cord injury	linked to	sexual dysfunction
+spinal cord injury	affects	quality of life
+spinal cord injury	treated with	methylprednisolone
+spinal cord injury	assessed with	ASIA scale
+spinal cord injury	classified by	completeness
+spinal cord injury	categorized by	level
+spinal cord injury	may require	surgery
+spinal cord injury	involves	spinal stabilization
+spinal cord injury	related to	spinal shock
+spinal cord injury	affects	blood pressure
+spinal cord injury	increases risk of	pneumonia
+spinal cord injury	associated with	urinary tract infections
+spinal cord injury	may lead to	autonomic dysreflexia
+spinal cord injury	connected to	temperature regulation issues
+spinal cord injury	affects	cardiovascular function
+spinal cord injury	treated with	baclofen
+spinal cord injury	managed with	tizanidine
+spinal cord injury	requires	intermittent catheterization
+spinal cord injury	may need	bowel program
+spinal cord injury	related to	contractures
+spinal cord injury	associated with	pressure relief
+spinal cord injury	increases risk of	fractures
+spinal cord injury	may cause	pain syndromes
+spinal cord injury	linked to	sleep disorders
+spinal cord injury	affects	psychological wellbeing
+spinal cord injury	treated with	pregabalin
+spinal cord injury	assessed with	MRI
+spinal cord injury	diagnosed with	CT scan
+spinal cord injury	classified by	tetraplegia
+spinal cord injury	categorized by	paraplegia
+spinal cord injury	may require	ventilator
+spinal cord injury	involves	nerve damage
+spinal cord injury	related to	edema
+spinal cord injury	affects	motor function
+spinal cord injury	increases risk of	autonomic dysreflexia
+spinal cord injury	associated with	hypotension
+spinal cord injury	may lead to	orthostatic hypotension
+spinal cord injury	connected to	skin breakdown
+spinal cord injury	affects	daily living activities
+spinal cord injury	treated with	gabapentin
+spinal cord injury	managed with	diazepam
+spinal cord injury	requires	adaptive equipment
+spinal cord injury	may need	home modifications
+spinal cord injury	related to	muscle spasms
+spinal cord injury	associated with	joint stiffness
+spinal cord injury	increases risk of	depression
+spinal cord injury	may cause	anxiety
+spinal cord injury	linked to	social isolation
+spinal cord injury	affects	employment
+spinal cord injury	treated with	botulinum toxin
+spinal cord injury	assessed with	electromyography
+spinal cord injury	diagnosed with	neurological exam
+spinal cord injury	classified by	ASIA impairment scale
+spinal cord injury	categorized by	neurological level
+spinal cord injury	may require	tracheostomy
+spinal cord injury	involves	axon degeneration
+spinal cord injury	related to	demyelination
+spinal cord injury	affects	proprioception
+spinal cord injury	increases risk of	sepsis
+spinal cord injury	associated with	neurogenic shock
+spinal cord injury	may lead to	respiratory failure
+spinal cord injury	connected to	venous thromboembolism
+spinal cord injury	affects	body composition
+spinal cord injury	treated with	functional electrical stimulation
+spinal cord injury	managed with	standing frame
+spinal cord injury	requires	pressure mapping
+spinal cord injury	may need	powered wheelchair
+spinal cord injury	related to	bone density loss
+spinal cord injury	associated with	hypercalcemia
+spinal cord injury	increases risk of	kidney stones
+spinal cord injury	may cause	autonomic instability
+spinal cord injury	linked to	postural hypotension
+spinal cord injury	affects	sexual health
+spinal cord injury	treated with	anticholinergics
+spinal cord injury	assessed with	urodynamics
+spinal cord injury	diagnosed with	imaging studies
+spinal cord injury	classified by	injury mechanism
+spinal cord injury	categorized by	trauma severity
+spinal cord injury	may require	decompression surgery
+spinal cord injury	involves	axonal regeneration

@@ -1,0 +1,100 @@
+drugs for bile therapy	is a	medication
+lipotropics	is a	supplement
+bile therapy	treats	cholestasis
+lipotropics	supports	liver function
+drugs for bile therapy	contains	ursodeoxycholic acid
+lipotropics	contains	choline
+ursodeoxycholic acid	dissolves	gallstones
+choline	prevents	fatty liver
+drugs for bile therapy	reduces	bile viscosity
+lipotropics	enhances	fat metabolism
+ursodeoxycholic acid	improves	bile flow
+choline	is a	methyl donor
+bile therapy	alleviates	pruritus
+lipotropics	reduces	liver fat
+drug combination	increases	treatment efficacy
+ursodeoxycholic acid	binds	bile acids
+choline	synthesizes	phosphatidylcholine
+cholestasis	causes	jaundice
+fatty liver	leads to	cirrhosis
+drug combination	minimizes	side effects
+ursodeoxycholic acid	protects	liver cells
+choline	supports	brain function
+bile therapy	prevents	gallstone formation
+lipotropics	lowers	cholesterol
+drug combination	used for	primary biliary cholangitis
+ursodeoxycholic acid	modulates	immune response
+choline	deficiency causes	muscle damage
+primary biliary cholangitis	is a	autoimmune disease
+gallstones	block	bile duct
+drug combination	improves	digestion
+ursodeoxycholic acid	reduces	liver enzymes
+choline	aids in	neurotransmitter synthesis
+bile therapy	requires	long-term use
+lipotropics	prevents	liver fibrosis
+drug combination	contraindicated in	pregnancy
+ursodeoxycholic acid	interacts with	cyclosporine
+choline	found in	eggs
+autoimmune disease	affects	bile ducts
+liver fibrosis	progresses to	cirrhosis
+drug combination	monitored by	liver tests
+ursodeoxycholic acid	dosage depends on	body weight
+choline	recommended for	NAFLD
+bile therapy	improves	fat absorption
+lipotropics	reduces	inflammation
+NAFLD	associated with	obesity
+cyclosporine	is a	immunosuppressant
+drug combination	prescribed for	intrahepatic cholestasis
+ursodeoxycholic acid	stabilizes	cell membranes
+choline	essential for	fetal development
+intrahepatic cholestasis	occurs during	pregnancy
+immunosuppressant	increases	infection risk
+drug combination	avoids	alcohol
+ursodeoxycholic acid	metabolized in	liver
+choline	improves	memory
+bile therapy	enhances	drug absorption
+lipotropics	combats	oxidative stress
+oxidative stress	damages	liver cells
+drug combination	requires	dietary adjustments
+ursodeoxycholic acid	approved for	pediatric use
+choline	precursor to	acetylcholine
+pediatric use	follows	weight-based dosing
+acetylcholine	is a	neurotransmitter
+drug combination	tested in	clinical trials
+ursodeoxycholic acid	discovered in	bear bile
+choline	available as	supplement
+clinical trials	assess	safety
+bear bile	used in	traditional medicine
+drug combination	enhances	patient compliance
+ursodeoxycholic acid	synthetic version	available
+choline	included in	prenatal vitamins
+patient compliance	improves	outcomes
+synthetic drugs	reduce	animal use
+drug combination	targets	multiple pathways
+ursodeoxycholic acid	mechanism	hydrophilic bile acid
+choline	helps in	myelin formation
+multiple pathways	increase	therapeutic effect
+hydrophilic bile acid	prevents	cytotoxicity
+myelin formation	supports	nerve function
+drug combination	preferred for	chronic conditions
+ursodeoxycholic acid	lowers	bilirubin
+chronic conditions	require	sustained treatment
+bilirubin	causes	yellow skin
+drug combination	synergizes	components
+ursodeoxycholic acid	undergoes	enterohepatic circulation
+synergistic effect	boosts	therapy success
+enterohepatic circulation	recycles	bile acids
+drug combination	popular in	hepatology
+hepatology	specializes in	liver diseases
+recycled bile acids	conserve	body resources
+drug combination	reviewed in	meta-analyses
+meta-analyses	confirm	efficacy
+efficacy	measured by	symptom relief
+symptom relief	improves	quality of life
+drug combination	tailored to	patient needs
+patient needs	assessed by	physicians
+physicians	consider	comorbidities
+comorbidities	complicate	treatment
+tailored therapy	optimizes	results
+optimized results	reduce	hospitalizations
+hospitalizations	increase	healthcare costs

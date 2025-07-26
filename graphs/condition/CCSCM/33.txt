@@ -1,0 +1,100 @@
+cancer of kidney and renal pelvis	is a type of	kidney cancer
+cancer of kidney and renal pelvis	may cause	hematuria
+cancer of kidney and renal pelvis	may cause	flank pain
+cancer of kidney and renal pelvis	may cause	weight loss
+cancer of kidney and renal pelvis	is diagnosed via	CT scan
+cancer of kidney and renal pelvis	is diagnosed via	biopsy
+cancer of kidney and renal pelvis	is treated with	nephrectomy
+cancer of kidney and renal pelvis	is treated with	immunotherapy
+cancer of kidney and renal pelvis	is treated with	targeted therapy
+cancer of kidney and renal pelvis	is treated with	radiation therapy
+cancer of kidney and renal pelvis	has risk factor	smoking
+cancer of kidney and renal pelvis	has risk factor	hypertension
+cancer of kidney and renal pelvis	has risk factor	obesity
+cancer of kidney and renal pelvis	has risk factor	family history
+cancer of kidney and renal pelvis	may metastasize to	lungs
+cancer of kidney and renal pelvis	may metastasize to	bones
+cancer of kidney and renal pelvis	may metastasize to	liver
+cancer of kidney and renal pelvis	may metastasize to	brain
+cancer of kidney and renal pelvis	is staged via	TNM system
+cancer of kidney and renal pelvis	may lead to	renal failure
+cancer of kidney and renal pelvis	may lead to	anemia
+cancer of kidney and renal pelvis	may lead to	paraneoplastic syndrome
+nephrectomy	can be	partial nephrectomy
+nephrectomy	can be	radical nephrectomy
+immunotherapy	includes	nivolumab
+immunotherapy	includes	ipilimumab
+targeted therapy	includes	sunitinib
+targeted therapy	includes	pazopanib
+radiation therapy	may cause	fatigue
+radiation therapy	may cause	skin irritation
+CT scan	uses	contrast dye
+biopsy	may cause	bleeding
+smoking	increases risk of	lung cancer
+hypertension	is managed with	ACE inhibitors
+obesity	increases risk of	diabetes
+family history	may indicate	genetic predisposition
+hematuria	may require	urinalysis
+flank pain	may be treated with	analgesics
+weight loss	may indicate	malnutrition
+renal failure	may require	dialysis
+renal failure	may require	kidney transplant
+anemia	may be treated with	iron supplements
+anemia	may be treated with	erythropoietin
+paraneoplastic syndrome	may cause	hypercalcemia
+paraneoplastic syndrome	may cause	fever
+lungs	may develop	pulmonary nodules
+bones	may develop	osteolytic lesions
+liver	may develop	metastases
+brain	may develop	brain metastases
+TNM system	assesses	tumor size
+TNM system	assesses	lymph node involvement
+TNM system	assesses	distant metastasis
+partial nephrectomy	preserves	kidney function
+radical nephrectomy	removes	entire kidney
+nivolumab	is a	PD-1 inhibitor
+ipilimumab	is a	CTLA-4 inhibitor
+sunitinib	inhibits	VEGF receptor
+pazopanib	inhibits	tyrosine kinase
+fatigue	may be managed with	rest
+skin irritation	may be treated with	topical steroids
+contrast dye	may cause	allergic reaction
+bleeding	may require	hemostasis
+lung cancer	may be	non-small cell
+lung cancer	may be	small cell
+ACE inhibitors	may cause	cough
+diabetes	increases risk of	cardiovascular disease
+genetic predisposition	may involve	VHL gene
+urinalysis	detects	red blood cells
+analgesics	include	NSAIDs
+malnutrition	may require	nutritional support
+dialysis	can be	hemodialysis
+dialysis	can be	peritoneal dialysis
+kidney transplant	requires	immunosuppressants
+iron supplements	may cause	constipation
+erythropoietin	stimulates	red blood cell production
+hypercalcemia	may be treated with	bisphosphonates
+fever	may be treated with	antipyretics
+pulmonary nodules	may require	PET scan
+osteolytic lesions	may cause	fractures
+metastases	may be	solitary
+metastases	may be	multiple
+brain metastases	may cause	neurological symptoms
+tumor size	predicts	prognosis
+lymph node involvement	indicates	advanced stage
+distant metastasis	indicates	stage IV
+kidney function	is measured by	GFR
+PD-1 inhibitor	enhances	immune response
+CTLA-4 inhibitor	modulates	T cell activity
+VEGF receptor	promotes	angiogenesis
+tyrosine kinase	is involved in	cell signaling
+allergic reaction	may require	antihistamines
+hemostasis	may involve	coagulation factors
+non-small cell	includes	adenocarcinoma
+small cell	is aggressive
+cardiovascular disease	includes	myocardial infarction
+VHL gene	is associated with	hereditary RCC
+red blood cells	carry	oxygen
+NSAIDs	may cause	gastric irritation
+nutritional support	includes	protein supplements
+immunosuppressants	increase risk of	infections

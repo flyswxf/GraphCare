@@ -1,0 +1,105 @@
+menstrual disorders	is a category of	gynecological conditions
+menstrual disorders	includes	dysmenorrhea
+menstrual disorders	includes	amenorrhea
+menstrual disorders	includes	menorrhagia
+menstrual disorders	includes	oligomenorrhea
+menstrual disorders	may cause	infertility
+menstrual disorders	may cause	anemia
+menstrual disorders	may be caused by	hormonal imbalance
+menstrual disorders	may be caused by	polycystic ovary syndrome
+menstrual disorders	may be caused by	endometriosis
+menstrual disorders	may be caused by	thyroid dysfunction
+menstrual disorders	may be caused by	uterine fibroids
+menstrual disorders	is diagnosed by	pelvic exam
+menstrual disorders	is diagnosed by	blood tests
+menstrual disorders	is diagnosed by	ultrasound
+menstrual disorders	is treated with	hormonal therapy
+menstrual disorders	is treated with	NSAIDs
+menstrual disorders	is treated with	oral contraceptives
+menstrual disorders	is treated with	lifestyle changes
+menstrual disorders	is treated with	iron supplements
+dysmenorrhea	is characterized by	painful periods
+dysmenorrhea	may be caused by	prostaglandins
+amenorrhea	is characterized by	absent periods
+amenorrhea	may be caused by	extreme weight loss
+menorrhagia	is characterized by	heavy bleeding
+menorrhagia	may lead to	iron deficiency
+oligomenorrhea	is characterized by	infrequent periods
+oligomenorrhea	may be caused by	stress
+polycystic ovary syndrome	is a cause of	irregular periods
+polycystic ovary syndrome	is associated with	insulin resistance
+endometriosis	is a cause of	pelvic pain
+endometriosis	may lead to	adhesions
+uterine fibroids	are a cause of	menorrhagia
+uterine fibroids	may cause	pelvic pressure
+hormonal imbalance	may involve	estrogen
+hormonal imbalance	may involve	progesterone
+thyroid dysfunction	may cause	menstrual irregularities
+thyroid dysfunction	is diagnosed by	TSH test
+prostaglandins	are involved in	uterine contractions
+prostaglandins	may be inhibited by	NSAIDs
+oral contraceptives	regulate	menstrual cycle
+oral contraceptives	may cause	side effects
+NSAIDs	reduce	menstrual pain
+NSAIDs	inhibit	prostaglandin synthesis
+iron supplements	treat	anemia
+iron supplements	may cause	constipation
+pelvic exam	evaluates	reproductive organs
+blood tests	measure	hormone levels
+ultrasound	visualizes	uterine abnormalities
+lifestyle changes	include	stress management
+lifestyle changes	may improve	menstrual symptoms
+estrogen	regulates	endometrial growth
+progesterone	prepares	uterus for pregnancy
+TSH test	assesses	thyroid function
+insulin resistance	is linked to	obesity
+adhesions	may cause	chronic pain
+chronic pain	may require	pain management
+infertility	may result from	anovulation
+anovulation	is a cause of	amenorrhea
+heavy bleeding	may require	surgical intervention
+surgical intervention	may include	hysterectomy
+hysterectomy	is a treatment for	uterine fibroids
+hysterectomy	results in	permanent amenorrhea
+stress	affects	hypothalamus
+hypothalamus	regulates	menstrual cycle
+constipation	is a side effect of	iron therapy
+constipation	may be relieved by	fiber intake
+fiber intake	improves	digestive health
+digestive health	is linked to	gut microbiota
+gut microbiota	influences	immune system
+immune system	may be affected by	chronic inflammation
+chronic inflammation	is associated with	endometriosis
+obesity	exacerbates	polycystic ovary syndrome
+obesity	is managed by	diet and exercise
+diet and exercise	improve	insulin sensitivity
+insulin sensitivity	reduces	diabetes risk
+diabetes risk	is increased by	metabolic syndrome
+metabolic syndrome	includes	high blood pressure
+high blood pressure	may be caused by	hormonal changes
+hormonal changes	occur during	menopause
+menopause	marks	end of menstruation
+menopause	is associated with	hot flashes
+hot flashes	are treated with	hormone replacement therapy
+hormone replacement therapy	may increase	breast cancer risk
+breast cancer risk	is influenced by	estrogen exposure
+estrogen exposure	is higher in	early menarche
+early menarche	is a risk factor for	menstrual disorders
+uterine contractions	are necessary for	menstruation
+menstruation	is regulated by	pituitary gland
+pituitary gland	secretes	FSH
+FSH	stimulates	ovarian follicles
+ovarian follicles	produce	estrogen
+estrogen	peaks during	follicular phase
+follicular phase	precedes	ovulation
+ovulation	is triggered by	LH surge
+LH surge	is detected by	ovulation tests
+ovulation tests	predict	fertile window
+fertile window	is important for	conception
+conception	requires	sperm and egg
+sperm and egg	unite in	fertilization
+fertilization	results in	pregnancy
+pregnancy	prevents	menstruation
+menstruation	resumes after	postpartum period
+postpartum period	involves	hormonal adjustments
+hormonal adjustments	affect	mood

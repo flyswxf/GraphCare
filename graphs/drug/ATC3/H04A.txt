@@ -1,0 +1,100 @@
+glycogenolytic hormones	are	hormones
+glycogenolytic hormones	promote	glycogenolysis
+glycogenolysis	produces	glucose
+glucose	is	energy source
+glycogenolytic hormones	include	glucagon
+glycogenolytic hormones	include	epinephrine
+glycogenolytic hormones	include	cortisol
+glucagon	secreted by	pancreas
+epinephrine	secreted by	adrenal medulla
+cortisol	secreted by	adrenal cortex
+glycogenolytic hormones	antagonize	insulin
+insulin	promotes	glycogenesis
+glycogenolysis	occurs in	liver
+glycogenolysis	occurs in	muscle
+glucose	enters	bloodstream
+bloodstream	transports	glucose
+glycogenolytic hormones	increase	blood sugar
+high blood sugar	leads to	hyperglycemia
+hyperglycemia	symptom of	diabetes
+diabetes	treated with	insulin
+glycogenolytic hormones	activated during	stress
+stress	triggers	fight-or-flight response
+fight-or-flight response	involves	sympathetic nervous system
+sympathetic nervous system	stimulates	adrenal medulla
+adrenal medulla	releases	epinephrine
+epinephrine	increases	heart rate
+epinephrine	dilates	airways
+epinephrine	constricts	blood vessels
+glucagon	acts on	hepatocytes
+hepatocytes	store	glycogen
+glycogen	polymer of	glucose
+glucagon	binds to	glucagon receptors
+glucagon receptors	activate	adenylate cyclase
+adenylate cyclase	produces	cAMP
+cAMP	activates	protein kinase A
+protein kinase A	phosphorylates	glycogen phosphorylase
+glycogen phosphorylase	breaks down	glycogen
+glycogen phosphorylase	inhibited by	glucose
+cortisol	stimulates	gluconeogenesis
+gluconeogenesis	produces	glucose
+gluconeogenesis	occurs in	liver
+cortisol	suppresses	immune system
+cortisol	increases	blood pressure
+cortisol	reduces	inflammation
+glycogenolytic hormones	regulated by	hypothalamus
+hypothalamus	secretes	CRH
+CRH	stimulates	pituitary gland
+pituitary gland	secretes	ACTH
+ACTH	stimulates	adrenal cortex
+adrenal cortex	produces	cortisol
+glycogenolytic hormones	peak during	morning
+glycogenolytic hormones	decrease during	sleep
+sleep	regulated by	circadian rhythm
+circadian rhythm	controlled by	suprachiasmatic nucleus
+suprachiasmatic nucleus	located in	hypothalamus
+glycogenolytic hormones	affected by	fasting
+fasting	depletes	glycogen stores
+glycogen stores	replenished by	eating
+eating	stimulates	insulin secretion
+insulin secretion	inhibits	glycogenolysis
+glycogenolytic hormones	elevated in	hypoglycemia
+hypoglycemia	treated with	glucose tablets
+glucose tablets	absorbed in	small intestine
+small intestine	part of	digestive system
+digestive system	includes	pancreas
+pancreas	contains	alpha cells
+alpha cells	produce	glucagon
+pancreas	contains	beta cells
+beta cells	produce	insulin
+insulin	lowers	blood sugar
+glycogenolytic hormones	influenced by	exercise
+exercise	increases	energy demand
+energy demand	met by	glucose
+glucose	oxidized in	mitochondria
+mitochondria	produce	ATP
+ATP	powers	cellular processes
+glycogenolytic hormones	interact with	adrenaline
+adrenaline	synonym for	epinephrine
+epinephrine	stimulates	lipolysis
+lipolysis	releases	fatty acids
+fatty acids	used for	energy
+fatty acids	oxidized in	mitochondria
+glycogenolytic hormones	suppressed by	somatostatin
+somatostatin	secreted by	delta cells
+delta cells	located in	pancreas
+somatostatin	inhibits	glucagon
+somatostatin	inhibits	insulin
+glycogenolytic hormones	involved in	stress response
+stress response	mediated by	HPA axis
+HPA axis	includes	hypothalamus
+HPA axis	includes	pituitary gland
+HPA axis	includes	adrenal glands
+adrenal glands	divided into	adrenal cortex
+adrenal glands	divided into	adrenal medulla
+glycogenolytic hormones	measured in	blood tests
+blood tests	require	blood samples
+blood samples	analyzed in	laboratory
+laboratory	performs	hormone assays
+hormone assays	detect	cortisol
+hormone assays	detect	glucagon

@@ -1,0 +1,100 @@
+tracheostomy	is a	surgical procedure
+tracheostomy	creates	airway
+tracheostomy	bypasses	upper airway
+temporary tracheostomy	is a type of	tracheostomy
+permanent tracheostomy	is a type of	tracheostomy
+tracheostomy	treats	airway obstruction
+tracheostomy	manages	respiratory failure
+tracheostomy	requires	tracheostomy tube
+tracheostomy tube	prevents	tube displacement
+tracheostomy	has risk	bleeding
+tracheostomy	has risk	infection
+tracheostomy	has risk	pneumothorax
+tracheostomy	requires	stoma care
+tracheostomy	enables	mechanical ventilation
+tracheostomy	facilitates	secretion clearance
+temporary tracheostomy	used for	short-term ventilation
+permanent tracheostomy	used for	long-term ventilation
+tracheostomy	indicated for	laryngeal cancer
+tracheostomy	indicated for	facial trauma
+tracheostomy	indicated for	neurological impairment
+tracheostomy tube	has part	inner cannula
+tracheostomy tube	has part	outer cannula
+tracheostomy tube	has part	flange
+tracheostomy	requires	humidification
+tracheostomy	increases risk	aspiration
+tracheostomy	changes	speech mechanism
+tracheostomy	requires	speaking valve
+speaking valve	restores	phonation
+tracheostomy	alters	swallowing
+tracheostomy	necessitates	swallowing therapy
+tracheostomy	associated with	tracheal stenosis
+tracheostomy	associated with	tracheomalacia
+tracheostomy	may lead to	tracheoesophageal fistula
+tracheostomy	requires	regular suctioning
+suctioning	prevents	mucus plugging
+tracheostomy	increases	nursing care needs
+tracheostomy	affects	quality of life
+tracheostomy	requires	caregiver training
+tracheostomy	contraindicated in	bleeding disorders
+temporary tracheostomy	often followed by	decannulation
+decannulation	requires	airway assessment
+permanent tracheostomy	indicates	irreversible condition
+tracheostomy	performed by	otolaryngologist
+tracheostomy	performed by	general surgeon
+tracheostomy	performed in	operating room
+tracheostomy	can be	bedside procedure
+percutaneous tracheostomy	is a method of	tracheostomy
+surgical tracheostomy	is a method of	tracheostomy
+tracheostomy	preceded by	intubation
+tracheostomy	alternative to	prolonged intubation
+tracheostomy	reduces	laryngeal injury
+tracheostomy	allows	oral intake
+tracheostomy	requires	emergency equipment
+tracheostomy	necessitates	emergency plan
+tracheostomy	increases	hospital stay
+tracheostomy	associated with	psychological distress
+tracheostomy	requires	multidisciplinary team
+tracheostomy	followed by	rehabilitation
+tracheostomy	linked to	sleep disturbances
+tracheostomy	affects	body image
+tracheostomy	requires	wound care
+tracheostomy stoma	prone to	granulation tissue
+granulation tissue	may require	silver nitrate
+tracheostomy	monitored with	capnography
+tracheostomy	assessed with	bronchoscopy
+tracheostomy	may develop	tube obstruction
+tracheostomy	requires	emergency tracheostomy kit
+tracheostomy	contraindicated in	cervical spine injury
+tracheostomy	preferred over	cricothyrotomy
+tracheostomy	allows	early mobilization
+tracheostomy	facilitates	weaning
+tracheostomy	reduces	dead space
+tracheostomy	decreases	airway resistance
+tracheostomy	enables	pulmonary toileting
+tracheostomy	associated with	ventilator-associated pneumonia
+tracheostomy	requires	infection prevention
+tracheostomy	needs	regular tube changes
+tracheostomy	may cause	tracheal erosion
+tracheostomy	complicates	MRI safety
+tracheostomy	alters	cough effectiveness
+tracheostomy	requires	cuff management
+tracheostomy	monitored with	pulse oximetry
+tracheostomy	associated with	subcutaneous emphysema
+tracheostomy	may lead to	tracheoinnominate fistula
+tracheostomy	contraindicated in	severe coagulopathy
+tracheostomy	preferred for	chronic ventilation
+tracheostomy	enables	speech therapy
+tracheostomy	requires	nutrition consultation
+tracheostomy	increases	healthcare costs
+tracheostomy	associated with	accidental decannulation
+tracheostomy	requires	securement device
+tracheostomy	followed by	home care planning
+tracheostomy	necessitates	emergency alert system
+tracheostomy	contraindicated in	pediatric patients
+tracheostomy	requires	skin protection
+tracheostomy	may need	tube downsizing
+tracheostomy	associated with	caregiver burden
+tracheostomy	improves	patient comfort
+tracheostomy	enables	oral hygiene
+tracheostomy	requires	long-term follow-up

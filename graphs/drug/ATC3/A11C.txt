@@ -1,0 +1,120 @@
+Vitamin A	is a	fat-soluble vitamin
+Vitamin D	is a	fat-soluble vitamin
+Vitamin A	helps with	vision
+Vitamin D	helps with	calcium absorption
+Vitamin A	deficiency causes	night blindness
+Vitamin D	deficiency causes	rickets
+Vitamin A	found in	liver
+Vitamin D	synthesized by	sunlight
+Vitamin A and D	combined in	supplements
+Vitamin A	important for	immune function
+Vitamin D	important for	bone health
+Vitamin A	excess causes	toxicity
+Vitamin D	excess causes	hypercalcemia
+Vitamin A	precursor of	retinol
+Vitamin D	precursor of	calcitriol
+Vitamin A	used for	skin health
+Vitamin D	used for	osteoporosis prevention
+Vitamin A	interacts with	retinoid medications
+Vitamin D	interacts with	calcium supplements
+Vitamin A	stored in	liver
+Vitamin D	stored in	fat tissues
+Vitamin A	needed for	cell growth
+Vitamin D	needed for	muscle function
+Vitamin A	supports	reproductive health
+Vitamin D	supports	cardiovascular health
+Vitamin A and D	included in	multivitamins
+Vitamin A	measured in	IU
+Vitamin D	measured in	IU
+Vitamin A	recommended for	pregnant women
+Vitamin D	recommended for	elderly
+Vitamin A	regulates	gene expression
+Vitamin D	regulates	phosphorus levels
+Vitamin A	linked to	acne treatment
+Vitamin D	linked to	depression prevention
+Vitamin A	contraindicated in	high doses
+Vitamin D	contraindicated in	kidney disease
+Vitamin A	affects	mucous membranes
+Vitamin D	affects	parathyroid hormone
+Vitamin A	component of	rhodopsin
+Vitamin D	component of	hormone synthesis
+Vitamin A	prevents	xerophthalmia
+Vitamin D	prevents	osteomalacia
+Vitamin A	metabolized in	liver
+Vitamin D	metabolized in	kidneys
+Vitamin A	enhances	iron utilization
+Vitamin D	enhances	magnesium absorption
+Vitamin A	interacts with	zinc
+Vitamin D	interacts with	magnesium
+Vitamin A	found in	dairy products
+Vitamin D	found in	fatty fish
+Vitamin A	added to	fortified foods
+Vitamin D	added to	fortified milk
+Vitamin A	used in	wound healing
+Vitamin D	used in	autoimmune support
+Vitamin A	precursor for	beta-carotene
+Vitamin D	precursor for	ergocalciferol
+Vitamin A	associated with	antioxidant properties
+Vitamin D	associated with	anti-inflammatory effects
+Vitamin A	inhibits	keratinization
+Vitamin D	inhibits	parathyroid overactivity
+Vitamin A	recommended intake	varies by age
+Vitamin D	recommended intake	varies by latitude
+Vitamin A	toxicity symptoms	include headache
+Vitamin D	toxicity symptoms	include nausea
+Vitamin A	absorbed with	dietary fats
+Vitamin D	absorbed with	dietary fats
+Vitamin A	critical for	fetal development
+Vitamin D	critical for	neuromuscular function
+Vitamin A	reduces	infection risk
+Vitamin D	reduces	fracture risk
+Vitamin A	cofactor for	enzyme reactions
+Vitamin D	cofactor for	calcium transport
+Vitamin A	measured via	serum retinol
+Vitamin D	measured via	25-hydroxyvitamin D
+Vitamin A	involved in	cell differentiation
+Vitamin D	involved in	immune modulation
+Vitamin A	prescription form	isotretinoin
+Vitamin D	prescription form	calcitriol
+Vitamin A	interacts with	warfarin
+Vitamin D	interacts with	statins
+Vitamin A	deficiency common in	malnourished populations
+Vitamin D	deficiency common in	dark-skinned individuals
+Vitamin A	supplement form	retinyl palmitate
+Vitamin D	supplement form	cholecalciferol
+Vitamin A	research focus	cancer prevention
+Vitamin D	research focus	diabetes prevention
+Vitamin A	synthetic analog	tretinoin
+Vitamin D	synthetic analog	paricalcitol
+Vitamin A	role in	mucus production
+Vitamin D	role in	insulin secretion
+Vitamin A	therapeutic use	measles treatment
+Vitamin D	therapeutic use	psoriasis treatment
+Vitamin A	overdose risk	teratogenicity
+Vitamin D	overdose risk	kidney stones
+Vitamin A	enzyme cofactor	desaturases
+Vitamin D	enzyme cofactor	hydroxylases
+Vitamin A	biomarker	retinol-binding protein
+Vitamin D	biomarker	calcifediol
+Vitamin A	clinical sign	Bitot's spots
+Vitamin D	clinical sign	bone pain
+Vitamin A	transport protein	transthyretin
+Vitamin D	transport protein	vitamin D-binding protein
+Vitamin A	storage form	retinyl esters
+Vitamin D	storage form	calcidiol
+Vitamin A	degradation product	retinoic acid
+Vitamin D	degradation product	inactive metabolites
+Vitamin A	genetic regulation	RAR receptors
+Vitamin D	genetic regulation	VDR receptors
+Vitamin A	dietary source	sweet potatoes
+Vitamin D	dietary source	egg yolks
+Vitamin A	topical use	anti-aging creams
+Vitamin D	topical use	eczema treatment
+Vitamin A	synergizes with	vitamin E
+Vitamin D	synergizes with	vitamin K
+Vitamin A	antagonized by	alcohol
+Vitamin D	antagonized by	obesity
+Vitamin A	excretion route	feces
+Vitamin D	excretion route	bile
+Vitamin A	research area	stem cell differentiation
+Vitamin D	research area	gut microbiome

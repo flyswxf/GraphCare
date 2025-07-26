@@ -1,0 +1,100 @@
+oophorectomy	is a	surgical procedure
+oophorectomy	removes	ovary
+unilateral oophorectomy	removes	one ovary
+bilateral oophorectomy	removes	both ovaries
+oophorectomy	treats	ovarian cancer
+oophorectomy	prevents	ovarian cancer
+oophorectomy	treats	ovarian cyst
+oophorectomy	treats	endometriosis
+oophorectomy	reduces risk	breast cancer
+oophorectomy	causes	surgical menopause
+oophorectomy	requires	general anesthesia
+oophorectomy	performed by	gynecologist
+oophorectomy	involves	abdominal incision
+oophorectomy	alternative to	hysterectomy
+oophorectomy	increases risk	osteoporosis
+oophorectomy	affects	hormone levels
+oophorectomy	decreases	estrogen
+oophorectomy	decreases	progesterone
+oophorectomy	increases risk	cardiovascular disease
+oophorectomy	affects	bone density
+oophorectomy	may cause	hot flashes
+oophorectomy	may cause	vaginal dryness
+oophorectomy	may require	hormone therapy
+oophorectomy	associated with	mood changes
+oophorectomy	affects	fertility
+oophorectomy	permanent	sterility
+oophorectomy	performed via	laparoscopy
+oophorectomy	performed via	laparotomy
+oophorectomy	has complication	infection
+oophorectomy	has complication	bleeding
+oophorectomy	has complication	pain
+oophorectomy	requires	postoperative care
+oophorectomy	followed by	pathology examination
+oophorectomy	indicated for	BRCA mutation
+oophorectomy	reduces risk	fallopian tube cancer
+oophorectomy	affects	sexual function
+oophorectomy	may require	psychological support
+oophorectomy	alternative to	chemotherapy
+oophorectomy	alternative to	radiation therapy
+oophorectomy	may precede	hysterectomy
+oophorectomy	may follow	hysterectomy
+oophorectomy	contraindicated in	pregnancy
+oophorectomy	requires	preoperative testing
+oophorectomy	involves	fallopian tube removal
+oophorectomy	affects	adrenal gland function
+oophorectomy	increases risk	dementia
+oophorectomy	decreases risk	ovarian torsion
+oophorectomy	decreases risk	ectopic pregnancy
+oophorectomy	affects	body weight
+oophorectomy	affects	lipid profile
+oophorectomy	affects	insulin sensitivity
+oophorectomy	increases risk	metabolic syndrome
+oophorectomy	affects	thyroid function
+oophorectomy	may cause	fatigue
+oophorectomy	may cause	sleep disturbances
+oophorectomy	may cause	memory problems
+oophorectomy	may require	calcium supplements
+oophorectomy	may require	vitamin D supplements
+oophorectomy	affects	urinary system
+oophorectomy	increases risk	urinary incontinence
+oophorectomy	affects	collagen production
+oophorectomy	affects	skin elasticity
+oophorectomy	affects	hair growth
+oophorectomy	may cause	joint pain
+oophorectomy	may cause	muscle aches
+oophorectomy	affects	libido
+oophorectomy	may require	lubricants
+oophorectomy	affects	vaginal pH
+oophorectomy	increases risk	vaginal atrophy
+oophorectomy	affects	microbiome
+oophorectomy	may require	antidepressants
+oophorectomy	affects	serotonin levels
+oophorectomy	affects	dopamine levels
+oophorectomy	affects	cortisol levels
+oophorectomy	affects	blood pressure
+oophorectomy	affects	heart rate
+oophorectomy	increases risk	atrial fibrillation
+oophorectomy	affects	inflammatory markers
+oophorectomy	affects	immune function
+oophorectomy	increases risk	autoimmune diseases
+oophorectomy	affects	wound healing
+oophorectomy	may require	physical therapy
+oophorectomy	affects	balance
+oophorectomy	affects	coordination
+oophorectomy	affects	cognitive function
+oophorectomy	affects	decision making
+oophorectomy	affects	risk assessment
+oophorectomy	affects	pain perception
+oophorectomy	affects	stress response
+oophorectomy	affects	circadian rhythm
+oophorectomy	affects	body temperature regulation
+oophorectomy	affects	sweat production
+oophorectomy	affects	sebum production
+oophorectomy	affects	nail growth
+oophorectomy	affects	wound healing
+oophorectomy	affects	scar formation
+oophorectomy	affects	postoperative recovery
+oophorectomy	affects	quality of life
+oophorectomy	affects	life expectancy
+oophorectomy	requires	long-term monitoring

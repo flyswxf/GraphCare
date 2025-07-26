@@ -1,0 +1,100 @@
+inflammation of eye	is a	ocular condition
+infection of eye	is a	microbial invasion
+inflammation of eye	may cause	redness
+infection of eye	may cause	pus discharge
+inflammation of eye	affects	conjunctiva
+infection of eye	involves	pathogens
+eye	has part	cornea
+eye	contains	aqueous humor
+eyelid	protects	eye
+lacrimal gland	produces	tears
+bacteria	cause	bacterial conjunctivitis
+viruses	cause	viral keratitis
+fungi	cause	fungal endophthalmitis
+acanthamoeba	causes	amoebic keratitis
+chlamydia trachomatis	causes	trachoma
+inflammation of eye	presents with	photophobia
+infection of eye	presents with	eyelid swelling
+corneal inflammation	causes	blurred vision
+uveitis	causes	eye pain
+endophthalmitis	leads to	vision loss
+slit lamp exam	diagnoses	corneal inflammation
+culture test	identifies	bacterial infection
+PCR testing	detects	viral pathogens
+fluorescein staining	evaluates	corneal damage
+ocular ultrasound	assesses	intraocular inflammation
+antibiotic eye drops	treat	bacterial infection
+antiviral medications	treat	herpes keratitis
+corticosteroids	reduce	inflammation
+artificial tears	relieve	dry eye
+cycloplegic drops	manage	uveitis pain
+corneal transplant	treats	severe keratitis
+vitrectomy	addresses	endophthalmitis
+punctal plugs	improve	dry eye
+chalazion drainage	resolves	meibomian gland infection
+enucleation	performed for	untreatable infections
+corneal ulcer	may lead	corneal perforation
+chronic conjunctivitis	progresses to	symblepharon
+ocular toxoplasmosis	causes	retinal scarring
+keratitis	results in	corneal opacity
+orbital cellulitis	spreads to	brain
+contact lens hygiene	prevents	microbial keratitis
+neonatal eye drops	prevent	gonococcal conjunctivitis
+face shields	protect	chemical exposure
+uv-protective glasses	reduce	photokeratitis
+regular handwashing	decreases	infection risk
+diabetes mellitus	increases risk	ocular infection
+HIV infection	predisposes to	CMV retinitis
+rheumatoid arthritis	associates with	scleritis
+hypertension	exacerbates	retinal vasculitis
+sarcoidosis	manifests as	uveitis
+contact lens wearers	have higher risk	acanthamoeba infection
+newborns	are susceptible	ophthalmia neonatorum
+healthcare workers	encounter more	adenoviral conjunctivitis
+tropical regions	have more	fungal keratitis
+elderly population	develops more	blepharitis
+topical steroids	may cause	glaucoma
+aminoglycosides	can induce	corneal toxicity
+antihistamines	contribute to	dry eye
+chemotherapy	leads to	conjunctival chemosis
+isotretinoin	increases risk	blepharoconjunctivitis
+neonates	require	erythromycin prophylaxis
+pregnant women	avoid	fluoroquinolone eye drops
+immunocompromised patients	need	systemic antivirals
+elderly	experience more	preseptal cellulitis
+contact lens users	should avoid	tap water exposure
+inflammatory cytokines	mediate	tissue damage
+neutrophils	infiltrate	infected cornea
+blood-ocular barrier	protects	inner eye
+complement system	activates in	microbial invasion
+mast cells	release	histamine
+elevated white blood cells	indicate	infection
+increased protein levels	suggest	inflammation
+positive gram stain	confirms	bacterial etiology
+raised intraocular pressure	accompanies	uveitis
+corneal infiltrates	characterize	microbial keratitis
+bandage contact lens	protects	corneal epithelium
+cool compresses	alleviate	eyelid inflammation
+humidifiers	improve	ocular surface dryness
+eye patches	restrict	microbial spread
+therapeutic scleral lenses	manage	severe dry eye
+visual acuity testing	tracks	treatment response
+intraocular pressure checks	monitor	steroid response
+corneal topography	evaluates	healing progress
+anterior chamber flare	indicates	ongoing inflammation
+conjunctival swabs	confirm	eradication
+hand hygiene	reduces	adenovirus transmission
+school closures	contain	conjunctivitis outbreaks
+contact lens solutions	must be	sterile
+ocular prosthetics	require	proper cleaning
+swimming pools	can harbor	pathogens
+confocal microscopy	visualizes	acanthamoeba cysts
+nanoparticle carriers	enhance	drug delivery
+gene therapy	targets	inherited eye disorders
+telemedicine	facilitates	remote diagnosis
+artificial intelligence	assists	fundus imaging
+low socioeconomic status	correlates with	trachoma prevalence
+occupational hazards	increase	chemical eye injuries
+health insurance coverage	affects	treatment adherence
+seasonal variations	influence	allergic conjunctivitis
+global travel	spreads	resistant strains

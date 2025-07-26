@@ -1,0 +1,100 @@
+endarterectomy	is a	surgical procedure
+endarterectomy	performed on	arteries
+carotid endarterectomy	is a type of	endarterectomy
+carotid endarterectomy	treats	carotid stenosis
+carotid endarterectomy	prevents	stroke
+carotid endarterectomy	removes	plaque
+carotid artery	is a	vessel of head and neck
+carotid artery	supplies blood to	brain
+carotid artery stenosis	causes	reduced blood flow
+carotid artery stenosis	increases risk of	transient ischemic attack
+endarterectomy	requires	anesthesia
+endarterectomy	has risk of	bleeding
+endarterectomy	has risk of	infection
+endarterectomy	has risk of	nerve injury
+endarterectomy	requires	preoperative imaging
+Doppler ultrasound	evaluates	carotid stenosis
+CT angiography	evaluates	carotid stenosis
+MR angiography	evaluates	carotid stenosis
+endarterectomy	alternative to	stenting
+carotid stenting	is less invasive than	endarterectomy
+endarterectomy	has better long-term results than	stenting
+endarterectomy	requires	hospital stay
+endarterectomy	requires	postoperative monitoring
+endarterectomy	followed by	antiplatelet therapy
+aspirin	is a	antiplatelet drug
+clopidogrel	is a	antiplatelet drug
+endarterectomy	reduces risk of	ischemic stroke
+stroke	is a	neurological emergency
+stroke	causes	disability
+stroke	requires	rehabilitation
+endarterectomy	contraindicated in	complete carotid occlusion
+endarterectomy	contraindicated in	unstable angina
+endarterectomy	contraindicated in	recent myocardial infarction
+endarterectomy	improves	cerebral perfusion
+cerebral perfusion	affects	cognitive function
+carotid artery	divides into	internal carotid artery
+carotid artery	divides into	external carotid artery
+internal carotid artery	supplies	anterior brain
+external carotid artery	supplies	face and scalp
+endarterectomy	most commonly performed on	internal carotid artery
+endarterectomy	uses	vascular clamp
+endarterectomy	may use	shunt
+shunt	maintains	cerebral blood flow
+endarterectomy	involves	arteriotomy
+arteriotomy	is	artery incision
+endarterectomy	closes with	sutures
+endarterectomy	sometimes uses	patch angioplasty
+patch angioplasty	reduces	restenosis
+restenosis	is	recurrent narrowing
+endarterectomy	has	success rate
+success rate	depends on	surgeon experience
+surgeon experience	affects	complication rate
+complication rate	influences	patient outcomes
+patient outcomes	measured by	stroke prevention
+stroke prevention	improves	quality of life
+quality of life	depends on	neurological function
+neurological function	assessed by	NIH stroke scale
+NIH stroke scale	measures	stroke severity
+endarterectomy	benefits outweigh risks in	symptomatic patients
+symptomatic patients	have	transient ischemic attacks
+transient ischemic attacks	are	warning signs
+endarterectomy	may benefit	selected asymptomatic patients
+asymptomatic patients	have	carotid bruits
+carotid bruits	indicate	turbulent flow
+turbulent flow	suggests	stenosis
+endarterectomy	requires	informed consent
+informed consent	explains	procedure risks
+procedure risks	include	cranial nerve injury
+cranial nerve injury	causes	hoarseness
+cranial nerve injury	causes	swallowing difficulty
+endarterectomy	followed by	blood pressure control
+blood pressure control	prevents	hyperperfusion syndrome
+hyperperfusion syndrome	causes	cerebral edema
+cerebral edema	increases	intracranial pressure
+intracranial pressure	affects	brain function
+endarterectomy	monitored with	neurological checks
+neurological checks	detect	stroke symptoms
+stroke symptoms	include	weakness
+stroke symptoms	include	speech difficulty
+endarterectomy	contraindicated in	dementia
+dementia	affects	decision-making capacity
+endarterectomy	requires	vascular surgeon
+vascular surgeon	specializes in	artery procedures
+endarterectomy	sometimes performed with	cardiac surgery
+cardiac surgery	includes	coronary artery bypass
+coronary artery bypass	treats	coronary artery disease
+coronary artery disease	is	atherosclerosis
+atherosclerosis	affects	multiple arteries
+endarterectomy	has	recovery period
+recovery period	involves	activity limitations
+activity limitations	prevent	wound complications
+wound complications	include	hematoma
+hematoma	may require	reoperation
+endarterectomy	indications based on	stenosis percentage
+stenosis percentage	measured by	imaging studies
+imaging studies	guide	treatment decisions
+treatment decisions	consider	patient comorbidities
+patient comorbidities	affect	surgical risk
+surgical risk	influences	procedure choice
+procedure choice	determines	health outcomes

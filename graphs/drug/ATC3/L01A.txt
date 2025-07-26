@@ -1,0 +1,100 @@
+alkylating agents	are	chemotherapy drugs
+alkylating agents	work by	DNA damage
+DNA damage	leads to	cancer cell death
+alkylating agents	treat	leukemia
+alkylating agents	treat	lymphoma
+alkylating agents	treat	solid tumors
+alkylating agents	include	cyclophosphamide
+alkylating agents	include	cisplatin
+alkylating agents	include	carmustine
+alkylating agents	include	chlorambucil
+alkylating agents	mechanism	DNA alkylation
+DNA alkylation	causes	crosslinking
+crosslinking	inhibits	DNA replication
+alkylating agents	have	side effects
+side effects	include	myelosuppression
+side effects	include	nausea
+side effects	include	hair loss
+side effects	include	infertility
+alkylating agents	risk	secondary cancers
+secondary cancers	may be	leukemia
+alkylating agents	metabolized by	liver
+liver	may have	toxicity
+alkylating agents	excreted by	kidneys
+kidneys	may have	toxicity
+alkylating agents	interact with	radiation therapy
+alkylating agents	interact with	other chemotherapy
+alkylating agents	contraindicated in	pregnancy
+alkylating agents	require	dose adjustment
+dose adjustment	based on	renal function
+dose adjustment	based on	liver function
+alkylating agents	administered via	IV infusion
+alkylating agents	administered via	oral route
+alkylating agents	half-life	varies
+half-life	depends on	drug type
+alkylating agents	classified as	cytotoxic
+cytotoxic drugs	target	rapidly dividing cells
+alkylating agents	resistance	can develop
+resistance	caused by	DNA repair
+DNA repair	involves	enzymes
+alkylating agents	research	ongoing
+research	focuses on	new derivatives
+new derivatives	aim to	reduce toxicity
+alkylating agents	discovered in	1940s
+alkylating agents	pioneered by	Goodman and Gilman
+Goodman and Gilman	wrote	pharmacology textbook
+alkylating agents	used in	stem cell transplant
+stem cell transplant	requires	conditioning regimen
+alkylating agents	combined with	immunotherapy
+immunotherapy	enhances	cancer response
+alkylating agents	affect	bone marrow
+bone marrow	produces	blood cells
+blood cells	include	white blood cells
+white blood cells	fight	infection
+alkylating agents	reduce	white blood cells
+alkylating agents	cause	thrombocytopenia
+thrombocytopenia	leads to	bleeding risk
+alkylating agents	require	blood monitoring
+blood monitoring	checks	cell counts
+alkylating agents	can cause	anemia
+anemia	results in	fatigue
+alkylating agents	have	neurotoxicity
+neurotoxicity	affects	peripheral nerves
+alkylating agents	vary in	lipid solubility
+lipid solubility	affects	CNS penetration
+alkylating agents	used for	brain tumors
+brain tumors	may require	blood-brain barrier crossing
+alkylating agents	have	vesicant properties
+vesicant properties	risk	tissue damage
+alkylating agents	require	careful administration
+careful administration	prevents	extravasation
+alkylating agents	differ in	chemical structure
+chemical structure	determines	reactivity
+alkylating agents	may be	bifunctional
+bifunctional agents	create	DNA crosslinks
+alkylating agents	may be	monofunctional
+monofunctional agents	modify	DNA bases
+alkylating agents	may form	DNA adducts
+DNA adducts	block	transcription
+alkylating agents	can be	cell cycle non-specific
+cell cycle non-specific drugs	act on	all phases
+alkylating agents	compared to	antimetabolites
+antimetabolites	interfere with	DNA synthesis
+alkylating agents	alternative to	targeted therapy
+targeted therapy	focuses on	specific mutations
+alkylating agents	used in	palliative care
+palliative care	aims to	relieve symptoms
+alkylating agents	cost	varies
+cost	depends on	brand/generic
+alkylating agents	patented in	mid-20th century
+alkylating agents	now have	generics
+generics	reduce	treatment cost
+alkylating agents	studied in	clinical trials
+clinical trials	evaluate	efficacy
+clinical trials	assess	safety
+alkylating agents	guidelines	exist
+guidelines	recommend	specific regimens
+alkylating agents	may need	premedication
+premedication	prevents	allergic reactions
+alkylating agents	storage	requires stability
+stability	affected by	temperature

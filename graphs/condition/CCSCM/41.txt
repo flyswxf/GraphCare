@@ -1,0 +1,100 @@
+cancer	is a	disease
+cancer	involves	abnormal cells
+cancer	may cause	tumor
+cancer	can spread	metastasis
+cancer	is diagnosed with	biopsy
+cancer	is treated with	chemotherapy
+cancer	is treated with	radiation therapy
+cancer	is treated with	surgery
+cancer	may require	immunotherapy
+cancer	has risk factor	smoking
+cancer	has risk factor	genetics
+cancer	has risk factor	age
+cancer	may cause	pain
+cancer	may lead to	weight loss
+cancer	may cause	fatigue
+cancer	is classified by	stage
+cancer	is classified by	grade
+cancer	is monitored with	imaging
+cancer	may recur	recurrence
+cancer	may lead to	death
+cancer	is researched in	oncology
+cancer	has subtypes	carcinoma
+cancer	has subtypes	sarcoma
+cancer	has subtypes	leukemia
+cancer	has subtypes	lymphoma
+cancer	may affect	organs
+cancer	may affect	tissues
+cancer	may cause	anemia
+cancer	may cause	infection
+cancer	is associated with	inflammation
+cancer	may require	palliative care
+cancer	may require	hospice care
+cancer	is studied with	clinical trials
+cancer	may involve	mutations
+cancer	may involve	oncogenes
+cancer	may involve	tumor suppressor genes
+cancer	can be	hereditary
+cancer	can be	sporadic
+cancer	may respond to	targeted therapy
+cancer	may be detected by	screening
+cancer	may be detected by	blood test
+cancer	may elevate	tumor markers
+cancer	may cause	nausea
+cancer	may cause	vomiting
+cancer	may cause	loss of appetite
+cancer	may cause	cachexia
+cancer	may cause	depression
+cancer	may cause	anxiety
+cancer	may require	pain management
+cancer	may require	nutritional support
+chemotherapy	uses	cytotoxic drugs
+chemotherapy	may cause	side effects
+chemotherapy	may cause	hair loss
+chemotherapy	may cause	neutropenia
+chemotherapy	may require	growth factors
+radiation therapy	uses	ionizing radiation
+radiation therapy	may cause	skin changes
+radiation therapy	may cause	fatigue
+surgery	can be	curative
+surgery	can be	palliative
+surgery	may involve	lymph nodes
+immunotherapy	enhances	immune response
+immunotherapy	includes	checkpoint inhibitors
+targeted therapy	blocks	molecular targets
+targeted therapy	includes	tyrosine kinase inhibitors
+tumor	can be	benign
+tumor	can be	malignant
+metastasis	involves	distant organs
+metastasis	is a sign of	advanced cancer
+biopsy	provides	tissue sample
+biopsy	is analyzed by	pathologist
+imaging	includes	CT scan
+imaging	includes	MRI
+imaging	includes	PET scan
+oncology	is a branch of	medicine
+oncology	is practiced by	oncologist
+clinical trials	test	new treatments
+clinical trials	have phases
+palliative care	improves	quality of life
+hospice care	provides	end-of-life care
+smoking	increases risk of	lung cancer
+genetics	can influence	cancer risk
+age	is a factor in	cancer incidence
+pain	is managed with	opioids
+fatigue	may require	rest
+anemia	may require	transfusion
+infection	may require	antibiotics
+inflammation	is linked to	cancer progression
+mutations	can drive	cancer growth
+oncogenes	promote	cell proliferation
+tumor suppressor genes	prevent	cancer
+targeted therapy	is guided by	genetic testing
+screening	can detect	early cancer
+blood test	may measure	CEA
+tumor markers	include	PSA
+nausea	is treated with	antiemetics
+depression	may require	antidepressants
+anxiety	may require	anxiolytics
+nutritional support	includes	dietary counseling
+growth factors	stimulate	blood cell production

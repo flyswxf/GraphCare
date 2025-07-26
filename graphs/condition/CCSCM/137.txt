@@ -1,0 +1,100 @@
+diseases of mouth	include	oral ulcers
+diseases of mouth	include	oral candidiasis
+diseases of mouth	include	leukoplakia
+diseases of mouth	include	oral lichen planus
+diseases of mouth	include	glossitis
+diseases of mouth	include	xerostomia
+diseases of mouth	include	angular cheilitis
+oral ulcers	may cause	pain
+oral candidiasis	is caused by	Candida albicans
+leukoplakia	may progress to	oral cancer
+oral lichen planus	is an	autoimmune condition
+glossitis	may result from	vitamin deficiency
+xerostomia	is caused by	Sjögren's syndrome
+angular cheilitis	is associated with	iron deficiency
+oral ulcers	is treated with	topical corticosteroids
+oral candidiasis	is treated with	antifungal agents
+leukoplakia	is diagnosed via	biopsy
+oral lichen planus	may cause	white lesions
+glossitis	may present with	swollen tongue
+xerostomia	increases risk of	dental caries
+angular cheilitis	is managed with	topical antifungals
+pain	may lead to	difficulty eating
+Candida albicans	is detected via	culture
+oral cancer	is associated with	tobacco use
+autoimmune condition	involves	immune dysfunction
+vitamin deficiency	includes	vitamin B12 deficiency
+Sjögren's syndrome	affects	salivary glands
+iron deficiency	may lead to	anemia
+topical corticosteroids	reduce	inflammation
+antifungal agents	target	fungal cell walls
+biopsy	confirms	diagnosis
+white lesions	may indicate	precancerous condition
+swollen tongue	causes	speech difficulty
+dental caries	results from	bacterial activity
+topical antifungals	include	nystatin
+difficulty eating	leads to	malnutrition
+culture	identifies	microorganisms
+tobacco use	increases risk of	squamous cell carcinoma
+immune dysfunction	involves	autoantibodies
+vitamin B12 deficiency	causes	megaloblastic anemia
+salivary glands	produce	saliva
+anemia	results in	fatigue
+inflammation	is mediated by	cytokines
+fungal cell walls	contain	chitin
+diagnosis	guides	treatment
+precancerous condition	requires	monitoring
+speech difficulty	affects	communication
+bacterial activity	produces	acids
+nystatin	binds to	ergosterol
+malnutrition	weakens	immune system
+microorganisms	include	bacteria
+squamous cell carcinoma	originates from	epithelial cells
+autoantibodies	target	self-antigens
+megaloblastic anemia	shows	macrocytic RBCs
+saliva	contains	digestive enzymes
+fatigue	reduces	productivity
+cytokines	regulate	immune response
+chitin	is a	polysaccharide
+treatment	aims for	symptom relief
+monitoring	involves	regular check-ups
+communication	is essential for	social interaction
+acids	demineralize	tooth enamel
+ergosterol	is a	fungal sterol
+immune system	protects against	infections
+bacteria	include	Streptococcus species
+epithelial cells	form	mucosa
+self-antigens	trigger	autoimmunity
+macrocytic RBCs	indicate	bone marrow dysfunction
+digestive enzymes	break down	starch
+productivity	affects	quality of life
+immune response	involves	lymphocytes
+polysaccharide	is a	carbohydrate
+symptom relief	improves	patient comfort
+regular check-ups	detect	disease progression
+social interaction	impacts	mental health
+tooth enamel	protects	dentin
+fungal sterol	maintains	membrane integrity
+infections	activate	inflammatory response
+Streptococcus species	cause	pharyngitis
+mucosa	lines	oral cavity
+autoimmunity	leads to	tissue damage
+bone marrow dysfunction	results in	cytopenia
+starch	is a	dietary carbohydrate
+quality of life	depends on	health status
+lymphocytes	include	T cells
+carbohydrate	provides	energy
+patient comfort	enhances	treatment adherence
+disease progression	may require	therapy adjustment
+mental health	influences	recovery
+dentin	surrounds	pulp
+membrane integrity	prevents	cell lysis
+inflammatory response	recruits	neutrophils
+pharyngitis	presents with	sore throat
+oral cavity	is part of	digestive system
+tissue damage	releases	inflammatory mediators
+cytopenia	manifests as	low blood counts
+dietary carbohydrate	is a	macronutrient
+health status	determines	life expectancy
+T cells	mediate	cell-mediated immunity
+energy	supports	metabolic processes

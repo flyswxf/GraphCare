@@ -1,0 +1,100 @@
+other mineral supplements	belong to	ATC classification
+other mineral supplements	include	magnesium
+other mineral supplements	include	zinc
+other mineral supplements	include	selenium
+other mineral supplements	include	copper
+other mineral supplements	include	chromium
+other mineral supplements	include	manganese
+other mineral supplements	include	molybdenum
+other mineral supplements	include	fluoride
+other mineral supplements	include	iodine
+magnesium	treats	magnesium deficiency
+zinc	treats	zinc deficiency
+selenium	treats	selenium deficiency
+copper	treats	copper deficiency
+chromium	treats	chromium deficiency
+manganese	treats	manganese deficiency
+molybdenum	treats	molybdenum deficiency
+fluoride	prevents	dental caries
+iodine	prevents	goiter
+magnesium	helps with	muscle cramps
+zinc	boosts	immune system
+selenium	acts as	antioxidant
+copper	aids in	iron absorption
+chromium	regulates	blood sugar
+manganese	supports	bone health
+molybdenum	assists in	enzyme function
+fluoride	strengthens	tooth enamel
+iodine	supports	thyroid function
+magnesium deficiency	causes	muscle weakness
+zinc deficiency	causes	hair loss
+selenium deficiency	linked to	Keshan disease
+copper deficiency	causes	anemia
+chromium deficiency	affects	glucose tolerance
+manganese deficiency	leads to	bone abnormalities
+molybdenum deficiency	rare in	humans
+fluoride deficiency	results in	tooth decay
+iodine deficiency	causes	hypothyroidism
+magnesium	interacts with	calcium
+zinc	interacts with	iron
+selenium	interacts with	vitamin E
+copper	interacts with	zinc
+chromium	interacts with	insulin
+manganese	interacts with	phosphorus
+molybdenum	interacts with	sulfur
+fluoride	interacts with	calcium
+iodine	interacts with	thyroid hormones
+magnesium	found in	nuts
+zinc	found in	seafood
+selenium	found in	Brazil nuts
+copper	found in	liver
+chromium	found in	whole grains
+manganese	found in	legumes
+molybdenum	found in	dairy products
+fluoride	found in	tea
+iodine	found in	seaweed
+magnesium sulfate	used for	eclampsia
+zinc oxide	used in	topical creams
+selenium sulfide	treats	dandruff
+copper sulfate	used as	fungicide
+chromium picolinate	marketed as	weight loss aid
+potassium iodide	used for	radiation protection
+magnesium citrate	used as	laxative
+zinc gluconate	used for	colds
+sodium fluoride	added to	drinking water
+magnesium	contraindicated in	renal failure
+zinc	decreases absorption of	antibiotics
+selenium	toxic at	high doses
+copper	accumulates in	Wilson's disease
+chromium	may lower	LDL cholesterol
+manganese	neurotoxic in	excess
+fluoride	causes fluorosis at	high levels
+iodine	excess causes	hyperthyroidism
+magnesium	measured in	serum test
+zinc	measured in	plasma test
+selenium	measured in	blood test
+copper	measured in	ceruloplasmin test
+chromium	difficult to	measure accurately
+manganese	detected in	hair analysis
+fluoride	measured in	urine test
+iodine	measured in	urine test
+magnesium	administered as	oral supplement
+zinc	administered as	lozenges
+selenium	administered as	tablets
+copper	administered as	injection
+chromium	administered as	capsules
+manganese	rarely given as	standalone supplement
+fluoride	administered as	toothpaste
+iodine	administered as	drops
+magnesium	recommended daily	300-400 mg
+zinc	recommended daily	8-11 mg
+selenium	recommended daily	55 mcg
+copper	recommended daily	0.9 mg
+chromium	recommended daily	20-35 mcg
+manganese	recommended daily	1.8-2.3 mg
+fluoride	recommended daily	3-4 mg
+iodine	recommended daily	150 mcg
+mineral supplements	regulated by	FDA
+mineral supplements	categorized in	ATC V group
+mineral supplements	often combined with	vitamins
+mineral supplements	subject to	bioavailability issues

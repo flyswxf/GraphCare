@@ -1,0 +1,100 @@
+cicatrizants	promote	wound healing
+cicatrizants	are	medications
+cicatrizants	accelerate	tissue repair
+cicatrizants	reduce	scar formation
+cicatrizants	contain	active ingredients
+active ingredients	stimulate	collagen production
+collagen production	improves	skin strength
+cicatrizants	treat	burns
+burns	require	wound care
+wound care	involves	dressing changes
+cicatrizants	used for	surgical wounds
+surgical wounds	need	infection prevention
+infection prevention	requires	antiseptics
+cicatrizants	enhance	granulation tissue formation
+granulation tissue	indicates	healing
+cicatrizants	available as	creams
+creams	applied	topically
+topical application	ensures	localized effect
+cicatrizants	available as	ointments
+ointments	provide	moisture retention
+moisture retention	aids	epithelialization
+cicatrizants	prescribed for	chronic ulcers
+chronic ulcers	caused by	poor circulation
+poor circulation	associated with	diabetes
+diabetes	increases	wound complications
+cicatrizants	contain	growth factors
+growth factors	stimulate	cell proliferation
+cell proliferation	leads	tissue regeneration
+cicatrizants	interact with	fibroblasts
+fibroblasts	produce	extracellular matrix
+extracellular matrix	supports	tissue structure
+cicatrizants	used in	dermatology
+dermatology	deals with	skin disorders
+skin disorders	include	eczema
+eczema	causes	skin irritation
+cicatrizants	prevent	infection
+infection	delays	healing
+healing	involves	inflammation
+inflammation	attracts	immune cells
+immune cells	fight	pathogens
+cicatrizants	support	re-epithelialization
+re-epithelialization	covers	wounds
+wounds	classified as	acute
+acute wounds	heal	quickly
+cicatrizants	recommended for	pressure sores
+pressure sores	caused by	prolonged pressure
+prolonged pressure	affects	bedridden patients
+bedridden patients	need	frequent repositioning
+cicatrizants	contain	antimicrobial agents
+antimicrobial agents	kill	bacteria
+bacteria	cause	wound infections
+cicatrizants	improve	cosmetic outcomes
+cosmetic outcomes	important for	patient satisfaction
+patient satisfaction	influences	treatment adherence
+treatment adherence	ensures	better results
+cicatrizants	derived from	natural sources
+natural sources	include	plants
+plants	provide	bioactive compounds
+bioactive compounds	exhibit	therapeutic effects
+cicatrizants	work	synergistically
+synergistically	enhances	efficacy
+efficacy	determines	treatment success
+treatment success	measured by	healing time
+healing time	varies by	wound type
+wound type	includes	lacerations
+lacerations	require	sutures
+sutures	help	wound closure
+cicatrizants	reduce	pain
+pain	associated with	inflammation
+inflammation	mediated by	cytokines
+cytokines	regulate	immune response
+cicatrizants	aid	scar management
+scar management	improves	aesthetics
+aesthetics	important for	quality of life
+quality of life	affected by	chronic wounds
+chronic wounds	lead to	disability
+disability	impacts	daily activities
+daily activities	require	mobility
+mobility	limited by	pain
+cicatrizants	prescribed by	doctors
+doctors	assess	wound severity
+wound severity	determines	treatment plan
+treatment plan	includes	debridement
+debridement	removes	necrotic tissue
+necrotic tissue	impedes	healing
+cicatrizants	compatible with	dressings
+dressings	protect	wounds
+wounds	exposed to	contaminants
+contaminants	increase	infection risk
+infection risk	reduced by	hygiene
+hygiene	involves	cleaning
+cleaning	removes	debris
+debris	hinders	tissue repair
+cicatrizants	indicated for	post-operative care
+post-operative care	prevents	complications
+complications	include	dehiscence
+dehiscence	results from	poor healing
+poor healing	linked to	malnutrition
+malnutrition	affects	protein synthesis
+protein synthesis	essential for	recovery

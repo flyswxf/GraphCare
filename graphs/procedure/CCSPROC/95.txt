@@ -1,0 +1,100 @@
+non-GI therapeutic procedures	exclude	gastrointestinal procedures
+lower GI procedures	involve	colon
+therapeutic procedures	aim to	treat conditions
+endoscopy	can be	lower GI procedure
+colonoscopy	is type of	lower GI procedure
+colon	part of	lower GI tract
+rectum	connects to	colon
+anus	terminus of	lower GI tract
+sigmoid colon	section of	colon
+ileocecal valve	separates	small intestine from colon
+polypectomy	performed during	colonoscopy
+hemorrhoidectomy	treats	hemorrhoids
+anal sphincterotomy	relieves	anal fissure
+stricture dilation	addresses	bowel narrowing
+colonic stent placement	manages	obstruction
+colonoscope	enables	visual examination
+sigmoidoscope	examines	distal colon
+argon plasma coagulation	controls	bleeding
+endoscopic clips	achieve	hemostasis
+endoscopic mucosal resection	removes	precancerous lesions
+diverticulosis	may require	therapeutic intervention
+colorectal cancer	detected by	colonoscopy
+inflammatory bowel disease	monitored with	lower GI procedures
+angiodysplasia	treated with	endoscopic therapy
+colonic volvulus	relieved by	decompression
+bowel preparation	requires	laxatives
+polyethylene glycol	used for	colon cleansing
+sedatives	administered during	procedures
+antibiotics	prevent	post-procedure infection
+antispasmodics	reduce	bowel motility
+perforation	potential risk of	colonoscopy
+bleeding	may follow	polypectomy
+infection	possible after	invasive procedures
+post-polypectomy syndrome	causes	abdominal pain
+sedation	may lead	respiratory depression
+gastroenterologists	perform	lower GI procedures
+endoscopy nurses	assist	therapeutic interventions
+anesthesiologists	manage	sedation
+outpatient centers	host	many lower GI procedures
+hospitals	handle	complex cases
+virtual colonoscopy	alternative to	traditional colonoscopy
+capsule endoscopy	visualizes	small intestine
+surgery	required for	extensive conditions
+medical management	alternative to	some procedures
+radiation therapy	treats	certain malignancies
+peristalsis	affects	procedure success
+bowel motility	influences	examination quality
+intestinal microbiota	altered by	bowel prep
+pain receptors	activated during	invasive procedures
+inflammatory response	triggered by	tissue trauma
+narrow-band imaging	enhances	lesion detection
+chromoendoscopy	improves	dysplasia identification
+confocal laser endomicroscopy	provides	real-time histology
+endoscopic ultrasound	evaluates	deeper layers
+POEM procedure	treats	achalasia
+elderly patients	require	careful sedation
+pediatric cases	need	specialized equipment
+obese patients	present	technical challenges
+anticoagulated patients	need	bleeding risk management
+pregnant women	require	modified approaches
+bowel preparation	occurs	pre-procedure
+monitoring period	follows	sedation
+surveillance intervals	determined by	findings
+procedure duration	depends on	complexity
+recovery time	varies by	intervention type
+adenoma detection rate	measures	colonoscopy quality
+bowel prep quality	affects	visualization
+withdrawal time	correlates with	polyp detection
+complication rates	benchmark	provider skill
+patient satisfaction	reflects	experience quality
+procedure costs	vary by	healthcare system
+insurance coverage	affects	access
+screening programs	reduce	long-term costs
+therapeutic procedures	prevent	more expensive treatments
+equipment maintenance	contributes to	overhead
+artificial intelligence	assists	polyp detection
+robotic endoscopy	enables	precise maneuvers
+self-propelled colonoscopes	improve	patient comfort
+molecular imaging	identifies	early malignancies
+telemedicine	facilitates	post-procedure follow-up
+redundant colon	increases	procedure difficulty
+diverticula	may obscure	lumen visualization
+surgical anastomoses	require	careful examination
+hernias	can complicate	abdominal access
+pelvic adhesions	limit	instrument mobility
+ischemic colitis	diagnosed via	endoscopic appearance
+microscopic colitis	requires	biopsy confirmation
+radiation proctitis	shows	characteristic changes
+infectious colitis	may need	stool studies
+lymphocytic infiltration	suggests	chronic inflammation
+malignant polyps	require	complete resection
+bleeding vessels	necessitate	immediate therapy
+foreign bodies	demand	safe extraction
+colonic strictures	benefit from	dilation
+fistulas	may require	endoscopic closure
+patient anxiety	affects	tolerance
+cultural beliefs	influence	acceptance
+health literacy	impacts	preparation compliance
+previous experiences	shape	expectations
+family history	motivates	screening adherence

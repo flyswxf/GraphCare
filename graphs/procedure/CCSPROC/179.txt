@@ -1,0 +1,100 @@
+CT scan abdomen	is a	diagnostic test
+CT scan abdomen	uses	X-rays
+CT scan abdomen	produces	cross-sectional images
+CT scan abdomen	evaluates	abdominal organs
+CT scan abdomen	detects	tumors
+CT scan abdomen	identifies	infections
+CT scan abdomen	reveals	internal bleeding
+CT scan abdomen	assesses	trauma
+CT scan abdomen	examines	liver
+CT scan abdomen	visualizes	kidneys
+CT scan abdomen	inspects	pancreas
+CT scan abdomen	checks	spleen
+CT scan abdomen	analyzes	intestines
+CT scan abdomen	requires	IV contrast
+CT scan abdomen	may use	oral contrast
+CT scan abdomen	contraindicated in	pregnancy
+CT scan abdomen	risks	radiation exposure
+CT scan abdomen	alternative to	ultrasound
+CT scan abdomen	more detailed than	X-ray
+CT scan abdomen	used for	cancer staging
+CT scan abdomen	measures	tumor size
+CT scan abdomen	guides	biopsies
+CT scan abdomen	monitors	treatment response
+CT scan abdomen	detects	metastases
+CT scan abdomen	evaluates	lymph nodes
+CT scan abdomen	diagnoses	appendicitis
+CT scan abdomen	identifies	abscesses
+CT scan abdomen	reveals	bowel obstructions
+CT scan abdomen	assesses	diverticulitis
+CT scan abdomen	examines	blood vessels
+CT scan abdomen	visualizes	aneurysms
+CT scan abdomen	detects	kidney stones
+CT scan abdomen	measures	organ size
+CT scan abdomen	evaluates	cirrhosis
+CT scan abdomen	diagnoses	pancreatitis
+CT scan abdomen	identifies	gallstones
+CT scan abdomen	checks	bile ducts
+CT scan abdomen	analyzes	ascites
+CT scan abdomen	requires	patient preparation
+CT scan abdomen	needs	fasting
+CT scan abdomen	contraindicated in	renal failure
+CT scan abdomen	risks	allergic reaction
+CT scan abdomen	alternative to	MRI
+CT scan abdomen	faster than	MRI
+CT scan abdomen	used for	emergency diagnosis
+CT scan abdomen	measures	fat content
+CT scan abdomen	guides	drainage procedures
+CT scan abdomen	monitors	abscess resolution
+CT scan abdomen	detects	foreign bodies
+CT scan abdomen	evaluates	postoperative complications
+CT scan abdomen	diagnoses	inflammatory bowel disease
+CT scan abdomen	identifies	fistulas
+CT scan abdomen	reveals	perforations
+CT scan abdomen	assesses	ischemia
+CT scan abdomen	examines	adrenal glands
+CT scan abdomen	visualizes	cysts
+CT scan abdomen	detects	hematomas
+CT scan abdomen	measures	lesion density
+CT scan abdomen	evaluates	fatty liver
+CT scan abdomen	diagnoses	hydronephrosis
+CT scan abdomen	identifies	strictures
+CT scan abdomen	checks	stent placement
+CT scan abdomen	analyzes	hernia contents
+CT scan abdomen	requires	breath-holding
+CT scan abdomen	needs	supine position
+CT scan abdomen	contraindicated in	contrast allergy
+CT scan abdomen	risks	kidney damage
+CT scan abdomen	alternative to	PET scan
+CT scan abdomen	combined with	PET
+CT scan abdomen	used for	cancer screening
+CT scan abdomen	measures	aortic diameter
+CT scan abdomen	guides	radiation therapy
+CT scan abdomen	monitors	chemotherapy response
+CT scan abdomen	detects	peritoneal carcinomatosis
+CT scan abdomen	evaluates	mesenteric adenitis
+CT scan abdomen	diagnoses	cholecystitis
+CT scan abdomen	identifies	pseudocysts
+CT scan abdomen	reveals	vascular malformations
+CT scan abdomen	assesses	transplant organs
+CT scan abdomen	examines	retroperitoneum
+CT scan abdomen	visualizes	ureters
+CT scan abdomen	detects	calcifications
+CT scan abdomen	measures	fat stranding
+CT scan abdomen	evaluates	bowel wall thickening
+CT scan abdomen	diagnoses	colitis
+CT scan abdomen	identifies	adhesions
+CT scan abdomen	checks	anastomotic leaks
+CT scan abdomen	analyzes	free air
+CT scan abdomen	requires	radiation shielding
+CT scan abdomen	needs	IV access
+CT scan abdomen	contraindicated in	multiple myeloma
+CT scan abdomen	risks	contrast extravasation
+CT scan abdomen	alternative to	laparoscopy
+CT scan abdomen	more accessible than	MRI
+CT scan abdomen	used for	preoperative planning
+CT scan abdomen	measures	tumor response
+CT scan abdomen	guides	needle placement
+CT scan abdomen	monitors	disease progression
+CT scan abdomen	detects	portal vein thrombosis
+CT scan abdomen	evaluates	abdominal pain cause

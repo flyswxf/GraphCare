@@ -1,0 +1,100 @@
+protectives against UV-radiation	include	sunscreen
+protectives against UV-radiation	include	clothing
+protectives against UV-radiation	include	sunglasses
+protectives against UV-radiation	include	hats
+protectives against UV-radiation	include	shade
+sunscreen	contains	UV filters
+sunscreen	has	SPF rating
+sunscreen	prevents	sunburn
+sunscreen	reduces	skin cancer risk
+sunscreen	protects against	photoaging
+UV filters	can be	chemical
+UV filters	can be	physical
+chemical filters	absorb	UV radiation
+physical filters	reflect	UV radiation
+clothing	has	UPF rating
+clothing	blocks	UV rays
+sunglasses	protect	eyes
+sunglasses	prevent	cataracts
+sunglasses	reduce	macular degeneration risk
+hats	provide	shade
+hats	protect	scalp
+shade	reduces	UV exposure
+UV radiation	causes	DNA damage
+UV radiation	leads	skin aging
+UV radiation	increases	melanoma risk
+SPF rating	measures	UVB protection
+UPF rating	measures	fabric protection
+photoaging	results in	wrinkles
+photoaging	causes	pigmentation
+sunburn	is a	skin injury
+sunburn	increases	skin cancer risk
+skin cancer	includes	basal cell carcinoma
+skin cancer	includes	squamous cell carcinoma
+skin cancer	includes	melanoma
+melanoma	is	aggressive
+melanoma	can metastasize	quickly
+cataracts	cloud	eye lens
+cataracts	impair	vision
+macular degeneration	affects	retina
+macular degeneration	causes	blindness
+DNA damage	triggers	mutations
+mutations	can lead	cancer
+zinc oxide	is a	physical filter
+titanium dioxide	is a	physical filter
+oxybenzone	is a	chemical filter
+avobenzone	is a	chemical filter
+chemical filters	may cause	irritation
+physical filters	are	less irritating
+sunscreen	should be	reapplied
+reapplication	maintains	protection
+UV index	indicates	risk level
+high UV index	requires	more protection
+UV exposure	peaks	midday
+sunscreen	works best	with moisturizer
+moisturizer	enhances	skin barrier
+antioxidants	boost	UV protection
+vitamin C	neutralizes	free radicals
+free radicals	cause	oxidative stress
+oxidative stress	damages	cells
+cells	repair	DNA damage
+repair mechanisms	can fail	with age
+aging	reduces	skin resilience
+children	need	extra protection
+fair skin	is more	vulnerable
+tanning	indicates	UV damage
+tanning beds	emit	UVA rays
+UVA rays	penetrate	deeply
+UVB rays	cause	surface damage
+broad-spectrum	covers	UVA and UVB
+water-resistant sunscreen	lasts longer	swimming
+sweating	removes	sunscreen
+lip balm	protects	lips
+lips	are prone	sunburn
+sun-protective clothing	is	tightly woven
+wet clothing	loses	protection
+sunglasses	should block	100% UV
+polarized lenses	reduce	glare
+glare	causes	squinting
+squinting	leads	wrinkles
+wide-brimmed hats	cover	neck
+neck	is often	neglected
+umbrellas	create	portable shade
+shade structures	are	permanent solutions
+UV radiation	weakens	immune system
+immune suppression	increases	infection risk
+vitamin D	synthesis requires	some UV
+safe sun exposure	balances	benefits and risks
+sunscreen	does not block	vitamin D production
+dietary supplements	can provide	vitamin D
+clouds	do not block	all UV
+altitude	increases	UV intensity
+snow	reflects	UV rays
+reflection	enhances	exposure
+window glass	blocks	UVB only
+UVA rays	pass through	windows
+car windows	may not protect	drivers
+skin checks	detect	early cancer
+dermatologists	recommend	annual exams
+early detection	improves	prognosis
+protection	prevents	health complications

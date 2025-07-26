@@ -1,0 +1,100 @@
+other antineoplastic agents	belong to	ATC classification
+other antineoplastic agents	include	miscellaneous antineoplastics
+other antineoplastic agents	treat	cancer
+cancer	can be	malignant
+malignant tumors	require	chemotherapy
+chemotherapy	uses	cytotoxic drugs
+cytotoxic drugs	target	rapidly dividing cells
+rapidly dividing cells	include	cancer cells
+other antineoplastic agents	may cause	myelosuppression
+myelosuppression	leads to	low blood cell counts
+low blood cell counts	increase	infection risk
+infection risk	requires	monitoring
+other antineoplastic agents	metabolized in	liver
+liver	processes	drug toxicity
+drug toxicity	affects	kidney function
+kidney function	monitored via	creatinine levels
+other antineoplastic agents	excreted via	urine
+urine output	indicates	renal health
+renal health	impacts	drug clearance
+drug clearance	determines	dosing frequency
+dosing frequency	adjusted for	elderly patients
+elderly patients	have	reduced metabolism
+reduced metabolism	prolongs	drug half-life
+drug half-life	affects	treatment intervals
+treatment intervals	optimized for	efficacy
+efficacy	measured by	tumor response
+tumor response	classified as	partial/complete remission
+remission	requires	maintenance therapy
+maintenance therapy	prevents	relapse
+relapse	indicates	treatment failure
+treatment failure	leads to	second-line therapy
+second-line therapy	may involve	immunotherapy
+immunotherapy	enhances	immune response
+immune response	targets	tumor antigens
+tumor antigens	recognized by	T cells
+T cells	activated by	checkpoint inhibitors
+checkpoint inhibitors	block	PD-1/PD-L1
+PD-1/PD-L1	regulates	immune tolerance
+immune tolerance	prevents	autoimmunity
+autoimmunity	caused by	overactive immunity
+other antineoplastic agents	interact with	CYP enzymes
+CYP enzymes	affect	drug metabolism
+drug metabolism	influences	bioavailability
+bioavailability	determines	therapeutic effect
+therapeutic effect	depends on	absorption
+absorption	affected by	food interactions
+food interactions	alter	drug kinetics
+drug kinetics	modeled via	pharmacokinetics
+pharmacokinetics	guides	dosing regimens
+dosing regimens	tailored to	patient weight
+patient weight	affects	volume of distribution
+volume of distribution	predicts	drug concentration
+drug concentration	correlates with	toxicity
+toxicity	managed via	dose reduction
+dose reduction	minimizes	adverse effects
+adverse effects	include	nausea
+nausea	treated with	antiemetics
+antiemetics	block	serotonin receptors
+serotonin receptors	mediate	vomiting reflex
+vomiting reflex	triggered by	chemoreceptor zone
+other antineoplastic agents	contraindicated in	pregnancy
+pregnancy	risks	fetal harm
+fetal harm	caused by	teratogenicity
+teratogenicity	results in	birth defects
+birth defects	prevented via	contraception
+contraception	required during	treatment
+treatment	combines with	radiation therapy
+radiation therapy	damages	DNA
+DNA damage	induces	apoptosis
+apoptosis	eliminates	damaged cells
+damaged cells	trigger	inflammation
+inflammation	mediated by	cytokines
+cytokines	signal	immune cells
+immune cells	attack	residual tumors
+residual tumors	detected via	imaging
+imaging	includes	PET scans
+PET scans	use	radiotracers
+radiotracers	bind to	glucose analogs
+glucose analogs	accumulate in	tumor cells
+tumor cells	exhibit	Warburg effect
+Warburg effect	increases	glycolysis
+glycolysis	produces	lactate
+lactate	acidifies	tumor microenvironment
+tumor microenvironment	influences	drug resistance
+drug resistance	arises from	mutations
+mutations	confer	survival advantage
+survival advantage	leads to	clonal expansion
+clonal expansion	causes	heterogeneity
+heterogeneity	complicates	targeted therapy
+targeted therapy	inhibits	oncogenic pathways
+oncogenic pathways	involve	kinase signaling
+kinase signaling	activates	transcription factors
+transcription factors	regulate	gene expression
+gene expression	altered in	cancer
+cancer	classified by	histopathology
+histopathology	examines	tissue samples
+tissue samples	obtained via	biopsy
+biopsy	performed by	oncologist
+oncologist	prescribes	other antineoplastic agents
+other antineoplastic agents	categorized in	L01X group

@@ -1,0 +1,100 @@
+lung disease due to external agents	is caused by	smoking
+lung disease due to external agents	is caused by	air pollution
+lung disease due to external agents	is caused by	asbestos
+lung disease due to external agents	is caused by	silica dust
+lung disease due to external agents	is caused by	coal dust
+lung disease due to external agents	is caused by	chemical fumes
+lung disease due to external agents	is caused by	mold spores
+lung disease due to external agents	is caused by	bird droppings
+lung disease due to external agents	is caused by	grain dust
+lung disease due to external agents	is caused by	textile fibers
+lung disease due to external agents	may lead to	chronic bronchitis
+lung disease due to external agents	may lead to	emphysema
+lung disease due to external agents	may lead to	pulmonary fibrosis
+lung disease due to external agents	may lead to	lung cancer
+lung disease due to external agents	may lead to	asthma
+lung disease due to external agents	may lead to	pneumoconiosis
+lung disease due to external agents	may lead to	hypersensitivity pneumonitis
+lung disease due to external agents	may lead to	respiratory failure
+lung disease due to external agents	may lead to	cor pulmonale
+lung disease due to external agents	may lead to	pleural effusion
+lung disease due to external agents	is diagnosed by	chest X-ray
+lung disease due to external agents	is diagnosed by	CT scan
+lung disease due to external agents	is diagnosed by	pulmonary function tests
+lung disease due to external agents	is diagnosed by	bronchoscopy
+lung disease due to external agents	is diagnosed by	biopsy
+lung disease due to external agents	is diagnosed by	sputum analysis
+lung disease due to external agents	is diagnosed by	arterial blood gas
+lung disease due to external agents	is diagnosed by	allergy testing
+lung disease due to external agents	is diagnosed by	occupational history
+lung disease due to external agents	is diagnosed by	environmental exposure assessment
+lung disease due to external agents	is treated with	bronchodilators
+lung disease due to external agents	is treated with	corticosteroids
+lung disease due to external agents	is treated with	oxygen therapy
+lung disease due to external agents	is treated with	immunosuppressants
+lung disease due to external agents	is treated with	antibiotics
+lung disease due to external agents	is treated with	antifibrotic drugs
+lung disease due to external agents	is treated with	pulmonary rehabilitation
+lung disease due to external agents	is treated with	lung transplant
+lung disease due to external agents	is treated with	smoking cessation
+lung disease due to external agents	is treated with	environmental control
+smoking	increases risk of	lung cancer
+asbestos	causes	mesothelioma
+silica dust	causes	silicosis
+coal dust	causes	coal workers' pneumoconiosis
+mold spores	cause	allergic alveolitis
+chemical fumes	cause	occupational asthma
+bird droppings	cause	bird fancier's lung
+grain dust	causes	farmer's lung
+textile fibers	cause	byssinosis
+air pollution	exacerbates	COPD
+chronic bronchitis	is a type of	COPD
+emphysema	is a type of	COPD
+pulmonary fibrosis	leads to	lung scarring
+lung cancer	may metastasize to	bones
+asthma	involves	airway inflammation
+pneumoconiosis	is an	occupational lung disease
+hypersensitivity pneumonitis	involves	immune response
+respiratory failure	requires	mechanical ventilation
+cor pulmonale	is caused by	pulmonary hypertension
+pleural effusion	involves	fluid accumulation
+chest X-ray	detects	lung abnormalities
+CT scan	provides detailed	lung images
+pulmonary function tests	measure	lung capacity
+bronchoscopy	allows	direct visualization
+biopsy	confirms	tissue diagnosis
+sputum analysis	identifies	pathogens
+arterial blood gas	measures	oxygen levels
+allergy testing	identifies	triggers
+occupational history	reveals	exposure risks
+environmental exposure assessment	evaluates	pollutants
+bronchodilators	relax	airway muscles
+corticosteroids	reduce	inflammation
+oxygen therapy	improves	oxygenation
+immunosuppressants	suppress	immune response
+antibiotics	treat	infections
+antifibrotic drugs	slow	scarring
+pulmonary rehabilitation	improves	breathing
+lung transplant	replaces	diseased lungs
+smoking cessation	prevents	disease progression
+environmental control	reduces	exposure
+mesothelioma	is a rare	cancer
+silicosis	leads to	nodule formation
+coal workers' pneumoconiosis	causes	black lung
+allergic alveolitis	involves	granuloma formation
+occupational asthma	is triggered by	workplace allergens
+bird fancier's lung	affects	alveoli
+farmer's lung	results from	moldy hay
+byssinosis	affects	textile workers
+COPD	causes	airflow limitation
+lung scarring	reduces	lung function
+airway inflammation	causes	wheezing
+immune response	leads to	tissue damage
+mechanical ventilation	supports	breathing
+pulmonary hypertension	increases	heart strain
+fluid accumulation	causes	breathlessness
+lung abnormalities	appear as	shadows
+lung capacity	indicates	disease severity
+direct visualization	allows	sample collection
+tissue diagnosis	confirms	pathology
+oxygen levels	determine	respiratory status

@@ -1,0 +1,100 @@
+suture of skin and subcutaneous tissue	is a	wound closure technique
+suture of skin and subcutaneous tissue	prevents	wound infection
+suture of skin and subcutaneous tissue	promotes	wound healing
+suture of skin and subcutaneous tissue	requires	sterile technique
+suture of skin and subcutaneous tissue	uses	surgical needle
+suture of skin and subcutaneous tissue	involves	suture material
+suture material	includes	absorbable suture
+suture material	includes	non-absorbable suture
+absorbable suture	degrades by	hydrolysis
+non-absorbable suture	requires	removal
+suture of skin and subcutaneous tissue	affected by	wound location
+wound location	determines	suture technique
+suture technique	includes	simple interrupted
+suture technique	includes	vertical mattress
+suture technique	includes	subcuticular
+subcuticular suture	provides	cosmetic result
+cosmetic result	influenced by	suture tension
+suture tension	affects	scar formation
+scar formation	reduced by	early suture removal
+suture of skin and subcutaneous tissue	contraindicated in	infected wounds
+infected wounds	require	debridement
+debridement	removes	necrotic tissue
+necrotic tissue	harbors	bacteria
+bacteria	cause	wound infection
+wound infection	delays	healing process
+healing process	involves	inflammation phase
+inflammation phase	followed by	proliferation phase
+proliferation phase	involves	collagen deposition
+collagen deposition	determines	scar strength
+suture of skin and subcutaneous tissue	preceded by	anesthesia
+anesthesia	includes	local anesthesia
+local anesthesia	contains	lidocaine
+lidocaine	blocks	sodium channels
+sodium channels	mediate	nerve conduction
+nerve conduction	causes	pain perception
+pain perception	managed by	analgesics
+analgesics	include	NSAIDs
+NSAIDs	inhibit	prostaglandins
+prostaglandins	mediate	inflammation
+suture of skin and subcutaneous tissue	may cause	suture abscess
+suture abscess	treated by	antibiotics
+antibiotics	target	bacterial growth
+bacterial growth	inhibited by	immune system
+immune system	weakened by	diabetes
+diabetes	impairs	wound healing
+wound healing	requires	adequate perfusion
+adequate perfusion	depends on	vascular supply
+vascular supply	compromised in	peripheral artery disease
+peripheral artery disease	associated with	smoking
+smoking	increases	surgical complications
+surgical complications	include	dehiscence
+dehiscence	requires	re-suturing
+re-suturing	increases	scar tissue
+scar tissue	may lead to	contractures
+contractures	impair	joint mobility
+joint mobility	important for	rehabilitation
+rehabilitation	improves	functional recovery
+functional recovery	measured by	outcome scales
+outcome scales	assess	quality of life
+quality of life	affected by	chronic pain
+chronic pain	managed by	multidisciplinary approach
+multidisciplinary approach	includes	physiotherapy
+physiotherapy	enhances	tissue remodeling
+tissue remodeling	involves	myofibroblasts
+myofibroblasts	produce	extracellular matrix
+extracellular matrix	provides	structural support
+structural support	maintains	tissue integrity
+tissue integrity	compromised in	pressure ulcers
+pressure ulcers	prevented by	frequent repositioning
+frequent repositioning	reduces	pressure points
+pressure points	cause	tissue ischemia
+tissue ischemia	leads to	cell death
+cell death	triggers	inflammatory response
+inflammatory response	attracts	phagocytes
+phagocytes	remove	cellular debris
+cellular debris	stimulates	growth factors
+growth factors	promote	angiogenesis
+angiogenesis	establishes	new capillaries
+new capillaries	supply	oxygen
+oxygen	essential for	aerobic metabolism
+aerobic metabolism	produces	ATP
+ATP	fuels	cellular processes
+cellular processes	require	micronutrients
+micronutrients	include	vitamin C
+vitamin C	necessary for	collagen synthesis
+collagen synthesis	impaired in	scurvy
+scurvy	causes	poor wound healing
+poor wound healing	increases	hospitalization duration
+hospitalization duration	affects	healthcare costs
+healthcare costs	reduced by	preventive care
+preventive care	includes	vaccination
+vaccination	prevents	tetanus
+tetanus	contraindicates	wound contamination
+wound contamination	avoided by	proper dressing
+proper dressing	maintains	moist environment
+moist environment	accelerates	epithelialization
+epithelialization	completes	wound closure
+wound closure	evaluated by	healing rate
+healing rate	predicted by	biomarkers
+biomarkers	indicate	tissue regeneration

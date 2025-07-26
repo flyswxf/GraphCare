@@ -1,0 +1,100 @@
+antithyroid preparations	is a	drug class
+antithyroid preparations	treat	hyperthyroidism
+hyperthyroidism	caused by	Graves disease
+Graves disease	is an	autoimmune disorder
+antithyroid preparations	include	thionamides
+thionamides	include	methimazole
+methimazole	inhibits	thyroid peroxidase
+thyroid peroxidase	synthesizes	thyroid hormones
+thyroid hormones	regulate	metabolism
+antithyroid preparations	include	propylthiouracil
+propylthiouracil	inhibits	T4 conversion
+T4 conversion	produces	T3 hormone
+T3 hormone	affects	heart rate
+antithyroid preparations	have	side effects
+side effects	include	rash
+side effects	include	agranulocytosis
+agranulocytosis	increases	infection risk
+antithyroid preparations	require	monitoring
+monitoring	includes	blood tests
+blood tests	measure	thyroid function
+thyroid function	indicates	treatment efficacy
+antithyroid preparations	alternative to	radioactive iodine
+radioactive iodine	destroys	thyroid tissue
+thyroid tissue	produces	hormones
+antithyroid preparations	used in	pregnancy
+pregnancy	requires	safer options
+methimazole	contraindicated in	first trimester
+propylthiouracil	preferred in	pregnancy
+antithyroid preparations	affect	TSH levels
+TSH levels	indicate	pituitary function
+pituitary function	regulates	endocrine system
+endocrine system	controls	body processes
+antithyroid preparations	interact with	beta blockers
+beta blockers	manage	tachycardia
+tachycardia	symptom of	hyperthyroidism
+antithyroid preparations	dosage	weight-based
+weight-based dosing	ensures	safety
+safety	prevents	toxicity
+toxicity	causes	liver damage
+liver damage	monitored by	LFTs
+LFTs	assess	organ function
+antithyroid preparations	duration	long-term
+long-term use	requires	compliance
+compliance	affected by	side effects
+side effects	lead to	discontinuation
+discontinuation	causes	relapse
+relapse	requires	retreatment
+antithyroid preparations	mechanism	hormone synthesis inhibition
+hormone synthesis inhibition	reduces	symptoms
+symptoms	include	weight loss
+weight loss	occurs in	hyperthyroidism
+hyperthyroidism	diagnosed by	thyroid scan
+thyroid scan	uses	radioactive tracer
+radioactive tracer	shows	uptake
+uptake	indicates	gland activity
+antithyroid preparations	compared with	surgery
+surgery	removes	thyroid gland
+thyroid gland	located in	neck
+neck	contains	vital structures
+vital structures	include	parathyroids
+parathyroids	regulate	calcium
+calcium	important for	bones
+antithyroid preparations	contraindicated in	liver disease
+liver disease	impairs	drug metabolism
+drug metabolism	occurs in	liver
+antithyroid preparations	excreted via	kidneys
+kidneys	filter	blood
+blood	carries	medications
+medications	reach	target organs
+target organs	include	thyroid
+thyroid	affected by	antibodies
+antibodies	present in	Graves disease
+Graves disease	causes	exophthalmos
+exophthalmos	affects	vision
+antithyroid preparations	don't treat	exophthalmos
+exophthalmos	managed by	steroids
+steroids	suppress	inflammation
+inflammation	causes	swelling
+swelling	affects	tissues
+antithyroid preparations	storage	room temperature
+room temperature	maintains	stability
+stability	ensures	potency
+potency	determines	effectiveness
+effectiveness	measured by	symptom relief
+symptom relief	improves	quality of life
+quality of life	important in	chronic conditions
+chronic conditions	require	management
+management	includes	medications
+medications	prescribed by	doctors
+doctors	consider	patient history
+patient history	includes	allergies
+allergies	contraindicate	certain drugs
+antithyroid preparations	absorption	oral
+oral administration	convenient	outpatient
+outpatient	means	no hospitalization
+hospitalization	required for	severe cases
+severe cases	may need	IV treatment
+IV treatment	delivers	rapid effects
+rapid effects	crucial in	thyroid storm
+thyroid storm	is a	medical emergency

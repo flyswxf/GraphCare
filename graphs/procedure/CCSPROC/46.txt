@@ -1,0 +1,100 @@
+coronary thrombolysis	is a	medical procedure
+coronary thrombolysis	treats	myocardial infarction
+coronary thrombolysis	dissolves	blood clots
+coronary thrombolysis	uses	thrombolytic drugs
+coronary thrombolysis	requires	rapid administration
+coronary thrombolysis	contraindicated in	hemorrhagic stroke
+coronary thrombolysis	reduces	mortality
+coronary thrombolysis	improves	cardiac output
+coronary thrombolysis	prevents	heart failure
+coronary thrombolysis	limited by	time window
+coronary thrombolysis	alternative to	PCI
+coronary thrombolysis	causes	reperfusion injury
+coronary thrombolysis	risks	bleeding
+coronary thrombolysis	monitored with	ECG
+coronary thrombolysis	followed by	anticoagulation
+myocardial infarction	caused by	coronary occlusion
+myocardial infarction	leads to	ischemia
+myocardial infarction	diagnosed with	troponin
+thrombolytic drugs	include	alteplase
+thrombolytic drugs	include	streptokinase
+thrombolytic drugs	activate	plasminogen
+plasminogen	converts to	plasmin
+plasmin	degrades	fibrin
+fibrin	forms	blood clots
+blood clots	obstruct	coronary arteries
+PCI	stands for	percutaneous coronary intervention
+PCI	involves	stent placement
+stent placement	maintains	vessel patency
+reperfusion injury	causes	oxidative stress
+bleeding	monitored with	hemoglobin
+anticoagulation	prevents	reocclusion
+anticoagulation	uses	heparin
+heparin	inhibits	thrombin
+ECG	shows	ST elevation
+ST elevation	indicates	STEMI
+STEMI	requires	emergency treatment
+time window	typically within	12 hours
+rapid administration	improves	outcomes
+cardiac output	measured by	echocardiography
+heart failure	treated with	diuretics
+diuretics	reduce	fluid overload
+hemorrhagic stroke	contraindicates	thrombolysis
+coronary arteries	supply	myocardium
+myocardium	requires	oxygen
+ischemia	causes	angina
+troponin	released from	cardiomyocytes
+cardiomyocytes	damaged by	infarction
+alteplase	is a	recombinant tPA
+streptokinase	derived from	bacteria
+plasminogen	produced in	liver
+fibrin	formed from	fibrinogen
+coronary arteries	affected by	atherosclerosis
+atherosclerosis	involves	plaque buildup
+plaque buildup	narrows	arteries
+stents	coated with	drugs
+drug-eluting stents	prevent	restenosis
+oxidative stress	damages	cell membranes
+hemoglobin	carries	oxygen
+thrombin	converts	fibrinogen
+ST elevation	localized in	affected area
+emergency treatment	includes	oxygen
+12 hours	based on	tissue viability
+outcomes	measured by	ejection fraction
+echocardiography	assesses	wall motion
+fluid overload	causes	pulmonary edema
+pulmonary edema	impairs	gas exchange
+thrombolysis	avoided in	recent surgery
+myocardium	composed of	muscle tissue
+oxygen	delivered via	circulation
+angina	manifests as	chest pain
+infarction	leads to	necrosis
+recombinant tPA	genetically engineered
+bacteria	produce	streptokinase
+liver	synthesizes	clotting factors
+fibrinogen	cleaved by	thrombin
+atherosclerosis	risk factor	smoking
+plaque	contains	cholesterol
+narrowed arteries	reduce	blood flow
+drug coating	prevents	smooth muscle proliferation
+restenosis	is	re-narrowing
+cell membranes	damaged by	free radicals
+oxygen	bound to	hemoglobin
+fibrinogen	precursor of	clot
+affected area	corresponds to	artery
+oxygen therapy	increases	saturation
+tissue viability	assessed by	imaging
+ejection fraction	indicates	systolic function
+wall motion	abnormal in	ischemia
+gas exchange	occurs in	alveoli
+recent surgery	increases	bleeding risk
+muscle tissue	requires	ATP
+circulation	maintained by	heart
+chest pain	relieved by	nitroglycerin
+necrosis	releases	enzymes
+genetic engineering	produces	tPA
+clotting factors	include	prothrombin
+smoking	damages	endothelium
+cholesterol	accumulates in	plaques
+blood flow	measured by	angiography
+smooth muscle proliferation	causes	restenosis

@@ -1,0 +1,100 @@
+hepatitis	is a	liver inflammation
+hepatitis	may cause	jaundice
+hepatitis	may cause	fatigue
+hepatitis	may cause	abdominal pain
+hepatitis	may cause	liver failure
+hepatitis	may cause	cirrhosis
+hepatitis	may cause	hepatocellular carcinoma
+hepatitis	has types	hepatitis A
+hepatitis	has types	hepatitis B
+hepatitis	has types	hepatitis C
+hepatitis	has types	hepatitis D
+hepatitis	has types	hepatitis E
+hepatitis	has types	alcoholic hepatitis
+hepatitis	has types	autoimmune hepatitis
+hepatitis A	is transmitted via	fecal-oral route
+hepatitis B	is transmitted via	blood
+hepatitis B	is transmitted via	sexual contact
+hepatitis C	is transmitted via	blood
+hepatitis	is diagnosed with	liver function test
+hepatitis	is diagnosed with	viral serology
+hepatitis	is diagnosed with	liver biopsy
+hepatitis B	has vaccine	hepatitis B vaccine
+hepatitis A	has vaccine	hepatitis A vaccine
+hepatitis	is treated with	antiviral drugs
+hepatitis B	is treated with	tenofovir
+hepatitis B	is treated with	entecavir
+hepatitis C	is treated with	sofosbuvir
+hepatitis C	is treated with	ledipasvir
+autoimmune hepatitis	is treated with	prednisone
+autoimmune hepatitis	is treated with	azathioprine
+hepatitis	may require	liver transplantation
+hepatitis	is associated with	intravenous drug use
+hepatitis	is associated with	unsafe medical procedures
+hepatitis	is associated with	unsafe sex
+hepatitis	is associated with	contaminated food
+hepatitis	is associated with	contaminated water
+hepatitis B	is associated with	chronic infection
+hepatitis C	is associated with	chronic infection
+hepatitis A	is associated with	acute infection
+hepatitis E	is associated with	acute infection
+hepatitis	may lead to	hepatic encephalopathy
+hepatitis	may lead to	portal hypertension
+hepatitis	may lead to	ascites
+hepatitis	may lead to	variceal bleeding
+hepatitis	is monitored with	ALT levels
+hepatitis	is monitored with	AST levels
+hepatitis	is monitored with	bilirubin levels
+hepatitis	is monitored with	albumin levels
+hepatitis	is monitored with	INR
+hepatitis B	has surface antigen	HBsAg
+hepatitis B	has core antibody	anti-HBc
+hepatitis B	has e antigen	HBeAg
+hepatitis C	has antibody	anti-HCV
+hepatitis A	has antibody	anti-HAV
+hepatitis	may increase risk of	liver cancer
+hepatitis	may increase risk of	death
+hepatitis	may increase risk of	hospitalization
+hepatitis	may increase risk of	malnutrition
+hepatitis	may lead to	coagulopathy
+hepatitis	may lead to	hepatorenal syndrome
+hepatitis	may cause	itching
+hepatitis	may cause	dark urine
+hepatitis	may cause	pale stools
+hepatitis	may cause	nausea
+hepatitis	may cause	vomiting
+hepatitis	may cause	loss of appetite
+hepatitis	may cause	joint pain
+hepatitis	may cause	fever
+hepatitis B	has chronic stage	chronic hepatitis B
+hepatitis C	has chronic stage	chronic hepatitis C
+hepatitis D	requires coinfection	hepatitis B
+hepatitis B virus	causes	hepatitis B
+hepatitis C virus	causes	hepatitis C
+hepatitis A virus	causes	hepatitis A
+hepatitis E virus	causes	hepatitis E
+hepatitis D virus	causes	hepatitis D
+hepatitis	is prevented by	vaccination
+hepatitis	is prevented by	safe sex
+hepatitis	is prevented by	needle exchange
+hepatitis	is prevented by	food hygiene
+hepatitis	is prevented by	water sanitation
+hepatitis	is prevented by	blood screening
+hepatitis	has complication	fulminant hepatitis
+hepatitis	has complication	liver fibrosis
+hepatitis	has complication	hepatic steatosis
+hepatitis	has complication	cholestasis
+hepatitis	has risk factor	alcoholism
+hepatitis	has risk factor	obesity
+hepatitis	has risk factor	diabetes
+hepatitis	has risk factor	HIV
+hepatitis	has risk factor	immunosuppression
+hepatitis B	has treatment goal	viral suppression
+hepatitis C	has treatment goal	viral eradication
+hepatitis	requires monitoring	viral load
+hepatitis	requires monitoring	liver ultrasound
+hepatitis	requires monitoring	FibroScan
+hepatitis	may affect	quality of life
+hepatitis	may affect	work productivity
+hepatitis	increases healthcare	costs
+hepatitis	requires	patient education

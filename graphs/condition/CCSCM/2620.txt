@@ -1,0 +1,100 @@
+E codes	classify	external causes
+E codes	are part of	ICD coding system
+Unspecified E codes	indicate	incomplete documentation
+Unspecified E codes	require	clinical clarification
+External causes	include	injuries
+External causes	include	accidents
+External causes	include	poisoning
+External causes	include	adverse effects
+ICD coding system	is used for	billing
+ICD coding system	is used for	statistics
+ICD coding system	is maintained by	WHO
+Incomplete documentation	leads to	unspecified codes
+Clinical clarification	reduces	unspecified codes
+Unspecified codes	affect	data quality
+Data quality	impacts	research
+Data quality	impacts	public health
+Public health	relies on	accurate coding
+Accurate coding	enables	trend analysis
+Trend analysis	informs	prevention programs
+Prevention programs	reduce	injuries
+Injuries	are categorized by	E codes
+Accidents	are categorized by	E codes
+Poisoning	is categorized by	E codes
+Adverse effects	are categorized by	E codes
+E codes	help identify	risk factors
+Risk factors	guide	interventions
+Interventions	prevent	morbidity
+Morbidity	affects	healthcare costs
+Healthcare costs	are influenced by	coding accuracy
+Coding accuracy	requires	training
+Training	improves	documentation
+Documentation	supports	reimbursement
+Reimbursement	depends on	code specificity
+Code specificity	enhances	data utility
+Data utility	benefits	policy making
+Policy making	shapes	healthcare systems
+Healthcare systems	utilize	ICD codes
+ICD codes	evolve with	medical knowledge
+Medical knowledge	expands	code categories
+Code categories	include	E codes
+E codes	capture	environmental factors
+Environmental factors	contribute to	disease
+Disease	is tracked with	ICD codes
+ICD codes	assist in	outbreak detection
+Outbreak detection	prompts	public response
+Public response	mitigates	health crises
+Health crises	increase	E code usage
+E code usage	reflects	societal trends
+Societal trends	influence	injury patterns
+Injury patterns	are studied with	E codes
+E codes	differentiate	intentional harm
+Intentional harm	includes	assault
+Assault	is classified by	E codes
+E codes	distinguish	self-harm
+Self-harm	is classified by	E codes
+E codes	identify	occupational hazards
+Occupational hazards	cause	workplace injuries
+Workplace injuries	are documented with	E codes
+E codes	record	transport accidents
+Transport accidents	are a leading cause	of injury
+Injury	requires	medical care
+Medical care	is billed using	ICD codes
+ICD codes	link to	DRG codes
+DRG codes	determine	hospital payments
+Hospital payments	rely on	accurate coding
+Accurate coding	prevents	claim denials
+Claim denials	increase	administrative costs
+Administrative costs	burden	healthcare providers
+Healthcare providers	need	coding specialists
+Coding specialists	ensure	code accuracy
+Code accuracy	supports	clinical decision making
+Clinical decision making	improves	patient outcomes
+Patient outcomes	are tracked with	health records
+Health records	contain	ICD codes
+ICD codes	enable	longitudinal studies
+Longitudinal studies	reveal	health trends
+Health trends	inform	resource allocation
+Resource allocation	affects	healthcare access
+Healthcare access	influences	population health
+Population health	is measured with	health indicators
+Health indicators	include	injury rates
+Injury rates	are calculated using	E codes
+E codes	help monitor	violence trends
+Violence trends	guide	law enforcement
+Law enforcement	collaborates with	public health
+Public health	implements	safety programs
+Safety programs	reduce	accident rates
+Accident rates	are tracked with	E codes
+E codes	assist in	forensic investigations
+Forensic investigations	rely on	medical documentation
+Medical documentation	includes	external cause details
+External cause details	are coded with	E codes
+E codes	may indicate	product defects
+Product defects	lead to	recalls
+Recalls	prevent	further injuries
+Further injuries	would require	additional E codes
+E codes	contribute to	safety regulations
+Safety regulations	decrease	preventable harm
+Preventable harm	is reduced through	better coding
+Better coding	starts with	specific E codes

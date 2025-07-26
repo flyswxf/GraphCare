@@ -1,0 +1,100 @@
+抗感染药/抗菌剂与皮质类固醇的组合	is a	复合药物
+复合药物	contains	抗感染药
+复合药物	contains	皮质类固醇
+抗感染药	can be	抗生素
+抗感染药	can be	抗真菌药
+抗感染药	can be	抗病毒药
+皮质类固醇	has effect	抗炎作用
+皮质类固醇	has effect	免疫抑制
+复合药物	used for	皮肤感染
+皮肤感染	can be	细菌性
+皮肤感染	can be	真菌性
+复合药物	treats	湿疹
+湿疹	has symptom	瘙痒
+复合药物	treats	皮炎
+皮炎	can be	接触性
+皮炎	can be	过敏性
+复合药物	application route	外用
+外用制剂	can be	乳膏
+外用制剂	can be	软膏
+复合药物	reduces	炎症
+炎症	causes	红肿
+炎症	causes	疼痛
+复合药物	prevents	感染扩散
+感染扩散	can lead to	败血症
+皮质类固醇	can cause	皮肤萎缩
+皮肤萎缩	is a	副作用
+抗感染药	can cause	耐药性
+耐药性	reduces	治疗效果
+复合药物	contraindicated in	病毒感染
+病毒感染	example is	单纯疱疹
+复合药物	requires	医生处方
+医生处方	based on	诊断
+诊断	requires	临床检查
+复合药物	has	治疗疗程
+治疗疗程	duration varies by	病情严重程度
+病情严重程度	assessed by	医生
+复合药物	interacts with	其他药物
+药物相互作用	can affect	药效
+药效	determines	治疗效果
+治疗效果	evaluated by	症状改善
+症状改善	includes	瘙痒减轻
+复合药物	storage condition	阴凉干燥处
+存储不当	can reduce	药物活性
+药物活性	affects	治疗效果
+复合药物	has	有效期
+过期药物	can be	有害
+复合药物	application frequency	每日1-2次
+用药频次	depends on	制剂类型
+制剂类型	determines	吸收率
+吸收率	affects	血药浓度
+血药浓度	relates to	治疗效果
+复合药物	not for	眼部使用
+眼部感染	requires	专用制剂
+专用制剂	has	不同成分
+复合药物	pediatric use	需谨慎
+儿童用药	requires	剂量调整
+剂量调整	based on	体重
+体重	affects	药物分布
+药物分布	determines	作用强度
+复合药物	geriatric use	需监测
+老年患者	may have	肝肾功能减退
+肝肾功能减退	affects	药物代谢
+药物代谢	determines	清除率
+清除率	affects	副作用风险
+复合药物	pregnancy category	C
+妊娠用药	requires	风险评估
+风险评估	considers	收益风险比
+复合药物	lactation risk	可能分泌
+母乳分泌	can affect	婴儿
+婴儿用药	requires	特殊考虑
+复合药物	overdose risk	低
+药物过量	can cause	局部刺激
+局部刺激	manifests as	灼热感
+复合药物	absorption rate	局部
+局部吸收	limits	系统暴露
+系统暴露	relates to	全身副作用
+全身副作用	can include	库欣综合征
+库欣综合征	caused by	长期使用
+长期使用	requires	定期评估
+定期评估	includes	皮肤检查
+皮肤检查	detects	不良反应
+不良反应	can be	接触性皮炎
+接触性皮炎	may require	停药
+停药决策	based on	严重程度
+复合药物	cost	varies
+药物成本	affects	可及性
+可及性	influences	治疗依从性
+治疗依从性	impacts	预后
+预后评估	considers	复发率
+复发率	indicates	治疗有效性
+复合药物	alternative to	单方制剂
+单方制剂	lacks	协同效应
+协同效应	enhances	治疗效果
+治疗效果	measured by	症状缓解时间
+症状缓解时间	shorter with	复合药物
+复合药物	research focus	新配方开发
+新配方开发	aims at	减少副作用
+副作用减少	improves	安全性
+安全性	key factor in	药物选择
+药物选择	guided by	治疗指南

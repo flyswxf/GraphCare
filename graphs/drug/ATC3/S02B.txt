@@ -1,0 +1,100 @@
+corticosteroid otologicals	is a	medication
+corticosteroid otologicals	treats	ear inflammation
+corticosteroid otologicals	contains	corticosteroids
+corticosteroid otologicals	administered via	ear drops
+corticosteroid otologicals	reduces	swelling
+corticosteroid otologicals	alleviates	itching
+corticosteroid otologicals	decreases	pain
+corticosteroid otologicals	used for	otitis externa
+corticosteroid otologicals	prescribed for	eczema
+corticosteroid otologicals	manages	allergic reactions
+corticosteroid otologicals	inhibits	immune response
+corticosteroid otologicals	prevents	scarring
+corticosteroid otologicals	contraindicated in	viral infections
+corticosteroid otologicals	avoided in	perforated eardrum
+corticosteroid otologicals	interacts with	anticoagulants
+corticosteroid otologicals	causes	burning sensation
+corticosteroid otologicals	may lead	fungal infections
+corticosteroid otologicals	requires	prescription
+corticosteroid otologicals	stored at	room temperature
+corticosteroid otologicals	has	expiration date
+corticosteroid otologicals	derived from	adrenal hormones
+corticosteroid otologicals	mimics	cortisol
+corticosteroid otologicals	affects	prostaglandins
+corticosteroid otologicals	suppresses	cytokines
+corticosteroid otologicals	regulates	inflammation mediators
+corticosteroid otologicals	targets	arachidonic acid
+corticosteroid otologicals	inhibits	phospholipase A2
+corticosteroid otologicals	reduces	histamine release
+corticosteroid otologicals	decreases	capillary permeability
+corticosteroid otologicals	stabilizes	lysosomal membranes
+corticosteroid otologicals	prevents	leukocyte migration
+corticosteroid otologicals	suppresses	lymphocyte proliferation
+corticosteroid otologicals	affects	mast cells
+corticosteroid otologicals	alters	collagen deposition
+corticosteroid otologicals	changes	fibroblast activity
+corticosteroid otologicals	modifies	wound healing
+corticosteroid otologicals	influences	epidermal thickness
+corticosteroid otologicals	impacts	sebum production
+corticosteroid otologicals	controls	pruritus
+corticosteroid otologicals	treats	contact dermatitis
+corticosteroid otologicals	used for	seborrheic dermatitis
+corticosteroid otologicals	effective against	psoriasis
+corticosteroid otologicals	manages	lichen simplex chronicus
+corticosteroid otologicals	relieves	ear canal irritation
+corticosteroid otologicals	combats	bacterial infections
+corticosteroid otologicals	combined with	antibiotics
+corticosteroid otologicals	enhances	antimicrobial effects
+corticosteroid otologicals	potentiates	neomycin
+corticosteroid otologicals	synergizes	polymyxin B
+corticosteroid otologicals	formulated with	antifungals
+corticosteroid otologicals	available as	suspension
+corticosteroid otologicals	packaged in	dropper bottles
+corticosteroid otologicals	measured in	micrograms
+corticosteroid otologicals	dosed	twice daily
+corticosteroid otologicals	applied	topically
+corticosteroid otologicals	absorbed	transdermally
+corticosteroid otologicals	metabolized	hepatically
+corticosteroid otologicals	excreted	renally
+corticosteroid otologicals	has	systemic absorption
+corticosteroid otologicals	shows	first-pass effect
+corticosteroid otologicals	binds to	glucocorticoid receptors
+corticosteroid otologicals	activates	transcription factors
+corticosteroid otologicals	induces	anti-inflammatory proteins
+corticosteroid otologicals	represses	pro-inflammatory genes
+corticosteroid otologicals	requires	tapering
+corticosteroid otologicals	causes	rebound inflammation
+corticosteroid otologicals	leads to	skin atrophy
+corticosteroid otologicals	associated with	telangiectasia
+corticosteroid otologicals	results in	hypopigmentation
+corticosteroid otologicals	monitored for	adrenal suppression
+corticosteroid otologicals	contraindicated in	pregnancy
+corticosteroid otologicals	avoided in	breastfeeding
+corticosteroid otologicals	tested in	clinical trials
+corticosteroid otologicals	approved by	FDA
+corticosteroid otologicals	classified as	controlled substance
+corticosteroid otologicals	ranked by	potency
+corticosteroid otologicals	compared to	hydrocortisone
+corticosteroid otologicals	stronger than	desonide
+corticosteroid otologicals	weaker than	clobetasol
+corticosteroid otologicals	alternative to	oral steroids
+corticosteroid otologicals	preferred for	localized treatment
+corticosteroid otologicals	replaced by	intralesional injections
+corticosteroid otologicals	adjunct to	systemic therapy
+corticosteroid otologicals	complements	antihistamines
+corticosteroid otologicals	contraindicated with	live vaccines
+corticosteroid otologicals	increases risk	secondary infections
+corticosteroid otologicals	prolongs	healing time
+corticosteroid otologicals	masks	infection symptoms
+corticosteroid otologicals	requires	sterile application
+corticosteroid otologicals	affected by	temperature extremes
+corticosteroid otologicals	sensitive to	light
+corticosteroid otologicals	dispensed in	amber bottles
+corticosteroid otologicals	evaluated by	otoscopy
+corticosteroid otologicals	monitored for	treatment response
+corticosteroid otologicals	adjusted based on	severity
+corticosteroid otologicals	discontinued after	symptom resolution
+corticosteroid otologicals	followed by	reevaluation
+corticosteroid otologicals	documented in	medical records
+corticosteroid otologicals	reported for	adverse effects
+corticosteroid otologicals	researched for	new formulations

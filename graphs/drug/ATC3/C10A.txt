@@ -1,0 +1,100 @@
+lipid modifying agents	treat	hyperlipidemia
+lipid modifying agents	lower	LDL cholesterol
+lipid modifying agents	increase	HDL cholesterol
+lipid modifying agents	reduce	triglycerides
+lipid modifying agents	prevent	atherosclerosis
+lipid modifying agents	decrease	cardiovascular risk
+lipid modifying agents	include	statins
+lipid modifying agents	include	fibrates
+lipid modifying agents	include	bile acid sequestrants
+lipid modifying agents	include	niacin
+statins	inhibit	HMG-CoA reductase
+statins	reduce	cardiovascular events
+statins	may cause	myopathy
+statins	interact with	grapefruit juice
+fibrates	activate	PPAR-alpha
+fibrates	primarily lower	triglycerides
+fibrates	may increase	HDL levels
+bile acid sequestrants	bind	bile acids
+bile acid sequestrants	decrease	cholesterol absorption
+bile acid sequestrants	may cause	constipation
+niacin	inhibits	lipolysis
+niacin	reduces	VLDL production
+niacin	may cause	flushing
+hyperlipidemia	increases	coronary artery disease risk
+hyperlipidemia	associated with	metabolic syndrome
+LDL cholesterol	contributes to	plaque formation
+HDL cholesterol	facilitates	reverse cholesterol transport
+triglycerides	elevated in	diabetes
+atherosclerosis	leads to	myocardial infarction
+atherosclerosis	causes	stroke
+cardiovascular risk	measured by	Framingham score
+HMG-CoA reductase	produces	mevalonate
+cardiovascular events	include	angina
+myopathy	characterized by	muscle pain
+PPAR-alpha	regulates	lipid metabolism
+bile acids	synthesized from	cholesterol
+cholesterol absorption	occurs in	small intestine
+VLDL	transports	triglycerides
+lipolysis	releases	free fatty acids
+coronary artery disease	requires	angiography
+metabolic syndrome	includes	insulin resistance
+plaque formation	narrows	arteries
+reverse cholesterol transport	involves	ApoA1
+diabetes	increases	cardiovascular mortality
+myocardial infarction	diagnosed by	troponin levels
+stroke	classified as	ischemic or hemorrhagic
+Framingham score	considers	age factor
+mevalonate	precursor of	cholesterol
+angina	manifests as	chest pain
+muscle pain	evaluated by	CK levels
+lipid metabolism	occurs in	liver
+small intestine	absorbs	dietary fats
+free fatty acids	used for	energy production
+angiography	visualizes	coronary arteries
+insulin resistance	leads to	hyperglycemia
+arteries	affected by	endothelial dysfunction
+ApoA1	major protein of	HDL
+cardiovascular mortality	reduced by	lifestyle changes
+troponin levels	indicate	myocardial damage
+ischemic stroke	treated with	thrombolytics
+age factor	influences	drug dosage
+cholesterol	component of	cell membranes
+chest pain	evaluated by	ECG
+CK levels	measured in	blood tests
+liver	produces	bile
+dietary fats	include	triglycerides
+energy production	occurs in	mitochondria
+coronary arteries	supply	heart muscle
+hyperglycemia	hallmark of	diabetes
+endothelial dysfunction	precedes	atherosclerosis
+HDL	removes	excess cholesterol
+lifestyle changes	include	exercise
+myocardial damage	leads to	heart failure
+thrombolytics	dissolve	blood clots
+drug dosage	adjusted for	renal function
+cell membranes	maintain	cellular integrity
+ECG	detects	arrhythmias
+blood tests	measure	biomarkers
+bile	stored in	gallbladder
+mitochondria	generate	ATP
+heart muscle	requires	oxygen
+diabetes	managed with	insulin
+exercise	improves	lipid profile
+heart failure	treated with	diuretics
+blood clots	formed by	platelets
+renal function	assessed by	creatinine
+cellular integrity	maintained by	phospholipids
+arrhythmias	treated with	antiarrhythmics
+biomarkers	indicate	disease states
+gallbladder	releases	bile after meals
+ATP	powers	cellular processes
+oxygen	delivered by	hemoglobin
+insulin	lowers	blood glucose
+lipid profile	includes	total cholesterol
+diuretics	reduce	fluid retention
+platelets	activated by	tissue factor
+creatinine	filtered by	kidneys
+phospholipids	contain	fatty acids
+antiarrhythmics	regulate	ion channels
+disease states	diagnosed by	clinical tests

@@ -1,0 +1,100 @@
+arteriogram	is a	imaging technique
+venogram	is a	imaging technique
+arteriogram	visualizes	arteries
+venogram	visualizes	veins
+arteriogram	requires	contrast dye
+venogram	requires	contrast dye
+arteriogram	detects	arterial stenosis
+venogram	detects	venous thrombosis
+arteriogram	evaluates	peripheral artery disease
+venogram	evaluates	deep vein thrombosis
+arteriogram	performed by	radiologist
+venogram	performed by	radiologist
+arteriogram	uses	X-ray
+venogram	uses	X-ray
+arteriogram	diagnoses	aneurysm
+venogram	diagnoses	varicose veins
+arteriogram	monitors	blood flow
+venogram	monitors	blood flow
+arteriogram	contraindicated in	pregnancy
+venogram	contraindicated in	pregnancy
+arteriogram	risks	bleeding
+venogram	risks	bleeding
+arteriogram	risks	infection
+venogram	risks	infection
+arteriogram	alternative to	ultrasound
+venogram	alternative to	ultrasound
+arteriogram	precedes	angioplasty
+venogram	precedes	thrombectomy
+arteriogram	guides	stent placement
+venogram	guides	filter placement
+arteriogram	assesses	trauma
+venogram	assesses	trauma
+arteriogram	locates	hemorrhage
+venogram	locates	hemorrhage
+arteriogram	contraindicated in	kidney disease
+venogram	contraindicated in	kidney disease
+arteriogram	requires	fasting
+venogram	requires	fasting
+arteriogram	evaluates	vascular malformations
+venogram	evaluates	vascular malformations
+arteriogram	detects	embolism
+venogram	detects	embolism
+arteriogram	assesses	surgical planning
+venogram	assesses	surgical planning
+arteriogram	contraindicated in	allergy to contrast
+venogram	contraindicated in	allergy to contrast
+arteriogram	can cause	nephropathy
+venogram	can cause	nephropathy
+arteriogram	follows	physical exam
+venogram	follows	physical exam
+arteriogram	confirms	claudication
+venogram	confirms	phlebitis
+arteriogram	precedes	bypass surgery
+venogram	precedes	sclerotherapy
+arteriogram	monitors	graft patency
+venogram	monitors	graft patency
+arteriogram	evaluates	dialysis access
+venogram	evaluates	dialysis access
+arteriogram	requires	informed consent
+venogram	requires	informed consent
+arteriogram	contraindicated in	uncontrolled hypertension
+venogram	contraindicated in	uncontrolled hypertension
+arteriogram	uses	catheter
+venogram	uses	catheter
+arteriogram	can cause	hematoma
+venogram	can cause	hematoma
+arteriogram	assesses	ischemia
+venogram	assesses	venous insufficiency
+arteriogram	detects	arteriovenous fistula
+venogram	detects	arteriovenous fistula
+arteriogram	contraindicated in	severe anemia
+venogram	contraindicated in	severe anemia
+arteriogram	can lead	pseudoaneurysm
+venogram	can lead	pseudoaneurysm
+arteriogram	evaluates	post-operative complications
+venogram	evaluates	post-operative complications
+arteriogram	contraindicated in	coagulopathy
+venogram	contraindicated in	coagulopathy
+arteriogram	requires	sterile technique
+venogram	requires	sterile technique
+arteriogram	assesses	tumor vascularity
+venogram	assesses	tumor vascularity
+arteriogram	detects	vasculitis
+venogram	detects	vasculitis
+arteriogram	contraindicated in	active infection
+venogram	contraindicated in	active infection
+arteriogram	monitors	treatment response
+venogram	monitors	treatment response
+arteriogram	precedes	embolization
+venogram	precedes	thrombolysis
+arteriogram	evaluates	congenital anomalies
+venogram	evaluates	congenital anomalies
+arteriogram	detects	dissection
+venogram	detects	dissection
+arteriogram	contraindicated in	severe dehydration
+venogram	contraindicated in	severe dehydration
+arteriogram	can cause	vasospasm
+venogram	can cause	vasospasm
+arteriogram	assesses	limb salvage
+venogram	assesses	limb salvage

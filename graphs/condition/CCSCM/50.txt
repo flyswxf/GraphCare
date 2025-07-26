@@ -1,0 +1,100 @@
+diabetes mellitus with complications	is a	chronic condition
+diabetes mellitus with complications	may cause	neuropathy
+diabetes mellitus with complications	may cause	retinopathy
+diabetes mellitus with complications	may cause	nephropathy
+diabetes mellitus with complications	increases risk of	cardiovascular disease
+diabetes mellitus with complications	increases risk of	stroke
+diabetes mellitus with complications	requires	blood glucose monitoring
+diabetes mellitus with complications	is managed with	insulin therapy
+diabetes mellitus with complications	is associated with	hypertension
+diabetes mellitus with complications	leads to	poor wound healing
+diabetes mellitus with complications	may result in	amputation
+diabetes mellitus with complications	correlates with	obesity
+diabetes mellitus with complications	requires	dietary management
+diabetes mellitus with complications	benefits from	exercise
+diabetes mellitus with complications	increases risk of	infection
+diabetes mellitus with complications	may cause	diabetic ketoacidosis
+diabetes mellitus with complications	may lead to	dialysis
+diabetes mellitus with complications	is screened by	HbA1c test
+diabetes mellitus with complications	is treated with	metformin
+diabetes mellitus with complications	may require	statins
+diabetes mellitus with complications	increases risk of	myocardial infarction
+diabetes mellitus with complications	affects	peripheral circulation
+diabetes mellitus with complications	may cause	gastroparesis
+diabetes mellitus with complications	is linked to	depression
+diabetes mellitus with complications	increases risk of	Alzheimer's disease
+diabetes mellitus with complications	may cause	erectile dysfunction
+diabetes mellitus with complications	is associated with	sleep apnea
+diabetes mellitus with complications	requires	foot care
+diabetes mellitus with complications	may lead to	blindness
+diabetes mellitus with complications	is monitored with	urine tests
+diabetes mellitus with complications	increases risk of	periodontal disease
+diabetes mellitus with complications	is treated with	sulfonylureas
+diabetes mellitus with complications	may require	antihypertensive drugs
+diabetes mellitus with complications	is associated with	hyperlipidemia
+diabetes mellitus with complications	increases risk of	kidney failure
+diabetes mellitus with complications	may cause	peripheral artery disease
+diabetes mellitus with complications	is managed with	glucose-lowering agents
+diabetes mellitus with complications	requires	regular check-ups
+diabetes mellitus with complications	increases risk of	cataracts
+diabetes mellitus with complications	may lead to	hypoglycemia
+diabetes mellitus with complications	is screened for	microalbuminuria
+diabetes mellitus with complications	is treated with	GLP-1 agonists
+diabetes mellitus with complications	may require	beta blockers
+diabetes mellitus with complications	is associated with	fatty liver disease
+diabetes mellitus with complications	increases risk of	gangrene
+diabetes mellitus with complications	may cause	autonomic neuropathy
+diabetes mellitus with complications	is managed with	SGLT2 inhibitors
+diabetes mellitus with complications	requires	vaccination
+diabetes mellitus with complications	increases risk of	osteoporosis
+diabetes mellitus with complications	may lead to	hyperosmolar hyperglycemic state
+diabetes mellitus with complications	is screened for	peripheral neuropathy
+diabetes mellitus with complications	is treated with	DPP-4 inhibitors
+diabetes mellitus with complications	may require	ACE inhibitors
+diabetes mellitus with complications	is associated with	polycystic ovary syndrome
+diabetes mellitus with complications	increases risk of	hearing impairment
+diabetes mellitus with complications	may cause	Charcot foot
+diabetes mellitus with complications	is managed with	insulin pumps
+diabetes mellitus with complications	requires	eye exams
+diabetes mellitus with complications	increases risk of	skin infections
+diabetes mellitus with complications	may lead to	cognitive decline
+diabetes mellitus with complications	is screened for	cardiovascular risk
+diabetes mellitus with complications	is treated with	thiazolidinediones
+diabetes mellitus with complications	may require	diuretics
+diabetes mellitus with complications	is associated with	metabolic syndrome
+diabetes mellitus with complications	increases risk of	pancreatitis
+diabetes mellitus with complications	may cause	frozen shoulder
+diabetes mellitus with complications	is managed with	lifestyle changes
+diabetes mellitus with complications	requires	dental care
+diabetes mellitus with complications	increases risk of	urinary tract infections
+diabetes mellitus with complications	may lead to	gastroparesis
+diabetes mellitus with complications	is screened for	retinopathy
+diabetes mellitus with complications	is treated with	meglitinides
+diabetes mellitus with complications	may require	calcium channel blockers
+diabetes mellitus with complications	is associated with	insulin resistance
+diabetes mellitus with complications	increases risk of	non-alcoholic fatty liver disease
+diabetes mellitus with complications	may cause	limited joint mobility
+diabetes mellitus with complications	is managed with	continuous glucose monitoring
+diabetes mellitus with complications	requires	blood pressure control
+diabetes mellitus with complications	increases risk of	yeast infections
+diabetes mellitus with complications	may lead to	hyperglycemia
+diabetes mellitus with complications	is screened for	nephropathy
+diabetes mellitus with complications	is treated with	amylin analogs
+diabetes mellitus with complications	may require	ARBs
+diabetes mellitus with complications	is associated with	acanthosis nigricans
+diabetes mellitus with complications	increases risk of	diabetic dermopathy
+diabetes mellitus with complications	may cause	carpal tunnel syndrome
+diabetes mellitus with complications	is managed with	patient education
+diabetes mellitus with complications	requires	cholesterol management
+diabetes mellitus with complications	increases risk of	bacterial infections
+diabetes mellitus with complications	may lead to	coma
+diabetes mellitus with complications	is screened for	foot ulcers
+diabetes mellitus with complications	is treated with	alpha-glucosidase inhibitors
+diabetes mellitus with complications	may require	antiplatelet therapy
+diabetes mellitus with complications	is associated with	gestational diabetes
+diabetes mellitus with complications	increases risk of	depression
+diabetes mellitus with complications	may cause	dry mouth
+diabetes mellitus with complications	is managed with	weight control
+diabetes mellitus with complications	requires	stress management
+diabetes mellitus with complications	increases risk of	anxiety
+diabetes mellitus with complications	may lead to	hospitalization

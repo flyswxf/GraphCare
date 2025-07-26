@@ -1,0 +1,100 @@
+other skin disorders	include	eczema
+other skin disorders	include	psoriasis
+other skin disorders	include	dermatitis
+other skin disorders	include	rosacea
+other skin disorders	include	vitiligo
+eczema	is a	chronic condition
+psoriasis	is a	autoimmune disorder
+dermatitis	may cause	itching
+rosacea	affects	facial skin
+vitiligo	causes	depigmentation
+eczema	is treated with	moisturizers
+psoriasis	is treated with	biologics
+dermatitis	may result from	allergens
+rosacea	may worsen with	sun exposure
+vitiligo	may lead to	social stigma
+eczema	is associated with	asthma
+psoriasis	increases risk of	cardiovascular disease
+dermatitis	can be	contact dermatitis
+rosacea	may cause	redness
+vitiligo	is linked to	autoimmune response
+eczema	may flare up with	stress
+psoriasis	may affect	nails
+dermatitis	is diagnosed with	patch test
+rosacea	is managed with	topical antibiotics
+vitiligo	may be treated with	phototherapy
+eczema	is common in	children
+psoriasis	has subtypes	plaque psoriasis
+dermatitis	may lead to	skin cracking
+rosacea	may involve	ocular symptoms
+vitiligo	is associated with	thyroid disorders
+eczema	may require	corticosteroid creams
+psoriasis	may co-occur with	psoriatic arthritis
+dermatitis	may be caused by	irritants
+rosacea	may progress to	rhinophyma
+vitiligo	may spread	unpredictably
+eczema	is linked to	skin barrier dysfunction
+psoriasis	is exacerbated by	infections
+dermatitis	may respond to	antihistamines
+rosacea	is more common in	fair-skinned individuals
+vitiligo	may be triggered by	trauma
+eczema	may improve with	wet wrap therapy
+psoriasis	may require	systemic treatment
+dermatitis	may be classified as	atopic dermatitis
+rosacea	may cause	burning sensation
+vitiligo	is studied in	dermatology
+eczema	may lead to	sleep disturbance
+psoriasis	may affect	scalp
+dermatitis	may be chronic	seborrheic dermatitis
+rosacea	may be mistaken for	acne
+vitiligo	may involve	melanocyte loss
+eczema	is researched in	immunology
+psoriasis	may increase	inflammation markers
+dermatitis	may require	lifestyle changes
+rosacea	may be aggravated by	alcohol
+vitiligo	may be associated with	pernicious anemia
+eczema	may be triggered by	dry weather
+psoriasis	may be treated with	phototherapy
+dermatitis	may result from	nickel allergy
+rosacea	may require	laser treatment
+vitiligo	may be managed with	camouflage makeup
+eczema	may coexist with	food allergies
+psoriasis	may lead to	joint damage
+dermatitis	may be prevented with	barrier creams
+rosacea	may cause	visible blood vessels
+vitiligo	may be studied with	skin biopsy
+eczema	may be exacerbated by	sweating
+psoriasis	may be associated with	metabolic syndrome
+dermatitis	may involve	erythema
+rosacea	may be chronic	granulomatous rosacea
+vitiligo	may be linked to	genetic factors
+eczema	may require	immunosuppressants
+psoriasis	may affect	palms
+dermatitis	may be diagnosed by	clinical examination
+rosacea	may respond to	azelaic acid
+vitiligo	may be segmental	non-segmental vitiligo
+eczema	may be worse in	winter
+psoriasis	may be triggered by	streptococcal infection
+dermatitis	may involve	scaling
+rosacea	may be classified as	erythematotelangiectatic rosacea
+vitiligo	may be treated with	topical steroids
+eczema	may lead to	secondary infections
+psoriasis	may increase risk of	depression
+dermatitis	may be acute	chronic dermatitis
+rosacea	may involve	flushing
+vitiligo	may be associated with	halo nevi
+eczema	may be managed with	bleach baths
+psoriasis	may be assessed with	PASI score
+dermatitis	may require	wet compresses
+rosacea	may be influenced by	temperature changes
+vitiligo	may be stable	unstable vitiligo
+eczema	may be hereditary	atopic eczema
+psoriasis	may be treated with	vitamin D analogs
+dermatitis	may be caused by	latex
+rosacea	may be triggered by	spicy foods
+vitiligo	may be researched in	regenerative medicine
+eczema	may improve with	probiotics
+psoriasis	may involve	Koebner phenomenon
+dermatitis	may be irritant	allergic dermatitis
+rosacea	may require	long-term management
+vitiligo	may be associated with	Addison’s disease

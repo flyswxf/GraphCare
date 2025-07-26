@@ -1,0 +1,100 @@
+skin biopsy	is a	diagnostic procedure
+skin biopsy	can detect	skin cancer
+skin biopsy	requires	local anesthesia
+excisional biopsy	is a type of	skin biopsy
+punch biopsy	is a type of	skin biopsy
+shave biopsy	is a type of	skin biopsy
+breast biopsy	is a	diagnostic procedure
+breast biopsy	can detect	breast cancer
+core needle biopsy	is a type of	breast biopsy
+fine needle aspiration	is a type of	breast biopsy
+surgical biopsy	is a type of	breast biopsy
+lumpectomy	is a	breast surgery
+lumpectomy	treats	breast cancer
+mastectomy	is a	breast surgery
+mastectomy	treats	breast cancer
+skin graft	is a	reconstructive procedure
+skin graft	treats	burns
+skin graft	treats	wounds
+split-thickness graft	is a type of	skin graft
+full-thickness graft	is a type of	skin graft
+Mohs surgery	is a	skin cancer treatment
+Mohs surgery	preserves	healthy tissue
+cryotherapy	is a	skin treatment
+cryotherapy	treats	warts
+cryotherapy	treats	skin tags
+electrocautery	is a	skin procedure
+electrocautery	treats	skin lesions
+laser therapy	is a	skin treatment
+laser therapy	treats	scars
+laser therapy	treats	hyperpigmentation
+liposuction	is a	cosmetic procedure
+liposuction	removes	fat
+breast augmentation	is a	cosmetic surgery
+breast augmentation	uses	implants
+breast reduction	is a	surgical procedure
+breast reduction	relieves	back pain
+breast reconstruction	is a	post-mastectomy procedure
+breast reconstruction	restores	breast shape
+dermabrasion	is a	skin resurfacing procedure
+dermabrasion	treats	acne scars
+chemical peel	is a	skin treatment
+chemical peel	improves	skin texture
+tattoo removal	is a	laser procedure
+tattoo removal	targets	ink particles
+radiation therapy	is a	cancer treatment
+radiation therapy	targets	tumor cells
+brachytherapy	is a type of	radiation therapy
+external beam radiation	is a type of	radiation therapy
+immunotherapy	is a	cancer treatment
+immunotherapy	boosts	immune response
+chemotherapy	is a	cancer treatment
+chemotherapy	targets	rapidly dividing cells
+hormone therapy	is a	breast cancer treatment
+hormone therapy	blocks	estrogen
+targeted therapy	is a	cancer treatment
+targeted therapy	inhibits	specific molecules
+sentinel lymph node biopsy	is a	diagnostic procedure
+sentinel lymph node biopsy	assesses	cancer spread
+axillary lymph node dissection	is a	surgical procedure
+axillary lymph node dissection	removes	lymph nodes
+nipple-sparing mastectomy	is a type of	mastectomy
+nipple-sparing mastectomy	preserves	nipple
+skin flap surgery	is a	reconstructive procedure
+skin flap surgery	repairs	tissue defects
+Z-plasty	is a	scar revision technique
+Z-plasty	improves	scar appearance
+scar excision	is a	surgical procedure
+scar excision	removes	scar tissue
+fat grafting	is a	reconstructive technique
+fat grafting	restores	volume
+tissue expansion	is a	reconstructive method
+tissue expansion	stretches	skin
+breast lift	is a	cosmetic procedure
+breast lift	raises	sagging breasts
+areola reduction	is a	cosmetic surgery
+areola reduction	decreases	areola size
+keloid removal	is a	surgical procedure
+keloid removal	treats	excessive scarring
+corticosteroid injection	is a	therapeutic procedure
+corticosteroid injection	reduces	inflammation
+botulinum toxin injection	is a	cosmetic treatment
+botulinum toxin injection	reduces	wrinkles
+dermal fillers	are	cosmetic injectables
+dermal fillers	restore	facial volume
+hyperbaric oxygen therapy	is a	wound treatment
+hyperbaric oxygen therapy	accelerates	healing
+vacuum-assisted closure	is a	wound therapy
+vacuum-assisted closure	promotes	granulation
+debridement	is a	wound care procedure
+debridement	removes	dead tissue
+incision and drainage	is a	therapeutic procedure
+incision and drainage	treats	abscesses
+suture removal	is a	post-operative procedure
+suture removal	prevents	infection
+dressing change	is a	wound care procedure
+dressing change	maintains	cleanliness
+breast ultrasound	is a	diagnostic imaging
+breast ultrasound	detects	abnormalities
+mammoplasty	is a	breast surgery
+mammoplasty	modifies	breast shape

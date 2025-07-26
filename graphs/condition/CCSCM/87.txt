@@ -1,0 +1,100 @@
+retinal detachment	is a	eye disorder
+retinal detachment	may cause	vision loss
+retinal detachment	treated by	vitrectomy
+retinal detachment	associated with	myopia
+retinal detachment	diagnosed by	fundoscopy
+retinal detachment	risk factor	aging
+retinal detachment	complication	proliferative vitreoretinopathy
+retinal detachment	may follow	eye trauma
+laser photocoagulation	treats	retinal detachment
+scleral buckle	treats	retinal detachment
+retinal defect	is a	structural abnormality
+retinal defect	may lead to	visual field loss
+retinal defect	associated with	genetic disorders
+retinal defect	diagnosed by	OCT
+retinal defect	may progress to	retinal tear
+retinal defect	managed with	observation
+retinal defect	risk factor	prematurity
+retinal defect	complication	retinal detachment
+retinal defect	screened by	retinal exam
+retinal defect	related to	developmental anomalies
+vascular occlusion	is a	circulatory disorder
+retinal vein occlusion	is a type of	vascular occlusion
+retinal artery occlusion	is a type of	vascular occlusion
+vascular occlusion	causes	retinal ischemia
+vascular occlusion	leads to	macular edema
+vascular occlusion	risk factor	hypertension
+vascular occlusion	associated with	diabetes
+vascular occlusion	diagnosed by	fluorescein angiography
+vascular occlusion	treated with	anti-VEGF
+vascular occlusion	may cause	neovascularization
+retinopathy	is a	retinal disease
+diabetic retinopathy	is a type of	retinopathy
+hypertensive retinopathy	is a type of	retinopathy
+retinopathy	manifests as	retinal hemorrhage
+retinopathy	may progress to	vision impairment
+retinopathy	screened by	retinal photography
+retinopathy	managed with	glycemic control
+retinopathy	complication	vitreous hemorrhage
+retinopathy	treated with	laser therapy
+retinopathy	risk factor	hyperlipidemia
+vitrectomy	is a	surgical procedure
+vitrectomy	removes	vitreous humor
+vitrectomy	repairs	retinal breaks
+vitrectomy	may require	gas bubble
+vitrectomy	complication	cataract formation
+vitrectomy	followed by	prone positioning
+vitrectomy	uses	microsurgical instruments
+vitrectomy	treats	macular hole
+vitrectomy	may involve	membrane peeling
+vitrectomy	recovery requires	eye drops
+anti-VEGF	is a	medication class
+ranibizumab	is a	anti-VEGF drug
+aflibercept	is a	anti-VEGF drug
+anti-VEGF	inhibits	angiogenesis
+anti-VEGF	treats	wet AMD
+anti-VEGF	administered via	intravitreal injection
+anti-VEGF	reduces	macular thickness
+anti-VEGF	side effect	eye infection
+anti-VEGF	requires	regular dosing
+anti-VEGF	improves	visual acuity
+fluorescein angiography	is a	diagnostic test
+fluorescein angiography	evaluates	retinal circulation
+fluorescein angiography	detects	leakage
+fluorescein angiography	uses	contrast dye
+fluorescein angiography	risk	allergic reaction
+fluorescein angiography	performed by	ophthalmologist
+fluorescein angiography	images	retinal vasculature
+fluorescein angiography	diagnoses	macular degeneration
+fluorescein angiography	contraindicated in	pregnancy
+fluorescein angiography	preparation requires	pupil dilation
+OCT	stands for	optical coherence tomography
+OCT	provides	cross-sectional images
+OCT	measures	retinal thickness
+OCT	detects	macular edema
+OCT	evaluates	vitreoretinal interface
+OCT	non-invasive	imaging technique
+OCT	diagnoses	glaucoma
+OCT	monitors	disease progression
+OCT	uses	near-infrared light
+OCT	requires	trained interpretation
+scleral buckle	is a	surgical implant
+scleral buckle	indents	sclera
+scleral buckle	relieves	vitreous traction
+scleral buckle	made of	silicone
+scleral buckle	requires	general anesthesia
+scleral buckle	complication	infection
+scleral buckle	may affect	refractive error
+scleral buckle	combined with	cryotherapy
+scleral buckle	alters	eye shape
+scleral buckle	follow-up requires	ultrasound
+laser photocoagulation	creates	scar tissue
+laser photocoagulation	prevents	disease progression
+laser photocoagulation	uses	argon laser
+laser photocoagulation	treats	diabetic retinopathy
+laser photocoagulation	causes	retinal burns
+laser photocoagulation	performed as	outpatient procedure
+laser photocoagulation	may cause	peripheral vision loss
+laser photocoagulation	requires	topical anesthesia
+laser photocoagulation	targets	leaking vessels
+laser photocoagulation	follows	pupil dilation

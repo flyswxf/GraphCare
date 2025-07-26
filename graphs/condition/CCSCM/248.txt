@@ -1,0 +1,100 @@
+gangrene	is a	tissue death
+gangrene	may result from	infection
+gangrene	may result from	poor blood flow
+gangrene	is classified as	dry gangrene
+gangrene	is classified as	wet gangrene
+gangrene	is classified as	gas gangrene
+dry gangrene	typically affects	extremities
+wet gangrene	involves	bacterial infection
+gas gangrene	is caused by	Clostridium bacteria
+gangrene	is associated with	diabetes
+gangrene	is associated with	atherosclerosis
+gangrene	is associated with	trauma
+gangrene	can lead to	sepsis
+gangrene	can lead to	amputation
+gangrene	requires	surgical debridement
+gangrene	is diagnosed via	physical examination
+gangrene	is diagnosed via	imaging tests
+gangrene	is diagnosed via	bacterial culture
+MRI	is used for	gangrene diagnosis
+X-ray	is used for	gangrene diagnosis
+gangrene	may present with	skin discoloration
+gangrene	may present with	foul odor
+gangrene	may present with	pain
+gangrene	may present with	numbness
+gangrene	may present with	swelling
+gangrene	is treated with	antibiotics
+gangrene	is treated with	hyperbaric oxygen therapy
+gangrene	is treated with	vascular surgery
+penicillin	is used for	gangrene treatment
+clindamycin	is used for	gangrene treatment
+amputation	prevents	gangrene spread
+gangrene	increases risk of	mortality
+gangrene	increases risk of	prolonged hospitalization
+gangrene	is a complication of	frostbite
+gangrene	is a complication of	burns
+gangrene	is a complication of	peripheral artery disease
+smoking	increases risk of	gangrene
+hypertension	increases risk of	gangrene
+obesity	increases risk of	gangrene
+gangrene	is more common in	elderly
+gangrene	is more common in	males
+gangrene	requires	wound care
+gangrene	may cause	organ failure
+gangrene	may cause	shock
+gangrene	may cause	tissue necrosis
+debridement	removes	necrotic tissue
+vascular bypass	improves	blood flow
+gangrene	is monitored via	blood tests
+gangrene	may require	skin grafting
+gangrene	may lead to	disability
+diabetic foot ulcer	can progress to	gangrene
+gangrene	is prevented by	blood sugar control
+gangrene	is prevented by	smoking cessation
+gangrene	is prevented by	regular exercise
+gangrene	is prevented by	foot care
+gangrene	has higher incidence in	low-income countries
+gangrene	is related to	immune suppression
+gangrene	is related to	malnutrition
+gangrene	is researched in	wound healing studies
+gangrene	has historical significance	in warfare
+anticoagulants	may prevent	gangrene
+statins	may prevent	gangrene
+gangrene	affects	quality of life
+gangrene	increases	healthcare costs
+gangrene	is documented in	medical records
+gangrene	may recur after	treatment
+gangrene	is a contraindication for	certain medications
+gangrene	requires	multidisciplinary care
+gangrene	is studied in	pathology
+gangrene	is taught in	medical education
+gangrene	has genetic predispositions
+gangrene	is associated with	chronic kidney disease
+gangrene	is associated with	Raynaud's disease
+gangrene	is linked to	venous insufficiency
+gangrene	is linked to	arterial embolism
+compression therapy	may prevent	gangrene
+gangrene	is a concern in	postoperative care
+gangrene	is reported in	medical literature
+gangrene	has specific	ICD-10 codes
+gangrene	is visualized in	medical imaging
+gangrene	is a topic in	public health
+gangrene	is addressed in	clinical guidelines
+gangrene	is discussed in	patient education
+gangrene	is examined in	histopathology
+gangrene	is referenced in	medical textbooks
+gangrene	is a focus of	surgical training
+gangrene	is a subject of	research grants
+gangrene	is tracked in	health statistics
+gangrene	is considered in	disability assessments
+gangrene	is mentioned in	insurance policies
+gangrene	is prevented by	vaccination
+gangrene	is influenced by	environmental factors
+gangrene	is affected by	medication adherence
+gangrene	is worsened by	delayed treatment
+gangrene	is managed by	infectious disease specialists
+gangrene	is managed by	vascular surgeons
+gangrene	is managed by	wound care nurses
+gangrene	is documented with	photography
+gangrene	is correlated with	inflammation markers
+gangrene	is studied using	animal models

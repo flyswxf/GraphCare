@@ -1,0 +1,100 @@
+diagnostic radiology	uses	X-rays
+diagnostic radiology	includes	CT scan
+diagnostic radiology	includes	MRI
+diagnostic radiology	includes	ultrasound
+diagnostic radiology	provides	medical images
+CT scan	produces	cross-sectional images
+MRI	uses	magnetic fields
+MRI	produces	soft tissue images
+ultrasound	uses	sound waves
+ultrasound	commonly used for	pregnancy monitoring
+X-rays	can detect	bone fractures
+CT scan	useful for	tumor detection
+MRI	superior for	brain imaging
+PET scan	measures	metabolic activity
+PET scan	combines with	CT scan
+nuclear medicine	involves	radioactive tracers
+fluoroscopy	provides	real-time imaging
+mammography	detects	breast cancer
+angiography	visualizes	blood vessels
+DEXA scan	measures	bone density
+interventional radiology	performs	minimally invasive procedures
+contrast agents	enhance	image quality
+radiation therapy	treats	cancer
+radiologist	interprets	medical images
+PACS system	stores	medical images
+radiography	is basis of	diagnostic radiology
+digital radiography	replaces	film radiography
+CBCT	used in	dentistry
+SPECT	provides	3D images
+thermography	detects	heat patterns
+teleradiology	enables	remote consultations
+MRI	contraindicated for	pacemaker patients
+CT scan	involves	ionizing radiation
+ultrasound	safe for	fetal imaging
+contrast agents	may cause	allergic reactions
+radiation dose	requires	monitoring
+ALARA principle	guides	radiation safety
+radiology report	contains	diagnostic findings
+PACS	integrates with	EHR systems
+3D imaging	assists	surgical planning
+functional MRI	maps	brain activity
+diffusion MRI	visualizes	nerve tracts
+PET-MRI	combines	functional and structural imaging
+ultrasound elastography	assesses	tissue stiffness
+optical imaging	uses	light
+photoacoustic imaging	combines	light and sound
+molecular imaging	studies	cellular processes
+contrast-enhanced ultrasound	improves	vascular imaging
+dual-energy CT	differentiates	tissue types
+CT perfusion	measures	blood flow
+radiology	assists in	disease diagnosis
+imaging guidance	enhances	biopsy accuracy
+virtual colonoscopy	alternative to	conventional colonoscopy
+cardiac CT	evaluates	coronary arteries
+lung cancer screening	uses	low-dose CT
+MRI contrast	contains	gadolinium
+radiation protection	requires	lead shielding
+image reconstruction	creates	3D models
+AI algorithms	assist in	image analysis
+radiomics	extracts	quantitative features
+functional imaging	reveals	organ function
+PET tracers	target	specific molecules
+whole-body MRI	screens for	metastases
+ultrasound Doppler	measures	blood flow
+contrast CT	highlights	vascular structures
+image fusion	combines	multiple modalities
+radiation dose reduction	is	clinical priority
+portable X-ray	serves	bedside imaging
+fluoroscopic guidance	assists	catheter placement
+radiography	first used in	1895
+interventional radiology	treats	vascular diseases
+radiofrequency ablation	destroys	tumors
+cryoablation	uses	extreme cold
+embolization	blocks	blood vessels
+stent placement	maintains	vessel patency
+IVUS	images	vessel walls
+OCT	provides	high-resolution images
+radiology technologists	operate	imaging equipment
+contrast studies	evaluate	gastrointestinal tract
+myelography	examines	spinal canal
+sialography	images	salivary glands
+hysterosalpingography	assesses	fallopian tubes
+arthrography	visualizes	joint spaces
+cholangiopancreatography	examines	bile ducts
+digital subtraction	enhances	vascular imaging
+tomosynthesis	creates	layered images
+spectral imaging	analyzes	tissue composition
+perfusion imaging	assesses	tissue viability
+cine MRI	captures	moving structures
+radiology informatics	manages	imaging data
+DICOM standard	enables	image sharing
+CAD systems	assist in	lesion detection
+radiogenomics	links	imaging and genetics
+quantitative imaging	provides	objective measures
+multiparametric MRI	improves	prostate evaluation
+contrast agents	excreted by	kidneys
+radiation exposure	increases	cancer risk
+imaging biomarkers	predict	treatment response
+radiopharmaceuticals	target	specific tissues
+hybrid imaging	merges	anatomical and functional data

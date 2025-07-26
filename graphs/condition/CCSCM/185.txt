@@ -1,0 +1,100 @@
+prolonged pregnancy	defined as	gestation beyond 42 weeks
+prolonged pregnancy	increases risk of	perinatal mortality
+prolonged pregnancy	associated with	macrosomia
+prolonged pregnancy	requires	fetal monitoring
+prolonged pregnancy	may lead to	meconium aspiration
+prolonged pregnancy	indication for	labor induction
+prolonged pregnancy	linked to	oligohydramnios
+prolonged pregnancy	related to	placental insufficiency
+prolonged pregnancy	associated with	uterine dysfunction
+prolonged pregnancy	increases chance of	cesarean section
+prolonged pregnancy	may cause	umbilical cord compression
+prolonged pregnancy	requires	non-stress test
+prolonged pregnancy	monitored by	biophysical profile
+prolonged pregnancy	increases risk of	birth asphyxia
+prolonged pregnancy	may lead to	shoulder dystocia
+prolonged pregnancy	associated with	postmaturity syndrome
+prolonged pregnancy	related to	decreased amniotic fluid
+prolonged pregnancy	increases risk of	neonatal complications
+prolonged pregnancy	requires	cervical ripening
+prolonged pregnancy	managed by	oxytocin administration
+prolonged pregnancy	indication for	amniotomy
+prolonged pregnancy	increases risk of	postpartum hemorrhage
+prolonged pregnancy	associated with	fetal distress
+prolonged pregnancy	requires	intrapartum monitoring
+prolonged pregnancy	may lead to	NICU admission
+prolonged pregnancy	treated with	prostaglandins
+prolonged pregnancy	increases risk of	maternal complications
+prolonged pregnancy	associated with	dysfunctional labor
+prolonged pregnancy	requires	ultrasound assessment
+prolonged pregnancy	may cause	fetal acidemia
+prolonged pregnancy	related to	maternal obesity
+prolonged pregnancy	increases risk of	operative delivery
+prolonged pregnancy	requires	cardiotocography
+prolonged pregnancy	associated with	low Apgar scores
+prolonged pregnancy	indication for	membrane sweeping
+prolonged pregnancy	increases risk of	neonatal seizures
+prolonged pregnancy	may lead to	neonatal encephalopathy
+prolonged pregnancy	associated with	primiparity
+prolonged pregnancy	requires	amniotic fluid index measurement
+prolonged pregnancy	indication for	cervical Foley catheter
+prolonged pregnancy	increases risk of	chorioamnionitis
+prolonged pregnancy	may cause	neonatal hypoglycemia
+prolonged pregnancy	associated with	previous prolonged pregnancy
+prolonged pregnancy	requires	fetal movement counting
+prolonged pregnancy	increases risk of	maternal infection
+prolonged pregnancy	indication for	prostaglandin E2
+prolonged pregnancy	may lead to	polycythemia
+prolonged pregnancy	associated with	male fetus
+prolonged pregnancy	requires	Doppler velocimetry
+prolonged pregnancy	increases risk of	neonatal jaundice
+prolonged pregnancy	indication for	artificial rupture of membranes
+prolonged pregnancy	may cause	fetal growth restriction
+prolonged pregnancy	associated with	advanced maternal age
+prolonged pregnancy	requires	contraction stress test
+prolonged pregnancy	increases risk of	meconium staining
+prolonged pregnancy	indication for	misoprostol
+prolonged pregnancy	may lead to	respiratory distress
+prolonged pregnancy	associated with	gestational diabetes
+prolonged pregnancy	requires	pelvic examination
+prolonged pregnancy	increases risk of	neonatal sepsis
+prolonged pregnancy	indication for	cervical ripening balloon
+prolonged pregnancy	may cause	neonatal hypothermia
+prolonged pregnancy	associated with	nulliparity
+prolonged pregnancy	requires	fetal heart rate monitoring
+prolonged pregnancy	increases risk of	umbilical cord prolapse
+prolonged pregnancy	indication for	intravenous oxytocin
+prolonged pregnancy	may lead to	neonatal hypotension
+prolonged pregnancy	associated with	maternal hypertension
+prolonged pregnancy	requires	Bishop score assessment
+prolonged pregnancy	increases risk of	neonatal hypocalcemia
+prolonged pregnancy	indication for	mechanical dilation
+prolonged pregnancy	may cause	fetal bradycardia
+prolonged pregnancy	associated with	anencephaly
+prolonged pregnancy	requires	amniotic fluid volume assessment
+prolonged pregnancy	increases risk of	neonatal acidosis
+prolonged pregnancy	indication for	transcervical catheter
+prolonged pregnancy	may lead to	neonatal polycythemia
+prolonged pregnancy	associated with	fetal adrenal hypoplasia
+prolonged pregnancy	requires	uterine activity monitoring
+prolonged pregnancy	increases risk of	neonatal thrombocytopenia
+prolonged pregnancy	indication for	prostaglandin gel
+prolonged pregnancy	may cause	fetal tachycardia
+prolonged pregnancy	associated with	placental sulfatase deficiency
+prolonged pregnancy	requires	fetal weight estimation
+prolonged pregnancy	increases risk of	neonatal hyperbilirubinemia
+prolonged pregnancy	indication for	intracervical prostaglandin
+prolonged pregnancy	may lead to	neonatal hypoglycemia
+prolonged pregnancy	associated with	fetal pituitary dysfunction
+prolonged pregnancy	requires	vaginal examination
+prolonged pregnancy	increases risk of	neonatal infection
+prolonged pregnancy	indication for	mechanical induction
+prolonged pregnancy	may cause	fetal hypoxia
+prolonged pregnancy	associated with	maternal diabetes
+prolonged pregnancy	requires	contraction monitoring
+prolonged pregnancy	increases risk of	neonatal mortality
+prolonged pregnancy	indication for	cervical dilators
+prolonged pregnancy	may lead to	meconium aspiration syndrome
+prolonged pregnancy	associated with	fetal thyroid dysfunction
+prolonged pregnancy	requires	fetal wellbeing assessment
+prolonged pregnancy	increases risk of	maternal morbidity

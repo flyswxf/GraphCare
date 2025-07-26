@@ -1,0 +1,100 @@
+other cardiac preparations	belongs to	ATC classification
+ATC classification	is part of	WHO system
+other cardiac preparations	includes	cardiac glycosides
+cardiac glycosides	treat	heart failure
+heart failure	has symptom	shortness of breath
+other cardiac preparations	includes	antiarrhythmics
+antiarrhythmics	regulate	heart rhythm
+heart rhythm disorders	include	atrial fibrillation
+other cardiac preparations	includes	vasodilators
+vasodilators	act on	blood vessels
+blood vessels	include	arteries
+other cardiac preparations	interacts with	beta blockers
+beta blockers	reduce	blood pressure
+blood pressure	measured by	sphygmomanometer
+other cardiac preparations	contraindicated with	certain antibiotics
+certain antibiotics	include	macrolides
+macrolides	may cause	QT prolongation
+other cardiac preparations	metabolized in	liver
+liver	produces	enzymes
+enzymes	break down	drugs
+other cardiac preparations	excreted via	kidneys
+kidneys	filter	blood
+blood	contains	plasma
+other cardiac preparations	has	half-life
+half-life	determines	dosing frequency
+dosing frequency	affects	patient compliance
+patient compliance	impacts	treatment efficacy
+other cardiac preparations	stored in	pharmacies
+pharmacies	dispense	medications
+medications	require	prescriptions
+other cardiac preparations	prescribed for	elderly patients
+elderly patients	have	polypharmacy risk
+polypharmacy risk	leads to	drug interactions
+other cardiac preparations	monitored via	ECG
+ECG	detects	arrhythmias
+arrhythmias	may require	hospitalization
+other cardiac preparations	has	therapeutic index
+therapeutic index	indicates	safety margin
+safety margin	prevents	toxicity
+other cardiac preparations	interacts with	grapefruit juice
+grapefruit juice	inhibits	CYP3A4
+CYP3A4	metabolizes	drugs
+other cardiac preparations	has	brand names
+brand names	differ by	manufacturer
+manufacturer	follows	GMP
+other cardiac preparations	absorbed in	GI tract
+GI tract	includes	stomach
+stomach	produces	acid
+other cardiac preparations	binds to	plasma proteins
+plasma proteins	include	albumin
+albumin	transports	substances
+other cardiac preparations	crosses	blood-brain barrier
+blood-brain barrier	protects	CNS
+CNS	includes	brain
+other cardiac preparations	studied in	clinical trials
+clinical trials	require	ethical approval
+ethical approval	granted by	IRB
+other cardiac preparations	has	mechanism of action
+mechanism of action	involves	receptors
+receptors	transmit	signals
+other cardiac preparations	has	chemical structure
+chemical structure	determines	properties
+properties	include	solubility
+other cardiac preparations	packaged in	blisters
+blisters	protect from	moisture
+moisture	degrades	drugs
+other cardiac preparations	distributed by	wholesalers
+wholesalers	supply	hospitals
+hospitals	employ	pharmacists
+other cardiac preparations	researched by	cardiologists
+cardiologists	specialize in	heart diseases
+heart diseases	cause	mortality
+other cardiac preparations	has	administration routes
+administration routes	include	oral
+oral route	involves	swallowing
+other cardiac preparations	compared to	placebo
+placebo	used in	control groups
+control groups	establish	baselines
+other cardiac preparations	has	contraindications
+contraindications	include	pregnancy
+pregnancy	requires	careful prescribing
+other cardiac preparations	affects	electrolyte levels
+electrolyte levels	include	potassium
+potassium	influences	heart function
+other cardiac preparations	may cause	allergic reactions
+allergic reactions	involve	histamine
+histamine	triggers	inflammation
+other cardiac preparations	requires	dose adjustment
+dose adjustment	based on	renal function
+renal function	measured by	creatinine
+other cardiac preparations	interacts with	herbal supplements
+herbal supplements	include	St. John's wort
+St. John's wort	induces	enzymes
+other cardiac preparations	has	patent status
+patent status	determines	generics availability
+generics	reduce	costs
+other cardiac preparations	prescribed by	physicians
+physicians	consult	guidelines
+guidelines	based on	evidence
+evidence	derived from	research

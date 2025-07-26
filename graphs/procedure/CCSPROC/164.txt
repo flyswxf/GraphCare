@@ -1,0 +1,100 @@
+other or therapeutic procedures on musculoskeletal system	is a	medical procedure
+other or therapeutic procedures on musculoskeletal system	treats	musculoskeletal disorders
+other or therapeutic procedures on musculoskeletal system	performed by	orthopedic surgeon
+other or therapeutic procedures on musculoskeletal system	involves	bones
+other or therapeutic procedures on musculoskeletal system	involves	muscles
+other or therapeutic procedures on musculoskeletal system	involves	joints
+other or therapeutic procedures on musculoskeletal system	involves	tendons
+other or therapeutic procedures on musculoskeletal system	involves	ligaments
+other or therapeutic procedures on musculoskeletal system	may require	anesthesia
+other or therapeutic procedures on musculoskeletal system	has risk of	infection
+other or therapeutic procedures on musculoskeletal system	has risk of	bleeding
+other or therapeutic procedures on musculoskeletal system	requires	postoperative care
+other or therapeutic procedures on musculoskeletal system	can lead to	pain relief
+other or therapeutic procedures on musculoskeletal system	can improve	mobility
+other or therapeutic procedures on musculoskeletal system	can restore	function
+arthroscopy	is a type of	other or therapeutic procedures on musculoskeletal system
+joint replacement	is a type of	other or therapeutic procedures on musculoskeletal system
+tendon repair	is a type of	other or therapeutic procedures on musculoskeletal system
+ligament reconstruction	is a type of	other or therapeutic procedures on musculoskeletal system
+osteotomy	is a type of	other or therapeutic procedures on musculoskeletal system
+fracture fixation	is a type of	other or therapeutic procedures on musculoskeletal system
+spinal fusion	is a type of	other or therapeutic procedures on musculoskeletal system
+discectomy	is a type of	other or therapeutic procedures on musculoskeletal system
+arthroplasty	is a type of	other or therapeutic procedures on musculoskeletal system
+synovectomy	is a type of	other or therapeutic procedures on musculoskeletal system
+arthroscopy	used for	joint examination
+arthroscopy	used for	joint repair
+joint replacement	treats	osteoarthritis
+joint replacement	treats	rheumatoid arthritis
+joint replacement	involves	prosthesis
+tendon repair	treats	tendon rupture
+tendon repair	treats	tendonitis
+ligament reconstruction	treats	ligament tear
+ligament reconstruction	commonly performed on	ACL
+osteotomy	corrects	bone deformity
+osteotomy	treats	osteoarthritis
+fracture fixation	stabilizes	broken bone
+fracture fixation	uses	screws
+fracture fixation	uses	plates
+spinal fusion	treats	spinal instability
+spinal fusion	treats	herniated disc
+spinal fusion	uses	bone grafts
+discectomy	removes	herniated disc
+discectomy	relieves	nerve compression
+arthroplasty	replaces	joint surface
+synovectomy	removes	inflamed synovium
+synovectomy	treats	rheumatoid arthritis
+physical therapy	follows	other or therapeutic procedures on musculoskeletal system
+pain medication	prescribed after	other or therapeutic procedures on musculoskeletal system
+antibiotics	prevent infection after	other or therapeutic procedures on musculoskeletal system
+other or therapeutic procedures on musculoskeletal system	may require	imaging
+X-ray	used for	preoperative planning
+MRI	used for	preoperative planning
+CT scan	used for	preoperative planning
+other or therapeutic procedures on musculoskeletal system	may lead to	complications
+complications	include	blood clots
+complications	include	nerve damage
+complications	include	implant failure
+complications	include	stiffness
+other or therapeutic procedures on musculoskeletal system	requires	rehabilitation
+rehabilitation	improves	recovery
+rehabilitation	involves	exercises
+other or therapeutic procedures on musculoskeletal system	has alternative	conservative treatment
+conservative treatment	includes	medication
+conservative treatment	includes	physical therapy
+conservative treatment	includes	injections
+corticosteroid injection	treats	joint inflammation
+hyaluronic acid injection	treats	osteoarthritis
+other or therapeutic procedures on musculoskeletal system	performed in	hospital
+other or therapeutic procedures on musculoskeletal system	performed in	outpatient clinic
+other or therapeutic procedures on musculoskeletal system	uses	surgical instruments
+surgical instruments	include	scalpel
+surgical instruments	include	drill
+surgical instruments	include	retractors
+other or therapeutic procedures on musculoskeletal system	may use	minimally invasive techniques
+minimally invasive techniques	reduce	recovery time
+minimally invasive techniques	cause less	tissue damage
+other or therapeutic procedures on musculoskeletal system	can be	elective
+other or therapeutic procedures on musculoskeletal system	can be	emergency
+elective surgery	scheduled in advance
+emergency surgery	performed immediately
+other or therapeutic procedures on musculoskeletal system	affected by	patient age
+other or therapeutic procedures on musculoskeletal system	affected by	patient health
+other or therapeutic procedures on musculoskeletal system	influenced by	comorbidities
+diabetes	affects	wound healing
+obesity	increases	surgical risk
+smoking	delays	bone healing
+other or therapeutic procedures on musculoskeletal system	requires	preoperative evaluation
+preoperative evaluation	assesses	fitness for surgery
+preoperative evaluation	includes	blood tests
+preoperative evaluation	includes	ECG
+other or therapeutic procedures on musculoskeletal system	has outcome	functional improvement
+other or therapeutic procedures on musculoskeletal system	has outcome	pain reduction
+other or therapeutic procedures on musculoskeletal system	has outcome	increased mobility
+other or therapeutic procedures on musculoskeletal system	evaluated by	outcome measures
+outcome measures	include	pain scale
+outcome measures	include	range of motion
+outcome measures	include	functional scores
+other or therapeutic procedures on musculoskeletal system	researched in	clinical trials
+clinical trials	evaluate	new techniques

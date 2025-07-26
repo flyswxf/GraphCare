@@ -1,0 +1,100 @@
+acute renal failure	is a	kidney disorder
+acute renal failure	may lead to	electrolyte imbalance
+acute renal failure	may cause	fluid overload
+acute renal failure	is diagnosed by	creatinine test
+acute renal failure	is treated with	dialysis
+dialysis	removes	toxins
+dialysis	requires	vascular access
+acute renal failure	may require	hospitalization
+hospitalization	increases risk of	infection
+acute renal failure	is associated with	hypotension
+hypotension	may result from	blood loss
+acute renal failure	can cause	uremia
+uremia	affects	brain function
+acute renal failure	may follow	sepsis
+sepsis	triggers	systemic inflammation
+acute renal failure	is common in	ICU patients
+ICU patients	often receive	mechanical ventilation
+acute renal failure	may result from	nephrotoxins
+contrast dye	is a	nephrotoxin
+acute renal failure	can follow	cardiac surgery
+cardiac surgery	may cause	ischemia
+ischemia	damages	kidney tissue
+acute renal failure	is monitored by	urine output
+oliguria	is a sign of	renal dysfunction
+acute renal failure	increases	mortality risk
+mortality risk	depends on	comorbidities
+diabetes	is a risk factor for	renal failure
+hypertension	contributes to	kidney damage
+acute renal failure	may require	fluid restriction
+fluid restriction	prevents	pulmonary edema
+pulmonary edema	impairs	oxygen exchange
+acute renal failure	alters	drug metabolism
+drug metabolism	affects	medication dosing
+gentamicin	requires dose adjustment in	renal failure
+acute renal failure	may cause	hyperkalemia
+hyperkalemia	can lead to	arrhythmia
+arrhythmia	may require	ECG monitoring
+acute renal failure	often follows	dehydration
+dehydration	results from	vomiting
+vomiting	can be caused by	gastroenteritis
+acute renal failure	is assessed by	GFR
+GFR	estimates	kidney function
+acute renal failure	may progress to	chronic kidney disease
+chronic kidney disease	requires	long-term management
+acute renal failure	can result from	obstruction
+kidney stones	cause	urinary obstruction
+urinary obstruction	leads to	hydronephrosis
+acute renal failure	is treated with	diuretics
+furosemide	is a	loop diuretic
+diuretics	promote	sodium excretion
+acute renal failure	may require	nutritional support
+nutritional support	limits	protein intake
+protein restriction	reduces	uremic toxins
+acute renal failure	is complicated by	anemia
+anemia	is treated with	erythropoietin
+erythropoietin	stimulates	RBC production
+acute renal failure	increases risk of	bleeding
+bleeding risk	is due to	platelet dysfunction
+platelet dysfunction	results from	uremia
+acute renal failure	may follow	rhabdomyolysis
+rhabdomyolysis	releases	myoglobin
+myoglobin	damages	renal tubules
+acute renal failure	can result from	vasculitis
+vasculitis	causes	vascular inflammation
+vascular inflammation	impairs	blood flow
+acute renal failure	is associated with	metabolic acidosis
+metabolic acidosis	requires	bicarbonate therapy
+bicarbonate therapy	corrects	pH imbalance
+acute renal failure	may cause	pericarditis
+pericarditis	presents with	chest pain
+chest pain	may indicate	cardiac tamponade
+acute renal failure	is worsened by	nephrotoxic drugs
+NSAIDs	are	nephrotoxic drugs
+nephrotoxic drugs	should be avoided in	renal impairment
+acute renal failure	may require	renal replacement therapy
+renal replacement therapy	includes	CRRT
+CRRT	provides	continuous filtration
+acute renal failure	is predicted by	risk scores
+risk scores	incorporate	laboratory values
+laboratory values	include	serum creatinine
+acute renal failure	may follow	contrast exposure
+contrast exposure	occurs during	CT scans
+CT scans	provide	diagnostic imaging
+acute renal failure	can result from	hemolysis
+hemolysis	releases	hemoglobin
+hemoglobin	precipitates in	renal tubules
+acute renal failure	is managed by	nephrologists
+nephrologists	specialize in	kidney diseases
+kidney diseases	include	glomerulonephritis
+acute renal failure	may improve with	volume expansion
+volume expansion	uses	IV fluids
+IV fluids	restore	circulation
+acute renal failure	is prevented by	hydration
+hydration	maintains	renal perfusion
+renal perfusion	depends on	cardiac output
+cardiac output	is reduced in	heart failure
+acute renal failure	may complicate	liver disease
+liver disease	causes	hepatorenal syndrome
+hepatorenal syndrome	involves	vasoconstriction
+vasoconstriction	reduces	kidney perfusion

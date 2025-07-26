@@ -1,0 +1,100 @@
+bone procedure	is a	surgical procedure
+bone procedure	treats	bone fracture
+bone procedure	treats	osteoporosis
+bone procedure	treats	bone tumor
+bone procedure	requires	anesthesia
+bone procedure	uses	orthopedic implants
+bone procedure	involves	femur
+bone procedure	involves	tibia
+bone procedure	involves	vertebrae
+bone procedure	affects	bone marrow
+bone grafting	is a type of	bone procedure
+osteotomy	is a type of	bone procedure
+internal fixation	is a type of	bone procedure
+external fixation	is a type of	bone procedure
+bone marrow aspiration	is a type of	bone procedure
+bone procedure	uses	titanium screws
+bone procedure	uses	bone cement
+bone procedure	uses	bone substitutes
+bone grafting	requires	donor tissue
+bone grafting	uses	synthetic grafts
+bone procedure	contraindicated in	osteomyelitis
+bone procedure	complicated by	nonunion
+bone procedure	risks	nerve damage
+bone procedure	risks	infection
+bone procedure	risks	bleeding
+bone procedure	requires	antibiotics prophylaxis
+bone procedure	interacts with	anticoagulants
+bone procedure	followed by	pain medication
+bone procedure	followed by	physical therapy
+bone procedure	contraindicated with	bisphosphonates
+bone procedure	preceded by	X-ray
+bone procedure	preceded by	CT scan
+bone procedure	preceded by	MRI
+bone procedure	preceded by	bone scan
+bone procedure	evaluated by	histopathology
+bone procedure	performed by	orthopedic surgeon
+bone procedure	assisted by	radiologist
+bone procedure	requires	operating room
+bone procedure	documented in	surgical report
+bone procedure	billed as	CPT code
+bone procedure	followed by	wound care
+bone procedure	followed by	cast immobilization
+bone procedure	followed by	weight restriction
+bone procedure	monitored by	follow-up X-ray
+bone procedure	rehabilitated with	physiotherapy
+bone procedure	in elderly	risks complications
+bone procedure	in children	affects growth plates
+bone procedure	in diabetics	heals slower
+bone procedure	in smokers	delays healing
+bone procedure	in obese patients	more difficult
+bone procedure	alternative to	conservative treatment
+bone procedure	compared with	external fixation
+bone procedure	replaces	failed previous surgery
+bone procedure	combined with	radiation therapy
+bone procedure	supplemented by	bone stimulators
+bone procedure	complicated by	hardware failure
+bone procedure	complicated by	malunion
+bone procedure	complicated by	compartment syndrome
+bone procedure	complicated by	fat embolism
+bone procedure	complicated by	DVT
+bone procedure	enhanced by	3D printing
+bone procedure	improved with	robotic assistance
+bone procedure	visualized with	augmented reality
+bone procedure	guided by	intraoperative imaging
+bone procedure	optimized with	patient-specific instruments
+bone procedure	alters	biomechanics
+bone procedure	affects	gait pattern
+bone procedure	changes	load distribution
+bone procedure	impacts	joint stability
+bone procedure	modifies	bone density
+bone procedure	costs	hospitalization
+bone procedure	requires	insurance approval
+bone procedure	varies in	surgical time
+bone procedure	depends on	implant selection
+bone procedure	affected by	healthcare system
+bone procedure	prognosis depends on	age
+bone procedure	prognosis depends on	comorbidity
+bone procedure	prognosis depends on	fracture type
+bone procedure	prognosis depends on	surgical technique
+bone procedure	prognosis depends on	rehabilitation
+bone procedure	includes	bone realignment
+bone procedure	includes	debridement
+bone procedure	includes	joint fusion
+bone procedure	includes	limb lengthening
+bone procedure	includes	tumor resection
+bone procedure	coordinated with	oncologist
+bone procedure	involves	anesthesiologist
+bone procedure	requires	surgical nurse
+bone procedure	followed by	pain specialist
+bone procedure	consulted with	rheumatologist
+bone procedure	investigated with	stem cells
+bone procedure	studied with	growth factors
+bone procedure	trialing	bioresorbable implants
+bone procedure	exploring	gene therapy
+bone procedure	researching	nanotechnology
+bone procedure	tracked in	surgical registry
+bone procedure	quality measured by	complication rates
+bone procedure	benchmarked with	national standards
+bone procedure	audited for	cost-effectiveness
+bone procedure	improved through	clinical guidelines

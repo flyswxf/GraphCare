@@ -1,0 +1,100 @@
+forceps delivery	is a	obstetric procedure
+forceps delivery	assists in	vaginal birth
+forceps delivery	requires	skilled practitioner
+forceps delivery	may cause	perineal trauma
+forceps delivery	increases risk of	pelvic floor dysfunction
+forceps delivery	associated with	fetal distress
+forceps delivery	alternative to	cesarean section
+forceps delivery	used during	second stage labor
+forceps delivery	may lead to	neonatal bruising
+forceps delivery	requires	adequate anesthesia
+forceps delivery	contraindicated in	cephalopelvic disproportion
+forceps delivery	increases likelihood of	episiotomy
+forceps delivery	may result in	vaginal laceration
+forceps delivery	associated with	postpartum hemorrhage
+forceps delivery	requires	maternal consent
+forceps delivery	may cause	urinary incontinence
+forceps delivery	increases risk of	anal sphincter injury
+forceps delivery	performed for	prolonged labor
+forceps delivery	requires	fetal head engagement
+forceps delivery	may lead to	neonatal facial palsy
+forceps delivery	alternative to	vacuum extraction
+forceps delivery	contraindicated in	face presentation
+forceps delivery	increases risk of	shoulder dystocia
+forceps delivery	may cause	cervical laceration
+forceps delivery	requires	rupture of membranes
+forceps delivery	associated with	neonatal intracranial hemorrhage
+forceps delivery	performed using	obstetric forceps
+forceps delivery	may lead to	maternal infection
+forceps delivery	increases risk of	third-degree tear
+forceps delivery	contraindicated in	fetal coagulopathy
+forceps delivery	requires	adequate pelvic space
+forceps delivery	may cause	neonatal skull fracture
+forceps delivery	associated with	uterine rupture
+forceps delivery	performed for	maternal exhaustion
+forceps delivery	alternative to	spontaneous delivery
+forceps delivery	increases risk of	neonatal seizures
+forceps delivery	may lead to	post-traumatic stress disorder
+forceps delivery	contraindicated in	preterm delivery
+forceps delivery	requires	complete cervical dilation
+forceps delivery	may cause	neonatal brachial plexus injury
+forceps delivery	associated with	pelvic organ prolapse
+forceps delivery	performed for	fetal bradycardia
+forceps delivery	increases risk of	rectovaginal fistula
+forceps delivery	may lead to	sexual dysfunction
+forceps delivery	contraindicated in	macrosomia
+forceps delivery	requires	maternal pushing effort
+forceps delivery	may cause	neonatal retinal hemorrhage
+forceps delivery	associated with	chronic pelvic pain
+forceps delivery	performed for	maternal hypertension
+forceps delivery	increases risk of	neonatal hypoxic injury
+forceps delivery	may lead to	dyspareunia
+forceps delivery	contraindicated in	fetal hydrocephalus
+forceps delivery	requires	fetal position assessment
+forceps delivery	may cause	neonatal clavicular fracture
+forceps delivery	associated with	urinary retention
+forceps delivery	performed for	maternal cardiac disease
+forceps delivery	increases risk of	neonatal cephalohematoma
+forceps delivery	may lead to	fecal incontinence
+forceps delivery	contraindicated in	breech presentation
+forceps delivery	requires	adequate analgesia
+forceps delivery	may cause	neonatal facial nerve injury
+forceps delivery	associated with	perineal pain
+forceps delivery	performed for	fetal acidemia
+forceps delivery	increases risk of	neonatal encephalopathy
+forceps delivery	may lead to	uterine atony
+forceps delivery	contraindicated in	placenta previa
+forceps delivery	requires	fetal heart monitoring
+forceps delivery	may cause	neonatal scalp injury
+forceps delivery	associated with	hematoma formation
+forceps delivery	performed for	maternal respiratory distress
+forceps delivery	increases risk of	neonatal jaundice
+forceps delivery	may lead to	perineal wound infection
+forceps delivery	contraindicated in	cord prolapse
+forceps delivery	requires	maternal bladder emptying
+forceps delivery	may cause	neonatal subgaleal hemorrhage
+forceps delivery	associated with	prolonged hospital stay
+forceps delivery	performed for	fetal malposition
+forceps delivery	increases risk of	neonatal sepsis
+forceps delivery	may lead to	uterine inversion
+forceps delivery	contraindicated in	active herpes infection
+forceps delivery	requires	fetal station assessment
+forceps delivery	may cause	neonatal hypothermia
+forceps delivery	associated with	blood transfusion
+forceps delivery	performed for	maternal diabetes
+forceps delivery	increases risk of	neonatal resuscitation
+forceps delivery	may lead to	perineal wound dehiscence
+forceps delivery	contraindicated in	fetal anemia
+forceps delivery	requires	maternal positioning
+forceps delivery	may cause	neonatal caput succedaneum
+forceps delivery	associated with	antibiotic prophylaxis
+forceps delivery	performed for	fetal heart decelerations
+forceps delivery	increases risk of	neonatal hypoglycemia
+forceps delivery	may lead to	psychological trauma
+forceps delivery	contraindicated in	maternal pelvic deformity
+forceps delivery	requires	fetal size estimation
+forceps delivery	may cause	neonatal Erb's palsy
+forceps delivery	associated with	oxytocin augmentation
+forceps delivery	performed for	maternal fatigue
+forceps delivery	increases risk of	neonatal meconium aspiration
+forceps delivery	may lead to	future pregnancy complications

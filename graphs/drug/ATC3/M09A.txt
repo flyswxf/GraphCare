@@ -1,0 +1,100 @@
+other drugs for disorders of the musculo-skeletal system in ATC	belong to	ATC classification
+other drugs for disorders of the musculo-skeletal system in ATC	treat	musculoskeletal disorders
+musculoskeletal disorders	include	osteoarthritis
+musculoskeletal disorders	include	rheumatoid arthritis
+musculoskeletal disorders	include	osteoporosis
+musculoskeletal disorders	include	muscle spasms
+musculoskeletal disorders	include	gout
+osteoarthritis	involves	joint degeneration
+rheumatoid arthritis	involves	autoimmune inflammation
+osteoporosis	involves	bone density loss
+muscle spasms	involve	involuntary contractions
+gout	involves	uric acid accumulation
+other drugs for disorders of the musculo-skeletal system in ATC	may include	NSAIDs
+NSAIDs	reduce	inflammation
+NSAIDs	relieve	pain
+NSAIDs	include	ibuprofen
+NSAIDs	include	naproxen
+NSAIDs	include	diclofenac
+ibuprofen	inhibits	COX enzymes
+naproxen	inhibits	prostaglandin synthesis
+diclofenac	applied as	topical gel
+other drugs for disorders of the musculo-skeletal system in ATC	may include	corticosteroids
+corticosteroids	suppress	immune response
+corticosteroids	reduce	inflammation
+corticosteroids	include	prednisone
+corticosteroids	include	dexamethasone
+prednisone	treats	rheumatoid arthritis
+dexamethasone	treats	severe inflammation
+other drugs for disorders of the musculo-skeletal system in ATC	may include	muscle relaxants
+muscle relaxants	relieve	muscle spasms
+muscle relaxants	include	baclofen
+muscle relaxants	include	cyclobenzaprine
+baclofen	acts on	GABA receptors
+cyclobenzaprine	reduces	muscle hyperactivity
+other drugs for disorders of the musculo-skeletal system in ATC	may include	bisphosphonates
+bisphosphonates	treat	osteoporosis
+bisphosphonates	inhibit	bone resorption
+bisphosphonates	include	alendronate
+bisphosphonates	include	zoledronic acid
+alendronate	increases	bone density
+zoledronic acid	administered as	infusion
+other drugs for disorders of the musculo-skeletal system in ATC	may include	disease-modifying antirheumatic drugs (DMARDs)
+DMARDs	slow	disease progression
+DMARDs	include	methotrexate
+DMARDs	include	sulfasalazine
+methotrexate	suppresses	immune system
+sulfasalazine	reduces	joint swelling
+other drugs for disorders of the musculo-skeletal system in ATC	may include	biologic agents
+biologic agents	target	specific immune pathways
+biologic agents	include	TNF inhibitors
+TNF inhibitors	block	tumor necrosis factor
+TNF inhibitors	include	etanercept
+TNF inhibitors	include	adalimumab
+etanercept	reduces	joint damage
+adalimumab	treats	autoimmune arthritis
+other drugs for disorders of the musculo-skeletal system in ATC	may include	colchicine
+colchicine	treats	gout
+colchicine	inhibits	microtubule formation
+other drugs for disorders of the musculo-skeletal system in ATC	may include	allopurinol
+allopurinol	reduces	uric acid
+allopurinol	prevents	gout attacks
+other drugs for disorders of the musculo-skeletal system in ATC	may include	calcium supplements
+calcium supplements	support	bone health
+calcium supplements	prevent	osteoporosis
+other drugs for disorders of the musculo-skeletal system in ATC	may include	vitamin D analogs
+vitamin D analogs	enhance	calcium absorption
+vitamin D analogs	include	calcitriol
+calcitriol	regulates	calcium metabolism
+other drugs for disorders of the musculo-skeletal system in ATC	may include	hyaluronic acid injections
+hyaluronic acid injections	lubricate	joints
+hyaluronic acid injections	treat	osteoarthritis
+other drugs for disorders of the musculo-skeletal system in ATC	may include	opioid analgesics
+opioid analgesics	relieve	severe pain
+opioid analgesics	include	tramadol
+opioid analgesics	include	oxycodone
+tramadol	acts on	opioid receptors
+oxycodone	risks	dependency
+other drugs for disorders of the musculo-skeletal system in ATC	may include	topical analgesics
+topical analgesics	provide	localized pain relief
+topical analgesics	include	capsaicin cream
+capsaicin cream	desensitizes	nerve endings
+other drugs for disorders of the musculo-skeletal system in ATC	may include	glucosamine supplements
+glucosamine supplements	support	cartilage health
+glucosamine supplements	may ease	joint pain
+other drugs for disorders of the musculo-skeletal system in ATC	may include	chondroitin sulfate
+chondroitin sulfate	maintains	joint structure
+chondroitin sulfate	often combined with	glucosamine
+other drugs for disorders of the musculo-skeletal system in ATC	may include	paracetamol
+paracetamol	reduces	mild pain
+paracetamol	lacks	anti-inflammatory effects
+other drugs for disorders of the musculo-skeletal system in ATC	may interact with	anticoagulants
+anticoagulants	increase	bleeding risk
+NSAIDs	may interact with	anticoagulants
+other drugs for disorders of the musculo-skeletal system in ATC	may cause	gastrointestinal side effects
+gastrointestinal side effects	include	ulcers
+gastrointestinal side effects	include	bleeding
+corticosteroids	may cause	osteoporosis
+long-term corticosteroid use	requires	bone monitoring
+bisphosphonates	may cause	jaw osteonecrosis
+DMARDs	require	regular blood tests

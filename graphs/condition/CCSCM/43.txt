@@ -1,0 +1,100 @@
+malignant neoplasm	is a	cancer
+malignant neoplasm	may cause	metastasis
+malignant neoplasm	is diagnosed by	biopsy
+malignant neoplasm	is treated with	chemotherapy
+malignant neoplasm	is treated with	radiation therapy
+malignant neoplasm	is treated with	surgery
+malignant neoplasm	has symptom	weight loss
+malignant neoplasm	has symptom	fatigue
+malignant neoplasm	has symptom	pain
+malignant neoplasm	may lead to	death
+malignant neoplasm	is staged by	TNM system
+malignant neoplasm	involves	uncontrolled cell growth
+malignant neoplasm	may originate from	epithelial cells
+malignant neoplasm	may originate from	mesenchymal cells
+malignant neoplasm	may affect	multiple organs
+malignant neoplasm	is associated with	genetic mutations
+malignant neoplasm	is associated with	environmental factors
+malignant neoplasm	is associated with	smoking
+malignant neoplasm	is associated with	alcohol
+malignant neoplasm	is associated with	obesity
+malignant neoplasm	is associated with	chronic inflammation
+malignant neoplasm	is associated with	viral infections
+malignant neoplasm	is monitored by	imaging
+malignant neoplasm	is monitored by	tumor markers
+malignant neoplasm	may require	palliative care
+malignant neoplasm	may require	targeted therapy
+malignant neoplasm	may require	immunotherapy
+malignant neoplasm	may cause	anemia
+malignant neoplasm	may cause	thrombocytopenia
+malignant neoplasm	may cause	leukopenia
+malignant neoplasm	may cause	cachexia
+malignant neoplasm	may cause	organ failure
+malignant neoplasm	may cause	paraneoplastic syndromes
+malignant neoplasm	is researched in	oncology
+malignant neoplasm	has subtypes	carcinoma
+malignant neoplasm	has subtypes	sarcoma
+malignant neoplasm	has subtypes	lymphoma
+malignant neoplasm	has subtypes	leukemia
+malignant neoplasm	has subtypes	melanoma
+malignant neoplasm	has subtypes	germ cell tumor
+malignant neoplasm	has subtypes	blastoma
+malignant neoplasm	may spread via	lymphatic system
+malignant neoplasm	may spread via	bloodstream
+malignant neoplasm	may have	primary site
+malignant neoplasm	may have	secondary sites
+malignant neoplasm	is classified by	histology
+malignant neoplasm	is classified by	grade
+malignant neoplasm	may recur after	treatment
+malignant neoplasm	may be	drug resistant
+malignant neoplasm	may respond to	hormone therapy
+malignant neoplasm	may be detected by	screening
+malignant neoplasm	may be prevented by	vaccination
+malignant neoplasm	may be prevented by	lifestyle changes
+malignant neoplasm	requires	multidisciplinary care
+malignant neoplasm	involves	oncogenes
+malignant neoplasm	involves	tumor suppressor genes
+malignant neoplasm	involves	DNA repair genes
+malignant neoplasm	may be	hereditary
+malignant neoplasm	may be	sporadic
+malignant neoplasm	may have	chromosomal abnormalities
+malignant neoplasm	may have	epigenetic changes
+malignant neoplasm	may have	tumor microenvironment
+malignant neoplasm	may have	angiogenesis
+malignant neoplasm	may evade	immune system
+malignant neoplasm	may cause	hypercalcemia
+malignant neoplasm	may cause	hypercoagulability
+malignant neoplasm	may cause	neurological symptoms
+malignant neoplasm	may affect	quality of life
+malignant neoplasm	may require	pain management
+malignant neoplasm	may require	nutritional support
+malignant neoplasm	may require	psychological support
+malignant neoplasm	has risk factors	age
+malignant neoplasm	has risk factors	family history
+malignant neoplasm	has risk factors	radiation exposure
+malignant neoplasm	has risk factors	chemical exposure
+malignant neoplasm	has risk factors	hormonal factors
+malignant neoplasm	has risk factors	immunosuppression
+malignant neoplasm	may be studied via	animal models
+malignant neoplasm	may be studied via	cell cultures
+malignant neoplasm	may be studied via	clinical trials
+malignant neoplasm	may have	biomarker profiles
+malignant neoplasm	may have	molecular signatures
+malignant neoplasm	may respond to	combination therapy
+malignant neoplasm	may require	dose adjustment
+malignant neoplasm	may have	treatment side effects
+malignant neoplasm	may lead to	treatment complications
+malignant neoplasm	may affect	treatment outcomes
+malignant neoplasm	may be	locally advanced
+malignant neoplasm	may be	metastatic
+malignant neoplasm	may be	inoperable
+malignant neoplasm	may require	neoadjuvant therapy
+malignant neoplasm	may require	adjuvant therapy
+malignant neoplasm	may have	prognostic factors
+malignant neoplasm	may have	predictive factors
+malignant neoplasm	may be	treatment resistant
+malignant neoplasm	may develop	treatment toxicity
+malignant neoplasm	may require	supportive care
+malignant neoplasm	may involve	clinical guidelines
+malignant neoplasm	may be	treatment responsive
+malignant neoplasm	may be	treatment refractory

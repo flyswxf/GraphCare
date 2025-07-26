@@ -1,0 +1,107 @@
+other diagnostic agents in atc	is a	medical classification
+other diagnostic agents in atc	includes	radiopharmaceuticals
+other diagnostic agents in atc	includes	contrast media
+other diagnostic agents in atc	classified under	V04
+V04	is part of	ATC classification system
+contrast media	used for	imaging procedures
+radiopharmaceuticals	used in	nuclear medicine
+imaging procedures	includes	MRI
+imaging procedures	includes	CT scan
+nuclear medicine	includes	PET scan
+MRI	uses	gadolinium-based contrast
+CT scan	uses	iodine-based contrast
+PET scan	uses	radioactive tracers
+gadolinium-based contrast	may cause	nephrogenic systemic fibrosis
+iodine-based contrast	may cause	allergic reactions
+radioactive tracers	may cause	radiation exposure
+nephrogenic systemic fibrosis	affects	skin
+allergic reactions	can lead	anaphylaxis
+radiation exposure	increases risk	cancer
+other diagnostic agents in atc	prescribed by	radiologists
+radiologists	specialize in	diagnostic imaging
+diagnostic imaging	aids in	disease diagnosis
+disease diagnosis	requires	medical history
+medical history	includes	allergies
+allergies	can contraindicate	contrast media
+other diagnostic agents in atc	requires	dose adjustment
+dose adjustment	needed for	renal impairment
+renal impairment	monitored via	creatinine levels
+creatinine levels	measured by	blood test
+blood test	part of	laboratory diagnostics
+laboratory diagnostics	complements	imaging diagnostics
+imaging diagnostics	improves	treatment planning
+treatment planning	involves	multidisciplinary team
+multidisciplinary team	includes	oncologists
+oncologists	treat	cancer
+cancer	diagnosed via	biopsy
+biopsy	analyzed by	pathologists
+pathologists	examine	tissue samples
+tissue samples	processed in	histopathology lab
+histopathology lab	uses	staining techniques
+staining techniques	highlight	cellular abnormalities
+cellular abnormalities	indicate	disease progression
+disease progression	monitored via	follow-up imaging
+follow-up imaging	compares	baseline scans
+baseline scans	obtained at	initial diagnosis
+initial diagnosis	documented in	electronic health records
+electronic health records	accessed by	healthcare providers
+healthcare providers	follow	clinical guidelines
+clinical guidelines	recommend	contrast use
+contrast use	enhances	image resolution
+image resolution	critical for	accurate diagnosis
+accurate diagnosis	reduces	misdiagnosis risk
+misdiagnosis risk	mitigated by	second opinion
+second opinion	sought from	specialist
+specialist	may suggest	alternative imaging
+alternative imaging	includes	ultrasound
+ultrasound	uses	sound waves
+sound waves	create	real-time images
+real-time images	useful for	guided procedures
+guided procedures	include	needle biopsies
+needle biopsies	collect	tissue specimens
+tissue specimens	tested for	genetic markers
+genetic markers	predict	drug response
+drug response	influences	personalized therapy
+personalized therapy	tailored to	patient genetics
+patient genetics	analyzed via	genomic testing
+genomic testing	identifies	mutations
+mutations	linked to	hereditary diseases
+hereditary diseases	screened via	family history
+family history	recorded in	medical questionnaire
+medical questionnaire	completed by	patients
+patients	may require	interpreter services
+interpreter services	ensure	informed consent
+informed consent	needed for	invasive diagnostics
+invasive diagnostics	carry	procedural risks
+procedural risks	include	bleeding
+bleeding	managed with	hemostatic agents
+hemostatic agents	applied by	nurses
+nurses	assist in	diagnostic procedures
+diagnostic procedures	scheduled via	hospital system
+hospital system	tracks	appointment adherence
+appointment adherence	affects	diagnostic delays
+diagnostic delays	worsen	prognosis
+prognosis	discussed in	patient counseling
+patient counseling	addresses	treatment options
+treatment options	may involve	surgery
+surgery	preceded by	preoperative imaging
+preoperative imaging	confirms	tumor margins
+tumor margins	determine	resection extent
+resection extent	impacts	recovery time
+recovery time	monitored via	postoperative visits
+postoperative visits	assess	complication signs
+complication signs	reported by	patients
+patients	educated on	symptom reporting
+symptom reporting	triggers	early intervention
+early intervention	prevents	readmissions
+readmissions	measured by	hospital metrics
+hospital metrics	reflect	care quality
+care quality	improved by	continuous training
+continuous training	updates	clinical staff
+clinical staff	adhere to	safety protocols
+safety protocols	minimize	diagnostic errors
+diagnostic errors	reduced by	AI assistance
+AI assistance	analyzes	imaging data
+imaging data	stored in	PACS
+PACS	accessed via	DICOM standard
+DICOM standard	ensures	interoperability

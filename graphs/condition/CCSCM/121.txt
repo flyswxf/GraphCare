@@ -1,0 +1,100 @@
+other diseases of veins and lymphatics	include	chronic venous insufficiency
+other diseases of veins and lymphatics	include	lymphedema
+other diseases of veins and lymphatics	include	varicose veins
+other diseases of veins and lymphatics	include	deep vein thrombosis
+chronic venous insufficiency	causes	leg swelling
+chronic venous insufficiency	leads to	venous ulcers
+lymphedema	results from	lymphatic system damage
+lymphedema	causes	tissue swelling
+varicose veins	are	enlarged veins
+varicose veins	cause	leg pain
+deep vein thrombosis	is a	blood clot
+deep vein thrombosis	risks	pulmonary embolism
+venous ulcers	require	wound care
+compression therapy	treats	chronic venous insufficiency
+compression stockings	are used for	varicose veins
+elevation	reduces	lymphedema swelling
+anticoagulants	treat	deep vein thrombosis
+warfarin	is an	anticoagulant
+heparin	is an	anticoagulant
+lymphatic drainage	manages	lymphedema
+surgery	treats	severe varicose veins
+sclerotherapy	treats	small varicose veins
+venous stasis	causes	skin changes
+venous stasis	leads to	dermatitis
+edema	is a symptom of	venous disease
+diuretics	reduce	edema
+furosemide	is a	diuretic
+exercise	improves	venous return
+obesity	worsens	venous disease
+pregnancy	increases risk of	varicose veins
+smoking	exacerbates	venous insufficiency
+immobility	causes	venous stasis
+D-dimer test	diagnoses	deep vein thrombosis
+ultrasound	detects	venous thrombosis
+CT venography	images	venous system
+lymphoscintigraphy	evaluates	lymphatic function
+cellulitis	complicates	lymphedema
+antibiotics	treat	cellulitis
+venous ulcers	increase risk of	infection
+diabetes	worsens	venous ulcers
+hypertension	associates with	venous disease
+aging	increases risk of	venous insufficiency
+family history	predisposes to	varicose veins
+venous valves	prevent	backflow
+valve dysfunction	causes	venous reflux
+venous reflux	leads to	venous hypertension
+lipodermatosclerosis	results from	chronic venous insufficiency
+venous hypertension	causes	skin fibrosis
+phlebitis	inflames	veins
+thrombophlebitis	combines	thrombosis and inflammation
+post-thrombotic syndrome	follows	deep vein thrombosis
+venous stenting	treats	venous obstruction
+vascular surgeon	manages	venous diseases
+lymphatic filariasis	causes	elephantiasis
+parasites	cause	lymphatic filariasis
+mosquitoes	transmit	lymphatic filariasis
+decongestive therapy	treats	lymphedema
+manual compression	reduces	swelling
+pneumatic compression	manages	lymphedema
+lymph node removal	causes	secondary lymphedema
+radiation therapy	damages	lymphatics
+cancer treatment	risks	lymphedema
+primary lymphedema	is congenital
+Milroy disease	causes	primary lymphedema
+venous ulcers	decrease	quality of life
+pain management	helps	venous ulcers
+venous insufficiency	affects	mobility
+walking	benefits	venous return
+salt restriction	reduces	edema
+skin care	prevents	venous ulcer complications
+venous disease	increases	healthcare costs
+early detection	prevents	complications
+compression bandages	treat	venous ulcers
+venous refill time	assesses	venous function
+air travel	risks	deep vein thrombosis
+hydration	prevents	venous thrombosis
+sequential compression devices	prevent	DVT
+elastic compression	improves	venous symptoms
+graded compression	varies by	limb segment
+lymphatic massage	improves	drainage
+complex decongestive therapy	combines	multiple treatments
+skin infections	complicate	lymphedema
+antibiotic prophylaxis	prevents	cellulitis
+weight management	helps	venous disease
+leg elevation	reduces	venous pressure
+venous obstruction	requires	intervention
+thrombolysis	treats	acute DVT
+inferior vena cava filter	prevents	pulmonary embolism
+venous ablation	treats	varicose veins
+laser therapy	treats	small veins
+radiofrequency ablation	closes	diseased veins
+venous disease	correlates with	cardiovascular risk
+inflammatory markers	associate with	venous disease
+genetic factors	influence	venous disorders
+collagen abnormalities	affect	vein walls
+venous return	depends on	muscle pump
+calf muscles	assist	venous return
+lymphatic vessels	transport	interstitial fluid
+lymph nodes	filter	lymphatic fluid
+immune function	involves	lymphatic system

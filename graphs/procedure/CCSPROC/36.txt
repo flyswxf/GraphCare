@@ -1,0 +1,100 @@
+lobectomy	is a	surgical procedure
+pneumonectomy	is a	surgical procedure
+lobectomy	removes	lung lobe
+pneumonectomy	removes	entire lung
+lobectomy	treats	lung cancer
+pneumonectomy	treats	lung cancer
+lobectomy	treats	tuberculosis
+pneumonectomy	treats	tuberculosis
+lobectomy	treats	emphysema
+pneumonectomy	treats	bronchiectasis
+lobectomy	performed via	thoracotomy
+pneumonectomy	performed via	thoracotomy
+lobectomy	performed via	VATS
+pneumonectomy	risks	bleeding
+lobectomy	risks	infection
+pneumonectomy	risks	pneumonia
+lobectomy	risks	air leak
+pneumonectomy	risks	respiratory failure
+lobectomy	requires	general anesthesia
+pneumonectomy	requires	general anesthesia
+lobectomy	followed by	chest tube
+pneumonectomy	followed by	chest tube
+lobectomy	affects	lung function
+pneumonectomy	affects	lung function
+lobectomy	requires	postoperative pain management
+pneumonectomy	requires	postoperative pain management
+lobectomy	may lead to	atelectasis
+pneumonectomy	may lead to	pulmonary edema
+lobectomy	contraindicated in	severe COPD
+pneumonectomy	contraindicated in	poor cardiac function
+lobectomy	preceded by	pulmonary function tests
+pneumonectomy	preceded by	pulmonary function tests
+lobectomy	preceded by	CT scan
+pneumonectomy	preceded by	CT scan
+lobectomy	preceded by	PET scan
+pneumonectomy	preceded by	PET scan
+lobectomy	performed by	thoracic surgeon
+pneumonectomy	performed by	thoracic surgeon
+lobectomy	involves	lymph node dissection
+pneumonectomy	involves	lymph node dissection
+lobectomy	associated with	shorter recovery
+pneumonectomy	associated with	longer recovery
+lobectomy	may require	ICU stay
+pneumonectomy	may require	ICU stay
+lobectomy	complication	arrhythmia
+pneumonectomy	complication	empyema
+lobectomy	complication	bronchopleural fistula
+pneumonectomy	complication	postpneumonectomy syndrome
+lobectomy	outcome measure	survival rate
+pneumonectomy	outcome measure	survival rate
+lobectomy	alternative	radiation therapy
+pneumonectomy	alternative	radiation therapy
+lobectomy	alternative	chemotherapy
+pneumonectomy	alternative	chemotherapy
+lobectomy	adjuvant therapy	chemotherapy
+pneumonectomy	adjuvant therapy	chemotherapy
+lobectomy	adjuvant therapy	immunotherapy
+pneumonectomy	adjuvant therapy	immunotherapy
+lobectomy	requires	preoperative counseling
+pneumonectomy	requires	preoperative counseling
+lobectomy	monitoring	oxygen saturation
+pneumonectomy	monitoring	oxygen saturation
+lobectomy	monitoring	chest X-ray
+pneumonectomy	monitoring	chest X-ray
+lobectomy	rehabilitation	breathing exercises
+pneumonectomy	rehabilitation	breathing exercises
+lobectomy	rehabilitation	physical therapy
+pneumonectomy	rehabilitation	physical therapy
+lobectomy	cost	hospital charges
+pneumonectomy	cost	hospital charges
+lobectomy	influenced by	tumor stage
+pneumonectomy	influenced by	tumor stage
+lobectomy	influenced by	patient age
+pneumonectomy	influenced by	patient age
+lobectomy	influenced by	comorbidities
+pneumonectomy	influenced by	comorbidities
+lobectomy	research focus	minimally invasive techniques
+pneumonectomy	research focus	postoperative outcomes
+lobectomy	related to	segmentectomy
+pneumonectomy	related to	extrapleural pneumonectomy
+lobectomy	uses	surgical staplers
+pneumonectomy	uses	surgical staplers
+lobectomy	uses	electrocautery
+pneumonectomy	uses	electrocautery
+lobectomy	anatomy	bronchial tree
+pneumonectomy	anatomy	pulmonary artery
+lobectomy	anatomy	pulmonary vein
+pneumonectomy	anatomy	main bronchus
+lobectomy	postoperative	pleural drainage
+pneumonectomy	postoperative	pleural drainage
+lobectomy	postoperative	incentive spirometry
+pneumonectomy	postoperative	incentive spirometry
+lobectomy	mortality predictor	preoperative FEV1
+pneumonectomy	mortality predictor	preoperative FEV1
+lobectomy	mortality predictor	DLCO
+pneumonectomy	mortality predictor	DLCO
+lobectomy	readmission risk	infection
+pneumonectomy	readmission risk	infection
+lobectomy	readmission risk	pulmonary complications
+pneumonectomy	readmission risk	pulmonary complications

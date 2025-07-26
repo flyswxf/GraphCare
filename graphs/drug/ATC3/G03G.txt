@@ -1,0 +1,100 @@
+gonadotropins	is a	ovulation stimulant
+ovulation stimulants	include	gonadotropins
+gonadotropins	stimulate	ovarian follicles
+ovarian follicles	produce	eggs
+gonadotropins	mimic	FSH
+FSH	regulates	follicular growth
+gonadotropins	mimic	LH
+LH	triggers	ovulation
+ovulation stimulants	treat	infertility
+infertility	may cause	anovulation
+anovulation	requires	ovulation induction
+ovulation induction	uses	gonadotropins
+gonadotropins	derived from	urine
+gonadotropins	produced as	recombinant
+recombinant gonadotropins	have	higher purity
+gonadotropins	administered via	injection
+injection	requires	medical supervision
+gonadotropins	may cause	OHSS
+OHSS	is a	complication
+complications	require	monitoring
+monitoring	involves	ultrasound
+ultrasound	assesses	follicular development
+gonadotropins	increase	multiple pregnancy risk
+multiple pregnancy	carries	higher risks
+higher risks	include	preterm birth
+gonadotropins	interact with	GnRH analogs
+GnRH analogs	control	hormone secretion
+hormone secretion	affects	treatment outcome
+treatment outcome	measured by	pregnancy rate
+pregnancy rate	depends on	patient age
+patient age	affects	ovarian reserve
+ovarian reserve	determines	response
+response	evaluated by	monitoring
+gonadotropins	contraindicated in	ovarian cysts
+ovarian cysts	may affect	treatment
+treatment	requires	baseline assessment
+baseline assessment	includes	hormone tests
+hormone tests	measure	AMH levels
+AMH levels	indicate	ovarian reserve
+gonadotropins	used in	IVF
+IVF	involves	egg retrieval
+egg retrieval	follows	stimulation
+stimulation	requires	dosage adjustment
+dosage adjustment	based on	response
+response	varies by	individual
+individual factors	include	BMI
+BMI	affects	drug metabolism
+drug metabolism	influences	effectiveness
+effectiveness	determines	cycle cancellation
+cycle cancellation	occurs in	poor responders
+poor responders	may need	higher doses
+higher doses	increase	side effects
+side effects	include	bloating
+bloating	results from	ovarian enlargement
+ovarian enlargement	monitored by	ultrasound
+gonadotropins	stored at	refrigerated temperature
+refrigerated temperature	maintains	stability
+stability	ensures	potency
+potency	affects	treatment success
+treatment success	defined as	live birth
+live birth	is	ultimate goal
+gonadotropins	compared with	clomiphene
+clomiphene	is	oral medication
+oral medication	has	lower cost
+lower cost	increases	accessibility
+accessibility	affects	treatment choice
+treatment choice	considers	patient preference
+patient preference	influenced by	administration route
+administration route	impacts	compliance
+compliance	affects	outcomes
+outcomes	tracked in	registries
+registries	provide	safety data
+safety data	guides	protocols
+protocols	standardize	treatment
+standardized treatment	reduces	variability
+variability	impacts	success rates
+success rates	published in	studies
+studies	inform	guidelines
+guidelines	recommend	patient selection
+patient selection	excludes	contraindications
+contraindications	include	hormone-sensitive cancers
+hormone-sensitive cancers	may worsen with	stimulation
+stimulation	requires	informed consent
+informed consent	covers	risks
+risks	include	ectopic pregnancy
+ectopic pregnancy	is a	complication
+complications	managed by	specialists
+specialists	follow	treatment algorithms
+treatment algorithms	adapt to	patient response
+patient response	monitored through	hormone levels
+hormone levels	indicate	follicular maturity
+follicular maturity	determines	trigger timing
+trigger timing	crucial for	oocyte quality
+oocyte quality	affects	fertilization
+fertilization	leads to	embryo development
+embryo development	evaluated by	grading
+grading	predicts	implantation potential
+implantation potential	influences	pregnancy success
+pregnancy success	culminates in	live birth
+live birth	validates	treatment efficacy

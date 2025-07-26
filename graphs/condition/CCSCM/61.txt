@@ -1,0 +1,100 @@
+sickle cell anemia	is a	genetic disorder
+sickle cell anemia	affects	hemoglobin
+sickle cell anemia	causes	anemia
+sickle cell anemia	may lead to	pain crisis
+sickle cell anemia	increases risk of	infection
+sickle cell anemia	associated with	jaundice
+sickle cell anemia	may cause	organ damage
+sickle cell anemia	linked to	fatigue
+sickle cell anemia	related to	delayed growth
+sickle cell anemia	connected with	vision problems
+sickle cell anemia	complicates	pregnancy
+sickle cell anemia	predisposes to	stroke
+sickle cell anemia	leads to	splenic dysfunction
+sickle cell anemia	associated with	gallstones
+sickle cell anemia	may cause	pulmonary hypertension
+sickle cell anemia	increases risk of	acute chest syndrome
+sickle cell anemia	related to	priapism
+sickle cell anemia	requires	pain management
+sickle cell anemia	treated with	hydroxyurea
+sickle cell anemia	managed with	folic acid
+sickle cell anemia	prevented by	newborn screening
+sickle cell anemia	diagnosed via	hemoglobin electrophoresis
+sickle cell anemia	screened by	blood test
+sickle cell anemia	may need	blood transfusion
+sickle cell anemia	potentially cured by	bone marrow transplant
+sickle cell anemia	benefits from	pneumococcal vaccine
+sickle cell anemia	requires	regular monitoring
+sickle cell anemia	associated with	iron overload
+sickle cell anemia	may require	chelation therapy
+sickle cell anemia	linked to	chronic kidney disease
+sickle cell anemia	increases risk of	retinopathy
+sickle cell anemia	may cause	avascular necrosis
+sickle cell anemia	associated with	leg ulcers
+sickle cell anemia	related to	sleep apnea
+sickle cell anemia	increases risk of	sepsis
+sickle cell anemia	may lead to	heart failure
+sickle cell anemia	connected with	cognitive impairment
+sickle cell anemia	affects	quality of life
+sickle cell anemia	requires	multidisciplinary care
+sickle cell anemia	benefits from	genetic counseling
+sickle cell anemia	increases risk of	venous thromboembolism
+sickle cell anemia	may cause	splenic sequestration
+sickle cell anemia	associated with	hepatopathy
+sickle cell anemia	related to	osteomyelitis
+sickle cell anemia	increases risk of	meningitis
+sickle cell anemia	may lead to	acute kidney injury
+sickle cell anemia	connected with	hearing loss
+sickle cell anemia	affects	life expectancy
+sickle cell anemia	requires	hydration therapy
+sickle cell anemia	managed with	penicillin prophylaxis
+sickle cell anemia	treated with	L-glutamine
+sickle cell anemia	may need	opioid analgesics
+sickle cell anemia	benefits from	transcranial Doppler
+sickle cell anemia	diagnosed by	complete blood count
+sickle cell anemia	screened for	sickle cell trait
+sickle cell anemia	associated with	vaso-occlusive crisis
+sickle cell anemia	related to	dactylitis
+sickle cell anemia	increases risk of	pulmonary embolism
+sickle cell anemia	may cause	hepatic sequestration
+sickle cell anemia	linked to	cholelithiasis
+sickle cell anemia	connected with	growth retardation
+sickle cell anemia	affects	school attendance
+sickle cell anemia	requires	pain assessment
+sickle cell anemia	benefits from	hydroxyurea therapy
+sickle cell anemia	treated with	crizanlizumab
+sickle cell anemia	may need	exchange transfusion
+sickle cell anemia	prevented by	malaria avoidance
+sickle cell anemia	associated with	hemoglobin S
+sickle cell anemia	related to	beta-globin gene
+sickle cell anemia	increases risk of	silent infarcts
+sickle cell anemia	may cause	spleen atrophy
+sickle cell anemia	linked to	folate deficiency
+sickle cell anemia	connected with	chronic pain
+sickle cell anemia	affects	mental health
+sickle cell anemia	requires	psychosocial support
+sickle cell anemia	benefits from	regular checkups
+sickle cell anemia	treated with	voxelotor
+sickle cell anemia	may need	oxygen therapy
+sickle cell anemia	prevented by	prenatal testing
+sickle cell anemia	associated with	hemolytic anemia
+sickle cell anemia	related to	red blood cell deformities
+sickle cell anemia	increases risk of	infections
+sickle cell anemia	may cause	bone infarcts
+sickle cell anemia	linked to	vitamin D deficiency
+sickle cell anemia	connected with	iron deficiency
+sickle cell anemia	affects	exercise tolerance
+sickle cell anemia	requires	nutritional support
+sickle cell anemia	benefits from	pain diaries
+sickle cell anemia	treated with	NSAIDs
+sickle cell anemia	may need	hospitalization
+sickle cell anemia	prevented by	carrier screening
+sickle cell anemia	associated with	HBB gene mutation
+sickle cell anemia	related to	autosomal recessive inheritance
+sickle cell anemia	increases risk of	acute splenic sequestration
+sickle cell anemia	may cause	myocardial infarction
+sickle cell anemia	linked to	chronic lung disease
+sickle cell anemia	connected with	developmental delay
+sickle cell anemia	affects	work productivity
+sickle cell anemia	requires	emergency preparedness
+sickle cell anemia	benefits from	patient education

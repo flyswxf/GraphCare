@@ -1,0 +1,100 @@
+allergic reactions	is a	immune response
+allergic reactions	may cause	anaphylaxis
+allergic reactions	are triggered by	allergens
+allergens	include	pollen
+allergens	include	dust mites
+allergens	include	pet dander
+allergens	include	food
+food allergens	include	peanuts
+food allergens	include	shellfish
+allergic reactions	involve	histamine release
+histamine	causes	inflammation
+histamine	causes	itching
+histamine	causes	swelling
+allergic reactions	are treated with	antihistamines
+diphenhydramine	is an	antihistamine
+loratadine	is an	antihistamine
+antihistamines	block	histamine receptors
+severe allergic reactions	require	epinephrine
+epinephrine	is administered via	auto-injector
+auto-injector	contains	epinephrine
+allergic reactions	may lead to	asthma attack
+asthma	is managed with	bronchodilators
+albuterol	is a	bronchodilator
+allergic reactions	can cause	hives
+hives	are treated with	corticosteroids
+prednisone	is a	corticosteroid
+allergic reactions	may result in	angioedema
+angioedema	involves	subcutaneous swelling
+allergic reactions	are diagnosed with	skin tests
+skin tests	detect	allergen sensitivity
+allergic reactions	can be mitigated by	avoidance
+avoidance	reduces	allergen exposure
+allergic reactions	may require	immunotherapy
+immunotherapy	involves	allergy shots
+allergy shots	contain	small allergen doses
+allergic reactions	are common in	atopic individuals
+atopy	predisposes to	eczema
+eczema	is characterized by	itchy skin
+allergic reactions	can affect	respiratory system
+respiratory system	includes	lungs
+allergic reactions	can affect	digestive system
+digestive system	includes	intestines
+food allergies	may cause	vomiting
+vomiting	is a	digestive response
+allergic reactions	can cause	hypotension
+hypotension	is treated with	vasopressors
+norepinephrine	is a	vasopressor
+allergic reactions	may lead to	shock
+shock	requires	fluid resuscitation
+saline solution	is used for	fluid resuscitation
+allergic reactions	are monitored with	vital signs
+vital signs	include	blood pressure
+allergic reactions	can cause	tachycardia
+tachycardia	is treated with	beta blockers
+propranolol	is a	beta blocker
+allergic reactions	may involve	mast cells
+mast cells	release	histamine
+allergic reactions	can trigger	cytokine release
+cytokines	promote	inflammation
+allergic reactions	are assessed with	IgE tests
+IgE antibodies	bind to	allergens
+allergic reactions	can be chronic	in atopic dermatitis
+atopic dermatitis	is exacerbated by	scratching
+scratching	damages	skin barrier
+allergic reactions	may follow	insect stings
+bee stings	can trigger	anaphylaxis
+allergic reactions	are documented in	medical history
+medical history	guides	treatment plans
+allergic reactions	can be seasonal	in hay fever
+hay fever	is caused by	pollen exposure
+allergic reactions	may worsen	sinusitis
+sinusitis	involves	nasal inflammation
+allergic reactions	can lead to	conjunctivitis
+conjunctivitis	causes	red eyes
+allergic reactions	are prevented by	HEPA filters
+HEPA filters	trap	airborne allergens
+allergic reactions	may coexist with	autoimmune diseases
+autoimmune diseases	involve	immune dysregulation
+allergic reactions	can be exacerbated by	stress
+stress	activates	mast cells
+allergic reactions	are researched in	immunology
+immunology	studies	immune responses
+allergic reactions	can be delayed	in contact dermatitis
+contact dermatitis	results from	skin contact
+allergic reactions	may require	ICU admission
+ICU admission	ensures	close monitoring
+allergic reactions	can be fatal	without treatment
+fatal outcomes	are prevented by	prompt intervention
+allergic reactions	are reported to	allergy registries
+allergy registries	track	allergen prevalence
+allergic reactions	can be occupationally related
+occupational allergens	include	latex
+allergic reactions	may recur	upon re-exposure
+re-exposure	increases	symptom severity
+allergic reactions	are influenced by	genetics
+genetics	determine	immune reactivity
+allergic reactions	can be tested with	patch tests
+patch tests	identify	contact allergens
+allergic reactions	may involve	eosinophils
+eosinophils	contribute to	inflammation

@@ -1,0 +1,103 @@
+computerized axial tomography scan head	is a	diagnostic imaging
+computerized axial tomography scan head	uses	x-rays
+computerized axial tomography scan head	produces	cross-sectional images
+computerized axial tomography scan head	detects	brain abnormalities
+computerized axial tomography scan head	evaluates	head trauma
+computerized axial tomography scan head	diagnoses	tumors
+computerized axial tomography scan head	identifies	hemorrhages
+computerized axial tomography scan head	assesses	stroke
+computerized axial tomography scan head	examines	skull fractures
+computerized axial tomography scan head	reveals	intracranial bleeding
+computerized axial tomography scan head	requires	contrast agent
+computerized axial tomography scan head	performed by	radiologist
+computerized axial tomography scan head	needs	patient preparation
+computerized axial tomography scan head	has risk	radiation exposure
+computerized axial tomography scan head	contraindicated in	pregnancy
+computerized axial tomography scan head	alternative to	mri
+computerized axial tomography scan head	faster than	mri
+computerized axial tomography scan head	less expensive than	mri
+computerized axial tomography scan head	uses	rotating gantry
+computerized axial tomography scan head	generates	digital images
+computerized axial tomography scan head	interpreted by	neuroradiologist
+computerized axial tomography scan head	detects	aneurysms
+computerized axial tomography scan head	evaluates	hydrocephalus
+computerized axial tomography scan head	diagnoses	infections
+computerized axial tomography scan head	identifies	calcifications
+computerized axial tomography scan head	assesses	brain swelling
+computerized axial tomography scan head	examines	sinuses
+computerized axial tomography scan head	reveals	vascular malformations
+computerized axial tomography scan head	requires	patient cooperation
+computerized axial tomography scan head	performed in	radiology department
+computerized axial tomography scan head	needs	radiation protection
+computerized axial tomography scan head	has advantage	quick results
+computerized axial tomography scan head	contraindicated with	contrast allergy
+computerized axial tomography scan head	alternative for	patients with pacemakers
+computerized axial tomography scan head	more available than	pet scan
+computerized axial tomography scan head	uses	computer reconstruction
+computerized axial tomography scan head	generates	3d images
+computerized axial tomography scan head	interpreted using	pacs system
+computerized axial tomography scan head	detects	brain atrophy
+computerized axial tomography scan head	evaluates	trauma severity
+computerized axial tomography scan head	diagnoses	skull base fractures
+computerized axial tomography scan head	identifies	foreign bodies
+computerized axial tomography scan head	assesses	postoperative changes
+computerized axial tomography scan head	examines	orbit structures
+computerized axial tomography scan head	reveals	subdural hematomas
+computerized axial tomography scan head	requires	informed consent
+computerized axial tomography scan head	performed with	lead shielding
+computerized axial tomography scan head	needs	medical history review
+computerized axial tomography scan head	has limitation	soft tissue contrast
+computerized axial tomography scan head	contraindicated with	renal impairment
+computerized axial tomography scan head	alternative for	emergency cases
+computerized axial tomography scan head	less sensitive than	mri for strokes
+computerized axial tomography scan head	uses	helical scanning
+computerized axial tomography scan head	generates	axial slices
+computerized axial tomography scan head	interpreted with	clinical correlation
+computerized axial tomography scan head	detects	midline shifts
+computerized axial tomography scan head	evaluates	ventricular size
+computerized axial tomography scan head	diagnoses	encephalitis
+computerized axial tomography scan head	identifies	bone lesions
+computerized axial tomography scan head	assesses	cerebral edema
+computerized axial tomography scan head	examines	pituitary gland
+computerized axial tomography scan head	reveals	epidural hematomas
+computerized axial tomography scan head	requires	fasting
+computerized axial tomography scan head	performed under	physician order
+computerized axial tomography scan head	needs	pregnancy screening
+computerized axial tomography scan head	has application	stereotactic surgery
+computerized axial tomography scan head	contraindicated with	severe claustrophobia
+computerized axial tomography scan head	alternative to	angiography
+computerized axial tomography scan head	more detailed than	skull x-ray
+computerized axial tomography scan head	uses	multislice technology
+computerized axial tomography scan head	generates	coronal reconstructions
+computerized axial tomography scan head	interpreted with	window settings
+computerized axial tomography scan head	detects	subarachnoid hemorrhage
+computerized axial tomography scan head	evaluates	cranial nerve compression
+computerized axial tomography scan head	diagnoses	metastatic lesions
+computerized axial tomography scan head	identifies	ischemic changes
+computerized axial tomography scan head	assesses	shunt placement
+computerized axial tomography scan head	examines	temporal bones
+computerized axial tomography scan head	reveals	arachnoid cysts
+computerized axial tomography scan head	requires	metal removal
+computerized axial tomography scan head	performed with	dose optimization
+computerized axial tomography scan head	needs	kidney function test
+computerized axial tomography scan head	has role	treatment planning
+computerized axial tomography scan head	contraindicated with	iodine allergy
+computerized axial tomography scan head	alternative for	unstable patients
+computerized axial tomography scan head	less time-consuming than	lumbar puncture
+computerized axial tomography scan head	uses	iterative reconstruction
+computerized axial tomography scan head	generates	sagittal reconstructions
+computerized axial tomography scan head	interpreted by	ai algorithms
+computerized axial tomography scan head	detects	white matter disease
+computerized axial tomography scan head	evaluates	postoperative complications
+computerized axial tomography scan head	diagnoses	congenital anomalies
+computerized axial tomography scan head	identifies	skull fractures
+computerized axial tomography scan head	assesses	intracranial pressure
+computerized axial tomography scan head	examines	sellar region
+computerized axial tomography scan head	reveals	choroid plexus calcifications
+computerized axial tomography scan head	requires	radiation monitoring
+computerized axial tomography scan head	performed with	aseptic technique
+computerized axial tomography scan head	needs	patient education
+computerized axial tomography scan head	has indication	headache evaluation
+computerized axial tomography scan head	contraindicated with	multiple myeloma
+computerized axial tomography scan head	alternative to	neurological exam
+computerized axial tomography scan head	more precise than	ultrasound

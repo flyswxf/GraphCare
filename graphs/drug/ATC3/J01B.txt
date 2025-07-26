@@ -1,0 +1,100 @@
+amphenicols	are	antibiotics
+amphenicols	include	chloramphenicol
+amphenicols	include	thiamphenicol
+amphenicols	include	florfenicol
+chloramphenicol	treats	bacterial infections
+thiamphenicol	treats	respiratory infections
+florfenicol	treats	veterinary infections
+amphenicols	act as	protein synthesis inhibitors
+amphenicols	target	50S ribosomal subunit
+amphenicols	are effective against	Gram-positive bacteria
+amphenicols	are effective against	Gram-negative bacteria
+chloramphenicol	has	broad spectrum
+thiamphenicol	has	reduced toxicity
+florfenicol	is	veterinary exclusive
+amphenicols	can cause	side effects
+side effects	include	bone marrow suppression
+side effects	include	gray baby syndrome
+side effects	include	gastrointestinal upset
+chloramphenicol	has	black box warning
+amphenicols	interact with	CYP2C19 substrates
+amphenicols	interact with	warfarin
+amphenicols	interact with	phenytoin
+amphenicols	are contraindicated in	pregnancy
+amphenicols	are contraindicated in	breastfeeding
+amphenicols	require	monitoring
+monitoring	includes	blood counts
+monitoring	includes	liver function
+chloramphenicol	is	bacteriostatic
+florfenicol	is	bactericidal
+amphenicols	have	nitrobenzene structure
+chloramphenicol	discovered in	1947
+thiamphenicol	synthesized in	1952
+florfenicol	approved in	1990s
+amphenicols	have	resistance mechanisms
+resistance mechanisms	include	efflux pumps
+resistance mechanisms	include	acetyltransferases
+amphenicols	are used for	meningitis
+amphenicols	are used for	typhoid fever
+amphenicols	are used for	rickettsial infections
+amphenicols	are used for	anaerobic infections
+chloramphenicol	has	oral formulation
+chloramphenicol	has	IV formulation
+chloramphenicol	has	ophthalmic formulation
+thiamphenicol	is more	water soluble
+florfenicol	is more	lipid soluble
+amphenicols	metabolized in	liver
+amphenicols	excreted via	kidneys
+chloramphenicol	has	enterohepatic recirculation
+amphenicols	have	drug-drug interactions
+amphenicols	inhibit	cytochrome P450
+amphenicols	increase	drug levels
+increased drug levels	cause	toxicity
+amphenicols	are prohibited in	food animals
+florfenicol	is approved for	food animals
+amphenicols	are used in	aquaculture
+amphenicols	treat	fish diseases
+amphenicols	treat	poultry diseases
+amphenicols	treat	livestock diseases
+amphenicols	have	withdrawal periods
+withdrawal periods	prevent	residues
+residues	cause	consumer harm
+amphenicols	are regulated by	FDA
+amphenicols	are regulated by	EMA
+amphenicols	have	maximum residue limits
+chloramphenicol	is banned in	food production
+amphenicols	are monitored in	import controls
+amphenicols	are detected by	chromatography
+amphenicols	have	analytical methods
+analytical methods	include	HPLC
+analytical methods	include	ELISA
+amphenicols	have	pharmacokinetic properties
+pharmacokinetic properties	include	half-life
+pharmacokinetic properties	include	volume of distribution
+pharmacokinetic properties	include	clearance
+amphenicols	bind to	plasma proteins
+protein binding	affects	distribution
+amphenicols	penetrate	blood-brain barrier
+amphenicols	penetrate	placenta
+amphenicols	are found in	breast milk
+amphenicols	have	pharmacodynamic effects
+pharmacodynamic effects	include	time-dependent killing
+pharmacodynamic effects	include	post-antibiotic effect
+amphenicols	have	structure-activity relationships
+structure-activity relationships	determine	potency
+structure-activity relationships	determine	spectrum
+amphenicols	have	derivatives
+derivatives	improve	properties
+amphenicols	are subject to	stewardship
+stewardship	prevents	resistance
+amphenicols	have	clinical guidelines
+clinical guidelines	recommend	dosing
+clinical guidelines	recommend	duration
+amphenicols	are alternatives to	beta-lactams
+amphenicols	are alternatives to	tetracyclines
+amphenicols	have	cost considerations
+cost considerations	affect	accessibility
+amphenicols	have	stability profiles
+stability profiles	affect	storage
+amphenicols	degrade under	light
+amphenicols	degrade under	heat

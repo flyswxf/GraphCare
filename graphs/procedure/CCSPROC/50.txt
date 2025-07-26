@@ -1,0 +1,100 @@
+extracorporeal circulation	is used in	open heart surgery
+extracorporeal circulation	involves	cardiopulmonary bypass
+cardiopulmonary bypass	replaces	heart function
+cardiopulmonary bypass	replaces	lung function
+extracorporeal circulation	requires	oxygenator
+oxygenator	oxygenates	blood
+extracorporeal circulation	requires	pump
+pump	circulates	blood
+extracorporeal circulation	requires	cannulation
+cannulation	accesses	blood vessels
+extracorporeal circulation	causes	hemodilution
+hemodilution	reduces	blood viscosity
+extracorporeal circulation	triggers	systemic inflammatory response
+systemic inflammatory response	affects	multiple organs
+extracorporeal circulation	requires	anticoagulation
+anticoagulation	prevents	blood clots
+heparin	is used for	anticoagulation
+heparin	requires	monitoring
+activated clotting time	monitors	heparin effect
+extracorporeal circulation	risks	bleeding
+bleeding	may require	transfusion
+transfusion	provides	blood products
+extracorporeal circulation	can cause	hypothermia
+hypothermia	requires	temperature management
+extracorporeal circulation	may lead	neurological complications
+neurological complications	include	stroke
+extracorporeal circulation	affects	renal function
+renal dysfunction	may require	dialysis
+extracorporeal circulation	alters	drug pharmacokinetics
+drug pharmacokinetics	affects	medication dosing
+extracorporeal circulation	requires	priming solution
+priming solution	replaces	blood volume
+crystalloid solution	is a type of	priming solution
+colloid solution	is a type of	priming solution
+extracorporeal circulation	uses	tubing system
+tubing system	connects	components
+extracorporeal circulation	requires	reservoir
+reservoir	collects	venous blood
+extracorporeal circulation	includes	heat exchanger
+heat exchanger	regulates	blood temperature
+extracorporeal circulation	may cause	air embolism
+air embolism	can lead	organ ischemia
+extracorporeal circulation	requires	deairing
+deairing	removes	air bubbles
+extracorporeal circulation	depends on	perfusionist
+perfusionist	operates	heart-lung machine
+heart-lung machine	performs	extracorporeal circulation
+extracorporeal circulation	enables	cardiac arrest
+cardioplegia	induces	cardiac arrest
+cardioplegia	protects	myocardium
+extracorporeal circulation	allows	surgical field visualization
+surgical field visualization	facilitates	precise surgery
+extracorporeal circulation	prolongs	operative time
+prolonged operative time	increases	complication risk
+extracorporeal circulation	requires	venous drainage
+venous drainage	collects	deoxygenated blood
+extracorporeal circulation	involves	arterial return
+arterial return	delivers	oxygenated blood
+extracorporeal circulation	may cause	capillary leak
+capillary leak	leads	edema
+extracorporeal circulation	affects	coagulation cascade
+coagulation cascade	influences	bleeding risk
+extracorporeal circulation	reduces	platelet count
+thrombocytopenia	increases	bleeding tendency
+extracorporeal circulation	consumes	coagulation factors
+coagulation factor deficiency	requires	replacement
+extracorporeal circulation	necessitates	blood gas monitoring
+blood gas monitoring	assesses	oxygenation
+extracorporeal circulation	requires	electrolyte management
+electrolyte imbalance	can cause	arrhythmias
+extracorporeal circulation	alters	acid-base balance
+acidosis	requires	correction
+extracorporeal circulation	impacts	immune system
+immune suppression	increases	infection risk
+extracorporeal circulation	may lead	postperfusion syndrome
+postperfusion syndrome	involves	organ dysfunction
+extracorporeal circulation	affects	pulmonary function
+pulmonary dysfunction	may require	ventilation
+extracorporeal circulation	influences	vasomotor tone
+vasodilation	causes	hypotension
+extracorporeal circulation	requires	flow rate adjustment
+flow rate	determines	tissue perfusion
+extracorporeal circulation	uses	centrifugal pump
+centrifugal pump	generates	non-pulsatile flow
+extracorporeal circulation	uses	roller pump
+roller pump	generates	pulsatile flow
+extracorporeal circulation	separates	plasma proteins
+plasma protein adsorption	alters	drug binding
+extracorporeal circulation	filters	microemboli
+microemboli	can cause	microvascular occlusion
+extracorporeal circulation	requires	pressure monitoring
+line pressure	indicates	circuit resistance
+extracorporeal circulation	has	weaning phase
+weaning	restores	native circulation
+extracorporeal circulation	leaves	inflammatory markers
+inflammatory markers	predict	recovery course
+extracorporeal circulation	correlates with	hospital stay
+prolonged hospital stay	increases	healthcare costs
+extracorporeal circulation	improves	surgical outcomes
+surgical outcomes	depend on	team expertise

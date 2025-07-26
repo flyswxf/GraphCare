@@ -1,0 +1,100 @@
+complication of device	is a	medical condition
+complication of device	may involve	implant
+complication of device	may involve	graft
+implant	can lead to	infection
+graft	can lead to	rejection
+infection	requires	antibiotics
+rejection	requires	immunosuppressants
+immunosuppressants	increase risk of	infection
+complication of device	may cause	pain
+pain	may require	analgesics
+implant	may cause	inflammation
+inflammation	may lead to	scarring
+scarring	may require	surgery
+graft	may cause	thrombosis
+thrombosis	may lead to	ischemia
+ischemia	may require	anticoagulants
+anticoagulants	increase risk of	bleeding
+bleeding	may require	transfusion
+transfusion	carries risk of	infection
+implant	may cause	mechanical failure
+mechanical failure	may require	revision surgery
+revision surgery	has risk of	complications
+graft	may cause	anastomotic leak
+anastomotic leak	may lead to	sepsis
+sepsis	requires	ICU admission
+ICU admission	increases risk of	mortality
+implant	may cause	allergic reaction
+allergic reaction	may lead to	dermatitis
+dermatitis	may require	corticosteroids
+corticosteroids	increase risk of	osteoporosis
+osteoporosis	increases risk of	fractures
+fractures	may require	fixation
+fixation	may involve	metal implants
+metal implants	may cause	metal toxicity
+metal toxicity	may lead to	organ damage
+organ damage	may require	transplantation
+transplantation	requires	immunosuppression
+immunosuppression	increases risk of	cancer
+graft	may cause	stenosis
+stenosis	may lead to	obstruction
+obstruction	may require	stenting
+stenting	may cause	restenosis
+restenosis	may require	angioplasty
+angioplasty	may cause	vessel rupture
+vessel rupture	may lead to	hemorrhage
+hemorrhage	may require	embolization
+embolization	may cause	tissue necrosis
+tissue necrosis	may require	debridement
+debridement	may lead to	wound
+wound	may require	dressing
+dressing	may cause	maceration
+maceration	may lead to	infection
+implant	may cause	migration
+migration	may lead to	perforation
+perforation	may require	emergency surgery
+emergency surgery	increases risk of	complications
+graft	may cause	pseudoaneurysm
+pseudoaneurysm	may lead to	rupture
+rupture	may cause	hypovolemic shock
+hypovolemic shock	requires	vasopressors
+vasopressors	may cause	arrhythmia
+arrhythmia	may require	cardioversion
+cardioversion	may cause	burns
+burns	may require	skin graft
+skin graft	may cause	contracture
+contracture	may require	physical therapy
+physical therapy	may prevent	stiffness
+stiffness	may limit	mobility
+mobility	affects	quality of life
+quality of life	is measured by	surveys
+surveys	help assess	patient satisfaction
+patient satisfaction	affects	healthcare ratings
+healthcare ratings	influence	reimbursement
+reimbursement	affects	hospital finances
+hospital finances	impact	equipment quality
+equipment quality	affects	surgical outcomes
+surgical outcomes	depend on	surgeon skill
+surgeon skill	requires	training
+training	involves	simulation
+simulation	uses	models
+models	help predict	complications
+complications	increase	hospital stay
+hospital stay	increases	costs
+costs	affect	insurance premiums
+insurance premiums	influence	access to care
+access to care	affects	health disparities
+health disparities	are studied by	epidemiologists
+epidemiologists	use	statistics
+statistics	help identify	risk factors
+risk factors	guide	prevention strategies
+prevention strategies	reduce	complications
+complications	are recorded in	EHRs
+EHRs	enable	data analysis
+data analysis	supports	AI prediction
+AI prediction	assists	clinical decision-making
+clinical decision-making	improves	patient outcomes
+patient outcomes	are tracked by	registries
+registries	provide	research data
+research data	informs	guidelines
+guidelines	standardize	device implantation

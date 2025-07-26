@@ -1,0 +1,112 @@
+mastectomy	is a	surgical procedure
+mastectomy	treats	breast cancer
+mastectomy	removes	breast tissue
+mastectomy	may involve	lymph nodes
+mastectomy	can be	unilateral
+mastectomy	can be	bilateral
+mastectomy	requires	general anesthesia
+mastectomy	has risk	bleeding
+mastectomy	has risk	infection
+mastectomy	requires	postoperative care
+mastectomy	may cause	lymphedema
+mastectomy	may require	reconstruction
+mastectomy	affects	body image
+mastectomy	may precede	chemotherapy
+mastectomy	may follow	chemotherapy
+mastectomy	may combine with	radiation therapy
+mastectomy	has alternative	lumpectomy
+mastectomy	involves	incision
+mastectomy	requires	hospitalization
+mastectomy	involves	sutures
+mastectomy	may use	drains
+mastectomy	has duration	several hours
+mastectomy	requires	pain management
+mastectomy	may lead	seroma
+mastectomy	may lead	hematoma
+mastectomy	requires	follow-up
+mastectomy	uses	surgical instruments
+mastectomy	performed by	surgeon
+mastectomy	involves	sterile technique
+mastectomy	has indication	DCIS
+mastectomy	has indication	invasive cancer
+mastectomy	has indication	BRCA mutation
+mastectomy	may include	sentinel node biopsy
+mastectomy	may require	physical therapy
+mastectomy	affects	range of motion
+mastectomy	requires	wound care
+mastectomy	may cause	nerve damage
+mastectomy	may require	prosthesis
+mastectomy	may involve	nipple sparing
+mastectomy	may involve	skin sparing
+mastectomy	has type	total
+mastectomy	has type	modified radical
+mastectomy	has type	radical
+mastectomy	has type	subcutaneous
+mastectomy	may follow	MRI
+mastectomy	may follow	ultrasound
+mastectomy	may follow	biopsy
+mastectomy	may require	blood tests
+mastectomy	may require	ECG
+mastectomy	may require	mammogram
+mastectomy	has contraindication	advanced age
+mastectomy	has contraindication	comorbidities
+mastectomy	has complication	wound dehiscence
+mastectomy	has complication	necrosis
+mastectomy	may require	antibiotics
+mastectomy	may require	anticoagulants
+mastectomy	may require	hormonal therapy
+mastectomy	may require	targeted therapy
+mastectomy	may precede	radiation therapy
+mastectomy	may follow	neoadjuvant therapy
+mastectomy	has outcome	cancer removal
+mastectomy	has outcome	survival rate
+mastectomy	affects	quality of life
+mastectomy	requires	psychological support
+mastectomy	may involve	oncologist
+mastectomy	may involve	anesthesiologist
+mastectomy	may involve	nurse
+mastectomy	may involve	pathologist
+mastectomy	requires	preoperative assessment
+mastectomy	requires	informed consent
+mastectomy	involves	risk assessment
+mastectomy	may use	electrocautery
+mastectomy	may use	scalpel
+mastectomy	may use	sutures
+mastectomy	may use	staples
+mastectomy	may require	dressing
+mastectomy	may require	compression garment
+mastectomy	may cause	phantom pain
+mastectomy	may cause	chest tightness
+mastectomy	may cause	shoulder stiffness
+mastectomy	may require	occupational therapy
+mastectomy	may require	lymph massage
+mastectomy	may require	vitamin supplements
+mastectomy	may require	painkillers
+mastectomy	involves	tissue analysis
+mastectomy	involves	margin evaluation
+mastectomy	involves	tumor staging
+mastectomy	involves	receptor testing
+mastectomy	may lead	recurrence
+mastectomy	may lead	metastasis
+mastectomy	prevents	local spread
+mastectomy	reduces	cancer risk
+mastectomy	may require	genetic counseling
+mastectomy	may require	family history
+mastectomy	may involve	clinical trials
+mastectomy	may involve	multidisciplinary team
+mastectomy	may require	adjuvant therapy
+mastectomy	may require	immunotherapy
+mastectomy	may require	hormone blockers
+mastectomy	may involve	DIEP flap
+mastectomy	may involve	TRAM flap
+mastectomy	may involve	implant
+mastectomy	may involve	tissue expander
+mastectomy	may require	multiple surgeries
+mastectomy	has recovery time	weeks
+mastectomy	has recovery time	months
+mastectomy	involves	scar formation
+mastectomy	involves	healing process
+mastectomy	may require	rehabilitation
+mastectomy	may require	support group
+mastectomy	affects	self-esteem
+mastectomy	affects	sexuality

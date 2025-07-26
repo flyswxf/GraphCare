@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+vascular catheterization	is a	medical procedure
+vascular catheterization	involves	blood vessel access
+vascular catheterization	requires	sterile technique
+vascular catheterization	uses	catheter
+catheter	is made of	biocompatible material
+femoral vein	is site for	vascular catheterization
+jugular vein	is site for	vascular catheterization
+subclavian vein	is site for	vascular catheterization
+peripheral veins	are alternatives for	vascular catheterization
+vascular catheterization	avoids	arterial puncture
+ultrasound	guides	vascular catheterization
+fluoroscopy	assists	vascular catheterization
+guidewire	facilitates	catheter placement
+dilator	prepares	vessel access
+sheath	maintains	vascular access
+vascular catheterization	enables	hemodialysis
+vascular catheterization	allows	chemotherapy administration
+vascular catheterization	provides	parenteral nutrition
+vascular catheterization	supports	blood sampling
+vascular catheterization	permits	central venous pressure monitoring
+heparin	prevents	catheter thrombosis
+antibiotic ointment	reduces	infection risk
+lidocaine	numbs	insertion site
+saline	flushes	catheter lumen
+thrombolytics	treat	catheter occlusion
+vascular catheterization	may cause	hematoma
+vascular catheterization	risks	pneumothorax
+catheter malposition	is complication of	vascular catheterization
+venous thrombosis	associates with	vascular catheterization
+catheter-related infection	results from	vascular catheterization
+dressing change	maintains	catheter site
+aseptic technique	prevents	catheter colonization
+catheter care	reduces	complication rates
+flush protocol	ensures	catheter patency
+site inspection	detects	early complications
+Seldinger technique	is method for	vascular access
+microintroducer	assists	difficult catheterization
+ultrasound-guided insertion	improves	success rate
+tunneled catheter	provides	long-term access
+implanted port	offers	repeated access
+coagulation panel	evaluates	bleeding risk
+allergy history	checks	contrast sensitivity
+vessel mapping	identifies	optimal access site
+renal function	affects	contrast use
+infection markers	screen for	sepsis risk
+peripheral IV	is alternative to	central catheterization
+PICC line	substitutes for	temporary central access
+arterial line	differs from	venous catheterization
+non-invasive monitoring	replaces	some catheter uses
+oral medication	avoids	vascular access
+pediatric patients	require	smaller catheters
+obese patients	need	longer catheters
+elderly patients	have	fragile veins
+burn patients	often need	central access
+oncology patients	frequently require	long-term catheters
+interventional radiologist	performs	complex catheterization
+nephrologist	manages	dialysis catheters
+intensivist	utilizes	central venous catheters
+oncology nurse	cares for	chemotherapy ports
+vascular surgeon	repairs	damaged vessels
+antimicrobial catheter	reduces	infection rates
+valved catheter	prevents	blood reflux
+power-injectable port	allows	CT contrast
+silicone catheter	causes	less vessel irritation
+MRI-compatible catheter	enables	imaging safety
+catheter tip position	confirms	proper placement
+blood return	verifies	catheter patency
+dressing integrity	prevents	microbial entry
+insertion site erythema	indicates	infection
+catheter dwell time	correlates with	complication risk
+catheter removal	requires	physician order
+pressure dressing	controls	post-removal bleeding
+catheter tip culture	diagnoses	line infection
+vessel repair	follows	traumatic removal
+patient education	covers	post-removal care
+emergency department	performs	rapid catheterization
+ICU	utilizes	multiple catheters
+operating room	places	specialized catheters
+outpatient clinic	manages	long-term catheters
+dialysis center	maintains	vascular access
+insertion bundle	standardizes	catheter placement
+maintenance bundle	optimizes	catheter care
+complication rate	measures	program quality
+utilization review	ensures	appropriate use
+staff training	improves	insertion success
+catheter cost	varies by	material type
+infection treatment	increases	healthcare costs
+early removal	reduces	hospital stay
+appropriate selection	minimizes	replacement need
+prevention protocols	lower	overall expenses
+chlorhexidine dressing	decreases	bloodstream infections
+antiseptic caps	protect	catheter hubs
+nitinol guidewire	enhances	vessel navigation
+telemetry tracking	monitors	catheter status
+biofilm prevention	is focus of	current research
+informed consent	documents	procedure risks
+incident reporting	tracks	adverse events
+product recall	affects	catheter selection
+malpractice claim	may follow	complications
+regulatory standards	govern	catheter manufacturing

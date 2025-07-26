@@ -1,0 +1,100 @@
+specific antirheumatic agents	are	drugs
+specific antirheumatic agents	treat	rheumatoid arthritis
+specific antirheumatic agents	include	DMARDs
+DMARDs	stands for	disease-modifying antirheumatic drugs
+specific antirheumatic agents	reduce	inflammation
+specific antirheumatic agents	slow	joint damage
+specific antirheumatic agents	prescribed for	autoimmune diseases
+methotrexate	is a	specific antirheumatic agent
+leflunomide	is a	specific antirheumatic agent
+sulfasalazine	is a	specific antirheumatic agent
+hydroxychloroquine	is a	specific antirheumatic agent
+biologics	are	specific antirheumatic agents
+TNF inhibitors	are	biologics
+adalimumab	is a	TNF inhibitor
+etanercept	is a	TNF inhibitor
+infliximab	is a	TNF inhibitor
+IL-6 inhibitors	are	biologics
+tocilizumab	is a	IL-6 inhibitor
+JAK inhibitors	are	specific antirheumatic agents
+tofacitinib	is a	JAK inhibitor
+baricitinib	is a	JAK inhibitor
+specific antirheumatic agents	may cause	side effects
+side effects	include	nausea
+side effects	include	liver toxicity
+side effects	include	increased infection risk
+methotrexate	requires	liver monitoring
+methotrexate	contraindicated in	pregnancy
+leflunomide	contraindicated in	pregnancy
+specific antirheumatic agents	interact with	other medications
+specific antirheumatic agents	require	blood tests
+specific antirheumatic agents	improve	quality of life
+specific antirheumatic agents	reduce	pain
+specific antirheumatic agents	preserve	joint function
+specific antirheumatic agents	prevent	disability
+rheumatoid arthritis	causes	joint swelling
+rheumatoid arthritis	is	chronic
+rheumatoid arthritis	affects	synovium
+synovium	lines	joints
+autoimmune diseases	involve	immune system dysfunction
+specific antirheumatic agents	modulate	immune response
+biologics	target	cytokines
+cytokines	are	signaling proteins
+TNF-alpha	is a	proinflammatory cytokine
+IL-6	is a	proinflammatory cytokine
+JAK-STAT pathway	is involved	inflammation
+specific antirheumatic agents	have	onset delay
+onset delay	ranges	weeks to months
+combination therapy	uses	multiple antirheumatic agents
+combination therapy	increases	efficacy
+combination therapy	increases	side effects
+specific antirheumatic agents	differ from	NSAIDs
+NSAIDs	provide	symptomatic relief
+NSAIDs	do not modify	disease progression
+corticosteroids	are	anti-inflammatory
+corticosteroids	used with	specific antirheumatic agents
+specific antirheumatic agents	affect	bone erosion
+bone erosion	is	joint damage
+rheumatoid arthritis	increases	cardiovascular risk
+specific antirheumatic agents	may reduce	cardiovascular risk
+rheumatoid arthritis	associated with	osteoporosis
+specific antirheumatic agents	may affect	bone density
+abatacept	is a	T-cell modulator
+rituximab	is a	B-cell depleter
+B-cells	produce	autoantibodies
+autoantibodies	attack	joint tissues
+rheumatoid factor	is	autoantibody
+anti-CCP	is	diagnostic marker
+specific antirheumatic agents	lower	CRP levels
+CRP	indicates	inflammation
+ESR	indicates	inflammation
+DMARDs	classified as	conventional or biologic
+conventional DMARDs	are	small molecules
+biologic DMARDs	are	proteins
+biosimilars	are	biologic copies
+specific antirheumatic agents	have	administration routes
+oral administration	used for	conventional DMARDs
+subcutaneous injection	used for	biologics
+intravenous infusion	used for	some biologics
+specific antirheumatic agents	have	dosing frequency
+methotrexate	taken	weekly
+adalimumab	administered	biweekly
+specific antirheumatic agents	have	cost differences
+biologics	are	expensive
+insurance coverage	affects	medication access
+patient assistance programs	help with	drug costs
+specific antirheumatic agents	require	rheumatologist prescription
+rheumatologist	specializes in	autoimmune diseases
+treatment response	monitored with	DAS28
+DAS28	measures	disease activity
+remission	is	treatment goal
+low disease activity	is	treatment goal
+specific antirheumatic agents	may fail	initially
+treatment failure	leads to	regimen change
+personalized medicine	tailors	treatment plans
+biomarkers	guide	treatment selection
+genetics	influence	drug response
+comorbidities	affect	drug choice
+elderly patients	need	dose adjustment
+pregnancy	requires	special consideration
+vaccination status	checked before	treatment

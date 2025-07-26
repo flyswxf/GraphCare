@@ -1,0 +1,100 @@
+other plain vitamin preparations	classified under	ATC A11
+other plain vitamin preparations	include	multivitamins
+other plain vitamin preparations	may contain	vitamin D
+vitamin D	helps regulate	calcium absorption
+calcium absorption	important for	bone health
+other plain vitamin preparations	may include	vitamin C
+vitamin C	supports	immune function
+immune function	affects	infection risk
+other plain vitamin preparations	may contain	vitamin B complex
+vitamin B complex	aids in	energy metabolism
+energy metabolism	impacts	fatigue levels
+other plain vitamin preparations	used for	nutritional supplementation
+nutritional supplementation	prevents	deficiencies
+deficiencies	can lead to	anemia
+other plain vitamin preparations	prescribed for	malabsorption
+malabsorption	associated with	celiac disease
+celiac disease	causes	intestinal damage
+other plain vitamin preparations	may interact with	anticoagulants
+anticoagulants	affected by	vitamin K
+vitamin K	essential for	blood clotting
+other plain vitamin preparations	contain	vitamin E
+vitamin E	acts as	antioxidant
+antioxidants	protect against	oxidative stress
+other plain vitamin preparations	may include	folic acid
+folic acid	crucial for	fetal development
+fetal development	requires	prenatal vitamins
+other plain vitamin preparations	used in	elderly care
+elderly care	often requires	micronutrient support
+micronutrient support	reduces	morbidity risk
+other plain vitamin preparations	may contain	biotin
+biotin	supports	hair health
+hair health	influenced by	nutrition
+other plain vitamin preparations	administered via	oral route
+oral route	preferred for	outpatient care
+outpatient care	focuses on	chronic conditions
+other plain vitamin preparations	may include	niacin
+niacin	helps manage	cholesterol levels
+cholesterol levels	linked to	cardiovascular health
+other plain vitamin preparations	contain	pantothenic acid
+pantothenic acid	involved in	coenzyme synthesis
+coenzyme synthesis	necessary for	enzymatic reactions
+other plain vitamin preparations	may have	sugar coating
+sugar coating	improves	patient compliance
+patient compliance	affects	treatment efficacy
+other plain vitamin preparations	used alongside	mineral supplements
+mineral supplements	include	iron
+iron	prevents	iron-deficiency anemia
+other plain vitamin preparations	stored at	room temperature
+room temperature	maintains	stability
+stability	ensures	potency
+other plain vitamin preparations	vary by	dosage forms
+dosage forms	include	tablets
+tablets	convenient for	daily intake
+other plain vitamin preparations	may exclude	preservatives
+preservatives	can cause	allergic reactions
+allergic reactions	require	medical attention
+other plain vitamin preparations	recommended for	vegetarians
+vegetarians	may lack	B12 vitamin
+B12 vitamin	sourced from	animal products
+other plain vitamin preparations	prescribed post	bariatric surgery
+bariatric surgery	leads to	nutrient malabsorption
+nutrient malabsorption	necessitates	lifelong supplementation
+other plain vitamin preparations	contain	vitamin A
+vitamin A	important for	vision
+vision	deteriorates with	deficiency
+other plain vitamin preparations	used during	pregnancy
+pregnancy	increases	nutritional demands
+nutritional demands	vary by	trimester
+other plain vitamin preparations	may improve	wound healing
+wound healing	enhanced by	zinc
+zinc	often paired with	vitamin C
+other plain vitamin preparations	avoid in	hypervitaminosis
+hypervitaminosis	caused by	excessive intake
+excessive intake	results in	toxicity
+other plain vitamin preparations	differ from	fortified foods
+fortified foods	combine	micronutrients
+micronutrients	include	trace elements
+other plain vitamin preparations	tested for	bioavailability
+bioavailability	determines	absorption rate
+absorption rate	influenced by	food intake
+other plain vitamin preparations	combined with	omega-3
+omega-3	benefits	cognitive function
+cognitive function	declines with	aging
+other plain vitamin preparations	prescribed for	alcoholism
+alcoholism	depletes	thiamine
+thiamine	prevents	Wernicke encephalopathy
+other plain vitamin preparations	contain	riboflavin
+riboflavin	converts to	FAD
+FAD	participates in	redox reactions
+other plain vitamin preparations	used in	pediatric care
+pediatric care	focuses on	growth requirements
+growth requirements	peak during	adolescence
+other plain vitamin preparations	may include	vitamin K2
+vitamin K2	directs	calcium deposition
+calcium deposition	prevents	arterial calcification
+other plain vitamin preparations	interact with	thyroid medications
+thyroid medications	affected by	iron supplements
+iron supplements	reduce	levothyroxine efficacy
+other plain vitamin preparations	lack	therapeutic claims
+therapeutic claims	require	clinical trials

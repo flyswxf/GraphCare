@@ -1,0 +1,100 @@
+arteriovenous fistula	is a	vascular access
+vessel-to-vessel cannula	is a	vascular access
+arteriovenous fistula	used for	hemodialysis
+vessel-to-vessel cannula	used for	hemodialysis
+creation of arteriovenous fistula	is a	surgical procedure
+revision of arteriovenous fistula	is a	surgical procedure
+removal of arteriovenous fistula	is a	surgical procedure
+creation of vessel-to-vessel cannula	is a	surgical procedure
+revision of vessel-to-vessel cannula	is a	surgical procedure
+removal of vessel-to-vessel cannula	is a	surgical procedure
+arteriovenous fistula	requires	preoperative evaluation
+vessel-to-vessel cannula	requires	preoperative evaluation
+arteriovenous fistula	involves	anastomosis
+vessel-to-vessel cannula	involves	cannulation
+hemodialysis	requires	vascular access
+arteriovenous fistula	preferred over	central venous catheter
+arteriovenous fistula	has risk	infection
+vessel-to-vessel cannula	has risk	thrombosis
+arteriovenous fistula	may require	maturation period
+vessel-to-vessel cannula	allows	immediate use
+creation of arteriovenous fistula	performed by	vascular surgeon
+revision of arteriovenous fistula	performed by	vascular surgeon
+removal of arteriovenous fistula	performed by	vascular surgeon
+creation of vessel-to-vessel cannula	performed by	interventional radiologist
+revision of vessel-to-vessel cannula	performed by	interventional radiologist
+removal of vessel-to-vessel cannula	performed by	interventional radiologist
+arteriovenous fistula	can develop	stenosis
+vessel-to-vessel cannula	can develop	infection
+arteriovenous fistula	monitored by	ultrasound
+vessel-to-vessel cannula	monitored by	physical exam
+stenosis	treated by	angioplasty
+infection	treated by	antibiotics
+thrombosis	treated by	thrombolysis
+arteriovenous fistula	associated with	chronic kidney disease
+vessel-to-vessel cannula	associated with	acute kidney injury
+chronic kidney disease	leads to	hemodialysis
+acute kidney injury	may require	temporary dialysis
+creation of arteriovenous fistula	has complication	bleeding
+revision of arteriovenous fistula	has complication	hematoma
+removal of arteriovenous fistula	has complication	nerve injury
+creation of vessel-to-vessel cannula	has complication	vessel perforation
+revision of vessel-to-vessel cannula	has complication	dislodgement
+removal of vessel-to-vessel cannula	has complication	bleeding
+arteriovenous fistula	has better	patency rate
+vessel-to-vessel cannula	has shorter	lifespan
+patency rate	influenced by	patient factors
+patient factors	include	diabetes
+diabetes	increases risk	vascular complications
+hypertension	increases risk	stenosis
+smoking	decreases	fistula survival
+creation of arteriovenous fistula	requires	informed consent
+revision of arteriovenous fistula	requires	imaging guidance
+removal of arteriovenous fistula	requires	postoperative care
+creation of vessel-to-vessel cannula	requires	fluoroscopy
+revision of vessel-to-vessel cannula	requires	anticoagulation
+removal of vessel-to-vessel cannula	requires	compression bandage
+hemodialysis	depends on	access functionality
+access functionality	measured by	flow rate
+low flow rate	indicates	stenosis
+high flow rate	indicates	steal syndrome
+steal syndrome	causes	ischemia
+ischemia	treated by	access ligation
+access ligation	leads to	new access creation
+new access creation	may involve	alternative site
+alternative site	includes	upper arm
+upper arm fistula	has higher	success rate
+forearm fistula	has lower	success rate
+success rate	affected by	vein quality
+vein quality	assessed by	preoperative mapping
+preoperative mapping	uses	Doppler ultrasound
+Doppler ultrasound	detects	vein diameter
+vein diameter	determines	suitability
+unsuitable vein	requires	graft placement
+graft placement	uses	synthetic material
+synthetic graft	has higher	infection risk
+infection risk	reduced by	sterile technique
+sterile technique	includes	skin preparation
+skin preparation	involves	antiseptic solution
+antiseptic solution	examples	chlorhexidine
+chlorhexidine	prevents	bacterial colonization
+bacterial colonization	leads to	biofilm formation
+biofilm formation	causes	recurrent infection
+recurrent infection	requires	graft removal
+graft removal	followed by	antibiotic therapy
+antibiotic therapy	duration	4-6 weeks
+4-6 weeks	allows	tissue healing
+tissue healing	monitored by	wound care
+wound care	includes	dressing changes
+dressing changes	prevent	contamination
+contamination	leads to	delayed healing
+delayed healing	prolongs	recovery time
+recovery time	affects	dialysis schedule
+dialysis schedule	adjusted by	nephrologist
+nephrologist	coordinates	vascular access team
+vascular access team	includes	surgeon and nurse
+nurse	provides	patient education
+patient education	covers	access care
+access care	involves	hygiene practices
+hygiene practices	reduce	infection rate
+infection rate	impacts	patient mortality

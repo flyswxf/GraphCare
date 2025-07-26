@@ -1,0 +1,100 @@
+other sex hormones and modulators of the genital system	is a	ATC classification
+other sex hormones and modulators of the genital system	includes	SERMs
+other sex hormones and modulators of the genital system	includes	antiandrogens
+other sex hormones and modulators of the genital system	includes	aromatase inhibitors
+SERMs	treat	breast cancer
+SERMs	treat	osteoporosis
+SERMs	example	tamoxifen
+tamoxifen	prevents	estrogen binding
+tamoxifen	used for	ER+ breast cancer
+antiandrogens	treat	prostate cancer
+antiandrogens	example	bicalutamide
+bicalutamide	blocks	androgen receptors
+aromatase inhibitors	reduce	estrogen levels
+aromatase inhibitors	treat	hormone-sensitive cancers
+aromatase inhibitors	example	anastrozole
+anastrozole	inhibits	aromatase enzyme
+other sex hormones	include	progestogens
+progestogens	regulate	menstrual cycle
+progestogens	used in	contraception
+progestogens	example	medroxyprogesterone
+medroxyprogesterone	prevents	endometrial hyperplasia
+other sex hormones	include	androgens
+androgens	promote	male characteristics
+androgens	example	testosterone
+testosterone	affects	muscle mass
+testosterone	regulates	libido
+genital system modulators	include	GnRH analogs
+GnRH analogs	suppress	gonadal steroids
+GnRH analogs	treat	endometriosis
+GnRH analogs	example	leuprolide
+leuprolide	controls	prostate cancer growth
+genital system modulators	include	5α-reductase inhibitors
+5α-reductase inhibitors	treat	BPH
+5α-reductase inhibitors	example	finasteride
+finasteride	reduces	DHT levels
+other sex hormones	interact with	estrogen receptors
+estrogen receptors	mediate	hormonal effects
+hormonal effects	influence	cell proliferation
+cell proliferation	contributes to	cancer progression
+cancer progression	requires	treatment monitoring
+other sex hormones	metabolized by	liver enzymes
+liver enzymes	affected by	drug interactions
+drug interactions	alter	medication efficacy
+medication efficacy	impacts	treatment outcomes
+treatment outcomes	measured by	survival rates
+survival rates	improved by	early detection
+early detection	requires	screening tests
+screening tests	include	mammography
+mammography	detects	breast abnormalities
+breast abnormalities	may indicate	malignancy
+malignancy	treated with	chemotherapy
+chemotherapy	causes	side effects
+side effects	managed with	supportive care
+supportive care	includes	antiemetics
+antiemetics	prevent	nausea
+nausea	affects	quality of life
+quality of life	considered in	treatment planning
+treatment planning	involves	multidisciplinary team
+multidisciplinary team	includes	oncologists
+oncologists	prescribe	hormonal therapies
+hormonal therapies	target	specific receptors
+specific receptors	identified through	biomarker testing
+biomarker testing	guides	personalized medicine
+personalized medicine	improves	patient outcomes
+patient outcomes	depend on	adherence
+adherence	influenced by	side effect profile
+side effect profile	varies by	drug class
+drug class	determined by	mechanism of action
+mechanism of action	explains	therapeutic effects
+therapeutic effects	evaluated in	clinical trials
+clinical trials	assess	safety profile
+safety profile	reviewed by	regulatory agencies
+regulatory agencies	approve	new medications
+new medications	offer	additional options
+additional options	benefit	refractory cases
+refractory cases	require	combination therapy
+combination therapy	increases	efficacy
+efficacy	balanced against	toxicity
+toxicity	monitored through	laboratory tests
+laboratory tests	measure	serum levels
+serum levels	indicate	drug exposure
+drug exposure	correlates with	response
+response	predicts	prognosis
+prognosis	discussed in	patient counseling
+patient counseling	addresses	expectations
+expectations	influence	satisfaction
+satisfaction	affects	continuation rates
+continuation rates	important for	chronic conditions
+chronic conditions	managed with	long-term therapy
+long-term therapy	necessitates	follow-up
+follow-up	detects	late effects
+late effects	include	secondary malignancies
+secondary malignancies	screened for	early intervention
+early intervention	reduces	mortality
+mortality	decreased by	comprehensive care
+comprehensive care	coordinates	multiple specialists
+multiple specialists	collaborate on	complex cases
+complex cases	benefit from	precision medicine
+precision medicine	utilizes	genetic profiling
+genetic profiling	identifies	targetable mutations

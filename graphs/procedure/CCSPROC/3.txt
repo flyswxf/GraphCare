@@ -1,0 +1,100 @@
+laminectomy	is a	spinal surgery
+excision intervertebral disc	is a	spinal surgery
+laminectomy	treats	spinal stenosis
+excision intervertebral disc	treats	herniated disc
+laminectomy	involves	lamina
+excision intervertebral disc	involves	intervertebral disc
+laminectomy	relieves	nerve compression
+excision intervertebral disc	relieves	nerve compression
+laminectomy	performed by	neurosurgeon
+excision intervertebral disc	performed by	orthopedic surgeon
+laminectomy	requires	general anesthesia
+excision intervertebral disc	requires	general anesthesia
+laminectomy	has risk	infection
+excision intervertebral disc	has risk	infection
+laminectomy	has risk	bleeding
+excision intervertebral disc	has risk	bleeding
+laminectomy	has risk	dural tear
+excision intervertebral disc	has risk	dural tear
+laminectomy	requires	postoperative rehabilitation
+excision intervertebral disc	requires	postoperative rehabilitation
+laminectomy	uses	surgical microscope
+excision intervertebral disc	uses	surgical microscope
+laminectomy	alternative to	conservative treatment
+excision intervertebral disc	alternative to	conservative treatment
+laminectomy	may lead	adjacent segment disease
+excision intervertebral disc	may lead	adjacent segment disease
+laminectomy	affects	spinal stability
+excision intervertebral disc	affects	spinal stability
+laminectomy	may require	spinal fusion
+excision intervertebral disc	may require	spinal fusion
+laminectomy	treats	degenerative disc disease
+excision intervertebral disc	treats	degenerative disc disease
+laminectomy	addresses	back pain
+excision intervertebral disc	addresses	back pain
+laminectomy	addresses	leg pain
+excision intervertebral disc	addresses	leg pain
+laminectomy	improves	mobility
+excision intervertebral disc	improves	mobility
+laminectomy	contraindicated in	severe osteoporosis
+excision intervertebral disc	contraindicated in	severe osteoporosis
+laminectomy	requires	preoperative imaging
+excision intervertebral disc	requires	preoperative imaging
+laminectomy	uses	MRI
+excision intervertebral disc	uses	MRI
+laminectomy	uses	CT scan
+excision intervertebral disc	uses	CT scan
+laminectomy	performed at	lumbar spine
+excision intervertebral disc	performed at	lumbar spine
+laminectomy	performed at	cervical spine
+excision intervertebral disc	performed at	cervical spine
+laminectomy	has procedure time	2-4 hours
+excision intervertebral disc	has procedure time	1-3 hours
+laminectomy	requires	hospital stay
+excision intervertebral disc	requires	hospital stay
+laminectomy	has recovery time	6-12 weeks
+excision intervertebral disc	has recovery time	4-8 weeks
+laminectomy	may require	blood transfusion
+excision intervertebral disc	may require	blood transfusion
+laminectomy	uses	bone graft
+excision intervertebral disc	uses	bone graft
+laminectomy	may lead	scar tissue formation
+excision intervertebral disc	may lead	scar tissue formation
+laminectomy	treats	spinal tumors
+excision intervertebral disc	treats	spinal tumors
+laminectomy	treats	spinal trauma
+excision intervertebral disc	treats	spinal trauma
+laminectomy	may require	spinal instrumentation
+excision intervertebral disc	may require	spinal instrumentation
+laminectomy	contraindicated in	active infection
+excision intervertebral disc	contraindicated in	active infection
+laminectomy	requires	postoperative pain management
+excision intervertebral disc	requires	postoperative pain management
+laminectomy	uses	opioid analgesics
+excision intervertebral disc	uses	opioid analgesics
+laminectomy	uses	NSAIDs
+excision intervertebral disc	uses	NSAIDs
+laminectomy	requires	physical therapy
+excision intervertebral disc	requires	physical therapy
+laminectomy	has success rate	70-80%
+excision intervertebral disc	has success rate	75-90%
+laminectomy	may require	revision surgery
+excision intervertebral disc	may require	revision surgery
+laminectomy	associated with	older patients
+excision intervertebral disc	associated with	middle-aged patients
+laminectomy	treats	spondylolisthesis
+excision intervertebral disc	treats	spondylolisthesis
+laminectomy	may cause	nerve damage
+excision intervertebral disc	may cause	nerve damage
+laminectomy	may cause	CSF leak
+excision intervertebral disc	may cause	CSF leak
+laminectomy	uses	surgical drain
+excision intervertebral disc	uses	surgical drain
+laminectomy	requires	postoperative antibiotics
+excision intervertebral disc	requires	postoperative antibiotics
+laminectomy	treats	foraminal stenosis
+excision intervertebral disc	treats	foraminal stenosis
+laminectomy	may lead	failed back syndrome
+excision intervertebral disc	may lead	failed back syndrome
+laminectomy	requires	follow-up visits
+excision intervertebral disc	requires	follow-up visits

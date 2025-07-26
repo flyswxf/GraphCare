@@ -1,0 +1,100 @@
+antiinflammatory therapeutic radiopharmaceuticals	is a	radiopharmaceutical
+antiinflammatory therapeutic radiopharmaceuticals	used for	inflammation treatment
+antiinflammatory therapeutic radiopharmaceuticals	contains	radioactive isotopes
+radioactive isotopes	emit	radiation
+radiation	targets	inflamed tissues
+antiinflammatory therapeutic radiopharmaceuticals	administered via	injection
+injection	requires	medical supervision
+medical supervision	performed by	radiologist
+radiologist	specializes in	imaging techniques
+antiinflammatory therapeutic radiopharmaceuticals	monitored with	imaging equipment
+imaging equipment	includes	PET scanner
+PET scanner	detects	gamma rays
+gamma rays	emitted by	radiopharmaceuticals
+antiinflammatory therapeutic radiopharmaceuticals	has	half-life
+half-life	determines	dosage frequency
+dosage frequency	affects	treatment efficacy
+treatment efficacy	measured by	symptom reduction
+symptom reduction	indicates	therapy success
+antiinflammatory therapeutic radiopharmaceuticals	interacts with	immune system
+immune system	produces	cytokines
+cytokines	mediate	inflammation
+inflammation	characterized by	swelling
+swelling	causes	pain
+pain	treated with	analgesics
+analgesics	may interact with	radiopharmaceuticals
+antiinflammatory therapeutic radiopharmaceuticals	contraindicated in	pregnancy
+pregnancy	requires	radiation avoidance
+radiation avoidance	prevents	fetal harm
+fetal harm	leads to	developmental issues
+antiinflammatory therapeutic radiopharmaceuticals	stored in	lead containers
+lead containers	shield	radiation
+radiation	measured in	sieverts
+sieverts	quantify	biological impact
+biological impact	depends on	exposure duration
+exposure duration	limited by	safety protocols
+safety protocols	established by	regulatory agencies
+regulatory agencies	include	FDA
+FDA	approves	radiopharmaceuticals
+antiinflammatory therapeutic radiopharmaceuticals	researched in	clinical trials
+clinical trials	evaluate	safety profile
+safety profile	includes	adverse effects
+adverse effects	may include	allergic reactions
+allergic reactions	treated with	antihistamines
+antihistamines	block	histamine receptors
+histamine receptors	mediate	inflammatory response
+inflammatory response	involves	mast cells
+mast cells	release	histamine
+histamine	causes	vasodilation
+vasodilation	results in	redness
+redness	indicates	inflammation
+antiinflammatory therapeutic radiopharmaceuticals	alternative to	corticosteroids
+corticosteroids	suppress	immune response
+immune response	protects against	pathogens
+pathogens	cause	infections
+infections	may worsen	inflammation
+antiinflammatory therapeutic radiopharmaceuticals	used in	autoimmune diseases
+autoimmune diseases	include	rheumatoid arthritis
+rheumatoid arthritis	affects	joints
+joints	contain	synovial fluid
+synovial fluid	lubricates	cartilage
+cartilage	protects	bones
+bones	scanned with	bone densitometry
+bone densitometry	uses	X-rays
+X-rays	differ from	gamma rays
+gamma rays	penetrate	tissues deeper
+antiinflammatory therapeutic radiopharmaceuticals	developed by	pharmaceutical companies
+pharmaceutical companies	conduct	drug discovery
+drug discovery	involves	target identification
+target identification	focuses on	molecular pathways
+molecular pathways	regulate	inflammation
+inflammation	involves	prostaglandins
+prostaglandins	synthesized from	arachidonic acid
+arachidonic acid	derived from	cell membranes
+cell membranes	contain	phospholipids
+phospholipids	broken down by	phospholipase A2
+phospholipase A2	inhibited by	antiinflammatory drugs
+antiinflammatory drugs	classified as	NSAIDs
+NSAIDs	block	cyclooxygenase
+cyclooxygenase	produces	prostaglandins
+antiinflammatory therapeutic radiopharmaceuticals	alternative to	biologics
+biologics	target	specific cytokines
+specific cytokines	include	TNF-alpha
+TNF-alpha	promotes	inflammation
+inflammation	leads to	tissue damage
+tissue damage	repaired by	fibroblasts
+fibroblasts	produce	collagen
+collagen	forms	scar tissue
+scar tissue	restricts	mobility
+mobility	improved by	physical therapy
+physical therapy	strengthens	muscles
+muscles	support	joints
+joints	protected by	antiinflammatory treatment
+antiinflammatory treatment	reduces	pain
+pain	affects	quality of life
+quality of life	measured by	patient surveys
+patient surveys	assess	treatment satisfaction
+treatment satisfaction	influences	adherence
+adherence	determines	therapeutic outcomes
+therapeutic outcomes	evaluated by	physicians
+physicians	prescribe	antiinflammatory therapeutic radiopharmaceuticals

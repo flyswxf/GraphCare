@@ -1,0 +1,100 @@
+other eye disorders	include	dry eye syndrome
+other eye disorders	include	conjunctivitis
+other eye disorders	include	blepharitis
+other eye disorders	include	keratitis
+other eye disorders	include	uveitis
+other eye disorders	include	glaucoma
+other eye disorders	include	cataracts
+other eye disorders	include	retinal detachment
+other eye disorders	include	macular degeneration
+other eye disorders	include	strabismus
+dry eye syndrome	causes	eye irritation
+dry eye syndrome	is treated with	artificial tears
+conjunctivitis	is caused by	bacterial infection
+conjunctivitis	is caused by	viral infection
+conjunctivitis	is treated with	antibiotic eye drops
+blepharitis	affects	eyelid margins
+blepharitis	is managed with	warm compresses
+keratitis	can lead to	corneal scarring
+keratitis	is treated with	antifungal medication
+uveitis	involves	eye inflammation
+uveitis	is associated with	autoimmune diseases
+glaucoma	increases	intraocular pressure
+glaucoma	is managed with	beta-blocker eye drops
+cataracts	cause	cloudy vision
+cataracts	are treated with	surgery
+retinal detachment	requires	emergency treatment
+retinal detachment	leads to	vision loss
+macular degeneration	affects	central vision
+macular degeneration	has types	wet and dry
+strabismus	causes	misaligned eyes
+strabismus	is corrected with	eye exercises
+diabetes	can cause	diabetic retinopathy
+diabetes	increases risk of	cataracts
+hypertension	is linked to	retinal vein occlusion
+aging	is a risk factor for	macular degeneration
+eye trauma	can result in	corneal abrasion
+contact lens misuse	leads to	eye infections
+allergies	trigger	allergic conjunctivitis
+smoking	worsens	dry eye syndrome
+UV exposure	contributes to	cataracts
+steroid use	can cause	glaucoma
+autoimmune diseases	may lead to	uveitis
+high myopia	increases risk of	retinal detachment
+vitamin A deficiency	causes	night blindness
+eye strain	results from	prolonged screen use
+genetics	influence	glaucoma susceptibility
+pregnancy	can worsen	dry eyes
+eye surgery	may lead to	complications
+antibiotics	treat	bacterial conjunctivitis
+antihistamines	relieve	allergic eye symptoms
+immunosuppressants	manage	uveitis
+laser therapy	treats	retinal tears
+vitrectomy	repairs	retinal detachment
+corticosteroids	reduce	eye inflammation
+artificial tears	alleviate	dry eye symptoms
+eye exams	detect	early glaucoma
+tonometry	measures	intraocular pressure
+visual field test	assesses	glaucoma damage
+mydriatic drops	dilate	pupils
+corneal transplant	treats	severe keratitis
+cataract surgery	improves	vision clarity
+glaucoma surgery	lowers	eye pressure
+macular degeneration	may require	anti-VEGF injections
+strabismus surgery	corrects	eye alignment
+diabetic retinopathy	needs	laser treatment
+eye infections	require	prompt treatment
+contact lenses	can cause	microbial keratitis
+eye drops	relieve	redness
+eye ointments	treat	bacterial infections
+sunglasses	protect against	UV damage
+blue light filters	reduce	eye strain
+omega-3 supplements	help	dry eyes
+eye exercises	improve	focusing ability
+punctal plugs	retain	tear film
+eye vitamins	support	macular health
+low vision aids	assist	vision impairment
+eye patches	treat	amblyopia
+contact lens solutions	prevent	infections
+eye hygiene	prevents	blepharitis
+eye rubbing	worsens	keratoconus
+eye trauma	necessitates	immediate care
+diabetes control	prevents	retinopathy progression
+smoking cessation	reduces	macular degeneration risk
+eye protection	prevents	work-related injuries
+regular check-ups	monitor	eye health
+eye allergies	are triggered by	pollen
+eye twitching	is caused by	stress
+eye floaters	result from	vitreous changes
+eye pain	indicates	serious conditions
+eye redness	signals	inflammation
+blurred vision	requires	evaluation
+light sensitivity	accompanies	uveitis
+night blindness	suggests	vitamin deficiency
+double vision	may indicate	neurological issues
+eye discharge	points to	infection
+eyelid swelling	is caused by	allergies
+tearing	results from	dry eye irritation
+corneal ulcers	require	urgent care
+eye tumors	need	specialized treatment
+vision changes	warrant	professional assessment

@@ -1,0 +1,100 @@
+control of epistaxis	is a	medical procedure
+control of epistaxis	treats	epistaxis
+epistaxis	is a	bleeding disorder
+epistaxis	occurs in	nasal cavity
+nasal cavity	is part of	respiratory system
+control of epistaxis	involves	nasal packing
+nasal packing	uses	gauze
+nasal packing	applies	pressure
+control of epistaxis	may require	cauterization
+cauterization	uses	silver nitrate
+cauterization	stops	bleeding
+control of epistaxis	may use	topical vasoconstrictors
+topical vasoconstrictors	include	oxymetazoline
+oxymetazoline	constricts	blood vessels
+control of epistaxis	may require	endoscopic surgery
+endoscopic surgery	identifies	bleeding source
+epistaxis	caused by	trauma
+epistaxis	caused by	hypertension
+hypertension	increases	blood pressure
+epistaxis	associated with	anticoagulant use
+anticoagulant use	prolongs	clotting time
+epistaxis	may lead to	anemia
+anemia	reduces	hemoglobin levels
+control of epistaxis	prevents	hypovolemia
+hypovolemia	causes	shock
+epistaxis	more common in	elderly
+elderly	have	fragile blood vessels
+epistaxis	occurs in	dry climates
+dry climate	causes	nasal dryness
+control of epistaxis	requires	patient education
+patient education	includes	humidifier use
+humidifier use	prevents	nasal dryness
+epistaxis	classified as	anterior
+epistaxis	classified as	posterior
+posterior epistaxis	more severe than	anterior epistaxis
+posterior epistaxis	requires	posterior packing
+posterior packing	uses	balloon catheter
+balloon catheter	exerts	pressure
+control of epistaxis	may need	blood transfusion
+blood transfusion	replaces	blood loss
+epistaxis	associated with	hereditary hemorrhagic telangiectasia
+hereditary hemorrhagic telangiectasia	causes	vascular malformations
+control of epistaxis	may use	tranexamic acid
+tranexamic acid	promotes	clot formation
+epistaxis	diagnosed by	physical examination
+physical examination	includes	nasal inspection
+epistaxis	may require	imaging
+imaging	includes	CT scan
+CT scan	detects	vascular abnormalities
+epistaxis	treated in	emergency department
+emergency department	manages	acute bleeding
+control of epistaxis	includes	vital signs monitoring
+vital signs monitoring	assesses	hemodynamic stability
+epistaxis	complications include	airway obstruction
+airway obstruction	requires	emergency intervention
+control of epistaxis	considers	anticoagulant reversal
+anticoagulant reversal	uses	vitamin K
+vitamin K	promotes	clotting factor synthesis
+epistaxis	prevented by	nasal moisturizers
+nasal moisturizers	contain	saline
+saline	maintains	nasal moisture
+epistaxis	related to	nasal cocaine use
+nasal cocaine use	causes	vasoconstriction
+control of epistaxis	may require	arterial ligation
+arterial ligation	occludes	bleeding artery
+epistaxis	associated with	liver disease
+liver disease	impairs	clotting factor production
+control of epistaxis	influenced by	coagulation status
+coagulation status	assessed by	INR
+INR	measures	anticoagulation effect
+epistaxis	managed by	otolaryngologist
+otolaryngologist	specializes in	ENT disorders
+control of epistaxis	may use	fibrin glue
+fibrin glue	forms	artificial clot
+epistaxis	aggravated by	nose picking
+nose picking	damages	nasal mucosa
+control of epistaxis	includes	pain management
+pain management	uses	analgesics
+analgesics	relieve	discomfort
+epistaxis	associated with	nasal tumors
+nasal tumors	cause	abnormal bleeding
+control of epistaxis	records	bleeding duration
+bleeding duration	indicates	severity
+epistaxis	affected by	seasonal variations
+seasonal variations	influence	humidity levels
+control of epistaxis	educates about	first aid
+first aid	includes	pinching nostrils
+pinching nostrils	applies	direct pressure
+epistaxis	worsens with	aspirin use
+aspirin use	inhibits	platelet function
+control of epistaxis	monitors for	rebleeding
+rebleeding	indicates	treatment failure
+epistaxis	associated with	blood dyscrasias
+blood dyscrasias	affect	blood components
+control of epistaxis	considers	underlying cause
+underlying cause	determines	treatment approach
+epistaxis	documented in	medical records
+medical records	track	treatment outcomes
+control of epistaxis	improves with	timely intervention
+timely intervention	prevents	complications

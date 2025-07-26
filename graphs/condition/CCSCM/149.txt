@@ -1,0 +1,100 @@
+biliary tract disease	affects	bile ducts
+biliary tract disease	may cause	jaundice
+biliary tract disease	may lead to	cholangitis
+biliary tract disease	can result in	pancreatitis
+biliary tract disease	is diagnosed by	ultrasound
+biliary tract disease	is associated with	gallstones
+biliary tract disease	requires	ERCP
+biliary tract disease	may need	cholecystectomy
+biliary tract disease	causes	abdominal pain
+biliary tract disease	leads to	liver dysfunction
+biliary tract disease	is treated with	antibiotics
+biliary tract disease	may require	stent placement
+biliary tract disease	increases risk of	sepsis
+biliary tract disease	is related to	cirrhosis
+biliary tract disease	can cause	nausea
+biliary tract disease	results in	vomiting
+biliary tract disease	is evaluated by	CT scan
+biliary tract disease	is managed with	pain medication
+biliary tract disease	affects	digestion
+biliary tract disease	is linked to	obesity
+biliary tract disease	has symptom	fever
+biliary tract disease	may progress to	liver failure
+biliary tract disease	is examined via	MRI
+biliary tract disease	can lead to	biliary stricture
+biliary tract disease	is treated by	gastroenterologist
+biliary tract disease	may cause	itching
+biliary tract disease	requires	liver function tests
+biliary tract disease	is associated with	bile duct cancer
+biliary tract disease	can result in	weight loss
+biliary tract disease	needs	bile acid therapy
+biliary tract disease	has complication	abscess
+biliary tract disease	is diagnosed with	cholangiography
+biliary tract disease	may require	drainage procedure
+biliary tract disease	affects	gallbladder
+biliary tract disease	is treated with	ursodeoxycholic acid
+biliary tract disease	can cause	dark urine
+biliary tract disease	leads to	pale stools
+biliary tract disease	is evaluated by	HIDA scan
+biliary tract disease	may need	PTC
+biliary tract disease	is linked to	diabetes
+biliary tract disease	has risk factor	rapid weight loss
+biliary tract disease	may progress to	biliary cirrhosis
+biliary tract disease	is examined via	MRCP
+biliary tract disease	can lead to	bile peritonitis
+biliary tract disease	is treated by	hepatobiliary surgeon
+biliary tract disease	may cause	steatorrhea
+biliary tract disease	requires	coagulation tests
+biliary tract disease	is associated with	primary sclerosing cholangitis
+biliary tract disease	can result in	vitamin deficiency
+biliary tract disease	needs	nutritional support
+biliary tract disease	has complication	cholangiocarcinoma
+biliary tract disease	is diagnosed with	endoscopic ultrasound
+biliary tract disease	may require	liver transplant
+biliary tract disease	affects	common bile duct
+biliary tract disease	is treated with	rifampin
+biliary tract disease	can cause	clay-colored stool
+biliary tract disease	leads to	malabsorption
+biliary tract disease	is evaluated by	PTC
+biliary tract disease	may need	sphincterotomy
+biliary tract disease	is linked to	hyperlipidemia
+biliary tract disease	has risk factor	female gender
+biliary tract disease	may progress to	hepatic encephalopathy
+biliary tract disease	is examined via	PET scan
+biliary tract disease	can lead to	biliary fistula
+biliary tract disease	is treated by	interventional radiologist
+biliary tract disease	may cause	pruritus
+biliary tract disease	requires	vitamin K
+biliary tract disease	is associated with	choledocholithiasis
+biliary tract disease	can result in	osteoporosis
+biliary tract disease	needs	fat-soluble vitamins
+biliary tract disease	has complication	biliary obstruction
+biliary tract disease	is diagnosed with	liver biopsy
+biliary tract disease	may require	biliary bypass
+biliary tract disease	affects	cystic duct
+biliary tract disease	is treated with	cholestyramine
+biliary tract disease	can cause	fatigue
+biliary tract disease	leads to	coagulopathy
+biliary tract disease	is evaluated by	endoscopic retrograde cholangiopancreatography
+biliary tract disease	may need	percutaneous transhepatic cholangiography
+biliary tract disease	is linked to	inflammatory bowel disease
+biliary tract disease	has risk factor	pregnancy
+biliary tract disease	may progress to	hepatorenal syndrome
+biliary tract disease	is examined via	CT cholangiography
+biliary tract disease	can lead to	portal hypertension
+biliary tract disease	is treated by	transplant team
+biliary tract disease	may cause	xanthoma
+biliary tract disease	requires	fat restriction
+biliary tract disease	is associated with	biliary atresia
+biliary tract disease	can result in	night blindness
+biliary tract disease	needs	calcium supplements
+biliary tract disease	has complication	gallbladder perforation
+biliary tract disease	is diagnosed with	serum bile acids
+biliary tract disease	may require	biliary reconstruction
+biliary tract disease	affects	ampulla of Vater
+biliary tract disease	is treated with	naltrexone
+biliary tract disease	can cause	vitamin A deficiency
+biliary tract disease	leads to	vitamin D deficiency
+biliary tract disease	is evaluated by	magnetic resonance cholangiopancreatography
+biliary tract disease	may need	biliary drainage
+biliary tract disease	is linked to	celiac disease

@@ -1,0 +1,100 @@
+irrigating solutions	are used in	medical procedures
+irrigating solutions	contain	electrolytes
+irrigating solutions	maintain	tissue hydration
+irrigating solutions	prevent	infection
+blood substitutes	replace	blood
+blood substitutes	used in	transfusion
+blood substitutes	mimic	hemoglobin
+perfusion	refers to	blood flow
+perfusion	maintains	organ function
+irrigating solutions	used in	surgery
+normal saline	is a	irrigating solution
+lactated Ringer's	is a	irrigating solution
+blood substitutes	help with	oxygen transport
+perfusion	measured by	perfusion index
+poor perfusion	leads to	ischemia
+irrigating solutions	cleanse	wounds
+blood substitutes	temporary solution	blood loss
+perfusion	affected by	blood pressure
+irrigating solutions	used in	wound care
+hemoglobin-based	are	blood substitutes
+perfusion	critical for	brain function
+irrigating solutions	prevent	adhesions
+blood substitutes	lack	clotting factors
+perfusion	monitored with	pulse oximetry
+sterile water	used as	irrigating solution
+perfluorocarbons	are	blood substitutes
+poor perfusion	causes	organ damage
+irrigating solutions	remove	debris
+blood substitutes	require	compatibility testing
+perfusion	depends on	vascular health
+irrigating solutions	maintain	surgical field
+blood substitutes	have	shelf life
+perfusion	affected by	heart function
+antibiotic solutions	are	irrigating solutions
+blood substitutes	reduce	transfusion risks
+perfusion	assessed by	capillary refill
+irrigating solutions	used in	endoscopy
+hemoglobin-based substitutes	carry	oxygen
+perfusion	influenced by	blood viscosity
+irrigating solutions	cool	tissues
+blood substitutes	lack	immune components
+perfusion	compromised by	vasoconstriction
+irrigating solutions	dilute	contaminants
+blood substitutes	bridge	blood shortages
+perfusion	improved by	vasodilation
+irrigating solutions	prevent	drying
+blood substitutes	tested for	safety
+perfusion	regulated by	autonomic system
+irrigating solutions	facilitate	visualization
+blood substitutes	require	storage conditions
+perfusion	measured in	mL/min/100g
+irrigating solutions	used in	dental procedures
+blood substitutes	have	volume expansion
+perfusion	altered by	medications
+irrigating solutions	prevent	biofilm
+blood substitutes	lack	platelets
+perfusion	critical for	wound healing
+irrigating solutions	maintain	pH balance
+blood substitutes	used in	trauma
+perfusion	affected by	dehydration
+irrigating solutions	reduce	inflammation
+blood substitutes	lack	white cells
+perfusion	measured with	Doppler
+irrigating solutions	used in	urology
+blood substitutes	have	elimination rate
+perfusion	impaired by	atherosclerosis
+irrigating solutions	prevent	scar formation
+blood substitutes	require	monitoring
+perfusion	dependent on	cardiac output
+irrigating solutions	used in	ophthalmology
+blood substitutes	have	viscosity
+perfusion	affected by	anemia
+irrigating solutions	lubricate	instruments
+blood substitutes	lack	nutrients
+perfusion	assessed by	skin temperature
+irrigating solutions	used in	arthroscopy
+blood substitutes	have	oxygen affinity
+perfusion	reduced by	shock
+irrigating solutions	prevent	clot formation
+blood substitutes	require	dosing calculation
+perfusion	maintained by	baroreceptors
+irrigating solutions	used in	ENT procedures
+blood substitutes	lack	hormones
+perfusion	altered by	temperature
+irrigating solutions	remove	blood
+blood substitutes	have	oncotic pressure
+perfusion	critical for	kidney function
+irrigating solutions	used in	gynecology
+blood substitutes	lack	enzymes
+perfusion	affected by	respiratory function
+irrigating solutions	maintain	transparency
+blood substitutes	require	administration protocol
+perfusion	measured by	contrast imaging
+irrigating solutions	used in	neurosurgery
+blood substitutes	have	circulation time
+perfusion	impaired by	thrombosis
+irrigating solutions	prevent	friction
+blood substitutes	lack	growth factors
+perfusion	regulated by	nitric oxide
+irrigating solutions	used in	burn care

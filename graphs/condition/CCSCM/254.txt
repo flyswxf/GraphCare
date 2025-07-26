@@ -1,0 +1,100 @@
+rehabilitation care	includes	physical therapy
+rehabilitation care	includes	occupational therapy
+rehabilitation care	helps with	mobility recovery
+rehabilitation care	reduces	hospital readmission
+rehabilitation care	improves	quality of life
+rehabilitation care	requires	multidisciplinary team
+rehabilitation care	involves	patient education
+rehabilitation care	targets	functional independence
+rehabilitation care	benefits	stroke patients
+rehabilitation care	benefits	trauma patients
+fitting of prostheses	requires	patient assessment
+fitting of prostheses	involves	measurements
+fitting of prostheses	includes	socket fitting
+fitting of prostheses	requires	alignment adjustment
+fitting of prostheses	follows	amputation
+fitting of prostheses	improves	mobility
+fitting of prostheses	prevents	phantom pain
+fitting of prostheses	needs	follow-up
+fitting of prostheses	uses	3D printing
+fitting of prostheses	involves	gait training
+adjustment of devices	includes	wheelchair fitting
+adjustment of devices	ensures	proper alignment
+adjustment of devices	prevents	pressure sores
+adjustment of devices	improves	comfort
+adjustment of devices	enhances	functionality
+adjustment of devices	requires	professional expertise
+adjustment of devices	involves	periodic maintenance
+adjustment of devices	addresses	patient growth
+adjustment of devices	modifies	assistive technology
+adjustment of devices	follows	injury
+physical therapy	strengthens	muscles
+physical therapy	increases	range of motion
+physical therapy	reduces	pain
+physical therapy	prevents	contractures
+physical therapy	uses	therapeutic exercises
+occupational therapy	improves	daily living skills
+occupational therapy	adapts	home environment
+occupational therapy	teaches	energy conservation
+occupational therapy	enhances	fine motor skills
+occupational therapy	recommends	adaptive equipment
+multidisciplinary team	includes	physiatrists
+multidisciplinary team	includes	nurses
+multidisciplinary team	includes	social workers
+multidisciplinary team	coordinates	care plan
+multidisciplinary team	improves	outcomes
+stroke patients	need	speech therapy
+stroke patients	experience	hemiparesis
+stroke patients	require	swallowing therapy
+stroke patients	benefit	cognitive rehabilitation
+stroke patients	have	rehabilitation potential
+trauma patients	suffer	fractures
+trauma patients	undergo	surgical repair
+trauma patients	need	pain management
+trauma patients	require	gradual mobilization
+trauma patients	face	psychological challenges
+amputation	causes	limb loss
+amputation	results from	vascular disease
+amputation	requires	wound care
+amputation	leads	lifestyle changes
+amputation	necessitates	prosthetic training
+phantom pain	requires	medication
+phantom pain	responds to	mirror therapy
+phantom pain	affects	quality of life
+phantom pain	decreases	prosthesis use
+phantom pain	relates to	nerve damage
+gait training	improves	walking pattern
+gait training	uses	parallel bars
+gait training	prevents	falls
+gait training	enhances	confidence
+gait training	progresses	to outdoors
+wheelchair fitting	considers	posture
+wheelchair fitting	measures	seat width
+wheelchair fitting	selects	cushion type
+wheelchair fitting	adjusts	back height
+wheelchair fitting	customizes	for disabilities
+pressure sores	result from	immobility
+pressure sores	require	wound care
+pressure sores	prevent	with repositioning
+pressure sores	risk	malnutrition
+pressure sores	lead	infections
+assistive technology	includes	walkers
+assistive technology	includes	canes
+assistive technology	includes	orthoses
+assistive technology	promotes	independence
+assistive technology	compensates	impairments
+therapeutic exercises	build	endurance
+therapeutic exercises	correct	imbalances
+therapeutic exercises	follow	progression
+therapeutic exercises	require	supervision
+therapeutic exercises	prevent	atrophy
+adaptive equipment	includes	reachers
+adaptive equipment	includes	dressing aids
+adaptive equipment	includes	modified utensils
+adaptive equipment	facilitates	self-care
+adaptive equipment	reduces	caregiver burden
+physiatrists	prescribe	rehabilitation plan
+physiatrists	diagnose	functional limitations
+physiatrists	coordinate	therapies
+physiatrists	monitor	progress
+physiatrists	specialize	rehabilitation medicine

@@ -1,0 +1,100 @@
+ileostomy	is a type of	enterostomy
+enterostomy	creates	stoma
+stoma	allows	waste elimination
+ileostomy	involves	small intestine
+colostomy	is a type of	enterostomy
+colostomy	involves	large intestine
+ileostomy	treats	Crohn’s disease
+ileostomy	treats	ulcerative colitis
+ileostomy	treats	bowel obstruction
+ileostomy	treats	colorectal cancer
+enterostomy	requires	surgical procedure
+surgical procedure	performed by	surgeon
+surgeon	uses	surgical instruments
+ileostomy	may cause	skin irritation
+skin irritation	managed by	stoma care
+stoma care	involves	cleaning
+stoma care	involves	barrier creams
+ileostomy	may lead to	dehydration
+dehydration	prevented by	fluid intake
+ileostomy	may cause	electrolyte imbalance
+electrolyte imbalance	monitored by	blood tests
+blood tests	detect	sodium levels
+blood tests	detect	potassium levels
+ileostomy	requires	ostomy bag
+ostomy bag	collects	waste
+ostomy bag	needs	regular changing
+ileostomy	may cause	odor
+odor	controlled by	deodorizing products
+enterostomy	may require	dietary changes
+dietary changes	include	low-fiber foods
+dietary changes	avoid	gas-producing foods
+ileostomy	may cause	blockages
+blockages	treated by	liquid diet
+blockages	treated by	massage
+ileostomy	affects	body image
+body image	improved by	counseling
+counseling	provided by	psychologist
+ileostomy	may lead to	depression
+depression	treated by	antidepressants
+antidepressants	prescribed by	psychiatrist
+enterostomy	may require	follow-up surgery
+follow-up surgery	checks	stoma function
+stoma function	assessed by	healthcare provider
+ileostomy	may cause	infection
+infection	treated by	antibiotics
+antibiotics	prescribed by	doctor
+ileostomy	may lead to	hernia
+hernia	repaired by	surgical mesh
+surgical mesh	placed by	surgeon
+ileostomy	affects	physical activity
+physical activity	adjusted by	physiotherapist
+physiotherapist	recommends	exercises
+exercises	improve	core strength
+core strength	prevents	stoma prolapse
+stoma prolapse	treated by	surgery
+ileostomy	may cause	malnutrition
+malnutrition	prevented by	vitamin supplements
+vitamin supplements	include	vitamin B12
+vitamin B12	absorbed in	terminal ileum
+terminal ileum	bypassed by	ileostomy
+ileostomy	may cause	weight loss
+weight loss	managed by	nutritionist
+nutritionist	plans	high-calorie diet
+high-calorie diet	includes	protein shakes
+ileostomy	may lead to	kidney stones
+kidney stones	prevented by	hydration
+hydration	measured by	urine output
+ileostomy	may cause	anemia
+anemia	treated by	iron supplements
+iron supplements	cause	constipation
+constipation	relieved by	laxatives
+laxatives	recommended by	gastroenterologist
+gastroenterologist	specializes in	digestive disorders
+digestive disorders	include	Crohn’s disease
+Crohn’s disease	diagnosed by	colonoscopy
+colonoscopy	performed by	endoscopist
+endoscopist	uses	endoscope
+endoscope	captures	images
+images	analyzed by	pathologist
+pathologist	identifies	abnormalities
+abnormalities	include	inflammation
+inflammation	treated by	steroids
+steroids	reduce	swelling
+swelling	causes	pain
+pain	managed by	analgesics
+analgesics	prescribed by	physician
+physician	monitors	side effects
+side effects	include	nausea
+nausea	treated by	antiemetics
+antiemetics	block	vomiting reflex
+vomiting reflex	controlled by	brainstem
+brainstem	regulates	autonomic functions
+autonomic functions	include	digestion
+digestion	involves	peristalsis
+peristalsis	moves	food
+food	broken down by	enzymes
+enzymes	secreted by	pancreas
+pancreas	affected by	cystic fibrosis
+cystic fibrosis	diagnosed by	sweat test
+sweat test	measures	chloride levels

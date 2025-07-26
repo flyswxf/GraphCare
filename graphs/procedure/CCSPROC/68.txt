@@ -1,0 +1,100 @@
+injection or ligation of esophageal varices	is a	medical procedure
+injection or ligation of esophageal varices	treats	esophageal varices
+esophageal varices	is a	complication
+esophageal varices	caused by	portal hypertension
+portal hypertension	caused by	liver cirrhosis
+liver cirrhosis	caused by	chronic hepatitis
+chronic hepatitis	caused by	hepatitis B virus
+chronic hepatitis	caused by	hepatitis C virus
+liver cirrhosis	leads to	liver failure
+liver failure	requires	liver transplant
+injection or ligation of esophageal varices	prevents	variceal bleeding
+variceal bleeding	is a	medical emergency
+variceal bleeding	causes	hypovolemic shock
+hypovolemic shock	treated with	fluid resuscitation
+fluid resuscitation	involves	IV fluids
+IV fluids	include	saline solution
+variceal bleeding	diagnosed with	endoscopy
+endoscopy	performed by	gastroenterologist
+gastroenterologist	is a	medical specialist
+injection or ligation of esophageal varices	performed under	sedation
+sedation	administered by	anesthesiologist
+anesthesiologist	monitors	vital signs
+vital signs	include	blood pressure
+blood pressure	measured with	sphygmomanometer
+injection or ligation of esophageal varices	uses	sclerotherapy
+sclerotherapy	involves	injecting sclerosant
+sclerosant	causes	fibrosis
+fibrosis	reduces	blood flow
+injection or ligation of esophageal varices	uses	band ligation
+band ligation	involves	rubber bands
+rubber bands	placed with	endoscope
+endoscope	has	camera
+camera	transmits	images
+images	viewed on	monitor
+injection or ligation of esophageal varices	requires	preoperative assessment
+preoperative assessment	includes	blood tests
+blood tests	measure	hemoglobin
+hemoglobin	indicates	anemia
+anemia	treated with	iron supplements
+iron supplements	can cause	constipation
+constipation	managed with	laxatives
+injection or ligation of esophageal varices	has	complications
+complications	include	perforation
+perforation	requires	surgical repair
+surgical repair	performed by	surgeon
+surgeon	uses	sutures
+sutures	made of	absorbable material
+injection or ligation of esophageal varices	followed by	monitoring
+monitoring	includes	vital signs
+vital signs	recorded in	medical chart
+medical chart	stored in	EHR system
+EHR system	accessed by	healthcare providers
+healthcare providers	include	nurses
+nurses	administer	medications
+medications	prescribed by	doctors
+injection or ligation of esophageal varices	contraindicated in	severe coagulopathy
+severe coagulopathy	caused by	warfarin
+warfarin	is a	anticoagulant
+anticoagulant	prevents	blood clots
+blood clots	cause	stroke
+stroke	treated with	thrombolytics
+thrombolytics	dissolve	clots
+injection or ligation of esophageal varices	requires	post-procedure diet
+post-procedure diet	includes	soft foods
+soft foods	such as	yogurt
+yogurt	contains	probiotics
+probiotics	improve	gut health
+gut health	affects	immune system
+immune system	protects against	infections
+infections	treated with	antibiotics
+antibiotics	target	bacteria
+bacteria	cause	pneumonia
+pneumonia	diagnosed with	chest X-ray
+chest X-ray	performed by	radiologist
+radiologist	interprets	imaging
+imaging	stored in	PACS system
+PACS system	integrates with	EHR
+EHR	improves	care coordination
+care coordination	involves	multidisciplinary team
+multidisciplinary team	includes	dietitian
+dietitian	recommends	balanced diet
+balanced diet	prevents	malnutrition
+malnutrition	worsens	liver disease
+liver disease	monitored with	LFTs
+LFTs	measure	liver enzymes
+liver enzymes	elevated in	hepatitis
+hepatitis	managed with	antiviral drugs
+antiviral drugs	suppress	viral replication
+viral replication	leads to	chronic infection
+chronic infection	increases	cancer risk
+cancer	detected with	biopsy
+biopsy	examined by	pathologist
+pathologist	identifies	abnormal cells
+abnormal cells	treated with	chemotherapy
+chemotherapy	causes	side effects
+side effects	include	nausea
+nausea	relieved with	antiemetics
+antiemetics	block	dopamine receptors
+dopamine receptors	regulate	vomiting reflex
+vomiting reflex	protects	airway

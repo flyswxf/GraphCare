@@ -1,0 +1,100 @@
+cancer of cervix	is a	gynecologic cancer
+cancer of cervix	originates from	cervix
+cancer of cervix	is caused by	HPV infection
+HPV infection	is prevented by	HPV vaccine
+cancer of cervix	is screened by	Pap smear
+cancer of cervix	is staged by	FIGO staging
+cancer of cervix	may cause	vaginal bleeding
+cancer of cervix	may cause	pelvic pain
+cancer of cervix	may cause	weight loss
+cancer of cervix	may metastasize to	lymph nodes
+cancer of cervix	may metastasize to	lungs
+cancer of cervix	may metastasize to	liver
+cancer of cervix	may metastasize to	bones
+cancer of cervix	is treated with	surgery
+cancer of cervix	is treated with	radiation therapy
+cancer of cervix	is treated with	chemotherapy
+cancer of cervix	is treated with	targeted therapy
+cancer of cervix	is treated with	immunotherapy
+hysterectomy	is a surgery for	cancer of cervix
+radical trachelectomy	is a surgery for	cancer of cervix
+cisplatin	is a chemotherapy for	cancer of cervix
+carboplatin	is a chemotherapy for	cancer of cervix
+paclitaxel	is a chemotherapy for	cancer of cervix
+bevacizumab	is a targeted therapy for	cancer of cervix
+pembrolizumab	is an immunotherapy for	cancer of cervix
+radiation therapy	may cause	fatigue
+radiation therapy	may cause	skin irritation
+chemotherapy	may cause	nausea
+chemotherapy	may cause	hair loss
+chemotherapy	may cause	anemia
+targeted therapy	may cause	hypertension
+immunotherapy	may cause	immune reactions
+cancer of cervix	has risk factor	smoking
+cancer of cervix	has risk factor	early sexual activity
+cancer of cervix	has risk factor	multiple sexual partners
+cancer of cervix	has risk factor	immunosuppression
+cancer of cervix	has risk factor	long-term contraceptive use
+cancer of cervix	is associated with	poverty
+cancer of cervix	is associated with	lack of screening
+cancer of cervix	has precursor	cervical dysplasia
+cervical dysplasia	is detected by	colposcopy
+cervical dysplasia	is treated with	cryotherapy
+cervical dysplasia	is treated with	LEEP
+cancer of cervix	has biomarker	p16
+cancer of cervix	has biomarker	Ki-67
+cancer of cervix	has biomarker	PD-L1
+cancer of cervix	is researched for	new therapies
+cancer of cervix	is researched for	early detection
+cancer of cervix	has subtype	squamous cell carcinoma
+cancer of cervix	has subtype	adenocarcinoma
+squamous cell carcinoma	is more common in	cancer of cervix
+adenocarcinoma	is more aggressive in	cancer of cervix
+cancer of cervix	requires	multidisciplinary care
+cancer of cervix	affects	fertility
+fertility preservation	is an option for	cancer of cervix
+cancer of cervix	impacts	quality of life
+cancer of cervix	is monitored by	imaging
+PET scan	is an imaging for	cancer of cervix
+MRI	is an imaging for	cancer of cervix
+CT scan	is an imaging for	cancer of cervix
+cancer of cervix	has complication	lymphedema
+cancer of cervix	has complication	fistula
+cancer of cervix	has complication	recurrence
+recurrence	requires	salvage therapy
+cancer of cervix	is prevented by	safe sex
+cancer of cervix	is prevented by	smoking cessation
+cancer of cervix	has genetic factor	HLA type
+cancer of cervix	has genetic factor	TERT mutation
+cancer of cervix	is studied in	clinical trials
+cancer of cervix	has survival rate	stage dependent
+early stage	has better prognosis in	cancer of cervix
+late stage	has worse prognosis in	cancer of cervix
+cancer of cervix	is managed by	oncologist
+cancer of cervix	is managed by	gynecologist
+cancer of cervix	is managed by	radiation oncologist
+cancer of cervix	requires	palliative care
+palliative care	improves	symptom control
+cancer of cervix	causes	emotional distress
+emotional distress	is addressed by	counseling
+cancer of cervix	increases	healthcare costs
+cancer of cervix	is reported in	cancer registries
+cancer of cervix	has racial disparity	incidence
+cancer of cervix	has racial disparity	mortality
+cancer of cervix	is more common in	developing countries
+cancer of cervix	is targeted by	WHO programs
+cancer of cervix	is linked to	chronic inflammation
+chronic inflammation	promotes	cancer progression
+cancer of cervix	involves	angiogenesis
+angiogenesis	is targeted by	bevacizumab
+cancer of cervix	has microenvironment	immune cells
+immune cells	are modulated by	immunotherapy
+cancer of cervix	is classified by	histology
+histology	determines	treatment choice
+cancer of cervix	is studied via	cell lines
+cell lines	are used in	drug testing
+cancer of cervix	has resistance	chemotherapy
+chemotherapy resistance	is studied for	overcoming
+cancer of cervix	has emerging therapy	CAR-T
+cancer of cervix	has emerging therapy	vaccines
+cancer of cervix	benefits from	early diagnosis

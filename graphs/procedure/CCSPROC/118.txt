@@ -1,0 +1,100 @@
+circumcision	is a	male genital procedure
+vasectomy	is a	male sterilization procedure
+hydrocelectomy	treats	hydrocele
+orchidopexy	corrects	undescended testis
+penile prosthesis	treats	erectile dysfunction
+varicocelectomy	repairs	varicocele
+urethroplasty	repairs	urethral stricture
+TURP	treats	benign prostatic hyperplasia
+spermatocelectomy	removes	spermatocele
+meatotomy	widens	meatal stenosis
+circumcision	reduces	HIV risk
+vasectomy	prevents	pregnancy
+penile implant	improves	sexual function
+TURP	relieves	urinary obstruction
+hydrocelectomy	alleviates	scrotal swelling
+varicocelectomy	improves	sperm quality
+orchidopexy	prevents	testicular cancer
+urethroplasty	restores	urinary flow
+circumcision	prevents	phimosis
+vasectomy	causes	post-vasectomy pain
+TURP	risks	retrograde ejaculation
+penile prosthesis	risks	infection
+hydrocelectomy	complications include	hematoma
+varicocelectomy	improves	fertility
+orchidopexy	performed in	childhood
+circumcision	prevents	UTIs
+vasectomy	reversible via	vasovasostomy
+TURP	alternatives include	laser prostatectomy
+penile implant	types include	inflatable
+hydrocelectomy	approaches include	inguinal
+varicocelectomy	techniques include	microscopic
+urethroplasty	grafts use	buccal mucosa
+circumcision	contraindicated in	bleeding disorders
+vasectomy	requires	contraceptive counseling
+TURP	monitors	PSA levels
+penile prosthesis	contraindicated in	diabetes
+hydrocelectomy	differentiates from	hernia
+varicocelectomy	diagnoses via	ultrasound
+orchidopexy	optimal timing before	puberty
+urethroplasty	complications include	stricture recurrence
+circumcision	reduces	penile cancer risk
+vasectomy	does not affect	testosterone
+TURP	risks	urinary incontinence
+penile implant	requires	antibiotic prophylaxis
+hydrocelectomy	recurrence requires	reoperation
+varicocelectomy	indications include	infertility
+orchidopexy	preserves	fertility
+urethroplasty	postoperative requires	catheterization
+circumcision	techniques include	Gomco clamp
+vasectomy	effectiveness confirmed via	semen analysis
+TURP	gold standard for	BPH surgery
+penile implant	contraindicated in	Peyronie's disease
+hydrocelectomy	congenital form associates with	patent processus vaginalis
+varicocelectomy	improves	semen parameters
+orchidopexy	prevents	testicular torsion
+urethroplasty	complex cases require	staged repair
+circumcision	reduces	HPV transmission
+vasectomy	rarely associates with	prostate cancer
+TURP	contraindicated in	prostate cancer
+penile implant	complications include	mechanical failure
+hydrocelectomy	adult form associates with	trauma
+varicocelectomy	left side predominance due to	venous anatomy
+orchidopexy	diagnostic tests include	ultrasound
+urethroplasty	anterior strictures involve	bulbar urethra
+circumcision	religious significance in	Judaism
+vasectomy	no-scalpel technique reduces	complications
+TURP	risks	TUR syndrome
+penile implant	preoperative evaluation includes	psychological assessment
+hydrocelectomy	communicates with	peritoneum
+varicocelectomy	grading system uses	Doppler ultrasound
+orchidopexy	surgical approaches include	inguinal
+urethroplasty	posterior strictures involve	membranous urethra
+circumcision	neonatal benefits include	easier hygiene
+vasectomy	failure rate depends on	surgical technique
+TURP	alternatives include	prostate artery embolization
+penile implant	three-piece type includes	reservoir
+hydrocelectomy	aspiration treats	recurrent cases
+varicocelectomy	subclinical form detected via	scrotal thermography
+orchidopexy	intra-abdominal testes require	laparoscopic approach
+urethroplasty	lichen sclerosus causes	complex strictures
+circumcision	prevents	balanitis
+vasectomy	post-procedure requires	alternative contraception
+TURP	bipolar technique reduces	complications
+penile implant	malleable type simpler but	less natural
+hydrocelectomy	infantile form often	resolves spontaneously
+varicocelectomy	venous embolization alternative to	surgery
+orchidopexy	hormonal therapy adjunct to	surgery
+urethroplasty	traumatic strictures result from	pelvic fracture
+circumcision	medical indications include	recurrent infections
+vasectomy	rare complication includes	granuloma
+TURP	enucleation techniques include	HoLEP
+penile implant	infection may require	explantation
+hydrocelectomy	malignant form associates with	mesothelioma
+varicocelectomy	laparoscopic approach benefits	bilateral cases
+orchidopexy	Fowler-Stephens technique preserves	blood supply
+urethroplasty	buccal mucosa grafting has	high success rate
+circumcision	adult procedure requires	local anesthesia
+vasectomy	post-op instructions include	ice application
+TURP	large glands require	open prostatectomy
+penile implant	satisfaction rates exceed	90%

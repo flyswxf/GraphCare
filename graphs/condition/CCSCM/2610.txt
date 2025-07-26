@@ -1,0 +1,100 @@
+transport accident	is classified by	E codes
+E codes	exclude	motor vehicle traffic
+transport accident	may involve	pedestrian
+transport accident	may involve	cyclist
+transport accident	may cause	traumatic injury
+traumatic injury	may require	emergency care
+emergency care	involves	triage
+triage	determines	treatment priority
+transport accident	may result in	fracture
+fracture	may require	orthopedic surgery
+orthopedic surgery	may involve	internal fixation
+internal fixation	uses	surgical hardware
+transport accident	can cause	head injury
+head injury	may lead to	concussion
+concussion	requires	neurological assessment
+neurological assessment	includes	Glasgow Coma Scale
+transport accident	may cause	spinal injury
+spinal injury	may result in	paralysis
+paralysis	requires	rehabilitation
+rehabilitation	involves	physical therapy
+transport accident	can lead to	internal bleeding
+internal bleeding	may need	blood transfusion
+blood transfusion	requires	blood typing
+transport accident	may involve	air transport
+air transport	requires	medical evacuation
+medical evacuation	involves	paramedics
+paramedics	provide	prehospital care
+prehospital care	includes	immobilization
+immobilization	uses	cervical collar
+transport accident	may cause	psychological trauma
+psychological trauma	may lead to	PTSD
+PTSD	is treated with	psychotherapy
+psychotherapy	includes	cognitive behavioral therapy
+transport accident	may involve	railway
+railway accident	can cause	crush injury
+crush injury	may lead to	compartment syndrome
+compartment syndrome	requires	fasciotomy
+transport accident	may involve	marine vessel
+marine accident	may cause	drowning
+drowning	requires	CPR
+CPR	includes	chest compressions
+transport accident	may involve	animal-drawn vehicle
+animal-related accident	may cause	laceration
+laceration	may require	sutures
+sutures	use	surgical thread
+transport accident	may involve	pedestrian
+pedestrian accident	may cause	soft tissue injury
+soft tissue injury	may require	wound care
+wound care	involves	dressing changes
+transport accident	may involve	bicycle
+bicycle accident	may cause	abrasion
+abrasion	may require	topical antibiotic
+topical antibiotic	prevents	infection
+infection	may require	systemic antibiotics
+transport accident	may involve	skateboard
+skateboard accident	may cause	dislocation
+dislocation	requires	reduction
+reduction	may need	sedation
+sedation	uses	anesthetic agents
+transport accident	may involve	horse-drawn carriage
+horse-related accident	may cause	blunt trauma
+blunt trauma	may lead to	internal organ damage
+internal organ damage	may require	laparotomy
+laparotomy	is a	exploratory surgery
+transport accident	may involve	cable car
+cable car accident	may cause	fall injury
+fall injury	may result in	hip fracture
+hip fracture	often requires	hip replacement
+hip replacement	uses	prosthetic joint
+transport accident	may involve	wheelchair
+wheelchair accident	may cause	pressure ulcer
+pressure ulcer	requires	wound debridement
+wound debridement	removes	necrotic tissue
+transport accident	may involve	sled
+sled accident	may cause	frostbite
+frostbite	requires	rewarming
+rewarming	uses	warm water
+transport accident	may involve	animal collision
+animal collision	may cause	blunt force trauma
+blunt force trauma	may lead to	hematoma
+hematoma	may require	drainage
+drainage	uses	catheter
+transport accident	may involve	motorcycle
+motorcycle accident	may cause	road rash
+road rash	requires	skin grafting
+skin grafting	uses	donor skin
+transport accident	may involve	scooter
+scooter accident	may cause	dental injury
+dental injury	may require	tooth extraction
+tooth extraction	may need	local anesthesia
+local anesthesia	uses	lidocaine
+transport accident	may involve	skateboard
+skateboard accident	may cause	wrist fracture
+wrist fracture	may require	cast immobilization
+cast immobilization	uses	plaster
+transport accident	may involve	horse riding
+horse riding accident	may cause	rib fracture
+rib fracture	may lead to	pneumothorax
+pneumothorax	requires	chest tube
+chest tube	drains	pleural space

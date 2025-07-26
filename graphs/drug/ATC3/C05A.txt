@@ -1,0 +1,100 @@
+agents for treatment of hemorrhoids and anal fissures for topical use	is a	medication
+agents for treatment of hemorrhoids and anal fissures for topical use	treats	hemorrhoids
+agents for treatment of hemorrhoids and anal fissures for topical use	treats	anal fissures
+agents for treatment of hemorrhoids and anal fissures for topical use	administration route	topical
+hemorrhoids	is a	vascular condition
+anal fissures	is a	tear in anal lining
+topical	administration method	applied to skin
+agents for treatment of hemorrhoids and anal fissures for topical use	contains	anti-inflammatory agents
+agents for treatment of hemorrhoids and anal fissures for topical use	contains	local anesthetics
+agents for treatment of hemorrhoids and anal fissures for topical use	contains	vasoconstrictors
+anti-inflammatory agents	reduces	swelling
+local anesthetics	relieves	pain
+vasoconstrictors	reduces	bleeding
+hemorrhoids	symptoms include	pain
+anal fissures	symptoms include	pain
+hemorrhoids	symptoms include	bleeding
+anal fissures	symptoms include	bleeding
+hemorrhoids	caused by	increased rectal pressure
+anal fissures	caused by	trauma
+agents for treatment of hemorrhoids and anal fissures for topical use	available as	creams
+agents for treatment of hemorrhoids and anal fissures for topical use	available as	ointments
+agents for treatment of hemorrhoids and anal fissures for topical use	available as	suppositories
+creams	are	semi-solid emulsions
+ointments	are	viscous preparations
+suppositories	are	solid dosage forms
+topical agents	absorption rate	low
+topical agents	systemic effects	minimal
+anti-inflammatory agents	mechanism	COX inhibition
+local anesthetics	mechanism	sodium channel blockade
+vasoconstrictors	mechanism	adrenergic receptor activation
+hemorrhoids	classified as	internal
+hemorrhoids	classified as	external
+anal fissures	classified as	acute
+anal fissures	classified as	chronic
+internal hemorrhoids	located above	dentate line
+external hemorrhoids	located below	dentate line
+acute anal fissures	duration	less than 6 weeks
+chronic anal fissures	duration	more than 6 weeks
+agents for treatment of hemorrhoids and anal fissures for topical use	contraindicated in	infections
+agents for treatment of hemorrhoids and anal fissures for topical use	contraindicated in	allergies
+infections	require	antibiotics
+allergies	may cause	contact dermatitis
+contact dermatitis	symptoms include	rash
+contact dermatitis	symptoms include	itching
+agents for treatment of hemorrhoids and anal fissures for topical use	side effects include	irritation
+agents for treatment of hemorrhoids and anal fissures for topical use	side effects include	burning sensation
+irritation	may lead to	discomfort
+burning sensation	may lead to	non-compliance
+non-compliance	affects	treatment efficacy
+treatment efficacy	measured by	symptom relief
+symptom relief	includes	pain reduction
+symptom relief	includes	swelling reduction
+symptom relief	includes	bleeding cessation
+agents for treatment of hemorrhoids and anal fissures for topical use	alternatives include	sitz baths
+sitz baths	provide	warmth therapy
+warmth therapy	promotes	blood flow
+blood flow	aids	healing
+agents for treatment of hemorrhoids and anal fissures for topical use	often combined with	fiber supplements
+fiber supplements	prevent	constipation
+constipation	exacerbates	hemorrhoids
+constipation	exacerbates	anal fissures
+fiber supplements	include	psyllium
+fiber supplements	include	methylcellulose
+psyllium	is	soluble fiber
+methylcellulose	is	insoluble fiber
+soluble fiber	forms	gel
+insoluble fiber	adds	bulk
+agents for treatment of hemorrhoids and anal fissures for topical use	storage condition	room temperature
+room temperature	range	20-25°C
+agents for treatment of hemorrhoids and anal fissures for topical use	expiration	1-3 years
+expired medication	risks include	reduced potency
+expired medication	risks include	toxicity
+agents for treatment of hemorrhoids and anal fissures for topical use	packaging includes	tubes
+agents for treatment of hemorrhoids and anal fissures for topical use	packaging includes	dispensers
+tubes	made of	aluminum
+dispensers	made of	plastic
+aluminum	properties	light-proof
+plastic	properties	flexible
+light-proof packaging	prevents	degradation
+flexible packaging	enables	easy application
+agents for treatment of hemorrhoids and anal fissures for topical use	brand names include	Preparation H
+agents for treatment of hemorrhoids and anal fissures for topical use	brand names include	Anusol
+Preparation H	contains	phenylephrine
+Anusol	contains	pramoxine
+phenylephrine	is a	vasoconstrictor
+pramoxine	is a	local anesthetic
+phenylephrine	mechanism	alpha-1 agonist
+pramoxine	mechanism	sodium channel blocker
+phenylephrine	side effects include	hypertension
+pramoxine	side effects include	numbness
+hypertension	risk factor for	cardiovascular events
+numbness	may cause	temporary loss of sensation
+agents for treatment of hemorrhoids and anal fissures for topical use	pregnancy category	C
+pregnancy category C	indicates	potential risk
+potential risk	requires	medical supervision
+medical supervision	involves	physician consultation
+physician consultation	includes	risk-benefit analysis
+risk-benefit analysis	considers	patient condition
+patient condition	includes	severity
+severity	determines	treatment choice

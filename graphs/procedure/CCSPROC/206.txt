@@ -1,0 +1,100 @@
+microscopic examination	is a	diagnostic technique
+microscopic examination	uses	microscope
+microscopic examination	analyzes	biological samples
+bacterial smear	is a type of	microscopic examination
+bacterial smear	detects	bacteria
+bacterial smear	uses	staining techniques
+Gram stain	is used in	bacterial smear
+Gram stain	differentiates	Gram-positive bacteria
+Gram stain	differentiates	Gram-negative bacteria
+culture	is a type of	microscopic examination
+culture	grows	microorganisms
+culture	requires	growth medium
+agar plate	is a type of	growth medium
+agar plate	supports	bacterial growth
+blood agar	is a type of	agar plate
+blood agar	detects	hemolytic bacteria
+MacConkey agar	is a type of	agar plate
+MacConkey agar	selects for	Gram-negative bacteria
+culture	identifies	antibiotic susceptibility
+antibiotic susceptibility	guides	treatment selection
+toxicology	is a type of	microscopic examination
+toxicology	detects	toxins
+toxicology	analyzes	body fluids
+urine	is used in	toxicology
+blood	is used in	toxicology
+toxicology	screens for	drugs
+toxicology	detects	heavy metals
+lead poisoning	is detected by	toxicology
+mercury poisoning	is detected by	toxicology
+microscopic examination	requires	specimen preparation
+specimen preparation	involves	fixation
+specimen preparation	involves	sectioning
+paraffin embedding	is used in	specimen preparation
+frozen section	is a type of	specimen preparation
+frozen section	provides	rapid diagnosis
+microscopic examination	performed by	pathologist
+pathologist	interprets	microscopic findings
+microscopic findings	contribute to	diagnosis
+diagnosis	guides	treatment plan
+bacterial smear	diagnoses	tuberculosis
+acid-fast stain	is used for	tuberculosis
+acid-fast stain	detects	Mycobacterium tuberculosis
+culture	diagnoses	urinary tract infection
+urinary tract infection	caused by	Escherichia coli
+urinary tract infection	treated with	antibiotics
+microscopic examination	detects	parasites
+malaria	is diagnosed by	microscopic examination
+Giemsa stain	is used for	malaria diagnosis
+malaria	caused by	Plasmodium
+microscopic examination	examines	cellular morphology
+cellular morphology	indicates	cancer
+Pap smear	is a type of	microscopic examination
+Pap smear	detects	cervical cancer
+cervical cancer	caused by	HPV
+HPV	detected by	PCR
+microscopic examination	evaluates	tissue architecture
+tissue architecture	altered in	inflammation
+inflammation	characterized by	leukocyte infiltration
+leukocyte infiltration	includes	neutrophils
+neutrophils	indicate	acute inflammation
+microscopic examination	assesses	fungal infections
+KOH preparation	is used for	fungal examination
+Candida	is detected by	KOH preparation
+Candida	causes	thrush
+thrush	treated with	antifungal medication
+microscopic examination	analyzes	cerebrospinal fluid
+cerebrospinal fluid	examined for	meningitis
+meningitis	caused by	bacteria
+meningitis	caused by	viruses
+meningitis	diagnosed by	cell count
+cell count	performed in	hemocytometer
+microscopic examination	detects	sperm
+semen analysis	is a type of	microscopic examination
+semen analysis	assesses	fertility
+fertility	affected by	sperm count
+microscopic examination	identifies	crystals
+uric acid crystals	indicate	gout
+gout	treated with	allopurinol
+calcium oxalate crystals	associated with	kidney stones
+kidney stones	diagnosed by	imaging
+microscopic examination	evaluates	vaginal discharge
+vaginal discharge	examined for	vaginosis
+bacterial vaginosis	diagnosed by	clue cells
+clue cells	are	epithelial cells
+epithelial cells	covered with	bacteria
+microscopic examination	detects	ova
+ova	indicate	parasitic infection
+Enterobius vermicularis	diagnosed by	tape test
+tape test	examines	perianal region
+perianal region	sampled for	pinworms
+microscopic examination	assesses	wound infections
+wound infections	caused by	Staphylococcus
+Staphylococcus	tested for	MRSA
+MRSA	treated with	vancomycin
+microscopic examination	examines	bone marrow
+bone marrow	evaluated for	leukemia
+leukemia	diagnosed by	blast cells
+blast cells	are	immature cells
+immature cells	indicate	hematologic malignancy
+hematologic malignancy	requires	chemotherapy

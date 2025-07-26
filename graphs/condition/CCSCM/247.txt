@@ -1,0 +1,100 @@
+lymphadenitis	is an	inflammation
+lymphadenitis	affects	lymph nodes
+bacterial infection	may cause	lymphadenitis
+viral infection	may cause	lymphadenitis
+lymphadenitis	may cause	pain
+lymphadenitis	may cause	swelling
+lymphadenitis	may lead to	fever
+antibiotics	treat	lymphadenitis
+lymphadenitis	is diagnosed by	physical exam
+lymphadenitis	is diagnosed by	blood test
+lymphadenitis	is diagnosed by	imaging
+ultrasound	helps diagnose	lymphadenitis
+CT scan	helps diagnose	lymphadenitis
+lymphadenitis	may require	biopsy
+staphylococcus	causes	lymphadenitis
+streptococcus	causes	lymphadenitis
+lymphadenitis	has symptom	tenderness
+lymphadenitis	has symptom	warmth
+lymphadenitis	has symptom	redness
+lymphadenitis	may progress to	abscess
+lymphadenitis	may lead to	sepsis
+immune system	responds to	lymphadenitis
+lymphadenitis	requires	medical attention
+warm compress	helps treat	lymphadenitis
+pain relievers	alleviate	lymphadenitis
+ibuprofen	reduces	lymphadenitis pain
+acetaminophen	reduces	lymphadenitis pain
+lymphadenitis	is classified as	acute
+lymphadenitis	is classified as	chronic
+lymphadenitis	has location	neck
+lymphadenitis	has location	armpit
+lymphadenitis	has location	groin
+lymphadenitis	may indicate	infection
+lymphadenitis	may indicate	cancer
+lymphoma	may present as	lymphadenitis
+leukemia	may present as	lymphadenitis
+tuberculosis	may cause	lymphadenitis
+HIV	may cause	lymphadenitis
+cat scratch disease	causes	lymphadenitis
+bartonella henselae	causes	lymphadenitis
+lymphadenitis	may recur	periodically
+lymphadenitis	affects	immune response
+lymphadenitis	increases	white blood cells
+complete blood count	detects	lymphadenitis
+lymphadenitis	may require	hospitalization
+intravenous antibiotics	treat	severe lymphadenitis
+lymphadenitis	has complication	cellulitis
+lymphadenitis	has complication	lymphangitis
+lymphadenitis	may reduce	mobility
+lymphadenitis	affects	quality of life
+children	are prone to	lymphadenitis
+immunocompromised patients	are prone to	lymphadenitis
+lymphadenitis	may follow	dental procedure
+lymphadenitis	may follow	skin infection
+lymphadenitis	may follow	upper respiratory infection
+lymphadenitis	may follow	vaccination
+lymphadenitis	has differential diagnosis	lymphoma
+lymphadenitis	has differential diagnosis	sarcoidosis
+lymphadenitis	has differential diagnosis	metastatic cancer
+lymphadenitis	requires	differential diagnosis
+fine needle aspiration	diagnoses	lymphadenitis
+lymph node excision	diagnoses	lymphadenitis
+histopathology	confirms	lymphadenitis
+lymphadenitis	may be	unilateral
+lymphadenitis	may be	bilateral
+lymphadenitis	has variant	suppurative
+lymphadenitis	has variant	nonsuppurative
+lymphadenitis	may cause	fatigue
+lymphadenitis	may cause	malaise
+lymphadenitis	may cause	weight loss
+lymphadenitis	may cause	night sweats
+lymphadenitis	may indicate	systemic infection
+lymphadenitis	may indicate	localized infection
+lymphadenitis	requires	follow-up
+lymphadenitis	may resolve	spontaneously
+lymphadenitis	may persist	chronically
+lymphadenitis	may recur	frequently
+lymphadenitis	affects	lymphatic drainage
+lymphadenitis	disrupts	lymph flow
+lymphadenitis	may lead to	lymphedema
+lymphadenitis	may cause	scar tissue
+lymphadenitis	may require	surgical drainage
+lymphadenitis	may require	incision
+lymphadenitis	may require	debridement
+lymphadenitis	increases	infection risk
+lymphadenitis	may spread	infection
+lymphadenitis	may complicate	wound healing
+lymphadenitis	may delay	recovery
+lymphadenitis	may affect	adjacent structures
+lymphadenitis	may compress	nerves
+lymphadenitis	may compress	blood vessels
+lymphadenitis	requires	pain management
+lymphadenitis	requires	infection control
+lymphadenitis	may indicate	immunodeficiency
+lymphadenitis	may indicate	autoimmune disease
+lymphadenitis	may accompany	mononucleosis
+lymphadenitis	may accompany	toxoplasmosis
+lymphadenitis	may accompany	syphilis
+lymphadenitis	may accompany	rubella
+lymphadenitis	requires	proper diagnosis

@@ -1,0 +1,100 @@
+ureteral catheterization	is a	medical procedure
+ureteral catheterization	performed in	urinary system
+ureteral catheterization	involves	ureter
+ureteral catheterization	uses	catheter
+ureteral catheterization	treats	urinary obstruction
+ureteral catheterization	manages	hydronephrosis
+ureteral catheterization	relieves	renal colic
+ureteral catheterization	aids	urine drainage
+ureteral catheterization	requires	fluoroscopy guidance
+ureteral catheterization	performed by	urologist
+ureteral catheterization	may cause	hematuria
+ureteral catheterization	risks	urinary tract infection
+ureteral catheterization	prevents	kidney damage
+ureteral catheterization	associated with	stent placement
+ureteral catheterization	alternative to	nephrostomy
+ureter	connects	kidney
+ureter	connects	bladder
+ureteral catheterization	accesses	renal pelvis
+ureteral catheterization	measures	urinary pressure
+ureteral catheterization	collects	urine sample
+ureteral catheterization	diagnoses	ureteral stricture
+ureteral catheterization	evaluates	kidney function
+ureteral catheterization	assists	stone removal
+ureteral catheterization	precedes	ureteroscopy
+ureteral catheterization	uses	contrast dye
+ureteral catheterization	visualized by	x-ray
+ureteral catheterization	requires	local anesthesia
+ureteral catheterization	may lead	ureteral injury
+ureteral catheterization	contraindicated in	active UTI
+ureteral catheterization	followed by	antibiotic therapy
+ureteral catheterization	monitors	post-operative recovery
+ureteral catheterization	assesses	ureteral patency
+ureteral catheterization	manages	post-radiation strictures
+ureteral catheterization	helps	urinary diversion
+ureteral catheterization	supports	kidney transplant
+ureteral catheterization	prevents	urine reflux
+ureteral catheterization	treats	ureteral fistula
+ureteral catheterization	addresses	ureteral trauma
+ureteral catheterization	examines	hematuria cause
+ureteral catheterization	differentiates	obstructive uropathy
+ureteral catheterization	facilitates	retrograde pyelogram
+ureteral catheterization	assists	ureteral stent placement
+ureteral catheterization	measures	renal pelvic pressure
+ureteral catheterization	evaluates	ureterovesical junction
+ureteral catheterization	diagnoses	ureteropelvic obstruction
+ureteral catheterization	manages	neurogenic bladder
+ureteral catheterization	treats	retroperitoneal fibrosis
+ureteral catheterization	addresses	iatrogenic ureteral injury
+ureteral catheterization	prevents	post-op urine leakage
+ureteral catheterization	monitors	transplanted kidney
+ureteral catheterization	assesses	ureteral peristalsis
+ureteral catheterization	differentiates	intrinsic obstruction
+ureteral catheterization	excludes	extrinsic compression
+ureteral catheterization	guides	therapeutic decisions
+ureteral catheterization	confirms	ureteral patency
+ureteral catheterization	evaluates	ureteral orifice
+ureteral catheterization	measures	ureteral diameter
+ureteral catheterization	identifies	ureteral diverticula
+ureteral catheterization	detects	ureteral tumors
+ureteral catheterization	localizes	ureteral calculi
+ureteral catheterization	assesses	ureteral wall integrity
+ureteral catheterization	differentiates	functional obstruction
+ureteral catheterization	evaluates	ureteral reflux
+ureteral catheterization	measures	urinary flow rate
+ureteral catheterization	samples	upper tract urine
+ureteral catheterization	performs	ureteral washings
+ureteral catheterization	administers	topical therapy
+ureteral catheterization	delivers	chemotherapeutic agents
+ureteral catheterization	treats	urothelial carcinoma
+ureteral catheterization	manages	radiation cystitis
+ureteral catheterization	prevents	bladder contracture
+ureteral catheterization	maintains	ureteral lumen
+ureteral catheterization	dilates	ureteral strictures
+ureteral catheterization	evaluates	ureteral healing
+ureteral catheterization	monitors	post-traumatic repair
+ureteral catheterization	assesses	surgical anastomosis
+ureteral catheterization	confirms	stent position
+ureteral catheterization	verifies	stone clearance
+ureteral catheterization	checks	ureteral valve function
+ureteral catheterization	diagnoses	ureterocele
+ureteral catheterization	evaluates	duplicated ureter
+ureteral catheterization	assesses	ureteral polyps
+ureteral catheterization	measures	ureteral length
+ureteral catheterization	determines	ureteral course
+ureteral catheterization	identifies	ureteral kinks
+ureteral catheterization	detects	ureteral spasms
+ureteral catheterization	differentiates	true obstruction
+ureteral catheterization	evaluates	ureteral mobility
+ureteral catheterization	assesses	periureteral fibrosis
+ureteral catheterization	diagnoses	ureteral valves
+ureteral catheterization	identifies	ureteral ectopia
+ureteral catheterization	detects	ureteral fistulas
+ureteral catheterization	evaluates	ureteral stump
+ureteral catheterization	assesses	post-nephrectomy status
+ureteral catheterization	monitors	ureteral reimplantation
+ureteral catheterization	checks	ureteral anastomosis
+ureteral catheterization	verifies	ureteral continuity
+ureteral catheterization	confirms	successful repair
+ureteral catheterization	evaluates	ureteral regeneration
+ureteral catheterization	predicts	renal recovery

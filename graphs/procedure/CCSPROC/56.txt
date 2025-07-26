@@ -1,0 +1,100 @@
+vascular bypass	is a	surgical procedure
+vascular shunt	is a	surgical procedure
+vascular bypass	treats	vascular occlusion
+vascular shunt	redirects	blood flow
+vascular bypass	uses	graft material
+vascular shunt	connects	blood vessels
+vascular bypass	improves	tissue perfusion
+vascular shunt	prevents	ischemia
+vascular bypass	requires	preoperative imaging
+vascular shunt	involves	anastomosis
+vascular bypass	performed by	vascular surgeon
+vascular shunt	manages	portal hypertension
+vascular bypass	addresses	peripheral artery disease
+vascular shunt	treats	variceal bleeding
+vascular bypass	alternative to	amputation
+vascular shunt	reduces	venous pressure
+vascular bypass	complications include	graft failure
+vascular shunt	complications include	thrombosis
+vascular bypass	postoperative care includes	anticoagulants
+vascular shunt	postoperative care includes	monitoring
+vascular bypass	indications include	claudication
+vascular shunt	indications include	ascites
+vascular bypass	contraindications include	severe comorbidities
+vascular shunt	contraindications include	infection
+vascular bypass	success depends on	graft patency
+vascular shunt	success depends on	pressure gradient
+vascular bypass	can use	autologous vein
+vascular shunt	can use	synthetic material
+vascular bypass	risks include	infection
+vascular shunt	risks include	encephalopathy
+vascular bypass	requires	postoperative rehabilitation
+vascular shunt	requires	follow-up imaging
+vascular bypass	associated with	improved mobility
+vascular shunt	associated with	reduced bleeding risk
+vascular bypass	preoperative evaluation includes	angiography
+vascular shunt	preoperative evaluation includes	ultrasound
+vascular bypass	duration depends on	complexity
+vascular shunt	duration depends on	location
+vascular bypass	can be	elective
+vascular shunt	can be	emergency
+vascular bypass	anesthesia type	general
+vascular shunt	anesthesia type	regional
+vascular bypass	hospital stay	several days
+vascular shunt	hospital stay	variable
+vascular bypass	cost	high
+vascular shunt	cost	moderate
+vascular bypass	long-term outcome	variable
+vascular shunt	long-term outcome	depends on compliance
+vascular bypass	follow-up includes	pulse examination
+vascular shunt	follow-up includes	liver function tests
+vascular bypass	preoperative preparation includes	smoking cessation
+vascular shunt	preoperative preparation includes	bowel prep
+vascular bypass	can lead to	edema
+vascular shunt	can lead to	shunt stenosis
+vascular bypass	alternative treatment	angioplasty
+vascular shunt	alternative treatment	TIPS
+vascular bypass	requires	blood flow monitoring
+vascular shunt	requires	pressure monitoring
+vascular bypass	team includes	anesthesiologist
+vascular shunt	team includes	hepatologist
+vascular bypass	equipment includes	vascular clamps
+vascular shunt	equipment includes	pressure transducer
+vascular bypass	technique includes	end-to-end anastomosis
+vascular shunt	technique includes	side-to-side anastomosis
+vascular bypass	postoperative complication	hematoma
+vascular shunt	postoperative complication	infection
+vascular bypass	preoperative test	coagulation profile
+vascular shunt	preoperative test	liver biopsy
+vascular bypass	outcome measure	patency rate
+vascular shunt	outcome measure	bleeding episodes
+vascular bypass	risk factor	diabetes
+vascular shunt	risk factor	cirrhosis
+vascular bypass	prevention strategy	statins
+vascular shunt	prevention strategy	beta-blockers
+vascular bypass	associated disease	atherosclerosis
+vascular shunt	associated disease	portal vein thrombosis
+vascular bypass	symptom relief	rest pain
+vascular shunt	symptom relief	varices
+vascular bypass	postoperative medication	antiplatelets
+vascular shunt	postoperative medication	diuretics
+vascular bypass	emergency indication	acute limb ischemia
+vascular shunt	emergency indication	variceal hemorrhage
+vascular bypass	nursing care	wound care
+vascular shunt	nursing care	neurological monitoring
+vascular bypass	rehabilitation includes	walking program
+vascular shunt	rehabilitation includes	dietary modification
+vascular bypass	research area	graft materials
+vascular shunt	research area	shunt patency
+vascular bypass	quality indicator	30-day patency
+vascular shunt	quality indicator	rebleeding rate
+vascular bypass	patient selection	vascular assessment
+vascular shunt	patient selection	liver function
+vascular bypass	cost-effectiveness	long-term savings
+vascular shunt	cost-effectiveness	reduced hospitalizations
+vascular bypass	training requirement	fellowship
+vascular shunt	training requirement	specialized training
+vascular bypass	innovation area	robotic assistance
+vascular shunt	innovation area	minimally invasive
+vascular bypass	registry data	national databases
+vascular shunt	registry data	outcome tracking

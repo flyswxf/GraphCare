@@ -1,0 +1,100 @@
+pregnancy	is a	physiological condition
+pregnancy	may result in	delivery
+delivery	can be	vaginal birth
+delivery	can be	cesarean section
+pregnancy	has symptom	morning sickness
+pregnancy	requires	prenatal care
+prenatal care	includes	ultrasound
+ultrasound	detects	fetal development
+fetal development	depends on	maternal nutrition
+maternal nutrition	requires	folic acid
+folic acid	prevents	neural tube defects
+neural tube defects	affect	newborn health
+newborn health	depends on	Apgar score
+Apgar score	assesses	newborn vitality
+pregnancy	may cause	gestational diabetes
+gestational diabetes	increases risk of	macrosomia
+macrosomia	complicates	vaginal birth
+vaginal birth	may require	episiotomy
+episiotomy	prevents	perineal tearing
+perineal tearing	causes	postpartum pain
+postpartum pain	may require	analgesics
+analgesics	include	acetaminophen
+pregnancy	may cause	preeclampsia
+preeclampsia	requires	blood pressure monitoring
+blood pressure monitoring	detects	hypertension
+hypertension	increases risk of	preterm birth
+preterm birth	leads to	NICU admission
+NICU admission	provides	neonatal care
+neonatal care	includes	respiratory support
+respiratory support	may involve	CPAP
+pregnancy	may cause	anemia
+anemia	is treated with	iron supplements
+iron supplements	may cause	constipation
+constipation	is relieved by	fiber intake
+fiber intake	includes	fruits
+pregnancy	requires	weight management
+weight management	prevents	obesity
+obesity	increases risk of	cesarean section
+cesarean section	requires	surgical incision
+surgical incision	may lead to	infection
+infection	is treated with	antibiotics
+antibiotics	may cause	diarrhea
+diarrhea	leads to	dehydration
+dehydration	requires	fluid replacement
+fluid replacement	includes	oral rehydration
+pregnancy	may cause	back pain
+back pain	is relieved by	physical therapy
+physical therapy	includes	pelvic exercises
+pelvic exercises	strengthen	pelvic floor
+pelvic floor	supports	bladder control
+bladder control	may be lost in	urinary incontinence
+urinary incontinence	is common in	postpartum period
+postpartum period	includes	uterine involution
+uterine involution	is monitored by	lochia
+lochia	indicates	healing progress
+healing progress	depends on	rest
+rest	is essential for	recovery
+recovery	may involve	lactation
+lactation	produces	breast milk
+breast milk	provides	infant immunity
+infant immunity	protects against	infections
+infections	may require	vaccination
+vaccination	prevents	childhood diseases
+pregnancy	may cause	varicose veins
+varicose veins	result from	venous pressure
+venous pressure	is reduced by	leg elevation
+leg elevation	improves	circulation
+circulation	is essential for	fetal oxygenation
+fetal oxygenation	depends on	placental function
+placental function	may be impaired by	smoking
+smoking	increases risk of	low birth weight
+low birth weight	leads to	developmental delays
+developmental delays	require	early intervention
+early intervention	includes	speech therapy
+pregnancy	may cause	heartburn
+heartburn	is relieved by	antacids
+antacids	neutralize	stomach acid
+stomach acid	aids in	digestion
+digestion	is affected by	hormonal changes
+hormonal changes	include	progesterone
+progesterone	supports	uterine lining
+uterine lining	nourishes	embryo
+embryo	develops into	fetus
+fetus	grows in	amniotic sac
+amniotic sac	contains	amniotic fluid
+amniotic fluid	cushions	fetus
+fetus	is monitored by	fetal heart rate
+fetal heart rate	indicates	fetal wellbeing
+fetal wellbeing	is assessed by	Doppler
+Doppler	uses	ultrasound waves
+ultrasound waves	create	fetal image
+fetal image	shows	growth parameters
+growth parameters	include	biparietal diameter
+biparietal diameter	measures	head size
+head size	correlates with	gestational age
+gestational age	determines	due date
+due date	is estimated by	last menstrual period
+last menstrual period	marks	conception timing
+conception timing	affects	fertility window
+fertility window	is optimal for	conception

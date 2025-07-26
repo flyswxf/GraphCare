@@ -1,0 +1,100 @@
+skin biopsy	is a	diagnostic procedure
+breast biopsy	is a	diagnostic procedure
+cryotherapy	treats	skin lesions
+electrocautery	removes	skin tags
+laser therapy	treats	scars
+dermabrasion	improves	skin texture
+punch biopsy	samples	skin tissue
+fine needle aspiration	diagnoses	breast lumps
+core needle biopsy	evaluates	breast abnormalities
+incision and drainage	treats	abscesses
+skin graft	repairs	damaged skin
+mastectomy	removes	breast tissue
+lumpectomy	preserves	breast tissue
+liposuction	reduces	fat deposits
+breast reconstruction	restores	breast shape
+skin biopsy	detects	skin cancer
+breast biopsy	confirms	malignancy
+cryotherapy	freezes	warts
+electrocautery	controls	bleeding
+laser therapy	reduces	pigmentation
+dermabrasion	minimizes	wrinkles
+punch biopsy	assesses	dermatitis
+fine needle aspiration	collects	cells
+core needle biopsy	examines	calcifications
+incision and drainage	relieves	infection
+skin graft	covers	burns
+mastectomy	prevents	cancer spread
+lumpectomy	spares	nipple
+liposuction	contours	body
+breast reconstruction	uses	implants
+skin biopsy	identifies	infections
+breast biopsy	rules out	DCIS
+cryotherapy	destroys	precancerous cells
+electrocautery	excises	moles
+laser therapy	removes	tattoos
+dermabrasion	treats	acne scars
+punch biopsy	evaluates	psoriasis
+fine needle aspiration	tests	lymph nodes
+core needle biopsy	assesses	fibroadenomas
+incision and drainage	handles	boils
+skin graft	heals	chronic wounds
+mastectomy	reduces	recurrence risk
+lumpectomy	requires	radiation
+liposuction	addresses	lipomas
+breast reconstruction	employs	autologous tissue
+skin biopsy	differentiates	eczema
+breast biopsy	detects	LCIS
+cryotherapy	manages	actinic keratosis
+electrocautery	treats	BCC
+laser therapy	improves	vascular lesions
+dermabrasion	enhances	collagen production
+punch biopsy	checks	lichen planus
+fine needle aspiration	analyzes	cysts
+core needle biopsy	investigates	phyllodes tumors
+incision and drainage	clears	cellulitis
+skin graft	corrects	contractures
+mastectomy	may include	lymph node removal
+lumpectomy	maintains	breast symmetry
+liposuction	extracts	excess fat
+breast reconstruction	may involve	nipple tattooing
+skin biopsy	verifies	fungal infections
+breast biopsy	excludes	Paget's disease
+cryotherapy	alleviates	molluscum contagiosum
+electrocautery	removes	seborrheic keratosis
+laser therapy	tightens	skin
+dermabrasion	reduces	age spots
+punch biopsy	screens	vasculitis
+fine needle aspiration	confirms	abscess
+core needle biopsy	identifies	adenosis
+incision and drainage	treats	hidradenitis
+skin graft	replaces	necrotic tissue
+mastectomy	eliminates	tumor burden
+lumpectomy	preserves	sensation
+liposuction	treats	gynecomastia
+breast reconstruction	reconstructs	areola
+skin biopsy	diagnoses	pemphigus
+breast biopsy	reveals	fat necrosis
+cryotherapy	handles	skin tags
+electrocautery	coagulates	vessels
+laser therapy	removes	birthmarks
+dermabrasion	smooths	rough skin
+punch biopsy	assesses	granuloma annulare
+fine needle aspiration	detects	metaplasia
+core needle biopsy	evaluates	radial scars
+incision and drainage	manages	carbuncles
+skin graft	repairs	surgical defects
+mastectomy	decreases	mortality
+lumpectomy	has	cosmetic benefits
+liposuction	improves	mobility
+breast reconstruction	restores	self-esteem
+skin biopsy	confirms	lupus
+breast biopsy	identifies	papilloma
+cryotherapy	treats	lentigines
+electrocautery	vaporizes	lesions
+laser therapy	stimulates	hair growth
+dermabrasion	corrects	uneven tone
+punch biopsy	examines	bullous disorders
+fine needle aspiration	samples	salivary glands
+core needle biopsy	checks	pseudoangiomatous stromal hyperplasia
+incision and drainage	resolves	suppuration

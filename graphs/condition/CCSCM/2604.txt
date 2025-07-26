@@ -1,0 +1,100 @@
+fire/burn	is classified under	E codes
+fire/burn	is a type of	injury
+fire/burn	may cause	skin damage
+fire/burn	can lead to	infection
+fire/burn	requires	first aid
+fire/burn	may need	hospitalization
+fire/burn	can result in	scarring
+fire/burn	is treated with	wound care
+fire/burn	may require	skin grafting
+fire/burn	can cause	pain
+fire/burn	is categorized by	degree
+first-degree burn	affects	epidermis
+second-degree burn	affects	dermis
+third-degree burn	affects	subcutaneous tissue
+fourth-degree burn	affects	muscle/bone
+fire/burn	can be caused by	flames
+fire/burn	can be caused by	hot liquids
+fire/burn	can be caused by	chemicals
+fire/burn	can be caused by	electricity
+fire/burn	can be caused by	radiation
+fire/burn	is diagnosed with	physical exam
+fire/burn	may require	debridement
+fire/burn	can lead to	hypovolemia
+fire/burn	can cause	respiratory distress
+fire/burn	may result in	sepsis
+fire/burn	is associated with	smoke inhalation
+smoke inhalation	can cause	lung damage
+fire/burn	may require	IV fluids
+fire/burn	can lead to	organ failure
+fire/burn	is managed with	pain medication
+morphine	is used for	burn pain
+fire/burn	may need	rehabilitation
+fire/burn	can cause	psychological trauma
+fire/burn	is prevented by	safety measures
+smoke detector	prevents	fire injury
+fire extinguisher	prevents	fire spread
+fire/burn	is more common in	children
+fire/burn	is more common in	elderly
+fire/burn	has higher risk in	diabetes patients
+diabetes	impairs	wound healing
+fire/burn	can cause	contractures
+fire/burn	may require	physical therapy
+fire/burn	can lead to	disability
+fire/burn	is documented with	ICD codes
+E codes	are part of	ICD system
+fire/burn	has higher mortality in	large TBSA
+TBSA	stands for	total body surface area
+rule of nines	estimates	TBSA
+Lund-Browder chart	estimates	TBSA
+fire/burn	may require	escharotomy
+escharotomy	relieves	compartment syndrome
+fire/burn	can cause	metabolic changes
+fire/burn	increases	catabolism
+fire/burn	requires	nutritional support
+high-protein diet	aids	burn recovery
+fire/burn	may cause	electrolyte imbalance
+fire/burn	can lead to	acute kidney injury
+fire/burn	is complicated by	ARDS
+ARDS	stands for	acute respiratory distress syndrome
+fire/burn	increases risk of	pneumonia
+fire/burn	may require	mechanical ventilation
+fire/burn	can cause	carbon monoxide poisoning
+hyperbaric oxygen	treats	carbon monoxide poisoning
+fire/burn	is associated with	thermal injury
+fire/burn	differs from	scald injury
+fire/burn	has higher risk in	alcoholics
+fire/burn	is common in	workplace accidents
+fire/burn	is frequent in	house fires
+fire/burn	can be accidental
+fire/burn	can be intentional
+fire/burn	is studied in	trauma research
+burn center	specializes in	fire/burn treatment
+fire/burn	requires	multidisciplinary care
+silver sulfadiazine	treats	burn wounds
+hydrocolloid dressing	protects	burn wounds
+fire/burn	may need	tetanus prophylaxis
+fire/burn	can cause	nerve damage
+fire/burn	affects	thermoregulation
+fire/burn	increases	fluid requirements
+Parkland formula	calculates	fluid resuscitation
+fire/burn	can lead to	anemia
+fire/burn	may require	blood transfusion
+fire/burn	can cause	heterotopic ossification
+fire/burn	is associated with	PTSD
+PTSD	stands for	post-traumatic stress disorder
+fire/burn	requires	long-term follow-up
+fire/burn	affects	quality of life
+fire/burn	has higher risk in	males
+fire/burn	is preventable through	education
+stop-drop-roll	prevents	fire injury
+fire/burn	is more severe in	facial burns
+fire/burn	can damage	corneas
+fire/burn	may cause	vision loss
+fire/burn	is treated by	ophthalmologist if eye involved
+fire/burn	can be assessed with	bronchoscopy
+fire/burn	may show	carboxyhemoglobin
+pulse oximetry	can be inaccurate in	carbon monoxide poisoning
+fire/burn	is a cause of	hypermetabolism
+beta-blockers	may be used for	burn hypermetabolism
+fire/burn	is reportable to	public health agencies

@@ -1,0 +1,100 @@
+cardiac glycosides	is a	drug class
+cardiac glycosides	derived from	digitalis
+cardiac glycosides	mechanism of action	Na+/K+-ATPase inhibition
+Na+/K+-ATPase inhibition	causes	increased intracellular calcium
+increased intracellular calcium	enhances	myocardial contractility
+cardiac glycosides	used for	heart failure
+cardiac glycosides	used for	atrial fibrillation
+cardiac glycosides	contraindicated in	ventricular tachycardia
+cardiac glycosides	contraindicated in	AV block
+cardiac glycosides	interacts with	diuretics
+diuretics	may cause	hypokalemia
+hypokalemia	potentiates	cardiac glycosides toxicity
+cardiac glycosides	metabolized by	liver
+cardiac glycosides	excreted via	kidneys
+renal impairment	increases	toxicity risk
+cardiac glycosides	narrow	therapeutic index
+therapeutic index	requires	serum monitoring
+cardiac glycosides	include	digoxin
+digoxin	most common	cardiac glycoside
+digoxin	has	long half-life
+long half-life	necessitates	loading dose
+cardiac glycosides	alternatives to	beta-blockers
+beta-blockers	also treat	heart failure
+cardiac glycosides	symptoms of toxicity	nausea
+cardiac glycosides	symptoms of toxicity	vomiting
+cardiac glycosides	symptoms of toxicity	visual disturbances
+cardiac glycosides	symptoms of toxicity	arrhythmias
+arrhythmias	may include	ventricular fibrillation
+cardiac glycosides	treatment for toxicity	digoxin immune fab
+digoxin immune fab	binds	free digoxin
+cardiac glycosides	increases	vagal tone
+increased vagal tone	slows	AV conduction
+cardiac glycosides	decreases	heart rate
+cardiac glycosides	historical use	herbal medicine
+foxglove plant	source of	digitalis
+cardiac glycosides	affects	action potential
+action potential alteration	prolongs	refractory period
+cardiac glycosides	reduces	sympathetic activity
+cardiac glycosides	increases	cardiac output
+increased cardiac output	improves	tissue perfusion
+cardiac glycosides	interacts with	amiodarone
+amiodarone	increases	digoxin levels
+cardiac glycosides	interacts with	quinidine
+quinidine	displaces	digoxin
+cardiac glycosides	interacts with	calcium
+calcium infusion	exacerbates	toxicity
+cardiac glycosides	monitoring requires	serum potassium
+cardiac glycosides	monitoring requires	serum creatinine
+serum creatinine	reflects	renal function
+cardiac glycosides	requires	ECG monitoring
+ECG monitoring	detects	arrhythmias
+cardiac glycosides	causes	ST segment depression
+cardiac glycosides	causes	T wave inversion
+cardiac glycosides	prolongs	PR interval
+prolonged PR interval	indicates	AV block
+cardiac glycosides	contraindicated in	Wolff-Parkinson-White syndrome
+Wolff-Parkinson-White syndrome	has risk of	rapid conduction
+cardiac glycosides	caution in	elderly patients
+elderly patients	have reduced	renal clearance
+cardiac glycosides	caution in	hypothyroidism
+hypothyroidism	reduces	metabolism
+cardiac glycosides	caution with	erythromycin
+erythromycin	inhibits	P-glycoprotein
+P-glycoprotein	affects	drug excretion
+cardiac glycosides	caution with	verapamil
+verapamil	increases	serum levels
+cardiac glycosides	alternative in pregnancy	beta-blockers
+cardiac glycosides	classified as	category C
+category C	means	potential fetal risk
+cardiac glycosides	excreted in	breast milk
+breast milk exposure	requires	monitoring
+cardiac glycosides	interacts with	St John's wort
+St John's wort	decreases	digoxin levels
+cardiac glycosides	interacts with	rifampin
+rifampin	induces	metabolism
+cardiac glycosides	pharmacokinetics	complex
+pharmacokinetic complexity	necessitates	individualized dosing
+cardiac glycosides	absorption varies by	formulation
+liquid formulation	has better	bioavailability
+cardiac glycosides	distribution involves	tissue binding
+tissue binding	contributes to	long half-life
+cardiac glycosides	volume of distribution	large
+large volume	indicates	extensive distribution
+cardiac glycosides	displacement reactions	significant
+displacement reactions	cause	toxicity
+cardiac glycosides	enterohepatic recirculation	occurs
+enterohepatic recirculation	prolongs	effect
+cardiac glycosides	used in	pediatric patients
+pediatric dosing	requires	weight-based calculation
+cardiac glycosides	alternative administration	IV
+IV administration	used for	acute cases
+cardiac glycosides	oral bioavailability	60-80%
+oral administration	preferred for	chronic therapy
+cardiac glycosides	protein binding	25%
+low protein binding	means	more free drug
+cardiac glycosides	neurohormonal effects	beneficial
+neurohormonal modulation	reduces	disease progression
+cardiac glycosides	cost-effective	treatment
+cost-effectiveness	important for	chronic conditions
+cardiac glycosides	remains	valuable therapy

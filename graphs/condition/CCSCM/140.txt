@@ -1,0 +1,100 @@
+gastritis	is a	stomach inflammation
+duodenitis	is a	duodenum inflammation
+gastritis and duodenitis	often co-occur	H. pylori infection
+H. pylori infection	causes	gastritis
+H. pylori infection	causes	duodenitis
+NSAIDs	can cause	gastritis
+NSAIDs	can cause	duodenitis
+gastritis	may lead to	peptic ulcer
+duodenitis	may lead to	peptic ulcer
+peptic ulcer	may cause	gastrointestinal bleeding
+gastritis	is diagnosed with	endoscopy
+duodenitis	is diagnosed with	endoscopy
+H. pylori infection	is diagnosed with	urea breath test
+H. pylori infection	is treated with	antibiotics
+gastritis	is treated with	proton pump inhibitors
+duodenitis	is treated with	proton pump inhibitors
+proton pump inhibitors	reduce	stomach acid
+stomach acid reduction	aids healing	gastritis
+stomach acid reduction	aids healing	duodenitis
+gastritis	has symptom	abdominal pain
+duodenitis	has symptom	abdominal pain
+gastritis	may cause	nausea
+duodenitis	may cause	nausea
+gastritis	may cause	vomiting
+duodenitis	may cause	vomiting
+chronic gastritis	increases risk	stomach cancer
+chronic duodenitis	may lead	duodenal ulcer
+alcohol consumption	exacerbates	gastritis
+alcohol consumption	exacerbates	duodenitis
+smoking	worsens	gastritis
+smoking	worsens	duodenitis
+stress	aggravates	gastritis
+stress	aggravates	duodenitis
+gastritis	may lead to	anemia
+duodenitis	may lead to	anemia
+gastritis	is associated with	vitamin B12 deficiency
+duodenitis	may impair	nutrient absorption
+gastritis	is classified into	acute gastritis
+gastritis	is classified into	chronic gastritis
+autoimmune gastritis	is a type of	chronic gastritis
+autoimmune gastritis	causes	intrinsic factor deficiency
+intrinsic factor deficiency	leads to	pernicious anemia
+H. pylori gastritis	is a type of	chronic gastritis
+H. pylori gastritis	may progress to	atrophic gastritis
+atrophic gastritis	increases risk	gastric adenocarcinoma
+endoscopy	allows visualization	gastric mucosa
+endoscopy	allows visualization	duodenal mucosa
+biopsy	confirms diagnosis	gastritis
+biopsy	confirms diagnosis	duodenitis
+gastritis	may require	hospitalization
+duodenitis	may require	hospitalization
+PPIs	are first-line treatment	gastritis
+PPIs	are first-line treatment	duodenitis
+H2 blockers	are alternative treatment	gastritis
+H2 blockers	are alternative treatment	duodenitis
+antacids	provide symptom relief	gastritis
+antacids	provide symptom relief	duodenitis
+misoprostol	prevents	NSAID-induced gastritis
+misoprostol	prevents	NSAID-induced duodenitis
+gastritis	is more common in	older adults
+duodenitis	is more common in	older adults
+gastritis	has higher prevalence	developing countries
+duodenitis	has higher prevalence	developing countries
+gastritis	can recur after	treatment
+duodenitis	can recur after	treatment
+diet modification	helps manage	gastritis
+diet modification	helps manage	duodenitis
+spicy foods	aggravate	gastritis
+spicy foods	aggravate	duodenitis
+caffeinated beverages	worsen	gastritis
+caffeinated beverages	worsen	duodenitis
+gastritis	may cause	appetite loss
+duodenitis	may cause	appetite loss
+gastritis	may lead to	weight loss
+duodenitis	may lead to	weight loss
+severe gastritis	may require	blood transfusion
+severe duodenitis	may require	blood transfusion
+upper GI series	may detect	gastritis
+upper GI series	may detect	duodenitis
+gastritis	increases risk	gastric perforation
+duodenitis	increases risk	duodenal perforation
+perforation	is a	surgical emergency
+gastritis	may cause	gastric outlet obstruction
+duodenitis	may cause	duodenal obstruction
+obstruction	requires	surgical intervention
+gastritis	is more common in	females
+duodenitis	is more common in	males
+gastritis	can be	infectious
+duodenitis	can be	infectious
+CMV infection	can cause	gastritis
+CMV infection	can cause	duodenitis
+corticosteroids	increase risk	gastritis
+corticosteroids	increase risk	duodenitis
+gastritis	may be	asymptomatic
+duodenitis	may be	asymptomatic
+chronic gastritis	requires	long-term monitoring
+chronic duodenitis	requires	long-term monitoring
+gastritis	affects	quality of life
+duodenitis	affects	quality of life
+patient education	improves outcomes	gastritis and duodenitis

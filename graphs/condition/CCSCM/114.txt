@@ -1,0 +1,100 @@
+peripheral and visceral atherosclerosis	is a type of	cardiovascular disease
+peripheral and visceral atherosclerosis	involves	arterial plaque buildup
+peripheral and visceral atherosclerosis	may cause	organ ischemia
+peripheral and visceral atherosclerosis	increases risk of	stroke
+peripheral and visceral atherosclerosis	increases risk of	heart attack
+peripheral and visceral atherosclerosis	associated with	hypertension
+peripheral and visceral atherosclerosis	associated with	hyperlipidemia
+peripheral and visceral atherosclerosis	associated with	diabetes mellitus
+peripheral and visceral atherosclerosis	related to	smoking
+peripheral and visceral atherosclerosis	leads to	reduced blood flow
+peripheral and visceral atherosclerosis	may cause	peripheral artery disease
+peripheral and visceral atherosclerosis	may cause	mesenteric ischemia
+peripheral and visceral atherosclerosis	may cause	renal artery stenosis
+peripheral and visceral atherosclerosis	diagnosed by	angiography
+peripheral and visceral atherosclerosis	diagnosed by	ultrasound
+peripheral and visceral atherosclerosis	diagnosed by	CT scan
+peripheral and visceral atherosclerosis	diagnosed by	MRI
+peripheral and visceral atherosclerosis	treated with	statins
+peripheral and visceral atherosclerosis	treated with	antiplatelet drugs
+peripheral and visceral atherosclerosis	treated with	antihypertensives
+peripheral and visceral atherosclerosis	managed by	lifestyle modification
+peripheral and visceral atherosclerosis	monitored by	lipid profile
+peripheral and visceral atherosclerosis	monitored by	blood pressure measurement
+peripheral and visceral atherosclerosis	may require	angioplasty
+peripheral and visceral atherosclerosis	may require	stent placement
+peripheral and visceral atherosclerosis	may require	bypass surgery
+peripheral and visceral atherosclerosis	complication	gangrene
+peripheral and visceral atherosclerosis	complication	chronic kidney disease
+peripheral and visceral atherosclerosis	complication	intestinal necrosis
+peripheral and visceral atherosclerosis	risk factor	obesity
+peripheral and visceral atherosclerosis	risk factor	sedentary lifestyle
+peripheral and visceral atherosclerosis	risk factor	family history
+peripheral and visceral atherosclerosis	risk factor	aging
+peripheral and visceral atherosclerosis	prevention	regular exercise
+peripheral and visceral atherosclerosis	prevention	healthy diet
+peripheral and visceral atherosclerosis	prevention	smoking cessation
+peripheral and visceral atherosclerosis	symptom	claudication
+peripheral and visceral atherosclerosis	symptom	abdominal pain
+peripheral and visceral atherosclerosis	symptom	erectile dysfunction
+peripheral and visceral atherosclerosis	symptom	fatigue
+peripheral and visceral atherosclerosis	pathophysiology	endothelial dysfunction
+peripheral and visceral atherosclerosis	pathophysiology	inflammation
+peripheral and visceral atherosclerosis	pathophysiology	lipid accumulation
+peripheral and visceral atherosclerosis	biomarker	C-reactive protein
+peripheral and visceral atherosclerosis	biomarker	LDL cholesterol
+peripheral and visceral atherosclerosis	biomarker	homocysteine
+peripheral and visceral atherosclerosis	differential diagnosis	vasculitis
+peripheral and visceral atherosclerosis	differential diagnosis	thromboangiitis obliterans
+peripheral and visceral atherosclerosis	differential diagnosis	fibromuscular dysplasia
+peripheral and visceral atherosclerosis	emergency	acute limb ischemia
+peripheral and visceral atherosclerosis	emergency	acute mesenteric ischemia
+peripheral and visceral atherosclerosis	emergency	renal infarction
+statin	reduces	LDL cholesterol
+statin	increases	HDL cholesterol
+statin	has side effect	myopathy
+antiplatelet drug	example	aspirin
+antiplatelet drug	example	clopidogrel
+antiplatelet drug	prevents	thrombus formation
+hypertension	controlled by	ACE inhibitors
+hypertension	controlled by	calcium channel blockers
+diabetes mellitus	increases risk of	atherosclerosis
+smoking	accelerates	plaque formation
+LDL cholesterol	deposits in	artery walls
+HDL cholesterol	removes	plaque
+angiography	visualizes	arterial blockages
+ultrasound	measures	blood flow velocity
+CT scan	detects	calcified plaques
+MRI	evaluates	plaque composition
+lifestyle modification	includes	dietary changes
+lifestyle modification	includes	weight management
+angioplasty	opens	narrowed arteries
+stent	maintains	arterial patency
+bypass surgery	creates	alternative pathways
+organ ischemia	results in	tissue damage
+gangrene	may require	amputation
+chronic kidney disease	monitored by	creatinine levels
+intestinal necrosis	requires	surgical resection
+claudication	characterized by	exercise-induced pain
+abdominal pain	worsens after	meals
+endothelial dysfunction	promotes	inflammation
+inflammation	contributes to	plaque instability
+lipid accumulation	forms	fatty streaks
+C-reactive protein	indicates	systemic inflammation
+homocysteine	damages	blood vessels
+vasculitis	involves	vessel wall inflammation
+thromboangiitis obliterans	affects	young smokers
+fibromuscular dysplasia	causes	arterial narrowing
+acute limb ischemia	presents with	pain pallor pulselessness
+acute mesenteric ischemia	causes	severe abdominal pain
+renal infarction	leads to	flank pain
+ACE inhibitors	protect	kidney function
+calcium channel blockers	relax	vascular smooth muscle
+plaque rupture	triggers	thrombosis
+thrombosis	occludes	blood vessels
+dietary changes	reduce	saturated fat intake
+weight management	improves	metabolic profile
+smoking cessation	slows	disease progression
+exercise	improves	collateral circulation
+blood pressure measurement	assesses	cardiovascular risk
+creatinine levels	reflect	kidney function

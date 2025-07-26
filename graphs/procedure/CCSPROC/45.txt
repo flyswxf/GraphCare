@@ -1,0 +1,35 @@
+PTCA	is a	coronary intervention
+PTCA	is a	minimally invasive procedure
+PTCA	treats	coronary artery disease
+PTCA	restores	blood flow
+PTCA	performed in	cardiac catheterization lab
+coronary arteries	location of	PTCA
+atherosclerotic plaque	target of	PTCA
+stenosis	indication for	PTCA
+myocardium	benefits from	PTCA
+left anterior descending artery	common site for	PTCA
+balloon catheter	used in	PTCA
+stent	often placed during	PTCA
+guidewire	assists	PTCA
+fluoroscopy	guides	PTCA
+intravascular ultrasound	may accompany	PTCA
+heparin	administered during	PTCA
+antiplatelet therapy	follows	PTCA
+statin	prescribed after	PTCA
+nitroglycerin	used in	PTCA
+GP IIb/IIIa inhibitors	adjunct to	PTCA
+coronary dissection	risk of	PTCA
+stent thrombosis	potential complication of	PTCA
+bleeding	may occur after	PTCA
+contrast nephropathy	concern in	PTCA
+arrhythmia	possible during	PTCA
+coronary artery bypass grafting	alternative to	PTCA
+medical therapy	alternative to	PTCA
+atherectomy	alternative to	PTCA
+laser angioplasty	alternative to	PTCA
+rotablation	alternative to	PTCA
+ejection fraction	predicts outcome of	PTCA
+troponin levels	monitor after	PTCA
+SYNTAX score	guides	PTCA
+bleeding risk score	assesses	PTCA
+clopidogrel resistance	affects	PTCA outcome

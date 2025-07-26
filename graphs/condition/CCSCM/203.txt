@@ -1,0 +1,100 @@
+osteoarthritis	is a	joint disease
+osteoarthritis	affects	cartilage
+osteoarthritis	causes	joint pain
+osteoarthritis	leads to	joint stiffness
+osteoarthritis	may result in	disability
+osteoarthritis	is common in	elderly
+osteoarthritis	is associated with	obesity
+osteoarthritis	has risk factor	aging
+osteoarthritis	is diagnosed via	X-ray
+osteoarthritis	is treated with	NSAIDs
+osteoarthritis	may require	joint replacement
+osteoarthritis	affects	knees
+osteoarthritis	affects	hips
+osteoarthritis	affects	hands
+osteoarthritis	affects	spine
+osteoarthritis	causes	bone spurs
+osteoarthritis	reduces	mobility
+osteoarthritis	increases risk of	falls
+osteoarthritis	is managed with	physical therapy
+osteoarthritis	may lead to	depression
+osteoarthritis	is worsened by	inactivity
+osteoarthritis	is alleviated by	exercise
+osteoarthritis	has symptom	swelling
+osteoarthritis	has symptom	tenderness
+osteoarthritis	may cause	sleep disturbance
+osteoarthritis	increases healthcare costs
+osteoarthritis	is researched in	rheumatology
+osteoarthritis	differs from	rheumatoid arthritis
+osteoarthritis	involves	synovial fluid changes
+osteoarthritis	progresses slowly
+osteoarthritis	may involve	genetic factors
+osteoarthritis	can follow	joint injury
+osteoarthritis	is more common in	women
+osteoarthritis	has biomarker	COMP
+osteoarthritis	may be prevented by	weight control
+osteoarthritis	is studied via	MRI
+osteoarthritis	affects quality of life
+osteoarthritis	may co-occur with	osteoporosis
+osteoarthritis	is treated with	acetaminophen
+osteoarthritis	may respond to	glucosamine
+osteoarthritis	may require	corticosteroid injections
+osteoarthritis	is relieved by	heat therapy
+osteoarthritis	is affected by	mechanical stress
+osteoarthritis	involves	chondrocyte dysfunction
+osteoarthritis	leads to	subchondral bone changes
+osteoarthritis	may involve	inflammation
+osteoarthritis	is associated with	metabolic syndrome
+osteoarthritis	has comorbidity	diabetes
+osteoarthritis	is treated with	duloxetine
+osteoarthritis	may benefit from	tai chi
+osteoarthritis	is assessed via	WOMAC index
+osteoarthritis	affects joint space width
+osteoarthritis	may lead to	muscle weakness
+osteoarthritis	is treated with	hyaluronic acid
+osteoarthritis	may require	arthroscopy
+osteoarthritis	is exacerbated by	cold weather
+osteoarthritis	has genetic marker	GDF5
+osteoarthritis	is linked to	joint malalignment
+osteoarthritis	may involve	meniscal tears
+osteoarthritis	is treated with	capsaicin cream
+osteoarthritis	affects gait pattern
+osteoarthritis	increases fall risk
+osteoarthritis	is managed with	assistive devices
+osteoarthritis	may lead to	social isolation
+osteoarthritis	is researched using	animal models
+osteoarthritis	has histologic feature	fibrillations
+osteoarthritis	involves	extracellular matrix degradation
+osteoarthritis	may respond to	PRP therapy
+osteoarthritis	is treated with	topical NSAIDs
+osteoarthritis	may require	osteotomy
+osteoarthritis	is associated with	Heberden's nodes
+osteoarthritis	affects joint loading
+osteoarthritis	may involve	synovitis
+osteoarthritis	is studied in	biomechanics
+osteoarthritis	has risk factor	joint overuse
+osteoarthritis	may lead to	decreased physical activity
+osteoarthritis	is treated with	massage therapy
+osteoarthritis	may benefit from	acupuncture
+osteoarthritis	is assessed via	Kellgren-Lawrence scale
+osteoarthritis	involves	proteoglycan loss
+osteoarthritis	may respond to	chondroitin
+osteoarthritis	is treated with	tramadol
+osteoarthritis	may require	arthrodesis
+osteoarthritis	is exacerbated by	high-impact activities
+osteoarthritis	has inflammatory marker	IL-1β
+osteoarthritis	is linked to	occupation hazards
+osteoarthritis	may involve	ligament laxity
+osteoarthritis	is treated with	orthotics
+osteoarthritis	affects proprioception
+osteoarthritis	increases analgesic use
+osteoarthritis	is managed with	aquatic therapy
+osteoarthritis	may lead to	work disability
+osteoarthritis	is researched in	tissue engineering
+osteoarthritis	has radiographic feature	osteophytes
+osteoarthritis	involves	subchondral sclerosis
+osteoarthritis	may respond to	stem cell therapy
+osteoarthritis	is treated with	nerve blocks
+osteoarthritis	may require	microfracture surgery
+osteoarthritis	is associated with	Bouchard's nodes
+osteoarthritis	affects activities of daily living

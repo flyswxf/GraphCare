@@ -1,0 +1,100 @@
+decongestants	are	medications
+nasal preparations	are	medications
+topical use	means	local application
+decongestants	treat	nasal congestion
+nasal congestion	symptom of	rhinitis
+rhinitis	can be	allergic
+allergic rhinitis	caused by	allergens
+decongestants	act on	blood vessels
+blood vessels	constrict due to	vasoconstrictors
+vasoconstrictors	include	phenylephrine
+phenylephrine	is	alpha-agonist
+alpha-agonists	reduce	swelling
+swelling	occurs in	nasal mucosa
+nasal mucosa	contains	mucous membranes
+mucous membranes	produce	mucus
+mucus	traps	pathogens
+pathogens	cause	infections
+infections	lead to	sinusitis
+sinusitis	treated with	antibiotics
+decongestants	available as	sprays
+sprays	deliver	active ingredients
+active ingredients	include	oxymetazoline
+oxymetazoline	causes	rebound congestion
+rebound congestion	results from	overuse
+overuse	requires	medical attention
+medical attention	provided by	physicians
+physicians	prescribe	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	part of	immune response
+immune response	triggered by	histamine
+histamine	blocked by	antihistamines
+antihistamines	treat	allergies
+allergies	involve	IgE antibodies
+IgE antibodies	activate	mast cells
+mast cells	release	inflammatory mediators
+inflammatory mediators	include	leukotrienes
+leukotrienes	targeted by	leukotriene inhibitors
+leukotriene inhibitors	example	montelukast
+montelukast	prevents	asthma attacks
+asthma attacks	involve	bronchoconstriction
+bronchoconstriction	relieved by	bronchodilators
+bronchodilators	include	albuterol
+albuterol	is	beta-agonist
+beta-agonists	relax	smooth muscles
+smooth muscles	line	airways
+airways	affected by	COPD
+COPD	treated with	anticholinergics
+anticholinergics	include	ipratropium
+ipratropium	blocks	acetylcholine
+acetylcholine	transmits	nerve signals
+nerve signals	control	gland secretion
+gland secretion	produces	saliva
+saliva	contains	enzymes
+enzymes	break down	food
+food	digested in	stomach
+stomach	produces	acid
+acid	neutralized by	antacids
+antacids	contain	aluminum hydroxide
+aluminum hydroxide	binds	phosphate
+phosphate	important for	bones
+bones	store	calcium
+calcium	regulated by	vitamin D
+vitamin D	synthesized in	skin
+skin	absorbs	sunlight
+sunlight	provides	UV radiation
+UV radiation	causes	mutations
+mutations	lead to	cancer
+cancer	treated with	chemotherapy
+chemotherapy	includes	cisplatin
+cisplatin	damages	DNA
+DNA	encodes	proteins
+proteins	form	receptors
+receptors	bind	neurotransmitters
+neurotransmitters	include	dopamine
+dopamine	affects	mood
+mood	regulated by	serotonin
+serotonin	targeted by	SSRIs
+SSRIs	treat	depression
+depression	linked to	stress
+stress	increases	cortisol
+cortisol	suppresses	immunity
+immunity	protects against	viruses
+viruses	cause	colds
+colds	treated with	decongestants
+decongestants	interact with	MAOIs
+MAOIs	are	antidepressants
+antidepressants	affect	norepinephrine
+norepinephrine	increases	blood pressure
+blood pressure	controlled by	diuretics
+diuretics	remove	excess fluid
+excess fluid	causes	edema
+edema	symptom of	heart failure
+heart failure	treated with	beta-blockers
+beta-blockers	reduce	heart rate
+heart rate	controlled by	pacemaker
+pacemaker	uses	electrical impulses
+electrical impulses	measured by	ECG
+ECG	detects	arrhythmias
+arrhythmias	managed with	antiarrhythmics
+antiarrhythmics	include	amiodarone

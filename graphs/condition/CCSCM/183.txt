@@ -1,0 +1,100 @@
+hypertension complicating pregnancy	is a	pregnancy complication
+hypertension complicating pregnancy	may lead to	preeclampsia
+hypertension complicating pregnancy	increases risk of	preterm birth
+hypertension complicating pregnancy	requires	blood pressure monitoring
+hypertension complicating pregnancy	may cause	placental abruption
+hypertension complicating pregnancy	associated with	intrauterine growth restriction
+hypertension complicating pregnancy	treated with	antihypertensive drugs
+labetalol	is used for	hypertension complicating pregnancy
+methyldopa	is used for	hypertension complicating pregnancy
+hypertension complicating pregnancy	contraindicates	ACE inhibitors
+hypertension complicating pregnancy	requires	frequent prenatal visits
+hypertension complicating pregnancy	may require	early delivery
+hypertension complicating pregnancy	increases risk of	cesarean section
+hypertension complicating pregnancy	may cause	maternal mortality
+hypertension complicating pregnancy	may lead to	HELLP syndrome
+hypertension complicating pregnancy	requires	urine protein testing
+hypertension complicating pregnancy	monitored with	fetal ultrasound
+hypertension complicating pregnancy	may result in	NICU admission
+hypertension complicating pregnancy	associated with	oligohydramnios
+hypertension complicating pregnancy	increases risk of	postpartum hemorrhage
+preeclampsia	is a complication of	hypertension complicating pregnancy
+eclampsia	may follow	preeclampsia
+magnesium sulfate	prevents	eclampsia
+HELLP syndrome	is a variant of	preeclampsia
+hypertension complicating pregnancy	increases risk of	cardiovascular disease
+chronic hypertension	differs from	hypertension complicating pregnancy
+gestational hypertension	precedes	preeclampsia
+calcium supplementation	may prevent	preeclampsia
+low-dose aspirin	may prevent	preeclampsia
+hypertension complicating pregnancy	requires	hospitalization
+antihypertensive therapy	manages	hypertension complicating pregnancy
+nifedipine	is used for	hypertension complicating pregnancy
+hypertension complicating pregnancy	contraindicates	NSAIDs
+hypertension complicating pregnancy	may cause	renal impairment
+hypertension complicating pregnancy	affects	fetal heart rate
+hypertension complicating pregnancy	requires	blood tests
+hypertension complicating pregnancy	may lead to	stroke
+hypertension complicating pregnancy	increases risk of	diabetes mellitus
+hypertension complicating pregnancy	associated with	metabolic syndrome
+obesity	increases risk of	hypertension complicating pregnancy
+advanced maternal age	increases risk of	hypertension complicating pregnancy
+multiple gestation	increases risk of	hypertension complicating pregnancy
+hypertension complicating pregnancy	requires	multidisciplinary care
+obstetrician	manages	hypertension complicating pregnancy
+maternal-fetal medicine specialist	consults on	hypertension complicating pregnancy
+hypertension complicating pregnancy	may require	ICU admission
+hypertension complicating pregnancy	increases risk of	thrombosis
+hypertension complicating pregnancy	may cause	visual disturbances
+hypertension complicating pregnancy	may lead to	pulmonary edema
+hypertension complicating pregnancy	requires	fluid restriction
+hypertension complicating pregnancy	monitored with	liver function tests
+hypertension complicating pregnancy	may cause	thrombocytopenia
+hypertension complicating pregnancy	increases risk of	infection
+hypertension complicating pregnancy	may lead to	long-term hypertension
+postpartum follow-up	is needed after	hypertension complicating pregnancy
+hypertension complicating pregnancy	increases risk of	chronic kidney disease
+hypertension complicating pregnancy	may affect	future pregnancies
+contraception	is advised after	hypertension complicating pregnancy
+hypertension complicating pregnancy	increases risk of	preeclampsia recurrence
+breastfeeding	may be affected by	hypertension complicating pregnancy
+hypertension complicating pregnancy	may require	antihypertensive continuation
+propranolol	is used for	hypertension complicating pregnancy
+hydralazine	is used for	hypertension complicating pregnancy
+hypertension complicating pregnancy	contraindicates	diuretics
+hypertension complicating pregnancy	may cause	headaches
+hypertension complicating pregnancy	may cause	epigastric pain
+hypertension complicating pregnancy	requires	neurological assessment
+hypertension complicating pregnancy	may lead to	seizures
+hypertension complicating pregnancy	increases risk of	stillbirth
+hypertension complicating pregnancy	requires	fetal monitoring
+hypertension complicating pregnancy	may cause	liver rupture
+hypertension complicating pregnancy	may lead to	disseminated intravascular coagulation
+hypertension complicating pregnancy	increases risk of	maternal ICU admission
+hypertension complicating pregnancy	requires	blood transfusion
+hypertension complicating pregnancy	may cause	retinal detachment
+hypertension complicating pregnancy	may lead to	cognitive impairment
+hypertension complicating pregnancy	increases risk of	depression
+hypertension complicating pregnancy	requires	psychological support
+hypertension complicating pregnancy	may affect	breastfeeding initiation
+hypertension complicating pregnancy	increases risk of	wound complications
+hypertension complicating pregnancy	may delay	postpartum recovery
+hypertension complicating pregnancy	requires	blood pressure medication adjustment
+hypertension complicating pregnancy	increases risk of	venous thromboembolism
+hypertension complicating pregnancy	requires	anticoagulation consideration
+hypertension complicating pregnancy	may cause	adrenal insufficiency
+hypertension complicating pregnancy	may lead to	thyroid dysfunction
+hypertension complicating pregnancy	increases risk of	metabolic disorders
+hypertension complicating pregnancy	requires	long-term follow-up
+hypertension complicating pregnancy	may affect	child development
+hypertension complicating pregnancy	increases risk of	autism spectrum disorder
+hypertension complicating pregnancy	may lead to	ADHD
+hypertension complicating pregnancy	increases risk of	learning disabilities
+hypertension complicating pregnancy	requires	developmental screening
+hypertension complicating pregnancy	may affect	maternal bonding
+hypertension complicating pregnancy	increases risk of	partner stress
+hypertension complicating pregnancy	requires	family support
+hypertension complicating pregnancy	may lead to	financial burden
+hypertension complicating pregnancy	increases healthcare costs
+hypertension complicating pregnancy	requires	public health interventions
+hypertension complicating pregnancy	needs	further research

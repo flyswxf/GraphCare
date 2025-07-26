@@ -1,0 +1,100 @@
+corticosteroids and antiinfectives in combination	otologic	is a	medication
+corticosteroids and antiinfectives in combination	otologic	contains	corticosteroids
+corticosteroids and antiinfectives in combination	otologic	contains	antiinfectives
+corticosteroids	belongs to	anti-inflammatory drugs
+antiinfectives	subclass	antibiotics
+corticosteroids	mechanism	suppresses inflammation
+antiinfectives	mechanism	kills microorganisms
+otologic preparations	administration route	ear drops
+ear drops	used for	otitis externa
+otitis externa	symptom	ear pain
+ear pain	measured by	visual analog scale
+visual analog scale	is a	pain assessment tool
+corticosteroids	side effect	increased intraocular pressure
+increased intraocular pressure	risk factor	glaucoma
+glaucoma	treatment	beta blockers
+beta blockers	contraindication	asthma
+asthma	medication	bronchodilators
+bronchodilators	example	albuterol
+albuterol	mechanism	beta-2 agonist
+antiinfectives	resistance	bacterial mutation
+bacterial mutation	caused by	overuse of antibiotics
+overuse of antibiotics	leads to	superinfection
+superinfection	example	candidiasis
+candidiasis	treatment	antifungal agents
+antifungal agents	class	azoles
+azoles	example	fluconazole
+fluconazole	interaction	warfarin
+warfarin	monitoring	INR
+INR	measures	blood clotting
+blood clotting	disorder	hemophilia
+hemophilia	treatment	factor VIII
+factor VIII	production	recombinant DNA technology
+recombinant DNA technology	application	insulin production
+insulin	deficiency	diabetes mellitus
+diabetes mellitus	complication	neuropathy
+neuropathy	symptom	numbness
+numbness	assessment	monofilament test
+monofilament test	detects	foot ulcer risk
+foot ulcer	complication	amputation
+amputation	rehabilitation	prosthetic limb
+prosthetic limb	material	carbon fiber
+carbon fiber	application	aerospace industry
+aerospace industry	uses	titanium alloys
+titanium alloys	biocompatibility	dental implants
+dental implants	complication	peri-implantitis
+peri-implantitis	treatment	scaling
+scaling	instrument	ultrasonic scaler
+ultrasonic scaler	principle	piezoelectric effect
+piezoelectric effect	application	quartz watches
+quartz watches	component	oscillator circuit
+oscillator circuit	basis	crystal frequency
+crystal frequency	measured in	hertz
+hertz	namesake	Heinrich Hertz
+Heinrich Hertz	discovery	electromagnetic waves
+electromagnetic waves	application	MRI
+MRI	contraindication	metal implants
+metal implants	example	pacemaker
+pacemaker	function	regulates heartbeat
+heartbeat	measurement	ECG
+ECG	parameter	QT interval
+QT interval	prolongation	drug side effect
+drug side effect	monitoring	pharmacovigilance
+pharmacovigilance	database	FAERS
+FAERS	maintained by	FDA
+FDA	regulates	drug approval
+drug approval	requires	clinical trials
+clinical trials	phase	Phase III
+Phase III	sample size	thousands
+thousands	statistical power	p-value
+p-value	threshold	0.05
+0.05	represents	confidence level
+confidence level	complement	alpha error
+alpha error	type	false positive
+false positive	consequence	unnecessary treatment
+unnecessary treatment	example	antibiotic misuse
+antibiotic misuse	contributes to	resistance
+resistance	surveillance	antibiogram
+antibiogram	guides	empiric therapy
+empiric therapy	principle	broad-spectrum
+broad-spectrum	disadvantage	disrupts microbiome
+microbiome	function	vitamin synthesis
+vitamin synthesis	example	vitamin K
+vitamin K	role	coagulation
+coagulation	test	PT
+PT	affected by	warfarin
+warfarin	antagonist	vitamin K
+vitamin K	source	leafy greens
+leafy greens	nutrient	folate
+folate	deficiency	macrocytic anemia
+macrocytic anemia	marker	MCV
+MCV	part of	CBC
+CBC	includes	WBC count
+WBC count	elevation	infection sign
+infection sign	indicator	CRP
+CRP	acute phase reactant	inflammation
+inflammation	mediator	cytokines
+cytokines	example	IL-6
+IL-6	target	tocilizumab
+tocilizumab	class	monoclonal antibody
+monoclonal antibody	production	hybridoma technology

@@ -1,0 +1,100 @@
+muscle relaxants	include	centrally acting agents
+centrally acting agents	target	central nervous system
+centrally acting agents	reduce	muscle tone
+muscle relaxants	treat	muscle spasms
+muscle relaxants	used for	spasticity
+centrally acting agents	include	baclofen
+centrally acting agents	include	tizanidine
+centrally acting agents	include	methocarbamol
+baclofen	mimics	GABA
+tizanidine	acts as	alpha-2 agonist
+methocarbamol	has	sedative effects
+muscle relaxants	contraindicated in	myasthenia gravis
+centrally acting agents	cause	drowsiness
+centrally acting agents	may impair	driving
+muscle relaxants	interact with	alcohol
+baclofen	treats	multiple sclerosis spasticity
+tizanidine	reduces	muscle spasms
+methocarbamol	relieves	musculoskeletal pain
+centrally acting agents	require	dose titration
+muscle relaxants	have	abuse potential
+baclofen	administered via	intrathecal pump
+tizanidine	has	short half-life
+methocarbamol	contains	guaifenesin
+centrally acting agents	affect	neurotransmitter release
+muscle relaxants	used in	cerebral palsy
+baclofen	withdrawn gradually	to avoid
+tizanidine	may cause	hypotension
+methocarbamol	available as	oral tablet
+centrally acting agents	not for	acute injury
+muscle relaxants	prescribed with	physical therapy
+baclofen	crosses	blood-brain barrier
+tizanidine	metabolized by	CYP1A2
+methocarbamol	has	muscle relaxant properties
+centrally acting agents	contraindicated in	hepatic impairment
+muscle relaxants	monitored for	respiratory depression
+baclofen	used off-label for	alcoholism
+tizanidine	interacts with	fluvoxamine
+methocarbamol	has	minimal anticholinergic effects
+centrally acting agents	preferred over	peripheral agents
+muscle relaxants	limited to	short-term use
+baclofen	available as	generic
+tizanidine	has	three formulations
+methocarbamol	lacks	direct muscle action
+centrally acting agents	modulate	spinal reflexes
+muscle relaxants	avoided in	elderly
+baclofen	reduces	spastic hypertonia
+tizanidine	has	antinociceptive effects
+methocarbamol	used for	tetanus
+centrally acting agents	affect	polysynaptic pathways
+muscle relaxants	require	caution in renal disease
+baclofen	synthesized in	1962
+tizanidine	approved in	1996
+methocarbamol	introduced in	1950s
+centrally acting agents	suppress	excitatory transmission
+muscle relaxants	classified as	schedule IV
+baclofen	derived from	GABA
+tizanidine	resembles	clonidine
+methocarbamol	contains	carbamate group
+centrally acting agents	decrease	motor neuron activity
+muscle relaxants	monitored for	dependence
+baclofen	used for	spinal cord injury
+tizanidine	reduces	clonus
+methocarbamol	has	mild anxiolytic effects
+centrally acting agents	preferred for	chronic spasticity
+muscle relaxants	avoided in	pregnancy
+baclofen	has	high oral bioavailability
+tizanidine	affects	sympathetic outflow
+methocarbamol	undergoes	hepatic metabolism
+centrally acting agents	alter	presynaptic inhibition
+muscle relaxants	interact with	CNS depressants
+baclofen	excreted via	kidneys
+tizanidine	binds to	imidazoline receptors
+methocarbamol	has	unclear mechanism
+centrally acting agents	suppress	muscle stretch reflex
+muscle relaxants	require	gradual discontinuation
+baclofen	used for	hiccups
+tizanidine	has	linear pharmacokinetics
+methocarbamol	available as	injection
+centrally acting agents	affect	Renshaw cells
+muscle relaxants	cause	dry mouth
+baclofen	has	dose-dependent effects
+tizanidine	reduces	substance P release
+methocarbamol	has	low abuse potential
+centrally acting agents	preferred for	upper motor neuron disorders
+muscle relaxants	cause	dizziness
+baclofen	used for	dystonia
+tizanidine	inhibits	excitatory amino acids
+methocarbamol	has	rapid onset
+centrally acting agents	modulate	descending pathways
+muscle relaxants	cause	blurred vision
+baclofen	has	structural similarity to phenibut
+tizanidine	reduces	noradrenergic activity
+methocarbamol	lacks	FDA pregnancy category
+centrally acting agents	affect	gamma motor neurons
+muscle relaxants	require	liver function tests
+baclofen	used for	trigeminal neuralgia
+tizanidine	has	active metabolites
+methocarbamol	contains	propanediol structure
+centrally acting agents	suppress	polysynaptic reflexes
+muscle relaxants	monitored for	tolerance development

@@ -1,0 +1,100 @@
+blood glucose lowering drugs	treat	type 2 diabetes
+blood glucose lowering drugs	include	metformin
+blood glucose lowering drugs	include	sulfonylureas
+blood glucose lowering drugs	include	DPP-4 inhibitors
+blood glucose lowering drugs	include	SGLT2 inhibitors
+blood glucose lowering drugs	include	GLP-1 receptor agonists
+metformin	mechanism	AMPK activation
+metformin	side effect	lactic acidosis
+metformin	contraindication	renal impairment
+sulfonylureas	mechanism	insulin secretion
+sulfonylureas	side effect	hypoglycemia
+sulfonylureas	interact with	warfarin
+DPP-4 inhibitors	mechanism	GLP-1 prolongation
+DPP-4 inhibitors	brand	sitagliptin
+DPP-4 inhibitors	safety	cardiac
+SGLT2 inhibitors	mechanism	urinary glucose excretion
+SGLT2 inhibitors	side effect	UTI
+SGLT2 inhibitors	benefit	weight loss
+GLP-1 receptor agonists	administration	injection
+GLP-1 receptor agonists	effect	appetite suppression
+type 2 diabetes	complication	neuropathy
+type 2 diabetes	risk factor	obesity
+type 2 diabetes	marker	HbA1c
+hypoglycemia	symptom	dizziness
+hypoglycemia	treatment	glucose tablets
+renal impairment	measure	eGFR
+lactic acidosis	emergency	dialysis
+GLP-1 receptor agonists	example	liraglutide
+liraglutide	indication	weight management
+SGLT2 inhibitors	example	empagliflozin
+empagliflozin	benefit	cardiovascular protection
+cardiovascular protection	measure	ejection fraction
+obesity	comorbidity	hypertension
+hypertension	treatment	ACE inhibitors
+ACE inhibitors	side effect	cough
+neuropathy	symptom	paresthesia
+paresthesia	characteristic	tingling
+HbA1c	target level	<7%
+DPP-4 inhibitors	caution	pancreatitis
+pancreatitis	symptom	abdominal pain
+metformin	monitoring	vitamin B12
+vitamin B12 deficiency	manifestation	anemia
+anemia	test	hemoglobin
+sulfonylureas	example	glimepiride
+glimepiride	duration	long-acting
+long-acting drugs	caution	elderly
+elderly patients	risk	polypharmacy
+polypharmacy	complication	drug interactions
+drug interactions	management	medication review
+medication review	participant	pharmacist
+GLP-1 receptor agonists	effect	delayed gastric emptying
+delayed gastric emptying	impact	drug absorption
+drug absorption	factor	meal timing
+SGLT2 inhibitors	risk	genital mycosis
+genital mycosis	treatment	antifungals
+antifungals	example	fluconazole
+metformin	formulation	extended-release
+extended-release	advantage	once-daily
+once-daily dosing	benefit	adherence
+adherence	measure	pill count
+DPP-4 inhibitors	metabolism	renal excretion
+renal excretion	affected by	creatinine clearance
+creatinine clearance	calculation	Cockcroft-Gault
+sulfonylureas	risk	weight gain
+weight gain	management	diet
+diet	component	carbohydrates
+carbohydrates	type	complex
+complex carbohydrates	source	whole grains
+type 2 diabetes	screening	fasting glucose
+fasting glucose	threshold	126 mg/dL
+metformin	contraindication	liver disease
+liver disease	marker	ALT
+ALT elevation	cause	fatty liver
+fatty liver	association	metabolic syndrome
+metabolic syndrome	component	dyslipidemia
+dyslipidemia	treatment	statins
+statins	side effect	myopathy
+myopathy	evaluation	CK levels
+GLP-1 receptor agonists	effect	blood pressure
+blood pressure	measurement	sphygmomanometer
+sulfonylureas	risk	beta-cell exhaustion
+beta-cell exhaustion	result	insulin deficiency
+insulin deficiency	management	insulin therapy
+insulin therapy	type	basal
+basal insulin	example	glargine
+DPP-4 inhibitors	pharmacokinetics	hepatic metabolism
+hepatic metabolism	enzyme	CYP450
+CYP450	inhibitor	grapefruit
+SGLT2 inhibitors	monitoring	volume status
+volume status	assessment	jugular vein
+GLP-1 receptor agonists	storage	refrigeration
+refrigeration	temperature	2-8°C
+metformin	interaction	contrast media
+contrast media	risk	nephropathy
+nephropathy	stage	albuminuria
+albuminuria	test	urine dipstick
+blood glucose lowering drugs	consideration	cost
+cost	factor	insurance
+insurance	type	Medicare
+Medicare	coverage	Part D

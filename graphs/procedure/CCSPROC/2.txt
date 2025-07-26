@@ -1,0 +1,100 @@
+extracranial ventricular shunt	is a	medical device
+extracranial ventricular shunt	used for	hydrocephalus treatment
+extracranial ventricular shunt	drains	cerebrospinal fluid
+extracranial ventricular shunt	connects to	peritoneal cavity
+extracranial ventricular shunt	consists of	catheter
+extracranial ventricular shunt	consists of	valve
+extracranial ventricular shunt placement	is a	neurosurgical procedure
+extracranial ventricular shunt placement	requires	general anesthesia
+extracranial ventricular shunt placement	involves	cranial incision
+extracranial ventricular shunt placement	involves	abdominal incision
+extracranial ventricular shunt replacement	caused by	device malfunction
+extracranial ventricular shunt replacement	caused by	infection
+extracranial ventricular shunt replacement	caused by	obstruction
+extracranial ventricular shunt removal	indicates	treatment success
+extracranial ventricular shunt removal	requires	patient monitoring
+hydrocephalus	requires	cerebrospinal fluid diversion
+hydrocephalus	caused by	brain hemorrhage
+hydrocephalus	caused by	meningitis
+hydrocephalus	causes	increased intracranial pressure
+hydrocephalus	treated with	shunt surgery
+ventriculoperitoneal shunt	is a type of	extracranial ventricular shunt
+ventriculoatrial shunt	is a type of	extracranial ventricular shunt
+lumboperitoneal shunt	is a type of	extracranial ventricular shunt
+shunt valve	regulates	fluid flow
+shunt valve	prevents	overdrainage
+shunt catheter	made of	silicone
+shunt catheter	susceptible to	kinking
+shunt infection	requires	antibiotic treatment
+shunt infection	may lead to	shunt removal
+shunt obstruction	causes	symptom recurrence
+shunt malfunction	detected by	imaging studies
+shunt malfunction	confirmed by	shunt tap
+neurosurgery	performed by	neurosurgeon
+neurosurgeon	requires	specialized training
+general anesthesia	administered by	anesthesiologist
+cranial incision	allows	ventricular access
+abdominal incision	allows	peritoneal access
+intracranial pressure	monitored by	neuroimaging
+intracranial pressure	measured by	lumbar puncture
+cerebrospinal fluid	produced by	choroid plexus
+cerebrospinal fluid	absorbed by	arachnoid villi
+cerebrospinal fluid	analysis detects	infection
+postoperative care	includes	wound monitoring
+postoperative care	includes	neurological assessment
+shunt revision	is a	common complication
+shunt revision	requires	additional surgery
+shunt overdrainage	causes	subdural hematoma
+shunt underdrainage	causes	persistent symptoms
+programmable shunt	allows	flow adjustment
+programmable shunt	adjusted by	magnetic device
+shunt series	is a	diagnostic imaging
+shunt series	evaluates	shunt position
+CT scan	detects	ventricular size
+MRI	provides	detailed brain images
+ultrasound	used for	shunt evaluation
+pediatric patients	commonly require	shunt placement
+premature infants	at risk for	hydrocephalus
+intraventricular hemorrhage	leads to	hydrocephalus
+meningitis	causes	communicating hydrocephalus
+aqueductal stenosis	causes	obstructive hydrocephalus
+normal pressure hydrocephalus	affects	elderly patients
+normal pressure hydrocephalus	presents with	gait disturbance
+normal pressure hydrocephalus	presents with	dementia
+normal pressure hydrocephalus	presents with	urinary incontinence
+shunt surgery	improves	quality of life
+shunt surgery	reduces	intracranial pressure
+antibiotic prophylaxis	prevents	shunt infection
+aseptic technique	reduces	infection risk
+wound care	prevents	surgical site infection
+headache	indicates	shunt malfunction
+nausea	indicates	shunt malfunction
+vomiting	indicates	shunt malfunction
+lethargy	indicates	shunt malfunction
+seizures	may accompany	shunt failure
+shunt nephritis	is a	rare complication
+shunt nephritis	caused by	chronic infection
+shunt nephritis	affects	kidney function
+shunt externalization	treats	severe infection
+endoscopic third ventriculostomy	alternative to	shunt placement
+endoscopic third ventriculostomy	avoids	hardware implantation
+shunt dependency	requires	lifelong monitoring
+shunt registry	tracks	patient outcomes
+shunt design	evolves with	technological advances
+antibiotic-impregnated catheters	reduce	infection rates
+telemetric shunts	allow	remote monitoring
+shunt complications	increase	healthcare costs
+shunt survival	measures	device longevity
+patient education	improves	outcome awareness
+caregiver training	ensures	proper monitoring
+emergency department	evaluates	acute shunt problems
+neurosurgical consult	required for	shunt issues
+shunt protocol	standardizes	management approach
+quality metrics	assess	surgical outcomes
+hospital readmission	associated with	shunt complications
+mortality risk	increases with	multiple revisions
+rehabilitation	aids	postoperative recovery
+physical therapy	improves	motor function
+cognitive therapy	helps	neuropsychological deficits
+support groups	provide	patient resources
+research studies	advance	shunt technology

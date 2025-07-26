@@ -1,0 +1,100 @@
+other ophthalmologicals	belong to	ATC classification
+other ophthalmologicals	include	ocular lubricants
+other ophthalmologicals	include	viscoelastic substances
+other ophthalmologicals	include	irrigating solutions
+other ophthalmologicals	treat	dry eye syndrome
+other ophthalmologicals	used in	cataract surgery
+other ophthalmologicals	used in	glaucoma surgery
+other ophthalmologicals	contain	hyaluronic acid
+other ophthalmologicals	contain	hydroxypropyl methylcellulose
+other ophthalmologicals	prevent	postoperative adhesions
+ocular lubricants	relieve	eye dryness
+ocular lubricants	contain	carbomer
+ocular lubricants	contain	polyethylene glycol
+viscoelastic substances	protect	corneal endothelium
+viscoelastic substances	maintain	anterior chamber
+viscoelastic substances	facilitate	intraocular lens implantation
+irrigating solutions	cleanse	ocular surface
+irrigating solutions	maintain	intraocular pressure
+irrigating solutions	prevent	infection
+hyaluronic acid	provides	viscosity
+hyaluronic acid	promotes	wound healing
+hydroxypropyl methylcellulose	acts as	tear substitute
+carbomer	increases	tear film stability
+polyethylene glycol	mimics	natural tears
+dry eye syndrome	causes	ocular discomfort
+dry eye syndrome	leads to	visual disturbance
+cataract surgery	requires	viscoelastic agents
+glaucoma surgery	uses	ophthalmic viscosurgical devices
+postoperative adhesions	may cause	complications
+corneal endothelium	is sensitive	to surgical trauma
+anterior chamber	contains	aqueous humor
+intraocular lens implantation	restores	vision
+ocular surface	is protected	by tear film
+intraocular pressure	affects	optic nerve
+infection	can lead	to endophthalmitis
+viscosity	determines	retention time
+wound healing	is crucial	for visual recovery
+tear substitute	compensates	for deficient tears
+tear film	consists of	three layers
+natural tears	contain	lysozyme
+ocular discomfort	includes	burning sensation
+visual disturbance	affects	daily activities
+viscoelastic agents	are classified	by molecular weight
+ophthalmic viscosurgical devices	have	different cohesiveness
+complications	may require	additional surgery
+surgical trauma	can damage	corneal cells
+aqueous humor	maintains	ocular nutrition
+vision	depends on	corneal clarity
+tear film	prevents	epithelial damage
+optic nerve	transmits	visual signals
+endophthalmitis	is a	serious condition
+retention time	influences	therapeutic effect
+visual recovery	takes	several weeks
+deficient tears	cause	hyperosmolarity
+three layers	include	lipid layer
+lysozyme	has	antibacterial properties
+burning sensation	is common	in dry eye
+daily activities	may be	impaired
+molecular weight	affects	rheological properties
+cohesiveness	determines	ease of removal
+additional surgery	increases	healthcare costs
+corneal cells	have	limited regenerative capacity
+ocular nutrition	supports	retinal function
+corneal clarity	requires	regular hydration
+epithelial damage	leads to	staining
+visual signals	are processed	in brain
+serious condition	may cause	vision loss
+therapeutic effect	depends on	dosage
+several weeks	is typical	recovery period
+hyperosmolarity	triggers	inflammation
+lipid layer	prevents	evaporation
+antibacterial properties	protect	against infection
+dry eye	is diagnosed	by Schirmer test
+impaired vision	affects	quality of life
+rheological properties	determine	flow behavior
+ease of removal	is important	in surgery
+healthcare costs	include	hospitalization expenses
+regenerative capacity	varies by	cell type
+retinal function	converts	light to signals
+regular hydration	prevents	epithelial breakdown
+staining	reveals	surface defects
+brain	interprets	visual information
+vision loss	can be	permanent
+dosage	must be	carefully calculated
+recovery period	requires	follow-up visits
+inflammation	causes	tissue damage
+evaporation	is prevented	by meibum
+infection	requires	antibiotic treatment
+Schirmer test	measures	tear production
+quality of life	is assessed	by questionnaires
+flow behavior	affects	surgical performance
+surgery	has	potential risks
+hospitalization expenses	depend on	duration
+cell type	determines	regeneration rate
+light to signals	is called	phototransduction
+epithelial breakdown	leads to	erosions
+surface defects	may cause	pain
+visual information	forms	perception
+permanent damage	affects	visual acuity
+follow-up visits	monitor	treatment efficacy

@@ -1,0 +1,100 @@
+antithrombotic agents	is a	drug class
+antithrombotic agents	prevent	thrombosis
+antithrombotic agents	include	anticoagulants
+antithrombotic agents	include	antiplatelet drugs
+antithrombotic agents	include	thrombolytic drugs
+antithrombotic agents	treat	stroke
+antithrombotic agents	treat	myocardial infarction
+antithrombotic agents	treat	deep vein thrombosis
+antithrombotic agents	treat	pulmonary embolism
+antithrombotic agents	reduce	mortality
+antithrombotic agents	reduce	hospital readmission
+antithrombotic agents	can cause	bleeding
+antithrombotic agents	interact with	NSAIDs
+antithrombotic agents	contraindicated in	pregnancy
+antithrombotic agents	require	monitoring
+antithrombotic agents	used in	atrial fibrillation
+antithrombotic agents	used in	prosthetic heart valves
+antithrombotic agents	used in	coronary stents
+antithrombotic agents	compared to	placebo
+antithrombotic agents	have	dose adjustments
+antithrombotic agents	affected by	renal function
+antithrombotic agents	affected by	liver function
+antithrombotic agents	reversed by	protamine sulfate
+antithrombotic agents	reversed by	vitamin K
+antithrombotic agents	reversed by	platelet transfusion
+antithrombotic agents	have	drug interactions
+antithrombotic agents	contraindicated in	active bleeding
+antithrombotic agents	contraindicated in	peptic ulcer disease
+antithrombotic agents	contraindicated in	recent surgery
+antithrombotic agents	contraindicated in	hemorrhagic stroke
+antithrombotic agents	require	patient education
+antithrombotic agents	can cause	bruising
+antithrombotic agents	can cause	hematoma
+antithrombotic agents	can cause	gastrointestinal bleeding
+antithrombotic agents	can cause	intracranial hemorrhage
+antithrombotic agents	can cause	hematuria
+antithrombotic agents	can cause	epistaxis
+antithrombotic agents	can cause	hemoptysis
+antithrombotic agents	can cause	menorrhagia
+antithrombotic agents	can cause	anemia
+antithrombotic agents	can cause	hypotension
+antithrombotic agents	can cause	thrombocytopenia
+antithrombotic agents	can cause	heparin-induced thrombocytopenia
+antithrombotic agents	can cause	warfarin necrosis
+antithrombotic agents	can cause	allergic reactions
+antithrombotic agents	can cause	skin necrosis
+antithrombotic agents	can cause	alopecia
+antithrombotic agents	can cause	diarrhea
+antithrombotic agents	can cause	rash
+antithrombotic agents	can cause	fever
+antithrombotic agents	can cause	headache
+antithrombotic agents	can cause	dizziness
+antithrombotic agents	can cause	fatigue
+antithrombotic agents	can cause	nausea
+antithrombotic agents	can cause	vomiting
+antithrombotic agents	can cause	abdominal pain
+antithrombotic agents	can cause	constipation
+antithrombotic agents	can cause	dyspepsia
+antithrombotic agents	can cause	liver enzyme elevation
+antithrombotic agents	can cause	jaundice
+antithrombotic agents	can cause	hepatitis
+antithrombotic agents	can cause	cholestasis
+antithrombotic agents	can cause	pancreatitis
+antithrombotic agents	can cause	renal failure
+antithrombotic agents	can cause	hyperkalemia
+antithrombotic agents	can cause	hypokalemia
+antithrombotic agents	can cause	hyponatremia
+antithrombotic agents	can cause	hypernatremia
+antithrombotic agents	can cause	hypercalcemia
+antithrombotic agents	can cause	hypocalcemia
+antithrombotic agents	can cause	hyperglycemia
+antithrombotic agents	can cause	hypoglycemia
+antithrombotic agents	can cause	hyperuricemia
+antithrombotic agents	can cause	gout
+antithrombotic agents	can cause	myalgia
+antithrombotic agents	can cause	arthralgia
+antithrombotic agents	can cause	back pain
+antithrombotic agents	can cause	chest pain
+antithrombotic agents	can cause	dyspnea
+antithrombotic agents	can cause	cough
+antithrombotic agents	can cause	pharyngitis
+antithrombotic agents	can cause	rhinitis
+antithrombotic agents	can cause	sinusitis
+antithrombotic agents	can cause	bronchitis
+antithrombotic agents	can cause	pneumonia
+antithrombotic agents	can cause	urinary tract infection
+antithrombotic agents	can cause	sepsis
+antithrombotic agents	can cause	endocarditis
+antithrombotic agents	can cause	meningitis
+antithrombotic agents	can cause	encephalitis
+antithrombotic agents	can cause	neuropathy
+antithrombotic agents	can cause	paresthesia
+antithrombotic agents	can cause	seizures
+antithrombotic agents	can cause	coma
+antithrombotic agents	can cause	confusion
+antithrombotic agents	can cause	depression
+antithrombotic agents	can cause	anxiety
+antithrombotic agents	can cause	insomnia
+antithrombotic agents	can cause	hallucinations
+antithrombotic agents	can cause	suicidal ideation

@@ -1,0 +1,107 @@
+propulsives	are	medications
+propulsives	treat	gastrointestinal disorders
+propulsives	stimulate	gut motility
+propulsives	include	domperidone
+propulsives	include	metoclopramide
+propulsives	counteract	nausea
+propulsives	relieve	vomiting
+propulsives	help with	gastroparesis
+propulsives	affect	dopamine receptors
+propulsives	may cause	side effects
+side effects	include	drowsiness
+side effects	include	restlessness
+side effects	include	diarrhea
+propulsives	contraindicated in	intestinal obstruction
+propulsives	interact with	antipsychotics
+propulsives	interact with	antidepressants
+propulsives	increase	gastric emptying
+propulsives	prescribed for	GERD
+GERD	is	acid reflux disease
+propulsives	reduce	esophageal irritation
+propulsives	aid	digestion
+propulsives	may worsen	Parkinson's disease
+Parkinson's disease	involves	dopamine deficiency
+propulsives	monitored in	elderly patients
+elderly patients	have higher	side effect risk
+propulsives	require	prescription
+propulsives	differ from	antacids
+antacids	neutralize	stomach acid
+propulsives	work on	muscular contractions
+muscular contractions	move	food
+propulsives	used in	postoperative care
+postoperative care	prevents	ileus
+ileus	is	intestinal paralysis
+propulsives	not for	long-term use
+long-term use	leads to	tolerance
+tolerance	reduces	drug efficacy
+propulsives	studied for	chemotherapy nausea
+chemotherapy	causes	severe nausea
+propulsives	compared to	5-HT3 antagonists
+5-HT3 antagonists	block	serotonin receptors
+propulsives	alternative to	erythromycin
+erythromycin	has	prokinetic effects
+propulsives	avoid with	heart conditions
+heart conditions	risk	arrhythmias
+propulsives	metabolized in	liver
+liver	affects	drug clearance
+propulsives	excreted via	kidneys
+kidneys	influence	drug dosage
+propulsives	vary in	onset time
+onset time	depends on	formulation
+propulsives	available as	tablets
+propulsives	available as	injections
+injections	act	faster
+propulsives	cost	varies
+cost	impacts	adherence
+propulsives	subject to	recalls
+recalls	occur due to	safety issues
+propulsives	have	brand names
+brand names	differ by	country
+propulsives	researched for	new indications
+new indications	expand	usage
+propulsives	part of	combination therapy
+combination therapy	enhances	effects
+propulsives	compete with	natural remedies
+natural remedies	include	ginger
+ginger	alleviates	nausea
+propulsives	tested in	clinical trials
+clinical trials	assess	safety
+propulsives	reviewed by	FDA
+FDA	regulates	medications
+propulsives	have	half-life
+half-life	determines	dosing frequency
+propulsives	stored at	room temperature
+room temperature	preserves	stability
+propulsives	contain	active ingredients
+active ingredients	produce	effects
+propulsives	may contain	preservatives
+preservatives	prevent	contamination
+propulsives	packaged in	blister packs
+blister packs	ensure	freshness
+propulsives	labeled with	instructions
+instructions	guide	usage
+propulsives	prescribed by	doctors
+doctors	consider	patient history
+patient history	reveals	allergies
+allergies	may contraindicate	propulsives
+propulsives	monitored via	blood tests
+blood tests	check	liver function
+propulsives	may alter	lab results
+lab results	inform	adjustments
+propulsives	support	nutritional intake
+nutritional intake	aids	recovery
+propulsives	assist	tube feeding
+tube feeding	requires	motility
+propulsives	benefit	ICU patients
+ICU patients	often have	dysmotility
+propulsives	reduce	hospital stays
+hospital stays	increase	costs
+propulsives	covered by	insurance
+insurance	affects	accessibility
+propulsives	have	pediatric doses
+pediatric doses	adjust for	weight
+propulsives	lack in	pregnancy safety
+pregnancy	limits	drug options
+propulsives	reviewed in	journals
+journals	publish	studies
+studies	validate	efficacy

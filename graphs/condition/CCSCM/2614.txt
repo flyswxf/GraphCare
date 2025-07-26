@@ -1,0 +1,100 @@
+E codes	classify	external causes
+struck by	is a	injury mechanism
+against	is a	injury mechanism
+struck by	involves	moving object
+against	involves	stationary object
+E codes	used for	injury coding
+E codes	part of	ICD system
+struck by	may cause	head injury
+against	may cause	blunt trauma
+E codes	assist in	injury surveillance
+struck by	associated with	pedestrian accidents
+against	associated with	falls
+E codes	help with	prevention strategies
+struck by	can result in	fractures
+against	can result in	contusions
+E codes	used in	mortality statistics
+struck by	prevalent in	workplace injuries
+against	prevalent in	home accidents
+E codes	support	public health research
+struck by	requires	protective equipment
+against	requires	environmental modification
+E codes	guide	safety regulations
+struck by	affects	construction workers
+against	affects	elderly population
+E codes	aid in	reimbursement processes
+struck by	leads to	emergency visits
+against	leads to	outpatient care
+E codes	differentiate	intentional injuries
+struck by	correlates with	time of day
+against	correlates with	activity level
+E codes	track	injury trends
+struck by	preventable by	warning signs
+against	preventable by	padding surfaces
+E codes	complement	clinical data
+struck by	varies by	geographic location
+against	varies by	population density
+E codes	assist in	forensic analysis
+struck by	impacts	disability rates
+against	impacts	quality of life
+E codes	used for	insurance claims
+struck by	measured in	incident rates
+against	measured in	severity scores
+E codes	inform	prevention programs
+struck by	associated with	weather conditions
+against	associated with	lighting conditions
+E codes	standardized by	WHO
+struck by	mitigated by	training programs
+against	mitigated by	assistive devices
+E codes	facilitate	injury comparisons
+struck by	documented in	accident reports
+against	documented in	medical records
+E codes	updated in	ICD revisions
+struck by	requires	first aid
+against	requires	pain management
+E codes	analyzed by	epidemiologists
+struck by	influenced by	human factors
+against	influenced by	environmental factors
+E codes	mapped to	injury patterns
+struck by	reduced by	speed limits
+against	reduced by	handrails
+E codes	contribute to	safety standards
+struck by	common in	traffic accidents
+against	common in	sports injuries
+E codes	assist in	risk assessment
+struck by	predicted by	machine learning
+against	predicted by	statistical models
+E codes	linked to	disability weights
+struck by	prevented by	visibility aids
+against	prevented by	non-slip surfaces
+E codes	utilized in	cost analysis
+struck by	affects	insurance premiums
+against	affects	healthcare costs
+E codes	studied in	injury epidemiology
+struck by	mitigated by	protective gear
+against	mitigated by	ergonomic design
+E codes	reference	external causes
+struck by	documented with	photographs
+against	documented with	witness statements
+E codes	support	legal cases
+struck by	reduced by	automation
+against	reduced by	supervision
+E codes	correlate with	socioeconomic factors
+struck by	impacts	work productivity
+against	impacts	daily activities
+E codes	guide	workplace policies
+struck by	prevented by	barriers
+against	prevented by	clear pathways
+E codes	used in	disaster response
+struck by	associated with	vehicle type
+against	associated with	surface material
+E codes	inform	product safety
+struck by	decreased by	warning systems
+against	decreased by	proper lighting
+E codes	aid in	rehabilitation planning
+struck by	affects	mental health
+against	affects	recovery time
+E codes	utilized by	occupational health
+struck by	recorded in	trauma registries
+against	recorded in	incident databases
+E codes	help determine	injury causation

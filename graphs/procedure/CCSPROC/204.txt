@@ -1,0 +1,100 @@
+Swan-Ganz catheterization	is a	medical procedure
+Swan-Ganz catheterization	used for	hemodynamic monitoring
+Swan-Ganz catheterization	measures	cardiac output
+Swan-Ganz catheterization	assesses	pulmonary artery pressure
+Swan-Ganz catheterization	evaluates	left ventricular function
+Swan-Ganz catheterization	helps diagnose	heart failure
+Swan-Ganz catheterization	assists in	critical care management
+Swan-Ganz catheterization	requires	vascular access
+Swan-Ganz catheterization	involves	right heart catheterization
+Swan-Ganz catheterization	uses	balloon-tipped catheter
+Swan-Ganz catheter	is a type of	catheter
+Swan-Ganz catheter	inserted via	jugular vein
+Swan-Ganz catheter	advanced to	pulmonary artery
+Swan-Ganz catheter	monitors	central venous pressure
+Swan-Ganz catheter	detects	pulmonary hypertension
+Swan-Ganz catheterization	aids in	fluid management
+Swan-Ganz catheterization	guides	vasopressor therapy
+Swan-Ganz catheterization	supports	shock management
+Swan-Ganz catheterization	contraindicated in	severe arrhythmias
+Swan-Ganz catheterization	requires	sterile technique
+Swan-Ganz catheterization	has risk of	infection
+Swan-Ganz catheterization	may cause	pulmonary artery rupture
+Swan-Ganz catheterization	can lead to	thrombosis
+Swan-Ganz catheterization	necessitates	fluoroscopy
+Swan-Ganz catheterization	performed by	cardiologist
+Swan-Ganz catheterization	used in	ICU
+Swan-Ganz catheterization	evaluates	volume status
+Swan-Ganz catheterization	differentiates	cardiogenic shock
+Swan-Ganz catheterization	measures	mixed venous oxygen saturation
+Swan-Ganz catheterization	calculates	systemic vascular resistance
+Swan-Ganz catheterization	helps adjust	inotropic therapy
+Swan-Ganz catheter	contains	thermistor
+Swan-Ganz catheter	allows	pressure waveform analysis
+Swan-Ganz catheterization	contraindicated in	tricuspid valve disease
+Swan-Ganz catheterization	avoided in	coagulopathy
+Swan-Ganz catheterization	requires	heparinization
+Swan-Ganz catheter	has lumen for	fluid administration
+Swan-Ganz catheterization	assesses	right atrial pressure
+Swan-Ganz catheterization	monitors	pulmonary capillary wedge pressure
+Swan-Ganz catheterization	correlates with	left atrial pressure
+Swan-Ganz catheterization	aids	perioperative management
+Swan-Ganz catheterization	used in	cardiac surgery
+Swan-Ganz catheterization	evaluates	valvular heart disease
+Swan-Ganz catheterization	assists in	transplant assessment
+Swan-Ganz catheterization	measures	stroke volume
+Swan-Ganz catheterization	calculates	cardiac index
+Swan-Ganz catheterization	guides	diuretic therapy
+Swan-Ganz catheterization	helps manage	acute respiratory distress syndrome
+Swan-Ganz catheterization	contraindicated in	right ventricular infarction
+Swan-Ganz catheterization	has alternative	echocardiography
+Swan-Ganz catheter	requires	calibration
+Swan-Ganz catheterization	involves	waveform interpretation
+Swan-Ganz catheterization	used for	research purposes
+Swan-Ganz catheterization	measures	oxygen delivery
+Swan-Ganz catheterization	assesses	oxygen consumption
+Swan-Ganz catheterization	helps determine	tissue perfusion
+Swan-Ganz catheterization	monitors	response to treatment
+Swan-Ganz catheterization	used in	septic shock
+Swan-Ganz catheterization	evaluates	pulmonary embolism
+Swan-Ganz catheterization	contraindicated in	severe pulmonary hypertension
+Swan-Ganz catheterization	requires	informed consent
+Swan-Ganz catheterization	has complication	catheter knotting
+Swan-Ganz catheterization	may cause	arrhythmias
+Swan-Ganz catheterization	necessitates	post-procedure monitoring
+Swan-Ganz catheterization	performed under	local anesthesia
+Swan-Ganz catheterization	uses	introducer sheath
+Swan-Ganz catheter	has marking for	depth measurement
+Swan-Ganz catheterization	assesses	preload
+Swan-Ganz catheterization	evaluates	afterload
+Swan-Ganz catheterization	guides	mechanical ventilation
+Swan-Ganz catheterization	helps in	weaning from ventilator
+Swan-Ganz catheterization	measures	pulmonary vascular resistance
+Swan-Ganz catheterization	calculates	stroke work
+Swan-Ganz catheterization	used in	trauma patients
+Swan-Ganz catheterization	evaluates	myocardial infarction
+Swan-Ganz catheterization	aids	drug titration
+Swan-Ganz catheterization	contraindicated in	endocarditis
+Swan-Ganz catheterization	avoided in	pacemaker leads
+Swan-Ganz catheterization	requires	aseptic technique
+Swan-Ganz catheter	connected to	pressure transducer
+Swan-Ganz catheterization	measures	right ventricular pressure
+Swan-Ganz catheterization	evaluates	pericardial tamponade
+Swan-Ganz catheterization	used in	burn patients
+Swan-Ganz catheterization	assesses	intravascular volume
+Swan-Ganz catheterization	guides	blood transfusion
+Swan-Ganz catheterization	helps in	renal failure management
+Swan-Ganz catheterization	measures	shunt fraction
+Swan-Ganz catheterization	calculates	oxygen extraction ratio
+Swan-Ganz catheterization	used in	liver transplantation
+Swan-Ganz catheterization	evaluates	congenital heart disease
+Swan-Ganz catheterization	aids	pulmonary hypertension management
+Swan-Ganz catheterization	contraindicated in	ventricular septal defect
+Swan-Ganz catheterization	avoided in	severe hypoxemia
+Swan-Ganz catheterization	requires	continuous monitoring
+Swan-Ganz catheter	has risk of	migration
+Swan-Ganz catheterization	measures	ventricular filling pressures
+Swan-Ganz catheterization	evaluates	diastolic dysfunction
+Swan-Ganz catheterization	used in	high-risk surgery
+Swan-Ganz catheterization	assesses	vasodilator therapy
+Swan-Ganz catheterization	guides	prognosis estimation

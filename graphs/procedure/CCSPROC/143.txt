@@ -1,0 +1,100 @@
+bunionectomy	is a	surgical procedure
+repair of toe deformities	is a	surgical procedure
+bunionectomy	treats	hallux valgus
+repair of toe deformities	corrects	hammer toe
+bunionectomy	involves	bone realignment
+repair of toe deformities	involves	tendon adjustment
+bunionectomy	requires	local anesthesia
+repair of toe deformities	requires	local anesthesia
+bunionectomy	has risk	infection
+repair of toe deformities	has risk	nerve damage
+bunionectomy	has complication	swelling
+repair of toe deformities	has complication	stiffness
+bunionectomy	needs	postoperative care
+repair of toe deformities	needs	physical therapy
+bunionectomy	uses	surgical instruments
+repair of toe deformities	uses	fixation devices
+bunionectomy	performed by	orthopedic surgeon
+repair of toe deformities	performed by	podiatrist
+bunionectomy	requires	X-ray
+repair of toe deformities	requires	imaging
+bunionectomy	preceded by	diagnosis
+repair of toe deformities	preceded by	evaluation
+bunionectomy	has alternative	conservative treatment
+repair of toe deformities	has alternative	orthotics
+bunionectomy	causes	pain relief
+repair of toe deformities	improves	mobility
+bunionectomy	affects	gait
+repair of toe deformities	affects	balance
+bunionectomy	has recurrence risk
+repair of toe deformities	has recurrence risk
+bunionectomy	requires	follow-up
+repair of toe deformities	requires	monitoring
+bunionectomy	uses	sutures
+repair of toe deformities	uses	screws
+bunionectomy	involves	soft tissue release
+repair of toe deformities	involves	joint correction
+bunionectomy	treats	foot deformity
+repair of toe deformities	treats	toe misalignment
+bunionectomy	contraindicated for	severe arthritis
+repair of toe deformities	contraindicated for	poor circulation
+bunionectomy	performed in	outpatient setting
+repair of toe deformities	performed in	hospital
+bunionectomy	has outcome	improved function
+repair of toe deformities	has outcome	cosmetic improvement
+bunionectomy	influenced by	footwear
+repair of toe deformities	influenced by	genetics
+bunionectomy	associated with	metatarsal pain
+repair of toe deformities	associated with	calluses
+bunionectomy	prevented by	proper shoes
+repair of toe deformities	prevented by	early intervention
+bunionectomy	caused by	biomechanical imbalance
+repair of toe deformities	caused by	trauma
+bunionectomy	related to	rheumatoid arthritis
+repair of toe deformities	related to	diabetes
+bunionectomy	documented in	medical records
+repair of toe deformities	documented in	operative notes
+bunionectomy	coded using	ICD-10
+repair of toe deformities	coded using	CPT
+bunionectomy	reimbursed by	insurance
+repair of toe deformities	reimbursed by	Medicare
+bunionectomy	studied in	clinical trials
+repair of toe deformities	studied in	research
+bunionectomy	has variant	minimally invasive
+repair of toe deformities	has variant	arthroplasty
+bunionectomy	involves	osteotomy
+repair of toe deformities	involves	fusion
+bunionectomy	requires	crutches
+repair of toe deformities	requires	walking boot
+bunionectomy	followed by	rehabilitation
+repair of toe deformities	followed by	recovery
+bunionectomy	has success rate	high
+repair of toe deformities	has success rate	variable
+bunionectomy	indicated for	severe pain
+repair of toe deformities	indicated for	functional impairment
+bunionectomy	contraindicated in	smokers
+repair of toe deformities	contraindicated in	elderly
+bunionectomy	performs	joint realignment
+repair of toe deformities	performs	tendon lengthening
+bunionectomy	measures	correction angle
+repair of toe deformities	measures	joint flexibility
+bunionectomy	evaluates	postoperative range
+repair of toe deformities	evaluates	healing progress
+bunionectomy	tests	nerve function
+repair of toe deformities	tests	circulation
+bunionectomy	prescribes	pain medication
+repair of toe deformities	prescribes	antibiotics
+bunionectomy	advises	elevation
+repair of toe deformities	advises	ice application
+bunionectomy	monitors	swelling reduction
+repair of toe deformities	monitors	suture site
+bunionectomy	recommends	physical activity
+repair of toe deformities	recommends	toe exercises
+bunionectomy	assesses	patient satisfaction
+repair of toe deformities	assesses	cosmetic result
+bunionectomy	correlates with	quality of life
+repair of toe deformities	correlates with	pain reduction
+bunionectomy	influenced by	surgeon experience
+repair of toe deformities	influenced by	patient compliance
+bunionectomy	predicts	long-term outcome
+repair of toe deformities	predicts	functional recovery

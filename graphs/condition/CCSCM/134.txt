@@ -1,0 +1,100 @@
+other upper respiratory disease	is a	respiratory condition
+other upper respiratory disease	may cause	cough
+other upper respiratory disease	may cause	fever
+other upper respiratory disease	may cause	sore throat
+other upper respiratory disease	may cause	nasal congestion
+other upper respiratory disease	may cause	fatigue
+other upper respiratory disease	may lead to	bronchitis
+other upper respiratory disease	may lead to	sinusitis
+other upper respiratory disease	may complicate	pneumonia
+other upper respiratory disease	is diagnosed via	physical exam
+other upper respiratory disease	is diagnosed via	throat swab
+other upper respiratory disease	is diagnosed via	chest X-ray
+other upper respiratory disease	is treated with	analgesics
+other upper respiratory disease	is treated with	antipyretics
+other upper respiratory disease	is treated with	antihistamines
+other upper respiratory disease	is treated with	decongestants
+other upper respiratory disease	is treated with	antibiotics
+other upper respiratory disease	is prevented by	hand hygiene
+other upper respiratory disease	is prevented by	vaccination
+other upper respiratory disease	is associated with	influenza
+other upper respiratory disease	is associated with	common cold
+other upper respiratory disease	is associated with	COVID-19
+other upper respiratory disease	affects	nasal cavity
+other upper respiratory disease	affects	pharynx
+other upper respiratory disease	affects	larynx
+other upper respiratory disease	has symptom	sneezing
+other upper respiratory disease	has symptom	headache
+other upper respiratory disease	has symptom	body aches
+other upper respiratory disease	has symptom	malaise
+other upper respiratory disease	has risk factor	smoking
+other upper respiratory disease	has risk factor	pollution
+other upper respiratory disease	has risk factor	immunosuppression
+other upper respiratory disease	has risk factor	age
+other upper respiratory disease	may require	hospitalization
+other upper respiratory disease	may require	oxygen therapy
+other upper respiratory disease	may require	respiratory support
+other upper respiratory disease	may recur	chronic condition
+other upper respiratory disease	may trigger	asthma
+other upper respiratory disease	may worsen	COPD
+other upper respiratory disease	is studied in	pulmonology
+other upper respiratory disease	is studied in	epidemiology
+other upper respiratory disease	is monitored via	symptom diary
+other upper respiratory disease	is monitored via	pulse oximetry
+other upper respiratory disease	may result from	viral infection
+other upper respiratory disease	may result from	bacterial infection
+other upper respiratory disease	may result from	fungal infection
+other upper respiratory disease	may result from	allergen exposure
+other upper respiratory disease	may result from	irritant exposure
+other upper respiratory disease	may spread via	droplets
+other upper respiratory disease	may spread via	aerosols
+other upper respiratory disease	may spread via	surfaces
+other upper respiratory disease	has subtype	acute condition
+other upper respiratory disease	has subtype	chronic condition
+other upper respiratory disease	has complication	dehydration
+other upper respiratory disease	has complication	ear infection
+other upper respiratory disease	has complication	secondary infection
+other upper respiratory disease	has treatment	steam inhalation
+other upper respiratory disease	has treatment	saline nasal spray
+other upper respiratory disease	has treatment	throat lozenges
+other upper respiratory disease	has treatment	rest
+other upper respiratory disease	has treatment	fluid intake
+other upper respiratory disease	differs from	lower respiratory disease
+other upper respiratory disease	differs from	pulmonary disease
+other upper respiratory disease	may mimic	allergic rhinitis
+other upper respiratory disease	may mimic	strep throat
+other upper respiratory disease	may mimic	tonsillitis
+other upper respiratory disease	may mimic	epiglottitis
+other upper respiratory disease	may mimic	croup
+other upper respiratory disease	may mimic	pertussis
+other upper respiratory disease	may mimic	diphtheria
+other upper respiratory disease	may mimic	RSV infection
+other upper respiratory disease	may mimic	adenovirus infection
+other upper respiratory disease	may mimic	coronavirus infection
+other upper respiratory disease	may mimic	parainfluenza infection
+other upper respiratory disease	may mimic	rhinovirus infection
+other upper respiratory disease	may mimic	enterovirus infection
+other upper respiratory disease	may mimic	metapneumovirus infection
+other upper respiratory disease	may mimic	bocavirus infection
+other upper respiratory disease	may mimic	influenza infection
+other upper respiratory disease	may mimic	COVID-19 infection
+other upper respiratory disease	may co-occur	otitis media
+other upper respiratory disease	may co-occur	conjunctivitis
+other upper respiratory disease	may co-occur	gastroenteritis
+other upper respiratory disease	may co-occur	lymphadenopathy
+other upper respiratory disease	may co-occur	rash
+other upper respiratory disease	may co-occur	myalgia
+other upper respiratory disease	may co-occur	arthralgia
+other upper respiratory disease	may co-occur	fatigue
+other upper respiratory disease	may co-occur	anorexia
+other upper respiratory disease	may co-occur	insomnia
+other upper respiratory disease	may co-occur	anxiety
+other upper respiratory disease	may co-occur	depression
+other upper respiratory disease	may co-occur	weight loss
+other upper respiratory disease	may co-occur	dyspnea
+other upper respiratory disease	may co-occur	chest pain
+other upper respiratory disease	may co-occur	wheezing
+other upper respiratory disease	may co-occur	hemoptysis
+other upper respiratory disease	may co-occur	cyanosis
+other upper respiratory disease	may co-occur	hypoxia
+other upper respiratory disease	may co-occur	respiratory failure

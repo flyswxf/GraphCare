@@ -1,0 +1,100 @@
+fetal monitoring	is a	medical procedure
+fetal monitoring	used for	assessing fetal health
+fetal monitoring	measures	fetal heart rate
+fetal monitoring	detects	fetal distress
+fetal monitoring	involves	uterine contractions
+fetal monitoring	requires	ultrasound transducer
+fetal monitoring	uses	tocodynamometer
+fetal monitoring	performed during	labor
+fetal monitoring	helps prevent	birth complications
+fetal monitoring	indicates	fetal oxygen levels
+fetal monitoring	correlates with	Apgar score
+fetal monitoring	guides	clinical decisions
+fetal monitoring	reduces	perinatal mortality
+fetal monitoring	alerts to	umbilical cord issues
+fetal monitoring	monitors	fetal movements
+non-stress test	is a type of	fetal monitoring
+contraction stress test	is a type of	fetal monitoring
+biophysical profile	includes	fetal monitoring
+fetal ECG	supplements	fetal monitoring
+fetal pulse oximetry	complements	fetal monitoring
+fetal monitoring	contraindicated in	placenta previa
+fetal monitoring	requires	trained personnel
+fetal monitoring	influenced by	maternal position
+fetal monitoring	affected by	maternal obesity
+fetal monitoring	may lead to	cesarean section
+fetal monitoring	predicts	neonatal acidosis
+fetal monitoring	evaluates	fetal sleep cycles
+fetal monitoring	distinguishes	active labor
+fetal monitoring	assesses	uteroplacental sufficiency
+fetal monitoring	detects	maternal fever
+fetal monitoring	altered by	sedatives
+fetal monitoring	records	baseline variability
+fetal monitoring	identifies	decelerations
+fetal monitoring	measures	acceleration patterns
+fetal monitoring	evaluates	fetal response
+fetal monitoring	correlates with	NICU admission
+fetal monitoring	indicates	meconium aspiration
+fetal monitoring	detects	fetal arrhythmias
+fetal monitoring	requires	sterile technique
+fetal monitoring	documents	progress notes
+fetal monitoring	supports	informed consent
+fetal monitoring	integrates with	electronic health records
+fetal monitoring	alerts	obstetric team
+fetal monitoring	contraindicated in	maternal infections
+fetal monitoring	limited by	maternal movement
+fetal monitoring	improved by	signal processing
+fetal monitoring	validated by	clinical guidelines
+fetal monitoring	predicts	cerebral palsy
+fetal monitoring	assesses	multiple gestations
+fetal monitoring	detects	twin-twin transfusion
+fetal monitoring	evaluates	postdate pregnancies
+fetal monitoring	monitors	high-risk pregnancies
+fetal monitoring	requires	periodic calibration
+fetal monitoring	affected by	electrode placement
+fetal monitoring	indicates	fetal anemia
+fetal monitoring	detects	placental abruption
+fetal monitoring	correlates with	cord pH
+fetal monitoring	predicts	neonatal seizures
+fetal monitoring	evaluates	fetal tone
+fetal monitoring	assesses	fetal breathing
+fetal monitoring	detects	oligohydramnios
+fetal monitoring	altered by	betamethasone
+fetal monitoring	indicates	chorioamnionitis
+fetal monitoring	predicts	hypoxic injury
+fetal monitoring	requires	maternal cooperation
+fetal monitoring	evaluates	vibroacoustic stimulation
+fetal monitoring	detects	fetal hypothyroidism
+fetal monitoring	correlates with	umbilical artery Doppler
+fetal monitoring	predicts	developmental delay
+fetal monitoring	assesses	gestational diabetes
+fetal monitoring	detects	congenital heart defects
+fetal monitoring	altered by	magnesium sulfate
+fetal monitoring	predicts	neonatal encephalopathy
+fetal monitoring	evaluates	fetal growth restriction
+fetal monitoring	correlates with	amniotic fluid index
+fetal monitoring	detects	uterine rupture
+fetal monitoring	indicates	fetal infection
+fetal monitoring	predicts	postpartum hemorrhage
+fetal monitoring	evaluates	breech presentation
+fetal monitoring	detects	nuchal cord
+fetal monitoring	altered by	epidural anesthesia
+fetal monitoring	correlates with	maternal hypertension
+fetal monitoring	predicts	low birth weight
+fetal monitoring	evaluates	premature rupture
+fetal monitoring	detects	fetal hypoxia
+fetal monitoring	indicates	fetal acidosis
+fetal monitoring	altered by	maternal diabetes
+fetal monitoring	correlates with	cord prolapse
+fetal monitoring	predicts	neonatal resuscitation
+fetal monitoring	evaluates	maternal hypoxia
+fetal monitoring	detects	fetal seizures
+fetal monitoring	indicates	fetal hydrops
+fetal monitoring	altered by	tocolytics
+fetal monitoring	correlates with	maternal hemorrhage
+fetal monitoring	predicts	neonatal hypoglycemia
+fetal monitoring	evaluates	fetal malformations
+fetal monitoring	detects	maternal drug use
+fetal monitoring	indicates	fetal thrombocytopenia
+fetal monitoring	altered by	general anesthesia
+fetal monitoring	correlates with	birth asphyxia

@@ -1,0 +1,100 @@
+other anabolic agents	belong to	ATC code A14
+other anabolic agents	are	drugs
+other anabolic agents	stimulate	protein synthesis
+other anabolic agents	promote	muscle growth
+other anabolic agents	may cause	side effects
+side effects	include	liver damage
+side effects	include	virilization
+side effects	include	edema
+other anabolic agents	contraindicated in	prostate cancer
+other anabolic agents	contraindicated in	pregnant women
+other anabolic agents	interact with	anticoagulants
+other anabolic agents	interact with	corticosteroids
+other anabolic agents	used for	muscle wasting
+other anabolic agents	used for	osteoporosis
+other anabolic agents	used for	anemia
+other anabolic agents	include	oxandrolone
+oxandrolone	is	anabolic steroid
+oxandrolone	has	mild androgenic effects
+other anabolic agents	include	nandrolone
+nandrolone	treats	postmenopausal osteoporosis
+other anabolic agents	include	stanozolol
+stanozolol	has	high anabolic ratio
+other anabolic agents	metabolized in	liver
+liver	may develop	toxicity
+other anabolic agents	monitored through	liver function tests
+other anabolic agents	require	prescription
+other anabolic agents	abused by	athletes
+abuse	leads to	health risks
+health risks	include	cardiovascular disease
+other anabolic agents	affect	lipid profile
+lipid profile	shows	decreased HDL
+other anabolic agents	increase	RBC production
+RBC production	causes	polycythemia
+other anabolic agents	alter	glucose metabolism
+glucose metabolism	may lead to	insulin resistance
+other anabolic agents	suppress	HPA axis
+HPA axis suppression	causes	hypogonadism
+hypogonadism	requires	testosterone replacement
+other anabolic agents	contraindicated in	breast cancer
+other anabolic agents	contraindicated in	nephrotic syndrome
+other anabolic agents	absorbed in	GI tract
+GI tract	may experience	irritation
+other anabolic agents	bind to	androgen receptors
+androgen receptors	mediate	effects
+other anabolic agents	have	half-life
+half-life	determines	dosing frequency
+other anabolic agents	excreted in	urine
+urine	may contain	metabolites
+metabolites	detectable in	drug tests
+other anabolic agents	compared to	testosterone
+testosterone	is	natural androgen
+other anabolic agents	derived from	testosterone
+derivation	involves	chemical modification
+chemical modification	enhances	anabolic effects
+other anabolic agents	formulated as	oral tablets
+oral tablets	have	first-pass metabolism
+other anabolic agents	formulated as	injections
+injections	bypass	first-pass metabolism
+other anabolic agents	stored in	adipose tissue
+adipose tissue	prolongs	duration
+other anabolic agents	monitored for	adverse effects
+adverse effects	require	discontinuation
+other anabolic agents	regulated as	controlled substances
+controlled substances	have	legal restrictions
+other anabolic agents	studied in	clinical trials
+clinical trials	assess	efficacy
+clinical trials	assess	safety
+other anabolic agents	have	therapeutic index
+therapeutic index	indicates	safety margin
+other anabolic agents	interact with	CYP3A4 inducers
+CYP3A4 inducers	reduce	plasma levels
+other anabolic agents	interact with	CYP3A4 inhibitors
+CYP3A4 inhibitors	increase	plasma levels
+other anabolic agents	contraindicated in	children
+children	may experience	premature epiphyseal closure
+other anabolic agents	require	dose adjustment
+dose adjustment	based on	renal function
+renal function	assessed by	creatinine clearance
+other anabolic agents	used in	HIV wasting
+HIV wasting	involves	muscle loss
+other anabolic agents	improve	quality of life
+quality of life	measured by	questionnaires
+other anabolic agents	approved by	FDA
+FDA	regulates	drug approval
+other anabolic agents	have	generic versions
+generic versions	reduce	costs
+other anabolic agents	prescribed by	endocrinologists
+endocrinologists	specialize in	hormone disorders
+other anabolic agents	affect	bone mineral density
+bone mineral density	prevents	fractures
+other anabolic agents	increase	nitrogen retention
+nitrogen retention	indicates	anabolic state
+other anabolic agents	decrease	SHBG levels
+SHBG levels	affect	free testosterone
+other anabolic agents	may cause	sleep apnea
+sleep apnea	requires	CPAP therapy
+other anabolic agents	alter	mood
+mood alterations	include	aggression
+other anabolic agents	require	periodic monitoring
+periodic monitoring	ensures	patient safety

@@ -1,0 +1,100 @@
+other dermatological preparations	is a	ATC classification
+other dermatological preparations	belongs to	D category
+D category	includes	dermatological drugs
+other dermatological preparations	contains	skin protectants
+skin protectants	prevent	skin irritation
+other dermatological preparations	includes	emollients
+emollients	treat	dry skin
+other dermatological preparations	contains	barrier creams
+barrier creams	protect against	irritants
+other dermatological preparations	includes	antipruritics
+antipruritics	relieve	itching
+other dermatological preparations	contains	wound healing agents
+wound healing agents	promote	tissue repair
+other dermatological preparations	includes	sunscreen agents
+sunscreen agents	protect against	UV radiation
+other dermatological preparations	contains	antiseptics
+antiseptics	prevent	infection
+other dermatological preparations	includes	astringents
+astringents	reduce	skin secretions
+other dermatological preparations	contains	keratolytics
+keratolytics	treat	hyperkeratosis
+other dermatological preparations	includes	antiperspirants
+antiperspirants	reduce	sweating
+other dermatological preparations	contains	cleansers
+cleansers	remove	skin impurities
+other dermatological preparations	includes	moisturizers
+moisturizers	improve	skin hydration
+other dermatological preparations	contains	topical antifungals
+topical antifungals	treat	fungal infections
+other dermatological preparations	includes	topical antivirals
+topical antivirals	treat	viral skin infections
+other dermatological preparations	contains	topical antibiotics
+topical antibiotics	treat	bacterial infections
+other dermatological preparations	includes	topical corticosteroids
+topical corticosteroids	reduce	inflammation
+other dermatological preparations	contains	topical retinoids
+topical retinoids	treat	acne
+other dermatological preparations	includes	topical immunomodulators
+topical immunomodulators	modify	immune response
+other dermatological preparations	contains	wound dressings
+wound dressings	protect	wounds
+other dermatological preparations	includes	scar treatments
+scar treatments	improve	scar appearance
+other dermatological preparations	contains	skin cleansers
+skin cleansers	maintain	skin hygiene
+other dermatological preparations	includes	bath additives
+bath additives	soothe	skin conditions
+other dermatological preparations	contains	skin tonics
+skin tonics	refresh	skin
+other dermatological preparations	includes	skin lighteners
+skin lighteners	reduce	hyperpigmentation
+other dermatological preparations	contains	depigmenting agents
+depigmenting agents	lighten	skin color
+other dermatological preparations	includes	exfoliants
+exfoliants	remove	dead skin cells
+other dermatological preparations	contains	collagen boosters
+collagen boosters	enhance	skin elasticity
+other dermatological preparations	includes	vitamin E products
+vitamin E products	protect	skin cells
+other dermatological preparations	contains	aloe vera products
+aloe vera products	soothe	skin irritation
+other dermatological preparations	includes	tea tree oil products
+tea tree oil products	have	antimicrobial properties
+other dermatological preparations	contains	zinc oxide products
+zinc oxide products	protect	skin
+other dermatological preparations	includes	calamine products
+calamine products	relieve	itching
+other dermatological preparations	contains	coal tar products
+coal tar products	treat	psoriasis
+other dermatological preparations	includes	salicylic acid products
+salicylic acid products	treat	warts
+other dermatological preparations	contains	urea products
+urea products	moisturize	skin
+other dermatological preparations	includes	lactic acid products
+lactic acid products	exfoliate	skin
+other dermatological preparations	contains	hyaluronic acid products
+hyaluronic acid products	hydrate	skin
+other dermatological preparations	includes	silicone products
+silicone products	protect	scars
+other dermatological preparations	contains	paraffin products
+paraffin products	moisturize	dry skin
+other dermatological preparations	includes	menthol products
+menthol products	cool	skin
+other dermatological preparations	contains	camphor products
+camphor products	relieve	pain
+other dermatological preparations	includes	eucalyptus oil products
+eucalyptus oil products	have	antiseptic properties
+other dermatological preparations	contains	witch hazel products
+witch hazel products	tone	skin
+other dermatological preparations	includes	oatmeal products
+oatmeal products	soothe	eczema
+other dermatological preparations	contains	lavender oil products
+lavender oil products	calm	skin
+other dermatological preparations	includes	chamomile products
+chamomile products	reduce	inflammation
+other dermatological preparations	contains	jojoba oil products
+jojoba oil products	moisturize	skin
+other dermatological preparations	includes	shea butter products
+shea butter products	nourish	skin
+other dermatological preparations	treats	various skin conditions

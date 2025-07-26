@@ -1,0 +1,100 @@
+cancer of stomach	is a	malignancy
+cancer of stomach	originates in	stomach lining
+cancer of stomach	may cause	abdominal pain
+cancer of stomach	may cause	weight loss
+cancer of stomach	may cause	nausea
+cancer of stomach	may cause	vomiting
+cancer of stomach	may cause	bleeding
+cancer of stomach	may cause	anemia
+cancer of stomach	may cause	fatigue
+cancer of stomach	may cause	obstruction
+cancer of stomach	may cause	metastasis
+cancer of stomach	may spread to	lymph nodes
+cancer of stomach	may spread to	liver
+cancer of stomach	may spread to	lungs
+cancer of stomach	may spread to	peritoneum
+cancer of stomach	may spread to	bones
+cancer of stomach	has subtype	adenocarcinoma
+cancer of stomach	has subtype	lymphoma
+cancer of stomach	has subtype	carcinoid tumor
+cancer of stomach	has subtype	gastrointestinal stromal tumor
+cancer of stomach	is diagnosed with	endoscopy
+cancer of stomach	is diagnosed with	biopsy
+cancer of stomach	is diagnosed with	CT scan
+cancer of stomach	is diagnosed with	PET scan
+cancer of stomach	is diagnosed with	MRI
+cancer of stomach	is staged with	TNM system
+cancer of stomach	is treated with	surgery
+cancer of stomach	is treated with	chemotherapy
+cancer of stomach	is treated with	radiation therapy
+cancer of stomach	is treated with	immunotherapy
+cancer of stomach	is treated with	targeted therapy
+cancer of stomach	is treated with	palliative care
+gastrectomy	is a surgery for	cancer of stomach
+chemotherapy	may use	fluorouracil
+chemotherapy	may use	cisplatin
+chemotherapy	may use	oxaliplatin
+chemotherapy	may use	capecitabine
+targeted therapy	may use	trastuzumab
+targeted therapy	may use	ramucirumab
+immunotherapy	may use	pembrolizumab
+radiation therapy	may cause	fatigue
+radiation therapy	may cause	skin irritation
+chemotherapy	may cause	nausea
+chemotherapy	may cause	hair loss
+chemotherapy	may cause	low blood counts
+Helicobacter pylori	increases risk of	cancer of stomach
+smoking	increases risk of	cancer of stomach
+diet high in salted foods	increases risk of	cancer of stomach
+chronic gastritis	increases risk of	cancer of stomach
+pernicious anemia	increases risk of	cancer of stomach
+family history	increases risk of	cancer of stomach
+obesity	increases risk of	cancer of stomach
+EBV infection	increases risk of	cancer of stomach
+blood type A	increases risk of	cancer of stomach
+men	are more likely to develop	cancer of stomach
+older age	increases risk of	cancer of stomach
+partial gastrectomy	increases risk of	cancer of stomach
+Ménétrier disease	increases risk of	cancer of stomach
+genetic mutations	contribute to	cancer of stomach
+CDH1 mutation	increases risk of	cancer of stomach
+TP53 mutation	increases risk of	cancer of stomach
+HER2 amplification	occurs in	cancer of stomach
+microsatellite instability	occurs in	cancer of stomach
+PD-L1 expression	occurs in	cancer of stomach
+tumor markers	include	CEA
+tumor markers	include	CA 19-9
+early satiety	is a symptom of	cancer of stomach
+dysphagia	is a symptom of	cancer of stomach
+indigestion	is a symptom of	cancer of stomach
+heartburn	is a symptom of	cancer of stomach
+bloating	is a symptom of	cancer of stomach
+loss of appetite	is a symptom of	cancer of stomach
+black stools	is a symptom of	cancer of stomach
+vomiting blood	is a symptom of	cancer of stomach
+jaundice	is a symptom of	cancer of stomach
+ascites	is a symptom of	cancer of stomach
+lymphadenopathy	is a symptom of	cancer of stomach
+paraneoplastic syndrome	may occur with	cancer of stomach
+thrombophlebitis	may occur with	cancer of stomach
+acanthosis nigricans	may occur with	cancer of stomach
+DIC	may occur with	cancer of stomach
+prognosis	depends on	stage
+prognosis	depends on	metastasis
+prognosis	depends on	treatment response
+survival rate	decreases with	advanced stage
+survival rate	is higher for	early detection
+screening	includes	endoscopy
+screening	is recommended for	high-risk individuals
+prevention	includes	healthy diet
+prevention	includes	smoking cessation
+prevention	includes	H. pylori treatment
+follow-up	includes	imaging
+follow-up	includes	blood tests
+follow-up	includes	symptom monitoring
+nutritional support	is important for	cancer of stomach
+pain management	is important for	cancer of stomach
+psychological support	is important for	cancer of stomach
+palliative surgery	may be needed for	cancer of stomach
+clinical trials	may offer	new treatments
+multidisciplinary team	manages	cancer of stomach

@@ -1,0 +1,124 @@
+respiratory system diagnostic radiopharmaceuticals	is a	diagnostic tool
+respiratory system diagnostic radiopharmaceuticals	used for	lung imaging
+respiratory system diagnostic radiopharmaceuticals	detects	pulmonary embolism
+respiratory system diagnostic radiopharmaceuticals	evaluates	ventilation function
+respiratory system diagnostic radiopharmaceuticals	assesses	perfusion abnormalities
+respiratory system diagnostic radiopharmaceuticals	contains	radioactive isotopes
+radioactive isotopes	emit	gamma rays
+gamma rays	detected by	gamma camera
+gamma camera	produces	diagnostic images
+diagnostic images	interpreted by	radiologists
+radiologists	diagnose	lung diseases
+lung diseases	include	COPD
+COPD	treated with	bronchodilators
+bronchodilators	relieve	bronchospasm
+bronchospasm	symptom of	asthma
+asthma	managed with	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	caused by	immune response
+immune response	triggered by	allergens
+allergens	cause	allergic reactions
+allergic reactions	may lead to	anaphylaxis
+anaphylaxis	treated with	epinephrine
+epinephrine	administered via	auto-injector
+auto-injector	used in	emergencies
+emergencies	require	rapid response
+rapid response	provided by	paramedics
+paramedics	transport patients	hospitals
+hospitals	have	emergency departments
+emergency departments	treat	acute conditions
+acute conditions	include	respiratory distress
+respiratory distress	assessed with	pulse oximetry
+pulse oximetry	measures	oxygen saturation
+oxygen saturation	indicates	hypoxia
+hypoxia	treated with	oxygen therapy
+oxygen therapy	delivered via	nasal cannula
+nasal cannula	provides	low-flow oxygen
+low-flow oxygen	suitable for	mild hypoxia
+mild hypoxia	caused by	altitude sickness
+altitude sickness	prevented with	acclimatization
+acclimatization	requires	gradual ascent
+gradual ascent	reduces	risk of HAPE
+HAPE	is a	high-altitude pulmonary edema
+high-altitude pulmonary edema	treated with	nifedipine
+nifedipine	is a	calcium channel blocker
+calcium channel blockers	lower	blood pressure
+blood pressure	regulated by	baroreceptors
+baroreceptors	located in	carotid sinus
+carotid sinus	part of	autonomic nervous system
+autonomic nervous system	controls	involuntary functions
+involuntary functions	include	breathing
+breathing	regulated by	respiratory center
+respiratory center	located in	brainstem
+brainstem	controls	vital functions
+vital functions	include	heart rate
+heart rate	affected by	sympathetic nervous system
+sympathetic nervous system	activated by	stress
+stress	increases	cortisol levels
+cortisol levels	measured by	blood tests
+blood tests	detect	hormonal imbalances
+hormonal imbalances	treated with	hormone therapy
+hormone therapy	used for	endocrine disorders
+endocrine disorders	include	diabetes
+diabetes	managed with	insulin
+insulin	regulates	blood glucose
+blood glucose	monitored with	glucometer
+glucometer	used by	diabetic patients
+diabetic patients	prone to	infections
+infections	treated with	antibiotics
+antibiotics	target	bacteria
+bacteria	cause	pneumonia
+pneumonia	diagnosed with	chest X-ray
+chest X-ray	shows	lung infiltrates
+lung infiltrates	indicate	inflammation
+inflammation	treated with	NSAIDs
+NSAIDs	reduce	pain
+pain	managed with	analgesics
+analgesics	include	opioids
+opioids	derived from	poppy plants
+poppy plants	source of	morphine
+morphine	used for	severe pain
+severe pain	experienced in	trauma
+trauma	requires	surgical intervention
+surgical intervention	performed by	surgeons
+surgeons	specialize in	thoracic surgery
+thoracic surgery	involves	lung resection
+lung resection	removes	tumors
+tumors	detected with	PET scans
+PET scans	use	radiotracers
+radiotracers	include	FDG
+FDG	is a	glucose analog
+glucose analog	accumulates in	cancer cells
+cancer cells	metabolize	glucose rapidly
+glucose	provides	energy
+energy	required for	cellular processes
+cellular processes	include	mitosis
+mitosis	regulated by	cell cycle
+cell cycle	disrupted in	cancer
+cancer	treated with	chemotherapy
+chemotherapy	targets	rapidly dividing cells
+rapidly dividing cells	include	hair follicles
+hair follicles	affected by	alopecia
+alopecia	side effect of	chemotherapy
+chemotherapy	monitored with	blood counts
+blood counts	measure	white blood cells
+white blood cells	fight	infections
+infections	prevented with	vaccines
+vaccines	stimulate	immune system
+immune system	produces	antibodies
+antibodies	neutralize	pathogens
+pathogens	cause	diseases
+diseases	prevented with	public health measures
+public health measures	include	sanitation
+sanitation	reduces	disease transmission
+disease transmission	occurs via	respiratory droplets
+respiratory droplets	spread	viruses
+viruses	cause	influenza
+influenza	treated with	antiviral drugs
+antiviral drugs	inhibit	viral replication
+viral replication	requires	host cells
+host cells	invaded by	viruses
+viruses	detected with	PCR tests
+PCR tests	amplify	viral RNA
+viral RNA	sequenced for	variant analysis
+variant analysis	tracks	viral mutations

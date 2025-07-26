@@ -1,0 +1,105 @@
+beta blocking agents	is a	drug class
+thiazides	is a	drug class
+diuretics	is a	drug class
+beta blocking agents	treats	hypertension
+beta blocking agents	treats	angina
+beta blocking agents	treats	arrhythmia
+beta blocking agents	reduces	heart rate
+thiazides	treats	hypertension
+thiazides	treats	edema
+thiazides	reduces	blood volume
+diuretics	promotes	diuresis
+diuretics	treats	heart failure
+diuretics	treats	kidney disease
+beta blocking agents	has side effect	fatigue
+beta blocking agents	has side effect	bradycardia
+thiazides	has side effect	hypokalemia
+thiazides	has side effect	hyperglycemia
+diuretics	has side effect	dehydration
+diuretics	has side effect	electrolyte imbalance
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	contraindicated in	heart block
+thiazides	contraindicated in	sulfa allergy
+thiazides	contraindicated in	anuria
+diuretics	contraindicated in	severe renal impairment
+beta blocking agents	interacts with	calcium channel blockers
+beta blocking agents	interacts with	digoxin
+thiazides	interacts with	lithium
+thiazides	interacts with	NSAIDs
+diuretics	interacts with	ACE inhibitors
+diuretics	interacts with	potassium supplements
+beta blocking agents	metabolized in	liver
+thiazides	excreted via	kidneys
+diuretics	affects	sodium balance
+beta blocking agents	mechanism	beta receptor blockade
+thiazides	mechanism	sodium chloride reabsorption inhibition
+diuretics	mechanism	increased urine output
+beta blocking agents	prescribed for	post-MI patients
+thiazides	prescribed for	nephrotic syndrome
+diuretics	prescribed for	cirrhosis
+beta blocking agents	alternative to	ACE inhibitors
+thiazides	alternative to	loop diuretics
+diuretics	alternative to	aldosterone antagonists
+beta blocking agents	increases risk of	hypotension
+thiazides	increases risk of	gout
+diuretics	increases risk of	hyponatremia
+beta blocking agents	decreases risk of	sudden cardiac death
+thiazides	decreases risk of	stroke
+diuretics	decreases risk of	pulmonary edema
+beta blocking agents	requires monitoring of	blood pressure
+thiazides	requires monitoring of	potassium levels
+diuretics	requires monitoring of	renal function
+beta blocking agents	brand name	propranolol
+beta blocking agents	brand name	metoprolol
+thiazides	brand name	hydrochlorothiazide
+thiazides	brand name	chlorthalidone
+diuretics	brand name	furosemide
+diuretics	brand name	spironolactone
+beta blocking agents	first-line for	essential hypertension
+thiazides	first-line for	uncomplicated hypertension
+diuretics	first-line for	volume overload
+beta blocking agents	pregnancy category	C
+thiazides	pregnancy category	B
+diuretics	pregnancy category	C
+beta blocking agents	onset of action	rapid
+thiazides	onset of action	2 hours
+diuretics	onset of action	30 minutes
+beta blocking agents	half-life	3-6 hours
+thiazides	half-life	6-15 hours
+diuretics	half-life	variable
+beta blocking agents	protein binding	high
+thiazides	protein binding	low
+diuretics	protein binding	moderate
+beta blocking agents	bioavailability	variable
+thiazides	bioavailability	60-70%
+diuretics	bioavailability	10-90%
+beta blocking agents	crosses placenta	yes
+thiazides	crosses placenta	yes
+diuretics	crosses placenta	yes
+beta blocking agents	enters breast milk	yes
+thiazides	enters breast milk	yes
+diuretics	enters breast milk	yes
+beta blocking agents	chemical structure	aryloxypropanolamine
+thiazides	chemical structure	benzothiadiazine
+diuretics	chemical structure	sulfonamide
+beta blocking agents	discovery year	1960s
+thiazides	discovery year	1950s
+diuretics	discovery year	1920s
+beta blocking agents	receptor affinity	beta-1 selective
+thiazides	site of action	distal convoluted tubule
+diuretics	site of action	nephron
+beta blocking agents	affects	cardiac output
+thiazides	affects	extracellular fluid volume
+diuretics	affects	blood pressure
+beta blocking agents	synergistic with	thiazides
+thiazides	synergistic with	ACE inhibitors
+diuretics	synergistic with	beta blocking agents
+beta blocking agents	antagonistic to	theophylline
+thiazides	antagonistic to	vasopressin
+diuretics	antagonistic to	aldosterone
+beta blocking agents	prescription required	yes
+thiazides	prescription required	yes
+diuretics	prescription required	yes
+beta blocking agents	storage condition	room temperature
+thiazides	storage condition	dry place
+diuretics	storage condition	protect from light

@@ -1,0 +1,100 @@
+cardiovascular system diagnostic radiopharmaceuticals	is a	diagnostic tool
+cardiovascular system diagnostic radiopharmaceuticals	used for	myocardial perfusion imaging
+myocardial perfusion imaging	detects	coronary artery disease
+coronary artery disease	causes	heart attack
+heart attack	treated with	antiplatelet drugs
+antiplatelet drugs	include	aspirin
+aspirin	prevents	blood clots
+blood clots	can cause	stroke
+stroke	diagnosed with	CT scan
+CT scan	uses	X-rays
+cardiovascular system diagnostic radiopharmaceuticals	contains	radioactive isotopes
+radioactive isotopes	include	technetium-99m
+technetium-99m	used in	SPECT imaging
+SPECT imaging	provides	3D images
+3D images	help in	diagnosis
+diagnosis	leads to	treatment plan
+treatment plan	may include	angioplasty
+angioplasty	requires	stent placement
+stent placement	prevents	artery blockage
+artery blockage	causes	angina
+cardiovascular system diagnostic radiopharmaceuticals	measure	blood flow
+blood flow	indicates	heart function
+heart function	assessed by	ejection fraction
+ejection fraction	predicts	heart failure
+heart failure	treated with	diuretics
+diuretics	reduce	fluid retention
+fluid retention	causes	edema
+edema	symptom of	kidney disease
+kidney disease	affects	drug metabolism
+drug metabolism	important for	dosage
+cardiovascular system diagnostic radiopharmaceuticals	require	injection
+injection	performed by	healthcare professional
+healthcare professional	follows	safety protocols
+safety protocols	prevent	radiation exposure
+radiation exposure	risk factor for	cancer
+cancer	treated with	chemotherapy
+chemotherapy	side effects include	nausea
+nausea	managed with	antiemetics
+antiemetics	example is	ondansetron
+ondansetron	acts on	serotonin receptors
+cardiovascular system diagnostic radiopharmaceuticals	used in	stress tests
+stress tests	evaluate	exercise capacity
+exercise capacity	indicator of	cardiovascular health
+cardiovascular health	improved by	regular exercise
+regular exercise	reduces	blood pressure
+blood pressure	controlled by	antihypertensives
+antihypertensives	include	ACE inhibitors
+ACE inhibitors	examples are	lisinopril
+lisinopril	affects	renin-angiotensin system
+renin-angiotensin system	regulates	fluid balance
+cardiovascular system diagnostic radiopharmaceuticals	detect	ischemia
+ischemia	leads to	tissue damage
+tissue damage	measured by	biomarkers
+biomarkers	include	troponin
+troponin	indicates	myocardial infarction
+myocardial infarction	requires	emergency care
+emergency care	provided in	hospitals
+hospitals	have	cardiac units
+cardiac units	staffed by	cardiologists
+cardiologists	specialize in	heart diseases
+cardiovascular system diagnostic radiopharmaceuticals	compete with	echocardiography
+echocardiography	uses	ultrasound
+ultrasound	safe for	pregnancy
+pregnancy	increases	blood volume
+blood volume	affects	cardiac output
+cardiac output	calculated by	heart rate
+heart rate	controlled by	pacemaker
+pacemaker	implanted in	surgery
+surgery	requires	anesthesia
+anesthesia	administered by	anesthesiologist
+cardiovascular system diagnostic radiopharmaceuticals	approved by	FDA
+FDA	regulates	medical devices
+medical devices	include	blood pressure monitors
+blood pressure monitors	measure	systolic pressure
+systolic pressure	indicates	arterial stiffness
+arterial stiffness	associated with	aging
+aging	risk factor for	atherosclerosis
+atherosclerosis	treated with	statins
+statins	lower	cholesterol
+cholesterol	produced in	liver
+cardiovascular system diagnostic radiopharmaceuticals	research conducted by	scientists
+scientists	publish in	medical journals
+medical journals	contain	clinical trials
+clinical trials	test	new drugs
+new drugs	developed by	pharmaceutical companies
+pharmaceutical companies	employ	researchers
+researchers	study	molecular targets
+molecular targets	include	receptors
+receptors	bind to	ligands
+ligands	can be	drugs
+cardiovascular system diagnostic radiopharmaceuticals	stored in	lead containers
+lead containers	shield	radiation
+radiation	measured in	sieverts
+sieverts	quantify	health risk
+health risk	assessed by	physicians
+physicians	recommend	preventive care
+preventive care	includes	vaccinations
+vaccinations	prevent	infections
+infections	can cause	myocarditis
+myocarditis	diagnosed with	MRI

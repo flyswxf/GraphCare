@@ -1,0 +1,100 @@
+esophageal disorders	include	GERD
+esophageal disorders	include	achalasia
+esophageal disorders	include	esophagitis
+esophageal disorders	include	Barrett's esophagus
+esophageal disorders	include	esophageal cancer
+GERD	causes	heartburn
+GERD	may lead to	esophagitis
+GERD	may lead to	Barrett's esophagus
+GERD	treated with	PPIs
+achalasia	affects	lower esophageal sphincter
+achalasia	causes	dysphagia
+achalasia	diagnosed with	manometry
+achalasia	treated with	pneumatic dilation
+esophagitis	can be	eosinophilic
+esophagitis	can be	infectious
+esophagitis	causes	odynophagia
+Barrett's esophagus	is a	precancerous condition
+Barrett's esophagus	increases risk of	adenocarcinoma
+Barrett's esophagus	monitored with	endoscopy
+esophageal cancer	has types	squamous cell carcinoma
+esophageal cancer	has types	adenocarcinoma
+esophageal cancer	associated with	smoking
+esophageal cancer	associated with	alcohol
+esophageal cancer	diagnosed with	biopsy
+esophageal cancer	treated with	chemotherapy
+esophageal cancer	treated with	radiation
+esophageal cancer	treated with	esophagectomy
+PPIs	include	omeprazole
+PPIs	include	lansoprazole
+PPIs	reduce	stomach acid
+PPIs	may cause	vitamin B12 deficiency
+pneumatic dilation	uses	balloon catheter
+pneumatic dilation	risks	esophageal perforation
+manometry	measures	esophageal pressure
+manometry	helps diagnose	motility disorders
+dysphagia	may require	feeding tube
+dysphagia	assessed with	barium swallow
+heartburn	relieved by	antacids
+antacids	contain	calcium carbonate
+antacids	may interact with	antibiotics
+endoscopy	uses	flexible tube
+endoscopy	may detect	strictures
+strictures	treated with	dilation
+eosinophilic esophagitis	associated with	allergies
+eosinophilic esophagitis	treated with	steroids
+infectious esophagitis	caused by	candida
+infectious esophagitis	treated with	antifungals
+fluconazole	is an	antifungal
+prednisone	is a	steroid
+chemotherapy	uses	cisplatin
+radiation therapy	may cause	esophagitis
+esophagectomy	requires	anastomosis
+anastomosis	risks	leakage
+feeding tube	types include	PEG
+PEG	stands for	percutaneous endoscopic gastrostomy
+barium swallow	uses	contrast dye
+contrast dye	risks	aspiration
+aspiration	may lead to	pneumonia
+pneumonia	treated with	antibiotics
+antibiotics	include	amoxicillin
+smoking	increases risk of	squamous cell carcinoma
+alcohol	exacerbates	GERD
+vitamin B12 deficiency	causes	anemia
+anemia	symptoms include	fatigue
+fatigue	affects	quality of life
+quality of life	measured by	surveys
+surveys	include	SF-36
+SF-36	assesses	physical function
+physical function	impacts	daily activities
+daily activities	include	eating
+eating difficulties	lead to	weight loss
+weight loss	indicates	malnutrition
+malnutrition	requires	dietary supplements
+dietary supplements	include	protein shakes
+protein shakes	provide	calories
+calories	needed for	energy
+energy	affects	mobility
+mobility	requires	muscle strength
+muscle strength	maintained by	exercise
+exercise	improves	digestion
+digestion	involves	peristalsis
+peristalsis	impaired in	achalasia
+achalasia	may recur after	treatment
+recurrence	detected by	follow-up
+follow-up	involves	imaging
+imaging	includes	CT scan
+CT scan	uses	x-rays
+x-rays	expose to	radiation
+radiation	risks	cancer
+cancer	screened for	early detection
+early detection	improves	prognosis
+prognosis	depends on	stage
+stage	determined by	TNM classification
+TNM classification	evaluates	tumor size
+tumor size	affects	treatment options
+treatment options	include	immunotherapy
+immunotherapy	uses	checkpoint inhibitors
+checkpoint inhibitors	target	PD-1
+PD-1	is a	protein
+protein	encoded by	genes

@@ -1,0 +1,100 @@
+nausea and vomiting	is a symptom of	gastroenteritis
+nausea and vomiting	may indicate	pregnancy
+nausea and vomiting	is caused by	food poisoning
+nausea and vomiting	is associated with	chemotherapy
+nausea and vomiting	may result from	migraine
+nausea and vomiting	occurs in	motion sickness
+nausea and vomiting	is linked to	appendicitis
+nausea and vomiting	can signal	brain tumor
+nausea and vomiting	accompanies	pancreatitis
+nausea and vomiting	follows	anesthesia
+nausea and vomiting	is treated with	antiemetics
+ondansetron	is an	antiemetic
+metoclopramide	treats	nausea and vomiting
+nausea and vomiting	worsens	dehydration
+dehydration	requires	fluid replacement
+nausea and vomiting	may lead to	electrolyte imbalance
+electrolyte imbalance	affects	heart function
+nausea and vomiting	is evaluated with	blood tests
+nausea and vomiting	may need	imaging
+nausea and vomiting	is common in	COVID-19
+nausea and vomiting	occurs with	concussions
+nausea and vomiting	relates to	GERD
+GERD	causes	stomach acid reflux
+nausea and vomiting	is seen in	cholecystitis
+nausea and vomiting	accompanies	kidney stones
+nausea and vomiting	may follow	surgery
+nausea and vomiting	is managed with	ginger
+nausea and vomiting	is aggravated by	strong odors
+nausea and vomiting	may indicate	diabetic ketoacidosis
+nausea and vomiting	is a side effect of	opioids
+morphine	is an	opioid
+nausea and vomiting	occurs in	Crohn's disease
+nausea and vomiting	may signal	intestinal obstruction
+intestinal obstruction	requires	surgical intervention
+nausea and vomiting	is linked to	hepatitis
+hepatitis	affects	liver function
+nausea and vomiting	may result from	alcohol abuse
+nausea and vomiting	is seen in	peptic ulcers
+peptic ulcers	are caused by	H. pylori
+nausea and vomiting	accompanies	gastroparesis
+gastroparesis	delays	stomach emptying
+nausea and vomiting	may indicate	heart attack
+nausea and vomiting	is associated with	meningitis
+meningitis	involves	brain inflammation
+nausea and vomiting	occurs in	Addison's disease
+nausea and vomiting	may follow	radiation therapy
+nausea and vomiting	is treated with	dopamine antagonists
+prochlorperazine	is a	dopamine antagonist
+nausea and vomiting	is reduced by	acupressure
+nausea and vomiting	may signal	sepsis
+sepsis	is a	life-threatening condition
+nausea and vomiting	is common in	norovirus
+nausea and vomiting	may lead to	weight loss
+weight loss	affects	nutritional status
+nausea and vomiting	is seen in	Zollinger-Ellison syndrome
+nausea and vomiting	may indicate	hypercalcemia
+hypercalcemia	elevates	blood calcium
+nausea and vomiting	accompanies	vertigo
+vertigo	causes	dizziness
+nausea and vomiting	is linked to	anxiety
+anxiety	triggers	stress response
+nausea and vomiting	may result from	iron supplements
+nausea and vomiting	is seen in	cyclic vomiting syndrome
+nausea and vomiting	may indicate	adrenal insufficiency
+adrenal insufficiency	reduces	cortisol
+nausea and vomiting	occurs in	Meniere's disease
+nausea and vomiting	is associated with	gallbladder disease
+gallbladder disease	may require	cholecystectomy
+nausea and vomiting	may signal	bowel ischemia
+bowel ischemia	reduces	blood flow
+nausea and vomiting	is treated with	serotonin antagonists
+granisetron	is a	serotonin antagonist
+nausea and vomiting	is relieved by	peppermint
+nausea and vomiting	may follow	chemotherapy
+nausea and vomiting	is seen in	gastritis
+gastritis	inflames	stomach lining
+nausea and vomiting	may indicate	hyponatremia
+hyponatremia	lowers	sodium levels
+nausea and vomiting	accompanies	labyrinthitis
+labyrinthitis	affects	inner ear
+nausea and vomiting	is linked to	opioid withdrawal
+opioid withdrawal	causes	discomfort
+nausea and vomiting	may result from	overeating
+nausea and vomiting	is seen in	food allergies
+food allergies	trigger	immune response
+nausea and vomiting	may indicate	heatstroke
+heatstroke	raises	body temperature
+nausea and vomiting	is treated with	antihistamines
+dimenhydrinate	is an	antihistamine
+nausea and vomiting	is reduced by	small meals
+nausea and vomiting	may signal	bowel perforation
+bowel perforation	requires	emergency care
+nausea and vomiting	is seen in	celiac disease
+celiac disease	damages	small intestine
+nausea and vomiting	may indicate	uremia
+uremia	results from	kidney failure
+nausea and vomiting	accompanies	vestibular neuritis
+vestibular neuritis	involves	nerve inflammation
+nausea and vomiting	is linked to	cannabis use
+cannabis use	may cause	dizziness

@@ -1,0 +1,100 @@
+pleurisy	is an	inflammation
+pleurisy	affects	pleura
+pleurisy	may cause	chest pain
+pleurisy	may cause	dyspnea
+pleurisy	is caused by	infection
+pleurisy	is caused by	pulmonary embolism
+pleurisy	is diagnosed with	chest X-ray
+pleurisy	is treated with	NSAIDs
+pleurisy	is treated with	antibiotics
+pleurisy	may lead to	pleural effusion
+pneumothorax	is a	lung collapse
+pneumothorax	caused by	trauma
+pneumothorax	caused by	lung disease
+pneumothorax	may cause	chest pain
+pneumothorax	may cause	hypoxia
+pneumothorax	is diagnosed with	chest X-ray
+pneumothorax	is treated with	chest tube
+pneumothorax	may recur	spontaneous pneumothorax
+pneumothorax	risk factor	smoking
+pneumothorax	risk factor	tall stature
+pulmonary collapse	is a	lung condition
+pulmonary collapse	caused by	obstruction
+pulmonary collapse	caused by	compression
+pulmonary collapse	may cause	respiratory failure
+pulmonary collapse	is diagnosed with	CT scan
+pulmonary collapse	is treated with	bronchoscopy
+pulmonary collapse	may lead to	atelectasis
+pulmonary collapse	risk factor	anesthesia
+pulmonary collapse	risk factor	surgery
+pulmonary collapse	complication	pneumonia
+pleurisy	may lead to	pneumothorax
+pneumothorax	may lead to	pulmonary collapse
+pulmonary collapse	may cause	pleurisy
+chest X-ray	detects	pneumothorax
+chest X-ray	detects	pulmonary collapse
+CT scan	confirms	pneumothorax
+CT scan	confirms	pulmonary collapse
+NSAIDs	reduce	pleurisy pain
+antibiotics	treat	infectious pleurisy
+chest tube	drains	pneumothorax
+oxygen therapy	manages	pneumothorax
+oxygen therapy	manages	pulmonary collapse
+bronchoscopy	removes	obstruction
+pneumonia	may cause	pleurisy
+pneumonia	may cause	pulmonary collapse
+pleural effusion	complicates	pleurisy
+pleural effusion	treated with	thoracentesis
+thoracentesis	drains	pleural effusion
+smoking	increases risk	pneumothorax
+smoking	increases risk	pulmonary collapse
+asthma	increases risk	pneumothorax
+COPD	increases risk	pneumothorax
+COPD	increases risk	pulmonary collapse
+cystic fibrosis	increases risk	pneumothorax
+cystic fibrosis	increases risk	pulmonary collapse
+tuberculosis	may cause	pleurisy
+tuberculosis	may cause	pulmonary collapse
+lung cancer	may cause	pneumothorax
+lung cancer	may cause	pulmonary collapse
+pulmonary fibrosis	increases risk	pneumothorax
+pulmonary fibrosis	increases risk	pulmonary collapse
+mechanical ventilation	risk factor	pneumothorax
+mechanical ventilation	risk factor	pulmonary collapse
+thoracic surgery	risk factor	pneumothorax
+thoracic surgery	risk factor	pulmonary collapse
+pleurodesis	treats	recurrent pneumothorax
+pleurodesis	prevents	pneumothorax recurrence
+pleurodesis	involves	sclerosing agent
+sclerosing agent	induces	pleural adhesion
+pleural adhesion	prevents	pneumothorax
+analgesics	manage	pleurisy pain
+analgesics	manage	pneumothorax pain
+corticosteroids	reduce	pleurisy inflammation
+corticosteroids	risk factor	pneumothorax
+corticosteroids	risk factor	pulmonary collapse
+atelectasis	may progress	pulmonary collapse
+atelectasis	treated with	incentive spirometry
+incentive spirometry	prevents	atelectasis
+pulmonary rehab	improves	lung function
+pulmonary rehab	reduces	pneumothorax risk
+pulmonary rehab	reduces	pulmonary collapse risk
+respiratory therapist	manages	pneumothorax
+respiratory therapist	manages	pulmonary collapse
+pulmonologist	diagnoses	pleurisy
+pulmonologist	diagnoses	pneumothorax
+pulmonologist	diagnoses	pulmonary collapse
+emergency department	treats	pneumothorax
+emergency department	treats	pulmonary collapse
+hospitalization	required for	large pneumothorax
+hospitalization	required for	severe pulmonary collapse
+mortality	increased by	tension pneumothorax
+mortality	increased by	massive pulmonary collapse
+readmission	risk factor	recurrent pneumothorax
+readmission	risk factor	untreated pleurisy
+readmission	risk factor	unresolved pulmonary collapse
+chest ultrasound	detects	pleural effusion
+chest ultrasound	detects	pneumothorax
+chest ultrasound	detects	pulmonary collapse
+blood test	detects	infectious pleurisy
+blood test	detects	inflammatory markers

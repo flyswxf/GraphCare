@@ -1,0 +1,100 @@
+Parkinson's disease	is a	neurodegenerative disorder
+Parkinson's disease	affects	dopamine neurons
+Parkinson's disease	causes	motor symptoms
+Parkinson's disease	causes	non-motor symptoms
+Parkinson's disease	is associated with	alpha-synuclein
+Parkinson's disease	has symptom	tremor
+Parkinson's disease	has symptom	bradykinesia
+Parkinson's disease	has symptom	rigidity
+Parkinson's disease	has symptom	postural instability
+Parkinson's disease	may cause	dementia
+Parkinson's disease	may cause	depression
+Parkinson's disease	may cause	sleep disorders
+Parkinson's disease	may cause	constipation
+Parkinson's disease	may cause	hyposmia
+Parkinson's disease	is treated with	levodopa
+Parkinson's disease	is treated with	dopamine agonists
+Parkinson's disease	is treated with	MAO-B inhibitors
+Parkinson's disease	is treated with	COMT inhibitors
+Parkinson's disease	is treated with	anticholinergics
+Parkinson's disease	may require	deep brain stimulation
+Levodopa	is converted to	dopamine
+Levodopa	is combined with	carbidopa
+Carbidopa	prevents	peripheral breakdown of levodopa
+Dopamine agonists	mimic	dopamine
+Dopamine agonists	include	pramipexole
+Dopamine agonists	include	ropinirole
+MAO-B inhibitors	increase	dopamine levels
+MAO-B inhibitors	include	selegiline
+MAO-B inhibitors	include	rasagiline
+COMT inhibitors	prolong	levodopa effect
+COMT inhibitors	include	entacapone
+Anticholinergics	reduce	tremor
+Anticholinergics	include	trihexyphenidyl
+Deep brain stimulation	targets	subthalamic nucleus
+Deep brain stimulation	targets	globus pallidus
+Parkinson's disease	increases risk of	falls
+Parkinson's disease	increases risk of	pneumonia
+Parkinson's disease	increases risk of	dysphagia
+Dysphagia	may lead to	aspiration
+Parkinson's disease	affects	gait
+Parkinson's disease	causes	freezing of gait
+Parkinson's disease	may cause	orthostatic hypotension
+Orthostatic hypotension	increases risk of	falls
+Parkinson's disease	is diagnosed with	neurological exam
+Parkinson's disease	may show	response to levodopa
+Parkinson's disease	has pathological hallmark	Lewy bodies
+Lewy bodies	contain	alpha-synuclein
+Parkinson's disease	may progress to	Parkinson's disease dementia
+Parkinson's disease dementia	affects	cognition
+Parkinson's disease dementia	differs from	Alzheimer's disease
+Parkinson's disease	has genetic forms	familial Parkinson's
+LRRK2	is a gene for	Parkinson's disease
+Parkin	is a gene for	Parkinson's disease
+PINK1	is a gene for	Parkinson's disease
+DJ-1	is a gene for	Parkinson's disease
+Parkinson's disease	has environmental risk factors
+Pesticide exposure	increases risk of	Parkinson's disease
+Head trauma	increases risk of	Parkinson's disease
+Parkinson's disease	has protective factor	caffeine
+Parkinson's disease	has protective factor	nicotine
+Parkinson's disease	affects	quality of life
+Parkinson's disease	requires	multidisciplinary care
+Parkinson's disease	benefits from	physical therapy
+Parkinson's disease	benefits from	occupational therapy
+Parkinson's disease	benefits from	speech therapy
+Parkinson's disease	may cause	dysarthria
+Dysarthria	affects	speech clarity
+Parkinson's disease	may cause	micrographia
+Parkinson's disease	may cause	masked facies
+Parkinson's disease	has staging system	Hoehn and Yahr
+Hoehn and Yahr scale	measures	disease progression
+Parkinson's disease	has rating scale	UPDRS
+UPDRS	assesses	motor symptoms
+UPDRS	assesses	non-motor symptoms
+Parkinson's disease	may have	wearing-off phenomenon
+Wearing-off phenomenon	refers to	medication effect decline
+Parkinson's disease	may develop	dyskinesias
+Dyskinesias	are caused by	long-term levodopa use
+Parkinson's disease	has differential diagnosis	essential tremor
+Parkinson's disease	differs from	multiple system atrophy
+Parkinson's disease	differs from	progressive supranuclear palsy
+Parkinson's disease	has research focus	neuroprotection
+Parkinson's disease	has experimental treatment	stem cell therapy
+Parkinson's disease	has experimental treatment	gene therapy
+Parkinson's disease	affects	caregivers
+Caregivers	experience	burden
+Parkinson's disease	increases healthcare utilization
+Parkinson's disease	has association	REM sleep behavior disorder
+REM sleep behavior disorder	precedes	Parkinson's disease
+Parkinson's disease	may cause	urinary dysfunction
+Parkinson's disease	may cause	sexual dysfunction
+Parkinson's disease	affects	mood
+Parkinson's disease	may cause	anxiety
+Parkinson's disease	has comorbidity	impulse control disorders
+Dopamine agonists	may cause	impulse control disorders
+Parkinson's disease	requires	medication adjustment
+Parkinson's disease	has nutritional considerations
+Protein intake	affects	levodopa absorption
+Parkinson's disease	has palliative care needs
+Parkinson's disease	affects	life expectancy

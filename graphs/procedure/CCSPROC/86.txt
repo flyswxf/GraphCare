@@ -1,0 +1,100 @@
+other hernia repair	is a	surgical procedure
+other hernia repair	treats	hernia
+hernia	is a	medical condition
+hernia	involves	organ protrusion
+organ protrusion	occurs in	abdominal wall
+abdominal wall	has	muscle layers
+muscle layers	can have	weakness
+weakness	leads to	hernia formation
+other hernia repair	uses	mesh
+mesh	reinforces	tissue
+tissue	needs	healing
+healing	requires	time
+other hernia repair	has	complications
+complications	include	infection
+infection	requires	antibiotics
+antibiotics	fight	bacteria
+bacteria	cause	inflammation
+inflammation	affects	recovery
+other hernia repair	performed by	surgeon
+surgeon	specializes in	general surgery
+general surgery	includes	abdominal procedures
+abdominal procedures	need	anesthesia
+anesthesia	induces	unconsciousness
+unconsciousness	prevents	pain
+pain	managed by	analgesics
+analgesics	include	opioids
+opioids	have	side effects
+side effects	include	nausea
+nausea	treated with	antiemetics
+other hernia repair	has	recurrence risk
+recurrence risk	reduced by	mesh
+mesh	made of	synthetic material
+synthetic material	causes	foreign body reaction
+foreign body reaction	leads to	scarring
+scarring	affects	tissue flexibility
+other hernia repair	requires	preoperative assessment
+preoperative assessment	includes	imaging
+imaging	shows	hernia size
+hernia size	determines	repair technique
+repair technique	affects	recovery time
+recovery time	influences	return to work
+return to work	depends on	job type
+job type	may require	physical labor
+physical labor	delays	full recovery
+other hernia repair	followed by	physical therapy
+physical therapy	strengthens	core muscles
+core muscles	support	abdomen
+abdomen	contains	digestive organs
+digestive organs	affected by	postoperative ileus
+postoperative ileus	causes	bloating
+bloating	relieved by	early ambulation
+early ambulation	prevents	blood clots
+blood clots	risk factor for	pulmonary embolism
+pulmonary embolism	is a	life-threatening condition
+other hernia repair	contraindicated in	severe comorbidities
+severe comorbidities	include	heart failure
+heart failure	increases	surgical risk
+surgical risk	assessed by	anesthesiologist
+anesthesiologist	monitors	vital signs
+vital signs	include	blood pressure
+blood pressure	affected by	anesthesia
+anesthesia	can cause	hypotension
+hypotension	treated with	vasopressors
+vasopressors	increase	vascular resistance
+other hernia repair	has	laparoscopic option
+laparoscopic option	uses	small incisions
+small incisions	reduce	postoperative pain
+postoperative pain	managed by	PCA pump
+PCA pump	delivers	opioid analgesia
+opioid analgesia	risks	respiratory depression
+respiratory depression	monitored by	pulse oximetry
+pulse oximetry	measures	oxygen saturation
+oxygen saturation	indicates	lung function
+lung function	impaired by	atelectasis
+atelectasis	prevented by	incentive spirometry
+other hernia repair	requires	postoperative follow-up
+postoperative follow-up	checks	wound healing
+wound healing	affected by	diabetes
+diabetes	impairs	immune response
+immune response	fights	infection
+infection	manifests as	fever
+fever	indicates	inflammation
+inflammation	treated with	NSAIDs
+NSAIDs	reduce	swelling
+swelling	causes	discomfort
+discomfort	affects	quality of life
+quality of life	improved by	successful surgery
+successful surgery	depends on	surgical skill
+surgical skill	acquired through	residency training
+residency training	includes	hernia repairs
+hernia repairs	vary in	complexity
+complexity	increases with	recurrent hernias
+recurrent hernias	need	specialized techniques
+specialized techniques	include	component separation
+component separation	mobilizes	muscle flaps
+muscle flaps	provide	tension-free repair
+tension-free repair	reduces	recurrence
+recurrence	leads to	reoperation
+reoperation	carries	higher risks
+higher risks	require	careful patient selection

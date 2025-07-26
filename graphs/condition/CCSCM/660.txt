@@ -1,0 +1,100 @@
+alcohol-related disorders	include	alcohol dependence
+alcohol-related disorders	include	alcohol abuse
+alcohol-related disorders	may cause	liver cirrhosis
+alcohol-related disorders	may cause	pancreatitis
+alcohol-related disorders	increase risk of	depression
+alcohol-related disorders	increase risk of	anxiety
+alcohol-related disorders	may lead to	Wernicke-Korsakoff syndrome
+alcohol-related disorders	are associated with	malnutrition
+alcohol-related disorders	may cause	gastritis
+alcohol-related disorders	increase risk of	esophageal cancer
+alcohol-related disorders	increase risk of	liver cancer
+alcohol-related disorders	may cause	cardiomyopathy
+alcohol-related disorders	may cause	peripheral neuropathy
+alcohol-related disorders	are diagnosed with	AUDIT
+alcohol-related disorders	are treated with	benzodiazepines
+alcohol-related disorders	are treated with	naltrexone
+alcohol-related disorders	are treated with	acamprosate
+alcohol-related disorders	are treated with	disulfiram
+alcohol-related disorders	may require	detoxification
+alcohol-related disorders	may require	rehabilitation
+alcohol-related disorders	increase risk of	suicide
+alcohol-related disorders	may cause	fetal alcohol syndrome
+alcohol-related disorders	are associated with	domestic violence
+alcohol-related disorders	increase risk of	accidents
+alcohol-related disorders	increase risk of	traumatic brain injury
+alcohol-related disorders	may cause	alcoholic hepatitis
+alcohol-related disorders	may cause	hepatic encephalopathy
+alcohol-related disorders	may cause	ascites
+alcohol-related disorders	may cause	variceal bleeding
+alcohol-related disorders	increase risk of	pneumonia
+alcohol-related disorders	impair	immune system
+alcohol-related disorders	may cause	thiamine deficiency
+alcohol-related disorders	may cause	folate deficiency
+alcohol-related disorders	may cause	vitamin B12 deficiency
+alcohol-related disorders	increase risk of	osteoporosis
+alcohol-related disorders	may cause	hypoglycemia
+alcohol-related disorders	may cause	hypertriglyceridemia
+alcohol-related disorders	may cause	gout
+alcohol-related disorders	are associated with	insomnia
+alcohol-related disorders	may cause	seizures
+alcohol-related disorders	may cause	delirium tremens
+alcohol-related disorders	are managed with	psychosocial therapy
+alcohol-related disorders	are managed with	cognitive behavioral therapy
+alcohol-related disorders	are managed with	motivational interviewing
+alcohol-related disorders	increase risk of	STIs
+alcohol-related disorders	increase risk of	unplanned pregnancy
+alcohol-related disorders	are associated with	unemployment
+alcohol-related disorders	are associated with	homelessness
+alcohol-related disorders	increase risk of	incarceration
+alcohol-related disorders	may cause	dementia
+alcohol-related disorders	may cause	Wernicke encephalopathy
+alcohol-related disorders	may cause	Korsakoff psychosis
+alcohol-related disorders	may cause	cerebellar degeneration
+alcohol-related disorders	may cause	myopathy
+alcohol-related disorders	increase risk of	cardiovascular disease
+alcohol-related disorders	increase risk of	hypertension
+alcohol-related disorders	may cause	arrhythmias
+alcohol-related disorders	may cause	stroke
+alcohol-related disorders	increase risk of	breast cancer
+alcohol-related disorders	increase risk of	oral cancer
+alcohol-related disorders	increase risk of	colorectal cancer
+alcohol-related disorders	are screened with	CAGE questionnaire
+alcohol-related disorders	are associated with	family history
+alcohol-related disorders	are associated with	genetic predisposition
+alcohol-related disorders	are associated with	early exposure
+alcohol-related disorders	are associated with	trauma
+alcohol-related disorders	are associated with	peer pressure
+alcohol-related disorders	are associated with	stress
+alcohol-related disorders	are associated with	PTSD
+alcohol-related disorders	are associated with	other substance abuse
+alcohol-related disorders	may cause	pancreatitis
+alcohol-related disorders	may cause	diabetes complications
+alcohol-related disorders	increase risk of	falls
+alcohol-related disorders	increase risk of	fractures
+alcohol-related disorders	may cause	sexual dysfunction
+alcohol-related disorders	may cause	infertility
+alcohol-related disorders	are associated with	poor adherence
+alcohol-related disorders	increase healthcare costs
+alcohol-related disorders	increase hospital readmissions
+alcohol-related disorders	increase mortality
+alcohol-related disorders	are prevented with	education
+alcohol-related disorders	are prevented with	policy regulation
+alcohol-related disorders	are prevented with	early intervention
+alcohol-related disorders	are monitored with	liver function tests
+alcohol-related disorders	are monitored with	CDT
+alcohol-related disorders	are monitored with	GGT
+alcohol-related disorders	may require	liver transplant
+alcohol-related disorders	complicate	surgical outcomes
+alcohol-related disorders	complicate	anesthesia
+alcohol-related disorders	increase risk of	medication interactions
+alcohol-related disorders	are associated with	polypharmacy
+alcohol-related disorders	are managed in	primary care
+alcohol-related disorders	are managed in	specialty clinics
+alcohol-related disorders	require	multidisciplinary approach
+alcohol-related disorders	affect	quality of life
+alcohol-related disorders	affect	work performance
+alcohol-related disorders	affect	relationships
+alcohol-related disorders	are studied in	addiction research
+alcohol-related disorders	have	socioeconomic impact
+alcohol-related disorders	are addressed in	public health campaigns

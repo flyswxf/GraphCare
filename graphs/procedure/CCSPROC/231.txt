@@ -1,0 +1,100 @@
+other therapeutic procedures	include	physical therapy
+other therapeutic procedures	include	occupational therapy
+other therapeutic procedures	include	speech therapy
+other therapeutic procedures	include	radiation therapy
+other therapeutic procedures	include	psychotherapy
+other therapeutic procedures	include	acupuncture
+other therapeutic procedures	include	chiropractic care
+other therapeutic procedures	include	massage therapy
+other therapeutic procedures	include	hydrotherapy
+other therapeutic procedures	include	electroconvulsive therapy
+physical therapy	treats	musculoskeletal disorders
+occupational therapy	improves	daily functioning
+speech therapy	assists	communication disorders
+radiation therapy	targets	cancer cells
+psychotherapy	addresses	mental health conditions
+acupuncture	alleviates	chronic pain
+chiropractic care	focuses	spinal alignment
+massage therapy	reduces	muscle tension
+hydrotherapy	utilizes	water for rehabilitation
+electroconvulsive therapy	treats	severe depression
+musculoskeletal disorders	may require	assistive devices
+daily functioning	involves	motor skills
+communication disorders	include	aphasia
+cancer cells	are targeted by	chemotherapy
+mental health conditions	encompass	anxiety disorders
+chronic pain	can be managed by	painkillers
+spinal alignment	affects	nervous system
+muscle tension	leads to	headaches
+water for rehabilitation	improves	circulation
+severe depression	may require	hospitalization
+assistive devices	include	wheelchairs
+motor skills	are developed in	pediatric therapy
+aphasia	results from	stroke
+chemotherapy	has side effects	nausea
+anxiety disorders	are treated with	anti-anxiety medications
+painkillers	can cause	dependency
+nervous system	controls	body movements
+headaches	can be relieved by	relaxation techniques
+circulation	is essential for	wound healing
+hospitalization	involves	medical monitoring
+wheelchairs	improve	mobility
+pediatric therapy	supports	child development
+stroke	can lead to	paralysis
+nausea	is managed by	antiemetics
+anti-anxiety medications	include	benzodiazepines
+dependency	requires	addiction treatment
+body movements	are coordinated by	cerebellum
+relaxation techniques	include	deep breathing
+wound healing	depends on	nutrition
+medical monitoring	includes	vital signs
+mobility	enhances	quality of life
+child development	involves	cognitive skills
+paralysis	may require	rehabilitation
+antiemetics	prevent	vomiting
+benzodiazepines	can cause	drowsiness
+addiction treatment	includes	counseling
+cerebellum	is part of	brain
+deep breathing	reduces	stress
+nutrition	supports	immune system
+vital signs	include	blood pressure
+quality of life	is measured by	health surveys
+cognitive skills	involve	memory
+rehabilitation	requires	multidisciplinary team
+vomiting	leads to	dehydration
+drowsiness	affects	alertness
+counseling	provides	emotional support
+brain	controls	consciousness
+stress	triggers	cortisol release
+immune system	fights	infections
+blood pressure	is regulated by	heart
+health surveys	assess	patient satisfaction
+memory	declines with	aging
+multidisciplinary team	includes	nurses
+dehydration	requires	fluid replacement
+alertness	is essential for	driving
+emotional support	improves	mental well-being
+consciousness	is altered by	anesthesia
+cortisol release	affects	metabolism
+infections	are treated with	antibiotics
+heart	pumps	blood
+patient satisfaction	influences	hospital ratings
+aging	increases risk of	chronic diseases
+nurses	administer	medications
+fluid replacement	prevents	electrolyte imbalance
+driving	requires	coordination
+mental well-being	is linked to	social connections
+anesthesia	is used in	surgeries
+metabolism	affects	body weight
+antibiotics	target	bacteria
+blood	carries	oxygen
+hospital ratings	impact	funding
+chronic diseases	require	long-term care
+medications	have	dosage instructions
+electrolyte imbalance	causes	muscle cramps
+coordination	involves	proprioception
+social connections	reduce	loneliness
+surgeries	need	sterile environment
+body weight	is influenced by	diet
+bacteria	can develop	resistance
+oxygen	is essential for	cell function

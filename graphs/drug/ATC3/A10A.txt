@@ -1,0 +1,100 @@
+insulins and analogues	is a	diabetes treatment
+insulins and analogues	regulates	blood glucose
+blood glucose	affects	diabetes complications
+insulins and analogues	includes	human insulin
+human insulin	produced by	recombinant DNA technology
+insulins and analogues	includes	insulin analogues
+insulin analogues	have	modified structures
+modified structures	improve	pharmacokinetics
+insulins and analogues	administered via	injection
+injection	requires	syringe
+syringe	has	needle
+needle	may cause	injection site reactions
+insulins and analogues	classified by	duration of action
+duration of action	determines	dosing frequency
+dosing frequency	affects	patient compliance
+insulins and analogues	includes	rapid-acting insulin
+rapid-acting insulin	starts working	15 minutes
+rapid-acting insulin	peaks	1 hour
+rapid-acting insulin	duration	2-4 hours
+insulins and analogues	includes	short-acting insulin
+short-acting insulin	starts working	30 minutes
+short-acting insulin	peaks	2-3 hours
+short-acting insulin	duration	3-6 hours
+insulins and analogues	includes	intermediate-acting insulin
+intermediate-acting insulin	starts working	2-4 hours
+intermediate-acting insulin	peaks	4-12 hours
+intermediate-acting insulin	duration	12-18 hours
+insulins and analogues	includes	long-acting insulin
+long-acting insulin	starts working	several hours
+long-acting insulin	has	flat profile
+long-acting insulin	duration	24 hours
+insulins and analogues	includes	ultra-long-acting insulin
+ultra-long-acting insulin	duration	42 hours
+insulin analogues	includes	insulin lispro
+insulin lispro	is	rapid-acting
+insulin analogues	includes	insulin aspart
+insulin aspart	is	rapid-acting
+insulin analogues	includes	insulin glulisine
+insulin glulisine	is	rapid-acting
+insulin analogues	includes	insulin glargine
+insulin glargine	is	long-acting
+insulin analogues	includes	insulin detemir
+insulin detemir	is	long-acting
+insulin analogues	includes	insulin degludec
+insulin degludec	is	ultra-long-acting
+insulins and analogues	stored in	refrigerator
+refrigerator	maintains	potency
+potency	affects	efficacy
+insulins and analogues	requires	dose adjustment
+dose adjustment	based on	blood sugar levels
+blood sugar levels	measured by	glucometer
+glucometer	uses	test strips
+insulins and analogues	may cause	hypoglycemia
+hypoglycemia	symptoms include	dizziness
+hypoglycemia	symptoms include	sweating
+hypoglycemia	symptoms include	confusion
+hypoglycemia	treated with	glucose
+glucose	available as	tablets
+glucose	available as	gel
+insulins and analogues	may cause	weight gain
+weight gain	increases	cardiovascular risk
+insulins and analogues	may cause	injection site lipodystrophy
+lipodystrophy	affects	insulin absorption
+insulins and analogues	may cause	allergic reactions
+allergic reactions	symptoms include	rash
+allergic reactions	symptoms include	itching
+allergic reactions	symptoms include	swelling
+insulins and analogues	interacts with	beta blockers
+beta blockers	mask	hypoglycemia symptoms
+insulins and analogues	interacts with	corticosteroids
+corticosteroids	increase	blood sugar
+insulins and analogues	interacts with	thiazide diuretics
+thiazide diuretics	increase	blood sugar
+insulins and analogues	contraindicated in	hypoglycemia
+insulins and analogues	prescribed for	type 1 diabetes
+type 1 diabetes	caused by	autoimmune destruction
+autoimmune destruction	targets	pancreatic beta cells
+insulins and analogues	prescribed for	type 2 diabetes
+type 2 diabetes	characterized by	insulin resistance
+insulin resistance	leads to	hyperglycemia
+hyperglycemia	causes	diabetic complications
+diabetic complications	include	neuropathy
+neuropathy	causes	pain
+diabetic complications	include	nephropathy
+nephropathy	leads to	kidney failure
+diabetic complications	include	retinopathy
+retinopathy	causes	vision loss
+insulins and analogues	used in	gestational diabetes
+gestational diabetes	occurs during	pregnancy
+pregnancy	requires	careful monitoring
+careful monitoring	prevents	complications
+insulins and analogues	administered via	insulin pump
+insulin pump	provides	continuous delivery
+continuous delivery	mimics	physiological secretion
+physiological secretion	maintains	stable levels
+stable levels	prevent	glucose fluctuations
+insulins and analogues	research focuses on	oral delivery
+oral delivery	improves	patient convenience
+patient convenience	enhances	adherence
+adherence	improves	treatment outcomes

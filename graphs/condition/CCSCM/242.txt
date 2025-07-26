@@ -1,0 +1,100 @@
+poisoning by medications	is a	medical emergency
+poisoning by medications	may cause	organ failure
+poisoning by medications	requires	antidote
+poisoning by medications	treated with	activated charcoal
+activated charcoal	absorbs	toxins
+poisoning by medications	may lead to	seizure
+seizure	treated with	benzodiazepines
+benzodiazepines	are	sedatives
+poisoning by medications	may cause	respiratory depression
+respiratory depression	treated with	naloxone
+naloxone	reverses	opioid overdose
+poisoning by medications	may result in	cardiac arrest
+cardiac arrest	treated with	CPR
+CPR	involves	chest compressions
+poisoning by medications	may cause	hypotension
+hypotension	treated with	vasopressors
+vasopressors	increase	blood pressure
+poisoning by medications	may lead to	coma
+coma	requires	intensive care
+intensive care	involves	mechanical ventilation
+poisoning by medications	may cause	liver damage
+liver damage	treated with	N-acetylcysteine
+N-acetylcysteine	is a	hepatoprotective agent
+poisoning by medications	may cause	kidney injury
+kidney injury	treated with	dialysis
+dialysis	removes	toxins
+poisoning by medications	may result in	arrhythmia
+arrhythmia	treated with	antiarrhythmics
+antiarrhythmics	regulate	heart rhythm
+poisoning by medications	may cause	metabolic acidosis
+metabolic acidosis	treated with	sodium bicarbonate
+sodium bicarbonate	corrects	pH imbalance
+poisoning by medications	may lead to	hypoglycemia
+hypoglycemia	treated with	glucose
+glucose	raises	blood sugar
+poisoning by medications	requires	toxicology screening
+toxicology screening	identifies	substances
+poisoning by medications	may cause	delirium
+delirium	treated with	antipsychotics
+antipsychotics	reduce	hallucinations
+poisoning by medications	may result in	hyperthermia
+hyperthermia	treated with	cooling measures
+cooling measures	lower	body temperature
+poisoning by medications	may cause	rhabdomyolysis
+rhabdomyolysis	treated with	fluid therapy
+fluid therapy	prevents	kidney damage
+poisoning by medications	may lead to	coagulopathy
+coagulopathy	treated with	vitamin K
+vitamin K	reverses	anticoagulant effects
+poisoning by medications	may cause	serotonin syndrome
+serotonin syndrome	treated with	cyproheptadine
+cyproheptadine	blocks	serotonin receptors
+poisoning by medications	may result in	hypertension
+hypertension	treated with	antihypertensives
+antihypertensives	lower	blood pressure
+poisoning by medications	may cause	pancreatitis
+pancreatitis	treated with	bowel rest
+bowel rest	involves	fasting
+poisoning by medications	may lead to	aspiration pneumonia
+aspiration pneumonia	treated with	antibiotics
+antibiotics	kill	bacteria
+poisoning by medications	requires	gastric lavage
+gastric lavage	removes	stomach contents
+poisoning by medications	may cause	hemolysis
+hemolysis	treated with	blood transfusion
+blood transfusion	replaces	red blood cells
+poisoning by medications	may result in	electrolyte imbalance
+electrolyte imbalance	corrected with	IV fluids
+IV fluids	contain	electrolytes
+poisoning by medications	may cause	neurotoxicity
+neurotoxicity	treated with	chelation therapy
+chelation therapy	removes	heavy metals
+poisoning by medications	may lead to	withdrawal syndrome
+withdrawal syndrome	treated with	tapering
+tapering	reduces	dosage gradually
+poisoning by medications	requires	close monitoring
+close monitoring	involves	vital signs
+poisoning by medications	may cause	allergic reaction
+allergic reaction	treated with	epinephrine
+epinephrine	reverses	anaphylaxis
+poisoning by medications	may result in	QT prolongation
+QT prolongation	treated with	magnesium
+magnesium	stabilizes	heart rhythm
+poisoning by medications	may cause	peripheral neuropathy
+peripheral neuropathy	treated with	vitamin B
+vitamin B	supports	nerve function
+poisoning by medications	may lead to	thrombocytopenia
+thrombocytopenia	treated with	platelet transfusion
+platelet transfusion	increases	platelet count
+poisoning by medications	requires	supportive care
+supportive care	includes	symptom management
+poisoning by medications	may cause	encephalopathy
+encephalopathy	treated with	thiamine
+thiamine	prevents	Wernicke's encephalopathy
+poisoning by medications	may result in	hepatic encephalopathy
+hepatic encephalopathy	treated with	lactulose
+lactulose	reduces	ammonia levels
+poisoning by medications	may cause	muscle weakness
+muscle weakness	treated with	physical therapy
+physical therapy	improves	mobility

@@ -1,0 +1,100 @@
+acute cerebrovascular disease	includes	ischemic stroke
+acute cerebrovascular disease	includes	hemorrhagic stroke
+acute cerebrovascular disease	may cause	hemiparesis
+acute cerebrovascular disease	may cause	aphasia
+acute cerebrovascular disease	may cause	dysphagia
+acute cerebrovascular disease	may cause	cognitive impairment
+acute cerebrovascular disease	may cause	death
+acute cerebrovascular disease	is diagnosed by	CT scan
+acute cerebrovascular disease	is diagnosed by	MRI
+acute cerebrovascular disease	is diagnosed by	angiography
+acute cerebrovascular disease	is treated with	thrombolysis
+acute cerebrovascular disease	is treated with	anticoagulants
+acute cerebrovascular disease	is treated with	antiplatelets
+acute cerebrovascular disease	is treated with	surgery
+acute cerebrovascular disease	is associated with	hypertension
+acute cerebrovascular disease	is associated with	diabetes
+acute cerebrovascular disease	is associated with	atherosclerosis
+acute cerebrovascular disease	is associated with	atrial fibrillation
+acute cerebrovascular disease	is associated with	smoking
+acute cerebrovascular disease	is associated with	hyperlipidemia
+ischemic stroke	is caused by	thrombosis
+ischemic stroke	is caused by	embolism
+hemorrhagic stroke	is caused by	intracerebral hemorrhage
+hemorrhagic stroke	is caused by	subarachnoid hemorrhage
+thrombolysis	uses	alteplase
+anticoagulants	include	warfarin
+anticoagulants	include	heparin
+antiplatelets	include	aspirin
+antiplatelets	include	clopidogrel
+hypertension	is managed with	ACE inhibitors
+hypertension	is managed with	beta-blockers
+diabetes	increases risk of	stroke
+atherosclerosis	leads to	arterial occlusion
+atrial fibrillation	increases risk of	embolism
+smoking	accelerates	atherosclerosis
+hyperlipidemia	is managed with	statins
+CT scan	detects	hemorrhage
+MRI	detects	ischemic changes
+angiography	visualizes	blood vessels
+hemiparesis	affects	mobility
+aphasia	affects	communication
+dysphagia	increases risk of	aspiration
+cognitive impairment	affects	daily living
+death	is caused by	severe stroke
+thrombosis	occurs in	cerebral arteries
+embolism	originates from	heart
+intracerebral hemorrhage	is due to	hypertension
+subarachnoid hemorrhage	is due to	aneurysm
+alteplase	is a	thrombolytic agent
+warfarin	requires	INR monitoring
+heparin	is used in	acute treatment
+aspirin	prevents	platelet aggregation
+clopidogrel	prevents	platelet activation
+ACE inhibitors	reduce	blood pressure
+beta-blockers	reduce	heart rate
+statins	lower	cholesterol
+arterial occlusion	causes	ischemia
+embolism	blocks	blood flow
+aspiration	leads to	pneumonia
+stroke severity	predicts	recovery
+rehabilitation	improves	mobility
+rehabilitation	improves	speech
+rehabilitation	improves	swallowing
+mortality	is predicted by	stroke scale
+NIHSS	assesses	stroke severity
+modified Rankin Scale	measures	disability
+stroke unit	improves	outcomes
+early intervention	reduces	disability
+intensive care	manages	complications
+nutrition support	prevents	malnutrition
+pneumonia	is a complication of	dysphagia
+deep vein thrombosis	is prevented by	anticoagulation
+pressure ulcers	are prevented by	repositioning
+depression	is common after	stroke
+antidepressants	treat	post-stroke depression
+seizures	occur after	hemorrhagic stroke
+antiepileptics	prevent	seizures
+carotid stenosis	increases risk of	stroke
+carotid endarterectomy	reduces	stroke risk
+stenting	treats	carotid stenosis
+transient ischemic attack	precedes	stroke
+blood glucose	affects	stroke outcome
+hyperglycemia	worsens	ischemia
+hypoglycemia	mimics	stroke symptoms
+telemedicine	assists in	stroke diagnosis
+ambulance	facilitates	rapid transport
+stroke team	ensures	timely treatment
+tissue plasminogen activator	dissolves	clots
+mechanical thrombectomy	removes	clots
+blood pressure control	prevents	stroke recurrence
+lipid management	prevents	stroke recurrence
+anticoagulation	prevents	cardioembolic stroke
+antiplatelet therapy	prevents	non-cardioembolic stroke
+smoking cessation	reduces	stroke risk
+exercise	reduces	stroke risk
+diet	influences	stroke risk
+obesity	increases	stroke risk
+alcohol	increases	stroke risk
+family history	influences	stroke risk
+genetics	plays a role in	stroke susceptibility

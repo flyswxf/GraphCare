@@ -1,0 +1,100 @@
+sprains and strains	are	musculoskeletal injuries
+sprains and strains	commonly affect	ligaments
+sprains and strains	commonly affect	tendons
+sprains and strains	commonly affect	muscles
+sprains	involve	ligament stretching
+strains	involve	muscle stretching
+strains	involve	tendon stretching
+sprains and strains	cause	pain
+sprains and strains	cause	swelling
+sprains and strains	cause	limited mobility
+sprains and strains	are diagnosed with	physical examination
+sprains and strains	may require	imaging
+X-ray	rules out	fractures
+MRI	evaluates	soft tissue damage
+sprains and strains	are treated with	rest
+sprains and strains	are treated with	ice
+sprains and strains	are treated with	compression
+sprains and strains	are treated with	elevation
+RICE protocol	manages	sprains and strains
+NSAIDs	reduce	pain
+NSAIDs	reduce	inflammation
+ibuprofen	is a	NSAID
+naproxen	is a	NSAID
+sprains and strains	may require	physical therapy
+physical therapy	improves	flexibility
+physical therapy	improves	strength
+sprains and strains	may lead to	chronic instability
+sprains and strains	may lead to	re-injury
+ankle	is a common site for	sprains
+wrist	is a common site for	sprains
+back	is a common site for	strains
+hamstring	is a common site for	strains
+athletes	are at risk for	sprains and strains
+elderly	are at risk for	sprains and strains
+sprains and strains	result from	overuse
+sprains and strains	result from	trauma
+sprains and strains	result from	improper lifting
+sprains and strains	result from	sudden movements
+sprains and strains	may require	bracing
+sprains and strains	may require	splinting
+sprains and strains	may require	crutches
+severe sprains	may require	surgery
+surgery	repairs	torn ligaments
+surgery	repairs	torn tendons
+sprains and strains	have	grading system
+grade 1	indicates	mild sprain
+grade 2	indicates	moderate sprain
+grade 3	indicates	severe sprain
+sprains and strains	can be prevented with	proper warm-up
+sprains and strains	can be prevented with	stretching
+sprains and strains	can be prevented with	strength training
+sprains and strains	can be prevented with	proper footwear
+sprains and strains	can be prevented with	ergonomics
+sprains and strains	are more common in	sports
+basketball	has high incidence of	ankle sprains
+soccer	has high incidence of	knee sprains
+weightlifting	has high incidence of	back strains
+running	has high incidence of	hamstring strains
+sprains and strains	increase risk of	osteoarthritis
+chronic sprains	lead to	joint degeneration
+sprains and strains	may cause	muscle weakness
+sprains and strains	may cause	joint stiffness
+sprains and strains	may cause	bruising
+sprains and strains	may cause	tenderness
+sprains and strains	may be associated with	dislocations
+sprains and strains	may be associated with	fractures
+sprains and strains	are managed by	orthopedists
+sprains and strains	are managed by	sports medicine
+sprains and strains	are managed by	physiatrists
+sprains and strains	are managed by	physical therapists
+sprains and strains	are documented with	SOAP notes
+sprains and strains	require	follow-up
+sprains and strains	have	recovery timeline
+mild sprains	heal in	1-2 weeks
+moderate sprains	heal in	3-6 weeks
+severe sprains	heal in	several months
+sprains and strains	may recur without	rehabilitation
+sprains and strains	may be complicated by	compartment syndrome
+sprains and strains	may be complicated by	nerve damage
+sprains and strains	may be complicated by	blood vessel injury
+sprains and strains	may require	pain management
+acetaminophen	relieves	pain
+topical analgesics	relieve	pain
+sprains and strains	may benefit from	massage therapy
+sprains and strains	may benefit from	acupuncture
+sprains and strains	may benefit from	chiropractic care
+sprains and strains	have	ICD-10 codes
+S93.4	codes for	ankle sprain
+S13.4	codes for	wrist sprain
+S39.01	codes for	back strain
+sprains and strains	affect	quality of life
+sprains and strains	cause	missed work
+sprains and strains	cause	lost productivity
+sprains and strains	increase	healthcare costs
+sprains and strains	are studied in	sports science
+sprains and strains	are studied in	biomechanics
+sprains and strains	are studied in	rehabilitation science
+sprains and strains	have	clinical guidelines
+sprains and strains	are influenced by	genetics
+sprains and strains	are influenced by	conditioning

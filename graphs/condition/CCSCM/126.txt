@@ -1,0 +1,100 @@
+other upper respiratory infections	is a	respiratory condition
+other upper respiratory infections	may cause	cough
+other upper respiratory infections	may cause	fever
+other upper respiratory infections	may cause	sore throat
+other upper respiratory infections	may cause	nasal congestion
+other upper respiratory infections	may cause	fatigue
+other upper respiratory infections	is treated with	analgesics
+other upper respiratory infections	is treated with	antipyretics
+other upper respiratory infections	is treated with	decongestants
+other upper respiratory infections	is treated with	antihistamines
+other upper respiratory infections	may lead to	sinusitis
+other upper respiratory infections	may lead to	otitis media
+other upper respiratory infections	may lead to	bronchitis
+other upper respiratory infections	may lead to	pneumonia
+other upper respiratory infections	is diagnosed via	physical examination
+other upper respiratory infections	is diagnosed via	throat swab
+other upper respiratory infections	is diagnosed via	chest X-ray
+other upper respiratory infections	is prevented by	hand hygiene
+other upper respiratory infections	is prevented by	vaccination
+other upper respiratory infections	is prevented by	mask-wearing
+other upper respiratory infections	is associated with	rhinovirus
+other upper respiratory infections	is associated with	coronavirus
+other upper respiratory infections	is associated with	adenovirus
+other upper respiratory infections	is associated with	respiratory syncytial virus
+other upper respiratory infections	is associated with	influenza virus
+other upper respiratory infections	has symptom	headache
+other upper respiratory infections	has symptom	body aches
+other upper respiratory infections	has symptom	sneezing
+other upper respiratory infections	has symptom	runny nose
+other upper respiratory infections	has symptom	malaise
+ibuprofen	treats	other upper respiratory infections
+acetaminophen	treats	other upper respiratory infections
+pseudoephedrine	treats	other upper respiratory infections
+diphenhydramine	treats	other upper respiratory infections
+amoxicillin	may treat	other upper respiratory infections
+azithromycin	may treat	other upper respiratory infections
+other upper respiratory infections	increases risk of	asthma exacerbation
+other upper respiratory infections	increases risk of	COPD exacerbation
+other upper respiratory infections	increases risk of	dehydration
+other upper respiratory infections	increases risk of	hospitalization
+other upper respiratory infections	is more common in	children
+other upper respiratory infections	is more common in	elderly
+other upper respiratory infections	is more common in	immunocompromised patients
+other upper respiratory infections	has complication	secondary bacterial infection
+other upper respiratory infections	has complication	laryngitis
+other upper respiratory infections	has complication	pharyngitis
+other upper respiratory infections	has complication	tracheitis
+other upper respiratory infections	has seasonal variation	winter
+other upper respiratory infections	has seasonal variation	spring
+other upper respiratory infections	is transmitted via	droplets
+other upper respiratory infections	is transmitted via	fomites
+other upper respiratory infections	is transmitted via	aerosols
+other upper respiratory infections	has duration	7-10 days
+other upper respiratory infections	may require	bed rest
+other upper respiratory infections	may require	fluid intake
+other upper respiratory infections	may require	humidifier
+other upper respiratory infections	is exacerbated by	smoking
+other upper respiratory infections	is exacerbated by	pollution
+other upper respiratory infections	is exacerbated by	allergens
+other upper respiratory infections	is differential diagnosis	allergic rhinitis
+other upper respiratory infections	is differential diagnosis	influenza
+other upper respiratory infections	is differential diagnosis	COVID-19
+other upper respiratory infections	is differential diagnosis	strep throat
+other upper respiratory infections	has risk factor	crowded living conditions
+other upper respiratory infections	has risk factor	daycare attendance
+other upper respiratory infections	has risk factor	travel
+other upper respiratory infections	has risk factor	chronic disease
+other upper respiratory infections	has risk factor	malnutrition
+other upper respiratory infections	may respond to	zinc supplements
+other upper respiratory infections	may respond to	vitamin C
+other upper respiratory infections	may respond to	herbal remedies
+other upper respiratory infections	has subtype	common cold
+other upper respiratory infections	has subtype	pharyngitis
+other upper respiratory infections	has subtype	laryngotracheitis
+other upper respiratory infections	has subtype	rhinosinusitis
+other upper respiratory infections	affects	upper respiratory tract
+other upper respiratory infections	involves	nasal cavity
+other upper respiratory infections	involves	pharynx
+other upper respiratory infections	involves	larynx
+other upper respiratory infections	involves	sinuses
+other upper respiratory infections	may cause	loss of smell
+other upper respiratory infections	may cause	loss of taste
+other upper respiratory infections	may cause	hoarseness
+other upper respiratory infections	may cause	ear pressure
+other upper respiratory infections	may cause	swollen lymph nodes
+other upper respiratory infections	has diagnostic criteria	clinical presentation
+other upper respiratory infections	has diagnostic criteria	symptom duration
+other upper respiratory infections	has diagnostic criteria	exposure history
+other upper respiratory infections	may require	PCR testing
+other upper respiratory infections	may require	rapid antigen test
+other upper respiratory infections	has treatment duration	symptom-based
+other upper respiratory infections	has treatment duration	1-2 weeks
+other upper respiratory infections	has recurrence rate	high
+other upper respiratory infections	has recurrence rate	seasonal
+other upper respiratory infections	may lead to	missed work
+other upper respiratory infections	may lead to	school absence
+other upper respiratory infections	has economic impact	healthcare costs
+other upper respiratory infections	has economic impact	productivity loss
+other upper respiratory infections	has research focus	antiviral development
+other upper respiratory infections	has research focus	vaccine development

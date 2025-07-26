@@ -1,0 +1,100 @@
+asthma	is a	respiratory disease
+asthma	causes	airway inflammation
+asthma	leads to	bronchoconstriction
+asthma	triggers	wheezing
+asthma	associated with	shortness of breath
+asthma	may cause	chronic cough
+asthma	linked to	atopy
+asthma	has subtype	allergic asthma
+asthma	has subtype	non-allergic asthma
+asthma	is diagnosed by	spirometry
+asthma	treated with	bronchodilators
+asthma	managed by	inhaled corticosteroids
+albuterol	is a	bronchodilator
+fluticasone	is an	inhaled corticosteroid
+asthma	may worsen	viral infections
+asthma	exacerbated by	air pollution
+asthma	triggered by	pollen
+asthma	aggravated by	dust mites
+asthma	worsened by	pet dander
+asthma	related to	GERD
+asthma	associated with	obesity
+asthma	increases risk of	respiratory infections
+asthma	may lead to	status asthmaticus
+asthma	monitored by	peak flow meter
+asthma	controlled with	leukotriene modifiers
+montelukast	is a	leukotriene modifier
+asthma	prevented by	allergen avoidance
+asthma	managed by	asthma action plan
+asthma	linked to	family history
+asthma	increases	healthcare utilization
+asthma	requires	regular follow-up
+asthma	associated with	sleep disturbances
+asthma	may coexist with	rhinitis
+asthma	complicated by	pneumonia
+asthma	affects	quality of life
+asthma	treated with	combination inhalers
+salmeterol	is a	long-acting bronchodilator
+asthma	may require	oral corticosteroids
+prednisone	is an	oral corticosteroid
+asthma	can cause	exercise limitation
+asthma	triggered by	cold air
+asthma	exacerbated by	tobacco smoke
+asthma	linked to	occupational exposures
+asthma	treated with	biologic therapies
+omalizumab	is a	biologic therapy
+asthma	monitored by	FeNO test
+asthma	may improve	with age
+asthma	associated with	anxiety
+asthma	related to	depression
+asthma	increases	school absenteeism
+asthma	requires	patient education
+asthma	prevented by	vaccination
+influenza vaccine	recommended for	asthma patients
+asthma	may lead to	emergency visits
+asthma	managed by	allergen immunotherapy
+asthma	worsened by	stress
+asthma	associated with	eczema
+asthma	linked to	low vitamin D
+asthma	may cause	hypoxemia
+asthma	treated with	theophylline
+theophylline	is a	methylxanthine
+asthma	managed by	breathing exercises
+asthma	exacerbated by	respiratory irritants
+asthma	may coexist with	sinusitis
+asthma	increases risk of	bronchitis
+asthma	treated with	anticholinergics
+ipratropium	is an	anticholinergic
+asthma	linked to	maternal smoking
+asthma	associated with	preterm birth
+asthma	may lead to	hospitalization
+asthma	managed by	environmental control
+asthma	triggered by	mold spores
+asthma	worsened by	strong odors
+asthma	treated with	mast cell stabilizers
+cromolyn	is a	mast cell stabilizer
+asthma	monitored by	symptom diary
+asthma	may improve	with weight loss
+asthma	associated with	gastroesophageal reflux
+asthma	linked to	air humidity
+asthma	increases	medication adherence importance
+asthma	requires	regular medication reviews
+asthma	treated with	LABA
+formoterol	is a	LABA
+asthma	may coexist with	COPD
+asthma	linked to	urban living
+asthma	associated with	low socioeconomic status
+asthma	increases risk of	pneumothorax
+asthma	managed by	humidifier use
+asthma	exacerbated by	weather changes
+asthma	treated with	SABA
+terbutaline	is a	SABA
+asthma	monitored by	asthma control test
+asthma	linked to	maternal asthma
+asthma	associated with	childhood infections
+asthma	may lead to	chronic lung damage
+asthma	treated with	ICS-LABA combination
+budesonide-formoterol	is an	ICS-LABA combination
+asthma	prevented by	breastfeeding
+asthma	linked to	antibiotic use in infancy
+asthma	increases	mortality risk in severe cases

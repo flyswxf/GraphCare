@@ -1,0 +1,100 @@
+induced abortion	is a	medical procedure
+induced abortion	may cause	bleeding
+induced abortion	may cause	infection
+induced abortion	may require	anesthesia
+induced abortion	has method	surgical abortion
+induced abortion	has method	medical abortion
+surgical abortion	uses instrument	suction device
+surgical abortion	uses instrument	curette
+medical abortion	uses drug	mifepristone
+medical abortion	uses drug	misoprostol
+mifepristone	blocks hormone	progesterone
+misoprostol	induces	uterine contraction
+induced abortion	may lead to	incomplete abortion
+incomplete abortion	may require	repeat procedure
+induced abortion	is regulated by	law
+induced abortion	has risk	uterine perforation
+induced abortion	has risk	cervical injury
+induced abortion	may affect	future fertility
+induced abortion	may cause	emotional distress
+emotional distress	may require	counseling
+induced abortion	is performed by	gynecologist
+induced abortion	requires	pre-procedure evaluation
+pre-procedure evaluation	includes	ultrasound
+ultrasound	determines	gestational age
+induced abortion	is safer in	first trimester
+second trimester abortion	has higher risk	complications
+induced abortion	may prevent	maternal mortality
+unsafe abortion	causes	maternal death
+induced abortion	is alternative to	adoption
+induced abortion	may be chosen for	fetal anomaly
+fetal anomaly	may be detected by	prenatal testing
+induced abortion	has ethical consideration	personhood debate
+induced abortion	is opposed by	pro-life groups
+induced abortion	is supported by	pro-choice groups
+induced abortion	may involve	local anesthesia
+induced abortion	may involve	general anesthesia
+general anesthesia	requires	anesthesiologist
+induced abortion	has follow-up	post-procedure check
+post-procedure check	monitors	complications
+induced abortion	may need	pain management
+pain management	may use	ibuprofen
+ibuprofen	reduces	inflammation
+induced abortion	requires	informed consent
+informed consent	includes	risks discussion
+induced abortion	may require	Rh immunoglobulin
+Rh immunoglobulin	prevents	Rh sensitization
+Rh sensitization	affects	future pregnancies
+induced abortion	has cost	procedure fee
+procedure fee	varies by	healthcare system
+induced abortion	may be covered by	insurance
+induced abortion	has alternative	contraception
+contraception	prevents	unintended pregnancy
+unintended pregnancy	is reason for	induced abortion
+induced abortion	may follow	contraceptive failure
+contraceptive failure	occurs with	condom breakage
+induced abortion	has prevalence	reproductive age women
+reproductive age women	may use	family planning
+family planning	includes	birth control
+induced abortion	has complication	sepsis
+sepsis	requires	antibiotics
+antibiotics	treat	bacterial infection
+induced abortion	is studied in	public health
+public health	researches	abortion rates
+abortion rates	reflect	healthcare access
+healthcare access	affects	maternal health
+induced abortion	may involve	vacuum aspiration
+vacuum aspiration	removes	uterine contents
+uterine contents	include	placental tissue
+induced abortion	has timing	gestational limit
+gestational limit	varies by	country
+induced abortion	may need	cervical preparation
+cervical preparation	uses	osmotic dilators
+osmotic dilators	expand	cervical opening
+induced abortion	has provider	abortion clinic
+abortion clinic	offers	reproductive services
+induced abortion	may face	legal restriction
+legal restriction	limits	abortion access
+abortion access	impacts	women's rights
+induced abortion	has statistic	safety record
+safety record	shows	low complication rate
+induced abortion	requires	pregnancy test
+pregnancy test	detects	hCG hormone
+hCG hormone	is produced by	placenta
+induced abortion	may follow	rape
+rape	is reason for	pregnancy termination
+induced abortion	may consider	fetal viability
+fetal viability	depends on	gestation week
+induced abortion	has protocol	pre-op instructions
+pre-op instructions	include	fasting
+fasting	prevents	aspiration risk
+aspiration risk	occurs during	anesthesia
+induced abortion	may use	laminaria
+laminaria	dilates	cervix
+induced abortion	has outcome	pregnancy termination
+pregnancy termination	ends	embryo development
+embryo development	begins at	conception
+induced abortion	has contraindication	ectopic pregnancy
+ectopic pregnancy	requires	different treatment
+different treatment	may be	methotrexate
+methotrexate	stops	cell growth

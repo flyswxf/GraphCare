@@ -1,0 +1,100 @@
+nasal decongestants for systemic use	is a	medication
+nasal decongestants for systemic use	treats	nasal congestion
+nasal decongestants for systemic use	contains	pseudoephedrine
+nasal decongestants for systemic use	contains	phenylephrine
+pseudoephedrine	is a	stimulant
+phenylephrine	is a	vasoconstrictor
+nasal decongestants for systemic use	works by	constricting blood vessels
+nasal decongestants for systemic use	may cause	hypertension
+nasal decongestants for systemic use	may cause	insomnia
+nasal decongestants for systemic use	contraindicated in	hypertension patients
+nasal decongestants for systemic use	interacts with	MAO inhibitors
+nasal decongestants for systemic use	interacts with	antidepressants
+nasal decongestants for systemic use	used for	sinusitis
+nasal decongestants for systemic use	used for	common cold
+nasal decongestants for systemic use	used for	allergic rhinitis
+nasal congestion	caused by	inflammation
+inflammation	caused by	infection
+inflammation	caused by	allergies
+nasal decongestants for systemic use	reduces	swelling
+pseudoephedrine	increases	heart rate
+phenylephrine	decreases	nasal blood flow
+nasal decongestants for systemic use	available as	oral tablets
+nasal decongestants for systemic use	available as	liquid suspension
+nasal decongestants for systemic use	not recommended for	children under 6
+nasal decongestants for systemic use	may worsen	glaucoma
+nasal decongestants for systemic use	may worsen	enlarged prostate
+pseudoephedrine	regulated as	controlled substance
+pseudoephedrine	precursor for	methamphetamine
+nasal decongestants for systemic use	should avoid	excessive caffeine
+nasal decongestants for systemic use	may cause	dizziness
+nasal decongestants for systemic use	may cause	nervousness
+nasal decongestants for systemic use	alternative to	topical decongestants
+topical decongestants	can cause	rebound congestion
+nasal decongestants for systemic use	metabolized in	liver
+nasal decongestants for systemic use	excreted through	kidneys
+nasal decongestants for systemic use	duration of action	4-6 hours
+pseudoephedrine	more effective than	phenylephrine
+phenylephrine	less side effects than	pseudoephedrine
+nasal decongestants for systemic use	prescribed for	eustachian tube dysfunction
+nasal decongestants for systemic use	may worsen	heart disease
+nasal decongestants for systemic use	used with	antihistamines
+antihistamines	treat	allergies
+antihistamines	cause	drowsiness
+nasal decongestants for systemic use	counteracts	antihistamine sedation
+nasal decongestants for systemic use	not a	long-term solution
+nasal decongestants for systemic use	risk of	dependence
+nasal decongestants for systemic use	risk of	tolerance
+nasal decongestants for systemic use	recommended dose	30-60mg
+nasal decongestants for systemic use	overdose symptoms	tachycardia
+nasal decongestants for systemic use	overdose symptoms	hallucinations
+pseudoephedrine	stimulates	alpha-adrenergic receptors
+phenylephrine	stimulates	alpha-1 receptors
+nasal decongestants for systemic use	increases	blood pressure
+nasal decongestants for systemic use	contraindicated in	pregnancy
+nasal decongestants for systemic use	not studied in	breastfeeding
+nasal decongestants for systemic use	alternative	saline irrigation
+saline irrigation	reduces	mucus buildup
+saline irrigation	safer than	decongestants
+nasal decongestants for systemic use	may affect	thyroid function
+nasal decongestants for systemic use	may interact with	beta blockers
+beta blockers	treat	high blood pressure
+beta blockers	reduce	heart rate
+nasal decongestants for systemic use	may cause	dry mouth
+nasal decongestants for systemic use	may cause	headache
+nasal decongestants for systemic use	not for	asthma patients
+asthma patients	risk of	bronchospasm
+nasal decongestants for systemic use	may mask	fever symptoms
+nasal decongestants for systemic use	requires	medical supervision
+nasal decongestants for systemic use	linked to	stroke risk
+nasal decongestants for systemic use	linked to	heart attack risk
+nasal decongestants for systemic use	may affect	blood sugar levels
+diabetes patients	should monitor	blood sugar
+nasal decongestants for systemic use	may reduce	milk production
+nasal decongestants for systemic use	may worsen	anxiety disorders
+anxiety disorders	treated with	SSRIs
+SSRIs	interact with	decongestants
+nasal decongestants for systemic use	may cause	urinary retention
+urinary retention	treated with	catheterization
+nasal decongestants for systemic use	may reduce	appetite
+nasal decongestants for systemic use	may cause	nausea
+nasal decongestants for systemic use	may cause	vomiting
+nasal decongestants for systemic use	may cause	sweating
+nasal decongestants for systemic use	may cause	tremors
+nasal decongestants for systemic use	may cause	blurred vision
+nasal decongestants for systemic use	may affect	kidney function
+kidney disease patients	should avoid	decongestants
+nasal decongestants for systemic use	may worsen	hyperthyroidism
+hyperthyroidism	treated with	antithyroid drugs
+nasal decongestants for systemic use	may interact with	antithyroid drugs
+nasal decongestants for systemic use	may increase	intraocular pressure
+glaucoma patients	should avoid	decongestants
+nasal decongestants for systemic use	may interact with	diuretics
+diuretics	reduce	fluid retention
+nasal decongestants for systemic use	may interact with	stimulants
+stimulants	increase	heart rate
+nasal decongestants for systemic use	may interact with	vasodilators
+vasodilators	lower	blood pressure
+nasal decongestants for systemic use	may interact with	decongestant eye drops
+decongestant eye drops	treat	red eyes
+nasal decongestants for systemic use	alternative	steam inhalation

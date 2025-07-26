@@ -1,0 +1,100 @@
+pain palliation	involves	bone seeking agents
+bone seeking agents	target	bone metastases
+bone metastases	cause	severe pain
+bone seeking agents	contain	radionuclides
+radionuclides	emit	radiation
+radiation	destroys	cancer cells
+cancer cell destruction	reduces	pain
+bone seeking agents	include	strontium-89
+strontium-89	mimics	calcium
+calcium	accumulates in	bones
+bone seeking agents	include	samarium-153
+samarium-153	binds to	hydroxyapatite
+hydroxyapatite	is a	bone mineral
+bone seeking agents	include	radium-223
+radium-223	treats	prostate cancer
+prostate cancer	commonly spreads to	bones
+bone seeking agents	administered via	injection
+injection	delivers	therapeutic dose
+therapeutic dose	controls	pain
+pain control	improves	quality of life
+bone seeking agents	require	imaging
+imaging	confirms	bone lesions
+bone lesions	indicate	metastases
+bone seeking agents	monitored by	radiation safety
+radiation safety	protects	healthcare workers
+bone seeking agents	contraindicated in	pregnancy
+pregnancy	requires	radiation avoidance
+bone seeking agents	cause	myelosuppression
+myelosuppression	reduces	blood cells
+blood cell reduction	increases	infection risk
+bone seeking agents	interact with	chemotherapy
+chemotherapy	enhances	myelosuppression
+bone seeking agents	require	blood tests
+blood tests	monitor	toxicity
+toxicity	limits	retreatment
+bone seeking agents	have	half-life
+half-life	determines	dosing schedule
+bone seeking agents	used for	palliative care
+palliative care	focuses on	symptom relief
+symptom relief	includes	pain management
+bone seeking agents	alternative to	opioids
+opioids	cause	dependency
+dependency	leads to	addiction
+bone seeking agents	prescribed by	oncologists
+oncologists	specialize in	cancer treatment
+bone seeking agents	cost	healthcare system
+healthcare system	reimburses	treatments
+bone seeking agents	stored in	shielded containers
+shielded containers	prevent	radiation exposure
+radiation exposure	risks	bystanders
+bone seeking agents	researched for	new isotopes
+new isotopes	may improve	efficacy
+efficacy	measured by	pain reduction
+pain reduction	evaluated by	pain scales
+pain scales	include	VAS
+VAS	stands for	visual analog scale
+bone seeking agents	compete with	bisphosphonates
+bisphosphonates	strengthen	bones
+bone strength	prevents	fractures
+fractures	exacerbate	pain
+bone seeking agents	combined with	radiotherapy
+radiotherapy	targets	specific sites
+specific site targeting	reduces	side effects
+side effects	include	fatigue
+fatigue	affects	daily activities
+bone seeking agents	contraindicated with	renal impairment
+renal impairment	affects	excretion
+excretion	removes	radionuclides
+bone seeking agents	require	patient consent
+patient consent	explains	risks
+risks	include	secondary cancers
+secondary cancers	rare but	possible
+bone seeking agents	used in	clinical trials
+clinical trials	test	new protocols
+new protocols	aim to	optimize dosing
+bone seeking agents	approved by	FDA
+FDA	regulates	radiopharmaceuticals
+radiopharmaceuticals	include	diagnostic agents
+diagnostic agents	identify	bone involvement
+bone involvement	guides	treatment
+bone seeking agents	require	specialized training
+specialized training	ensures	safe handling
+safe handling	prevents	accidents
+bone seeking agents	impact	bone marrow
+bone marrow	produces	blood cells
+blood cell production	affected by	radiation
+bone seeking agents	studied for	combination therapy
+combination therapy	may enhance	outcomes
+outcomes	include	survival rates
+survival rates	influenced by	disease stage
+disease stage	determines	prognosis
+bone seeking agents	have	physical properties
+physical properties	affect	tissue penetration
+tissue penetration	influences	effectiveness
+effectiveness	varies by	patient
+patient	has	unique metabolism
+unique metabolism	affects	drug clearance
+drug clearance	impacts	toxicity levels
+toxicity levels	monitored via	biomarkers
+biomarkers	indicate	treatment response

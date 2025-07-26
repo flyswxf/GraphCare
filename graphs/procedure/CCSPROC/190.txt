@@ -1,0 +1,100 @@
+contrast arteriogram of femoral and lower extremity arteries	is a	diagnostic procedure
+contrast arteriogram of femoral and lower extremity arteries	involves	contrast dye
+contrast arteriogram of femoral and lower extremity arteries	visualizes	blood flow
+contrast arteriogram of femoral and lower extremity arteries	assesses	arterial blockages
+contrast arteriogram of femoral and lower extremity arteries	detects	peripheral artery disease
+contrast arteriogram of femoral and lower extremity arteries	requires	vascular access
+contrast arteriogram of femoral and lower extremity arteries	uses	X-ray imaging
+contrast arteriogram of femoral and lower extremity arteries	performed by	interventional radiologist
+contrast arteriogram of femoral and lower extremity arteries	evaluates	stenosis
+contrast arteriogram of femoral and lower extremity arteries	guides	revascularization
+contrast dye	enhances	imaging clarity
+contrast dye	can cause	allergic reaction
+contrast dye	requires	kidney function test
+contrast dye	contraindicated in	renal failure
+contrast dye	excreted by	kidneys
+peripheral artery disease	leads to	claudication
+peripheral artery disease	increases risk of	limb ischemia
+peripheral artery disease	associated with	atherosclerosis
+peripheral artery disease	managed with	statins
+peripheral artery disease	monitored by	ankle-brachial index
+vascular access	achieved via	catheter insertion
+vascular access	risks	hematoma
+vascular access	requires	sterile technique
+vascular access	may lead to	infection
+vascular access	often in	femoral artery
+X-ray imaging	generates	real-time images
+X-ray imaging	involves	ionizing radiation
+X-ray imaging	requires	lead shielding
+X-ray imaging	interpreted by	radiologist
+X-ray imaging	complemented by	fluoroscopy
+interventional radiologist	performs	angiography
+interventional radiologist	specializes in	minimally invasive procedures
+interventional radiologist	collaborates with	vascular surgeon
+interventional radiologist	uses	imaging guidance
+interventional radiologist	treats	vascular malformations
+stenosis	restricts	blood flow
+stenosis	leads to	reduced perfusion
+stenosis	treated with	angioplasty
+stenosis	may require	stent placement
+stenosis	measured by	pressure gradients
+revascularization	restores	circulation
+revascularization	options include	bypass surgery
+revascularization	improves	tissue oxygenation
+revascularization	prevents	amputation
+revascularization	monitored by	follow-up imaging
+catheter insertion	uses	Seldinger technique
+catheter insertion	risks	vessel perforation
+catheter insertion	requires	local anesthesia
+catheter insertion	guided by	ultrasound
+catheter insertion	may cause	pseudoaneurysm
+hematoma	managed with	compression
+hematoma	prevents	ambulation
+hematoma	monitored for	expansion
+hematoma	resolves with	time
+hematoma	indicates	bleeding risk
+sterile technique	prevents	sepsis
+sterile technique	includes	skin disinfection
+sterile technique	requires	sterile gloves
+sterile technique	minimizes	contamination
+sterile technique	standard in	invasive procedures
+infection	treated with	antibiotics
+infection	delays	recovery
+infection	increases	hospital stay
+infection	prevented by	prophylactic antibiotics
+infection	detected by	fever
+femoral artery	supplies	lower limb
+femoral artery	accessed for	cardiac catheterization
+femoral artery	prone to	pseudoaneurysm
+femoral artery	ligated in	trauma
+femoral artery	repaired with	vascular graft
+real-time images	assist in	procedural guidance
+real-time images	enhance	diagnostic accuracy
+real-time images	stored in	PACS
+real-time images	reviewed by	multidisciplinary team
+real-time images	improve	patient outcomes
+ionizing radiation	increases	cancer risk
+ionizing radiation	minimized by	ALARA principle
+ionizing radiation	shielded by	lead aprons
+ionizing radiation	cumulative over	lifetime
+ionizing radiation	regulated by	safety protocols
+lead shielding	protects	healthcare workers
+lead shielding	required for	radiation safety
+lead shielding	includes	thyroid collars
+lead shielding	standard in	radiology
+lead shielding	reduces	scatter radiation
+fluoroscopy	provides	continuous imaging
+fluoroscopy	used in	interventional procedures
+fluoroscopy	increases	radiation exposure
+fluoroscopy	assists in	device placement
+fluoroscopy	requires	contrast enhancement
+angioplasty	dilates	narrowed vessels
+angioplasty	uses	balloon catheter
+angioplasty	followed by	stenting
+angioplasty	risks	vessel dissection
+angioplasty	improves	walking distance
+stent placement	maintains	vessel patency
+stent placement	prevents	restenosis
+stent placement	requires	antiplatelet therapy
+stent placement	monitored by	duplex ultrasound
+stent placement	may lead	thrombosis

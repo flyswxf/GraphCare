@@ -1,0 +1,100 @@
+appendectomy	is a	surgical procedure
+appendectomy	treats	appendicitis
+appendectomy	removes	appendix
+appendectomy	can cause	pain
+appendectomy	requires	anesthesia
+appendectomy	has risk	infection
+appendectomy	has risk	bleeding
+appendectomy	preceded by	diagnosis
+appendectomy	followed by	recovery
+appendectomy	requires	hospital stay
+appendectomy	uses	laparoscope
+laparoscopic appendectomy	is a type of	appendectomy
+open appendectomy	is a type of	appendectomy
+appendectomy	performed by	surgeon
+appendectomy	requires	incision
+appendectomy	may lead	complications
+appendicitis	requires	appendectomy
+appendectomy	prevents	rupture
+ruptured appendix	requires	emergency appendectomy
+appendectomy	treats	abdominal pain
+appendectomy	reduces	mortality
+appendectomy	involves	sutures
+appendectomy	followed by	wound care
+appendectomy	requires	antibiotics
+appendectomy	affects	digestive system
+appendectomy	contraindicated in	bleeding disorders
+appendectomy	preceded by	imaging
+CT scan	diagnoses	appendicitis
+ultrasound	diagnoses	appendicitis
+appendectomy	requires	preoperative preparation
+appendectomy	followed by	follow-up
+appendectomy	has alternative	antibiotics
+antibiotics	treats	mild appendicitis
+appendectomy	common in	children
+appendectomy	common in	young adults
+appendectomy	rare in	elderly
+appendectomy	requires	postoperative monitoring
+appendectomy	affects	mobility
+appendectomy	requires	pain management
+appendectomy	uses	opioids
+opioids	manages	postoperative pain
+appendectomy	replaced by	laparoscopic surgery
+laparoscopic surgery	reduces	recovery time
+open surgery	requires	longer recovery
+appendectomy	prevents	peritonitis
+peritonitis	caused by	ruptured appendix
+appendectomy	requires	sterile technique
+appendectomy	performed in	operating room
+operating room	requires	surgical team
+surgical team	includes	anesthesiologist
+anesthesiologist	administers	anesthesia
+general anesthesia	used in	appendectomy
+appendectomy	contraindicated in	pregnancy
+appendectomy	complicated by	adhesions
+adhesions	cause	bowel obstruction
+bowel obstruction	treated by	surgery
+appendectomy	increases risk	hernia
+incisional hernia	complication of	appendectomy
+hernia	repaired by	herniorrhaphy
+appendectomy	preceded by	blood tests
+blood tests	check	infection
+white blood cells	indicate	infection
+appendectomy	contraindicated in	sepsis
+sepsis	treated by	IV antibiotics
+appendectomy	followed by	diet change
+clear liquids	recommended after	appendectomy
+appendectomy	requires	activity restriction
+heavy lifting	avoided after	appendectomy
+appendectomy	affects	immune system
+appendix	part of	lymphatic system
+lymphatic system	supports	immunity
+appendectomy	rare in	infants
+appendectomy	associated with	abdominal scar
+scar	results from	surgical incision
+appendectomy	uses	surgical staples
+surgical staples	close	incision
+appendectomy	may require	drainage tube
+drainage tube	removes	fluid
+appendectomy	complication	abscess
+abscess	treated by	drainage
+appendectomy	preceded by	fasting
+fasting	prevents	aspiration
+appendectomy	uses	electrocautery
+electrocautery	controls	bleeding
+appendectomy	complication	ileus
+ileus	causes	bowel rest
+appendectomy	followed by	bowel sounds check
+bowel sounds	indicate	recovery
+appendectomy	uncommon in	centenarians
+appendectomy	contraindicated in	heart disease
+appendectomy	risks	blood clots
+blood clots	prevented by	anticoagulants
+appendectomy	requires	informed consent
+informed consent	explains	risks
+appendectomy	performed under	aseptic conditions
+appendectomy	affects	gut microbiota
+gut microbiota	influences	health
+appendectomy	rare in	neonates
+appendectomy	preceded by	physical exam
+rebound tenderness	indicates	appendicitis

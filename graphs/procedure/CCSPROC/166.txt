@@ -1,0 +1,100 @@
+lumpectomy	is a	breast surgery
+quadrantectomy	is a	breast surgery
+lumpectomy	preserves	breast tissue
+quadrantectomy	removes	breast quadrant
+lumpectomy	treats	early-stage breast cancer
+quadrantectomy	treats	localized breast cancer
+lumpectomy	requires	radiation therapy
+quadrantectomy	may require	radiation therapy
+lumpectomy	has alternative	mastectomy
+quadrantectomy	has alternative	mastectomy
+lumpectomy	affects	breast appearance
+quadrantectomy	affects	breast symmetry
+lumpectomy	has complication	infection
+quadrantectomy	has complication	bleeding
+lumpectomy	needs	follow-up
+quadrantectomy	needs	follow-up
+lumpectomy	has risk	recurrence
+quadrantectomy	has risk	recurrence
+lumpectomy	precedes	radiation
+quadrantectomy	precedes	radiation
+lumpectomy	uses	local anesthesia
+quadrantectomy	uses	general anesthesia
+lumpectomy	involves	tumor removal
+quadrantectomy	involves	tissue removal
+lumpectomy	preserves	nipple
+quadrantectomy	may remove	nipple
+lumpectomy	has advantage	faster recovery
+quadrantectomy	has advantage	wider margin
+lumpectomy	requires	imaging guidance
+quadrantectomy	requires	preoperative marking
+lumpectomy	affects	lymph nodes
+quadrantectomy	affects	lymph nodes
+lumpectomy	followed by	chemotherapy
+quadrantectomy	followed by	chemotherapy
+lumpectomy	contraindicated in	large tumors
+quadrantectomy	contraindicated in	multicentric cancer
+lumpectomy	indicated for	DCIS
+quadrantectomy	indicated for	invasive carcinoma
+lumpectomy	requires	pathological examination
+quadrantectomy	requires	pathological examination
+lumpectomy	has outcome	survival rate
+quadrantectomy	has outcome	survival rate
+lumpectomy	performed by	breast surgeon
+quadrantectomy	performed by	surgical oncologist
+lumpectomy	evaluates	resection margin
+quadrantectomy	evaluates	resection margin
+lumpectomy	may require	re-excision
+quadrantectomy	may require	re-excision
+lumpectomy	associated with	breast pain
+quadrantectomy	associated with	breast pain
+lumpectomy	prevents	metastasis
+quadrantectomy	prevents	metastasis
+lumpectomy	improves	quality of life
+quadrantectomy	improves	prognosis
+lumpectomy	reduces	mortality
+quadrantectomy	reduces	mortality
+lumpectomy	depends on	tumor size
+quadrantectomy	depends on	tumor location
+lumpectomy	contraindicated in	pregnancy
+quadrantectomy	contraindicated in	pregnancy
+lumpectomy	requires	patient consent
+quadrantectomy	requires	patient consent
+lumpectomy	has cost	surgical fee
+quadrantectomy	has cost	hospital stay
+lumpectomy	needs	wound care
+quadrantectomy	needs	wound care
+lumpectomy	affects	breastfeeding
+quadrantectomy	affects	breastfeeding
+lumpectomy	influenced by	patient age
+quadrantectomy	influenced by	patient age
+lumpectomy	considers	breast size
+quadrantectomy	considers	breast size
+lumpectomy	evaluates	hormone receptors
+quadrantectomy	evaluates	hormone receptors
+lumpectomy	may combine with	sentinel node biopsy
+quadrantectomy	may combine with	axillary dissection
+lumpectomy	requires	postoperative monitoring
+quadrantectomy	requires	postoperative monitoring
+lumpectomy	prevents	local recurrence
+quadrantectomy	prevents	local recurrence
+lumpectomy	uses	surgical drains
+quadrantectomy	uses	surgical drains
+lumpectomy	affected by	tumor grade
+quadrantectomy	affected by	tumor grade
+lumpectomy	has success rate	90%
+quadrantectomy	has success rate	85%
+lumpectomy	contraindicated in	connective tissue disease
+quadrantectomy	contraindicated in	bleeding disorders
+lumpectomy	requires	preoperative imaging
+quadrantectomy	requires	preoperative imaging
+lumpectomy	affected by	BRCA status
+quadrantectomy	affected by	BRCA status
+lumpectomy	may cause	seroma
+quadrantectomy	may cause	lymphedema
+lumpectomy	influenced by	comorbidities
+quadrantectomy	influenced by	comorbidities
+lumpectomy	has alternative	hormonal therapy
+quadrantectomy	has alternative	neoadjuvant therapy
+lumpectomy	requires	multidisciplinary team
+quadrantectomy	requires	multidisciplinary team

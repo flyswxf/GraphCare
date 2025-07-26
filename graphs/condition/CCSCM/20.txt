@@ -1,0 +1,100 @@
+cancer	includes	lung cancer
+respiratory cancer	is a type of	cancer
+intrathoracic cancer	is a type of	cancer
+lung cancer	is a	respiratory cancer
+mesothelioma	is a	intrathoracic cancer
+cancer	may cause	pleural effusion
+cancer	may cause	hemoptysis
+cancer	may cause	dyspnea
+lung cancer	has subtype	non-small cell lung cancer
+lung cancer	has subtype	small cell lung cancer
+cancer	is diagnosed with	biopsy
+cancer	is diagnosed with	CT scan
+cancer	is diagnosed with	PET scan
+cancer	is treated with	chemotherapy
+cancer	is treated with	radiation therapy
+cancer	is treated with	immunotherapy
+cancer	is treated with	targeted therapy
+cancer	is treated with	surgery
+smoking	is a risk factor for	lung cancer
+asbestos exposure	is a risk factor for	mesothelioma
+radon exposure	is a risk factor for	lung cancer
+cancer	may metastasize to	bones
+cancer	may metastasize to	brain
+cancer	may metastasize to	liver
+cancer	may metastasize to	adrenal glands
+cancer	may lead to	cachexia
+cancer	may lead to	anemia
+cancer	may lead to	hypercalcemia
+chemotherapy	may cause	neutropenia
+chemotherapy	may cause	nausea
+chemotherapy	may cause	alopecia
+radiation therapy	may cause	pneumonitis
+radiation therapy	may cause	esophagitis
+immunotherapy	may cause	immune-related adverse events
+targeted therapy	targets	EGFR mutations
+targeted therapy	targets	ALK rearrangements
+cancer	may require	oxygen therapy
+cancer	may require	pain management
+cancer	may require	palliative care
+cancer	has staging system	TNM staging
+cancer	may recur after	treatment
+cancer	has biomarker	PD-L1
+cancer	has biomarker	tumor mutational burden
+bronchoscopy	is used for	cancer diagnosis
+thoracentesis	is used for	pleural effusion
+cancer	may cause	superior vena cava syndrome
+cancer	may cause	Horner syndrome
+cancer	may cause	paraneoplastic syndromes
+cancer	may increase risk of	pulmonary embolism
+cancer	may increase risk of	pneumonia
+cancer patients	may develop	depression
+cancer patients	may develop	anxiety
+cancer	affects	quality of life
+cancer treatment	requires	multidisciplinary team
+cancer	has prognostic factor	performance status
+cancer	has prognostic factor	tumor grade
+cancer	has prognostic factor	molecular profile
+cancer research	includes	clinical trials
+cancer screening	includes	low-dose CT
+cancer	may be prevented by	smoking cessation
+cancer	may be prevented by	radon mitigation
+cancer	may be prevented by	asbestos avoidance
+cancer survivorship	requires	follow-up care
+cancer	has complication	treatment-related toxicity
+cancer	has complication	treatment resistance
+liquid biopsy	is used for	cancer monitoring
+cancer	can be classified as	primary
+cancer	can be classified as	metastatic
+cancer	can be classified as	recurrent
+cancer registry	collects	cancer data
+cancer	has epidemiological factor	age
+cancer	has epidemiological factor	gender
+cancer	has epidemiological factor	family history
+cancer	may involve	lymph nodes
+cancer	may involve	mediastinum
+cancer	may involve	chest wall
+cancer pain	may be treated with	opioids
+cancer fatigue	may be treated with	exercise
+cancer nutrition	requires	dietary modifications
+cancer	may affect	vocal cords
+cancer	may affect	diaphragm
+cancer	may cause	clubbing
+cancer	may cause	weight loss
+cancer	may cause	night sweats
+cancer	may cause	hoarseness
+cancer	may cause	chest pain
+cancer	may cause	cough
+cancer	may cause	fatigue
+cancer	may cause	anorexia
+cancer	may be associated with	genetic mutations
+cancer	may be associated with	environmental exposures
+cancer	may be associated with	chronic inflammation
+cancer cells	exhibit	uncontrolled growth
+cancer cells	exhibit	invasion
+cancer cells	exhibit	metastasis
+tumor microenvironment	influences	cancer progression
+angiogenesis	supports	tumor growth
+cancer stem cells	contribute to	treatment resistance
+precision medicine	tailors	cancer treatment
+artificial intelligence	assists in	cancer diagnosis

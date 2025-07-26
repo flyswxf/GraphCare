@@ -1,0 +1,110 @@
+antiinflammatory agents	ophthalmologic	is a	drug class
+antiinflammatory agents	ophthalmologic	treats	eye inflammation
+antiinflammatory agents	ophthalmologic	includes	corticosteroids
+antiinflammatory agents	ophthalmologic	includes	NSAIDs
+corticosteroids	reduce	swelling
+corticosteroids	suppress	immune response
+NSAIDs	inhibit	prostaglandins
+prostaglandins	mediate	pain
+prostaglandins	mediate	inflammation
+eye inflammation	caused by	allergies
+eye inflammation	caused by	infections
+eye inflammation	caused by	trauma
+antiinflammatory agents	ophthalmologic	administered as	eye drops
+antiinflammatory agents	ophthalmologic	administered as	ointments
+eye drops	have	faster absorption
+ointments	provide	prolonged contact
+corticosteroids	may cause	glaucoma
+corticosteroids	may cause	cataracts
+NSAIDs	may cause	corneal damage
+NSAIDs	may cause	burning sensation
+allergies	trigger	histamine release
+histamine release	causes	itching
+infections	involve	bacteria
+infections	involve	viruses
+bacteria	treated with	antibiotics
+viruses	treated with	antivirals
+trauma	leads to	tissue damage
+tissue damage	requires	healing
+healing	involves	cell proliferation
+cell proliferation	regulated by	growth factors
+antiinflammatory agents	ophthalmologic	contraindicated in	corneal ulcers
+corneal ulcers	caused by	infections
+corneal ulcers	caused by	dryness
+dryness	results from	reduced tear production
+tear production	regulated by	lacrimal glands
+lacrimal glands	affected by	autoimmune disorders
+autoimmune disorders	include	Sjogren's syndrome
+Sjogren's syndrome	affects	mucous membranes
+mucous membranes	line	eyes
+antiinflammatory agents	ophthalmologic	interact with	contact lenses
+contact lenses	can absorb	drug components
+drug components	may alter	lens transparency
+lens transparency	affects	vision
+vision	depends on	corneal clarity
+corneal clarity	maintained by	endothelial cells
+endothelial cells	damaged by	surgery
+surgery	includes	cataract extraction
+cataract extraction	replaces	cloudy lens
+cloudy lens	caused by	protein aggregation
+protein aggregation	accelerated by	UV light
+UV light	blocked by	sunglasses
+sunglasses	protect	eyes
+eyes	contain	retina
+retina	detects	light
+light	converted to	neural signals
+neural signals	processed by	brain
+brain	interprets	images
+images	form	vision
+antiinflammatory agents	ophthalmologic	prescribed for	uveitis
+uveitis	involves	middle eye layer
+middle eye layer	contains	blood vessels
+blood vessels	supply	nutrients
+nutrients	support	cell function
+cell function	requires	oxygen
+oxygen	transported by	hemoglobin
+hemoglobin	found in	red blood cells
+red blood cells	produced in	bone marrow
+bone marrow	affected by	chemotherapy
+chemotherapy	suppresses	immune system
+immune system	protects against	infections
+infections	increase	inflammation
+inflammation	managed by	antiinflammatory agents
+antiinflammatory agents	ophthalmologic	avoid in	viral keratitis
+viral keratitis	caused by	herpes simplex
+herpes simplex	treated with	antivirals
+antivirals	inhibit	viral replication
+viral replication	requires	host cells
+host cells	infected by	viruses
+viruses	evade	immune detection
+immune detection	involves	antibodies
+antibodies	produced by	B cells
+B cells	activated by	antigens
+antigens	recognized by	immune system
+immune system	includes	T cells
+T cells	attack	infected cells
+infected cells	release	cytokines
+cytokines	promote	inflammation
+inflammation	attracts	white blood cells
+white blood cells	combat	pathogens
+pathogens	include	bacteria
+bacteria	destroyed by	phagocytosis
+phagocytosis	performed by	macrophages
+macrophages	derived from	monocytes
+monocytes	circulate in	blood
+blood	filtered by	spleen
+spleen	stores	platelets
+platelets	aid in	clotting
+clotting	prevents	bleeding
+bleeding	occurs with	vessel damage
+vessel damage	repaired by	endothelial cells
+endothelial cells	secrete	growth factors
+growth factors	stimulate	tissue repair
+tissue repair	involves	collagen deposition
+collagen deposition	strengthens	wound
+wound	heals by	scarring
+scarring	affects	tissue function
+tissue function	restored by	regeneration
+regeneration	limited in	humans
+humans	rely on	medical interventions
+medical interventions	include	antiinflammatory agents

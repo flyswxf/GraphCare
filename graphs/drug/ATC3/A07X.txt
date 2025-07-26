@@ -1,0 +1,100 @@
+other antidiarrheals	belong to	ATC class
+other antidiarrheals	subclass of	antidiarrheals
+other antidiarrheals	treat	diarrhea
+diarrhea	symptom of	gastrointestinal disorders
+other antidiarrheals	mechanism	intestinal motility reduction
+other antidiarrheals	may contain	racecadotril
+racecadotril	inhibits	enkephalinase
+enkephalinase	degrades	enkephalins
+enkaphalins	regulate	intestinal secretion
+other antidiarrheals	may contain	loperamide
+loperamide	acts on	opioid receptors
+opioid receptors	reduce	gut motility
+other antidiarrheals	alternative to	antibiotics
+antibiotics	treat	infectious diarrhea
+other antidiarrheals	contraindicated in	bacterial diarrhea
+bacterial diarrhea	caused by	pathogens
+other antidiarrheals	interact with	CNS depressants
+CNS depressants	include	opioids
+other antidiarrheals	require	prescription
+prescription	issued by	physician
+other antidiarrheals	sold as	tablets
+tablets	contain	active ingredients
+active ingredients	determine	drug efficacy
+other antidiarrheals	have	half-life
+half-life	affects	dosing frequency
+other antidiarrheals	metabolized in	liver
+liver	contains	cytochrome enzymes
+cytochrome enzymes	process	drugs
+other antidiarrheals	excreted via	kidneys
+kidneys	filter	blood
+other antidiarrheals	contraindicated in	liver disease
+liver disease	impairs	drug metabolism
+other antidiarrheals	used in	travelers' diarrhea
+travelers' diarrhea	caused by	contaminated food
+other antidiarrheals	alternative to	oral rehydration
+oral rehydration	replenishes	electrolytes
+electrolytes	maintain	fluid balance
+other antidiarrheals	interact with	antacids
+antacids	neutralize	stomach acid
+other antidiarrheals	affect	gut microbiota
+gut microbiota	influence	immunity
+other antidiarrheals	prescribed for	IBS
+IBS	stands for	irritable bowel syndrome
+other antidiarrheals	used with	probiotics
+probiotics	contain	beneficial bacteria
+other antidiarrheals	stored at	room temperature
+room temperature	preserves	drug stability
+other antidiarrheals	have	expiration date
+expiration date	indicates	shelf life
+other antidiarrheals	covered by	insurance
+insurance	reduces	medication cost
+other antidiarrheals	monitored by	FDA
+FDA	regulates	drug safety
+other antidiarrheals	have	adverse effects
+adverse effects	include	constipation
+constipation	treated with	laxatives
+other antidiarrheals	derived from	natural sources
+natural sources	include	plants
+plants	contain	bioactive compounds
+other antidiarrheals	compared to	kaolin-pectin
+kaolin-pectin	absorbs	toxins
+toxins	cause	diarrhea
+other antidiarrheals	available as	suspensions
+suspensions	suit	pediatric patients
+pediatric patients	require	adjusted doses
+other antidiarrheals	contraindicated in	ulcerative colitis
+ulcerative colitis	involves	colon inflammation
+other antidiarrheals	tested in	clinical trials
+clinical trials	assess	drug effectiveness
+other antidiarrheals	have	bioavailability
+bioavailability	measures	drug absorption
+other antidiarrheals	interact with	grapefruit juice
+grapefruit juice	inhibits	drug metabolism
+other antidiarrheals	alternative to	bismuth subsalicylate
+bismuth subsalicylate	has	antimicrobial properties
+other antidiarrheals	prescribed for	chemotherapy-induced diarrhea
+chemotherapy	damages	intestinal lining
+other antidiarrheals	used in	HIV patients
+HIV	weakens	immune system
+other antidiarrheals	have	brand names
+brand names	differ by	manufacturer
+manufacturer	follows	GMP
+GMP	ensures	production quality
+other antidiarrheals	classified as	A07XA
+A07XA	includes	miscellaneous antidiarrheals
+other antidiarrheals	contraindicated in	pseudomembranous colitis
+pseudomembranous colitis	caused by	C. difficile
+other antidiarrheals	studied in	pharmacokinetics
+pharmacokinetics	describes	drug movement
+other antidiarrheals	have	therapeutic index
+therapeutic index	measures	drug safety
+other antidiarrheals	used in	elderly
+elderly	have	altered drug metabolism
+other antidiarrheals	require	dose adjustment
+dose adjustment	prevents	toxicity
+other antidiarrheals	interact with	CYP3A4 inducers
+CYP3A4 inducers	accelerate	drug breakdown
+other antidiarrheals	have	molecular weight
+molecular weight	affects	drug distribution
+other antidiarrheals	researched for	new formulations

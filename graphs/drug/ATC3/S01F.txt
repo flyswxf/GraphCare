@@ -1,0 +1,100 @@
+mydriatics	are	medications
+cycloplegics	are	medications
+mydriatics	cause	pupil dilation
+cycloplegics	cause	ciliary muscle paralysis
+mydriatics	used for	eye exams
+cycloplegics	used for	refractive testing
+mydriatics	contain	anticholinergic agents
+cyclopegics	contain	antimuscarinic drugs
+tropicamide	is a	mydriatic
+atropine	is a	cycloplegic
+phenylephrine	is a	mydriatic
+homatropine	is a	cycloplegic
+cyclopentolate	is a	cycloplegic
+scopolamine	is a	cycloplegic
+mydriatics	increase	intraocular pressure
+cycloplegics	decrease	accommodation
+mydriatics	contraindicated in	glaucoma
+cycloplegics	contraindicated in	Down syndrome
+mydriatics	require	informed consent
+cycloplegics	require	patient monitoring
+mydriatics	duration	4-6 hours
+cycloplegics	duration	up to 24 hours
+mydriatics	affect	iris sphincter muscle
+cycloplegics	affect	ciliary body
+mydriatics	used in	fundoscopy
+cycloplegics	used in	cataract surgery
+mydriatics	reverse with	pilocarpine
+mydriatics	interact with	MAO inhibitors
+cycloplegics	interact with	tricyclic antidepressants
+mydriatics	side effect	photophobia
+cycloplegics	side effect	blurred vision
+mydriatics	onset	15-30 minutes
+cycloplegics	onset	30-60 minutes
+mydriatics	peak effect	1 hour
+cycloplegics	peak effect	2 hours
+mydriatics	available as	eye drops
+cycloplegics	available as	ointments
+mydriatics	absorption	ocular
+cycloplegics	absorption	systemic
+mydriatics	contraindicated in	aneurysms
+cycloplegics	contraindicated in	elderly
+mydriatics	mechanism	alpha-1 agonism
+cycloplegics	mechanism	muscarinic antagonism
+mydriatics	classification	sympathomimetic
+cycloplegics	classification	parasympatholytic
+mydriatics	storage	room temperature
+cycloplegics	storage	refrigerated
+mydriatics	pregnancy category	C
+cycloplegics	pregnancy category	B
+mydriatics	excreted in	urine
+cycloplegics	excreted in	bile
+mydriatics	toxicity	hypertension
+cycloplegics	toxicity	delirium
+mydriatics	alternative	non-dilating fundoscopy
+cycloplegics	alternative	autorefraction
+mydriatics	brand name	Mydriacyl
+cycloplegics	brand name	Cyclogyl
+mydriatics	generic name	tropicamide
+cycloplegics	generic name	cyclopentolate
+mydriatics	FDA approval	1960
+cycloplegics	FDA approval	1950
+mydriatics	research	new formulations
+cycloplegics	research	pediatric dosing
+mydriatics	cost	$10-20
+cycloplegics	cost	$15-30
+mydriatics	patent expired	yes
+cycloplegics	patent expired	yes
+mydriatics	alternative route	intracameral
+cycloplegics	alternative route	subconjunctival
+mydriatics	stability	28 days
+cycloplegics	stability	14 days
+mydriatics	preservative	benzalkonium chloride
+cycloplegics	preservative	EDTA
+mydriatics	pH	6.5
+cycloplegics	pH	7.0
+mydriatics	osmolality	290 mOsm
+cycloplegics	osmolality	310 mOsm
+mydriatics	viscosity	low
+cycloplegics	viscosity	high
+mydriatics	packaging	multi-dose
+cycloplegics	packaging	single-use
+mydriatics	manufacturer	Alcon
+cycloplegics	manufacturer	Bausch+Lomb
+mydriatics	indication	uveitis
+cycloplegics	indication	iritis
+mydriatics	contraindication	narrow angles
+cycloplegics	contraindication	infants
+mydriatics	precaution	cardiovascular disease
+cycloplegics	precaution	Down syndrome
+mydriatics	adverse effect	tachycardia
+cycloplegics	adverse effect	fever
+mydriatics	drug class	ophthalmic agents
+cycloplegics	drug class	autonomic drugs
+mydriatics	metabolism	hepatic
+cycloplegics	metabolism	plasma esterases
+mydriatics	elimination half-life	3 hours
+cycloplegics	elimination half-life	8 hours
+mydriatics	protein binding	30%
+cycloplegics	protein binding	50%
+mydriatics and cycloplegics	often combined	eye examinations

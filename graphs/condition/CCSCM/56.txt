@@ -1,0 +1,100 @@
+cystic fibrosis	is a	genetic disorder
+cystic fibrosis	affects	lungs
+cystic fibrosis	affects	pancreas
+cystic fibrosis	caused by	CFTR mutation
+CFTR mutation	leads to	thick mucus
+thick mucus	causes	lung infections
+lung infections	require	antibiotics
+cystic fibrosis	may cause	malnutrition
+malnutrition	treated with	enzyme supplements
+enzyme supplements	help digest	fats
+cystic fibrosis	diagnosed via	sweat test
+sweat test	measures	chloride levels
+high chloride levels	indicate	cystic fibrosis
+cystic fibrosis	managed with	airway clearance
+airway clearance	performed using	vest therapy
+cystic fibrosis	increases risk of	diabetes
+cystic fibrosis-related diabetes	treated with	insulin
+cystic fibrosis	may lead to	liver disease
+liver disease	monitored via	liver function tests
+cystic fibrosis	associated with	osteoporosis
+osteoporosis	prevented with	calcium supplements
+cystic fibrosis	requires	high-calorie diet
+high-calorie diet	includes	nutritional shakes
+cystic fibrosis	treated with	CFTR modulators
+CFTR modulators	improve	CFTR function
+ivacaftor	is a	CFTR modulator
+lumacaftor	is a	CFTR modulator
+tezacaftor	is a	CFTR modulator
+elexacaftor	is a	CFTR modulator
+triple therapy	combines	CFTR modulators
+cystic fibrosis	may require	lung transplant
+lung transplant	risks include	rejection
+rejection	prevented with	immunosuppressants
+cystic fibrosis	monitored via	pulmonary tests
+pulmonary tests	measure	lung function
+cystic fibrosis	may cause	sinusitis
+sinusitis	treated with	nasal irrigation
+cystic fibrosis	increases risk of	pneumonia
+pneumonia	treated with	IV antibiotics
+cystic fibrosis	may lead to	heart failure
+heart failure	managed with	diuretics
+cystic fibrosis	requires	vaccinations
+vaccinations	prevent	influenza
+influenza	worsens	cystic fibrosis
+cystic fibrosis	screened via	newborn screening
+newborn screening	detects	CFTR mutations
+cystic fibrosis	may cause	infertility
+infertility	addressed via	assisted reproduction
+cystic fibrosis	affects	life expectancy
+life expectancy	improved by	early diagnosis
+cystic fibrosis	may cause	gastroesophageal reflux
+gastroesophageal reflux	treated with	PPIs
+PPIs	reduce	stomach acid
+cystic fibrosis	may lead to	bowel obstruction
+bowel obstruction	treated with	laxatives
+cystic fibrosis	requires	multidisciplinary care
+multidisciplinary care	includes	pulmonologists
+pulmonologists	specialize in	lung diseases
+cystic fibrosis	may cause	clubbing
+clubbing	indicates	chronic hypoxia
+chronic hypoxia	treated with	oxygen therapy
+cystic fibrosis	may lead to	pulmonary hypertension
+pulmonary hypertension	managed with	vasodilators
+cystic fibrosis	increases risk of	depression
+depression	treated with	antidepressants
+cystic fibrosis	requires	regular exercise
+regular exercise	improves	lung capacity
+cystic fibrosis	may cause	electrolyte imbalance
+electrolyte imbalance	corrected with	oral rehydration
+cystic fibrosis	monitored via	sputum culture
+sputum culture	identifies	bacterial infections
+cystic fibrosis	may lead to	respiratory failure
+respiratory failure	treated with	mechanical ventilation
+cystic fibrosis	associated with	nasal polyps
+nasal polyps	removed via	surgery
+cystic fibrosis	may cause	dehydration
+dehydration	prevented with	increased fluid intake
+cystic fibrosis	increases risk of	osteoporosis
+osteoporosis	managed with	bisphosphonates
+cystic fibrosis	requires	genetic counseling
+genetic counseling	assesses	carrier status
+carrier status	determined via	genetic testing
+cystic fibrosis	may lead to	pancreatic insufficiency
+pancreatic insufficiency	treated with	pancreatic enzymes
+pancreatic enzymes	aid in	nutrient absorption
+cystic fibrosis	may cause	salt loss
+salt loss	compensated with	salt supplements
+cystic fibrosis	increases risk of	asthma
+asthma	managed with	bronchodilators
+cystic fibrosis	may lead to	bronchiectasis
+bronchiectasis	treated with	chest physiotherapy
+cystic fibrosis	requires	frequent hospitalizations
+frequent hospitalizations	increase	healthcare costs
+cystic fibrosis	may cause	fatigue
+fatigue	managed with	energy conservation
+cystic fibrosis	increases risk of	anxiety
+anxiety	treated with	cognitive behavioral therapy
+cystic fibrosis	may lead to	sleep disturbances
+sleep disturbances	addressed with	sleep hygiene
+cystic fibrosis	researched via	clinical trials

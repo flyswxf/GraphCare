@@ -1,0 +1,100 @@
+ERCP	is a	diagnostic procedure
+ERCP	is a	therapeutic procedure
+ERCP	involves	fluoroscopy
+ERCP	examines	biliary ducts
+ERCP	examines	pancreatic ducts
+ERCP	requires	endoscope
+ERCP	uses	contrast medium
+ERCP	performed by	gastroenterologist
+ERCP	can diagnose	gallstones
+ERCP	can treat	gallstones
+ERCP	can diagnose	biliary strictures
+ERCP	can treat	biliary strictures
+ERCP	can diagnose	pancreatic cancer
+ERCP	can diagnose	cholangitis
+ERCP	can treat	cholangitis
+ERCP	carries risk	pancreatitis
+ERCP	carries risk	bleeding
+ERCP	carries risk	infection
+ERCP	requires	sedation
+ERCP	preceded by	fasting
+ERCP	may require	antibiotic prophylaxis
+ERCP	alternative to	MRCP
+ERCP	more invasive than	MRCP
+ERCP	provides	real-time imaging
+ERCP	allows	therapeutic intervention
+ERCP	can perform	sphincterotomy
+ERCP	can place	biliary stent
+ERCP	can remove	bile duct stones
+ERCP	evaluates	jaundice causes
+ERCP	assesses	bile leaks
+ERCP	contraindicated in	pregnancy
+ERCP	requires	patient monitoring
+ERCP	performed in	endoscopy suite
+ERCP	uses	x-ray equipment
+ERCP	requires	informed consent
+ERCP	complication	perforation
+ERCP	complication	contrast reaction
+ERCP	follow-up	laboratory tests
+ERCP	preparation	bowel cleansing
+ERCP	can diagnose	primary sclerosing cholangitis
+ERCP	can diagnose	chronic pancreatitis
+ERCP	can assess	pancreatic duct leaks
+ERCP	contraindicated in	severe cardiopulmonary disease
+ERCP	requires	intravenous access
+ERCP	monitors	vital signs
+ERCP	evaluates	post-surgical complications
+ERCP	can perform	balloon dilation
+ERCP	can obtain	tissue samples
+ERCP	can measure	duct pressures
+ERCP	can diagnose	ampullary tumors
+ERCP	can treat	ampullary tumors
+ERCP	evaluates	biliary dyskinesia
+ERCP	contraindicated in	contrast allergy
+ERCP	requires	coagulation assessment
+ERCP	alternative	percutaneous transhepatic cholangiography
+ERCP	evaluates	post-liver transplant complications
+ERCP	assesses	pancreatic divisum
+ERCP	can perform	nasobiliary drainage
+ERCP	can place	pancreatic stent
+ERCP	requires	specialized training
+ERCP	evaluates	sphincter of Oddi dysfunction
+ERCP	can perform	stone extraction
+ERCP	can diagnose	choledocholithiasis
+ERCP	can treat	choledocholithiasis
+ERCP	contraindicated in	unstable patients
+ERCP	requires	anesthesia support
+ERCP	evaluates	biliary obstruction
+ERCP	can relieve	biliary obstruction
+ERCP	assesses	pancreatic pseudocysts
+ERCP	can perform	cyst drainage
+ERCP	contraindicated in	bleeding disorders
+ERCP	requires	pre-procedure evaluation
+ERCP	evaluates	post-cholecystectomy syndrome
+ERCP	assesses	bile duct tumors
+ERCP	can perform	biopsy
+ERCP	contraindicated in	uncooperative patients
+ERCP	requires	pregnancy testing
+ERCP	evaluates	recurrent pancreatitis
+ERCP	assesses	pancreatic duct strictures
+ERCP	can dilate	pancreatic duct strictures
+ERCP	contraindicated in	intestinal obstruction
+ERCP	requires	pulse oximetry
+ERCP	evaluates	biliary fistula
+ERCP	can treat	biliary fistula
+ERCP	assesses	duodenal diverticula
+ERCP	contraindicated in	recent myocardial infarction
+ERCP	requires	emergency equipment
+ERCP	evaluates	parasite infections
+ERCP	contraindicated in	severe coagulopathy
+ERCP	assesses	sphincter stenosis
+ERCP	can treat	sphincter stenosis
+ERCP	evaluates	pancreatic necrosis
+ERCP	contraindicated in	perforated bowel
+ERCP	requires	post-procedure observation
+ERCP	evaluates	biliary sludge
+ERCP	can treat	biliary sludge
+ERCP	assesses	pancreatic duct stones
+ERCP	can remove	pancreatic duct stones
+ERCP	contraindicated in	severe respiratory distress
+ERCP	requires	radiation protection

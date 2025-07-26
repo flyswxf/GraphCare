@@ -1,0 +1,100 @@
+open wounds	may cause	infection
+open wounds	may lead to	scarring
+open wounds	require	wound cleaning
+open wounds	may need	sutures
+open wounds	can result in	bleeding
+wound cleaning	uses	antiseptic solution
+sutures	are applied by	medical professional
+infection	may require	antibiotics
+antibiotics	are prescribed by	physician
+open wounds	may result in	pain
+pain	may be treated with	analgesics
+analgesics	include	acetaminophen
+open wounds	may require	tetanus shot
+tetanus shot	prevents	tetanus infection
+open wounds	may cause	swelling
+swelling	may be reduced by	ice pack
+open wounds	may lead to	fever
+fever	may indicate	systemic infection
+open wounds	may affect	wound healing
+wound healing	requires	proper nutrition
+proper nutrition	includes	protein intake
+open wounds	may result in	nerve damage
+nerve damage	may cause	numbness
+open wounds	may lead to	cosmetic concerns
+cosmetic concerns	may require	plastic surgery
+plastic surgery	performed by	plastic surgeon
+open wounds	may need	wound dressing
+wound dressing	protects	wound site
+open wounds	may cause	hematoma
+hematoma	may require	drainage
+open wounds	may result in	hypovolemia
+hypovolemia	may lead to	shock
+shock	requires	fluid resuscitation
+open wounds	may cause	tissue necrosis
+tissue necrosis	may require	debridement
+debridement	removes	dead tissue
+open wounds	may lead to	compartment syndrome
+compartment syndrome	requires	fasciotomy
+open wounds	may cause	cellulitis
+cellulitis	is treated with	oral antibiotics
+open wounds	may result in	abscess formation
+abscess	may require	incision and drainage
+open wounds	may lead to	sepsis
+sepsis	requires	intravenous antibiotics
+open wounds	may cause	lymphangitis
+lymphangitis	presents with	red streaks
+open wounds	may result in	osteomyelitis
+osteomyelitis	is treated with	long-term antibiotics
+open wounds	may lead to	soft tissue damage
+soft tissue damage	may require	physical therapy
+physical therapy	improves	mobility
+open wounds	may cause	chronic pain
+chronic pain	may require	pain management
+open wounds	may result in	keloid formation
+keloid	may be treated with	steroid injections
+open wounds	may lead to	contractures
+contractures	may require	surgical release
+open wounds	may cause	foreign body reaction
+foreign body reaction	may require	removal
+open wounds	may result in	psychological trauma
+psychological trauma	may require	counseling
+open wounds	may lead to	sleep disturbance
+sleep disturbance	may be treated with	sleep aids
+open wounds	may cause	anemia
+anemia	may require	blood transfusion
+blood transfusion	requires	blood typing
+open wounds	may result in	electrolyte imbalance
+electrolyte imbalance	may require	IV fluids
+open wounds	may lead to	renal failure
+renal failure	requires	dialysis
+open wounds	may cause	hypoglycemia
+hypoglycemia	is treated with	glucose
+open wounds	may result in	hypothermia
+hypothermia	requires	warming measures
+open wounds	may lead to	malnutrition
+malnutrition	may require	nutritional supplements
+open wounds	may cause	vitamin deficiency
+vitamin deficiency	may require	vitamin therapy
+open wounds	may result in	delayed healing
+delayed healing	may require	hyperbaric oxygen therapy
+open wounds	may lead to	amputations
+amputations	require	prosthetics
+open wounds	may cause	phantom limb pain
+phantom limb pain	may require	nerve blocks
+open wounds	may result in	disability
+disability	may require	rehabilitation
+open wounds	may lead to	loss of function
+loss of function	may require	occupational therapy
+open wounds	may cause	depression
+depression	may be treated with	antidepressants
+open wounds	may result in	anxiety
+anxiety	may require	anxiolytics
+open wounds	may lead to	PTSD
+PTSD	may require	psychotherapy
+open wounds	may cause	social isolation
+social isolation	may require	support groups
+open wounds	may result in	financial burden
+financial burden	may require	medical assistance
+open wounds	may lead to	mortality
+mortality	is predicted by	severity scores

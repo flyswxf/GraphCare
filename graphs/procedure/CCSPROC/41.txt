@@ -1,0 +1,100 @@
+respiratory procedure	is a	medical procedure
+respiratory procedure	involves	respiratory system
+bronchoscopy	is a type of	respiratory procedure
+thoracentesis	is a type of	respiratory procedure
+pulmonary function test	is a type of	respiratory procedure
+bronchoscopy	examines	airways
+thoracentesis	drains	pleural fluid
+pulmonary function test	measures	lung capacity
+bronchoscopy	detects	lung cancer
+bronchoscopy	removes	foreign bodies
+thoracentesis	relieves	pleural effusion
+pulmonary function test	diagnoses	asthma
+pulmonary function test	evaluates	COPD
+bronchoalveolar lavage	is a type of	bronchoscopy
+endobronchial ultrasound	is a type of	bronchoscopy
+bronchoalveolar lavage	collects	lung samples
+endobronchial ultrasound	guides	biopsy
+pleuroscopy	is a type of	respiratory procedure
+pleuroscopy	visualizes	pleura
+pleuroscopy	treats	pleural diseases
+nasal endoscopy	is a type of	respiratory procedure
+nasal endoscopy	examines	nasal passages
+nasal endoscopy	diagnoses	sinusitis
+laryngoscopy	is a type of	respiratory procedure
+laryngoscopy	examines	larynx
+laryngoscopy	detects	vocal cord lesions
+tracheostomy	is a type of	respiratory procedure
+tracheostomy	creates	airway opening
+tracheostomy	manages	airway obstruction
+chest tube insertion	is a type of	respiratory procedure
+chest tube insertion	drains	pneumothorax
+chest tube insertion	treats	hemothorax
+oxygen therapy	is a type of	respiratory procedure
+oxygen therapy	delivers	supplemental oxygen
+oxygen therapy	treats	hypoxemia
+mechanical ventilation	is a type of	respiratory procedure
+mechanical ventilation	supports	breathing
+mechanical ventilation	manages	respiratory failure
+sleep study	is a type of	respiratory procedure
+sleep study	diagnoses	sleep apnea
+sleep study	monitors	breathing patterns
+arterial blood gas test	is a type of	respiratory procedure
+arterial blood gas test	measures	blood oxygen
+arterial blood gas test	evaluates	acid-base balance
+peak flow measurement	is a type of	respiratory procedure
+peak flow measurement	assesses	asthma control
+peak flow measurement	monitors	airway obstruction
+sputum culture	is a type of	respiratory procedure
+sputum culture	identifies	respiratory infections
+sputum culture	detects	tuberculosis
+lung biopsy	is a type of	respiratory procedure
+lung biopsy	diagnoses	interstitial lung disease
+lung biopsy	detects	lung fibrosis
+exhaled nitric oxide test	is a type of	respiratory procedure
+exhaled nitric oxide test	measures	airway inflammation
+exhaled nitric oxide test	monitors	asthma
+allergy testing	is a type of	respiratory procedure
+allergy testing	identifies	allergic triggers
+allergy testing	relates to	allergic asthma
+pleural biopsy	is a type of	respiratory procedure
+pleural biopsy	diagnoses	mesothelioma
+pleural biopsy	evaluates	pleural thickening
+bronchial thermoplasty	is a type of	respiratory procedure
+bronchial thermoplasty	treats	severe asthma
+bronchial thermoplasty	reduces	airway smooth muscle
+nasal polyp removal	is a type of	respiratory procedure
+nasal polyp removal	relieves	nasal obstruction
+nasal polyp removal	treats	chronic rhinosinusitis
+septoplasty	is a type of	respiratory procedure
+septoplasty	corrects	deviated septum
+septoplasty	improves	nasal breathing
+adenoidectomy	is a type of	respiratory procedure
+adenoidectomy	removes	enlarged adenoids
+adenoidectomy	treats	sleep apnea
+tonsillectomy	is a type of	respiratory procedure
+tonsillectomy	removes	enlarged tonsils
+tonsillectomy	treats	obstructive sleep apnea
+lung volume reduction surgery	is a type of	respiratory procedure
+lung volume reduction surgery	treats	emphysema
+lung volume reduction surgery	improves	lung function
+tracheal stent placement	is a type of	respiratory procedure
+tracheal stent placement	maintains	airway patency
+tracheal stent placement	treats	tracheal stenosis
+hyperbaric oxygen therapy	is a type of	respiratory procedure
+hyperbaric oxygen therapy	enhances	tissue oxygenation
+hyperbaric oxygen therapy	treats	carbon monoxide poisoning
+incentive spirometry	is a type of	respiratory procedure
+incentive spirometry	prevents	atelectasis
+incentive spirometry	improves	lung expansion
+cricothyrotomy	is a type of	respiratory procedure
+cricothyrotomy	establishes	emergency airway
+cricothyrotomy	treats	upper airway obstruction
+thoracoscopy	is a type of	respiratory procedure
+thoracoscopy	examines	pleural cavity
+thoracoscopy	performs	lung biopsy
+mediastinoscopy	is a type of	respiratory procedure
+mediastinoscopy	evaluates	mediastinal lymph nodes
+mediastinoscopy	stages	lung cancer
+pneumonectomy	is a type of	respiratory procedure
+pneumonectomy	removes	entire lung

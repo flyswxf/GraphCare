@@ -1,0 +1,100 @@
+polyhydramnios	is a	amniotic fluid disorder
+polyhydramnios	may cause	preterm labor
+polyhydramnios	may cause	umbilical cord prolapse
+polyhydramnios	may cause	placental abruption
+polyhydramnios	may cause	postpartum hemorrhage
+polyhydramnios	may cause	fetal malposition
+polyhydramnios	may cause	maternal dyspnea
+polyhydramnios	may cause	gestational diabetes
+polyhydramnios	may cause	congenital anomalies
+polyhydramnios	may cause	fetal macrosomia
+oligohydramnios	is a	amniotic fluid disorder
+oligohydramnios	may cause	fetal growth restriction
+oligohydramnios	may cause	pulmonary hypoplasia
+oligohydramnios	may cause	fetal distress
+oligohydramnios	may cause	cord compression
+amniotic band syndrome	is a	amniotic cavity problem
+amniotic band syndrome	may cause	limb deformities
+amniotic band syndrome	may cause	craniofacial defects
+amniotic band syndrome	may cause	fetal amputation
+chorioamnionitis	is a	amniotic cavity infection
+chorioamnionitis	may cause	preterm birth
+chorioamnionitis	may cause	neonatal sepsis
+chorioamnionitis	may cause	cerebral palsy
+chorioamnionitis	may cause	maternal fever
+amniocentesis	is a test for	amniotic fluid analysis
+amniocentesis	may detect	fetal abnormalities
+amniocentesis	may detect	genetic disorders
+amniocentesis	may detect	lung maturity
+amniocentesis	may cause	pregnancy loss
+amniotic fluid embolism	is a	pregnancy complication
+amniotic fluid embolism	may cause	maternal collapse
+amniotic fluid embolism	may cause	disseminated intravascular coagulation
+amniotic fluid embolism	may cause	cardiac arrest
+amniotic fluid embolism	may cause	fetal distress
+preeclampsia	may cause	oligohydramnios
+diabetes mellitus	may cause	polyhydramnios
+fetal anemia	may cause	polyhydramnios
+fetal hydrops	may cause	polyhydramnios
+twin-twin transfusion syndrome	may cause	polyhydramnios
+maternal hypertension	may cause	oligohydramnios
+fetal urinary tract obstruction	may cause	oligohydramnios
+placental insufficiency	may cause	oligohydramnios
+preterm premature rupture of membranes	may cause	oligohydramnios
+fetal growth restriction	may cause	oligohydramnios
+amnioinfusion	is a treatment for	oligohydramnios
+amnioinfusion	may prevent	cord compression
+amnioreduction	is a treatment for	polyhydramnios
+amnioreduction	may prevent	preterm labor
+indomethacin	is a treatment for	polyhydramnios
+indomethacin	may reduce	fetal urine output
+non-stress test	is a monitoring for	amniotic fluid problems
+biophysical profile	is a monitoring for	amniotic fluid problems
+doppler ultrasonography	is a monitoring for	amniotic fluid problems
+fetal echocardiography	may detect	polyhydramnios causes
+maternal serum screening	may predict	amniotic fluid disorders
+fetal MRI	may diagnose	amniotic band syndrome
+ultrasound	is primary tool for	amniotic fluid assessment
+amniotic fluid index	is a measurement of	amniotic fluid volume
+deepest vertical pocket	is a measurement of	amniotic fluid volume
+single deepest pocket	is a measurement of	amniotic fluid volume
+maternal hydration	may improve	oligohydramnios
+bed rest	may help	polyhydramnios management
+cesarean delivery	may be required for	polyhydramnios
+vaginal delivery	may be complicated by	polyhydramnios
+fetal monitoring	is essential for	polyhydramnios pregnancies
+neonatal intensive care	may be needed for	polyhydramnios babies
+respiratory distress syndrome	may occur in	polyhydramnios neonates
+hypoglycemia	may occur in	polyhydramnios neonates
+jaundice	may occur in	polyhydramnios neonates
+fetal echocardiogram	may detect	cardiac anomalies
+fetal karyotyping	may detect	chromosomal abnormalities
+maternal obesity	is a risk factor for	polyhydramnios
+advanced maternal age	is a risk factor for	amniotic fluid disorders
+multiple gestation	is a risk factor for	amniotic fluid disorders
+previous polyhydramnios	is a risk factor for	recurrence
+fetal swallowing	affects	amniotic fluid volume
+fetal urine	affects	amniotic fluid volume
+placental function	affects	amniotic fluid volume
+membrane permeability	affects	amniotic fluid volume
+fetal lung fluid	contributes to	amniotic fluid
+fetal skin	contributes to	amniotic fluid
+fetal kidneys	produce	amniotic fluid
+fetal gastrointestinal tract	absorbs	amniotic fluid
+amniotic fluid	provides	fetal protection
+amniotic fluid	allows	fetal movement
+amniotic fluid	maintains	temperature regulation
+amniotic fluid	prevents	fetal adhesion
+amniotic fluid	contains	fetal cells
+amniotic fluid	contains	nutrients
+amniotic fluid	contains	hormones
+amniotic fluid	contains	antibodies
+amniotic fluid analysis	may diagnose	fetal infections
+amniotic fluid volume	changes with	gestational age
+amniotic fluid volume	peaks at	32-34 weeks
+amniotic fluid volume	decreases after	34 weeks
+amniotic fluid leakage	requires	medical attention
+amniotic fluid odor	may indicate	infection
+green amniotic fluid	may indicate	meconium
+bloody amniotic fluid	may indicate	placental problems
+amniotic fluid culture	may identify	pathogens

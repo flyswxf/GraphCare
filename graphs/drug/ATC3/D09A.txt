@@ -1,0 +1,100 @@
+medicated dressings	are	wound care products
+medicated dressings	contain	antimicrobial agents
+medicated dressings	promote	wound healing
+medicated dressings	prevent	infections
+medicated dressings	used for	burns
+medicated dressings	used for	surgical wounds
+medicated dressings	used for	chronic ulcers
+medicated dressings	absorb	wound exudate
+medicated dressings	maintain	moist environment
+medicated dressings	reduce	pain
+medicated dressings	may contain	silver
+silver	has	antimicrobial properties
+medicated dressings	may contain	iodine
+iodine	kills	bacteria
+medicated dressings	may contain	honey
+honey	has	healing properties
+medicated dressings	require	prescription
+medicated dressings	need	proper application
+medicated dressings	vary in	sizes
+medicated dressings	have	different layers
+medicated dressings	protect	wound bed
+wound bed	contains	granulation tissue
+medicated dressings	minimize	scarring
+medicated dressings	interact with	wound fluids
+wound fluids	contain	growth factors
+growth factors	stimulate	cell proliferation
+medicated dressings	indicated for	diabetic foot ulcers
+diabetic foot ulcers	caused by	poor circulation
+medicated dressings	help with	pressure sores
+pressure sores	occur in	bedridden patients
+medicated dressings	used in	hospitals
+hospitals	follow	infection control protocols
+medicated dressings	part of	nursing care
+nursing care	requires	proper training
+medicated dressings	can cause	allergic reactions
+allergic reactions	manifest as	skin rashes
+medicated dressings	have	expiration dates
+expired dressings	lose	effectiveness
+medicated dressings	require	sterile handling
+sterile handling	prevents	contamination
+medicated dressings	differ from	regular bandages
+regular bandages	provide	mechanical protection
+medicated dressings	more expensive than	gauze
+gauze	needs	frequent changing
+medicated dressings	developed by	medical researchers
+medical researchers	conduct	clinical trials
+medicated dressings	evaluated for	efficacy
+efficacy	measured by	healing rate
+medicated dressings	subject to	regulatory approval
+regulatory approval	ensures	safety
+medicated dressings	stored in	dry places
+moisture	degrades	dressing integrity
+medicated dressings	available in	pharmacies
+pharmacies	provide	usage instructions
+medicated dressings	covered by	insurance
+insurance coverage	depends on	prescription
+medicated dressings	reduce	hospitalization time
+hospitalization time	affects	healthcare costs
+medicated dressings	improve	patient comfort
+patient comfort	influences	recovery speed
+medicated dressings	require	monitoring
+monitoring	detects	complications
+complications	may require	additional treatment
+medicated dressings	interact with	topical medications
+topical medications	enhance	therapeutic effects
+medicated dressings	changed by	healthcare professionals
+healthcare professionals	assess	wound progress
+wound progress	indicates	treatment success
+medicated dressings	made of	biocompatible materials
+biocompatible materials	prevent	tissue rejection
+medicated dressings	classified by	wound type
+wound type	determines	dressing selection
+medicated dressings	can be	transparent
+transparent dressings	allow	wound inspection
+medicated dressings	sometimes contain	pain relievers
+pain relievers	block	nerve signals
+medicated dressings	may include	growth factors
+growth factors	accelerate	tissue repair
+medicated dressings	contrast with	dry dressings
+dry dressings	adhere to	wound surfaces
+medicated dressings	prevent	wound dehydration
+wound dehydration	delays	healing process
+medicated dressings	minimize	dressing changes
+frequent changes	disturb	healing environment
+medicated dressings	suitable for	sensitive skin
+sensitive skin	reacts to	harsh chemicals
+medicated dressings	researched in	wound care studies
+wound care studies	publish	clinical guidelines
+medicated dressings	complement	systemic antibiotics
+systemic antibiotics	treat	deep infections
+medicated dressings	decrease	bacterial load
+bacterial load	correlates with	infection risk
+medicated dressings	adapt to	wound contours
+wound contours	change during	healing phases
+medicated dressings	sometimes contain	collagen
+collagen	supports	tissue regeneration
+medicated dressings	may include	hydrogels
+hydrogels	maintain	optimal moisture
+medicated dressings	facilitate	autolytic debridement
+autolytic debridement	removes	dead tissue

@@ -1,0 +1,100 @@
+IV solution	is a	medical treatment
+IV solution	contains	water
+IV solution	contains	electrolytes
+IV solution	contains	nutrients
+IV solution	administered via	catheter
+IV solution	delivered to	bloodstream
+IV solution	requires	sterile preparation
+IV solution	has	tonicity levels
+IV solution	categorized by	composition
+IV solution	used for	hydration
+IV solution	used for	medication delivery
+IV solution	can cause	infection
+IV solution	requires	monitoring
+IV solution	has	pH level
+IV solution	comes in	different volumes
+IV solution	stored in	IV bag
+IV solution	connected to	IV tubing
+IV solution	regulated by	infusion pump
+IV solution	prescribed by	physician
+IV solution	administered by	nurse
+IV solution	may contain	vitamins
+IV solution	may contain	minerals
+IV solution	may contain	glucose
+IV solution	may contain	amino acids
+IV solution	may contain	lipids
+IV solution	classified as	crystalloid
+IV solution	classified as	colloid
+IV solution	can cause	phlebitis
+IV solution	can cause	fluid overload
+IV solution	can cause	electrolyte imbalance
+IV solution	requires	dosage calculation
+IV solution	has	administration rate
+IV solution	used in	hospitals
+IV solution	used in	clinics
+IV solution	used in	emergency care
+IV solution	used in	surgery
+IV solution	used in	critical care
+IV solution	used in	chemotherapy
+IV solution	compatible with	certain medications
+IV solution	incompatible with	certain medications
+IV solution	requires	compatibility testing
+IV solution	has	expiration date
+IV solution	requires	proper disposal
+IV solution	can be	customized
+IV solution	prepared by	pharmacist
+IV solution	quality checked by	technician
+IV solution	follows	safety protocols
+IV solution	documented in	medical records
+IV solution	requires	prescription
+IV solution	has	potential complications
+water	is a	solvent
+electrolytes	include	sodium
+electrolytes	include	potassium
+electrolytes	include	chloride
+electrolytes	include	calcium
+electrolytes	regulated by	kidneys
+glucose	provides	energy
+amino acids	build	proteins
+lipids	provide	calories
+vitamins	support	metabolism
+minerals	aid	enzyme function
+catheter	inserted in	vein
+catheter	can be	peripheral
+catheter	can be	central
+bloodstream	delivers	nutrients
+sterile preparation	prevents	contamination
+tonicity	affects	cell volume
+hydration	prevents	dehydration
+infection	requires	antibiotics
+monitoring	includes	vital signs
+pH level	affects	compatibility
+IV bag	has	volume markings
+IV tubing	has	drip chamber
+infusion pump	controls	flow rate
+physician	orders	treatment
+nurse	assesses	patient response
+phlebitis	causes	vein inflammation
+fluid overload	leads to	edema
+electrolyte imbalance	causes	arrhythmia
+dosage calculation	based on	weight
+administration rate	adjusted for	condition
+hospitals	have	IV therapy teams
+emergency care	requires	rapid infusion
+surgery	requires	maintenance fluids
+critical care	uses	specialized solutions
+chemotherapy	uses	cytotoxic drugs
+compatibility testing	prevents	precipitation
+expiration date	ensures	potency
+proper disposal	follows	regulations
+customized solutions	address	deficiencies
+pharmacist	checks	interactions
+technician	verifies	components
+safety protocols	prevent	errors
+medical records	track	administration
+prescription	specifies	formulation
+complications	require	intervention
+sodium	maintains	fluid balance
+potassium	regulates	heart function
+chloride	maintains	acid-base balance
+calcium	supports	muscle contraction

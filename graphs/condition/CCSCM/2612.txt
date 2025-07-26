@@ -1,0 +1,100 @@
+overexertion	is a	injury cause
+overexertion	may cause	muscle strain
+overexertion	may cause	back pain
+overexertion	may cause	tendonitis
+overexertion	may cause	sprain
+overexertion	may cause	hernia
+overexertion	may cause	rhabdomyolysis
+overexertion	may cause	dehydration
+overexertion	may cause	fatigue
+overexertion	may cause	joint pain
+overexertion	is associated with	physical activity
+overexertion	is associated with	occupational hazard
+overexertion	is associated with	sports injury
+overexertion	is documented by	E code
+overexertion	is classified under	external cause
+overexertion	may lead to	disability
+overexertion	may lead to	work absence
+overexertion	may lead to	chronic pain
+overexertion	may lead to	surgery
+overexertion	is prevented by	ergonomic practices
+overexertion	is prevented by	proper lifting
+overexertion	is prevented by	rest periods
+overexertion	is treated with	physical therapy
+overexertion	is treated with	NSAIDs
+overexertion	is treated with	ice therapy
+overexertion	is treated with	muscle relaxants
+overexertion	is assessed by	pain scale
+overexertion	is assessed by	range of motion
+overexertion	is assessed by	imaging
+overexertion	is common in	construction workers
+overexertion	is common in	athletes
+overexertion	is common in	warehouse workers
+overexertion	is common in	nurses
+overexertion	is common in	manual laborers
+overexertion	is reported in	emergency visits
+overexertion	is reported in	workers' compensation
+overexertion	is reported in	OSHA logs
+overexertion	increases risk of	reinjury
+overexertion	increases risk of	osteoarthritis
+overexertion	increases risk of	cardiovascular stress
+overexertion	is influenced by	age
+overexertion	is influenced by	fitness level
+overexertion	is influenced by	obesity
+overexertion	is influenced by	poor posture
+overexertion	is influenced by	repetitive motion
+overexertion	may result from	sudden movement
+overexertion	may result from	heavy lifting
+overexertion	may result from	prolonged activity
+overexertion	may result from	inadequate warm-up
+overexertion	may result from	improper technique
+overexertion	has symptom	swelling
+overexertion	has symptom	stiffness
+overexertion	has symptom	bruising
+overexertion	has symptom	limited mobility
+overexertion	has symptom	weakness
+overexertion	requires	medical evaluation
+overexertion	requires	rehabilitation
+overexertion	requires	activity modification
+overexertion	requires	pain management
+overexertion	requires	follow-up care
+overexertion	is similar to	overuse injury
+overexertion	is similar to	stress injury
+overexertion	differs from	traumatic injury
+overexertion	differs from	mechanical injury
+overexertion	differs from	accidental injury
+muscle strain	is a	soft tissue injury
+tendonitis	involves	tendon inflammation
+sprain	involves	ligament damage
+hernia	involves	tissue protrusion
+rhabdomyolysis	involves	muscle breakdown
+physical therapy	improves	recovery
+NSAIDs	reduce	inflammation
+ice therapy	reduces	swelling
+muscle relaxants	alleviate	spasms
+ergonomic practices	prevent	workplace injury
+proper lifting	involves	body mechanics
+rest periods	allow	muscle recovery
+pain scale	measures	discomfort level
+range of motion	assesses	flexibility
+imaging	detects	tissue damage
+construction workers	face	high risk
+athletes	experience	frequent episodes
+warehouse workers	perform	repetitive tasks
+nurses	suffer	patient handling injuries
+manual laborers	endure	physical stress
+emergency visits	document	acute cases
+workers' compensation	covers	treatment costs
+OSHA logs	track	incident rates
+reinjury	prolongs	recovery time
+osteoarthritis	results from	joint wear
+cardiovascular stress	arises from	exertion
+age	affects	injury susceptibility
+fitness level	influences	endurance
+obesity	increases	physical strain
+poor posture	contributes	spinal stress
+repetitive motion	leads	cumulative damage
+sudden movement	triggers	muscle tear
+heavy lifting	strains	back muscles
+prolonged activity	causes	fatigue
+inadequate warm-up	predisposes	injury

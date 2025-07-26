@@ -1,0 +1,100 @@
+cancer of liver and intrahepatic bile duct	is a	malignant neoplasm
+cancer of liver and intrahepatic bile duct	originates in	hepatocytes
+cancer of liver and intrahepatic bile duct	affects	liver function
+hepatitis B	increases risk of	cancer of liver and intrahepatic bile duct
+hepatitis C	increases risk of	cancer of liver and intrahepatic bile duct
+cirrhosis	increases risk of	cancer of liver and intrahepatic bile duct
+alcohol abuse	contributes to	cancer of liver and intrahepatic bile duct
+aflatoxin exposure	increases risk of	cancer of liver and intrahepatic bile duct
+cancer of liver and intrahepatic bile duct	causes	jaundice
+cancer of liver and intrahepatic bile duct	leads to	weight loss
+cancer of liver and intrahepatic bile duct	results in	abdominal pain
+cancer of liver and intrahepatic bile duct	may cause	ascites
+alpha-fetoprotein	is a tumor marker for	cancer of liver and intrahepatic bile duct
+ultrasound	detects	cancer of liver and intrahepatic bile duct
+CT scan	diagnoses	cancer of liver and intrahepatic bile duct
+MRI	evaluates	cancer of liver and intrahepatic bile duct
+biopsy	confirms	cancer of liver and intrahepatic bile duct
+surgical resection	treats	cancer of liver and intrahepatic bile duct
+liver transplantation	treats	cancer of liver and intrahepatic bile duct
+radiofrequency ablation	treats	cancer of liver and intrahepatic bile duct
+transarterial chemoembolization	treats	cancer of liver and intrahepatic bile duct
+sorafenib	targets	cancer of liver and intrahepatic bile duct
+lenvatinib	treats	cancer of liver and intrahepatic bile duct
+immunotherapy	is used for	cancer of liver and intrahepatic bile duct
+radiation therapy	manages	cancer of liver and intrahepatic bile duct
+cancer of liver and intrahepatic bile duct	metastasizes to	lungs
+cancer of liver and intrahepatic bile duct	spreads to	bones
+cancer of liver and intrahepatic bile duct	affects	lymph nodes
+portal vein	may be invaded by	cancer of liver and intrahepatic bile duct
+hepatic artery	supplies blood to	cancer of liver and intrahepatic bile duct
+Child-Pugh score	assesses prognosis of	cancer of liver and intrahepatic bile duct
+BCLC staging	classifies	cancer of liver and intrahepatic bile duct
+TNM staging	evaluates	cancer of liver and intrahepatic bile duct
+cancer of liver and intrahepatic bile duct	has poor	prognosis
+early detection	improves outcomes for	cancer of liver and intrahepatic bile duct
+surveillance	monitors	cancer of liver and intrahepatic bile duct
+chronic liver disease	precedes	cancer of liver and intrahepatic bile duct
+non-alcoholic fatty liver disease	increases risk of	cancer of liver and intrahepatic bile duct
+hemochromatosis	predisposes to	cancer of liver and intrahepatic bile duct
+primary sclerosing cholangitis	associates with	cancer of liver and intrahepatic bile duct
+diabetes mellitus	correlates with	cancer of liver and intrahepatic bile duct
+obesity	contributes to	cancer of liver and intrahepatic bile duct
+smoking	increases risk of	cancer of liver and intrahepatic bile duct
+family history	influences risk of	cancer of liver and intrahepatic bile duct
+gender	affects incidence of	cancer of liver and intrahepatic bile duct
+age	correlates with	cancer of liver and intrahepatic bile duct
+viral load	impacts progression of	cancer of liver and intrahepatic bile duct
+fibrosis	progresses to	cancer of liver and intrahepatic bile duct
+liver enzymes	may elevate in	cancer of liver and intrahepatic bile duct
+bilirubin	increases in	cancer of liver and intrahepatic bile duct
+albumin	decreases in	cancer of liver and intrahepatic bile duct
+prothrombin time	prolongs in	cancer of liver and intrahepatic bile duct
+platelet count	reduces in	cancer of liver and intrahepatic bile duct
+paraneoplastic syndromes	accompany	cancer of liver and intrahepatic bile duct
+hepatic encephalopathy	complicates	cancer of liver and intrahepatic bile duct
+variceal bleeding	occurs in	cancer of liver and intrahepatic bile duct
+liver failure	results from	cancer of liver and intrahepatic bile duct
+palliative care	supports patients with	cancer of liver and intrahepatic bile duct
+symptom management	improves quality of life in	cancer of liver and intrahepatic bile duct
+nutritional support	benefits patients with	cancer of liver and intrahepatic bile duct
+pain management	is essential for	cancer of liver and intrahepatic bile duct
+multidisciplinary team	manages	cancer of liver and intrahepatic bile duct
+hepatologist	specializes in	cancer of liver and intrahepatic bile duct
+oncologist	treats	cancer of liver and intrahepatic bile duct
+surgeon	operates on	cancer of liver and intrahepatic bile duct
+interventional radiologist	performs procedures for	cancer of liver and intrahepatic bile duct
+pathologist	diagnoses	cancer of liver and intrahepatic bile duct
+chemotherapy	combats	cancer of liver and intrahepatic bile duct
+targeted therapy	inhibits growth of	cancer of liver and intrahepatic bile duct
+angiogenesis inhibitors	target	cancer of liver and intrahepatic bile duct
+checkpoint inhibitors	activate immunity against	cancer of liver and intrahepatic bile duct
+clinical trials	explore new treatments for	cancer of liver and intrahepatic bile duct
+personalized medicine	tailors therapy for	cancer of liver and intrahepatic bile duct
+liquid biopsy	monitors	cancer of liver and intrahepatic bile duct
+genomic profiling	guides treatment of	cancer of liver and intrahepatic bile duct
+microenvironment	influences progression of	cancer of liver and intrahepatic bile duct
+cancer stem cells	drive growth of	cancer of liver and intrahepatic bile duct
+epithelial-mesenchymal transition	promotes metastasis of	cancer of liver and intrahepatic bile duct
+Wnt/β-catenin pathway	activates	cancer of liver and intrahepatic bile duct
+p53 mutation	occurs in	cancer of liver and intrahepatic bile duct
+TERT promoter mutation	is common in	cancer of liver and intrahepatic bile duct
+CTNNB1 mutation	drives	cancer of liver and intrahepatic bile duct
+immune evasion	characterizes	cancer of liver and intrahepatic bile duct
+tumor microenvironment	suppresses immunity in	cancer of liver and intrahepatic bile duct
+PD-L1 expression	affects response to immunotherapy in	cancer of liver and intrahepatic bile duct
+AFP-L3	is a subtype of	alpha-fetoprotein
+DCP	is a biomarker for	cancer of liver and intrahepatic bile duct
+liquid biopsy	detects circulating tumor DNA in	cancer of liver and intrahepatic bile duct
+contrast-enhanced ultrasound	improves detection of	cancer of liver and intrahepatic bile duct
+PET scan	evaluates metastasis of	cancer of liver and intrahepatic bile duct
+laparoscopy	assesses resectability of	cancer of liver and intrahepatic bile duct
+portal vein embolization	prepares for resection of	cancer of liver and intrahepatic bile duct
+two-stage hepatectomy	treats advanced	cancer of liver and intrahepatic bile duct
+alcohol injection	ablates small	cancer of liver and intrahepatic bile duct
+microwave ablation	destroys	cancer of liver and intrahepatic bile duct
+yttrium-90 radioembolization	targets	cancer of liver and intrahepatic bile duct
+cryoablation	freezes	cancer of liver and intrahepatic bile duct
+adjuvant therapy	prevents recurrence of	cancer of liver and intrahepatic bile duct
+neoadjuvant therapy	shrinks	cancer of liver and intrahepatic bile duct
+survivorship care	follows up	cancer of liver and intrahepatic bile duct

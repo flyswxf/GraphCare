@@ -1,0 +1,100 @@
+intraoperative cholangiogram	is a	diagnostic procedure
+intraoperative cholangiogram	performed during	surgery
+intraoperative cholangiogram	evaluates	bile ducts
+intraoperative cholangiogram	uses	contrast dye
+intraoperative cholangiogram	requires	fluoroscopy
+intraoperative cholangiogram	detects	gallstones
+intraoperative cholangiogram	identifies	biliary strictures
+intraoperative cholangiogram	assesses	bile leakage
+intraoperative cholangiogram	helps in	cholecystectomy
+intraoperative cholangiogram	prevents	bile duct injury
+contrast dye	injected into	common bile duct
+fluoroscopy	provides	real-time imaging
+bile ducts	part of	biliary system
+gallstones	can cause	biliary obstruction
+biliary strictures	lead to	cholestasis
+bile leakage	complication of	hepatobiliary surgery
+cholecystectomy	treatment for	gallstone disease
+bile duct injury	requires	surgical repair
+common bile duct	connects to	duodenum
+biliary system	includes	hepatic ducts
+biliary obstruction	causes	jaundice
+cholestasis	leads to	liver damage
+hepatobiliary surgery	performed by	general surgeon
+gallstone disease	associated with	obesity
+surgical repair	may require	stenting
+duodenum	part of	small intestine
+hepatic ducts	drain	liver
+jaundice	symptom of	liver dysfunction
+liver damage	leads to	cirrhosis
+general surgeon	specializes in	abdominal surgery
+obesity	risk factor for	metabolic syndrome
+stenting	treatment for	narrowed ducts
+small intestine	absorbs	nutrients
+liver	produces	bile
+liver dysfunction	causes	coagulation disorders
+cirrhosis	leads to	portal hypertension
+abdominal surgery	includes	laparoscopic procedures
+metabolic syndrome	increases	cardiovascular risk
+narrowed ducts	caused by	inflammation
+nutrients	absorbed into	bloodstream
+bile	aids in	fat digestion
+coagulation disorders	cause	bleeding tendency
+portal hypertension	leads to	esophageal varices
+laparoscopic procedures	reduce	recovery time
+cardiovascular risk	includes	myocardial infarction
+inflammation	caused by	infection
+bloodstream	transports	oxygen
+fat digestion	requires	pancreatic enzymes
+bleeding tendency	requires	vitamin K
+esophageal varices	can cause	hematemesis
+recovery time	affected by	patient age
+myocardial infarction	caused by	atherosclerosis
+infection	treated with	antibiotics
+oxygen	carried by	hemoglobin
+pancreatic enzymes	secreted by	pancreas
+vitamin K	essential for	clotting factors
+hematemesis	symptom of	upper GI bleeding
+patient age	affects	surgical risk
+atherosclerosis	causes	coronary artery disease
+antibiotics	target	bacteria
+hemoglobin	found in	red blood cells
+pancreas	produces	insulin
+clotting factors	synthesized in	liver
+upper GI bleeding	diagnosed with	endoscopy
+surgical risk	assessed by	ASA score
+coronary artery disease	leads to	angina
+bacteria	cause	sepsis
+red blood cells	carry	carbon dioxide
+insulin	regulates	blood glucose
+liver	metabolizes	drugs
+endoscopy	uses	flexible tube
+ASA score	predicts	anesthesia risk
+angina	symptom of	ischemic heart disease
+sepsis	leads to	organ failure
+carbon dioxide	waste product of	metabolism
+blood glucose	controlled by	pancreas
+drugs	metabolized into	metabolites
+flexible tube	equipped with	camera
+anesthesia risk	increased by	comorbidities
+ischemic heart disease	treated with	statins
+organ failure	requires	ICU admission
+metabolism	produces	ATP
+pancreas	affected by	diabetes
+metabolites	excreted by	kidneys
+camera	transmits	images
+comorbidities	include	hypertension
+statins	lower	cholesterol
+ICU admission	requires	mechanical ventilation
+ATP	energy source for	cells
+diabetes	causes	neuropathy
+kidneys	filter	blood
+images	interpreted by	radiologist
+hypertension	risk factor for	stroke
+cholesterol	component of	cell membranes
+mechanical ventilation	supports	respiration
+cells	contain	mitochondria
+neuropathy	causes	numbness
+blood	contains	white blood cells
+radiologist	specializes in	medical imaging
+stroke	leads to	paralysis

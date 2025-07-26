@@ -1,0 +1,100 @@
+electrographic cardiac monitoring	is a	diagnostic tool
+electrographic cardiac monitoring	detects	arrhythmias
+electrographic cardiac monitoring	measures	heart rate
+electrographic cardiac monitoring	evaluates	heart rhythm
+electrographic cardiac monitoring	requires	electrodes
+electrographic cardiac monitoring	uses	ECG machine
+electrographic cardiac monitoring	performed in	hospitals
+electrographic cardiac monitoring	assists in	cardiac diagnosis
+electrographic cardiac monitoring	monitors	ST segments
+electrographic cardiac monitoring	identifies	myocardial ischemia
+electrographic cardiac monitoring	detects	atrial fibrillation
+electrographic cardiac monitoring	reveals	ventricular tachycardia
+electrographic cardiac monitoring	used for	preoperative assessment
+electrographic cardiac monitoring	aids in	medication titration
+electrographic cardiac monitoring	tracks	QT interval
+electrographic cardiac monitoring	screens for	heart block
+electrographic cardiac monitoring	requires	skin preparation
+electrographic cardiac monitoring	utilizes	lead system
+electrographic cardiac monitoring	records	electrical activity
+electrographic cardiac monitoring	contraindicated in	skin allergies
+electrographic cardiac monitoring	complements	echocardiography
+electrographic cardiac monitoring	precedes	cardiac intervention
+electrographic cardiac monitoring	follows	cardiac event
+electrographic cardiac monitoring	indicates	pacemaker need
+electrographic cardiac monitoring	correlates with	troponin levels
+electrographic cardiac monitoring	predicts	mortality risk
+electrographic cardiac monitoring	associated with	telemetry units
+electrographic cardiac monitoring	integrates with	EMR systems
+electrographic cardiac monitoring	alerts for	critical rhythms
+electrographic cardiac monitoring	documents	heart variability
+electrographic cardiac monitoring	differentiates	supraventricular tachycardia
+electrographic cardiac monitoring	confirms	sinus rhythm
+electrographic cardiac monitoring	rules out	myocardial infarction
+electrographic cardiac monitoring	guides	defibrillation
+electrographic cardiac monitoring	assists	cardiologists
+electrographic cardiac monitoring	trains	medical students
+electrographic cardiac monitoring	standardizes	cardiac care
+electrographic cardiac monitoring	reduces	diagnostic errors
+electrographic cardiac monitoring	improves	patient outcomes
+electrographic cardiac monitoring	requires	quality control
+electrographic cardiac monitoring	follows	AHA guidelines
+electrographic cardiac monitoring	interprets	P waves
+electrographic cardiac monitoring	analyzes	QRS complex
+electrographic cardiac monitoring	monitors	T waves
+electrographic cardiac monitoring	detects	U waves
+electrographic cardiac monitoring	identifies	ST elevation
+electrographic cardiac monitoring	shows	PR interval
+electrographic cardiac monitoring	reveals	bundle branch block
+electrographic cardiac monitoring	screens	athletes
+electrographic cardiac monitoring	evaluates	syncope
+electrographic cardiac monitoring	assesses	palpitations
+electrographic cardiac monitoring	contraindicated in	burns
+electrographic cardiac monitoring	limited by	patient movement
+electrographic cardiac monitoring	affected by	electrolyte imbalance
+electrographic cardiac monitoring	indicates	potassium levels
+electrographic cardiac monitoring	suggests	calcium abnormalities
+electrographic cardiac monitoring	requires	periodic calibration
+electrographic cardiac monitoring	uses	disposable electrodes
+electrographic cardiac monitoring	stores	digital recordings
+electrographic cardiac monitoring	transmits	real-time data
+electrographic cardiac monitoring	warns of	asystole
+electrographic cardiac monitoring	detects	pulseless electrical activity
+electrographic cardiac monitoring	identifies	Wolff-Parkinson-White syndrome
+electrographic cardiac monitoring	reveals	Long QT syndrome
+electrographic cardiac monitoring	screens for	Brugada syndrome
+electrographic cardiac monitoring	monitors	post-MI patients
+electrographic cardiac monitoring	tracks	drug effects
+electrographic cardiac monitoring	evaluates	beta-blocker efficacy
+electrographic cardiac monitoring	assesses	antiarrhythmic therapy
+electrographic cardiac monitoring	guides	cardioversion
+electrographic cardiac monitoring	precedes	ablation therapy
+electrographic cardiac monitoring	follows	stent placement
+electrographic cardiac monitoring	indicates	coronary artery disease
+electrographic cardiac monitoring	predicts	heart failure
+electrographic cardiac monitoring	correlates with	ejection fraction
+electrographic cardiac monitoring	associated with	intensive care
+electrographic cardiac monitoring	standard in	emergency rooms
+electrographic cardiac monitoring	required for	surgery clearance
+electrographic cardiac monitoring	used in	clinical trials
+electrographic cardiac monitoring	validates	wearable devices
+electrographic cardiac monitoring	improves	arrhythmia detection
+electrographic cardiac monitoring	reduces	hospital stays
+electrographic cardiac monitoring	prevents	adverse events
+electrographic cardiac monitoring	enhances	patient safety
+electrographic cardiac monitoring	documents	treatment response
+electrographic cardiac monitoring	supports	research studies
+electrographic cardiac monitoring	trains	AI algorithms
+electrographic cardiac monitoring	classifies	heart rhythms
+electrographic cardiac monitoring	detects	pacemaker malfunction
+electrographic cardiac monitoring	identifies	lead dislodgement
+electrographic cardiac monitoring	monitors	ICD function
+electrographic cardiac monitoring	evaluates	heart transplant
+electrographic cardiac monitoring	assesses	ventricular function
+electrographic cardiac monitoring	screens	pediatric patients
+electrographic cardiac monitoring	diagnoses	congenital defects
+electrographic cardiac monitoring	follows	chemotherapy patients
+electrographic cardiac monitoring	tracks	sepsis progression
+electrographic cardiac monitoring	predicts	ICU admission
+electrographic cardiac monitoring	indicates	pulmonary embolism
+electrographic cardiac monitoring	correlates with	mortality rate

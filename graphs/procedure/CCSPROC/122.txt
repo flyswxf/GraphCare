@@ -1,0 +1,100 @@
+removal of ectopic pregnancy	is a	surgical procedure
+removal of ectopic pregnancy	treats	ectopic pregnancy
+ectopic pregnancy	is a	pregnancy complication
+ectopic pregnancy	occurs in	fallopian tube
+fallopian tube	is part of	female reproductive system
+female reproductive system	includes	uterus
+uterus	is site of	normal pregnancy
+normal pregnancy	differs from	ectopic pregnancy
+removal of ectopic pregnancy	prevents	rupture
+rupture	causes	internal bleeding
+internal bleeding	requires	emergency treatment
+emergency treatment	may include	blood transfusion
+blood transfusion	replaces	lost blood
+lost blood	results from	hemorrhage
+hemorrhage	is complication of	ectopic pregnancy
+ectopic pregnancy	diagnosed by	ultrasound
+ultrasound	uses	sound waves
+sound waves	create	images
+images	show	pregnancy location
+pregnancy location	determines	treatment
+treatment	may be	medical
+medical treatment	uses	methotrexate
+methotrexate	stops	cell growth
+cell growth	necessary for	pregnancy
+pregnancy	requires	implantation
+implantation	normally occurs in	uterus
+uterus	prepares for	implantation
+implantation	begins	pregnancy
+pregnancy	confirmed by	hCG test
+hCG test	measures	hormone levels
+hormone levels	indicate	pregnancy viability
+pregnancy viability	assessed by	doctor
+doctor	performs	removal of ectopic pregnancy
+removal of ectopic pregnancy	may involve	laparoscopy
+laparoscopy	is a	minimally invasive surgery
+minimally invasive surgery	uses	small incisions
+small incisions	reduce	recovery time
+recovery time	depends on	procedure type
+procedure type	chosen based on	patient condition
+patient condition	evaluated by	medical history
+medical history	includes	previous pregnancies
+previous pregnancies	may increase	risk
+risk	factors include	pelvic inflammatory disease
+pelvic inflammatory disease	caused by	infection
+infection	may result from	STIs
+STIs	include	chlamydia
+chlamydia	treated with	antibiotics
+antibiotics	prevent	complications
+complications	include	infertility
+infertility	may follow	ectopic pregnancy
+ectopic pregnancy	affects	future fertility
+future fertility	depends on	tube condition
+tube condition	assessed after	surgery
+surgery	may damage	fallopian tube
+fallopian tube	transports	egg
+egg	fertilized by	sperm
+sperm	meets egg in	fallopian tube
+fertilized egg	becomes	embryo
+embryo	implants in	uterus
+implantation failure	leads to	ectopic pregnancy
+ectopic pregnancy	detected by	symptoms
+symptoms	include	abdominal pain
+abdominal pain	may indicate	various conditions
+various conditions	require	differential diagnosis
+differential diagnosis	excludes	other causes
+other causes	include	appendicitis
+appendicitis	treated with	appendectomy
+appendectomy	differs from	removal of ectopic pregnancy
+removal of ectopic pregnancy	performed by	gynecologist
+gynecologist	specializes in	women's health
+women's health	covers	reproductive issues
+reproductive issues	include	infertility
+infertility	treated by	fertility specialist
+fertility specialist	may recommend	IVF
+IVF	bypasses	fallopian tubes
+fallopian tubes	not needed for	IVF
+IVF	involves	embryo transfer
+embryo transfer	places embryo in	uterus
+uterus	nurtures	developing fetus
+developing fetus	grows into	baby
+baby	delivered via	childbirth
+childbirth	may be	vaginal
+vaginal delivery	preferred over	C-section
+C-section	is a	surgical delivery
+surgical delivery	requires	anesthesia
+anesthesia	administered by	anesthesiologist
+anesthesiologist	monitors	patient vitals
+patient vitals	include	blood pressure
+blood pressure	indicates	cardiovascular health
+cardiovascular health	affects	surgery outcome
+surgery outcome	depends on	patient health
+patient health	improved by	postoperative care
+postoperative care	includes	pain management
+pain management	uses	analgesics
+analgesics	relieve	discomfort
+discomfort	common after	surgery
+surgery	may cause	scarring
+scarring	minimized by	proper technique
+proper technique	employed by	skilled surgeon
+skilled surgeon	performs	removal of ectopic pregnancy

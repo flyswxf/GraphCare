@@ -1,0 +1,100 @@
+treatment	involves	fracture or dislocation of hip and femur
+fracture or dislocation of hip and femur	requires	medical intervention
+surgical treatment	is a	treatment
+non-surgical treatment	is a	treatment
+hip replacement	is a	surgical treatment
+internal fixation	is a	surgical treatment
+traction	is a	non-surgical treatment
+pain management	is part of	treatment
+physical therapy	follows	treatment
+antibiotics	prevent	infection
+infection	is a complication of	surgery
+deep vein thrombosis	is a risk of	surgery
+blood clot	causes	deep vein thrombosis
+anticoagulants	prevent	blood clot
+hip fracture	is a type of	fracture
+femur fracture	is a type of	fracture
+dislocation	requires	reduction
+closed reduction	is a type of	reduction
+open reduction	is a type of	reduction
+anesthesia	is used in	surgery
+general anesthesia	is a type of	anesthesia
+regional anesthesia	is a type of	anesthesia
+mortality risk	increases with	hip fracture
+elderly patients	are at risk for	hip fracture
+osteoporosis	increases risk of	hip fracture
+calcium supplements	help prevent	osteoporosis
+vitamin D	aids in	calcium absorption
+weight-bearing exercises	strengthen	bones
+bone density scan	diagnoses	osteoporosis
+hip dislocation	can cause	nerve damage
+sciatic nerve	is at risk in	hip dislocation
+nerve damage	leads to	weakness
+rehabilitation	improves	mobility
+gait training	is part of	rehabilitation
+walking aid	assists in	mobility
+crutches	are a type of	walking aid
+walker	is a type of	walking aid
+cane	is a type of	walking aid
+postoperative care	is necessary after	surgery
+wound care	is part of	postoperative care
+dressing change	is part of	wound care
+pain medication	manages	postoperative pain
+opioids	are a type of	pain medication
+NSAIDs	are a type of	pain medication
+acetaminophen	is a type of	pain medication
+constipation	is a side effect of	opioids
+laxatives	treat	constipation
+nausea	is a side effect of	anesthesia
+anti-nausea medication	treats	nausea
+hospital stay	is required for	surgery
+length of stay	depends on	recovery progress
+complications	prolong	hospital stay
+pneumonia	is a risk of	immobility
+breathing exercises	prevent	pneumonia
+delirium	is common in	elderly patients
+cognitive assessment	detects	delirium
+nutrition	aids in	recovery
+protein	supports	tissue repair
+malnutrition	delays	healing
+dietitian	plans	nutritional support
+fall prevention	reduces risk of	re-fracture
+home safety assessment	is part of	fall prevention
+non-slip mats	prevent	falls
+hip protector	reduces risk of	hip fracture
+follow-up visit	monitors	recovery
+X-ray	assesses	bone healing
+CT scan	provides detailed	bone imaging
+MRI	evaluates	soft tissue damage
+bone graft	aids in	severe fractures
+allograft	is a type of	bone graft
+autograft	is a type of	bone graft
+bone healing	takes	weeks to months
+delayed union	slows	recovery
+nonunion	requires	additional treatment
+bone stimulator	promotes	bone growth
+electrical stimulation	is a type of	bone stimulator
+ultrasound therapy	is a type of	bone stimulator
+revision surgery	treats	failed fixation
+prosthesis loosening	is a complication of	hip replacement
+infection	can cause	prosthesis failure
+antibiotic spacer	treats	infected prosthesis
+rehabilitation center	provides	intensive therapy
+occupational therapy	improves	daily activities
+mobility aids	increase	independence
+wheelchair	is a type of	mobility aid
+home modifications	improve	accessibility
+grab bars	prevent	bathroom falls
+raised toilet seat	assists in	toileting
+social support	enhances	recovery
+caregiver	assists in	postoperative care
+depression	is common after	hip fracture
+counseling	helps with	emotional recovery
+support group	provides	peer encouragement
+bone health	prevents	future fractures
+bisphosphonates	treat	osteoporosis
+hormone therapy	affects	bone density
+smoking	impairs	bone healing
+alcohol	increases risk of	falls
+exercise program	maintains	muscle strength
+balance training	reduces	fall risk

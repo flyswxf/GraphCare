@@ -1,0 +1,100 @@
+congestive heart failure	is a	heart condition
+congestive heart failure	may cause	fluid retention
+congestive heart failure	is treated with	diuretics
+furosemide	is a	diuretic
+congestive heart failure	may lead to	pulmonary edema
+congestive heart failure	increases risk of	arrhythmia
+congestive heart failure	is associated with	fatigue
+congestive heart failure	requires monitoring of	electrolytes
+congestive heart failure	may cause	kidney dysfunction
+congestive heart failure	is managed with	beta blockers
+metoprolol	is a	beta blocker
+congestive heart failure	may result in	hospitalization
+congestive heart failure	is diagnosed via	echocardiogram
+congestive heart failure	can worsen	sleep apnea
+congestive heart failure	is linked to	anemia
+congestive heart failure	may require	oxygen therapy
+congestive heart failure	affects	exercise tolerance
+congestive heart failure	is correlated with	depression
+congestive heart failure	may cause	liver congestion
+congestive heart failure	is monitored with	BNP test
+congestive heart failure	can lead to	cardiogenic shock
+congestive heart failure	is exacerbated by	high sodium intake
+congestive heart failure	may require	ACE inhibitors
+lisinopril	is an	ACE inhibitor
+congestive heart failure	is associated with	weight gain
+congestive heart failure	may cause	pleural effusion
+congestive heart failure	is a risk factor for	stroke
+congestive heart failure	can result in	cachexia
+congestive heart failure	is managed with	aldosterone antagonists
+spironolactone	is an	aldosterone antagonist
+congestive heart failure	may lead to	venous thromboembolism
+congestive heart failure	is treated with	digoxin
+congestive heart failure	can cause	peripheral edema
+congestive heart failure	is correlated with	hyponatremia
+congestive heart failure	may require	cardiac resynchronization therapy
+congestive heart failure	is associated with	coronary artery disease
+congestive heart failure	can worsen	renal failure
+congestive heart failure	is monitored via	chest X-ray
+congestive heart failure	may cause	ascites
+congestive heart failure	is a cause of	dyspnea
+congestive heart failure	is managed with	ARBs
+losartan	is an	ARB
+congestive heart failure	can lead to	cardiac arrest
+congestive heart failure	is associated with	atrial fibrillation
+congestive heart failure	may require	implantable cardioverter-defibrillator
+congestive heart failure	is treated with	vasodilators
+hydralazine	is a	vasodilator
+congestive heart failure	can result in	hepatomegaly
+congestive heart failure	is linked to	sleep disorders
+congestive heart failure	may cause	orthopnea
+congestive heart failure	is diagnosed with	electrocardiogram
+congestive heart failure	can lead to	sudden death
+congestive heart failure	is managed with	sodium restriction
+congestive heart failure	is associated with	diabetes
+congestive heart failure	may require	left ventricular assist device
+congestive heart failure	is treated with	SGLT2 inhibitors
+empagliflozin	is an	SGLT2 inhibitor
+congestive heart failure	can cause	jugular venous distension
+congestive heart failure	is monitored with	weight tracking
+congestive heart failure	may lead to	renal insufficiency
+congestive heart failure	is correlated with	malnutrition
+congestive heart failure	requires	lifestyle modifications
+congestive heart failure	is associated with	obesity
+congestive heart failure	may require	heart transplant
+congestive heart failure	is treated with	nitrates
+isosorbide dinitrate	is a	nitrate
+congestive heart failure	can result in	reduced ejection fraction
+congestive heart failure	is diagnosed via	cardiac MRI
+congestive heart failure	may cause	paroxysmal nocturnal dyspnea
+congestive heart failure	is managed with	anticoagulants
+warfarin	is an	anticoagulant
+congestive heart failure	is linked to	chronic kidney disease
+congestive heart failure	can worsen	COPD
+congestive heart failure	is associated with	hyperkalemia
+congestive heart failure	may require	inotropic agents
+dobutamine	is an	inotropic agent
+congestive heart failure	can lead to	pulmonary hypertension
+congestive heart failure	is treated with	mineralocorticoid receptor antagonists
+eplerenone	is a	mineralocorticoid receptor antagonist
+congestive heart failure	may cause	syncope
+congestive heart failure	is monitored with	heart rate variability
+congestive heart failure	is associated with	thyroid dysfunction
+congestive heart failure	can result in	venous stasis
+congestive heart failure	is diagnosed via	cardiac catheterization
+congestive heart failure	may lead to	myocardial infarction
+congestive heart failure	is treated with	ivabradine
+congestive heart failure	can cause	S3 gallop
+congestive heart failure	is managed with	fluid restriction
+congestive heart failure	is linked to	iron deficiency
+congestive heart failure	may require	ultrafiltration
+congestive heart failure	is associated with	hyperuricemia
+congestive heart failure	can worsen	asthma
+congestive heart failure	is treated with	sacubitril/valsartan
+congestive heart failure	may cause	Cheyne-Stokes respiration
+congestive heart failure	is monitored with	6-minute walk test
+congestive heart failure	is correlated with	cognitive impairment
+congestive heart failure	can lead to	ventricular tachycardia
+congestive heart failure	is diagnosed with	natriuretic peptide test
+congestive heart failure	may require	palliative care
+congestive heart failure	is associated with	sarcopenia

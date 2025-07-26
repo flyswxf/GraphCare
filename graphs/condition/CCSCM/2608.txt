@@ -1,0 +1,100 @@
+pedal cyclist	is classified under	E codes
+E codes	describe	external causes of injury
+pedal cyclist injury	is not	motor vehicle traffic accident
+pedal cyclist	may involve	bicycle accident
+bicycle accident	may result in	trauma
+trauma	may require	emergency care
+emergency care	involves	triage
+triage	prioritizes	treatment urgency
+treatment urgency	affects	hospital admission
+hospital admission	may lead	inpatient care
+inpatient care	includes	rehabilitation
+rehabilitation	improves	mobility
+mobility	is assessed by	physical therapy
+physical therapy	prevents	long-term disability
+long-term disability	increases	healthcare costs
+healthcare costs	are influenced by	injury severity
+injury severity	is measured by	trauma score
+trauma score	predicts	mortality risk
+mortality risk	affects	life insurance
+life insurance	covers	accidental death
+accidental death	may result from	head injury
+head injury	is prevented by	helmet use
+helmet use	reduces	brain trauma
+brain trauma	requires	neurological monitoring
+neurological monitoring	detects	intracranial pressure
+intracranial pressure	is treated with	osmotic diuretics
+osmotic diuretics	include	mannitol
+mannitol	decreases	cerebral edema
+cerebral edema	worsens	Glasgow Coma Scale
+Glasgow Coma Scale	assesses	consciousness level
+consciousness level	determines	ICU admission
+ICU admission	necessitates	ventilator support
+ventilator support	prevents	respiratory failure
+respiratory failure	is a complication of	polytrauma
+polytrauma	involves	multiple fractures
+multiple fractures	require	surgical fixation
+surgical fixation	uses	orthopedic implants
+orthopedic implants	may cause	infection
+infection	is treated with	antibiotics
+antibiotics	target	bacterial growth
+bacterial growth	is identified by	culture test
+culture test	guides	antibiotic selection
+antibiotic selection	avoids	drug resistance
+drug resistance	increases	treatment failure
+treatment failure	leads to	prolonged hospitalization
+prolonged hospitalization	raises	readmission risk
+readmission risk	is reduced by	discharge planning
+discharge planning	includes	home care
+home care	supports	recovery process
+recovery process	depends on	patient compliance
+patient compliance	improves with	education
+education	addresses	risk factors
+risk factors	include	alcohol use
+alcohol use	impairs	coordination
+coordination	affects	cycling safety
+cycling safety	is enhanced by	reflective gear
+reflective gear	increases	visibility
+visibility	prevents	nighttime accidents
+nighttime accidents	involve	poor lighting
+poor lighting	is mitigated by	street lamps
+street lamps	are maintained by	municipal authorities
+municipal authorities	implement	traffic laws
+traffic laws	regulate	cycling lanes
+cycling lanes	reduce	pedestrian collisions
+pedestrian collisions	cause	soft tissue injury
+soft tissue injury	is treated with	RICE therapy
+RICE therapy	stands for	rest ice compression elevation
+elevation	reduces	swelling
+swelling	indicates	inflammation
+inflammation	is mediated by	cytokines
+cytokines	are targeted by	anti-inflammatory drugs
+anti-inflammatory drugs	include	NSAIDs
+NSAIDs	relieve	pain
+pain	is assessed by	visual analog scale
+visual analog scale	measures	discomfort level
+discomfort level	affects	quality of life
+quality of life	is evaluated by	SF-36 questionnaire
+SF-36 questionnaire	assesses	physical function
+physical function	determines	return-to-work
+return-to-work	depends on	sick leave duration
+sick leave duration	is documented by	medical certificate
+medical certificate	is issued by	physician
+physician	prescribes	analgesics
+analgesics	alleviate	chronic pain
+chronic pain	may lead	opioid use
+opioid use	risks	addiction
+addiction	requires	substance abuse treatment
+substance abuse treatment	includes	counseling
+counseling	addresses	psychological distress
+psychological distress	is measured by	depression scale
+depression scale	screens for	mental health disorders
+mental health disorders	affect	recovery outcomes
+recovery outcomes	are tracked by	electronic health records
+electronic health records	facilitate	data analysis
+data analysis	identifies	injury trends
+injury trends	inform	public health policies
+public health policies	promote	accident prevention
+accident prevention	reduces	healthcare burden
+healthcare burden	is quantified by	disability-adjusted life years
+disability-adjusted life years	reflect	population health

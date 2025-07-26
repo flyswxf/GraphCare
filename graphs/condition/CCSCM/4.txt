@@ -1,0 +1,100 @@
+mycoses	are caused by	fungi
+mycoses	can be	superficial
+mycoses	can be	systemic
+mycoses	can be	subcutaneous
+mycoses	may cause	skin lesions
+mycoses	may cause	pneumonia
+mycoses	may cause	meningitis
+mycoses	may cause	sepsis
+mycoses	may affect	immunocompromised patients
+mycoses	are diagnosed with	microscopy
+mycoses	are diagnosed with	culture
+mycoses	are diagnosed with	PCR
+mycoses	are treated with	antifungals
+amphotericin B	treats	mycoses
+fluconazole	treats	mycoses
+itraconazole	treats	mycoses
+voriconazole	treats	mycoses
+caspofungin	treats	mycoses
+mycoses	can lead to	organ failure
+mycoses	can lead to	chronic infection
+mycoses	may require	hospitalization
+Candida	causes	mycoses
+Aspergillus	causes	mycoses
+Cryptococcus	causes	mycoses
+Histoplasma	causes	mycoses
+Blastomyces	causes	mycoses
+Coccidioides	causes	mycoses
+Mucor	causes	mycoses
+mycoses	are classified by	fungal type
+mycoses	are classified by	infection site
+mycoses	have risk factors	diabetes
+mycoses	have risk factors	HIV
+mycoses	have risk factors	chemotherapy
+mycoses	have risk factors	corticosteroids
+mycoses	have risk factors	organ transplant
+mycoses	may present with	fever
+mycoses	may present with	cough
+mycoses	may present with	fatigue
+mycoses	may present with	weight loss
+mycoses	may present with	night sweats
+mycoses	can mimic	tuberculosis
+mycoses	can mimic	bacterial infection
+mycoses	can mimic	malignancy
+mycoses	require	antifungal susceptibility testing
+mycoses	may recur	after treatment
+mycoses	have higher prevalence in	tropical regions
+mycoses	have higher prevalence in	certain occupations
+mycoses	can be prevented with	prophylaxis
+mycoses	can be prevented with	infection control
+mycoses	can complicate	surgery
+mycoses	can complicate	wound healing
+mycoses	increase mortality in	ICU patients
+mycoses	are researched for	new treatments
+mycoses	are studied in	mycology
+mycoses	may be	drug-resistant
+mycoses	may require	combination therapy
+mycoses	can affect	nails
+mycoses	can affect	hair
+mycoses	can affect	mucous membranes
+mycoses	can affect	lungs
+mycoses	can affect	brain
+mycoses	can affect	bones
+mycoses	can affect	blood
+mycoses	can affect	eyes
+mycoses	can be	nosocomial
+mycoses	can be	community-acquired
+mycoses	may have	delayed diagnosis
+mycoses	may require	surgical intervention
+mycoses	have varying	incubation periods
+mycoses	have different	transmission routes
+mycoses	can spread via	inhalation
+mycoses	can spread via	direct contact
+mycoses	can spread via	contaminated soil
+mycoses	can spread via	water
+mycoses	have seasonal	variations
+mycoses	are associated with	bird droppings
+mycoses	are associated with	decaying matter
+mycoses	can be	occupational hazards
+mycoses	can cause	allergic reactions
+mycoses	can trigger	asthma
+mycoses	can lead to	chronic lung disease
+mycoses	can cause	disseminated infection
+mycoses	can form	granulomas
+mycoses	can cause	lymphadenopathy
+mycoses	can affect	pregnancy outcomes
+mycoses	may require	long-term treatment
+mycoses	have specific	imaging findings
+mycoses	may show	cavitary lesions
+mycoses	may show	nodules
+mycoses	may show	infiltrates
+mycoses	can be	zoonotic
+mycoses	can be	foodborne
+mycoses	can be	waterborne
+mycoses	can be	airborne
+mycoses	have genetic	predisposition factors
+mycoses	are monitored by	public health agencies
+mycoses	have emerging	new species
+mycoses	are impacted by	climate change
+mycoses	are studied in	epidemiology
+mycoses	require	multidisciplinary management

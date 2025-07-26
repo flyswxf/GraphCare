@@ -1,0 +1,100 @@
+combinations of antihypertensives	belong to	ATC group C02
+ATC group C02	includes	antihypertensive drugs
+combinations of antihypertensives	contain	multiple active ingredients
+antihypertensive drugs	treat	hypertension
+hypertension	is a	cardiovascular condition
+cardiovascular condition	affects	heart
+heart	pumps	blood
+blood	circulates in	vessels
+vessels	include	arteries
+arteries	carry	oxygenated blood
+oxygenated blood	supplies	organs
+hypertension	damages	arteries
+damaged arteries	lead to	atherosclerosis
+atherosclerosis	causes	heart disease
+heart disease	increases	mortality risk
+combinations of antihypertensives	reduce	blood pressure
+blood pressure	measured in	mmHg
+mmHg	is unit of	pressure
+pressure	affects	vessel walls
+vessel walls	contain	smooth muscle
+smooth muscle	contracts	vessels
+contracted vessels	increase	resistance
+resistance	affects	blood flow
+blood flow	delivers	nutrients
+nutrients	include	glucose
+glucose	provides	energy
+energy	fuels	cells
+cells	require	oxygen
+oxygen	transported by	hemoglobin
+hemoglobin	found in	red blood cells
+red blood cells	produced in	bone marrow
+bone marrow	affected by	chemotherapy
+chemotherapy	treats	cancer
+cancer	involves	abnormal cell growth
+abnormal cell growth	caused by	mutations
+mutations	occur in	DNA
+DNA	encodes	proteins
+proteins	perform	cellular functions
+cellular functions	maintain	homeostasis
+homeostasis	regulated by	hormones
+hormones	secreted by	endocrine glands
+endocrine glands	include	adrenal glands
+adrenal glands	produce	aldosterone
+aldosterone	regulates	sodium balance
+sodium balance	affects	blood volume
+blood volume	influences	blood pressure
+combinations of antihypertensives	target	RAAS system
+RAAS system	regulates	blood pressure
+blood pressure	controlled by	baroreceptors
+baroreceptors	located in	carotid sinus
+carotid sinus	monitors	pressure changes
+pressure changes	detected by	nervous system
+nervous system	includes	autonomic nerves
+autonomic nerves	control	heart rate
+heart rate	affects	cardiac output
+cardiac output	determines	blood flow
+blood flow	delivers	medications
+medications	metabolized by	liver
+liver	produces	enzymes
+enzymes	break down	drugs
+drugs	excreted by	kidneys
+kidneys	filter	blood
+blood	contains	waste products
+waste products	removed through	urine
+urine	stored in	bladder
+bladder	controlled by	sphincters
+sphincters	relax during	urination
+urination	regulated by	nervous signals
+nervous signals	transmitted via	neurons
+neurons	communicate via	neurotransmitters
+neurotransmitters	include	norepinephrine
+norepinephrine	increases	blood pressure
+blood pressure	lowered by	beta blockers
+beta blockers	block	adrenergic receptors
+adrenergic receptors	activated by	adrenaline
+adrenaline	secreted during	stress
+stress	triggers	fight-or-flight response
+fight-or-flight response	increases	heart rate
+heart rate	monitored by	ECG
+ECG	measures	electrical activity
+electrical activity	originates in	SA node
+SA node	acts as	pacemaker
+pacemaker	regulates	heart rhythm
+heart rhythm	can be	irregular
+irregular rhythm	called	arrhythmia
+arrhythmia	treated with	antiarrhythmics
+antiarrhythmics	classified as	Class I-IV drugs
+Class I-IV drugs	target	ion channels
+ion channels	control	membrane potential
+membrane potential	affects	muscle contraction
+muscle contraction	powered by	ATP
+ATP	generated in	mitochondria
+mitochondria	produce	energy
+energy	required for	cellular processes
+cellular processes	include	protein synthesis
+protein synthesis	occurs in	ribosomes
+ribosomes	read	mRNA
+mRNA	transcribed from	DNA
+DNA	packaged in	chromosomes
+chromosomes	contain	genetic information

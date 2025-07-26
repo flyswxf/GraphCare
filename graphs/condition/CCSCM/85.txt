@@ -1,0 +1,100 @@
+coma	is a state of	unconsciousness
+stupor	is a state of	reduced consciousness
+brain damage	can cause	coma
+brain damage	can cause	stupor
+coma	may result from	traumatic brain injury
+stupor	may result from	metabolic disorders
+brain damage	affects	cognitive function
+coma	requires	intensive care
+stupor	may progress to	coma
+brain damage	may lead to	permanent disability
+coma	is assessed by	Glasgow Coma Scale
+stupor	is assessed by	neurological examination
+brain damage	is diagnosed by	MRI scan
+coma	may be caused by	stroke
+stupor	may be caused by	drug overdose
+brain damage	may be caused by	hypoxia
+coma	requires	mechanical ventilation
+stupor	may require	medication adjustment
+brain damage	may require	rehabilitation
+coma	has potential complication	pneumonia
+stupor	has potential complication	dehydration
+brain damage	has potential complication	seizures
+coma	is managed by	neurologist
+stupor	is managed by	internal medicine
+brain damage	is managed by	rehabilitation team
+coma	may lead to	vegetative state
+stupor	may resolve with	treatment
+brain damage	may cause	memory loss
+coma	is associated with	increased intracranial pressure
+stupor	is associated with	electrolyte imbalance
+brain damage	is associated with	behavioral changes
+coma	may result from	brain hemorrhage
+stupor	may result from	liver failure
+brain damage	may result from	infection
+coma	can be	drug-induced
+stupor	can be	alcohol-related
+brain damage	can be	congenital
+coma	requires	constant monitoring
+stupor	requires	frequent assessment
+brain damage	requires	long-term care
+coma	has risk factor	head trauma
+stupor	has risk factor	diabetes
+brain damage	has risk factor	hypertension
+coma	may need	EEG monitoring
+stupor	may need	blood tests
+brain damage	may need	cognitive therapy
+coma	affects	brain function
+stupor	affects	alertness
+brain damage	affects	motor skills
+coma	is classified by	duration
+stupor	is classified by	responsiveness
+brain damage	is classified by	severity
+coma	may follow	cardiac arrest
+stupor	may follow	seizure
+brain damage	may follow	meningitis
+coma	has prognostic factor	pupil response
+stupor	has prognostic factor	verbal response
+brain damage	has prognostic factor	lesion location
+coma	can complicate	diabetes management
+stupor	can complicate	medication compliance
+brain damage	can complicate	daily living
+coma	is treated with	supportive care
+stupor	is treated with	causal therapy
+brain damage	is treated with	neuroprotective agents
+coma	involves	brainstem dysfunction
+stupor	involves	cerebral cortex dysfunction
+brain damage	involves	neuronal death
+coma	may be	reversible
+stupor	may be	transient
+brain damage	may be	progressive
+coma	has association	brain swelling
+stupor	has association	toxic exposure
+brain damage	has association	genetic factors
+coma	requires	CT scan
+stupor	requires	metabolic panel
+brain damage	requires	neuropsychological testing
+coma	can lead to	muscle atrophy
+stupor	can lead to	aspiration risk
+brain damage	can lead to	speech impairment
+coma	is different from	sleep
+stupor	is different from	delirium
+brain damage	is different from	psychiatric disorder
+coma	has complication	pressure ulcers
+stupor	has complication	malnutrition
+brain damage	has complication	depression
+coma	may require	feeding tube
+stupor	may require	IV fluids
+brain damage	may require	assistive devices
+coma	affects	family members
+stupor	affects	social functioning
+brain damage	affects	executive function
+coma	has research focus	neuroprotection
+stupor	has research focus	consciousness
+brain damage	has research focus	neuroplasticity
+coma	may involve	thalamic damage
+stupor	may involve	reticular formation dysfunction
+brain damage	may involve	white matter lesions
+coma	is studied in	neurology
+stupor	is studied in	clinical neuroscience
+brain damage	is studied in	neurorehabilitation

@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+hypothalamic hormones	are produced by	hypothalamus
+hypothalamic hormones	regulate	pituitary gland
+hypothalamic hormones	include	thyrotropin-releasing hormone
+hypothalamic hormones	include	gonadotropin-releasing hormone
+hypothalamic hormones	include	growth hormone-releasing hormone
+hypothalamic hormones	include	somatostatin
+hypothalamic hormones	include	dopamine
+hypothalamic hormones	include	corticotropin-releasing hormone
+thyrotropin-releasing hormone	stimulates	thyroid-stimulating hormone
+gonadotropin-releasing hormone	stimulates	luteinizing hormone
+gonadotropin-releasing hormone	stimulates	follicle-stimulating hormone
+growth hormone-releasing hormone	stimulates	growth hormone
+somatostatin	inhibits	growth hormone
+somatostatin	inhibits	thyroid-stimulating hormone
+dopamine	inhibits	prolactin
+corticotropin-releasing hormone	stimulates	adrenocorticotropic hormone
+hypothalamic hormones	affect	metabolism
+hypothalamic hormones	influence	reproduction
+hypothalamic hormones	control	stress response
+hypothalamic hormones	regulate	body temperature
+hypothalamic hormones	modulate	sleep cycles
+hypothalamic hormones	impact	appetite
+hypothalamic hormones	connected to	autonomic nervous system
+hypothalamus	receives input from	limbic system
+hypothalamus	responds to	blood osmolality
+hypothalamus	detects	stress signals
+hypothalamus	monitors	nutrient levels
+thyroid-stimulating hormone	acts on	thyroid gland
+luteinizing hormone	acts on	ovaries
+luteinizing hormone	acts on	testes
+follicle-stimulating hormone	acts on	ovaries
+follicle-stimulating hormone	acts on	testes
+growth hormone	affects	bone growth
+growth hormone	influences	muscle mass
+adrenocorticotropic hormone	stimulates	adrenal cortex
+adrenal cortex	produces	cortisol
+cortisol	regulates	immune response
+cortisol	affects	glucose metabolism
+thyroid gland	produces	thyroxine
+thyroxine	controls	metabolic rate
+ovaries	produce	estrogen
+estrogen	regulates	menstrual cycle
+testes	produce	testosterone
+testosterone	promotes	muscle growth
+prolactin	stimulates	milk production
+hypothalamic dysfunction	causes	hormonal imbalance
+hormonal imbalance	leads to	endocrine disorders
+hypothalamic tumors	affect	hormone production
+traumatic brain injury	can damage	hypothalamus
+inflammation	may impair	hypothalamic function
+hypothalamic hormones	are used in	fertility treatments
+gonadotropin-releasing hormone analogs	treat	prostate cancer
+somatostatin analogs	manage	acromegaly
+dopamine agonists	treat	hyperprolactinemia
+growth hormone therapy	addresses	growth disorders
+hypothalamic hormones	interact with	circadian rhythm
+melatonin	influences	hypothalamic activity
+leptin	signals to	hypothalamus
+ghrelin	stimulates	hypothalamus
+hypothalamus	regulates	thirst
+hypothalamus	controls	blood pressure
+hypothalamic-pituitary axis	is crucial for	homeostasis
+negative feedback	regulates	hypothalamic hormones
+stress	activates	corticotropin-releasing hormone
+hypothalamic hormones	decline with	aging
+hypothalamic amenorrhea	results from	GnRH deficiency
+kallmann syndrome	involves	GnRH deficiency
+hypothyroidism	may originate from	TRH deficiency
+cushing's syndrome	relates to	CRH excess
+hypothalamic hormones	are measured in	endocrine tests
+hypothalamic hormones	have pulsatile secretion
+hypothalamic hormones	bind to	specific receptors
+receptor mutations	cause	hormone resistance
+hypothalamic hormones	are polypeptides
+hypothalamic hormones	have short half-lives
+hypothalamic hormones	transported via	portal system
+pituitary gland	amplifies	hypothalamic signals
+hypothalamic hormones	differ from	pituitary hormones
+hypothalamic hormones	synthesized in	neurons
+hypothalamic hormones	stored in	axon terminals
+hypothalamus	integrates	neural and endocrine signals
+hypothalamic hormones	respond to	environmental cues
+hypothalamus	affected by	nutritional status
+obesity	alters	hypothalamic function
+anorexia	impacts	hypothalamic hormones
+hypothalamic hormones	involved in	puberty onset
+hypothalamus	contains	osmoreceptors
+hypothalamus	regulates	water balance
+vasopressin	produced by	hypothalamus
+oxytocin	produced by	hypothalamus
+vasopressin	controls	water retention
+oxytocin	facilitates	childbirth
+oxytocin	promotes	social bonding
+hypothalamic hormones	vary by	sex
+hypothalamic hormones	fluctuate daily
+hypothalamic hormones	respond to	exercise
+hypothalamic hormones	affected by	medications
+hypothalamic hormones	influence	mood
+hypothalamic hormones	connected to	depression
+hypothalamic hormones	research focus on	metabolic diseases

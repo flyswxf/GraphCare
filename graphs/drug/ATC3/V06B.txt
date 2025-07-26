@@ -1,0 +1,100 @@
+protein supplements	contain	protein
+protein supplements	used by	athletes
+athletes	need	muscle recovery
+muscle recovery	requires	protein synthesis
+protein supplements	promote	muscle growth
+protein supplements	come in	powder form
+powder form	can be mixed	with liquids
+protein supplements	include	whey protein
+whey protein	derived from	milk
+milk	contains	casein
+casein	is	slow-digesting protein
+protein supplements	may contain	creatine
+creatine	enhances	athletic performance
+athletic performance	depends on	energy production
+energy production	requires	ATP
+protein supplements	help with	weight management
+weight management	involves	calorie control
+protein supplements	can replace	meals
+meal replacement	aids in	dieting
+dieting	requires	nutrient balance
+protein supplements	provide	amino acids
+amino acids	are	protein building blocks
+protein building blocks	form	muscle tissue
+muscle tissue	requires	repair
+repair	needs	protein intake
+protein supplements	may cause	digestive issues
+digestive issues	include	bloating
+bloating	can be caused by	lactose
+lactose	is in	whey protein
+whey protein	has	fast absorption
+fast absorption	benefits	post-workout
+post-workout	is time for	recovery
+recovery	needs	nutrients
+nutrients	include	vitamins
+vitamins	support	metabolism
+metabolism	affects	energy levels
+protein supplements	come as	bars
+bars	are	convenient
+convenient	means	portable
+portable food	good for	on-the-go
+protein supplements	may contain	sugar
+sugar	affects	blood glucose
+blood glucose	influences	insulin
+insulin	regulates	nutrient uptake
+nutrient uptake	important for	muscles
+protein supplements	help prevent	muscle loss
+muscle loss	occurs during	aging
+aging	leads to	sarcopenia
+sarcopenia	is	muscle wasting
+muscle wasting	reduces	strength
+strength	important for	mobility
+mobility	affects	quality of life
+protein supplements	used in	medical nutrition
+medical nutrition	treats	malnutrition
+malnutrition	causes	weakness
+weakness	leads to	fatigue
+fatigue	reduces	productivity
+productivity	depends on	energy
+energy	comes from	food
+food	provides	calories
+protein supplements	contain	BCAA
+BCAA	are	branched-chain amino acids
+branched-chain amino acids	support	recovery
+recovery	enhances	performance
+performance	measured by	endurance
+endurance	requires	stamina
+stamina	built through	training
+training	increases	muscle mass
+muscle mass	affects	metabolism
+metabolism	determines	calorie burn
+protein supplements	may interact with	medications
+medications	can have	side effects
+side effects	include	nausea
+nausea	can lead to	vomiting
+vomiting	causes	dehydration
+dehydration	affects	electrolyte balance
+electrolyte balance	important for	heart function
+heart function	relies on	potassium
+potassium	is an	electrolyte
+protein supplements	can be	plant-based
+plant-based protein	comes from	peas
+peas	contain	iron
+iron	supports	oxygen transport
+oxygen transport	vital for	cells
+cells	need	oxygen
+protein supplements	help build	immunity
+immunity	fights	infections
+infections	caused by	pathogens
+pathogens	include	bacteria
+bacteria	can cause	illness
+illness	leads to	inflammation
+inflammation	requires	treatment
+treatment	may involve	rest
+rest	aids	healing
+healing	requires	nutrients
+nutrients	found in	food
+food	provides	energy
+energy	needed for	activity
+activity	builds	muscles
+muscles	require	protein

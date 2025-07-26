@@ -1,0 +1,100 @@
+thyroidectomy	is a	surgery
+thyroidectomy	performed on	thyroid gland
+thyroidectomy	treats	hyperthyroidism
+thyroidectomy	treats	thyroid cancer
+thyroidectomy	treats	goiter
+partial thyroidectomy	is a type of	thyroidectomy
+total thyroidectomy	is a type of	thyroidectomy
+thyroidectomy	requires	anesthesia
+thyroidectomy	performed by	surgeon
+thyroidectomy	may cause	hypothyroidism
+thyroidectomy	may cause	hypocalcemia
+thyroidectomy	may cause	vocal cord paralysis
+thyroidectomy	requires	preoperative evaluation
+thyroidectomy	requires	postoperative monitoring
+thyroidectomy	has risk	bleeding
+thyroidectomy	has risk	infection
+thyroidectomy	preceded by	imaging
+thyroidectomy	preceded by	blood tests
+thyroidectomy	may require	hormone replacement
+thyroidectomy	affects	calcium levels
+thyroidectomy	impacts	metabolism
+thyroidectomy	involves	neck incision
+thyroidectomy	may require	drain placement
+thyroidectomy	followed by	scar formation
+thyroidectomy	requires	pain management
+thyroidectomy	contraindicated in	bleeding disorders
+thyroidectomy	contraindicated in	severe comorbidities
+thyroidectomy	alternative to	radioactive iodine
+thyroidectomy	alternative to	antithyroid drugs
+thyroidectomy	more effective than	medication for Graves disease
+thyroidectomy	treats	thyroid nodules
+thyroidectomy	treats	thyroiditis
+thyroidectomy	complications include	hematoma
+thyroidectomy	complications include	airway obstruction
+thyroidectomy	complications include	recurrent laryngeal nerve injury
+thyroidectomy	requires	follow-up care
+thyroidectomy	associated with	hospital stay
+thyroidectomy	may require	calcium supplementation
+thyroidectomy	affects	parathyroid function
+thyroidectomy	preceded by	informed consent
+thyroidectomy	uses	surgical instruments
+thyroidectomy	may use	intraoperative nerve monitoring
+thyroidectomy	duration depends on	complexity
+thyroidectomy	more common in	women
+thyroidectomy	indication for	compressive symptoms
+thyroidectomy	indication for	suspicious cytology
+thyroidectomy	contraindicated in	pregnancy
+thyroidectomy	requires	preoperative optimization
+thyroidectomy	may require	ICU monitoring
+thyroidectomy	affects	quality of life
+thyroidectomy	indication for	large goiter
+thyroidectomy	indication for	retrosternal extension
+thyroidectomy	may require	neck dissection
+thyroidectomy	may follow	FNA biopsy
+thyroidectomy	preceded by	patient education
+thyroidectomy	may cause	psychological distress
+thyroidectomy	may require	speech therapy
+thyroidectomy	increases risk	surgical site infection
+thyroidectomy	requires	sterile technique
+thyroidectomy	uses	electrocautery
+thyroidectomy	may use	harmonic scalpel
+thyroidectomy	duration typically	2-4 hours
+thyroidectomy	more effective than	radiofrequency ablation
+thyroidectomy	requires	preoperative marking
+thyroidectomy	may involve	frozen section
+thyroidectomy	indication for	recurrent goiter
+thyroidectomy	indication for	toxic adenoma
+thyroidectomy	contraindicated in	unstable patients
+thyroidectomy	contraindicated in	severe osteoporosis
+thyroidectomy	requires	postoperative labs
+thyroidectomy	may require	neck ultrasound
+thyroidectomy	affects	swallowing function
+thyroidectomy	affects	voice quality
+thyroidectomy	may require	rehabilitation
+thyroidectomy	indication for	follicular neoplasm
+thyroidectomy	indication for	Hurthle cell neoplasm
+thyroidectomy	indication for	medullary thyroid cancer
+thyroidectomy	indication for	anaplastic thyroid cancer
+thyroidectomy	contraindicated in	uncontrolled hypertension
+thyroidectomy	contraindicated in	active infection
+thyroidectomy	requires	postoperative thyroid scan
+thyroidectomy	may require	radioactive iodine ablation
+thyroidectomy	affects	body temperature regulation
+thyroidectomy	affects	heart rate
+thyroidectomy	affects	cholesterol levels
+thyroidectomy	affects	bone metabolism
+thyroidectomy	indication for	Graves ophthalmopathy
+thyroidectomy	indication for	refractory hyperthyroidism
+thyroidectomy	contraindicated in	advanced age
+thyroidectomy	contraindicated in	poor surgical candidates
+thyroidectomy	requires	multidisciplinary team
+thyroidectomy	uses	sutures
+thyroidectomy	uses	surgical drains
+thyroidectomy	may require	blood transfusion
+thyroidectomy	affects	nutritional requirements
+thyroidectomy	affects	energy levels
+thyroidectomy	indication for	pediatric thyroid disease
+thyroidectomy	requires	long-term follow-up
+thyroidectomy	affects	medication regimen
+thyroidectomy	impacts	life expectancy in cancer

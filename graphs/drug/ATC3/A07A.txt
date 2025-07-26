@@ -1,0 +1,100 @@
+intestinal antiinfectives	is a	drug class
+intestinal antiinfectives	treats	intestinal infections
+intestinal antiinfectives	includes	antibiotics
+intestinal antiinfectives	includes	antiparasitics
+intestinal antiinfectives	includes	antifungals
+intestinal antiinfectives	targets	bacteria
+intestinal antiinfectives	targets	parasites
+intestinal antiinfectives	targets	fungi
+intestinal infections	caused by	bacteria
+intestinal infections	caused by	viruses
+intestinal infections	caused by	parasites
+intestinal infections	caused by	fungi
+intestinal antiinfectives	prescribed for	diarrhea
+diarrhea	symptom of	intestinal infections
+intestinal antiinfectives	reduces	inflammation
+inflammation	caused by	infection
+intestinal antiinfectives	inhibits	pathogen growth
+pathogen growth	leads to	infection
+intestinal antiinfectives	restores	gut flora
+gut flora	protects against	pathogens
+intestinal antiinfectives	classified as	broad-spectrum
+broad-spectrum drugs	act against	multiple pathogens
+intestinal antiinfectives	classified as	narrow-spectrum
+narrow-spectrum drugs	act against	specific pathogens
+intestinal antiinfectives	interacts with	probiotics
+probiotics	enhance	gut health
+intestinal antiinfectives	contraindicated with	certain foods
+certain foods	reduce	drug absorption
+intestinal antiinfectives	administered as	oral tablets
+oral tablets	convenient for	intestinal treatment
+intestinal antiinfectives	administered as	suspensions
+suspensions	suitable for	pediatric patients
+intestinal antiinfectives	metabolized in	liver
+liver	affects	drug efficacy
+intestinal antiinfectives	excreted via	kidneys
+kidneys	influence	drug clearance
+intestinal antiinfectives	may cause	nausea
+nausea	side effect of	many drugs
+intestinal antiinfectives	may cause	vomiting
+vomiting	indicates	drug intolerance
+intestinal antiinfectives	may cause	allergic reactions
+allergic reactions	require	discontinuation
+intestinal antiinfectives	may interact with	anticoagulants
+anticoagulants	affected by	drug interactions
+intestinal antiinfectives	may interact with	antacids
+antacids	reduce	drug absorption
+intestinal antiinfectives	used in	travelers' diarrhea
+travelers' diarrhea	caused by	contaminated food
+intestinal antiinfectives	used in	Clostridium difficile infection
+Clostridium difficile infection	results from	antibiotic overuse
+intestinal antiinfectives	alternative to	intravenous antibiotics
+intravenous antibiotics	used for	severe infections
+intestinal antiinfectives	prevents	sepsis
+sepsis	complication of	untreated infections
+intestinal antiinfectives	shortens	illness duration
+illness duration	affects	recovery rate
+intestinal antiinfectives	improves	nutrient absorption
+nutrient absorption	impaired by	intestinal inflammation
+intestinal antiinfectives	combats	antibiotic resistance
+antibiotic resistance	threat to	public health
+intestinal antiinfectives	research focus	new formulations
+new formulations	aim for	better efficacy
+intestinal antiinfectives	derived from	natural sources
+natural sources	include	plant extracts
+intestinal antiinfectives	synthetic versions	more stable
+synthetic drugs	have	predictable effects
+intestinal antiinfectives	tested in	clinical trials
+clinical trials	ensure	drug safety
+intestinal antiinfectives	approved by	FDA
+FDA	regulates	drug approval
+intestinal antiinfectives	prescribed by	doctors
+doctors	consider	patient history
+intestinal antiinfectives	dosage depends on	age
+age	affects	drug metabolism
+intestinal antiinfectives	dosage depends on	weight
+weight	influences	drug distribution
+intestinal antiinfectives	stored at	room temperature
+room temperature	maintains	drug stability
+intestinal antiinfectives	expires after	certain period
+expired drugs	lose	potency
+intestinal antiinfectives	brand names	vary
+brand names	differ by	manufacturer
+intestinal antiinfectives	generic versions	cheaper
+generic drugs	contain	same active ingredient
+intestinal antiinfectives	overuse leads to	resistance
+resistance	necessitates	stronger drugs
+intestinal antiinfectives	part of	public health programs
+public health programs	aim to	reduce infections
+intestinal antiinfectives	used in	hospitals
+hospitals	treat	severe cases
+intestinal antiinfectives	used in	outpatient care
+outpatient care	for	mild infections
+intestinal antiinfectives	combined with	hydration therapy
+hydration therapy	prevents	dehydration
+intestinal antiinfectives	monitored via	blood tests
+blood tests	check	drug levels
+intestinal antiinfectives	avoided in	pregnancy
+pregnancy	requires	careful drug use
+intestinal antiinfectives	alternative therapies	herbal remedies
+herbal remedies	sometimes replace	conventional drugs

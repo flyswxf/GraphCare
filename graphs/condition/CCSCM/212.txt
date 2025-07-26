@@ -1,0 +1,100 @@
+bone disease	includes	osteoporosis
+bone disease	includes	Paget's disease
+bone disease	includes	osteogenesis imperfecta
+musculoskeletal deformities	include	scoliosis
+musculoskeletal deformities	include	kyphosis
+musculoskeletal deformities	include	clubfoot
+osteoporosis	causes	fractures
+osteoporosis	is treated with	bisphosphonates
+bisphosphonates	include	alendronate
+bisphosphonates	include	risedronate
+Paget's disease	affects	bone remodeling
+Paget's disease	may cause	bone pain
+osteogenesis imperfecta	is a	genetic disorder
+osteogenesis imperfecta	leads to	brittle bones
+scoliosis	involves	spinal curvature
+scoliosis	may require	bracing
+kyphosis	involves	rounded back
+kyphosis	may result from	poor posture
+clubfoot	is a	congenital deformity
+clubfoot	requires	casting
+fractures	may require	surgery
+surgery	involves	internal fixation
+internal fixation	uses	metal plates
+bone pain	is treated with	analgesics
+analgesics	include	acetaminophen
+genetic disorder	may involve	collagen defect
+brittle bones	increase	fracture risk
+spinal curvature	may worsen	with growth
+bracing	prevents	progression
+rounded back	may cause	breathing issues
+poor posture	can lead to	back pain
+congenital deformity	occurs at	birth
+casting	corrects	foot position
+metal plates	stabilize	bones
+acetaminophen	reduces	pain
+collagen defect	weakens	bones
+fracture risk	increases with	age
+progression	is monitored with	imaging
+breathing issues	may require	therapy
+back pain	is managed with	physiotherapy
+birth defects	may involve	genetics
+foot position	affects	gait
+bones	heal with	time
+pain	is assessed with	scales
+weak bones	need	calcium
+age	is a risk factor	osteoporosis
+imaging	includes	X-rays
+therapy	improves	lung function
+physiotherapy	strengthens	muscles
+genetics	influence	disease severity
+gait	is evaluated by	specialists
+time	depends on	healing rate
+scales	help measure	discomfort
+calcium	is obtained from	diet
+risk factors	include	family history
+X-rays	show	bone density
+lung function	is tested with	spirometry
+muscles	support	skeleton
+disease severity	determines	treatment
+specialists	include	orthopedic surgeons
+healing rate	varies by	individual
+discomfort	is reported by	patients
+diet	should include	vitamin D
+family history	indicates	predisposition
+bone density	predicts	fracture risk
+spirometry	measures	capacity
+skeleton	provides	structure
+treatment	may involve	medication
+orthopedic surgeons	perform	corrections
+individual	may have	comorbidities
+patients	follow	recovery plans
+vitamin D	aids	calcium absorption
+predisposition	requires	screening
+fracture risk	guides	prevention
+capacity	reflects	health status
+structure	supports	body weight
+medication	has	side effects
+corrections	improve	mobility
+comorbidities	complicate	management
+recovery plans	include	exercises
+calcium absorption	needs	sunlight
+screening	detects	early signs
+prevention	reduces	hospitalizations
+health status	influences	prognosis
+body weight	impacts	joint stress
+side effects	may include	nausea
+mobility	enhances	quality of life
+management	requires	multidisciplinary care
+exercises	strengthen	bones
+sunlight	triggers	vitamin D production
+early signs	allow	early intervention
+hospitalizations	increase	costs
+prognosis	depends on	adherence
+joint stress	leads to	arthritis
+nausea	is managed with	antiemetics
+quality of life	is a	treatment goal
+multidisciplinary care	involves	specialists
+bones	remodel with	activity
+vitamin D production	varies by	season
+early intervention	improves	outcomes

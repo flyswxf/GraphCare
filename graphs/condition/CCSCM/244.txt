@@ -1,0 +1,100 @@
+external causes	may result in	trauma
+trauma	can lead to	fractures
+fractures	may require	surgery
+surgery	has risk of	infection
+infection	can be treated with	antibiotics
+antibiotics	may cause	gastrointestinal upset
+external causes	include	burns
+burns	can cause	pain
+pain	is managed with	analgesics
+analgesics	include	opioids
+opioids	have risk of	dependence
+external causes	may involve	poisoning
+poisoning	requires	antidote
+antidote	is specific to	toxin
+toxin	can damage	liver
+liver damage	may require	transplantation
+external causes	can cause	drowning
+drowning	leads to	hypoxia
+hypoxia	affects	brain
+brain damage	may result in	coma
+external causes	include	radiation exposure
+radiation exposure	increases risk of	cancer
+cancer	is treated with	chemotherapy
+chemotherapy	causes	immunosuppression
+immunosuppression	increases risk of	infections
+external causes	may involve	animal bites
+animal bites	can transmit	rabies
+rabies	is prevented by	vaccination
+vaccination	stimulates	immunity
+immunity	protects against	disease
+external causes	can lead to	amputations
+amputations	require	prosthetics
+prosthetics	improve	mobility
+mobility	enhances	quality of life
+external causes	include	suffocation
+suffocation	causes	asphyxia
+asphyxia	may lead to	cardiac arrest
+cardiac arrest	requires	CPR
+CPR	maintains	circulation
+external causes	may result in	electrical injuries
+electrical injuries	can cause	arrhythmias
+arrhythmias	are treated with	defibrillation
+defibrillation	restores	normal rhythm
+external causes	include	frostbite
+frostbite	damages	tissues
+tissue damage	may require	debridement
+debridement	promotes	wound healing
+wound healing	involves	granulation
+external causes	can cause	concussion
+concussion	is a type of	TBI
+TBI	may lead to	cognitive impairment
+cognitive impairment	affects	memory
+memory loss	requires	rehabilitation
+external causes	include	foreign body ingestion
+foreign body ingestion	may cause	obstruction
+obstruction	requires	endoscopy
+endoscopy	allows for	removal
+external causes	may involve	chemical exposure
+chemical exposure	can burn	skin
+skin burns	are treated with	irrigation
+irrigation	removes	contaminants
+external causes	can lead to	decompression sickness
+decompression sickness	requires	hyperbaric therapy
+hyperbaric therapy	increases	oxygen levels
+oxygen	supports	cellular function
+external causes	include	lightning strikes
+lightning strikes	can cause	cardiac damage
+cardiac damage	may result in	cardiomyopathy
+cardiomyopathy	affects	heart function
+heart function	is monitored by	ECG
+external causes	may result in	crush injuries
+crush injuries	can cause	compartment syndrome
+compartment syndrome	requires	fasciotomy
+fasciotomy	relieves	pressure
+external causes	include	near-drowning
+near-drowning	may lead to	ARDS
+ARDS	requires	mechanical ventilation
+mechanical ventilation	supports	breathing
+external causes	can cause	spinal cord injuries
+spinal cord injuries	may result in	paralysis
+paralysis	affects	motor function
+motor function	can be improved with	physiotherapy
+external causes	include	smoke inhalation
+smoke inhalation	damages	lungs
+lung damage	may require	oxygen therapy
+oxygen therapy	maintains	oxygenation
+external causes	can lead to	dislocations
+dislocations	require	reduction
+reduction	restores	alignment
+alignment	prevents	arthritis
+external causes	may involve	whiplash
+whiplash	causes	neck pain
+neck pain	is treated with	immobilization
+immobilization	uses	cervical collar
+external causes	include	heat stroke
+heat stroke	results in	hyperthermia
+hyperthermia	requires	cooling
+cooling	prevents	organ failure
+organ failure	may need	ICU care
+ICU care	involves	monitoring

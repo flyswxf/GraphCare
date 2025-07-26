@@ -1,0 +1,100 @@
+arteriolar smooth muscle	is part of	blood vessels
+agents acting on arteriolar smooth muscle	can include	vasodilators
+agents acting on arteriolar smooth muscle	can include	vasoconstrictors
+vasodilators	used to treat	hypertension
+vasoconstrictors	used to treat	hypotension
+arteriolar smooth muscle	regulated by	autonomic nervous system
+autonomic nervous system	controls	vascular tone
+vascular tone	affects	blood pressure
+blood pressure	measured by	sphygmomanometer
+hypertension	risk factor for	stroke
+hypotension	can cause	dizziness
+arteriolar smooth muscle	contains	alpha-1 adrenergic receptors
+alpha-1 adrenergic receptors	activated by	norepinephrine
+norepinephrine	released by	sympathetic nerves
+sympathetic nerves	part of	autonomic nervous system
+arteriolar smooth muscle	contains	calcium channels
+calcium channels	blocked by	calcium channel blockers
+calcium channel blockers	used to treat	angina
+angina	symptom of	coronary artery disease
+coronary artery disease	risk factor for	myocardial infarction
+myocardial infarction	treated with	thrombolytics
+thrombolytics	dissolve	blood clots
+blood clots	can cause	pulmonary embolism
+pulmonary embolism	diagnosed with	CT pulmonary angiography
+CT pulmonary angiography	uses	contrast media
+contrast media	can cause	allergic reactions
+allergic reactions	treated with	antihistamines
+antihistamines	block	histamine receptors
+histamine receptors	activated by	histamine
+histamine	released by	mast cells
+mast cells	involved in	inflammatory responses
+inflammatory responses	mediated by	cytokines
+cytokines	include	interleukins
+interleukins	produced by	immune cells
+immune cells	include	lymphocytes
+lymphocytes	part of	adaptive immune system
+adaptive immune system	provides	immunological memory
+immunological memory	basis of	vaccination
+vaccination	prevents	infectious diseases
+infectious diseases	caused by	pathogens
+pathogens	include	bacteria
+bacteria	treated with	antibiotics
+antibiotics	can cause	antibiotic resistance
+antibiotic resistance	managed by	antimicrobial stewardship
+antimicrobial stewardship	involves	rational antibiotic use
+rational antibiotic use	requires	culture sensitivity testing
+culture sensitivity testing	identifies	effective antibiotics
+effective antibiotics	target	bacterial cell wall
+bacterial cell wall	contains	peptidoglycan
+peptidoglycan	synthesized by	penicillin-binding proteins
+penicillin-binding proteins	inhibited by	beta-lactam antibiotics
+beta-lactam antibiotics	include	penicillins
+penicillins	discovered by	Alexander Fleming
+Alexander Fleming	worked on	Staphylococcus aureus
+Staphylococcus aureus	can cause	sepsis
+sepsis	treated with	intravenous antibiotics
+intravenous antibiotics	administered via	central venous catheter
+central venous catheter	inserted into	subclavian vein
+subclavian vein	drains	upper limb
+upper limb	contains	brachial artery
+brachial artery	gives rise to	radial artery
+radial artery	used for	arterial blood gas sampling
+arterial blood gas sampling	measures	oxygen saturation
+oxygen saturation	reflects	respiratory function
+respiratory function	controlled by	respiratory center
+respiratory center	located in	medulla oblongata
+medulla oblongata	part of	brainstem
+brainstem	connects to	spinal cord
+spinal cord	contains	motor neurons
+motor neurons	innervate	skeletal muscles
+skeletal muscles	require	ATP for contraction
+ATP	produced by	mitochondria
+mitochondria	contain	electron transport chain
+electron transport chain	generates	proton gradient
+proton gradient	drives	ATP synthase
+ATP synthase	produces	ATP
+ATP	used by	sodium-potassium pump
+sodium-potassium pump	maintains	resting membrane potential
+resting membrane potential	essential for	action potentials
+action potentials	propagate along	axons
+axons	myelinated by	oligodendrocytes
+oligodendrocytes	type of	glial cells
+glial cells	support	neurons
+neurons	communicate via	synapses
+synapses	use	neurotransmitters
+neurotransmitters	include	dopamine
+dopamine	involved in	reward system
+reward system	affected by	addictive drugs
+addictive drugs	include	opioids
+opioids	act on	opioid receptors
+opioid receptors	inhibited by	naloxone
+naloxone	used for	opioid overdose
+opioid overdose	characterized by	respiratory depression
+respiratory depression	treated with	mechanical ventilation
+mechanical ventilation	requires	endotracheal intubation
+endotracheal intubation	performed using	laryngoscope
+laryngoscope	visualizes	vocal cords
+vocal cords	produce	phonation
+phonation	results in	speech
+speech	controlled by	Broca's area

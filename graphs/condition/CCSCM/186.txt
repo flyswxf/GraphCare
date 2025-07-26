@@ -1,0 +1,100 @@
+gestational diabetes	is a type of	diabetes
+diabetes	may complicate	pregnancy
+abnormal glucose tolerance	may complicate	pregnancy
+gestational diabetes	increases risk of	macrosomia
+macrosomia	may complicate	childbirth
+gestational diabetes	increases risk of	preeclampsia
+preeclampsia	may complicate	pregnancy
+gestational diabetes	requires	glucose monitoring
+insulin	is used to treat	gestational diabetes
+metformin	is used to treat	gestational diabetes
+gestational diabetes	increases risk of	cesarean delivery
+cesarean delivery	is a type of	childbirth
+gestational diabetes	increases risk of	neonatal hypoglycemia
+neonatal hypoglycemia	is a complication of	childbirth
+gestational diabetes	may lead to	type 2 diabetes
+type 2 diabetes	is a chronic	metabolic disorder
+gestational diabetes	increases risk of	postpartum hemorrhage
+postpartum hemorrhage	is a complication of	childbirth
+gestational diabetes	requires	dietary management
+dietary management	includes	carbohydrate control
+gestational diabetes	increases risk of	polyhydramnios
+polyhydramnios	may complicate	pregnancy
+gestational diabetes	requires	regular prenatal visits
+prenatal visits	monitor	fetal growth
+gestational diabetes	increases risk of	preterm birth
+preterm birth	is a complication of	pregnancy
+gestational diabetes	increases risk of	respiratory distress syndrome
+respiratory distress syndrome	affects	newborns
+gestational diabetes	may cause	birth injuries
+birth injuries	result from	difficult delivery
+gestational diabetes	requires	blood sugar testing
+blood sugar testing	measures	glucose levels
+gestational diabetes	increases risk of	jaundice
+jaundice	affects	newborns
+gestational diabetes	may lead to	obesity in child
+obesity	is a risk factor for	metabolic syndrome
+gestational diabetes	increases risk of	stillbirth
+stillbirth	is a complication of	pregnancy
+gestational diabetes	requires	lifestyle modifications
+lifestyle modifications	include	exercise
+gestational diabetes	increases risk of	shoulder dystocia
+shoulder dystocia	complicates	childbirth
+gestational diabetes	requires	fetal monitoring
+fetal monitoring	assesses	fetal wellbeing
+gestational diabetes	increases risk of	congenital anomalies
+congenital anomalies	affect	newborns
+gestational diabetes	requires	postpartum screening
+postpartum screening	detects	persistent diabetes
+gestational diabetes	increases risk of	hypertension
+hypertension	complicates	pregnancy
+gestational diabetes	increases risk of	NICU admission
+NICU admission	is required for	high-risk newborns
+gestational diabetes	may cause	placental dysfunction
+placental dysfunction	affects	fetal development
+gestational diabetes	requires	multidisciplinary care
+multidisciplinary care	involves	obstetricians
+gestational diabetes	increases risk of	maternal infection
+maternal infection	complicates	puerperium
+gestational diabetes	may require	insulin pumps
+insulin pumps	deliver	continuous insulin
+gestational diabetes	increases risk of	dyslipidemia
+dyslipidemia	affects	metabolic health
+gestational diabetes	requires	nutritional counseling
+nutritional counseling	guides	dietary choices
+gestational diabetes	increases risk of	future cardiovascular disease
+cardiovascular disease	is linked to	metabolic disorders
+gestational diabetes	may lead to	maternal obesity
+maternal obesity	complicates	pregnancy
+gestational diabetes	requires	glucose tolerance test
+glucose tolerance test	diagnoses	diabetes
+gestational diabetes	increases risk of	thromboembolism
+thromboembolism	is a complication of	puerperium
+gestational diabetes	may cause	fetal distress
+fetal distress	complicates	labor
+gestational diabetes	requires	HbA1c testing
+HbA1c testing	measures	long-term glucose control
+gestational diabetes	increases risk of	maternal depression
+maternal depression	affects	postpartum recovery
+gestational diabetes	requires	weight management
+weight management	prevents	obesity
+gestational diabetes	increases risk of	urinary tract infections
+urinary tract infections	complicate	pregnancy
+gestational diabetes	may cause	neonatal hypocalcemia
+neonatal hypocalcemia	affects	newborns
+gestational diabetes	requires	breastfeeding support
+breastfeeding support	promotes	neonatal health
+gestational diabetes	increases risk of	maternal metabolic syndrome
+metabolic syndrome	increases	cardiovascular risk
+gestational diabetes	may cause	polycystic ovary syndrome
+polycystic ovary syndrome	affects	fertility
+gestational diabetes	requires	continuous glucose monitoring
+continuous glucose monitoring	tracks	blood sugar levels
+gestational diabetes	increases risk of	neonatal hyperbilirubinemia
+neonatal hyperbilirubinemia	causes	jaundice
+gestational diabetes	may lead to	chronic hypertension
+chronic hypertension	complicates	future pregnancies
+gestational diabetes	requires	postpartum exercise
+postpartum exercise	improves	metabolic health
+gestational diabetes	increases risk of	maternal insulin resistance
+maternal insulin resistance	precedes	type 2 diabetes

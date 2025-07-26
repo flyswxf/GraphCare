@@ -1,0 +1,100 @@
+diagnostic cardiac catheterization	is a	medical procedure
+coronary arteriography	is a type of	diagnostic cardiac catheterization
+diagnostic cardiac catheterization	evaluates	coronary arteries
+coronary arteriography	visualizes	coronary artery blockages
+coronary arteriography	requires	contrast dye
+contrast dye	may cause	allergic reaction
+allergic reaction	treated with	antihistamines
+diagnostic cardiac catheterization	measures	blood pressure in heart chambers
+blood pressure measurement	indicates	heart function
+coronary arteriography	detects	atherosclerosis
+atherosclerosis	leads to	coronary artery disease
+coronary artery disease	treated with	statins
+statins	lower	LDL cholesterol
+diagnostic cardiac catheterization	assesses	heart valve function
+heart valve dysfunction	may require	valve replacement
+valve replacement	involves	prosthetic valve
+prosthetic valve	requires	anticoagulants
+coronary arteriography	guides	angioplasty
+angioplasty	uses	stent
+stent	prevents	artery re-narrowing
+diagnostic cardiac catheterization	performed by	cardiologist
+cardiologist	specializes in	cardiovascular diseases
+cardiovascular diseases	include	myocardial infarction
+myocardial infarction	diagnosed with	troponin test
+diagnostic cardiac catheterization	requires	femoral artery access
+femoral artery access	risks	hematoma
+hematoma	managed with	compression
+coronary arteriography	contraindicated in	severe kidney disease
+severe kidney disease	increases	contrast nephropathy risk
+diagnostic cardiac catheterization	preceded by	pre-procedure blood tests
+pre-procedure blood tests	check	coagulation status
+abnormal coagulation	requires	transfusion
+coronary arteriography	identifies	coronary anomalies
+coronary anomalies	associated with	sudden cardiac death
+sudden cardiac death	prevented by	ICD
+diagnostic cardiac catheterization	evaluates	ventricular function
+ventricular dysfunction	treated with	beta-blockers
+beta-blockers	reduce	heart rate
+coronary arteriography	differentiates	stable vs unstable angina
+unstable angina	requires	emergency intervention
+diagnostic cardiac catheterization	utilizes	fluoroscopy
+fluoroscopy	emits	X-rays
+X-ray exposure	minimized with	lead shielding
+coronary arteriography	quantifies	stenosis severity
+severe stenosis	indicates	CABG
+CABG	uses	saphenous vein graft
+diagnostic cardiac catheterization	monitors	oxygen saturation
+low oxygen saturation	suggests	pulmonary embolism
+pulmonary embolism	diagnosed with	CT pulmonary angiography
+coronary arteriography	contraindicated in	active bleeding
+active bleeding	managed with	tranexamic acid
+diagnostic cardiac catheterization	assesses	pulmonary hypertension
+pulmonary hypertension	treated with	vasodilators
+vasodilators	include	sildenafil
+coronary arteriography	reveals	collateral circulation
+collateral circulation	protects against	ischemia
+diagnostic cardiac catheterization	requires	local anesthesia
+local anesthesia	achieved with	lidocaine
+lidocaine toxicity	causes	seizures
+coronary arteriography	evaluates	stent patency
+stent thrombosis	treated with	dual antiplatelet therapy
+dual antiplatelet therapy	combines	aspirin and clopidogrel
+diagnostic cardiac catheterization	checks	cardiac output
+low cardiac output	indicates	cardiogenic shock
+cardiogenic shock	managed with	inotropes
+coronary arteriography	detects	spontaneous coronary dissection
+spontaneous coronary dissection	more common in	postpartum women
+diagnostic cardiac catheterization	rules out	vasospastic angina
+vasospastic angina	treated with	calcium channel blockers
+calcium channel blockers	relax	vascular smooth muscle
+coronary arteriography	measures	fractional flow reserve
+fractional flow reserve	determines	revascularization need
+diagnostic cardiac catheterization	examines	left main disease
+left main disease	requires	urgent surgery
+coronary arteriography	identifies	thrombus
+thrombus	dissolved with	thrombolytics
+thrombolytics	include	alteplase
+diagnostic cardiac catheterization	contraindicated in	aortic dissection
+aortic dissection	diagnosed with	CT aortography
+coronary arteriography	evaluates	bypass graft patency
+graft occlusion	leads to	recurrent ischemia
+diagnostic cardiac catheterization	assesses	intracardiac shunts
+intracardiac shunts	quantified by	oximetry
+coronary arteriography	detects	myocardial bridging
+myocardial bridging	causes	systolic compression
+diagnostic cardiac catheterization	requires	heparinization
+heparin	reversed with	protamine
+coronary arteriography	visualizes	calcifications
+coronary calcifications	predict	plaque burden
+diagnostic cardiac catheterization	checks	right heart pressures
+elevated right heart pressures	suggest	pulmonary disease
+coronary arteriography	differentiates	Takotsubo cardiomyopathy
+Takotsubo cardiomyopathy	mimics	myocardial infarction
+diagnostic cardiac catheterization	evaluates	prosthetic valve function
+prosthetic valve dysfunction	causes	paravalvular leak
+coronary arteriography	identifies	coronary fistulas
+coronary fistulas	may require	embolization
+diagnostic cardiac catheterization	measures	LVEDP
+elevated LVEDP	indicates	heart failure
+heart failure	managed with	diuretics

@@ -1,0 +1,100 @@
+skin infection	is a type of	skin and subcutaneous tissue infection
+subcutaneous tissue infection	is a type of	skin and subcutaneous tissue infection
+cellulitis	is a type of	skin infection
+abscess	is a type of	skin infection
+erysipelas	is a type of	skin infection
+necrotizing fasciitis	is a type of	subcutaneous tissue infection
+skin and subcutaneous tissue infection	may cause	fever
+skin and subcutaneous tissue infection	may cause	pain
+skin and subcutaneous tissue infection	may cause	swelling
+skin and subcutaneous tissue infection	may cause	redness
+skin and subcutaneous tissue infection	may cause	pus
+skin and subcutaneous tissue infection	is diagnosed with	physical examination
+skin and subcutaneous tissue infection	is diagnosed with	blood test
+skin and subcutaneous tissue infection	is diagnosed with	culture
+skin and subcutaneous tissue infection	is treated with	antibiotics
+antibiotics	can treat	cellulitis
+antibiotics	can treat	abscess
+antibiotics	can treat	erysipelas
+surgical drainage	is a treatment for	abscess
+surgical debridement	is a treatment for	necrotizing fasciitis
+Staphylococcus aureus	is a cause of	skin infection
+Streptococcus pyogenes	is a cause of	skin infection
+MRSA	is a cause of	skin infection
+diabetes	is a risk factor for	skin and subcutaneous tissue infection
+immunodeficiency	is a risk factor for	skin and subcutaneous tissue infection
+obesity	is a risk factor for	skin and subcutaneous tissue infection
+poor hygiene	is a risk factor for	skin and subcutaneous tissue infection
+skin trauma	is a risk factor for	skin and subcutaneous tissue infection
+intravenous drug use	is a risk factor for	skin and subcutaneous tissue infection
+amoxicillin-clavulanate	is a treatment for	skin and subcutaneous tissue infection
+cephalexin	is a treatment for	skin and subcutaneous tissue infection
+clindamycin	is a treatment for	skin and subcutaneous tissue infection
+doxycycline	is a treatment for	skin and subcutaneous tissue infection
+vancomycin	is a treatment for	MRSA infection
+linezolid	is a treatment for	MRSA infection
+skin and subcutaneous tissue infection	may lead to	sepsis
+skin and subcutaneous tissue infection	may lead to	bacteremia
+skin and subcutaneous tissue infection	may lead to	tissue necrosis
+necrotizing fasciitis	may lead to	amputation
+skin and subcutaneous tissue infection	may require	hospitalization
+wound care	is important for	skin and subcutaneous tissue infection
+elevation	is a treatment for	cellulitis
+compression	is a treatment for	cellulitis
+warm compress	is a treatment for	abscess
+diabetes control	prevents	skin and subcutaneous tissue infection
+immunization	prevents	certain skin infections
+tetanus vaccine	prevents	tetanus infection
+tetanus	is a type of	skin infection
+leprosy	is a type of	skin infection
+cutaneous anthrax	is a type of	skin infection
+herpes simplex	is a type of	skin infection
+varicella-zoster	is a type of	skin infection
+impetigo	is a type of	skin infection
+folliculitis	is a type of	skin infection
+furuncle	is a type of	skin infection
+carbuncle	is a type of	skin infection
+paronychia	is a type of	skin infection
+onychomycosis	is a type of	skin infection
+dermatophytosis	is a type of	skin infection
+candidiasis	is a type of	skin infection
+scabies	is a type of	skin infection
+pediculosis	is a type of	skin infection
+lymphangitis	is a complication of	skin infection
+lymphadenitis	is a complication of	skin infection
+osteomyelitis	is a complication of	skin infection
+endocarditis	is a complication of	skin infection
+toxic shock syndrome	is a complication of	skin infection
+gangrene	is a complication of	skin infection
+septic arthritis	is a complication of	skin infection
+meningitis	is a complication of	skin infection
+skin biopsy	is a diagnostic test for	skin infection
+Gram stain	is a diagnostic test for	skin infection
+PCR	is a diagnostic test for	skin infection
+KOH preparation	is a diagnostic test for	fungal infection
+Wood's lamp	is a diagnostic tool for	skin infection
+dermatoscope	is a diagnostic tool for	skin infection
+ultrasound	is a diagnostic tool for	abscess
+MRI	is a diagnostic tool for	necrotizing fasciitis
+CT scan	is a diagnostic tool for	necrotizing fasciitis
+erythrocyte sedimentation rate	is a marker for	skin infection
+C-reactive protein	is a marker for	skin infection
+procalcitonin	is a marker for	bacterial infection
+white blood cell count	is a marker for	infection
+blood culture	is a test for	bacteremia
+wound culture	is a test for	skin infection
+allergy	is a contraindication for	certain antibiotics
+pregnancy	affects	antibiotic choice
+lactation	affects	antibiotic choice
+renal impairment	affects	antibiotic dosing
+hepatic impairment	affects	antibiotic dosing
+probiotics	prevent	antibiotic-associated diarrhea
+topical antibiotics	treat	mild skin infections
+oral antibiotics	treat	moderate skin infections
+intravenous antibiotics	treat	severe skin infections
+infection control	prevents	spread of skin infections
+hand hygiene	prevents	skin infections
+personal protective equipment	prevents	healthcare-associated infections
+contact precautions	prevent	MRSA spread
+isolation	prevents	infection transmission
+public health education	prevents	community-acquired infections

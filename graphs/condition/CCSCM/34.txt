@@ -1,0 +1,100 @@
+cancer of other urinary organs	is a	urinary system cancer
+cancer of other urinary organs	includes	ureter cancer
+cancer of other urinary organs	includes	urethral cancer
+cancer of other urinary organs	includes	renal pelvis cancer
+cancer of other urinary organs	may cause	hematuria
+cancer of other urinary organs	may cause	urinary obstruction
+cancer of other urinary organs	may cause	flank pain
+cancer of other urinary organs	may cause	weight loss
+cancer of other urinary organs	may cause	fatigue
+cancer of other urinary organs	may metastasize to	lymph nodes
+cancer of other urinary organs	may metastasize to	lungs
+cancer of other urinary organs	may metastasize to	liver
+cancer of other urinary organs	may metastasize to	bones
+cancer of other urinary organs	is diagnosed by	CT scan
+cancer of other urinary organs	is diagnosed by	MRI
+cancer of other urinary organs	is diagnosed by	urinalysis
+cancer of other urinary organs	is diagnosed by	cystoscopy
+cancer of other urinary organs	is diagnosed by	biopsy
+cancer of other urinary organs	is treated with	surgery
+cancer of other urinary organs	is treated with	chemotherapy
+cancer of other urinary organs	is treated with	radiation therapy
+cancer of other urinary organs	is treated with	immunotherapy
+cancer of other urinary organs	has risk factor	smoking
+cancer of other urinary organs	has risk factor	chemical exposure
+cancer of other urinary organs	has risk factor	chronic inflammation
+cancer of other urinary organs	has risk factor	family history
+cancer of other urinary organs	has risk factor	age
+cancer of other urinary organs	is associated with	hypertension
+cancer of other urinary organs	is associated with	chronic kidney disease
+cancer of other urinary organs	is associated with	urinary tract infections
+cancer of other urinary organs	may require	nephroureterectomy
+cancer of other urinary organs	may require	urethrectomy
+cancer of other urinary organs	may require	urinary diversion
+cancer of other urinary organs	may lead to	renal failure
+cancer of other urinary organs	may lead to	metastasis
+cancer of other urinary organs	may lead to	mortality
+cancer of other urinary organs	has symptom	dysuria
+cancer of other urinary organs	has symptom	urinary frequency
+cancer of other urinary organs	has symptom	urinary urgency
+cancer of other urinary organs	has symptom	pelvic pain
+cancer of other urinary organs	is staged by	TNM system
+cancer of other urinary organs	is monitored by	tumor markers
+cancer of other urinary organs	is monitored by	imaging
+cancer of other urinary organs	is researched in	oncology
+cancer of other urinary organs	has subtype	transitional cell carcinoma
+cancer of other urinary organs	has subtype	squamous cell carcinoma
+cancer of other urinary organs	has subtype	adenocarcinoma
+cancer of other urinary organs	has subtype	small cell carcinoma
+cancer of other urinary organs	is differentiated by	histopathology
+cancer of other urinary organs	may recur after	treatment
+cancer of other urinary organs	has prognosis	survival rate
+cancer of other urinary organs	has complication	hydronephrosis
+cancer of other urinary organs	has complication	anemia
+cancer of other urinary organs	has complication	infection
+cancer of other urinary organs	is managed by	urologist
+cancer of other urinary organs	is managed by	oncologist
+cancer of other urinary organs	requires	follow-up care
+cancer of other urinary organs	is prevented by	smoking cessation
+cancer of other urinary organs	is prevented by	hydration
+cancer of other urinary organs	is prevented by	healthy diet
+cancer of other urinary organs	has biomarker	p53
+cancer of other urinary organs	has biomarker	FGFR3
+cancer of other urinary organs	is studied in	clinical trials
+cancer of other urinary organs	has treatment option	targeted therapy
+cancer of other urinary organs	has treatment option	photodynamic therapy
+cancer of other urinary organs	may spread via	lymphatic system
+cancer of other urinary organs	may spread via	bloodstream
+cancer of other urinary organs	affects quality of life
+cancer of other urinary organs	requires pain management
+cancer of other urinary organs	has differential diagnosis	urinary stones
+cancer of other urinary organs	has differential diagnosis	benign tumor
+cancer of other urinary organs	has differential diagnosis	infection
+cancer of other urinary organs	is influenced by	genetic mutations
+cancer of other urinary organs	is influenced by	environmental factors
+cancer of other urinary organs	is treated in	cancer center
+cancer of other urinary organs	has screening method	urine cytology
+cancer of other urinary organs	has screening method	imaging
+cancer of other urinary organs	may cause	paraneoplastic syndrome
+cancer of other urinary organs	may require	palliative care
+cancer of other urinary organs	is documented in	medical records
+cancer of other urinary organs	is coded in	ICD
+cancer of other urinary organs	is reported in	cancer registry
+cancer of other urinary organs	has incidence rate
+cancer of other urinary organs	has mortality rate
+cancer of other urinary organs	is studied in	epidemiology
+cancer of other urinary organs	has research focus	early detection
+cancer of other urinary organs	has research focus	new treatments
+cancer of other urinary organs	is discussed in	patient education
+cancer of other urinary organs	requires multidisciplinary care
+cancer of other urinary organs	may affect	sexual function
+cancer of other urinary organs	may affect	fertility
+cancer of other urinary organs	has treatment side effects
+cancer of other urinary organs	has psychological impact
+cancer of other urinary organs	requires nutritional support
+cancer of other urinary organs	may involve	genetic counseling
+cancer of other urinary organs	may benefit from	support groups
+cancer of other urinary organs	has cost implications
+cancer of other urinary organs	is subject of	health policy
+cancer of other urinary organs	has treatment guidelines
+cancer of other urinary organs	is managed with	personalized medicine

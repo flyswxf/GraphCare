@@ -1,0 +1,100 @@
+electrolytes with carbohydrates	is a	oral rehydration solution
+electrolytes with carbohydrates	treats	dehydration
+electrolytes with carbohydrates	contains	sodium
+electrolytes with carbohydrates	contains	potassium
+electrolytes with carbohydrates	contains	glucose
+dehydration	caused by	diarrhea
+dehydration	symptom of	vomiting
+oral rehydration solution	prevents	electrolyte imbalance
+electrolyte imbalance	leads to	muscle cramps
+electrolyte imbalance	causes	fatigue
+antidiarrheals	is a	medication class
+antidiarrheals	includes	loperamide
+antidiarrheals	includes	bismuth subsalicylate
+loperamide	mechanism	opioid receptor agonist
+bismuth subsalicylate	has	antimicrobial properties
+antidiarrheals	treats	acute diarrhea
+antidiarrheals	contraindicated in	bacterial diarrhea
+acute diarrhea	caused by	viral infection
+acute diarrhea	caused by	food poisoning
+intestinal antiinflammatory agents	is a	medication class
+intestinal antiinflammatory agents	includes	mesalamine
+intestinal antiinflammatory agents	includes	sulfasalazine
+mesalamine	treats	ulcerative colitis
+sulfasalazine	metabolizes to	5-aminosalicylic acid
+intestinal antiinfective agents	is a	medication class
+intestinal antiinfective agents	includes	rifaximin
+intestinal antiinfective agents	includes	metronidazole
+rifaximin	treats	traveler's diarrhea
+metronidazole	treats	C. difficile infection
+ulcerative colitis	is a	inflammatory bowel disease
+inflammatory bowel disease	includes	Crohn's disease
+C. difficile infection	caused by	antibiotic use
+oral rehydration solution	alternative to	intravenous fluids
+intravenous fluids	used for	severe dehydration
+loperamide	side effect	constipation
+bismuth subsalicylate	side effect	black stools
+mesalamine	side effect	headache
+sulfasalazine	side effect	nausea
+rifaximin	side effect	flatulence
+metronidazole	side effect	metallic taste
+diarrhea	complication	malnutrition
+malnutrition	leads to	weight loss
+ulcerative colitis	symptom	bloody diarrhea
+Crohn's disease	symptom	abdominal pain
+C. difficile infection	symptom	watery diarrhea
+electrolytes with carbohydrates	used in	cholera
+cholera	caused by	Vibrio cholerae
+Vibrio cholerae	produces	cholera toxin
+cholera toxin	causes	secretory diarrhea
+secretory diarrhea	characterized by	watery stools
+antidiarrheals	mechanism	reduces intestinal motility
+reduced intestinal motility	leads to	increased absorption
+intestinal antiinflammatory agents	mechanism	inhibits prostaglandins
+prostaglandins	mediates	inflammation
+inflammation	causes	tissue damage
+intestinal antiinfective agents	mechanism	kills bacteria
+bacterial killing	prevents	toxin production
+electrolytes with carbohydrates	used for	pediatric dehydration
+pediatric dehydration	risk factor	rotavirus
+rotavirus	prevented by	vaccination
+loperamide	contraindicated in	children
+bismuth subsalicylate	contraindicated in	Reye's syndrome
+Reye's syndrome	associated with	aspirin use
+mesalamine	formulation	rectal suppository
+rectal suppository	used for	distal colitis
+sulfasalazine	interaction	reduces folate absorption
+folate deficiency	causes	megaloblastic anemia
+rifaximin	advantage	minimal systemic absorption
+metronidazole	treats	giardiasis
+giardiasis	caused by	Giardia lamblia
+electrolytes with carbohydrates	preparation	WHO formula
+WHO formula	contains	citrate
+citrate	enhances	sodium absorption
+antidiarrheals	overuse causes	toxic megacolon
+toxic megacolon	complication of	ulcerative colitis
+intestinal antiinflammatory agents	reduces	flare-ups
+flare-ups	triggered by	stress
+intestinal antiinfective agents	prevents	sepsis
+sepsis	results from	bacterial translocation
+electrolytes with carbohydrates	storage	room temperature
+loperamide	available as	over-the-counter
+bismuth subsalicylate	has	antacid properties
+antacid	neutralizes	stomach acid
+mesalamine	monitored by	kidney function tests
+kidney function tests	measure	creatinine
+sulfasalazine	requires	regular blood tests
+regular blood tests	check for	leukopenia
+rifaximin	used for	hepatic encephalopathy
+hepatic encephalopathy	caused by	liver cirrhosis
+metronidazole	treats	amebiasis
+amebiasis	caused by	Entamoeba histolytica
+electrolytes with carbohydrates	administered	small frequent sips
+small frequent sips	prevents	vomiting
+antidiarrheals	not used for	chronic diarrhea
+chronic diarrhea	requires	diagnostic workup
+diagnostic workup	includes	stool tests
+intestinal antiinflammatory agents	maintenance therapy
+maintenance therapy	prevents	relapses
+intestinal antiinfective agents	spectrum	anaerobic bacteria
+anaerobic bacteria	inhabit	gut microbiota

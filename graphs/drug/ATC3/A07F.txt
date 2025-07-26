@@ -1,0 +1,100 @@
+antidiarrheal microorganisms	is a	probiotic
+antidiarrheal microorganisms	treat	diarrhea
+antidiarrheal microorganisms	contain	Lactobacillus
+antidiarrheal microorganisms	contain	Bifidobacterium
+antidiarrheal microorganisms	restore	gut flora
+antidiarrheal microorganisms	reduce	intestinal inflammation
+antidiarrheal microorganisms	compete with	pathogens
+antidiarrheal microorganisms	produce	antimicrobial substances
+antidiarrheal microorganisms	enhance	immune response
+antidiarrheal microorganisms	improve	gut barrier function
+Lactobacillus	is a	bacteria
+Bifidobacterium	is a	bacteria
+gut flora	is part of	digestive system
+diarrhea	can be caused by	infection
+diarrhea	can be caused by	antibiotics
+probiotic	is used for	gut health
+intestinal inflammation	leads to	diarrhea
+pathogens	cause	gastrointestinal infections
+antimicrobial substances	inhibit	harmful bacteria
+immune response	protects against	infections
+gut barrier function	prevents	pathogen entry
+antidiarrheal microorganisms	require	proper storage
+antidiarrheal microorganisms	may interact with	antibiotics
+antidiarrheal microorganisms	are found in	supplements
+antidiarrheal microorganisms	are found in	fermented foods
+fermented foods	include	yogurt
+fermented foods	include	kefir
+supplements	contain	live cultures
+live cultures	are	active microorganisms
+antibiotics	disrupt	gut microbiota
+gut microbiota	affects	overall health
+overall health	depends on	nutrition
+nutrition	includes	prebiotics
+prebiotics	feed	probiotics
+probiotics	promote	digestion
+digestion	occurs in	intestines
+intestines	host	gut flora
+harmful bacteria	produce	toxins
+toxins	cause	digestive issues
+digestive issues	include	bloating
+bloating	is a	symptom
+symptom	indicates	health problem
+health problem	requires	treatment
+treatment	may involve	medications
+medications	can have	side effects
+side effects	may include	nausea
+nausea	is a	gastrointestinal symptom
+gastrointestinal symptom	affects	comfort
+comfort	is important for	quality of life
+quality of life	depends on	health
+health	is influenced by	diet
+diet	should include	fiber
+fiber	supports	bowel movements
+bowel movements	are affected by	hydration
+hydration	prevents	dehydration
+dehydration	is a risk of	diarrhea
+diarrhea	leads to	electrolyte imbalance
+electrolyte imbalance	requires	oral rehydration
+oral rehydration	uses	ORS
+ORS	contains	salts
+salts	maintain	fluid balance
+fluid balance	is crucial for	body function
+body function	includes	metabolism
+metabolism	processes	nutrients
+nutrients	provide	energy
+energy	is needed for	daily activities
+daily activities	depend on	health
+health	can be improved by	exercise
+exercise	enhances	immunity
+immunity	fights	infections
+infections	can be bacterial
+infections	can be viral
+bacterial infections	require	antibiotics
+viral infections	may require	antivirals
+antivirals	target	viruses
+viruses	cause	illnesses
+illnesses	affect	productivity
+productivity	is linked to	well-being
+well-being	involves	mental health
+mental health	is affected by	stress
+stress	impacts	digestion
+digestion	is linked to	gut-brain axis
+gut-brain axis	connects	gut and brain
+brain	controls	body functions
+body functions	include	immune response
+immune response	involves	white blood cells
+white blood cells	defend against	pathogens
+pathogens	enter through	contaminated food
+contaminated food	causes	foodborne illnesses
+foodborne illnesses	lead to	diarrhea
+diarrhea	can be acute
+diarrhea	can be chronic
+acute diarrhea	lasts	short term
+chronic diarrhea	lasts	long term
+long term diarrhea	requires	medical attention
+medical attention	involves	diagnosis
+diagnosis	identifies	underlying cause
+underlying cause	determines	treatment
+treatment	may include	antidiarrheal drugs
+antidiarrheal drugs	complement	antidiarrheal microorganisms

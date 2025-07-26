@@ -1,0 +1,100 @@
+Proton pump inhibitors	treat	peptic ulcer
+Proton pump inhibitors	treat	GORD
+H2 receptor antagonists	treat	peptic ulcer
+H2 receptor antagonists	treat	GORD
+Antacids	alleviate	peptic ulcer symptoms
+Antacids	alleviate	GORD symptoms
+Proton pump inhibitors	inhibit	gastric acid secretion
+H2 receptor antagonists	block	histamine receptors
+Peptic ulcer	caused by	Helicobacter pylori
+GORD	caused by	lower esophageal sphincter dysfunction
+Helicobacter pylori	treated with	antibiotics
+Clarithromycin	is	antibiotic
+Amoxicillin	is	antibiotic
+Metronidazole	is	antibiotic
+Proton pump inhibitors	include	omeprazole
+Proton pump inhibitors	include	lansoprazole
+Proton pump inhibitors	include	pantoprazole
+H2 receptor antagonists	include	ranitidine
+H2 receptor antagonists	include	famotidine
+H2 receptor antagonists	include	cimetidine
+Antacids	contain	magnesium hydroxide
+Antacids	contain	aluminum hydroxide
+Prokinetic agents	improve	gastric motility
+Prokinetic agents	include	metoclopramide
+Prokinetic agents	include	domperidone
+Peptic ulcer	associated with	NSAID use
+NSAIDs	cause	gastric irritation
+Misoprostol	prevents	NSAID-induced ulcers
+Peptic ulcer	complication	gastrointestinal bleeding
+Peptic ulcer	complication	perforation
+GORD	complication	esophagitis
+GORD	complication	Barrett's esophagus
+Barrett's esophagus	risk factor	esophageal cancer
+Endoscopy	diagnoses	peptic ulcer
+Endoscopy	diagnoses	GORD complications
+pH monitoring	evaluates	GORD severity
+Proton pump inhibitors	interact with	clopidogrel
+Proton pump inhibitors	increase risk	osteoporosis
+Proton pump inhibitors	increase risk	C. difficile infection
+H2 receptor antagonists	cause	headache
+H2 receptor antagonists	cause	diarrhea
+Antacids	cause	constipation
+Antacids	cause	diarrhea
+Metoclopramide	causes	extrapyramidal symptoms
+Domperidone	associated with	cardiac arrhythmias
+Peptic ulcer	symptom	epigastric pain
+GORD	symptom	heartburn
+GORD	symptom	regurgitation
+Helicobacter pylori	detected by	urea breath test
+Helicobacter pylori	detected by	stool antigen test
+Omeprazole	metabolized by	CYP2C19
+CYP2C19 polymorphism	affects	proton pump inhibitor efficacy
+Sucralfate	protects	gastric mucosa
+Sucralfate	binds to	ulcer sites
+Bismuth subsalicylate	has	antibacterial properties
+Bismuth subsalicylate	used in	quadruple therapy
+Quadruple therapy	combines	PPI + bismuth + two antibiotics
+Triple therapy	combines	PPI + two antibiotics
+Peptic ulcer	risk factor	smoking
+Peptic ulcer	risk factor	alcohol use
+GORD	risk factor	obesity
+GORD	risk factor	hiatal hernia
+Lifestyle modifications	help	GORD management
+Weight loss	improves	GORD symptoms
+Elevated head of bed	reduces	nocturnal reflux
+Proton pump inhibitors	require	acidic environment for activation
+Proton pump inhibitors	should be taken	before meals
+Refractory GORD	may require	surgical intervention
+Fundoplication	treats	refractory GORD
+Peptic ulcer bleeding	treated with	endoscopic therapy
+Endoscopic therapy	includes	injection therapy
+Endoscopic therapy	includes	thermal coagulation
+Endoscopic therapy	includes	clipping
+Chronic PPI use	associated with	micronutrient deficiencies
+PPI use	reduces	iron absorption
+PPI use	reduces	magnesium absorption
+PPI use	reduces	vitamin B12 absorption
+H2 receptor antagonists	less potent than	PPIs
+Ranitidine	recalled due to	NDMA contamination
+Famotidine	preferred over	cimetidine
+Cimetidine	inhibits	cytochrome P450
+Cimetidine	causes	gynecomastia
+Erosive esophagitis	treated with	high-dose PPIs
+Maintenance therapy	prevents	GORD recurrence
+On-demand therapy	manages	GORD symptoms
+Peptic ulcer	requires	eradication therapy for H. pylori
+Eradication therapy	confirmed by	follow-up testing
+Treatment failure	requires	second-line therapy
+Levofloxacin	used in	second-line therapy
+Tetracycline	used in	salvage therapy
+Rifabutin	used in	third-line therapy
+Probiotics	may enhance	H. pylori eradication
+Vonoprazan	novel	potassium-competitive acid blocker
+Vonoprazan	more potent than	PPIs
+Vonoprazan	used in	H. pylori eradication
+Peptic ulcer	differential diagnosis	gastric cancer
+GORD	differential diagnosis	cardiac chest pain
+PPIs	available as	delayed-release formulations
+Antacids	provide	rapid symptom relief
+Alginates	form	protective barrier in GORD

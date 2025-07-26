@@ -1,0 +1,100 @@
+other therapeutic endocrine procedures	is a	medical procedure
+other therapeutic endocrine procedures	targets	endocrine system
+other therapeutic endocrine procedures	includes	hormone therapy
+other therapeutic endocrine procedures	treats	diabetes
+other therapeutic endocrine procedures	manages	thyroid disorders
+other therapeutic endocrine procedures	addresses	adrenal dysfunction
+other therapeutic endocrine procedures	involves	hormone replacement
+other therapeutic endocrine procedures	requires	endocrine specialist
+other therapeutic endocrine procedures	follows	diagnostic testing
+other therapeutic endocrine procedures	modifies	hormone levels
+other therapeutic endocrine procedures	interacts with	pituitary gland
+other therapeutic endocrine procedures	regulates	metabolism
+other therapeutic endocrine procedures	affects	growth disorders
+other therapeutic endocrine procedures	includes	radioactive iodine therapy
+other therapeutic endocrine procedures	treats	hyperthyroidism
+other therapeutic endocrine procedures	manages	hypothyroidism
+other therapeutic endocrine procedures	involves	insulin administration
+other therapeutic endocrine procedures	addresses	polycystic ovary syndrome
+other therapeutic endocrine procedures	includes	adrenalectomy
+other therapeutic endocrine procedures	treats	Cushing's syndrome
+other therapeutic endocrine procedures	manages	Addison's disease
+other therapeutic endocrine procedures	involves	parathyroid surgery
+other therapeutic endocrine procedures	addresses	hyperparathyroidism
+other therapeutic endocrine procedures	includes	testosterone therapy
+other therapeutic endocrine procedures	treats	hypogonadism
+other therapeutic endocrine procedures	manages	menopause symptoms
+other therapeutic endocrine procedures	involves	estrogen therapy
+other therapeutic endocrine procedures	addresses	osteoporosis
+other therapeutic endocrine procedures	includes	growth hormone therapy
+other therapeutic endocrine procedures	treats	growth hormone deficiency
+other therapeutic endocrine procedures	manages	acromegaly
+other therapeutic endocrine procedures	involves	prolactinoma treatment
+other therapeutic endocrine procedures	addresses	hyperprolactinemia
+other therapeutic endocrine procedures	includes	thyroidectomy
+other therapeutic endocrine procedures	treats	thyroid cancer
+other therapeutic endocrine procedures	manages	goiter
+other therapeutic endocrine procedures	involves	adrenal hormone therapy
+other therapeutic endocrine procedures	addresses	congenital adrenal hyperplasia
+other therapeutic endocrine procedures	includes	pituitary surgery
+other therapeutic endocrine procedures	treats	pituitary tumors
+other therapeutic endocrine procedures	manages	diabetes insipidus
+other therapeutic endocrine procedures	involves	vasopressin therapy
+other therapeutic endocrine procedures	addresses	SIADH
+other therapeutic endocrine procedures	includes	pancreatic islet transplantation
+other therapeutic endocrine procedures	treats	type 1 diabetes
+other therapeutic endocrine procedures	manages	hypoglycemia
+other therapeutic endocrine procedures	involves	glucagon administration
+other therapeutic endocrine procedures	addresses	insulinoma
+other therapeutic endocrine procedures	includes	adrenal vein sampling
+other therapeutic endocrine procedures	treats	primary aldosteronism
+other therapeutic endocrine procedures	manages	secondary hypertension
+other therapeutic endocrine procedures	involves	cortisol therapy
+other therapeutic endocrine procedures	addresses	adrenal insufficiency
+other therapeutic endocrine procedures	includes	thyroid hormone therapy
+other therapeutic endocrine procedures	treats	myxedema
+other therapeutic endocrine procedures	manages	Hashimoto's thyroiditis
+other therapeutic endocrine procedures	involves	Graves' disease treatment
+other therapeutic endocrine procedures	addresses	thyroid eye disease
+other therapeutic endocrine procedures	includes	parathyroid hormone therapy
+other therapeutic endocrine procedures	treats	hypoparathyroidism
+other therapeutic endocrine procedures	manages	chronic kidney disease
+other therapeutic endocrine procedures	involves	calcimimetics
+other therapeutic endocrine procedures	addresses	hypercalcemia
+other therapeutic endocrine procedures	includes	somatostatin analogs
+other therapeutic endocrine procedures	treats	neuroendocrine tumors
+other therapeutic endocrine procedures	manages	carcinoid syndrome
+other therapeutic endocrine procedures	involves	octreotide therapy
+other therapeutic endocrine procedures	addresses	VIPoma
+other therapeutic endocrine procedures	includes	androgen deprivation therapy
+other therapeutic endocrine procedures	treats	prostate cancer
+other therapeutic endocrine procedures	manages	hirsutism
+other therapeutic endocrine procedures	involves	anti-androgen therapy
+other therapeutic endocrine procedures	addresses	PCOS
+other therapeutic endocrine procedures	includes	GnRH agonists
+other therapeutic endocrine procedures	treats	endometriosis
+other therapeutic endocrine procedures	manages	uterine fibroids
+other therapeutic endocrine procedures	involves	fertility treatment
+other therapeutic endocrine procedures	addresses	infertility
+other therapeutic endocrine procedures	includes	adrenal cortex biopsy
+other therapeutic endocrine procedures	treats	adrenal tumors
+other therapeutic endocrine procedures	manages	pheochromocytoma
+other therapeutic endocrine procedures	involves	alpha-blockers
+other therapeutic endocrine procedures	addresses	paraganglioma
+other therapeutic endocrine procedures	includes	thyroid ablation
+other therapeutic endocrine procedures	treats	thyroid nodules
+other therapeutic endocrine procedures	manages	multinodular goiter
+other therapeutic endocrine procedures	involves	ethanol injection
+other therapeutic endocrine procedures	addresses	thyroid cysts
+other therapeutic endocrine procedures	includes	continuous glucose monitoring
+other therapeutic endocrine procedures	treats	brittle diabetes
+other therapeutic endocrine procedures	manages	diabetic ketoacidosis
+other therapeutic endocrine procedures	involves	insulin pumps
+other therapeutic endocrine procedures	addresses	hyperglycemia
+other therapeutic endocrine procedures	includes	bariatric surgery
+other therapeutic endocrine procedures	treats	obesity
+other therapeutic endocrine procedures	manages	metabolic syndrome
+other therapeutic endocrine procedures	involves	gut hormone modulation
+other therapeutic endocrine procedures	addresses	insulin resistance
+other therapeutic endocrine procedures	includes	GLP-1 agonists
+other therapeutic endocrine procedures	treats	type 2 diabetes

@@ -1,0 +1,100 @@
+throat preparations	is a	medication
+throat preparations	used for	throat irritation
+throat preparations	used for	sore throat
+throat preparations	contains	antiseptics
+throat preparations	contains	analgesics
+throat preparations	contains	local anesthetics
+throat preparations	may contain	anti-inflammatory agents
+throat preparations	treats	pharyngitis
+throat preparations	treats	laryngitis
+throat preparations	treats	tonsillitis
+throat preparations	available as	lozenges
+throat preparations	available as	sprays
+throat preparations	available as	gargles
+throat preparations	may cause	allergic reactions
+throat preparations	may cause	numbness
+throat preparations	interacts with	other medications
+throat preparations	contraindicated in	children
+throat preparations	contraindicated in	pregnancy
+throat preparations	requires	prescription
+throat preparations	sold as	OTC
+throat preparations	has	side effects
+side effects	include	dry mouth
+side effects	include	taste alteration
+side effects	include	throat irritation
+throat preparations	derived from	natural extracts
+natural extracts	include	honey
+natural extracts	include	ginger
+natural extracts	include	licorice
+throat preparations	formulated with	menthol
+menthol	provides	cooling effect
+throat preparations	formulated with	benzocaine
+benzocaine	acts as	local anesthetic
+throat preparations	formulated with	phenol
+phenol	has	antiseptic properties
+throat preparations	may contain	antibiotics
+antibiotics	treat	bacterial infections
+throat preparations	may contain	antifungals
+antifungals	treat	fungal infections
+throat preparations	may contain	antivirals
+antivirals	treat	viral infections
+throat preparations	used in	post-surgical care
+post-surgical care	involves	pain management
+post-surgical care	involves	infection prevention
+throat preparations	aids in	swallowing
+swallowing	affected by	throat pain
+throat pain	caused by	inflammation
+inflammation	results from	infection
+infection	caused by	bacteria
+infection	caused by	viruses
+infection	caused by	fungi
+throat preparations	supports	immune system
+immune system	fights	pathogens
+pathogens	include	bacteria
+pathogens	include	viruses
+throat preparations	recommended for	smokers
+smokers	prone to	throat irritation
+throat irritation	leads to	chronic cough
+chronic cough	requires	medical attention
+throat preparations	used by	singers
+singers	susceptible to	vocal strain
+vocal strain	causes	hoarseness
+hoarseness	alleviated by	throat preparations
+throat preparations	contains	demulcents
+demulcents	soothe	mucous membranes
+mucous membranes	line	throat
+throat	part of	respiratory system
+respiratory system	includes	lungs
+lungs	affected by	throat infections
+throat preparations	prevents	secondary infections
+secondary infections	complicate	recovery
+recovery	depends on	treatment adherence
+treatment adherence	influenced by	ease of use
+ease of use	enhanced by	lozenges
+lozenges	dissolve slowly
+slow dissolution	prolongs	relief
+relief	measured by	pain scale
+pain scale	assesses	discomfort
+discomfort	reduced by	analgesics
+analgesics	block	pain signals
+pain signals	transmitted by	nerves
+nerves	located in	throat
+throat	connected to	esophagus
+esophagus	part of	digestive system
+digestive system	processes	food
+food	can irritate	throat
+throat preparations	recommended after	intubation
+intubation	causes	throat trauma
+throat trauma	leads to	swelling
+swelling	reduced by	anti-inflammatory agents
+anti-inflammatory agents	include	corticosteroids
+corticosteroids	suppress	immune response
+immune response	necessary for	healing
+healing	requires	time
+time	influenced by	severity
+severity	assessed by	healthcare provider
+healthcare provider	prescribes	throat preparations
+prescription	based on	diagnosis
+diagnosis	involves	throat examination
+throat examination	includes	swab test
+swab test	detects	pathogens

@@ -1,0 +1,60 @@
+non-selective calcium channel blockers	are	medications
+non-selective calcium channel blockers	act on	calcium channels
+non-selective calcium channel blockers	used for	hypertension
+non-selective calcium channel blockers	used for	angina
+non-selective calcium channel blockers	used for	arrhythmias
+non-selective calcium channel blockers	may cause	hypotension
+non-selective calcium channel blockers	may cause	dizziness
+non-selective calcium channel blockers	may cause	edema
+non-selective calcium channel blockers	interact with	beta-blockers
+non-selective calcium channel blockers	interact with	digoxin
+non-selective calcium channel blockers	contraindicated in	heart failure
+non-selective calcium channel blockers	contraindicated in	bradycardia
+non-selective calcium channel blockers	metabolized by	liver
+non-selective calcium channel blockers	excreted by	kidneys
+non-selective calcium channel blockers	examples include	verapamil
+non-selective calcium channel blockers	examples include	diltiazem
+verapamil	is a	non-selective calcium channel blocker
+diltiazem	is a	non-selective calcium channel blocker
+verapamil	used for	migraine prevention
+diltiazem	used for	atrial fibrillation
+non-selective calcium channel blockers	reduce	myocardial oxygen demand
+non-selective calcium channel blockers	inhibit	calcium influx
+calcium influx	affects	muscle contraction
+calcium influx	affects	neurotransmitter release
+non-selective calcium channel blockers	affect	vascular smooth muscle
+non-selective calcium channel blockers	affect	cardiac muscle
+vascular smooth muscle	relaxation	decreases blood pressure
+cardiac muscle	depression	reduces heart rate
+non-selective calcium channel blockers	may worsen	heart block
+non-selective calcium channel blockers	may worsen	cardiogenic shock
+non-selective calcium channel blockers	avoided in	pregnancy
+non-selective calcium channel blockers	avoided in	breastfeeding
+non-selective calcium channel blockers	side effects	constipation
+non-selective calcium channel blockers	side effects	headache
+non-selective calcium channel blockers	side effects	flushing
+non-selective calcium channel blockers	require	dose adjustment in liver disease
+non-selective calcium channel blockers	require	dose adjustment in renal disease
+non-selective calcium channel blockers	have	extended-release formulations
+extended-release formulations	improve	patient compliance
+non-selective calcium channel blockers	can	prolong QT interval
+QT interval prolongation	increases risk of	torsades de pointes
+non-selective calcium channel blockers	used in	hypertrophic cardiomyopathy
+non-selective calcium channel blockers	compared to	selective calcium channel blockers
+selective calcium channel blockers	target	L-type calcium channels
+non-selective calcium channel blockers	target	multiple calcium channel types
+non-selective calcium channel blockers	less commonly used than	selective calcium channel blockers
+non-selective calcium channel blockers	have	negative inotropic effect
+negative inotropic effect	reduces	cardiac output
+non-selective calcium channel blockers	have	negative chronotropic effect
+negative chronotropic effect	reduces	heart rate
+non-selective calcium channel blockers	used in	Raynaud's phenomenon
+non-selective calcium channel blockers	may	increase digoxin levels
+digoxin	toxicity	is a risk with non-selective calcium channel blockers
+non-selective calcium channel blockers	can	cause gingival hyperplasia
+gingival hyperplasia	is a	side effect of verapamil
+non-selective calcium channel blockers	interact with	grapefruit juice
+grapefruit juice	increases	drug bioavailability
+non-selective calcium channel blockers	have	vasodilatory effects
+vasodilatory effects	lead to	reduced afterload
+reduced afterload	improves	cardiac efficiency

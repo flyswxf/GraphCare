@@ -1,0 +1,100 @@
+other analgesics and antipyretics	belongs to	ATC classification
+other analgesics and antipyretics	subclass of	analgesics
+other analgesics and antipyretics	subclass of	antipyretics
+other analgesics and antipyretics	includes	paracetamol
+other analgesics and antipyretics	includes	metamizole
+other analgesics and antipyretics	includes	phenazone
+other analgesics and antipyretics	treats	pain
+other analgesics and antipyretics	reduces	fever
+other analgesics and antipyretics	part of	nervous system drugs
+other analgesics and antipyretics	ATC code	N02B
+paracetamol	is a	analgesic
+paracetamol	is a	antipyretic
+paracetamol	mechanism	COX inhibition
+paracetamol	metabolized by	liver
+paracetamol	side effect	hepatotoxicity
+paracetamol	overdose risk	liver failure
+paracetamol	interacts with	alcohol
+paracetamol	available as	oral tablet
+paracetamol	available as	intravenous solution
+metamizole	is a	non-opioid analgesic
+metamizole	is a	antipyretic
+metamizole	mechanism	prostaglandin synthesis inhibition
+metamizole	side effect	agranulocytosis
+metamizole	banned in	some countries
+metamizole	used for	postoperative pain
+metamizole	available as	injection
+phenazone	is a	pyrazolone derivative
+phenazone	is a	analgesic
+phenazone	is a	antipyretic
+phenazone	mechanism	COX-1 inhibition
+phenazone	side effect	gastrointestinal irritation
+phenazone	used in	combination drugs
+analgesics	broader class	central nervous system agents
+antipyretics	broader class	fever-reducing drugs
+pain	symptom of	inflammation
+pain	symptom of	injury
+fever	symptom of	infection
+fever	symptom of	inflammation
+COX inhibition	reduces	prostaglandin production
+prostaglandins	mediate	pain
+prostaglandins	mediate	fever
+hepatotoxicity	caused by	excessive paracetamol
+liver failure	result of	severe hepatotoxicity
+agranulocytosis	risk factor	infection
+gastrointestinal irritation	caused by	NSAIDs
+postoperative pain	managed with	analgesics
+oral tablet	route of administration	oral
+intravenous solution	route of administration	IV
+injection	route of administration	parenteral
+combination drugs	contain	multiple active ingredients
+N02B	part of	ATC system
+ATC system	maintained by	WHO
+WHO	classifies	drugs
+drug classification	aids	prescription
+prescription	based on	patient condition
+patient condition	determines	drug choice
+drug choice	considers	side effects
+side effects	influence	drug safety
+drug safety	monitored by	healthcare providers
+healthcare providers	prescribe	analgesics
+NSAIDs	alternative to	other analgesics
+NSAIDs	include	ibuprofen
+ibuprofen	is a	NSAID
+ibuprofen	mechanism	COX-1 and COX-2 inhibition
+ibuprofen	side effect	gastrointestinal bleeding
+gastrointestinal bleeding	risk factor	peptic ulcer
+peptic ulcer	caused by	NSAIDs
+opioids	alternative to	other analgesics
+opioids	include	morphine
+morphine	is a	opioid analgesic
+morphine	mechanism	mu-opioid receptor activation
+morphine	side effect	respiratory depression
+respiratory depression	risk factor	overdose
+analgesic efficacy	measured by	pain scales
+pain scales	assess	pain intensity
+pain intensity	guides	dosage
+dosage	adjusted for	age
+age	affects	drug metabolism
+drug metabolism	occurs in	liver
+liver	function affects	drug clearance
+kidneys	function affects	drug excretion
+drug excretion	important for	toxicity prevention
+toxicity prevention	requires	monitoring
+monitoring	includes	blood tests
+blood tests	detect	drug levels
+drug levels	indicate	therapeutic range
+therapeutic range	ensures	efficacy
+efficacy	evaluated by	clinical trials
+clinical trials	test	drug safety
+drug safety	assessed by	regulatory agencies
+regulatory agencies	approve	drugs
+drug approval	requires	evidence
+evidence	gathered from	research
+research	conducted by	scientists
+scientists	study	drug mechanisms
+drug mechanisms	explain	effects
+effects	determine	therapeutic use
+therapeutic use	guided by	guidelines
+guidelines	issued by	medical societies
+medical societies	influence	prescribing practices

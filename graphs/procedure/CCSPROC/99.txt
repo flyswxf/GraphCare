@@ -1,0 +1,100 @@
+gastrointestinal therapeutic procedures	are	medical interventions
+gastrointestinal therapeutic procedures	treat	digestive disorders
+endoscopy	is a type of	gastrointestinal therapeutic procedure
+colonoscopy	is a type of	gastrointestinal therapeutic procedure
+polypectomy	is performed during	colonoscopy
+polypectomy	removes	colon polyps
+colon polyps	may lead to	colorectal cancer
+colorectal cancer	requires	chemotherapy
+chemotherapy	has side effect	nausea
+nausea	treated by	antiemetics
+antiemetics	include	ondansetron
+ondansetron	blocks	serotonin receptors
+serotonin receptors	regulate	vomiting reflex
+vomiting reflex	prevented by	antiemetics
+upper endoscopy	examines	esophagus
+esophagus	may have	GERD
+GERD	treated by	proton pump inhibitors
+proton pump inhibitors	include	omeprazole
+omeprazole	reduces	stomach acid
+stomach acid	causes	heartburn
+heartburn	relieved by	antacids
+antacids	contain	calcium carbonate
+calcium carbonate	neutralizes	acid
+acid reflux	leads to	esophagitis
+esophagitis	diagnosed by	endoscopy
+endoscopic retrograde cholangiopancreatography	treats	bile duct obstruction
+bile duct obstruction	causes	jaundice
+jaundice	symptom of	liver disease
+liver disease	may require	liver transplant
+liver transplant	followed by	immunosuppressants
+immunosuppressants	increase risk	infection
+infection	treated by	antibiotics
+antibiotics	target	bacteria
+bacteria	cause	gastritis
+gastritis	diagnosed by	biopsy
+biopsy	performed during	endoscopy
+endoscopic ultrasound	evaluates	pancreatic cysts
+pancreatic cysts	may become	pancreatic cancer
+pancreatic cancer	treated by	Whipple procedure
+Whipple procedure	removes	pancreas head
+pancreas head	produces	digestive enzymes
+digestive enzymes	supplemented by	pancrelipase
+pancrelipase	aids	fat digestion
+fat digestion	impaired in	cystic fibrosis
+cystic fibrosis	affects	lungs
+lungs	damaged by	smoking
+smoking	causes	peptic ulcers
+peptic ulcers	treated by	H. pylori eradication
+H. pylori eradication	uses	antibiotic therapy
+antibiotic therapy	combines	clarithromycin
+clarithromycin	interacts with	statins
+statins	lower	cholesterol
+high cholesterol	leads to	atherosclerosis
+atherosclerosis	causes	ischemic colitis
+ischemic colitis	diagnosed by	colonoscopy
+colonoscopy	screens for	diverticulosis
+diverticulosis	may develop	diverticulitis
+diverticulitis	treated by	bowel rest
+bowel rest	involves	IV fluids
+IV fluids	prevent	dehydration
+dehydration	worsens	electrolyte imbalance
+electrolyte imbalance	corrected by	potassium chloride
+potassium chloride	regulates	heart rhythm
+abnormal heart rhythm	monitored by	ECG
+ECG	detects	atrial fibrillation
+atrial fibrillation	increases risk	stroke
+stroke	prevented by	anticoagulants
+anticoagulants	include	warfarin
+warfarin	requires	INR monitoring
+INR monitoring	ensures	proper dosing
+improper dosing	causes	bleeding
+bleeding	controlled by	hemostatic agents
+hemostatic agents	used in	surgery
+surgery	may involve	anastomosis
+anastomosis	connects	bowel segments
+bowel segments	affected by	Crohn's disease
+Crohn's disease	managed by	biologics
+biologics	suppress	inflammation
+inflammation	measured by	CRP levels
+CRP levels	indicate	disease activity
+disease activity	guides	treatment plan
+treatment plan	includes	nutrition therapy
+nutrition therapy	provides	enteral feeding
+enteral feeding	uses	nasogastric tube
+nasogastric tube	inserted by	nurse
+nurse	follows	sterile technique
+sterile technique	prevents	nosocomial infections
+nosocomial infections	resistant to	antibiotics
+antibiotic resistance	combated by	antimicrobial stewardship
+antimicrobial stewardship	reduces	superbugs
+superbugs	include	MRSA
+MRSA	treated by	vancomycin
+vancomycin	monitored by	trough levels
+trough levels	ensure	therapeutic range
+therapeutic range	avoids	nephrotoxicity
+nephrotoxicity	affects	kidney function
+kidney function	assessed by	creatinine levels
+creatinine levels	elevated in	renal failure
+renal failure	managed by	dialysis
+dialysis	replaces	kidney function

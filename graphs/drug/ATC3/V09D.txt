@@ -1,0 +1,100 @@
+diagnostic radiopharmaceuticals	used for	hepatic imaging
+diagnostic radiopharmaceuticals	used for	reticuloendothelial system imaging
+hepatic imaging	detects	liver diseases
+reticuloendothelial system imaging	detects	spleen abnormalities
+technetium-99m	is	common radionuclide
+technetium-99m sulfur colloid	used for	liver-spleen scans
+liver-spleen scans	evaluate	hepatic function
+liver-spleen scans	assess	splenic function
+radiopharmaceuticals	require	radioactive labeling
+radioactive labeling	involves	chelating agents
+chelating agents	bind	radionuclides
+radionuclides	emit	gamma rays
+gamma rays	detected by	gamma cameras
+gamma cameras	produce	scintigraphic images
+scintigraphic images	interpreted by	nuclear medicine physicians
+nuclear medicine physicians	diagnose	hepatic lesions
+hepatic lesions	include	tumors
+hepatic lesions	include	cysts
+hepatic lesions	include	abscesses
+radiopharmaceuticals	have	physical half-lives
+physical half-lives	determine	imaging time window
+imaging time window	affects	patient scheduling
+patient scheduling	considers	radionuclide availability
+radionuclide availability	depends on	nuclear reactors
+nuclear reactors	produce	molybdenum-99
+molybdenum-99	decays to	technetium-99m
+technetium-99m	has	6-hour half-life
+short half-lives	minimize	radiation exposure
+radiation exposure	monitored by	dosimeters
+dosimeters	measure	absorbed dose
+absorbed dose	calculated by	medical physicists
+medical physicists	optimize	imaging protocols
+imaging protocols	specify	administered activities
+administered activities	vary by	patient weight
+patient weight	affects	dose calculation
+dose calculation	ensures	diagnostic quality
+diagnostic quality	depends on	image resolution
+image resolution	improved by	collimators
+collimators	filter	scattered radiation
+scattered radiation	reduces	image contrast
+image contrast	enhanced by	SPECT imaging
+SPECT imaging	provides	3D reconstructions
+3D reconstructions	assist in	lesion localization
+lesion localization	guides	biopsies
+biopsies	confirm	malignancy
+malignancy	treated with	chemotherapy
+chemotherapy	monitored by	follow-up scans
+follow-up scans	evaluate	treatment response
+treatment response	measured by	RECIST criteria
+RECIST criteria	classify	tumor changes
+tumor changes	indicate	prognosis
+prognosis	influences	treatment planning
+treatment planning	involves	multidisciplinary teams
+multidisciplinary teams	include	oncologists
+oncologists	prescribe	targeted therapies
+targeted therapies	require	molecular imaging
+molecular imaging	utilizes	PET radiopharmaceuticals
+PET radiopharmaceuticals	include	FDG
+FDG	measures	glucose metabolism
+glucose metabolism	increased in	cancer cells
+cancer cells	exhibit	Warburg effect
+Warburg effect	enables	tumor detection
+tumor detection	facilitated by	contrast agents
+contrast agents	enhance	image quality
+image quality	affected by	patient motion
+patient motion	reduced by	immobilization devices
+immobilization devices	improve	diagnostic accuracy
+diagnostic accuracy	crucial for	early detection
+early detection	improves	survival rates
+survival rates	tracked by	cancer registries
+cancer registries	inform	public health policies
+public health policies	fund	screening programs
+screening programs	target	high-risk populations
+high-risk populations	include	cirrhotic patients
+cirrhotic patients	develop	hepatocellular carcinoma
+hepatocellular carcinoma	monitored with	AFP levels
+AFP levels	correlate with	tumor burden
+tumor burden	assessed by	volumetric analysis
+volumetric analysis	performed on	CT scans
+CT scans	complement	nuclear medicine studies
+nuclear medicine studies	provide	functional information
+functional information	combined with	anatomical imaging
+anatomical imaging	includes	MRI
+MRI	offers	superior soft tissue contrast
+soft tissue contrast	helps	lesion characterization
+lesion characterization	distinguishes	benign from malignant
+malignant lesions	may require	surgical resection
+surgical resection	evaluated by	preoperative imaging
+preoperative imaging	maps	vascular anatomy
+vascular anatomy	important for	surgical planning
+surgical planning	minimizes	blood loss
+blood loss	managed by	transfusion protocols
+transfusion protocols	follow	blood bank guidelines
+blood bank guidelines	ensure	donor safety
+donor safety	protected by	screening questionnaires
+screening questionnaires	identify	risk factors
+risk factors	include	infectious diseases
+infectious diseases	detected by	laboratory tests
+laboratory tests	performed by	clinical pathologists
+clinical pathologists	collaborate with	radiologists

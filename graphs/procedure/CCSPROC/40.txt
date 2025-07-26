@@ -1,0 +1,100 @@
+bronchoscopy	is a	diagnostic procedure
+bronchoscopy	examines	airways
+bronchoscopy	detects	lung tumors
+bronchoscopy	can obtain	biopsy samples
+thoracentesis	is a	diagnostic procedure
+thoracentesis	removes	pleural fluid
+pleural fluid	analyzed for	infections
+pleural fluid	tested for	cancer cells
+mediastinoscopy	is a	surgical procedure
+mediastinoscopy	examines	mediastinum
+mediastinoscopy	evaluates	lymph nodes
+lymph nodes	indicate	cancer spread
+pulmonary function test	measures	lung capacity
+pulmonary function test	diagnoses	COPD
+COPD	is a	chronic lung disease
+spirometry	is part of	pulmonary function test
+spirometry	measures	airflow
+plethysmography	measures	lung volumes
+arterial blood gas	measures	oxygen levels
+arterial blood gas	assesses	respiratory function
+oximetry	measures	oxygen saturation
+oximetry	monitors	respiratory status
+chest X-ray	images	lungs
+chest X-ray	detects	pneumonia
+chest CT scan	provides detailed	lung images
+chest CT scan	identifies	pulmonary nodules
+pulmonary nodules	may indicate	lung cancer
+PET scan	evaluates	metabolic activity
+PET scan	detects	cancer spread
+ventilation-perfusion scan	assesses	lung function
+ventilation-perfusion scan	diagnoses	pulmonary embolism
+pulmonary embolism	is a	blood clot
+pleural biopsy	obtains	tissue samples
+pleural biopsy	diagnoses	mesothelioma
+mesothelioma	is a	rare cancer
+laryngoscopy	examines	larynx
+laryngoscopy	detects	vocal cord issues
+nasal endoscopy	examines	nasal passages
+nasal endoscopy	diagnoses	sinusitis
+sinusitis	is a	sinus infection
+sputum analysis	tests for	bacteria
+sputum analysis	diagnoses	tuberculosis
+tuberculosis	is a	bacterial infection
+lung biopsy	obtains	lung tissue
+lung biopsy	diagnoses	interstitial lung disease
+interstitial lung disease	affects	lung tissue
+allergy testing	identifies	triggers
+allergy testing	relates to	asthma
+asthma	is a	chronic condition
+pulse oximetry	monitors	oxygen levels
+pulse oximetry	used in	emergency care
+exercise stress test	evaluates	lung capacity
+exercise stress test	assesses	respiratory fitness
+sleep study	diagnoses	sleep apnea
+sleep apnea	affects	breathing
+bronchoalveolar lavage	collects	lung fluid
+bronchoalveolar lavage	diagnoses	infections
+thoracoscopy	examines	pleural space
+thoracoscopy	treats	pleural effusion
+pleural effusion	is a	fluid buildup
+exhaled nitric oxide test	measures	inflammation
+exhaled nitric oxide test	monitors	asthma
+chest ultrasound	detects	fluid
+chest ultrasound	guides	procedures
+magnetic resonance imaging	provides detailed	soft tissue images
+magnetic resonance imaging	evaluates	mediastinal masses
+positron emission tomography	detects	cancer
+positron emission tomography	stages	lung cancer
+endobronchial ultrasound	examines	airways
+endobronchial ultrasound	guides	biopsies
+transbronchial biopsy	obtains	lung tissue
+transbronchial biopsy	diagnoses	sarcoidosis
+sarcoidosis	is a	inflammatory disease
+flexible bronchoscopy	examines	bronchi
+rigid bronchoscopy	removes	foreign objects
+foreign objects	can obstruct	airways
+needle biopsy	obtains	tissue samples
+needle biopsy	diagnoses	lung cancer
+pulmonary angiogram	visualizes	blood vessels
+pulmonary angiogram	detects	abnormalities
+molecular testing	identifies	genetic mutations
+molecular testing	guides	targeted therapy
+targeted therapy	treats	specific cancers
+immunotherapy	boosts	immune response
+immunotherapy	treats	lung cancer
+acid-fast bacilli smear	detects	tuberculosis
+fungal culture	identifies	fungal infections
+fungal infections	affect	immunocompromised patients
+viral PCR	detects	respiratory viruses
+viral PCR	diagnoses	influenza
+influenza	is a	viral infection
+chest fluoroscopy	observes	diaphragm movement
+chest fluoroscopy	evaluates	breathing mechanics
+diffusion capacity test	measures	gas exchange
+diffusion capacity test	assesses	lung function
+methacholine challenge test	diagnoses	asthma
+methacholine	provokes	bronchoconstriction
+bronchoconstriction	narrows	airways
+cardiopulmonary exercise test	evaluates	heart-lung function
+cardiopulmonary exercise test	assesses	exercise capacity

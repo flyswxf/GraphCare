@@ -1,0 +1,100 @@
+intestinal infection	is a	digestive disorder
+intestinal infection	may cause	diarrhea
+intestinal infection	may cause	abdominal pain
+intestinal infection	may cause	fever
+intestinal infection	may cause	dehydration
+intestinal infection	may cause	nausea
+intestinal infection	may cause	vomiting
+intestinal infection	may be caused by	bacteria
+intestinal infection	may be caused by	viruses
+intestinal infection	may be caused by	parasites
+intestinal infection	may lead to	electrolyte imbalance
+intestinal infection	may lead to	malnutrition
+intestinal infection	diagnosed via	stool test
+intestinal infection	diagnosed via	blood test
+intestinal infection	treated with	antibiotics
+intestinal infection	treated with	antiparasitics
+intestinal infection	treated with	rehydration therapy
+intestinal infection	prevented by	hand hygiene
+intestinal infection	prevented by	clean water
+intestinal infection	prevented by	food safety
+bacteria	include	Escherichia coli
+bacteria	include	Salmonella
+bacteria	include	Shigella
+viruses	include	norovirus
+viruses	include	rotavirus
+parasites	include	Giardia
+parasites	include	Cryptosporidium
+antibiotics	include	ciprofloxacin
+antibiotics	include	metronidazole
+antiparasitics	include	albendazole
+rehydration therapy	uses	oral rehydration salts
+diarrhea	may lead to	dehydration
+dehydration	treated with	intravenous fluids
+electrolyte imbalance	corrected by	electrolyte solutions
+malnutrition	may require	nutritional supplements
+stool test	detects	pathogens
+blood test	detects	inflammation
+blood test	detects	infection markers
+hand hygiene	involves	handwashing
+hand hygiene	involves	hand sanitizer
+food safety	involves	proper cooking
+food safety	involves	refrigeration
+Escherichia coli	transmitted via	contaminated food
+Salmonella	transmitted via	raw eggs
+Shigella	transmitted via	fecal-oral route
+norovirus	transmitted via	contaminated surfaces
+rotavirus	affects	children
+Giardia	transmitted via	contaminated water
+Cryptosporidium	resistant to	chlorine
+ciprofloxacin	targets	gram-negative bacteria
+metronidazole	targets	anaerobic bacteria
+albendazole	targets	intestinal worms
+oral rehydration salts	contain	sodium
+oral rehydration salts	contain	potassium
+intravenous fluids	include	normal saline
+electrolyte solutions	contain	magnesium
+nutritional supplements	include	zinc
+pathogens	detected via	microscopy
+inflammation	indicated by	C-reactive protein
+infection markers	include	white blood cells
+handwashing	uses	soap
+hand sanitizer	contains	alcohol
+proper cooking	kills	bacteria
+refrigeration	slows	bacterial growth
+contaminated food	includes	undercooked meat
+raw eggs	risk factor for	Salmonella
+fecal-oral route	involves	poor sanitation
+contaminated surfaces	include	doorknobs
+children	vulnerable to	rotavirus
+contaminated water	common in	developing countries
+chlorine	ineffective against	Cryptosporidium
+gram-negative bacteria	include	Escherichia coli
+anaerobic bacteria	thrive in	low oxygen
+intestinal worms	cause	helminthiasis
+sodium	regulates	fluid balance
+potassium	essential for	muscle function
+normal saline	has	0.9% NaCl
+magnesium	supports	nerve function
+zinc	boosts	immune system
+microscopy	identifies	parasite eggs
+C-reactive protein	produced by	liver
+white blood cells	fight	infection
+soap	removes	pathogens
+alcohol	denatures	proteins
+undercooked meat	harbors	bacteria
+poor sanitation	leads to	disease spread
+doorknobs	can harbor	viruses
+developing countries	face	waterborne diseases
+low oxygen	found in	gut lumen
+helminthiasis	causes	anemia
+fluid balance	maintained by	kidneys
+muscle function	requires	electrolytes
+0.9% NaCl	is	isotonic
+nerve function	depends on	ion channels
+immune system	produces	antibodies
+parasite eggs	visible under	microscope
+liver	responds to	inflammation
+infection	triggers	immune response
+pathogens	destroyed by	disinfectants
+waterborne diseases	prevented by	water treatment

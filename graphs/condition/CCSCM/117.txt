@@ -1,0 +1,100 @@
+other circulatory disease	is a	circulatory disorder
+hypertension	is a risk factor for	other circulatory disease
+other circulatory disease	may lead to	heart failure
+atherosclerosis	can progress to	other circulatory disease
+other circulatory disease	increases risk of	stroke
+diabetes mellitus	is comorbidity with	other circulatory disease
+other circulatory disease	requires	cardiovascular monitoring
+smoking	exacerbates	other circulatory disease
+other circulatory disease	may cause	peripheral edema
+other circulatory disease	is associated with	dyslipidemia
+obesity	contributes to	other circulatory disease
+other circulatory disease	may require	antihypertensive therapy
+other circulatory disease	can result in	arrhythmia
+other circulatory disease	increases mortality in	elderly patients
+other circulatory disease	is diagnosed via	echocardiography
+angiotensin-converting enzyme inhibitors	treat	other circulatory disease
+beta blockers	manage	other circulatory disease
+other circulatory disease	is linked to	chronic kidney disease
+other circulatory disease	may necessitate	surgical intervention
+other circulatory disease	correlates with	increased hospitalization
+other circulatory disease	affects	vascular function
+other circulatory disease	is monitored through	blood pressure measurement
+other circulatory disease	is exacerbated by	high sodium diet
+other circulatory disease	may require	anticoagulation therapy
+other circulatory disease	is more prevalent in	older adults
+other circulatory disease	can cause	venous insufficiency
+other circulatory disease	is influenced by	genetic factors
+other circulatory disease	complicates	pregnancy
+other circulatory disease	increases risk of	pulmonary embolism
+other circulatory disease	may lead to	myocardial infarction
+other circulatory disease	is assessed via	cardiac stress test
+other circulatory disease	is managed with	lifestyle modifications
+other circulatory disease	requires	regular follow-up
+other circulatory disease	is associated with	increased healthcare costs
+other circulatory disease	may result in	reduced exercise tolerance
+other circulatory disease	can cause	cognitive impairment
+other circulatory disease	is more common in	men
+other circulatory disease	may require	pacemaker implantation
+other circulatory disease	is exacerbated by	alcohol consumption
+other circulatory disease	increases susceptibility to	infections
+other circulatory disease	is screened via	lipid profile
+other circulatory disease	may lead to	organ damage
+other circulatory disease	is treated with	diuretics
+other circulatory disease	correlates with	decreased quality of life
+other circulatory disease	requires	multidisciplinary care
+other circulatory disease	is influenced by	environmental factors
+other circulatory disease	may cause	syncope
+other circulatory disease	is associated with	sleep apnea
+other circulatory disease	increases risk of	ventricular hypertrophy
+other circulatory disease	may necessitate	revascularization procedure
+other circulatory disease	is diagnosed with	electrocardiography
+other circulatory disease	is managed through	blood pressure control
+other circulatory disease	can lead to	sudden cardiac death
+other circulatory disease	is more severe in	diabetic patients
+other circulatory disease	requires	patient education
+other circulatory disease	is exacerbated by	stress
+other circulatory disease	may cause	claudication
+other circulatory disease	is associated with	inflammatory markers
+other circulatory disease	increases risk of	aortic aneurysm
+other circulatory disease	may require	coronary angiography
+other circulatory disease	is screened via	ankle-brachial index
+other circulatory disease	can result in	thrombus formation
+other circulatory disease	is treated with	calcium channel blockers
+other circulatory disease	correlates with	increased frailty
+other circulatory disease	requires	medication adherence
+other circulatory disease	is influenced by	socioeconomic status
+other circulatory disease	may cause	chest pain
+other circulatory disease	is associated with	chronic inflammation
+other circulatory disease	increases risk of	renal failure
+other circulatory disease	may necessitate	heart transplantation
+other circulatory disease	is diagnosed with	cardiac MRI
+other circulatory disease	is managed through	weight reduction
+other circulatory disease	can lead to	pulmonary hypertension
+other circulatory disease	is more prevalent in	African Americans
+other circulatory disease	requires	regular exercise
+other circulatory disease	is exacerbated by	sedentary lifestyle
+other circulatory disease	may cause	dizziness
+other circulatory disease	is associated with	endothelial dysfunction
+other circulatory disease	increases risk of	carotid stenosis
+other circulatory disease	may require	stent placement
+other circulatory disease	is screened via	C-reactive protein
+other circulatory disease	can result in	microvascular complications
+other circulatory disease	is treated with	statins
+other circulatory disease	correlates with	depression
+other circulatory disease	requires	dietary changes
+other circulatory disease	is influenced by	air pollution
+other circulatory disease	may cause	fatigue
+other circulatory disease	is associated with	oxidative stress
+other circulatory disease	increases risk of	deep vein thrombosis
+other circulatory disease	may necessitate	bypass surgery
+other circulatory disease	is diagnosed with	CT angiography
+other circulatory disease	is managed through	smoking cessation
+other circulatory disease	can lead to	valvular heart disease
+other circulatory disease	is more common in	postmenopausal women
+other circulatory disease	requires	blood sugar control
+other circulatory disease	is exacerbated by	high cholesterol
+other circulatory disease	may cause	palpitations
+other circulatory disease	is associated with	platelet dysfunction
+other circulatory disease	increases risk of	peripheral artery disease
+other circulatory disease	may require	thrombolytic therapy

@@ -1,0 +1,100 @@
+cancer of other female genital organs	is a type of	gynecological cancer
+cancer of other female genital organs	affects	reproductive system
+cancer of other female genital organs	may involve	fallopian tubes
+cancer of other female genital organs	may involve	vagina
+cancer of other female genital organs	may involve	vulva
+cancer of other female genital organs	may metastasize to	lymph nodes
+cancer of other female genital organs	may metastasize to	lungs
+cancer of other female genital organs	may metastasize to	liver
+cancer of other female genital organs	requires	biopsy
+cancer of other female genital organs	diagnosed via	imaging
+cancer of other female genital organs	staged via	FIGO system
+cancer of other female genital organs	treated with	surgery
+cancer of other female genital organs	treated with	chemotherapy
+cancer of other female genital organs	treated with	radiation therapy
+cancer of other female genital organs	may require	hysterectomy
+cancer of other female genital organs	may cause	pelvic pain
+cancer of other female genital organs	may cause	abnormal bleeding
+cancer of other female genital organs	may cause	weight loss
+cancer of other female genital organs	associated with	HPV infection
+cancer of other female genital organs	associated with	smoking
+cancer of other female genital organs	associated with	BRCA mutations
+cancer of other female genital organs	monitored via	CA-125 test
+cancer of other female genital organs	has risk factor	older age
+cancer of other female genital organs	has risk factor	family history
+cancer of other female genital organs	has risk factor	hormonal factors
+chemotherapy	uses drug	carboplatin
+chemotherapy	uses drug	paclitaxel
+chemotherapy	causes side effect	nausea
+chemotherapy	causes side effect	hair loss
+radiation therapy	may cause	skin irritation
+radiation therapy	may cause	fatigue
+surgery	may require	lymph node dissection
+surgery	risks include	infection
+surgery	risks include	bleeding
+hysterectomy	removes	uterus
+hysterectomy	affects	fertility
+HPV infection	prevented by	HPV vaccine
+HPV vaccine	recommended for	adolescents
+BRCA mutations	increase risk of	ovarian cancer
+BRCA mutations	increase risk of	breast cancer
+CA-125 test	measures	tumor marker
+abnormal bleeding	evaluated via	colposcopy
+colposcopy	examines	cervix
+pelvic pain	managed with	pain medication
+weight loss	may indicate	advanced disease
+lymph node metastasis	indicates	disease progression
+disease progression	requires	treatment adjustment
+treatment adjustment	may involve	second-line therapy
+second-line therapy	may include	targeted therapy
+targeted therapy	uses drug	bevacizumab
+bevacizumab	inhibits	angiogenesis
+angiogenesis	promotes	tumor growth
+tumor growth	measured via	imaging
+imaging techniques include	CT scan
+imaging techniques include	MRI
+imaging techniques include	PET scan
+CT scan	uses	x-rays
+MRI	uses	magnetic fields
+PET scan	uses	radioactive tracer
+metastasis	reduces	survival rate
+survival rate	depends on	cancer stage
+cancer stage	determined by	tumor size
+cancer stage	determined by	spread extent
+early stage cancer	has better	prognosis
+late stage cancer	requires	palliative care
+palliative care	improves	quality of life
+quality of life	affected by	symptom burden
+symptom burden	managed with	supportive care
+supportive care	includes	pain management
+pain management	uses	opioids
+opioids	risk includes	dependence
+dependence	requires	careful monitoring
+careful monitoring	involves	regular follow-ups
+regular follow-ups	include	physical exams
+physical exams	assess	disease status
+disease status	guides	treatment decisions
+treatment decisions	consider	patient preferences
+patient preferences	influenced by	cultural factors
+cultural factors	affect	healthcare utilization
+healthcare utilization	impacts	outcomes
+outcomes	measured via	survival statistics
+survival statistics	used for	prognosis estimation
+prognosis estimation	informs	treatment planning
+treatment planning	involves	multidisciplinary team
+multidisciplinary team	includes	oncologists
+multidisciplinary team	includes	surgeons
+multidisciplinary team	includes	radiologists
+multidisciplinary team	includes	pathologists
+pathologists	analyze	tissue samples
+tissue samples	obtained via	biopsy
+biopsy	classifies	tumor type
+tumor type	determines	treatment approach
+treatment approach	tailored to	molecular profile
+molecular profiling	identifies	genetic mutations
+genetic mutations	may respond to	targeted drugs
+targeted drugs	have fewer	side effects
+side effects	affect	treatment adherence
+treatment adherence	impacts	efficacy
+efficacy	measured by	tumor response
+tumor response	assessed via	imaging

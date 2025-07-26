@@ -1,0 +1,100 @@
+other non-traumatic joint disorders	include	osteoarthritis
+other non-traumatic joint disorders	include	rheumatoid arthritis
+other non-traumatic joint disorders	include	gout
+other non-traumatic joint disorders	include	psoriatic arthritis
+other non-traumatic joint disorders	include	ankylosing spondylitis
+osteoarthritis	is caused by	cartilage degeneration
+rheumatoid arthritis	is an	autoimmune disease
+gout	is caused by	uric acid buildup
+psoriatic arthritis	is associated with	psoriasis
+ankylosing spondylitis	affects	spine
+osteoarthritis	commonly affects	knees
+osteoarthritis	commonly affects	hips
+osteoarthritis	commonly affects	hands
+rheumatoid arthritis	commonly affects	small joints
+gout	commonly affects	big toe
+psoriatic arthritis	may cause	dactylitis
+ankylosing spondylitis	may cause	spinal fusion
+osteoarthritis	has risk factor	obesity
+osteoarthritis	has risk factor	aging
+rheumatoid arthritis	has risk factor	smoking
+gout	has risk factor	high-purine diet
+psoriatic arthritis	has risk factor	family history
+ankylosing spondylitis	has risk factor	HLA-B27
+osteoarthritis	may lead to	joint replacement
+rheumatoid arthritis	may lead to	joint deformity
+gout	may lead to	tophi formation
+psoriatic arthritis	may lead to	nail changes
+ankylosing spondylitis	may lead to	reduced mobility
+osteoarthritis	is diagnosed with	X-ray
+rheumatoid arthritis	is diagnosed with	rheumatoid factor
+gout	is diagnosed with	synovial fluid analysis
+psoriatic arthritis	is diagnosed with	clinical examination
+ankylosing spondylitis	is diagnosed with	MRI
+osteoarthritis	is treated with	NSAIDs
+rheumatoid arthritis	is treated with	DMARDs
+gout	is treated with	colchicine
+psoriatic arthritis	is treated with	biologics
+ankylosing spondylitis	is treated with	TNF inhibitors
+NSAIDs	may cause	gastrointestinal bleeding
+DMARDs	may cause	liver toxicity
+colchicine	may cause	diarrhea
+biologics	may cause	infection risk
+TNF inhibitors	may cause	reactivation of TB
+osteoarthritis	may complicate with	chronic pain
+rheumatoid arthritis	may complicate with	cardiovascular disease
+gout	may complicate with	kidney stones
+psoriatic arthritis	may complicate with	uveitis
+ankylosing spondylitis	may complicate with	osteoporosis
+chronic pain	may lead to	depression
+cardiovascular disease	may lead to	myocardial infarction
+kidney stones	may lead to	renal colic
+uveitis	may lead to	vision loss
+osteoporosis	may lead to	fractures
+osteoarthritis	has symptom	joint stiffness
+rheumatoid arthritis	has symptom	morning stiffness
+gout	has symptom	acute pain
+psoriatic arthritis	has symptom	swollen fingers
+ankylosing spondylitis	has symptom	back pain
+joint stiffness	worsens with	inactivity
+morning stiffness	lasts over	one hour
+acute pain	occurs at	night
+swollen fingers	resemble	sausages
+back pain	improves with	exercise
+osteoarthritis	requires	weight management
+rheumatoid arthritis	requires	early treatment
+gout	requires	dietary modification
+psoriatic arthritis	requires	multidisciplinary approach
+ankylosing spondylitis	requires	physical therapy
+weight management	involves	exercise
+early treatment	prevents	joint damage
+dietary modification	avoids	alcohol
+multidisciplinary approach	includes	rheumatologist
+physical therapy	improves	posture
+osteoarthritis	differs from	rheumatoid arthritis
+rheumatoid arthritis	differs from	gout
+gout	differs from	pseudogout
+psoriatic arthritis	differs from	reactive arthritis
+ankylosing spondylitis	differs from	mechanical back pain
+osteoarthritis	prevalence increases with	age
+rheumatoid arthritis	prevalence is higher in	women
+gout	prevalence is higher in	men
+psoriatic arthritis	prevalence is higher in	psoriasis patients
+ankylosing spondylitis	prevalence is higher in	young adults
+osteoarthritis	may benefit from	glucosamine
+rheumatoid arthritis	may benefit from	methotrexate
+gout	may benefit from	allopurinol
+psoriatic arthritis	may benefit from	apremilast
+ankylosing spondylitis	may benefit from	secukinumab
+glucosamine	may help	cartilage repair
+methotrexate	suppresses	immune system
+allopurinol	reduces	uric acid
+apremilast	modulates	inflammation
+secukinumab	targets	IL-17
+osteoarthritis	has alternative treatment	acupuncture
+rheumatoid arthritis	has alternative treatment	fish oil
+gout	has alternative treatment	cherry extract
+psoriatic arthritis	has alternative treatment	turmeric
+ankylosing spondylitis	has alternative treatment	yoga
+acupuncture	may reduce	pain perception
+fish oil	may decrease	inflammation

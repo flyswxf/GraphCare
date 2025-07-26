@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+diagnostic endocrine procedures	is a	medical testing
+diagnostic endocrine procedures	evaluates	endocrine system
+thyroid function test	is a type of	diagnostic endocrine procedures
+glucose tolerance test	is a type of	diagnostic endocrine procedures
+insulin assay	is a type of	diagnostic endocrine procedures
+cortisol test	is a type of	diagnostic endocrine procedures
+growth hormone test	is a type of	diagnostic endocrine procedures
+thyroid function test	measures	thyroid hormones
+glucose tolerance test	diagnoses	diabetes
+insulin assay	detects	insulin resistance
+cortisol test	identifies	adrenal disorders
+growth hormone test	assesses	pituitary function
+endocrine procedures	require	blood samples
+endocrine procedures	require	urine samples
+endocrine procedures	require	imaging techniques
+thyroid scan	is a type of	diagnostic endocrine procedures
+parathyroid hormone test	is a type of	diagnostic endocrine procedures
+thyroid scan	evaluates	thyroid nodules
+parathyroid hormone test	detects	hyperparathyroidism
+endocrine procedures	assist in	hormone therapy
+endocrine procedures	guide	treatment plans
+endocrine procedures	monitor	disease progression
+dexamethasone suppression test	is a type of	diagnostic endocrine procedures
+dexamethasone suppression test	diagnoses	Cushing syndrome
+glucagon stimulation test	is a type of	diagnostic endocrine procedures
+glucagon stimulation test	assesses	growth hormone deficiency
+endocrine procedures	use	radioimmunoassay
+endocrine procedures	use	ELISA
+endocrine procedures	involve	hormone stimulation
+endocrine procedures	involve	hormone suppression
+TRH stimulation test	is a type of	diagnostic endocrine procedures
+TRH stimulation test	evaluates	thyroid axis
+ACTH stimulation test	is a type of	diagnostic endocrine procedures
+ACTH stimulation test	assesses	adrenal function
+endocrine procedures	correlate with	symptoms
+endocrine procedures	require	fasting
+endocrine procedures	affected by	medications
+endocrine procedures	influence	medication dosage
+metanephrines test	is a type of	diagnostic endocrine procedures
+metanephrines test	detects	pheochromocytoma
+endocrine procedures	aid in	tumor localization
+endocrine procedures	differentiate	endocrine disorders
+17-hydroxyprogesterone test	is a type of	diagnostic endocrine procedures
+17-hydroxyprogesterone test	diagnoses	CAH
+endocrine procedures	screen for	genetic disorders
+endocrine procedures	predict	disease risk
+endocrine procedures	guide	surgical decisions
+endocrine procedures	monitor	treatment efficacy
+aldosterone test	is a type of	diagnostic endocrine procedures
+aldosterone test	evaluates	mineralocorticoid status
+renin activity test	is a type of	diagnostic endocrine procedures
+renin activity test	assesses	renin-angiotensin system
+endocrine procedures	require	timing considerations
+endocrine procedures	vary by	age
+endocrine procedures	vary by	sex
+endocrine procedures	affected by	stress
+endocrine procedures	affected by	diet
+androgen tests	is a type of	diagnostic endocrine procedures
+androgen tests	evaluate	hyperandrogenism
+estrogen tests	is a type of	diagnostic endocrine procedures
+estrogen tests	monitor	reproductive function
+progesterone test	is a type of	diagnostic endocrine procedures
+progesterone test	assesses	ovulation
+endocrine procedures	complement	imaging studies
+endocrine procedures	precede	biopsy
+endocrine procedures	contraindicate	certain conditions
+pituitary function tests	is a type of	diagnostic endocrine procedures
+pituitary function tests	evaluate	hypopituitarism
+LH test	is a type of	diagnostic endocrine procedures
+LH test	assesses	gonadal function
+FSH test	is a type of	diagnostic endocrine procedures
+FSH test	evaluates	fertility
+endocrine procedures	predict	menopause
+endocrine procedures	diagnose	precocious puberty
+endocrine procedures	screen for	osteoporosis
+PTHrp test	is a type of	diagnostic endocrine procedures
+PTHrp test	detects	humoral hypercalcemia
+endocrine procedures	indicate	malignancy
+endocrine procedures	track	postoperative recovery
+endocrine procedures	require	interpretation
+endocrine procedures	generate	reference ranges
+endocrine procedures	vary by	laboratory
+endocrine procedures	combine with	clinical evaluation
+calcitonin test	is a type of	diagnostic endocrine procedures
+calcitonin test	screens for	medullary carcinoma
+gastrin test	is a type of	diagnostic endocrine procedures
+gastrin test	diagnoses	Zollinger-Ellison
+VIP test	is a type of	diagnostic endocrine procedures
+VIP test	detects	VIPoma
+endocrine procedures	identify	ectopic hormone production
+endocrine procedures	monitor	hormone replacement
+endocrine procedures	predict	treatment response
+endocrine procedures	stratify	disease severity
+endocrine procedures	guide	radiotherapy
+endocrine procedures	correlate with	biomarkers
+endocrine procedures	facilitate	personalized medicine
+endocrine procedures	reduce	complications
+endocrine procedures	improve	outcomes
+endocrine procedures	standardize	protocols
+endocrine procedures	evolve with	technology

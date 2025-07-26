@@ -1,0 +1,100 @@
+electrocardiogram	is a	diagnostic test
+electrocardiogram	measures	heart activity
+electrocardiogram	detects	arrhythmias
+electrocardiogram	evaluates	heart rate
+electrocardiogram	identifies	myocardial infarction
+electrocardiogram	assesses	cardiac ischemia
+electrocardiogram	monitors	electrolyte imbalances
+electrocardiogram	screens	heart disease
+electrocardiogram	records	electrical signals
+electrocardiogram	uses	electrodes
+electrocardiogram	performed by	cardiologist
+electrocardiogram	requires	patient preparation
+electrocardiogram	has variant	stress ECG
+electrocardiogram	has variant	Holter monitor
+electrocardiogram	has variant	event monitor
+electrocardiogram	precedes	cardiac treatment
+electrocardiogram	follows	cardiac symptoms
+electrocardiogram	aids in	pacemaker evaluation
+electrocardiogram	contraindicates	certain medications
+electrocardiogram	correlates with	echocardiogram
+electrocardiogram	complements	blood tests
+electrocardiogram	differentiates	tachycardia types
+electrocardiogram	confirms	atrial fibrillation
+electrocardiogram	rules out	pulmonary embolism
+electrocardiogram	predicts	sudden cardiac death
+electrocardiogram	associates with	hypertension
+electrocardiogram	links to	coronary artery disease
+electrocardiogram	indicates	left ventricular hypertrophy
+electrocardiogram	detects	bundle branch block
+electrocardiogram	reveals	prolonged QT interval
+electrocardiogram	identifies	ST elevation
+electrocardiogram	shows	PR interval
+electrocardiogram	measures	QRS complex
+electrocardiogram	evaluates	T wave
+electrocardiogram	analyzes	U wave
+electrocardiogram	interprets	heart axis
+electrocardiogram	classifies	sinus rhythm
+electrocardiogram	distinguishes	supraventricular tachycardia
+electrocardiogram	diagnoses	ventricular fibrillation
+electrocardiogram	flags	heart block
+electrocardiogram	facilitates	preoperative assessment
+electrocardiogram	supports	emergency diagnosis
+electrocardiogram	integrates with	EMR systems
+electrocardiogram	stored as	digital record
+electrocardiogram	transmitted for	telemedicine
+electrocardiogram	reviewed by	AI algorithms
+electrocardiogram	standardizes	lead placement
+electrocardiogram	varies by	patient age
+electrocardiogram	alters with	body position
+electrocardiogram	affected by	medications
+electrocardiogram	changes during	exercise
+electrocardiogram	normalizes after	treatment
+electrocardiogram	improves with	electrode quality
+electrocardiogram	confounded by	movement artifacts
+electrocardiogram	requires	skin preparation
+electrocardiogram	contraindicated in	skin infections
+electrocardiogram	limited by	obesity
+electrocardiogram	enhanced by	signal filtering
+electrocardiogram	validated by	clinical guidelines
+electrocardiogram	taught in	medical school
+electrocardiogram	certified by	professional boards
+electrocardiogram	reimbursed by	insurance
+electrocardiogram	costs	healthcare system
+electrocardiogram	reduces	diagnostic delays
+electrocardiogram	prevents	unnecessary surgeries
+electrocardiogram	guides	medication adjustments
+electrocardiogram	influences	prognosis
+electrocardiogram	tracks	disease progression
+electrocardiogram	alerts	critical conditions
+electrocardiogram	assists	resuscitation efforts
+electrocardiogram	part of	routine physical
+electrocardiogram	mandated for	certain occupations
+electrocardiogram	compares with	previous readings
+electrocardiogram	updates	patient history
+electrocardiogram	documents	cardiac events
+electrocardiogram	shared among	care teams
+electrocardiogram	archived in	health records
+electrocardiogram	retrievable for	research
+electrocardiogram	cited in	clinical studies
+electrocardiogram	referenced in	guidelines
+electrocardiogram	misinterpreted by	novices
+electrocardiogram	clarified by	specialists
+electrocardiogram	disputed in	complex cases
+electrocardiogram	confirms	device function
+electrocardiogram	verifies	lead integrity
+electrocardiogram	troubleshoots	technical issues
+electrocardiogram	maintained by	biomedical staff
+electrocardiogram	calibrated for	accuracy
+electrocardiogram	upgraded with	new features
+electrocardiogram	portable in	ambulatory settings
+electrocardiogram	miniaturized in	wearable tech
+electrocardiogram	innovates with	mobile apps
+electrocardiogram	advances with	machine learning
+electrocardiogram	personalized for	precision medicine
+electrocardiogram	integrates	genetic data
+electrocardiogram	combines with	imaging data
+electrocardiogram	predicts	treatment response
+electrocardiogram	tailors	therapeutic plans
+electrocardiogram	empowers	patient awareness
+electrocardiogram	evolves with	medical technology

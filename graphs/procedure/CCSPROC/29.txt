@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+dental procedures	include	teeth cleaning
+dental procedures	include	fillings
+dental procedures	include	root canals
+dental procedures	prevent	tooth decay
+dental procedures	treat	gum disease
+teeth cleaning	removes	plaque
+teeth cleaning	prevents	cavities
+fillings	restore	damaged teeth
+fillings	use	dental amalgam
+fillings	use	composite resin
+root canals	treat	infected pulp
+root canals	save	damaged teeth
+dental crowns	protect	weak teeth
+dental bridges	replace	missing teeth
+dental implants	anchor	artificial teeth
+tooth extraction	removes	severely damaged teeth
+dental X-rays	detect	hidden problems
+fluoride treatment	strengthens	tooth enamel
+sealants	protect	molars
+orthodontic treatment	corrects	misaligned teeth
+braces	straighten	crooked teeth
+Invisalign	is alternative to	braces
+periodontal therapy	treats	gum infections
+gum grafting	repairs	receding gums
+teeth whitening	improves	tooth color
+veneers	cover	tooth imperfections
+dental bonding	repairs	chipped teeth
+dental procedures	require	anesthesia
+local anesthesia	numbs	treatment area
+general anesthesia	induces	unconsciousness
+sedation dentistry	reduces	anxiety
+dental lasers	perform	precise procedures
+digital impressions	replace	traditional molds
+CAD/CAM technology	creates	dental restorations
+dental procedures	performed by	dentists
+dental hygienists	assist in	cleanings
+periodontists	specialize in	gum treatments
+endodontists	specialize in	root canals
+orthodontists	specialize in	alignment
+oral surgeons	perform	extractions
+pediatric dentists	treat	children
+prosthodontists	specialize in	tooth replacement
+dental procedures	use	sterilized instruments
+autoclaves	sterilize	dental tools
+disposable items	prevent	cross-contamination
+dental dams	isolate	treatment teeth
+suction devices	remove	saliva
+dental mirrors	provide	visibility
+explorers	detect	cavities
+scalers	remove	tartar
+dental procedures	follow	infection control
+gloves	prevent	disease transmission
+masks	protect against	aerosols
+protective eyewear	shields	eyes
+dental procedures	require	follow-up care
+post-op instructions	guide	recovery
+pain medication	manages	discomfort
+antibiotics	prevent	infections
+dental visits	should be	biannual
+preventive care	reduces	major procedures
+poor oral hygiene	leads to	periodontal disease
+smoking	increases	dental problems
+diabetes	affects	gum health
+pregnancy	increases	gingivitis risk
+aging	increases	dental needs
+genetics	influence	tooth structure
+nutrition	affects	oral health
+calcium	strengthens	teeth
+vitamin D	aids	calcium absorption
+sugar	causes	tooth decay
+acidic foods	erode	enamel
+water flossing	complements	brushing
+electric toothbrushes	improve	cleaning
+fluoride toothpaste	prevents	cavities
+mouthwash	reduces	bacteria
+dental emergencies	require	immediate care
+toothache	indicates	dental problem
+cracked tooth	needs	urgent treatment
+knocked-out tooth	can be	reimplanted
+dental trauma	causes	tooth loss
+TMJ disorders	affect	jaw function
+bruxism	damages	tooth surfaces
+mouth guards	protect	from grinding
+oral cancer screenings	detect	early signs
+tobacco use	causes	oral cancer
+HPV	linked to	oropharyngeal cancer
+dental insurance	covers	procedures
+payment plans	assist with	treatment costs
+dental savings plans	reduce	fees
+community clinics	provide	low-cost care
+dental schools	offer	discounted services
+teledentistry	provides	remote consultations
+dental tourism	offers	affordable options
+continuing education	improves	dental skills
+dental research	advances	techniques
+3D printing	creates	dental prosthetics
+AI	assists in	diagnosis
+nanotechnology	improves	materials
+stem cell research	may regenerate	teeth
+gene therapy	may prevent	dental diseases

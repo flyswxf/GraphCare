@@ -1,0 +1,100 @@
+medical examination	assesses	health status
+medical examination	includes	physical checkup
+medical examination	requires	medical history
+medical examination	may involve	laboratory tests
+medical examination	can detect	diseases
+medical examination	performed by	physician
+medical examination	uses	diagnostic tools
+medical examination	evaluates	vital signs
+medical examination	checks	body mass index
+medical examination	assesses	vaccination status
+physical checkup	includes	heart rate measurement
+physical checkup	includes	blood pressure measurement
+physical checkup	includes	respiratory rate check
+physical checkup	includes	temperature measurement
+physical checkup	evaluates	reflexes
+physical checkup	examines	skin condition
+physical checkup	checks	lymph nodes
+physical checkup	assesses	joint mobility
+physical checkup	evaluates	neurological function
+physical checkup	examines	abdominal condition
+laboratory tests	include	blood tests
+laboratory tests	include	urine analysis
+laboratory tests	include	stool tests
+laboratory tests	measure	cholesterol levels
+laboratory tests	check	blood sugar
+laboratory tests	assess	kidney function
+laboratory tests	evaluate	liver enzymes
+laboratory tests	detect	infections
+laboratory tests	identify	anemia
+laboratory tests	screen	cancer markers
+blood tests	measure	hemoglobin
+blood tests	count	white blood cells
+blood tests	count	platelets
+blood tests	assess	electrolyte balance
+blood tests	check	thyroid function
+blood tests	detect	inflammation
+blood tests	screen	HIV
+blood tests	diagnose	diabetes
+blood tests	monitor	medication levels
+blood tests	evaluate	coagulation
+medical history	includes	allergies
+medical history	records	past surgeries
+medical history	documents	chronic conditions
+medical history	notes	family diseases
+medical history	tracks	medications
+medical history	records	immunizations
+medical history	includes	lifestyle factors
+medical history	notes	hospitalization history
+medical history	documents	pregnancy history
+medical history	records	substance use
+diagnostic tools	include	stethoscope
+diagnostic tools	include	otoscope
+diagnostic tools	include	ophthalmoscope
+diagnostic tools	include	sphygmomanometer
+diagnostic tools	include	thermometer
+diagnostic tools	include	reflex hammer
+diagnostic tools	include	tongue depressor
+diagnostic tools	include	tuning fork
+diagnostic tools	include	pulse oximeter
+diagnostic tools	include	glucometer
+physician	interprets	test results
+physician	provides	diagnosis
+physician	recommends	treatment
+physician	prescribes	medications
+physician	refers to	specialists
+physician	advises	lifestyle changes
+physician	orders	follow-up tests
+physician	monitors	chronic conditions
+physician	provides	preventive care
+physician	educates	patients
+vital signs	include	blood pressure
+vital signs	include	pulse rate
+vital signs	include	respiratory rate
+vital signs	include	body temperature
+vital signs	indicate	health status
+vital signs	monitor	critical conditions
+vital signs	help detect	infections
+vital signs	assess	dehydration
+vital signs	evaluate	shock
+vital signs	track	recovery progress
+diseases	diagnosed through	medical examination
+diseases	include	hypertension
+diseases	include	diabetes
+diseases	include	hyperlipidemia
+diseases	include	cardiovascular conditions
+diseases	include	respiratory disorders
+diseases	include	gastrointestinal issues
+diseases	include	neurological disorders
+diseases	include	musculoskeletal problems
+diseases	include	endocrine disorders
+preventive care	includes	vaccinations
+preventive care	involves	cancer screenings
+preventive care	recommends	healthy diet
+preventive care	advises	regular exercise
+preventive care	promotes	stress management
+preventive care	encourages	smoking cessation
+preventive care	suggests	alcohol moderation
+preventive care	includes	dental checkups
+preventive care	involves	vision screenings
+preventive care	monitors	cholesterol levels

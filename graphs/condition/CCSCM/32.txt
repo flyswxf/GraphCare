@@ -1,0 +1,100 @@
+cancer of bladder	is a	malignant tumor
+cancer of bladder	originates from	bladder tissue
+cancer of bladder	may cause	hematuria
+cancer of bladder	may cause	dysuria
+cancer of bladder	may cause	urinary frequency
+cancer of bladder	may cause	pelvic pain
+cancer of bladder	may lead to	hydronephrosis
+cancer of bladder	may spread to	lymph nodes
+cancer of bladder	may metastasize to	bones
+cancer of bladder	may metastasize to	liver
+cancer of bladder	may metastasize to	lungs
+cancer of bladder	has risk factor	smoking
+cancer of bladder	has risk factor	chemical exposure
+cancer of bladder	has risk factor	chronic cystitis
+cancer of bladder	has risk factor	schistosomiasis
+cancer of bladder	has risk factor	radiation exposure
+cancer of bladder	has risk factor	male gender
+cancer of bladder	has risk factor	older age
+cancer of bladder	is diagnosed by	cystoscopy
+cancer of bladder	is diagnosed by	urine cytology
+cancer of bladder	is diagnosed by	CT scan
+cancer of bladder	is diagnosed by	MRI
+cancer of bladder	is diagnosed by	biopsy
+cancer of bladder	is classified by	tumor stage
+cancer of bladder	is classified by	tumor grade
+non-muscle invasive bladder cancer	is a subtype of	cancer of bladder
+muscle invasive bladder cancer	is a subtype of	cancer of bladder
+cancer of bladder	is treated with	transurethral resection
+cancer of bladder	is treated with	intravesical therapy
+cancer of bladder	is treated with	cystectomy
+cancer of bladder	is treated with	chemotherapy
+cancer of bladder	is treated with	radiation therapy
+cancer of bladder	is treated with	immunotherapy
+BCG	is used in	intravesical therapy
+mitomycin C	is used in	intravesical therapy
+cisplatin	is used in	chemotherapy
+gemcitabine	is used in	chemotherapy
+atezolizumab	is used in	immunotherapy
+pembrolizumab	is used in	immunotherapy
+radical cystectomy	involves removal of	bladder
+radical cystectomy	involves removal of	prostate
+radical cystectomy	involves removal of	uterus
+urinary diversion	follows	cystectomy
+ileal conduit	is a type of	urinary diversion
+neobladder	is a type of	urinary diversion
+cancer of bladder	may recur after	treatment
+cancer of bladder	requires	follow-up cystoscopy
+cancer of bladder	has prognosis factor	tumor stage
+cancer of bladder	has prognosis factor	tumor grade
+cancer of bladder	has prognosis factor	patient age
+cancer of bladder	has prognosis factor	lymph node status
+cancer of bladder	has prognosis factor	metastasis
+cancer of bladder	has biomarker	FGFR3 mutation
+cancer of bladder	has biomarker	TP53 mutation
+cancer of bladder	has biomarker	PD-L1 expression
+cancer of bladder	may cause	anemia
+cancer of bladder	may cause	weight loss
+cancer of bladder	may cause	fatigue
+cancer of bladder	may complicate	urinary obstruction
+cancer of bladder	may complicate	kidney failure
+cancer of bladder	increases risk of	blood clots
+cancer of bladder	requires	pain management
+cancer of bladder	affects	quality of life
+cancer of bladder	may lead to	depression
+cancer of bladder	may lead to	anxiety
+cancer of bladder	requires	nutritional support
+cancer of bladder	may need	palliative care
+cancer of bladder	has association with	Lynch syndrome
+cancer of bladder	has association with	BRCA mutation
+cancer of bladder	is researched for	targeted therapy
+cancer of bladder	is researched for	gene therapy
+cancer of bladder	is studied in	clinical trials
+cancer of bladder	has screening method	urine test
+cancer of bladder	has screening method	ultrasound
+cancer of bladder	has differential diagnosis	urinary tract infection
+cancer of bladder	has differential diagnosis	kidney stones
+cancer of bladder	has differential diagnosis	benign tumor
+cancer of bladder	may be prevented by	smoking cessation
+cancer of bladder	may be prevented by	hydration
+cancer of bladder	may be prevented by	occupational safety
+cancer of bladder	has histological type	urothelial carcinoma
+cancer of bladder	has histological type	squamous cell carcinoma
+cancer of bladder	has histological type	adenocarcinoma
+cancer of bladder	has histological type	small cell carcinoma
+cancer of bladder	may present with	asymptomatic hematuria
+cancer of bladder	may present with	irritative voiding
+cancer of bladder	may present with	urinary retention
+cancer of bladder	may present with	flank pain
+cancer of bladder	has treatment side effect	nausea
+cancer of bladder	has treatment side effect	hair loss
+cancer of bladder	has treatment side effect	fatigue
+cancer of bladder	has treatment side effect	infection
+cancer of bladder	has treatment side effect	infertility
+cancer of bladder	has treatment side effect	sexual dysfunction
+cancer of bladder	requires	multidisciplinary care
+cancer of bladder	involves	urologist
+cancer of bladder	involves	oncologist
+cancer of bladder	involves	radiologist
+cancer of bladder	involves	pathologist
+cancer of bladder	involves	nurse specialist

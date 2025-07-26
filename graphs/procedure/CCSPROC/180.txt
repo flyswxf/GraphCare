@@ -1,0 +1,100 @@
+CT scan	is a	medical imaging technique
+CT scan	uses	X-rays
+CT scan	produces	cross-sectional images
+CT scan	used for	diagnosis
+CT scan	detects	tumors
+CT scan	evaluates	trauma
+CT scan	assesses	internal bleeding
+CT scan	monitors	cancer treatment
+CT scan	requires	contrast agent
+CT scan	has risk	radiation exposure
+CT scan	alternative to	MRI
+CT scan	faster than	MRI
+CT scan	less expensive than	MRI
+CT scan	used in	emergency medicine
+CT scan	diagnoses	stroke
+CT scan	identifies	fractures
+CT scan	visualizes	blood vessels
+CT scan	screens for	lung cancer
+CT scan	guides	biopsies
+CT scan	assists	surgery planning
+CT scan	detects	pulmonary embolism
+CT scan	evaluates	coronary arteries
+CT scan	measures	bone density
+CT scan	diagnoses	appendicitis
+CT scan	reveals	organ damage
+CT scan	contraindicated in	pregnancy
+CT scan	requires	patient cooperation
+CT scan	may cause	allergic reaction
+CT scan	uses	computer reconstruction
+CT scan	invented by	Godfrey Hounsfield
+CT scan	improved	diagnostic accuracy
+CT scan	reduces	exploratory surgery
+CT scan	classified as	radiology
+CT scan	performed by	radiologist
+CT scan	interpreted by	radiologist
+CT scan	stored as	DICOM files
+CT scan	requires	specialized equipment
+CT scan	available in	hospitals
+CT scan	costs	healthcare system
+CT scan	covered by	insurance
+CT scan	monitored by	radiation dose
+CT scan	optimized by	protocols
+CT scan	limited by	metal artifacts
+CT scan	enhanced by	contrast media
+CT scan	contraindicated with	kidney disease
+CT scan	preferred for	acute conditions
+CT scan	detects	brain hemorrhage
+CT scan	evaluates	spinal injuries
+CT scan	assesses	abdominal pain
+CT scan	diagnoses	kidney stones
+CT scan	visualizes	soft tissues
+CT scan	detects	infections
+CT scan	monitors	disease progression
+CT scan	guides	radiation therapy
+CT scan	assists	interventional procedures
+CT scan	replaces	conventional X-rays
+CT scan	provides	3D images
+CT scan	reconstructs	multiplanar views
+CT scan	requires	trained technicians
+CT scan	undergoes	quality control
+CT scan	adheres to	safety standards
+CT scan	benefits from	AI analysis
+CT scan	integrates with	PACS
+CT scan	improved by	iterative reconstruction
+CT scan	limited by	patient movement
+CT scan	detects	aortic dissection
+CT scan	evaluates	pancreatic cancer
+CT scan	assesses	liver lesions
+CT scan	diagnoses	diverticulitis
+CT scan	visualizes	lymph nodes
+CT scan	detects	metastases
+CT scan	monitors	chemotherapy response
+CT scan	guides	needle placement
+CT scan	assists	tumor ablation
+CT scan	replaces	myelography
+CT scan	provides	quantitative data
+CT scan	measures	tumor size
+CT scan	requires	informed consent
+CT scan	contraindicated with	contrast allergy
+CT scan	preferred for	bone imaging
+CT scan	detects	cerebral edema
+CT scan	evaluates	sinusitis
+CT scan	assesses	dental conditions
+CT scan	diagnoses	pulmonary fibrosis
+CT scan	visualizes	heart chambers
+CT scan	detects	pleural effusion
+CT scan	monitors	postoperative complications
+CT scan	guides	drainage procedures
+CT scan	assists	stent placement
+CT scan	replaces	exploratory laparotomy
+CT scan	provides	perfusion maps
+CT scan	measures	blood flow
+CT scan	requires	fasting
+CT scan	contraindicated with	diabetes medication
+CT scan	preferred for	trauma patients
+CT scan	detects	bowel obstruction
+CT scan	evaluates	gallbladder disease
+CT scan	assesses	vascular malformations
+CT scan	diagnoses	osteomyelitis
+CT scan	visualizes	foreign objects

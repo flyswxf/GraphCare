@@ -1,0 +1,100 @@
+combinations of antibacterials	are used for	bacterial infections
+combinations of antibacterials	can prevent	antibiotic resistance
+combinations of antibacterials	may include	beta-lactams
+combinations of antibacterials	may include	aminoglycosides
+combinations of antibacterials	may include	fluoroquinolones
+combinations of antibacterials	may include	macrolides
+combinations of antibacterials	may include	tetracyclines
+combinations of antibacterials	may include	sulfonamides
+combinations of antibacterials	may include	glycopeptides
+combinations of antibacterials	may include	lincosamides
+combinations of antibacterials	enhance	antimicrobial spectrum
+combinations of antibacterials	reduce	treatment failure
+combinations of antibacterials	are studied in	clinical trials
+combinations of antibacterials	are subject to	pharmacokinetic interactions
+combinations of antibacterials	may cause	adverse effects
+adverse effects	can include	allergic reactions
+adverse effects	can include	gastrointestinal distress
+adverse effects	can include	nephrotoxicity
+adverse effects	can include	hepatotoxicity
+adverse effects	can include	neurotoxicity
+combinations of antibacterials	require	susceptibility testing
+susceptibility testing	determines	effective combinations
+combinations of antibacterials	are used in	sepsis
+combinations of antibacterials	are used in	tuberculosis
+combinations of antibacterials	are used in	pneumonia
+combinations of antibacterials	are used in	urinary tract infections
+combinations of antibacterials	are used in	skin infections
+combinations of antibacterials	are used in	intra-abdominal infections
+combinations of antibacterials	are used in	endocarditis
+combinations of antibacterials	are used in	meningitis
+combinations of antibacterials	may target	Gram-positive bacteria
+combinations of antibacterials	may target	Gram-negative bacteria
+combinations of antibacterials	may target	anaerobic bacteria
+combinations of antibacterials	may target	atypical bacteria
+combinations of antibacterials	may target	multidrug-resistant bacteria
+multidrug-resistant bacteria	include	MRSA
+multidrug-resistant bacteria	include	VRE
+multidrug-resistant bacteria	include	ESBL-producing bacteria
+multidrug-resistant bacteria	include	carbapenem-resistant Enterobacteriaceae
+combinations of antibacterials	can be	synergistic
+combinations of antibacterials	can be	additive
+combinations of antibacterials	can be	antagonistic
+synergistic combinations	enhance	bactericidal activity
+additive combinations	increase	antimicrobial coverage
+antagonistic combinations	reduce	treatment efficacy
+combinations of antibacterials	are guided by	clinical guidelines
+clinical guidelines	recommend	empirical therapy
+clinical guidelines	recommend	targeted therapy
+empirical therapy	is based on	infection site
+targeted therapy	is based on	culture results
+culture results	identify	causative pathogens
+causative pathogens	determine	antibiotic selection
+combinations of antibacterials	may involve	beta-lactamase inhibitors
+beta-lactamase inhibitors	protect	beta-lactams
+beta-lactamase inhibitors	include	clavulanic acid
+beta-lactamase inhibitors	include	sulbactam
+beta-lactamase inhibitors	include	tazobactam
+combinations of antibacterials	can include	rifampin
+rifampin	enhances	intracellular penetration
+rifampin	is used in	staphylococcal infections
+combinations of antibacterials	can include	metronidazole
+metronidazole	targets	anaerobic bacteria
+metronidazole	is used in	intra-abdominal infections
+combinations of antibacterials	can include	colistin
+colistin	targets	Gram-negative bacteria
+colistin	is used for	multidrug-resistant infections
+combinations of antibacterials	can include	daptomycin
+daptomycin	targets	Gram-positive bacteria
+daptomycin	is used for	MRSA infections
+combinations of antibacterials	can include	linezolid
+linezolid	targets	Gram-positive bacteria
+linezolid	is used for	VRE infections
+combinations of antibacterials	can include	tigecycline
+tigecycline	has broad-spectrum activity
+tigecycline	is used for	complicated skin infections
+combinations of antibacterials	can include	fosfomycin
+fosfomycin	targets	urinary tract infections
+fosfomycin	is used for	E. coli infections
+combinations of antibacterials	can include	quinupristin/dalfopristin
+quinupristin/dalfopristin	targets	Gram-positive bacteria
+quinupristin/dalfopristin	is used for	VRE infections
+combinations of antibacterials	can include	ceftazidime/avibactam
+ceftazidime/avibactam	targets	Gram-negative bacteria
+ceftazidime/avibactam	is used for	carbapenem-resistant infections
+combinations of antibacterials	can include	meropenem/vaborbactam
+meropenem/vaborbactam	targets	Gram-negative bacteria
+meropenem/vaborbactam	is used for	complicated urinary tract infections
+combinations of antibacterials	can include	imipenem/cilastatin/relebactam
+imipenem/cilastatin/relebactam	targets	Gram-negative bacteria
+imipenem/cilastatin/relebactam	is used for	hospital-acquired pneumonia
+combinations of antibacterials	can include	aztreonam/avibactam
+aztreonam/avibactam	targets	Gram-negative bacteria
+aztreonam/avibactam	is used for	aerobic infections
+combinations of antibacterials	can include	cefiderocol
+cefiderocol	targets	Gram-negative bacteria
+cefiderocol	is used for	multidrug-resistant infections
+combinations of antibacterials	can include	eravacycline
+eravacycline	has broad-spectrum activity
+eravacycline	is used for	intra-abdominal infections
+combinations of antibacterials	require	monitoring

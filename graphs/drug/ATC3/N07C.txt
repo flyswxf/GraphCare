@@ -1,0 +1,99 @@
+antivertigo preparations	is a	medication class
+antivertigo preparations	treats	vertigo
+vertigo	is a	symptom
+vertigo	caused by	inner ear disorders
+inner ear disorders	include	Ménière's disease
+Ménière's disease	causes	hearing loss
+antivertigo preparations	includes	betahistine
+betahistine	acts as	histamine analog
+histamine analog	affects	blood flow
+blood flow	influences	inner ear pressure
+antivertigo preparations	reduces	nausea
+nausea	associated with	motion sickness
+motion sickness	related to	vestibular dysfunction
+vestibular dysfunction	affects	balance
+balance	controlled by	cerebellum
+cerebellum	receives input	from inner ear
+antivertigo preparations	may cause	drowsiness
+drowsiness	increases risk	of falls
+falls	lead to	fractures
+fractures	require	hospitalization
+antivertigo preparations	contraindicated in	pheochromocytoma
+pheochromocytoma	is a	tumor
+tumor	secretes	catecholamines
+catecholamines	elevate	blood pressure
+blood pressure	monitored during	treatment
+antivertigo preparations	interacts with	antihistamines
+antihistamines	worsen	sedation
+sedation	impairs	driving
+driving	requires	alertness
+alertness	affected by	CNS depressants
+CNS depressants	include	benzodiazepines
+benzodiazepines	treat	anxiety
+anxiety	exacerbates	vertigo symptoms
+antivertigo preparations	alternative to	vestibular rehab
+vestibular rehab	improves	compensation
+compensation	reduces	dizziness
+dizziness	measured by	VNG testing
+VNG testing	evaluates	nystagmus
+nystagmus	indicates	vestibular asymmetry
+vestibular asymmetry	corrected by	surgery
+surgery	option for	refractory cases
+refractory cases	need	multidisciplinary approach
+multidisciplinary approach	involves	neurologist
+neurologist	diagnoses	central causes
+central causes	include	stroke
+stroke	manifests as	acute vertigo
+acute vertigo	requires	imaging
+imaging	detects	cerebellar infarction
+cerebellar infarction	threatens	life
+life	preserved by	timely intervention
+timely intervention	includes	thrombolytics
+thrombolytics	dissolve	clots
+clots	cause	ischemia
+ischemia	leads to	cell death
+cell death	releases	biomarkers
+biomarkers	predict	recovery
+recovery	assessed by	follow-up
+follow-up	ensures	treatment adherence
+treatment adherence	prevents	recurrence
+recurrence	increases	healthcare costs
+healthcare costs	reduced by	prophylaxis
+prophylaxis	involves	lifestyle changes
+lifestyle changes	include	sodium restriction
+sodium restriction	benefits	Ménière's patients
+Ménière's patients	experience	tinnitus
+tinnitus	managed by	sound therapy
+sound therapy	masks	ringing
+ringing	disturbs	sleep
+sleep	improved by	melatonin
+melatonin	regulates	circadian rhythm
+circadian rhythm	disrupted in	shift workers
+shift workers	prone to	sleep disorders
+sleep disorders	aggravate	vertigo
+vertigo	relieved by	hydration
+hydration	prevents	orthostatic hypotension
+orthostatic hypotension	triggers	lightheadedness
+lightheadedness	confused with	vertigo
+vertigo	differentiated by	Dix-Hallpike test
+Dix-Hallpike test	diagnoses	BPPV
+BPPV	treated with	Epley maneuver
+Epley maneuver	repositions	otoconia
+otoconia	displaced in	canalithiasis
+canalithiasis	causes	positional vertigo
+positional vertigo	resolves	spontaneously
+spontaneous resolution	occurs within	weeks
+weeks	determine	treatment duration
+treatment duration	adjusted for	elderly
+elderly	metabolize drugs	slower
+slower metabolism	increases	side effects
+side effects	monitored by	pharmacist
+pharmacist	advises on	dose adjustments
+dose adjustments	optimize	efficacy
+efficacy	measured by	symptom diaries
+symptom diaries	track	frequency
+frequency	correlates with	disease severity
+disease severity	guides	therapy choice
+therapy choice	considers	comorbidities
+comorbidities	complicate	management
+management	tailored to	patient needs

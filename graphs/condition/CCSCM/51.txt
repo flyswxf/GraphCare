@@ -1,0 +1,100 @@
+other endocrine disorders	include	adrenal insufficiency
+other endocrine disorders	include	acromegaly
+other endocrine disorders	include	Cushing's syndrome
+other endocrine disorders	include	hyperparathyroidism
+other endocrine disorders	include	hypoparathyroidism
+other endocrine disorders	include	pheochromocytoma
+other endocrine disorders	include	multiple endocrine neoplasia
+adrenal insufficiency	caused by	autoimmune destruction
+adrenal insufficiency	treated with	hydrocortisone
+acromegaly	caused by	pituitary tumor
+acromegaly	treated with	somatostatin analogs
+Cushing's syndrome	caused by	cortisol excess
+Cushing's syndrome	may cause	moon face
+hyperparathyroidism	leads to	hypercalcemia
+hypoparathyroidism	leads to	hypocalcemia
+pheochromocytoma	produces	catecholamines
+pheochromocytoma	causes	hypertension
+multiple endocrine neoplasia	is a	genetic syndrome
+endocrine disorders	may affect	growth
+endocrine disorders	may affect	metabolism
+endocrine disorders	may affect	reproduction
+endocrine disorders	may affect	mood
+endocrine disorders	diagnosed with	blood tests
+endocrine disorders	diagnosed with	imaging
+endocrine disorders	managed by	endocrinologists
+adrenal insufficiency	may cause	fatigue
+adrenal insufficiency	may cause	weight loss
+acromegaly	causes	enlarged hands
+acromegaly	causes	enlarged feet
+Cushing's syndrome	may lead to	osteoporosis
+hyperparathyroidism	associated with	kidney stones
+hypoparathyroidism	may cause	muscle cramps
+pheochromocytoma	presents with	headaches
+pheochromocytoma	presents with	sweating
+multiple endocrine neoplasia	involves	pancreas
+multiple endocrine neoplasia	involves	thyroid
+endocrine disorders	require	hormone replacement
+endocrine disorders	may need	surgery
+adrenal insufficiency	diagnosed with	ACTH test
+acromegaly	diagnosed with	IGF-1 levels
+Cushing's syndrome	confirmed by	dexamethasone test
+hyperparathyroidism	detected by	PTH levels
+hypoparathyroidism	confirmed by	low PTH
+pheochromocytoma	diagnosed with	metanephrines
+endocrine disorders	may complicate	pregnancy
+endocrine disorders	affect	bone health
+endocrine disorders	influence	cardiovascular health
+adrenal insufficiency	requires	stress dosing
+acromegaly	treated with	surgery
+Cushing's syndrome	managed with	ketoconazole
+hyperparathyroidism	treated with	parathyroidectomy
+hypoparathyroidism	managed with	calcium
+hypoparathyroidism	managed with	vitamin D
+pheochromocytoma	treated with	alpha blockers
+endocrine disorders	increase	infection risk
+endocrine disorders	may cause	infertility
+adrenal crisis	is a complication of	adrenal insufficiency
+gigantism	is related to	acromegaly
+Cushing's disease	is a type of	Cushing's syndrome
+primary hyperparathyroidism	is a type of	hyperparathyroidism
+secondary hyperparathyroidism	is a type of	hyperparathyroidism
+pseudohypoparathyroidism	mimics	hypoparathyroidism
+MEN1	is a type of	multiple endocrine neoplasia
+MEN2	is a type of	multiple endocrine neoplasia
+endocrine disorders	may cause	depression
+endocrine disorders	may cause	anxiety
+adrenal insufficiency	may present with	hyperpigmentation
+acromegaly	increases risk of	sleep apnea
+Cushing's syndrome	may cause	striae
+hyperparathyroidism	associated with	peptic ulcers
+hypoparathyroidism	may cause	seizures
+pheochromocytoma	may trigger	arrhythmias
+endocrine disorders	require	long-term monitoring
+adrenal insufficiency	needs	emergency bracelet
+acromegaly	may cause	carpal tunnel syndrome
+Cushing's syndrome	may lead to	diabetes
+hyperparathyroidism	may cause	bone pain
+hypoparathyroidism	may cause	tetany
+pheochromocytoma	may mimic	panic attacks
+endocrine disorders	often have	chronic course
+adrenal insufficiency	may follow	steroid withdrawal
+acromegaly	increases risk of	colon polyps
+Cushing's syndrome	may cause	buffalo hump
+hyperparathyroidism	may lead to	pancreatitis
+hypoparathyroidism	requires	lifelong treatment
+pheochromocytoma	may be	hereditary
+endocrine disorders	may affect	quality of life
+adrenal insufficiency	may cause	salt craving
+acromegaly	may cause	voice deepening
+Cushing's syndrome	increases	infection susceptibility
+hyperparathyroidism	may cause	constipation
+hypoparathyroidism	may cause	paresthesias
+pheochromocytoma	may cause	palpitations
+endocrine disorders	require	multidisciplinary care
+adrenal insufficiency	may cause	hypotension
+acromegaly	may cause	jaw protrusion
+Cushing's syndrome	may cause	thin skin
+hyperparathyroidism	may cause	cognitive changes
+hypoparathyroidism	may cause	cataract
+pheochromocytoma	may cause	chest pain

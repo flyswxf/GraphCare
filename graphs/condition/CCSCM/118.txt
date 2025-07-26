@@ -1,0 +1,100 @@
+phlebitis	is inflammation of	vein
+thrombophlebitis	is inflammation of	vein with clot
+thromboembolism	is obstruction by	blood clot
+thrombophlebitis	may lead to	thromboembolism
+deep vein thrombosis	is a cause of	thromboembolism
+superficial thrombophlebitis	affects	superficial veins
+deep vein thrombophlebitis	affects	deep veins
+intravenous catheter	is a risk factor for	phlebitis
+immobility	increases risk of	thrombophlebitis
+surgery	increases risk of	thrombophlebitis
+trauma	increases risk of	phlebitis
+varicose veins	increase risk of	thrombophlebitis
+obesity	increases risk of	thrombophlebitis
+smoking	increases risk of	thrombophlebitis
+oral contraceptives	increase risk of	thrombophlebitis
+pregnancy	increases risk of	thrombophlebitis
+cancer	increases risk of	thrombophlebitis
+hereditary factors	contribute to	thrombophlebitis
+phlebitis	causes	pain
+phlebitis	causes	redness
+phlebitis	causes	swelling
+phlebitis	causes	warmth
+ultrasound	diagnoses	thrombophlebitis
+D-dimer test	assists in diagnosing	thromboembolism
+CT scan	diagnoses	pulmonary embolism
+compression stockings	prevent	thrombophlebitis
+elevation	reduces	phlebitis symptoms
+NSAIDs	treat	phlebitis pain
+heparin	treats	thrombophlebitis
+warfarin	prevents	thromboembolism
+direct oral anticoagulants	treat	thrombophlebitis
+thrombolytics	treat	pulmonary embolism
+inferior vena cava filter	prevents	pulmonary embolism
+ambulation	prevents	thrombophlebitis
+hydration	prevents	thrombophlebitis
+phlebitis	may lead to	sepsis
+thromboembolism	may cause	pulmonary embolism
+pulmonary embolism	is a complication of	thrombophlebitis
+pulmonary embolism	causes	shortness of breath
+pulmonary embolism	causes	chest pain
+pulmonary embolism	may cause	death
+thrombophlebitis	increases risk of	post-thrombotic syndrome
+post-thrombotic syndrome	causes	chronic pain
+post-thrombotic syndrome	causes	swelling
+post-thrombotic syndrome	causes	skin changes
+antiphospholipid syndrome	increases risk of	thrombophlebitis
+factor V Leiden	increases risk of	thrombophlebitis
+prothrombin gene mutation	increases risk of	thrombophlebitis
+protein C deficiency	increases risk of	thrombophlebitis
+protein S deficiency	increases risk of	thrombophlebitis
+antithrombin deficiency	increases risk of	thrombophlebitis
+hospitalization	increases risk of	thrombophlebitis
+long flights	increase risk of	thrombophlebitis
+age	increases risk of	thrombophlebitis
+phlebitis	may recur	in same vein
+thrombophlebitis	may recur	in different veins
+erythema	is a sign of	phlebitis
+induration	is a sign of	phlebitis
+cord-like structure	is a sign of	thrombophlebitis
+venous duplex	evaluates	thrombophlebitis
+venography	diagnoses	thrombophlebitis
+pulse oximetry	monitors	pulmonary embolism
+arterial blood gas	evaluates	pulmonary embolism
+chest X-ray	evaluates	pulmonary embolism
+ECG	may show signs of	pulmonary embolism
+troponin	may be elevated in	pulmonary embolism
+BNP	may be elevated in	pulmonary embolism
+bed rest	increases risk of	thrombophlebitis
+chemotherapy	increases risk of	thrombophlebitis
+hormone therapy	increases risk of	thrombophlebitis
+inflammatory bowel disease	increases risk of	thrombophlebitis
+nephrotic syndrome	increases risk of	thrombophlebitis
+myeloproliferative disorders	increase risk of	thrombophlebitis
+paroxysmal nocturnal hemoglobinuria	increases risk of	thrombophlebitis
+central venous catheter	increases risk of	thrombophlebitis
+pacemaker leads	increase risk of	thrombophlebitis
+thrombophlebitis	may cause	fever
+pulmonary embolism	may cause	hemoptysis
+pulmonary embolism	may cause	tachycardia
+pulmonary embolism	may cause	hypotension
+thrombophlebitis	may be	septic
+thrombophlebitis	may be	aseptic
+bacteria	cause	septic thrombophlebitis
+antibiotics	treat	septic thrombophlebitis
+thrombectomy	treats	thrombophlebitis
+streptokinase	lyses	blood clots
+alteplase	lyses	blood clots
+enoxaparin	prevents	thrombophlebitis
+fondaparinux	prevents	thrombophlebitis
+aspirin	prevents	thrombophlebitis
+clopidogrel	prevents	thrombophlebitis
+graduated compression stockings	prevent	post-thrombotic syndrome
+intermittent pneumatic compression	prevents	thrombophlebitis
+early ambulation	prevents	thrombophlebitis
+leg exercises	prevent	thrombophlebitis
+smoking cessation	reduces risk of	thrombophlebitis
+weight loss	reduces risk of	thrombophlebitis
+exercise	reduces risk of	thrombophlebitis
+hydration	reduces risk of	thrombophlebitis
+regular movement	prevents	thrombophlebitis

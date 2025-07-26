@@ -1,0 +1,100 @@
+vitamin B-complex	contains	thiamine
+vitamin B-complex	contains	riboflavin
+vitamin B-complex	contains	niacin
+vitamin B-complex	contains	pantothenic acid
+vitamin B-complex	contains	pyridoxine
+vitamin B-complex	contains	biotin
+vitamin B-complex	contains	folic acid
+vitamin B-complex	contains	cobalamin
+vitamin B-complex	treats	vitamin B deficiency
+vitamin B-complex	prevents	neural tube defects
+vitamin B-complex	supports	energy metabolism
+vitamin B-complex	maintains	nervous system
+vitamin B-complex	promotes	red blood cell formation
+vitamin B-complex	interacts with	alcohol
+vitamin B-complex	interacts with	antacids
+vitamin B-complex	interacts with	anticonvulsants
+thiamine	deficiency causes	beriberi
+riboflavin	deficiency causes	ariboflavinosis
+niacin	deficiency causes	pellagra
+pyridoxine	deficiency causes	anemia
+folic acid	deficiency causes	megaloblastic anemia
+cobalamin	deficiency causes	pernicious anemia
+vitamin B-complex	available as	oral supplement
+vitamin B-complex	available as	injection
+vitamin B-complex	prescribed for	neuropathy
+vitamin B-complex	prescribed for	pregnancy
+vitamin B-complex	prescribed for	alcoholism
+thiamine	converts	carbohydrates to energy
+riboflavin	acts as	antioxidant
+niacin	lowers	LDL cholesterol
+pantothenic acid	synthesizes	coenzyme A
+pyridoxine	metabolizes	amino acids
+biotin	supports	hair health
+folic acid	prevents	birth defects
+cobalamin	maintains	myelin sheath
+vitamin B-complex	contraindicated with	Leber's disease
+vitamin B-complex	may cause	diarrhea
+vitamin B-complex	may cause	nausea
+vitamin B-complex	may cause	flushing
+niacin	causes	vasodilation
+vitamin B-complex	requires	renal monitoring
+vitamin B-complex	monitored in	elderly
+vitamin B-complex	interacts with	chemotherapy
+vitamin B-complex	affects	homocysteine levels
+folic acid	interacts with	methotrexate
+pyridoxine	treats	morning sickness
+vitamin B-complex	enhances	wound healing
+vitamin B-complex	supports	immune function
+vitamin B-complex	recommended for	vegans
+thiamine	treats	Wernicke-Korsakoff syndrome
+riboflavin	prevents	migraines
+niacin	raises	HDL cholesterol
+pantothenic acid	reduces	stress
+pyridoxine	alleviates	PMS symptoms
+biotin	strengthens	nails
+folic acid	reduces	stroke risk
+cobalamin	requires	intrinsic factor
+vitamin B-complex	stored in	liver
+thiamine	absorbed in	small intestine
+vitamin B-complex	excreted in	urine
+vitamin B-complex	measured by	blood tests
+vitamin B-complex	affected by	gastric bypass
+vitamin B-complex	interacts with	proton pump inhibitors
+vitamin B-complex	interacts with	metformin
+vitamin B-complex	benefits	cognitive function
+vitamin B-complex	delays	dementia onset
+thiamine	cofactor for	pyruvate dehydrogenase
+riboflavin	precursor for	FAD
+niacin	precursor for	NAD
+pantothenic acid	component of	CoA
+pyridoxine	cofactor for	neurotransmitter synthesis
+biotin	cofactor for	carboxylases
+folic acid	participates in	DNA synthesis
+cobalamin	participates in	DNA synthesis
+vitamin B-complex	administered in	malnutrition
+vitamin B-complex	used in	TPN
+vitamin B-complex	contraindicated in	hypersensitivity
+thiamine	degraded by	sulfites
+vitamin B-complex	stability affected by	light
+vitamin B-complex	stability affected by	heat
+vitamin B-complex	recommended for	celiac disease
+vitamin B-complex	recommended for	Crohn's disease
+vitamin B-complex	depletes with	diuretics
+vitamin B-complex	interacts with	oral contraceptives
+folic acid	masks	B12 deficiency
+vitamin B-complex	affects	methylation
+vitamin B-complex	modulates	inflammation
+vitamin B-complex	impacts	cardiovascular health
+vitamin B-complex	influences	mood regulation
+vitamin B-complex	correlates with	depression
+vitamin B-complex	associated with	fatigue
+vitamin B-complex	linked to	cognitive decline
+vitamin B-complex	connected to	homocystinuria
+vitamin B-complex	important for	athletes
+vitamin B-complex	crucial for	elderly
+vitamin B-complex	essential for	pregnancy
+vitamin B-complex	required for	lactation
+vitamin B-complex	manages	hyperhomocysteinemia
+vitamin B-complex	adjunct in	cardiovascular therapy
+vitamin B-complex	component of	multivitamins

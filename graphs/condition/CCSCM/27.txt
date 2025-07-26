@@ -1,0 +1,100 @@
+cancer of ovary	is a	gynecologic cancer
+cancer of ovary	originates from	ovarian cells
+cancer of ovary	has subtype	epithelial ovarian cancer
+cancer of ovary	has subtype	germ cell tumor
+cancer of ovary	has subtype	stromal tumor
+cancer of ovary	has symptom	abdominal bloating
+cancer of ovary	has symptom	pelvic pain
+cancer of ovary	has symptom	early satiety
+cancer of ovary	may cause	ascites
+cancer of ovary	may cause	bowel obstruction
+cancer of ovary	risk factor	BRCA mutation
+cancer of ovary	risk factor	family history
+cancer of ovary	risk factor	age over 50
+cancer of ovary	risk factor	nulliparity
+cancer of ovary	risk factor	endometriosis
+cancer of ovary	diagnosed via	CA-125 test
+cancer of ovary	diagnosed via	transvaginal ultrasound
+cancer of ovary	diagnosed via	biopsy
+cancer of ovary	staged by	FIGO system
+cancer of ovary	treatment	surgery
+cancer of ovary	treatment	chemotherapy
+cancer of ovary	treatment	targeted therapy
+cancer of ovary	treatment	radiation therapy
+cancer of ovary	commonly treated with	paclitaxel
+cancer of ovary	commonly treated with	carboplatin
+cancer of ovary	may require	hysterectomy
+cancer of ovary	may require	oophorectomy
+cancer of ovary	complication	metastasis
+cancer of ovary	metastasis site	peritoneum
+cancer of ovary	metastasis site	liver
+cancer of ovary	metastasis site	lungs
+cancer of ovary	prognosis factor	stage at diagnosis
+cancer of ovary	prognosis factor	tumor grade
+cancer of ovary	prognosis factor	residual disease
+cancer of ovary	screening challenge	lack of early symptoms
+cancer of ovary	associated with	hereditary breast cancer
+cancer of ovary	biomarker	HE4
+cancer of ovary	research focus	PARP inhibitors
+PARP inhibitor	example	olaparib
+PARP inhibitor	mechanism	DNA repair inhibition
+cancer of ovary	may lead to	malnutrition
+cancer of ovary	may lead to	anemia
+cancer of ovary	monitored with	CT scan
+cancer of ovary	monitored with	PET scan
+cancer of ovary	differential diagnosis	ovarian cyst
+cancer of ovary	differential diagnosis	irritable bowel syndrome
+cancer of ovary	prevention strategy	oral contraceptives
+cancer of ovary	prevention strategy	prophylactic oophorectomy
+prophylactic oophorectomy	reduces risk	cancer of ovary
+cancer of ovary	histology	serous carcinoma
+cancer of ovary	histology	mucinous carcinoma
+cancer of ovary	histology	clear cell carcinoma
+cancer of ovary	chemotherapy regimen	platinum-based
+platinum-based chemotherapy	includes	cisplatin
+platinum-based chemotherapy	includes	carboplatin
+cancer of ovary	targeted therapy	bevacizumab
+bevacizumab	targets	VEGF
+VEGF	promotes	angiogenesis
+angiogenesis	supports	tumor growth
+cancer of ovary	immune therapy	pembrolizumab
+pembrolizumab	is a	PD-1 inhibitor
+PD-1 inhibitor	enhances	immune response
+cancer of ovary	recurrence	common
+cancer of ovary	recurrence	monitored via	CA-125
+cancer of ovary	palliative care	pain management
+cancer of ovary	palliative care	ascites drainage
+cancer of ovary	genetic testing	BRCA1
+cancer of ovary	genetic testing	BRCA2
+BRCA1 mutation	increases risk	cancer of ovary
+BRCA2 mutation	increases risk	cancer of ovary
+cancer of ovary	associated syndrome	Lynch syndrome
+Lynch syndrome	increases risk	cancer of ovary
+cancer of ovary	surgical approach	debulking
+debulking surgery	aims for	optimal cytoreduction
+optimal cytoreduction	improves	survival rate
+cancer of ovary	paraneoplastic syndrome	hypercalcemia
+cancer of ovary	paraneoplastic syndrome	neuropathy
+cancer of ovary	drug resistance	platinum resistance
+platinum resistance	worsens	prognosis
+cancer of ovary	research area	liquid biopsy
+liquid biopsy	detects	circulating tumor DNA
+circulating tumor DNA	indicates	tumor burden
+cancer of ovary	symptom management	antiemetics
+antiemetics	treat	chemotherapy nausea
+cancer of ovary	supportive care	erythropoietin
+erythropoietin	treats	anemia
+cancer of ovary	nutritional support	protein supplements
+cancer of ovary	psychological impact	depression
+cancer of ovary	psychological impact	anxiety
+cancer of ovary	survivorship care	monitoring
+cancer of ovary	survivorship care	lifestyle counseling
+cancer of ovary	clinical trial	immunotherapy
+cancer of ovary	clinical trial	novel targeted therapy
+cancer of ovary	epidemiology	fifth leading cause
+cancer of ovary	epidemiology	female cancer deaths
+cancer of ovary	risk reduction	breastfeeding
+cancer of ovary	risk reduction	tubal ligation
+cancer of ovary	molecular subtype	homologous recombination deficient
+homologous recombination deficiency	sensitive to	PARP inhibitors
+cancer of ovary	emerging biomarker	circulating tumor cells

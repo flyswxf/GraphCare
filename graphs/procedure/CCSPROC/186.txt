@@ -1,0 +1,100 @@
+lower gastrointestinal x-ray	is a	diagnostic procedure
+lower gastrointestinal x-ray	evaluates	colon
+lower gastrointestinal x-ray	detects	polyps
+lower gastrointestinal x-ray	identifies	tumors
+lower gastrointestinal x-ray	diagnoses	diverticulosis
+lower gastrointestinal x-ray	assesses	bowel obstruction
+lower gastrointestinal x-ray	examines	intestinal inflammation
+lower gastrointestinal x-ray	requires	contrast agent
+lower gastrointestinal x-ray	uses	barium sulfate
+lower gastrointestinal x-ray	performed by	radiologist
+lower gastrointestinal x-ray	involves	fluoroscopy
+lower gastrointestinal x-ray	precedes	colonoscopy
+lower gastrointestinal x-ray	contraindicated in	perforated bowel
+lower gastrointestinal x-ray	monitors	Crohn's disease
+lower gastrointestinal x-ray	evaluates	ulcerative colitis
+lower gastrointestinal x-ray	screens for	colorectal cancer
+lower gastrointestinal x-ray	contraindicated in	pregnancy
+lower gastrointestinal x-ray	requires	bowel preparation
+lower gastrointestinal x-ray	may cause	abdominal discomfort
+lower gastrointestinal x-ray	alternative to	CT colonography
+lower gastrointestinal x-ray	less invasive than	sigmoidoscopy
+lower gastrointestinal x-ray	assesses	strictures
+lower gastrointestinal x-ray	detects	fistulas
+lower gastrointestinal x-ray	evaluates	motility disorders
+lower gastrointestinal x-ray	contraindicated in	severe constipation
+lower gastrointestinal x-ray	may lead to	allergic reaction
+lower gastrointestinal x-ray	contraindicated in	renal failure
+lower gastrointestinal x-ray	requires	patient cooperation
+lower gastrointestinal x-ray	evaluates	postoperative anatomy
+lower gastrointestinal x-ray	assesses	anastomotic leaks
+lower gastrointestinal x-ray	diagnoses	intussusception
+lower gastrointestinal x-ray	detects	volvulus
+lower gastrointestinal x-ray	evaluates	Hirschsprung disease
+lower gastrointestinal x-ray	contraindicated in	toxic megacolon
+lower gastrointestinal x-ray	may require	sedation
+lower gastrointestinal x-ray	monitors	treatment response
+lower gastrointestinal x-ray	less sensitive than	MRI enterography
+lower gastrointestinal x-ray	alternative to	capsule endoscopy
+lower gastrointestinal x-ray	evaluates	malabsorption syndromes
+lower gastrointestinal x-ray	detects	foreign bodies
+lower gastrointestinal x-ray	assesses	post-radiation changes
+lower gastrointestinal x-ray	contraindicated in	severe dehydration
+lower gastrointestinal x-ray	may cause	electrolyte imbalance
+lower gastrointestinal x-ray	requires	fasting
+lower gastrointestinal x-ray	evaluates	meconium ileus
+lower gastrointestinal x-ray	diagnoses	necrotizing enterocolitis
+lower gastrointestinal x-ray	assesses	ischemic colitis
+lower gastrointestinal x-ray	contraindicated in	recent barium study
+lower gastrointestinal x-ray	may lead to	perforation
+lower gastrointestinal x-ray	requires	informed consent
+lower gastrointestinal x-ray	evaluates	intestinal malrotation
+lower gastrointestinal x-ray	detects	pneumatosis intestinalis
+lower gastrointestinal x-ray	assesses	post-surgical adhesions
+lower gastrointestinal x-ray	contraindicated in	bowel perforation
+lower gastrointestinal x-ray	may require	antibiotic prophylaxis
+lower gastrointestinal x-ray	evaluates	radiation enteritis
+lower gastrointestinal x-ray	monitors	disease progression
+lower gastrointestinal x-ray	alternative to	PET scan
+lower gastrointestinal x-ray	assesses	functional disorders
+lower gastrointestinal x-ray	detects	lymphadenopathy
+lower gastrointestinal x-ray	evaluates	enterocutaneous fistula
+lower gastrointestinal x-ray	contraindicated in	recent surgery
+lower gastrointestinal x-ray	may cause	nausea
+lower gastrointestinal x-ray	requires	hydration
+lower gastrointestinal x-ray	evaluates	anastomotic strictures
+lower gastrointestinal x-ray	diagnoses	infectious colitis
+lower gastrointestinal x-ray	assesses	pseudomembranous colitis
+lower gastrointestinal x-ray	contraindicated in	severe anemia
+lower gastrointestinal x-ray	may lead to	aspiration
+lower gastrointestinal x-ray	requires	patient monitoring
+lower gastrointestinal x-ray	evaluates	graft-versus-host disease
+lower gastrointestinal x-ray	detects	submucosal lesions
+lower gastrointestinal x-ray	assesses	post-chemotherapy changes
+lower gastrointestinal x-ray	contraindicated in	ileus
+lower gastrointestinal x-ray	may require	antispasmodics
+lower gastrointestinal x-ray	evaluates	motility dysfunction
+lower gastrointestinal x-ray	monitors	surgical complications
+lower gastrointestinal x-ray	alternative to	ultrasound
+lower gastrointestinal x-ray	assesses	radiation toxicity
+lower gastrointestinal x-ray	detects	mucosal thickening
+lower gastrointestinal x-ray	evaluates	enteropathic arthritis
+lower gastrointestinal x-ray	contraindicated in	recent endoscopy
+lower gastrointestinal x-ray	may cause	vomiting
+lower gastrointestinal x-ray	requires	pre-procedure assessment
+lower gastrointestinal x-ray	evaluates	post-transplant complications
+lower gastrointestinal x-ray	diagnoses	eosinophilic colitis
+lower gastrointestinal x-ray	assesses	drug-induced colitis
+lower gastrointestinal x-ray	contraindicated in	contrast allergy
+lower gastrointestinal x-ray	may lead to	constipation
+lower gastrointestinal x-ray	requires	post-procedure care
+lower gastrointestinal x-ray	evaluates	vascular malformations
+lower gastrointestinal x-ray	detects	pneumoperitoneum
+lower gastrointestinal x-ray	assesses	post-traumatic injury
+lower gastrointestinal x-ray	contraindicated in	hemodynamic instability
+lower gastrointestinal x-ray	may require	pain management
+lower gastrointestinal x-ray	evaluates	fistulizing disease
+lower gastrointestinal x-ray	monitors	therapeutic efficacy
+lower gastrointestinal x-ray	alternative to	nuclear scintigraphy
+lower gastrointestinal x-ray	assesses	dysmotility syndromes
+lower gastrointestinal x-ray	detects	luminal narrowing

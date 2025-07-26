@@ -1,0 +1,100 @@
+contraceptives for topical use	is a	contraceptive method
+contraceptives for topical use	contains	spermicide
+spermicide	kills	sperm
+spermicide	main ingredient	nonoxynol-9
+nonoxynol-9	can cause	vaginal irritation
+contraceptives for topical use	includes	contraceptive gel
+contraceptives for topical use	includes	contraceptive foam
+contraceptives for topical use	includes	contraceptive cream
+contraceptive gel	applied to	vagina
+contraceptive foam	inserted with	applicator
+contraceptive cream	used with	diaphragm
+diaphragm	blocks	cervix
+contraceptives for topical use	prevents	pregnancy
+contraceptives for topical use	effectiveness rate	72-82%
+contraceptives for topical use	requires	correct usage
+incorrect usage	leads to	contraceptive failure
+contraceptive failure	results in	unintended pregnancy
+contraceptives for topical use	does not prevent	STDs
+STDs	prevented by	condoms
+condoms	more effective than	spermicides
+contraceptives for topical use	can cause	allergic reactions
+allergic reactions	symptoms include	itching
+contraceptives for topical use	may alter	vaginal pH
+altered vaginal pH	increases risk	yeast infection
+yeast infection	treated with	antifungal medication
+contraceptives for topical use	available over-the-counter
+over-the-counter drugs	do not require	prescription
+contraceptives for topical use	less effective than	hormonal methods
+hormonal methods	include	birth control pill
+birth control pill	prevents	ovulation
+contraceptives for topical use	can be used with	condoms
+dual protection	reduces risk	pregnancy and STDs
+contraceptives for topical use	works by	immobilizing sperm
+immobilized sperm	cannot reach	egg
+contraceptives for topical use	applied before	intercourse
+intercourse timing	affects	effectiveness
+contraceptives for topical use	should not be used with	oil-based lubricants
+oil-based lubricants	can degrade	spermicide
+water-based lubricants	compatible with	spermicides
+contraceptives for topical use	may cause	urinary tract infections
+urinary tract infections	treated with	antibiotics
+contraceptives for topical use	not recommended for	frequent use
+frequent use	increases risk	vaginal irritation
+vaginal irritation	may lead to	STD transmission
+contraceptives for topical use	less expensive than	IUDs
+IUDs	provide long-term	contraception
+contraceptives for topical use	easy to	discontinue
+discontinuation	allows for	immediate fertility
+contraceptives for topical use	requires	reapplication
+reapplication	necessary for	repeated intercourse
+contraceptives for topical use	often used by	breastfeeding women
+breastfeeding women	avoid	hormonal contraception
+hormonal contraception	may affect	milk supply
+contraceptives for topical use	does not affect	breastfeeding
+contraceptives for topical use	suitable for	women with health conditions
+health conditions	may contraindicate	hormonal methods
+contraceptives for topical use	can be used by	menopausal women
+menopausal women	not at risk	pregnancy
+contraceptives for topical use	may reduce	sexual pleasure
+reduced pleasure	due to	texture or taste
+contraceptives for topical use	should be stored at	room temperature
+improper storage	reduces	effectiveness
+contraceptives for topical use	expiration date	affects potency
+expired products	should not be	used
+contraceptives for topical use	packaging includes	instructions
+instructions	important for	proper use
+contraceptives for topical use	may be messy
+messiness	can be	inconvenient
+contraceptives for topical use	requires	vaginal insertion
+vaginal insertion	may be	uncomfortable
+contraceptives for topical use	alternative to	oral contraceptives
+oral contraceptives	require	daily intake
+contraceptives for topical use	does not need	daily attention
+contraceptives for topical use	short-acting method
+short-acting methods	offer	flexibility
+contraceptives for topical use	can be	spermicide-only
+spermicide-only methods	less effective than	barrier methods
+barrier methods	include	condoms and diaphragms
+contraceptives for topical use	may interact with	vaginal medications
+vaginal medications	include	antifungal creams
+contraceptives for topical use	not suitable for	anal sex
+anal sex	requires	different protection
+contraceptives for topical use	may dry out
+drying out	reduces	effectiveness
+contraceptives for topical use	can be used	during menstruation
+menstruation	affects	vaginal environment
+contraceptives for topical use	popular among	occasional users
+occasional users	prefer	non-committal methods
+contraceptives for topical use	requires	vaginal access
+vaginal access	may be	culturally restricted
+contraceptives for topical use	not used in	some religions
+religious beliefs	affect	contraceptive choices
+contraceptives for topical use	developed in	20th century
+20th century	saw	contraceptive revolution
+contraceptives for topical use	subject to	regulations
+regulations	ensure	safety standards
+contraceptives for topical use	researched in	clinical trials
+clinical trials	test	efficacy and safety
+contraceptives for topical use	alternatives include	natural methods
+natural methods	rely on	fertility awareness

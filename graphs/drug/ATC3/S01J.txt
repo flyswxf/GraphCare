@@ -1,0 +1,114 @@
+diagnostic agents	include	ophthalmic agents
+ophthalmic agents	used for	eye examination
+eye examination	assesses	vision
+vision	affected by	refractive errors
+refractive errors	include	myopia
+ophthalmic agents	detect	cataracts
+cataracts	cause	blurred vision
+ophthalmic agents	measure	intraocular pressure
+intraocular pressure	linked to	glaucoma
+glaucoma	may lead	vision loss
+ophthalmic agents	contain	fluorescein
+fluorescein	stains	corneal defects
+corneal defects	caused by	trauma
+ophthalmic agents	identify	retinal diseases
+retinal diseases	include	macular degeneration
+macular degeneration	affects	central vision
+ophthalmic agents	use	tropicamide
+tropicamide	dilates	pupil
+pupil dilation	aids in	fundoscopy
+fundoscopy	examines	optic nerve
+optic nerve	transmits	visual signals
+ophthalmic agents	diagnose	dry eye
+dry eye	results from	tear deficiency
+tear deficiency	treated with	artificial tears
+ophthalmic agents	evaluate	conjunctivitis
+conjunctivitis	caused by	infections
+infections	treated with	antibiotics
+ophthalmic agents	test	color vision
+color vision	impaired in	color blindness
+color blindness	genetic	condition
+ophthalmic agents	assess	corneal thickness
+corneal thickness	indicator for	LASIK
+LASIK	corrects	refractive errors
+ophthalmic agents	visualize	retinal blood vessels
+retinal blood vessels	damaged in	diabetes
+diabetes	causes	retinopathy
+ophthalmic agents	detect	uveitis
+uveitis	involves	eye inflammation
+eye inflammation	treated with	steroids
+ophthalmic agents	measure	tear production
+tear production	reduced in	Sjögren syndrome
+Sjögren syndrome	autoimmune	disorder
+ophthalmic agents	screen	strabismus
+strabismus	misalignment	eyes
+eyes	controlled by	extraocular muscles
+ophthalmic agents	diagnose	keratitis
+keratitis	infection	cornea
+cornea	protects	anterior eye
+ophthalmic agents	monitor	optic disc
+optic disc	swelling indicates	papilledema
+papilledema	sign of	intracranial pressure
+intracranial pressure	increased in	hydrocephalus
+hydrocephalus	treated with	shunt
+ophthalmic agents	test	visual acuity
+visual acuity	measured with	Snellen chart
+Snellen chart	displays	letters
+ophthalmic agents	evaluate	eyelid disorders
+eyelid disorders	include	ptosis
+ptosis	drooping	eyelid
+ophthalmic agents	diagnose	scleritis
+scleritis	inflammation	sclera
+sclera	white part	eye
+ophthalmic agents	assess	vitreous humor
+vitreous humor	fills	posterior chamber
+posterior chamber	contains	retina
+ophthalmic agents	detect	choroidal nevi
+choroidal nevi	benign	tumors
+tumors	may become	malignant
+ophthalmic agents	identify	drusen
+drusen	deposits	retina
+retina	contains	photoreceptors
+photoreceptors	convert	light signals
+light signals	processed by	brain
+ophthalmic agents	screen	amblyopia
+amblyopia	lazy eye	condition
+condition	treated with	patching
+patching	improves	weak eye
+ophthalmic agents	measure	corneal curvature
+corneal curvature	determines	astigmatism
+astigmatism	corrected with	toric lenses
+toric lenses	specialized	contact lenses
+ophthalmic agents	diagnose	episcleritis
+episcleritis	mild	inflammation
+inflammation	relieved with	NSAIDs
+NSAIDs	reduce	pain
+ophthalmic agents	test	pupillary reflexes
+pupillary reflexes	assess	cranial nerves
+cranial nerves	control	eye movements
+eye movements	coordinated by	brainstem
+ophthalmic agents	detect	blepharitis
+blepharitis	infection	eyelids
+eyelids	protect	eyes
+ophthalmic agents	evaluate	tear film
+tear film	consists of	lipid layer
+lipid layer	prevents	evaporation
+ophthalmic agents	diagnose	pterygium
+pterygium	growth	conjunctiva
+conjunctiva	covers	sclera
+ophthalmic agents	assess	optic neuritis
+optic neuritis	inflammation	optic nerve
+optic nerve	connects	brain
+ophthalmic agents	detect	retinal detachment
+retinal detachment	emergency	condition
+condition	treated with	surgery
+ophthalmic agents	measure	corneal sensitivity
+corneal sensitivity	reduced in	neurotrophic keratitis
+neurotrophic keratitis	caused by	nerve damage
+nerve damage	results from	trauma
+ophthalmic agents	test	dark adaptation
+dark adaptation	impaired in	retinitis pigmentosa
+retinitis pigmentosa	genetic	disorder
+ophthalmic agents	diagnose	endophthalmitis
+endophthalmitis	severe	infection
+infection	requires	urgent treatment

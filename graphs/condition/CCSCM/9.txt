@@ -1,0 +1,100 @@
+sexually transmitted infections	include	chlamydia
+sexually transmitted infections	include	gonorrhea
+sexually transmitted infections	include	syphilis
+sexually transmitted infections	include	HIV
+sexually transmitted infections	include	herpes
+sexually transmitted infections	include	HPV
+sexually transmitted infections	are caused by	bacteria
+sexually transmitted infections	are caused by	viruses
+sexually transmitted infections	are caused by	parasites
+sexually transmitted infections	can lead to	infertility
+sexually transmitted infections	can lead to	pelvic inflammatory disease
+sexually transmitted infections	can lead to	cervical cancer
+sexually transmitted infections	can lead to	pregnancy complications
+sexually transmitted infections	can lead to	neonatal infections
+sexually transmitted infections	are diagnosed with	PCR tests
+sexually transmitted infections	are diagnosed with	blood tests
+sexually transmitted infections	are diagnosed with	urine tests
+sexually transmitted infections	are diagnosed with	swab tests
+sexually transmitted infections	are prevented by	condoms
+sexually transmitted infections	are prevented by	vaccination
+sexually transmitted infections	are prevented by	abstinence
+sexually transmitted infections	are treated with	antibiotics
+sexually transmitted infections	are treated with	antiviral drugs
+sexually transmitted infections	are treated with	antiparasitic drugs
+chlamydia	is caused by	Chlamydia trachomatis
+gonorrhea	is caused by	Neisseria gonorrhoeae
+syphilis	is caused by	Treponema pallidum
+HIV	is caused by	human immunodeficiency virus
+herpes	is caused by	herpes simplex virus
+HPV	is caused by	human papillomavirus
+chlamydia	can cause	urethritis
+gonorrhea	can cause	pelvic inflammatory disease
+syphilis	can cause	neurological damage
+HIV	can cause	AIDS
+herpes	can cause	genital ulcers
+HPV	can cause	warts
+pelvic inflammatory disease	can lead to	ectopic pregnancy
+pelvic inflammatory disease	can lead to	chronic pelvic pain
+AIDS	can lead to	opportunistic infections
+cervical cancer	is linked to	HPV
+condoms	reduce risk of	sexually transmitted infections
+vaccination	protects against	HPV
+vaccination	protects against	hepatitis B
+hepatitis B	is a	sexually transmitted infection
+trichomoniasis	is a	sexually transmitted infection
+trichomoniasis	is caused by	Trichomonas vaginalis
+antiretroviral therapy	treats	HIV
+acyclovir	treats	herpes
+azithromycin	treats	chlamydia
+ceftriaxone	treats	gonorrhea
+penicillin	treats	syphilis
+metronidazole	treats	trichomoniasis
+HIV	increases risk of	tuberculosis
+sexually transmitted infections	are associated with	high-risk sexual behavior
+high-risk sexual behavior	includes	unprotected sex
+high-risk sexual behavior	includes	multiple partners
+sexually transmitted infections	are screened for	prenatal care
+prenatal care	reduces risk of	neonatal infections
+hepatitis B	can cause	liver cancer
+hepatitis B	is prevented by	vaccination
+sexually transmitted infections	are reported to	public health agencies
+public health agencies	track	sexually transmitted infection outbreaks
+sexually transmitted infections	are more common in	young adults
+young adults	are targeted by	prevention campaigns
+prevention campaigns	promote	safe sex
+safe sex	includes	condom use
+safe sex	includes	regular testing
+regular testing	detects	sexually transmitted infections early
+early detection	improves	treatment outcomes
+treatment outcomes	depend on	adherence
+adherence	is challenging for	long-term therapies
+long-term therapies	are required for	HIV
+HIV	requires	lifelong treatment
+lifelong treatment	involves	antiretroviral therapy
+antiretroviral therapy	suppresses	viral load
+viral load suppression	reduces	transmission risk
+transmission risk	is lowered by	undetectable viral load
+undetectable viral load	is a goal of	HIV treatment
+HIV treatment	improves	life expectancy
+life expectancy	is reduced by	late diagnosis
+late diagnosis	is common in	asymptomatic infections
+asymptomatic infections	include	early HIV
+early HIV	is detected by	RNA testing
+RNA testing	is more sensitive than	antibody testing
+antibody testing	detects	HIV antibodies
+HIV antibodies	develop after	seroconversion
+seroconversion	occurs within	weeks of infection
+weeks of infection	are a high-risk period for	transmission
+transmission	can occur via	blood
+transmission	can occur via	semen
+transmission	can occur via	vaginal fluids
+vaginal fluids	contain	pathogens
+pathogens	cause	sexually transmitted infections
+sexually transmitted infections	are influenced by	socioeconomic factors
+socioeconomic factors	include	access to healthcare
+access to healthcare	affects	testing rates
+testing rates	impact	infection control
+infection control	relies on	education
+education	increases	awareness
+awareness	reduces	stigma

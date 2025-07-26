@@ -1,0 +1,100 @@
+cough suppressants and expectorants	is a	drug combination
+cough suppressants and expectorants	contains	dextromethorphan
+cough suppressants and expectorants	contains	guaifenesin
+cough suppressants and expectorants	treats	cough
+cough suppressants and expectorants	treats	chest congestion
+cough suppressants and expectorants	treats	common cold
+cough suppressants and expectorants	treats	bronchitis
+cough suppressants and expectorants	treats	respiratory infections
+dextromethorphan	is a	cough suppressant
+guaifenesin	is a	expectorant
+dextromethorphan	acts on	cough reflex
+guaifenesin	thins	mucus
+guaifenesin	loosens	phlegm
+drug combination	has	synergistic effect
+cough suppressants and expectorants	available as	syrup
+cough suppressants and expectorants	available as	tablet
+cough suppressants and expectorants	can cause	drowsiness
+dextromethorphan	can cause	dizziness
+guaifenesin	can cause	nausea
+cough suppressants and expectorants	interacts with	MAO inhibitors
+cough suppressants and expectorants	contraindicated in	asthma
+cough suppressants and expectorants	contraindicated in	COPD
+cough suppressants and expectorants	prescribed for	productive cough
+cough suppressants and expectorants	prescribed for	dry cough
+dextromethorphan	affects	central nervous system
+guaifenesin	increases	airway secretions
+cough suppressants and expectorants	has	brand names
+cough suppressants and expectorants	requires	prescription
+cough suppressants and expectorants	available as	OTC
+cough suppressants and expectorants	metabolized in	liver
+cough suppressants and expectorants	excreted via	kidneys
+cough suppressants and expectorants	has	dosing schedule
+cough suppressants and expectorants	not recommended for	children
+cough suppressants and expectorants	interacts with	alcohol
+cough suppressants and expectorants	affects	driving ability
+cough suppressants and expectorants	monitored by	healthcare provider
+cough suppressants and expectorants	has	therapeutic index
+cough suppressants and expectorants	has	half-life
+cough suppressants and expectorants	stored at	room temperature
+cough suppressants and expectorants	manufactured by	pharmaceutical companies
+cough suppressants and expectorants	tested in	clinical trials
+cough suppressants and expectorants	approved by	FDA
+cough suppressants and expectorants	has	chemical structure
+cough suppressants and expectorants	has	molecular weight
+cough suppressants and expectorants	contains	inactive ingredients
+cough suppressants and expectorants	may contain	dyes
+cough suppressants and expectorants	may contain	preservatives
+cough suppressants and expectorants	has	expiration date
+cough suppressants and expectorants	requires	proper storage
+cough suppressants and expectorants	dispensed in	pharmacies
+cough suppressants and expectorants	packaged in	bottles
+cough suppressants and expectorants	measured in	milliliters
+cough suppressants and expectorants	has	flavorings
+cough suppressants and expectorants	has	sweeteners
+cough suppressants and expectorants	affects	taste buds
+cough suppressants and expectorants	evaluated in	pharmacovigilance
+cough suppressants and expectorants	reported in	adverse events
+cough suppressants and expectorants	studied in	pharmacokinetics
+cough suppressants and expectorants	studied in	pharmacodynamics
+cough suppressants and expectorants	has	absorption rate
+cough suppressants and expectorants	has	distribution volume
+cough suppressants and expectorants	binds to	plasma proteins
+cough suppressants and expectorants	crosses	blood-brain barrier
+cough suppressants and expectorants	acts on	opioid receptors
+cough suppressants and expectorants	modulates	cough center
+cough suppressants and expectorants	stimulates	mucus production
+cough suppressants and expectorants	enhances	ciliary action
+cough suppressants and expectorants	reduces	cough frequency
+cough suppressants and expectorants	improves	sleep quality
+cough suppressants and expectorants	prevents	sleep disturbance
+cough suppressants and expectorants	alleviates	throat irritation
+cough suppressants and expectorants	soothes	bronchial tubes
+cough suppressants and expectorants	decreases	mucus viscosity
+cough suppressants and expectorants	increases	cough productivity
+cough suppressants and expectorants	recommended for	upper respiratory infections
+cough suppressants and expectorants	prescribed with	antibiotics
+cough suppressants and expectorants	prescribed with	antihistamines
+cough suppressants and expectorants	prescribed with	decongestants
+cough suppressants and expectorants	used in	palliative care
+cough suppressants and expectorants	used in	post-operative care
+cough suppressants and expectorants	monitored for	abuse potential
+cough suppressants and expectorants	restricted in	some countries
+cough suppressants and expectorants	has	patent protection
+cough suppressants and expectorants	has	generic versions
+cough suppressants and expectorants	compared to	placebo
+cough suppressants and expectorants	evaluated in	meta-analyses
+cough suppressants and expectorants	reviewed in	medical literature
+cough suppressants and expectorants	taught in	pharmacology courses
+cough suppressants and expectorants	included in	treatment guidelines
+cough suppressants and expectorants	recommended by	healthcare professionals
+cough suppressants and expectorants	purchased by	patients
+cough suppressants and expectorants	reimbursed by	insurance
+cough suppressants and expectorants	tracked in	prescription databases
+cough suppressants and expectorants	analyzed in	market research
+cough suppressants and expectorants	regulated by	health authorities
+cough suppressants and expectorants	has	quality standards
+cough suppressants and expectorants	undergoes	stability testing
+cough suppressants and expectorants	has	manufacturing process
+cough suppressants and expectorants	distributed through	supply chain
+cough suppressants and expectorants	consumed by	population

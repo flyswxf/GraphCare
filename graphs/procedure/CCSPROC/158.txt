@@ -1,0 +1,100 @@
+spinal fusion	is a	surgery
+spinal fusion	treats	spinal instability
+spinal fusion	treats	degenerative disc disease
+spinal fusion	treats	scoliosis
+spinal fusion	treats	spondylolisthesis
+spinal fusion	treats	spinal fracture
+spinal fusion	treats	herniated disc
+spinal fusion	involves	vertebrae
+spinal fusion	uses	bone graft
+bone graft	promotes	bone growth
+spinal fusion	may require	spinal instrumentation
+spinal instrumentation	includes	rods
+spinal instrumentation	includes	screws
+spinal instrumentation	includes	plates
+spinal fusion	has risk	infection
+spinal fusion	has risk	bleeding
+spinal fusion	has risk	nerve damage
+spinal fusion	requires	general anesthesia
+general anesthesia	has risk	complications
+spinal fusion	followed by	physical therapy
+physical therapy	improves	mobility
+spinal fusion	has alternative	disc replacement
+spinal fusion	has recovery time	months
+spinal fusion	may cause	adjacent segment disease
+adjacent segment disease	requires	additional surgery
+spinal fusion	performed by	orthopedic surgeon
+spinal fusion	performed by	neurosurgeon
+spinal fusion	requires	preoperative imaging
+preoperative imaging	includes	MRI
+preoperative imaging	includes	X-ray
+spinal fusion	may use	minimally invasive technique
+minimally invasive technique	reduces	recovery time
+spinal fusion	may lead	chronic pain
+spinal fusion	can improve	quality of life
+spinal fusion	may require	postoperative bracing
+postoperative bracing	supports	spine
+spinal fusion	has success rate	variable
+spinal fusion	influenced by	patient age
+spinal fusion	influenced by	smoking status
+smoking	delays	bone healing
+spinal fusion	may require	blood transfusion
+blood transfusion	carries risk	infection
+spinal fusion	contraindicated in	osteoporosis
+osteoporosis	weakens	bones
+spinal fusion	may involve	interbody fusion
+interbody fusion	uses	cage
+cage	made of	titanium
+cage	made of	PEEK
+spinal fusion	classified as	elective surgery
+spinal fusion	may be	multilevel
+multilevel fusion	increases	complication risk
+spinal fusion	may cause	pseudarthrosis
+pseudarthrosis	is	nonunion
+spinal fusion	requires	hospital stay
+hospital stay	duration	varies
+spinal fusion	may lead	reduced flexibility
+spinal fusion	may require	pain management
+pain management	includes	opioids
+opioids	risk	addiction
+pain management	includes	NSAIDs
+NSAIDs	may affect	bone healing
+spinal fusion	may require	postoperative antibiotics
+antibiotics	prevent	infection
+spinal fusion	may involve	decompression
+decompression	relieves	nerve pressure
+spinal fusion	may use	autograft
+autograft	harvested from	iliac crest
+autograft	avoids	rejection
+spinal fusion	may use	allograft
+allograft	comes from	donor
+allograft	risk	disease transmission
+spinal fusion	may involve	osteotomy
+osteotomy	corrects	deformity
+spinal fusion	may require	intraoperative monitoring
+intraoperative monitoring	prevents	nerve injury
+spinal fusion	may cause	hardware failure
+hardware failure	requires	revision surgery
+spinal fusion	may lead	muscle atrophy
+muscle atrophy	affects	recovery
+spinal fusion	may cause	dural tear
+dural tear	leads	CSF leak
+spinal fusion	may trigger	chronic inflammation
+chronic inflammation	delays	healing
+spinal fusion	may use	BMP
+BMP	stimulates	bone growth
+BMP	risk	complications
+spinal fusion	may involve	facetectomy
+facetectomy	removes	facet joint
+spinal fusion	may affect	posture
+spinal fusion	may require	lifestyle changes
+lifestyle changes	include	weight management
+weight management	reduces	spinal load
+spinal fusion	may benefit	exercise
+exercise	strengthens	core muscles
+spinal fusion	may require	psychological support
+psychological support	helps	coping
+spinal fusion	may involve	insurance approval
+insurance approval	depends on	medical necessity
+spinal fusion	research focuses on	biologics
+biologics	enhance	fusion rates

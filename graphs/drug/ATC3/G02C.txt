@@ -1,0 +1,136 @@
+other gynecologicals in ATC	is a	drug category
+other gynecologicals in ATC	includes	vaginal preparations
+vaginal preparations	contain	antifungal agents
+antifungal agents	treat	vaginal candidiasis
+other gynecologicals in ATC	includes	uterine relaxants
+uterine relaxants	prevent	preterm labor
+preterm labor	increases risk of	neonatal complications
+other gynecologicals in ATC	includes	hormonal contraceptives
+hormonal contraceptives	contain	progestins
+progestins	prevent	ovulation
+other gynecologicals in ATC	includes	estrogen preparations
+estrogen preparations	treat	menopausal symptoms
+menopausal symptoms	include	hot flashes
+other gynecologicals in ATC	includes	ovulation stimulants
+ovulation stimulants	induce	follicular growth
+follicular growth	leads to	ovulation
+other gynecologicals in ATC	includes	prostaglandins
+prostaglandins	induce	uterine contractions
+uterine contractions	facilitate	labor induction
+other gynecologicals in ATC	includes	antiseptics
+antiseptics	prevent	infections
+infections	cause	inflammation
+other gynecologicals in ATC	includes	lubricants
+lubricants	reduce	vaginal dryness
+vaginal dryness	causes	discomfort
+other gynecologicals in ATC	includes	spermicides
+spermicides	prevent	pregnancy
+pregnancy	results in	childbirth
+other gynecologicals in ATC	includes	hormone replacement therapy
+hormone replacement therapy	alleviates	osteoporosis
+osteoporosis	increases risk of	fractures
+other gynecologicals in ATC	includes	progesterone
+progesterone	maintains	pregnancy
+pregnancy	requires	prenatal care
+other gynecologicals in ATC	includes	clomiphene
+clomiphene	treats	infertility
+infertility	affects	conception
+other gynecologicals in ATC	includes	mifepristone
+mifepristone	induces	medical abortion
+medical abortion	terminates	pregnancy
+other gynecologicals in ATC	includes	misoprostol
+misoprostol	softens	cervix
+cervix	dilates during	labor
+other gynecologicals in ATC	includes	danazol
+danazol	treats	endometriosis
+endometriosis	causes	pelvic pain
+other gynecologicals in ATC	includes	letrozole
+letrozole	inhibits	estrogen production
+estrogen production	stimulates	breast cancer growth
+other gynecologicals in ATC	includes	gonadotropins
+gonadotropins	stimulate	ovarian follicles
+ovarian follicles	produce	estrogen
+other gynecologicals in ATC	includes	bromocriptine
+bromocriptine	treats	hyperprolactinemia
+hyperprolactinemia	causes	galactorrhea
+other gynecologicals in ATC	includes	tamoxifen
+tamoxifen	blocks	estrogen receptors
+estrogen receptors	promote	tumor growth
+other gynecologicals in ATC	includes	raloxifene
+raloxifene	mimics	estrogen effects
+estrogen effects	protect	bone density
+other gynecologicals in ATC	includes	tibolone
+tibolone	combines	estrogen and progestogen
+estrogen and progestogen	regulate	menstrual cycle
+other gynecologicals in ATC	includes	oxytocin
+oxytocin	induces	labor
+labor	results in	delivery
+other gynecologicals in ATC	includes	ergometrine
+ergometrine	controls	postpartum hemorrhage
+postpartum hemorrhage	threatens	maternal health
+other gynecologicals in ATC	includes	dinoprostone
+dinoprostone	ripens	cervix
+cervix ripening	facilitates	labor
+other gynecologicals in ATC	includes	gestrinone
+gestrinone	suppresses	endometrium
+endometrium	thickens during	menstrual cycle
+other gynecologicals in ATC	includes	norethisterone
+norethisterone	treats	abnormal uterine bleeding
+abnormal uterine bleeding	indicates	hormonal imbalance
+other gynecologicals in ATC	includes	medroxyprogesterone
+medroxyprogesterone	prevents	endometrial hyperplasia
+endometrial hyperplasia	risks	uterine cancer
+other gynecologicals in ATC	includes	megestrol
+megestrol	stimulates	appetite
+appetite stimulation	aids	cachexia management
+other gynecologicals in ATC	includes	ulipristal
+ulipristal	acts as	emergency contraceptive
+emergency contraceptive	prevents	implantation
+other gynecologicals in ATC	includes	follitropin
+follitropin	promotes	follicle development
+follicle development	requires	FSH
+other gynecologicals in ATC	includes	cetrorelix
+cetrorelix	inhibits	LH surge
+LH surge	triggers	ovulation
+other gynecologicals in ATC	includes	ganirelix
+ganirelix	delays	ovulation
+ovulation delay	prevents	premature LH surge
+other gynecologicals in ATC	includes	leuprorelin
+leuprorelin	suppresses	gonadotropins
+gonadotropins	regulate	reproductive hormones
+other gynecologicals in ATC	includes	triptorelin
+triptorelin	treats	prostate cancer
+prostate cancer	affects	male patients
+other gynecologicals in ATC	includes	buserelin
+buserelin	manages	endometriosis
+endometriosis	involves	ectopic tissue
+other gynecologicals in ATC	includes	nafarelin
+nafarelin	induces	medical castration
+medical castration	reduces	testosterone levels
+other gynecologicals in ATC	includes	goserelin
+goserelin	treats	breast cancer
+breast cancer	metastasizes to	bones
+other gynecologicals in ATC	includes	histrelin
+histrelin	controls	precocious puberty
+precocious puberty	causes	early development
+other gynecologicals in ATC	includes	deslorelin
+deslorelin	regulates	fertility
+fertility	depends on	hormone balance
+other gynecologicals in ATC	includes	corifollitropin
+corifollitropin	sustains	follicular growth
+follicular growth	requires	FSH activity
+other gynecologicals in ATC	includes	menotropins
+menotropins	combine	FSH and LH
+FSH and LH	regulate	ovulation
+other gynecologicals in ATC	includes	urofollitropin
+urofollitropin	contains	purified FSH
+purified FSH	stimulates	ovaries
+other gynecologicals in ATC	includes	chorionic gonadotropin
+chorionic gonadotropin	maintains	corpus luteum
+corpus luteum	produces	progesterone
+other gynecologicals in ATC	includes	lutropin
+lutropin	complements	FSH therapy
+FSH therapy	aids	folliculogenesis
+other gynecologicals in ATC	includes	recombinant LH
+recombinant LH	triggers	final follicular maturation
+final follicular maturation	precedes	ovulation

@@ -1,0 +1,100 @@
+thyroid diagnostic radiopharmaceuticals	is a	diagnostic tool
+thyroid diagnostic radiopharmaceuticals	used for	thyroid imaging
+thyroid diagnostic radiopharmaceuticals	contains	radioactive isotopes
+radioactive isotopes	emit	gamma rays
+gamma rays	detected by	gamma camera
+thyroid diagnostic radiopharmaceuticals	administered via	intravenous injection
+intravenous injection	requires	sterile technique
+thyroid diagnostic radiopharmaceuticals	evaluates	thyroid function
+thyroid function	assessed by	uptake measurement
+uptake measurement	indicates	hyperthyroidism
+uptake measurement	indicates	hypothyroidism
+hyperthyroidism	treated with	antithyroid drugs
+hypothyroidism	treated with	levothyroxine
+thyroid diagnostic radiopharmaceuticals	includes	technetium-99m
+technetium-99m	decays to	technetium-99
+technetium-99m	has half-life	6 hours
+thyroid diagnostic radiopharmaceuticals	includes	iodine-123
+iodine-123	decays to	tellurium-123
+iodine-123	has half-life	13 hours
+iodine-123	preferred for	thyroid scans
+technetium-99m	preferred for	thyroid uptake tests
+thyroid scans	visualize	thyroid nodules
+thyroid nodules	may be	benign
+thyroid nodules	may be	malignant
+malignant nodules	require	biopsy
+biopsy	confirms	thyroid cancer
+thyroid cancer	treated with	surgery
+surgery	may involve	thyroidectomy
+thyroidectomy	requires	hormone replacement
+hormone replacement	uses	levothyroxine
+thyroid diagnostic radiopharmaceuticals	contraindicated in	pregnancy
+pregnancy	alters	thyroid function
+thyroid diagnostic radiopharmaceuticals	requires	patient preparation
+patient preparation	includes	fasting
+patient preparation	includes	avoiding iodine-rich foods
+iodine-rich foods	include	seafood
+iodine-rich foods	include	dairy products
+thyroid diagnostic radiopharmaceuticals	interacts with	thyroid medications
+thyroid medications	include	levothyroxine
+levothyroxine	suppresses	TSH levels
+TSH levels	regulated by	pituitary gland
+pituitary gland	secretes	TSH
+TSH	stimulates	thyroid hormone production
+thyroid hormone production	requires	iodine
+iodine	obtained from	diet
+iodine deficiency	causes	goiter
+goiter	treated with	iodine supplementation
+thyroid diagnostic radiopharmaceuticals	used in	Graves disease diagnosis
+Graves disease	is a	autoimmune disorder
+autoimmune disorder	involves	antibody production
+antibody production	targets	TSH receptor
+TSH receptor	stimulates	thyroid growth
+thyroid growth	leads to	hyperthyroidism
+hyperthyroidism	causes	weight loss
+weight loss	may result from	increased metabolism
+increased metabolism	caused by	excess thyroid hormones
+excess thyroid hormones	lead to	tachycardia
+tachycardia	treated with	beta blockers
+beta blockers	reduce	heart rate
+heart rate	monitored by	ECG
+thyroid diagnostic radiopharmaceuticals	used in	thyroiditis evaluation
+thyroiditis	is a	thyroid inflammation
+thyroid inflammation	causes	thyroid pain
+thyroid pain	treated with	NSAIDs
+NSAIDs	reduce	inflammation
+inflammation	involves	cytokine release
+cytokine release	triggers	immune response
+immune response	involves	white blood cells
+white blood cells	include	lymphocytes
+lymphocytes	produce	antibodies
+thyroid diagnostic radiopharmaceuticals	requires	radiation safety
+radiation safety	involves	shielding
+shielding	uses	lead aprons
+lead aprons	protect from	gamma rays
+gamma rays	pose risk of	radiation exposure
+radiation exposure	increases	cancer risk
+cancer risk	reduced by	ALARA principle
+ALARA principle	stands for	As Low As Reasonably Achievable
+thyroid diagnostic radiopharmaceuticals	stored in	lead containers
+lead containers	prevent	radiation leakage
+radiation leakage	hazardous to	healthcare workers
+healthcare workers	monitored with	dosimeters
+dosimeters	measure	radiation dose
+radiation dose	limited by	regulatory guidelines
+regulatory guidelines	set by	NRC
+NRC	oversees	nuclear medicine
+nuclear medicine	includes	PET scans
+PET scans	use	positron emitters
+positron emitters	include	fluorine-18
+fluorine-18	used in	FDG-PET
+FDG-PET	detects	cancer metastases
+cancer metastases	indicate	advanced disease
+advanced disease	requires	chemotherapy
+chemotherapy	targets	rapidly dividing cells
+rapidly dividing cells	include	cancer cells
+cancer cells	characterized by	uncontrolled growth
+uncontrolled growth	results from	mutations
+mutations	caused by	carcinogens
+carcinogens	include	radiation
+radiation	used in	cancer treatment

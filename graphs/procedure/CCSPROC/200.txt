@@ -1,0 +1,100 @@
+nonoperative urinary system measurements	is a	diagnostic method
+nonoperative urinary system measurements	assesses	kidney function
+nonoperative urinary system measurements	evaluates	bladder function
+urinalysis	is a type of	nonoperative urinary system measurements
+urine culture	is a type of	nonoperative urinary system measurements
+24-hour urine collection	is a type of	nonoperative urinary system measurements
+uroflowmetry	is a type of	nonoperative urinary system measurements
+post-void residual measurement	is a type of	nonoperative urinary system measurements
+urinalysis	detects	urinary tract infections
+urinalysis	identifies	proteinuria
+urinalysis	measures	urine pH
+urinalysis	detects	hematuria
+urine culture	identifies	bacterial infections
+urine culture	determines	antibiotic sensitivity
+24-hour urine collection	measures	creatinine clearance
+24-hour urine collection	quantifies	protein excretion
+24-hour urine collection	evaluates	kidney stone risk
+uroflowmetry	assesses	urinary flow rate
+uroflowmetry	diagnoses	bladder outlet obstruction
+uroflowmetry	evaluates	prostate enlargement
+post-void residual measurement	assesses	bladder emptying
+post-void residual measurement	detects	urinary retention
+post-void residual measurement	indicates	neurological dysfunction
+nonoperative urinary system measurements	helps diagnose	chronic kidney disease
+nonoperative urinary system measurements	monitors	diabetes complications
+nonoperative urinary system measurements	screens for	hypertension effects
+nonoperative urinary system measurements	tracks	urinary incontinence
+nonoperative urinary system measurements	evaluates	pregnancy-related changes
+nonoperative urinary system measurements	assesses	elderly urinary function
+nonoperative urinary system measurements	detects	congenital abnormalities
+urinary dipstick test	is a type of	nonoperative urinary system measurements
+urinary dipstick test	detects	glucose
+urinary dipstick test	identifies	ketones
+urinary dipstick test	measures	specific gravity
+urinary dipstick test	screens for	bilirubin
+urine cytology	is a type of	nonoperative urinary system measurements
+urine cytology	detects	cancer cells
+urine cytology	monitors	bladder cancer
+urine sodium test	is a type of	nonoperative urinary system measurements
+urine sodium test	evaluates	hydration status
+urine sodium test	assesses	kidney function
+urine osmolality test	is a type of	nonoperative urinary system measurements
+urine osmolality test	measures	urine concentration
+urine osmolality test	evaluates	kidney concentrating ability
+urine albumin-to-creatinine ratio	is a type of	nonoperative urinary system measurements
+urine albumin-to-creatinine ratio	detects	early kidney damage
+urine albumin-to-creatinine ratio	monitors	diabetic nephropathy
+bladder diary	is a type of	nonoperative urinary system measurements
+bladder diary	tracks	urinary frequency
+bladder diary	records	fluid intake
+bladder diary	monitors	incontinence episodes
+pad test	is a type of	nonoperative urinary system measurements
+pad test	quantifies	urine leakage
+pad test	evaluates	treatment effectiveness
+cystometric test	is a type of	nonoperative urinary system measurements
+cystometric test	measures	bladder pressure
+cystometric test	assesses	bladder capacity
+cystometric test	diagnoses	overactive bladder
+nonoperative urinary system measurements	contraindicates	contrast imaging
+nonoperative urinary system measurements	precedes	surgical interventions
+nonoperative urinary system measurements	guides	medication adjustments
+nonoperative urinary system measurements	reduces	hospital readmissions
+nonoperative urinary system measurements	predicts	renal failure risk
+nonoperative urinary system measurements	correlates with	cardiovascular disease
+nonoperative urinary system measurements	indicates	dehydration
+nonoperative urinary system measurements	reveals	medication side effects
+nonoperative urinary system measurements	detects	pregnancy complications
+nonoperative urinary system measurements	screens for	metabolic disorders
+nonoperative urinary system measurements	monitors	chemotherapy effects
+nonoperative urinary system measurements	evaluates	transplant rejection
+urine protein electrophoresis	is a type of	nonoperative urinary system measurements
+urine protein electrophoresis	detects	multiple myeloma
+urine protein electrophoresis	identifies	protein abnormalities
+urine drug screen	is a type of	nonoperative urinary system measurements
+urine drug screen	detects	substance abuse
+urine drug screen	monitors	medication compliance
+urine pregnancy test	is a type of	nonoperative urinary system measurements
+urine pregnancy test	detects	hCG
+urine pregnancy test	confirms	early pregnancy
+urine electrolyte test	is a type of	nonoperative urinary system measurements
+urine electrolyte test	measures	potassium levels
+urine electrolyte test	assesses	acid-base balance
+urine calcium test	is a type of	nonoperative urinary system measurements
+urine calcium test	evaluates	hypercalciuria
+urine calcium test	monitors	bone metabolism
+urine urea nitrogen test	is a type of	nonoperative urinary system measurements
+urine urea nitrogen test	assesses	protein metabolism
+urine urea nitrogen test	correlates with	kidney function
+urine catecholamines test	is a type of	nonoperative urinary system measurements
+urine catecholamines test	diagnoses	pheochromocytoma
+urine catecholamines test	evaluates	hypertension causes
+urine porphyrins test	is a type of	nonoperative urinary system measurements
+urine porphyrins test	detects	porphyria
+urine porphyrins test	identifies	liver dysfunction
+urine myoglobin test	is a type of	nonoperative urinary system measurements
+urine myoglobin test	indicates	muscle damage
+urine myoglobin test	diagnoses	rhabdomyolysis
+urine oxalate test	is a type of	nonoperative urinary system measurements
+urine oxalate test	evaluates	kidney stone risk
+urine oxalate test	monitors	dietary interventions

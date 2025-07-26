@@ -1,0 +1,100 @@
+aortic and peripheral arterial embolism or thrombosis	is a	vascular disorder
+aortic and peripheral arterial embolism or thrombosis	may cause	limb ischemia
+aortic and peripheral arterial embolism or thrombosis	is treated with	anticoagulants
+aortic and peripheral arterial embolism or thrombosis	may lead to	tissue necrosis
+aortic and peripheral arterial embolism or thrombosis	is diagnosed by	Doppler ultrasound
+aortic and peripheral arterial embolism or thrombosis	is associated with	atrial fibrillation
+aortic and peripheral arterial embolism or thrombosis	may require	thrombectomy
+aortic and peripheral arterial embolism or thrombosis	is a complication of	atherosclerosis
+aortic and peripheral arterial embolism or thrombosis	is managed with	heparin
+aortic and peripheral arterial embolism or thrombosis	increases risk of	amputation
+anticoagulants	prevent	blood clots
+heparin	is a	anticoagulant
+warfarin	is a	anticoagulant
+DOACs	are	anticoagulants
+Doppler ultrasound	detects	blood flow obstruction
+limb ischemia	may result in	gangrene
+tissue necrosis	requires	debridement
+atrial fibrillation	increases risk of	embolism
+thrombectomy	removes	blood clots
+atherosclerosis	causes	arterial narrowing
+arterial narrowing	predisposes to	thrombosis
+amputation	is a treatment for	gangrene
+blood clots	can occlude	arteries
+embolism	is a	traveling blood clot
+thrombosis	is a	stationary blood clot
+vascular disorder	affects	circulation
+circulation impairment	causes	pain
+pain	is a symptom of	limb ischemia
+debridement	removes	dead tissue
+gangrene	is caused by	oxygen deprivation
+oxygen deprivation	results from	artery blockage
+artery blockage	is seen in	aortic thrombosis
+aortic thrombosis	is a type of	arterial thrombosis
+peripheral arterial thrombosis	affects	limbs
+limbs	are supplied by	peripheral arteries
+peripheral arteries	can develop	plaques
+plaques	consist of	cholesterol
+cholesterol	contributes to	atherosclerosis
+atherosclerosis	is a	chronic condition
+chronic condition	requires	long-term management
+long-term management	includes	medication
+medication	aims to	prevent complications
+complications	include	stroke
+stroke	can result from	cerebral embolism
+cerebral embolism	originates from	aortic arch
+aortic arch	is a site for	thrombus formation
+thrombus formation	is triggered by	endothelial injury
+endothelial injury	is caused by	hypertension
+hypertension	is a risk factor for	atherosclerosis
+risk factors	include	diabetes
+diabetes	accelerates	vascular damage
+vascular damage	promotes	clot formation
+clot formation	is regulated by	coagulation factors
+coagulation factors	are targeted by	anticoagulants
+anticoagulants	have side effects like	bleeding
+bleeding	is a complication of	over-anticoagulation
+over-anticoagulation	is monitored by	INR
+INR	measures	blood clotting time
+blood clotting time	is prolonged by	warfarin
+warfarin	requires	dietary restrictions
+dietary restrictions	involve	vitamin K
+vitamin K	affects	clotting factors
+clotting factors	are produced in	liver
+liver disease	impairs	clotting factor production
+clotting factor deficiency	increases	bleeding risk
+bleeding risk	is assessed by	bleeding scores
+bleeding scores	guide	treatment decisions
+treatment decisions	consider	patient comorbidities
+patient comorbidities	include	heart disease
+heart disease	is linked to	arterial embolism
+arterial embolism	can originate from	heart valves
+heart valves	can develop	vegetations
+vegetations	are seen in	endocarditis
+endocarditis	is an infection of	heart lining
+heart lining	can harbor	bacteria
+bacteria	cause	infective endocarditis
+infective endocarditis	leads to	septic embolism
+septic embolism	causes	infected infarcts
+infected infarcts	require	antibiotics
+antibiotics	treat	bacterial infections
+bacterial infections	can complicate	vascular procedures
+vascular procedures	include	angioplasty
+angioplasty	opens	blocked arteries
+blocked arteries	may need	stents
+stents	maintain	artery patency
+artery patency	prevents	re-thrombosis
+re-thrombosis	is reduced by	antiplatelets
+antiplatelets	include	aspirin
+aspirin	inhibits	platelet aggregation
+platelet aggregation	forms	clots
+clots	are dissolved by	thrombolytics
+thrombolytics	are used in	acute thrombosis
+acute thrombosis	presents with	sudden pain
+sudden pain	prompts	emergency care
+emergency care	involves	vascular imaging
+vascular imaging	includes	CT angiography
+CT angiography	visualizes	arterial blockages
+arterial blockages	determine	treatment approach
+treatment approach	combines	medication and procedures
+medication and procedures	aim to	restore blood flow

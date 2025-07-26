@@ -1,0 +1,100 @@
+drowning	is classified by	E codes
+drowning	is cause of	mortality
+drowning	requires	resuscitation
+drowning	leads to	hypoxia
+hypoxia	causes	brain damage
+brain damage	requires	rehabilitation
+rehabilitation	involves	physical therapy
+drowning	associated with	swimming pools
+swimming pools	require	safety measures
+safety measures	prevent	drowning
+drowning	occurs in	bathtubs
+bathtubs	need	supervision
+supervision	reduces	child drowning
+child drowning	indicates	neglect
+neglect	leads to	legal consequences
+drowning	causes	pulmonary edema
+pulmonary edema	treated with	diuretics
+furosemide	is a	diuretic
+drowning	results in	respiratory arrest
+respiratory arrest	requires	CPR
+CPR	uses	defibrillator
+defibrillator	delivers	electric shock
+electric shock	restores	heart rhythm
+drowning	leads to	electrolyte imbalance
+electrolyte imbalance	corrected by	IV fluids
+IV fluids	contain	sodium chloride
+drowning	affects	body temperature
+hypothermia	occurs after	cold water drowning
+hypothermia	treated with	warming blankets
+drowning	associated with	alcohol use
+alcohol use	impairs	judgment
+impaired judgment	increases	drowning risk
+drowning	requires	emergency response
+emergency response	involves	paramedics
+paramedics	perform	intubation
+intubation	maintains	airway
+airway	ensures	oxygenation
+oxygenation	prevents	organ failure
+organ failure	leads to	ICU admission
+ICU admission	requires	mechanical ventilation
+mechanical ventilation	supports	breathing
+drowning	causes	aspiration
+aspiration	leads to	pneumonia
+pneumonia	treated with	antibiotics
+antibiotics	combat	infection
+drowning	affects	neurological function
+neurological function	assessed by	Glasgow Coma Scale
+Glasgow Coma Scale	measures	consciousness
+consciousness	indicates	prognosis
+prognosis	guides	treatment plan
+drowning	occurs during	boating
+boating	requires	life jackets
+life jackets	prevent	submersion
+submersion	causes	asphyxia
+asphyxia	leads to	cardiac arrest
+cardiac arrest	treated with	epinephrine
+epinephrine	stimulates	heart
+drowning	related to	epilepsy
+epilepsy	causes	seizures
+seizures	increase	drowning risk
+drowning	documented in	medical records
+medical records	used for	research
+research	improves	prevention strategies
+prevention strategies	include	swimming lessons
+swimming lessons	reduce	drowning incidents
+drowning	associated with	flooding
+flooding	creates	hazardous conditions
+hazardous conditions	increase	rescue operations
+rescue operations	involve	divers
+divers	perform	underwater search
+drowning	causes	metabolic acidosis
+metabolic acidosis	corrected by	bicarbonate
+bicarbonate	neutralizes	acid
+drowning	leads to	multi-organ dysfunction
+multi-organ dysfunction	requires	ECMO
+ECMO	supports	circulation
+circulation	delivers	oxygen
+drowning	occurs in	lakes
+lakes	have	unpredictable currents
+unpredictable currents	cause	panic
+panic	worsens	drowning situation
+drowning	related to	suicide attempts
+suicide attempts	require	psychiatric evaluation
+psychiatric evaluation	assesses	mental health
+mental health	affects	recovery
+drowning	treated in	emergency department
+emergency department	staffed by	physicians
+physicians	order	diagnostic tests
+diagnostic tests	include	chest X-ray
+chest X-ray	detects	water inhalation
+drowning	prevents	oxygen exchange
+oxygen exchange	occurs in	alveoli
+alveoli	damaged by	water
+water	disrupts	surfactant
+surfactant	maintains	lung function
+drowning	common in	toddlers
+toddlers	need	constant supervision
+constant supervision	prevents	accidents
+accidents	documented in	E codes
+E codes	help track	drowning statistics

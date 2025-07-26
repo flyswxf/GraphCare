@@ -1,0 +1,114 @@
+iv solution additives	is a	medical component
+iv solution additives	includes	electrolytes
+electrolytes	contain	sodium chloride
+iv solution additives	includes	vitamins
+vitamins	include	vitamin B complex
+iv solution additives	includes	medications
+medications	can be	antibiotics
+antibiotics	treat	bacterial infections
+iv solution additives	affects	fluid balance
+fluid balance	influences	blood pressure
+iv solution additives	requires	sterility
+sterility	prevents	infections
+iv solution additives	used in	hospitals
+hospitals	utilize	IV pumps
+IV pumps	regulate	infusion rate
+iv solution additives	interacts with	patient metabolism
+patient metabolism	affects	drug efficacy
+iv solution additives	may cause	allergic reactions
+allergic reactions	can lead	anaphylaxis
+iv solution additives	monitored by	nurses
+nurses	assess	patient response
+iv solution additives	requires	compatibility testing
+compatibility testing	prevents	precipitation
+precipitation	can cause	embolism
+iv solution additives	stored in	pharmacy
+pharmacy	follows	USP guidelines
+iv solution additives	varies by	patient weight
+patient weight	determines	dosage
+iv solution additives	administered via	catheter
+catheter	can cause	phlebitis
+phlebitis	requires	treatment
+iv solution additives	can alter	lab results
+lab results	guide	treatment adjustments
+iv solution additives	may contain	preservatives
+preservatives	can trigger	toxicity
+toxicity	managed with	antidotes
+iv solution additives	used for	hydration
+hydration	improves	kidney function
+iv solution additives	avoids	particulates
+particulates	filtered by	inline filters
+iv solution additives	has	expiration date
+expiration date	ensures	potency
+iv solution additives	prepared in	laminar flow hood
+laminar flow hood	maintains	sterile field
+iv solution additives	labeled with	patient ID
+patient ID	prevents	medication errors
+iv solution additives	requires	physician order
+physician order	specifies	infusion duration
+infusion duration	affects	nursing schedule
+iv solution additives	can lead	electrolyte imbalance
+electrolyte imbalance	causes	arrhythmias
+arrhythmias	treated with	antiarrhythmics
+iv solution additives	contraindicated in	renal failure
+renal failure	requires	dose adjustment
+iv solution additives	may need	warming
+warming	prevents	hypothermia
+hypothermia	affects	coagulation
+iv solution additives	tracked in	EMR
+EMR	contains	administration records
+iv solution additives	follows	institutional protocols
+institutional protocols	ensure	standardization
+iv solution additives	requires	aseptic technique
+aseptic technique	minimizes	contamination risk
+contamination risk	leads	sepsis
+sepsis	treated with	IV antibiotics
+iv solution additives	compatible with	certain drugs
+drug compatibility	checked via	reference guides
+iv solution additives	avoided in	pregnancy
+pregnancy	alters	pharmacokinetics
+pharmacokinetics	governs	drug distribution
+iv solution additives	impacts	pH balance
+pH balance	regulates	enzyme activity
+enzyme activity	essential for	metabolism
+iv solution additives	may contain	dextrose
+dextrose	provides	calories
+calories	support	wound healing
+iv solution additives	linked to	infusion reactions
+infusion reactions	manifest as	fever
+fever	monitored with	thermometers
+iv solution additives	adjusted for	pediatric patients
+pediatric patients	need	weight-based dosing
+iv solution additives	administered by	IV pole
+IV pole	holds	solution bags
+iv solution additives	may require	light protection
+light protection	prevents	photodegradation
+photodegradation	reduces	drug stability
+iv solution additives	involves	double-checking
+double-checking	reduces	human error
+human error	causes	adverse events
+iv solution additives	documented in	flow sheets
+flow sheets	track	intake-output
+intake-output	reflects	fluid status
+iv solution additives	diluted with	sterile water
+sterile water	free of	pyrogens
+pyrogens	induce	fever
+iv solution additives	contraindicated with	certain conditions
+conditions	listed in	drug monographs
+drug monographs	provide	dosing guidelines
+iv solution additives	associated with	catheter occlusion
+catheter occlusion	requires	line flushing
+line flushing	uses	saline
+iv solution additives	mixed in	preparation areas
+preparation areas	follow	ISO standards
+ISO standards	ensure	quality control
+iv solution additives	may deplete	vitamins
+vitamin depletion	causes	deficiencies
+deficiencies	corrected with	supplements
+iv solution additives	interacts with	liver enzymes
+liver enzymes	metabolize	drugs
+iv solution additives	may irritate	veins
+vein irritation	leads	thrombophlebitis
+thrombophlebitis	managed with	warm compresses
+iv solution additives	requires	stability testing
+stability testing	confirms	shelf life

@@ -1,0 +1,100 @@
+delirium	is a	neuropsychiatric syndrome
+delirium	is characterized by	acute confusion
+delirium	is associated with	hospitalization
+delirium	may cause	cognitive impairment
+delirium	is linked to	mortality
+delirium	increases risk of	falls
+delirium	is common in	elderly patients
+delirium	may result from	infection
+delirium	is exacerbated by	dehydration
+delirium	can be triggered by	medication side effects
+delirium	is diagnosed using	CAM
+CAM	stands for	Confusion Assessment Method
+delirium	is differentiated from	dementia
+dementia	is a risk factor for	delirium
+delirium	has subtypes	hyperactive delirium
+delirium	has subtypes	hypoactive delirium
+delirium	has subtypes	mixed delirium
+delirium	is managed with	environmental modifications
+delirium	may require	antipsychotics
+haloperidol	is used for	delirium
+delirium	is associated with	electrolyte imbalance
+hyponatremia	can cause	delirium
+delirium	is linked to	sleep deprivation
+delirium	is common in	ICU patients
+ICU delirium	increases	hospital stay
+delirium	is associated with	post-operative complications
+delirium	may lead to	long-term cognitive decline
+delirium	is prevented by	early mobilization
+delirium	is screened with	4AT test
+4AT test	assesses	delirium risk
+delirium	is related to	metabolic disturbances
+hyperglycemia	can trigger	delirium
+delirium	is worsened by	sensory overload
+delirium	is mitigated by	family presence
+delirium	is associated with	pain
+opioids	may contribute to	delirium
+delirium	is common in	terminal illness
+delirium	is a symptom of	sepsis
+sepsis	is a cause of	delirium
+delirium	is linked to	urinary tract infections
+delirium	is associated with	alcohol withdrawal
+delirium tremens	is a severe form of	delirium
+benzodiazepines	treat	delirium tremens
+delirium	is influenced by	polypharmacy
+delirium	is assessed with	DRS-R-98
+DRS-R-98	measures	delirium severity
+delirium	is managed by	multidisciplinary teams
+delirium	is associated with	malnutrition
+delirium	is common in	Parkinson's disease
+delirium	is linked to	stroke
+delirium	is associated with	hypoxia
+delirium	is related to	anesthesia
+delirium	is a complication of	major surgery
+delirium	is influenced by	hearing impairment
+delirium	is mitigated by	reorientation strategies
+delirium	is associated with	vitamin deficiencies
+vitamin B12 deficiency	can cause	delirium
+delirium	is linked to	thyroid dysfunction
+delirium	is common in	cancer patients
+delirium	is associated with	chemotherapy
+delirium	is managed with	non-pharmacological interventions
+delirium	is prevented by	adequate hydration
+delirium	is screened with	Nu-DESC
+Nu-DESC	evaluates	delirium symptoms
+delirium	is associated with	constipation
+delirium	is linked to	fecal impaction
+delirium	is common in	dementia patients
+delirium	is differentiated from	depression
+delirium	is associated with	antipsychotic use
+delirium	is managed with	melatonin
+delirium	is associated with	sleep disturbances
+delirium	is influenced by	ambient noise
+delirium	is prevented by	vision aids
+delirium	is assessed with	MDAS
+MDAS	measures	delirium features
+delirium	is linked to	urinary retention
+delirium	is associated with	catheter use
+delirium	is common in	post-cardiac surgery
+delirium	is linked to	hypotension
+delirium	is associated with	anemia
+delirium	is managed with	cholinesterase inhibitors
+delirium	is influenced by	social isolation
+delirium	is prevented by	cognitive stimulation
+delirium	is associated with	benzodiazepine withdrawal
+delirium	is linked to	liver disease
+delirium	is common in	renal failure
+delirium	is associated with	hypercalcemia
+delirium	is managed with	quetiapine
+delirium	is linked to	traumatic brain injury
+delirium	is associated with	substance abuse
+delirium	is screened with	DOSS
+DOSS	assesses	delirium onset
+delirium	is influenced by	circadian rhythm disruption
+delirium	is associated with	pneumonia
+delirium	is linked to	C. difficile infection
+delirium	is managed with	risperidone
+delirium	is prevented by	pain control
+delirium	is associated with	pressure ulcers
+delirium	is linked to	physical restraints
+delirium	is managed with	family education

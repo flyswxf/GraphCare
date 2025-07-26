@@ -1,0 +1,100 @@
+cut/pierce injury	is classified by	E-codes
+cut/pierce injury	may require	wound closure
+cut/pierce injury	may cause	bleeding
+cut/pierce injury	may lead to	infection
+cut/pierce injury	may result from	sharp object
+knife	is a cause of	cut/pierce injury
+glass	is a cause of	cut/pierce injury
+needle	is a cause of	cut/pierce injury
+cut/pierce injury	may require	tetanus shot
+cut/pierce injury	may require	sutures
+sutures	are used for	wound closure
+steri-strips	are used for	wound closure
+cut/pierce injury	may require	antibiotics
+antibiotics	prevent	infection
+infection	may cause	sepsis
+sepsis	is a	medical emergency
+cut/pierce injury	may require	x-ray
+x-ray	detects	foreign body
+foreign body	may cause	infection
+cut/pierce injury	may cause	nerve damage
+nerve damage	may cause	numbness
+nerve damage	may cause	pain
+pain	may require	analgesics
+analgesics	include	NSAIDs
+ibuprofen	is a	NSAID
+cut/pierce injury	may require	surgery
+surgery	may involve	debridement
+debridement	removes	dead tissue
+dead tissue	may harbor	bacteria
+bacteria	can cause	infection
+cut/pierce injury	may occur in	workplace
+workplace	may have	safety protocols
+safety protocols	prevent	injuries
+cut/pierce injury	may occur in	home
+kitchen	is a common site for	cut/pierce injury
+bathroom	is a common site for	cut/pierce injury
+cut/pierce injury	may be	accidental
+cut/pierce injury	may be	intentional
+self-harm	is a cause of	cut/pierce injury
+self-harm	may indicate	mental illness
+mental illness	may require	therapy
+therapy	can involve	CBT
+CBT	is a	psychotherapy
+cut/pierce injury	may occur during	assault
+assault	is a	crime
+crime	may involve	police report
+police report	documents	injury
+cut/pierce injury	may require	hospitalization
+hospitalization	involves	medical team
+medical team	includes	nurses
+nurses	administer	wound care
+wound care	promotes	healing
+healing	may involve	scar formation
+scar formation	may require	scar treatment
+silicone gel	is a	scar treatment
+cut/pierce injury	may affect	tendons
+tendons	connect	muscle to bone
+tendon injury	may require	splinting
+splinting	immobilizes	injury
+immobilization	promotes	healing
+cut/pierce injury	may affect	blood vessels
+blood vessels	transport	blood
+blood	carries	oxygen
+oxygen	is essential for	healing
+cut/pierce injury	may require	blood transfusion
+blood transfusion	replaces	lost blood
+lost blood	may cause	anemia
+anemia	may cause	fatigue
+fatigue	may require	rest
+rest	aids	recovery
+cut/pierce injury	may involve	organ damage
+organ damage	may be	life-threatening
+life-threatening injury	requires	ICU
+ICU	provides	critical care
+critical care	involves	monitoring
+monitoring	tracks	vital signs
+vital signs	include	blood pressure
+blood pressure	indicates	circulatory status
+circulatory status	affects	healing
+cut/pierce injury	may lead to	disability
+disability	may require	rehabilitation
+rehabilitation	involves	physical therapy
+physical therapy	improves	mobility
+mobility	is essential for	daily activities
+daily activities	include	self-care
+self-care	prevents	complications
+complications	may include	chronic pain
+chronic pain	may require	pain management
+pain management	may involve	opioids
+opioids	carry	addiction risk
+addiction	is a	substance use disorder
+substance use disorder	requires	treatment
+treatment	may involve	counseling
+counseling	provides	support
+support	improves	outcomes
+outcomes	depend on	injury severity
+injury severity	is assessed by	medical professionals
+medical professionals	use	triage
+triage	prioritizes	treatment
+treatment	aims for	full recovery

@@ -1,0 +1,100 @@
+fever of unknown origin	is a	medical condition
+fever of unknown origin	may indicate	infection
+fever of unknown origin	may indicate	malignancy
+fever of unknown origin	may indicate	autoimmune disease
+fever of unknown origin	requires	diagnostic testing
+blood culture	is a test for	fever of unknown origin
+complete blood count	is a test for	fever of unknown origin
+CT scan	is a test for	fever of unknown origin
+fever of unknown origin	may lead to	hospitalization
+fever of unknown origin	may cause	fatigue
+fever of unknown origin	may cause	weight loss
+fever of unknown origin	may cause	night sweats
+tuberculosis	is a cause of	fever of unknown origin
+lymphoma	is a cause of	fever of unknown origin
+endocarditis	is a cause of	fever of unknown origin
+HIV	is a cause of	fever of unknown origin
+sarcoidosis	is a cause of	fever of unknown origin
+fever of unknown origin	is evaluated by	infectious disease specialist
+fever of unknown origin	is evaluated by	rheumatologist
+fever of unknown origin	is evaluated by	hematologist
+fever of unknown origin	may require	biopsy
+fever of unknown origin	may be treated with	antibiotics
+fever of unknown origin	may be treated with	antivirals
+fever of unknown origin	may be treated with	immunosuppressants
+fever of unknown origin	may resolve with	time
+fever of unknown origin	may persist for	weeks
+fever of unknown origin	is defined by	duration
+fever of unknown origin	has criteria	>38.3°C
+fever of unknown origin	has criteria	>3 weeks
+fever of unknown origin	has criteria	no diagnosis
+fever of unknown origin	may involve	inflammatory markers
+C-reactive protein	is a marker for	fever of unknown origin
+erythrocyte sedimentation rate	is a marker for	fever of unknown origin
+fever of unknown origin	may require	PET scan
+fever of unknown origin	may require	bone marrow biopsy
+fever of unknown origin	may be caused by	drug reaction
+fever of unknown origin	may be caused by	deep vein thrombosis
+fever of unknown origin	may be caused by	vasculitis
+fever of unknown origin	may be caused by	abscess
+fever of unknown origin	may be caused by	parasitic infection
+fever of unknown origin	may be caused by	fungal infection
+fever of unknown origin	may be caused by	osteomyelitis
+fever of unknown origin	may be caused by	hepatitis
+fever of unknown origin	may be caused by	inflammatory bowel disease
+fever of unknown origin	may be caused by	Still's disease
+fever of unknown origin	may be caused by	periodic fever syndrome
+fever of unknown origin	may be caused by	familial Mediterranean fever
+fever of unknown origin	may be caused by	Castleman disease
+fever of unknown origin	may be caused by	Kawasaki disease
+fever of unknown origin	may be caused by	hyperthyroidism
+fever of unknown origin	may be caused by	pulmonary embolism
+fever of unknown origin	may be caused by	Whipple disease
+fever of unknown origin	may be caused by	brucellosis
+fever of unknown origin	may be caused by	Q fever
+fever of unknown origin	may be caused by	leptospirosis
+fever of unknown origin	may be caused by	toxoplasmosis
+fever of unknown origin	may be caused by	cytomegalovirus
+fever of unknown origin	may be caused by	Epstein-Barr virus
+fever of unknown origin	may be caused by	parvovirus
+fever of unknown origin	may be caused by	histoplasmosis
+fever of unknown origin	may be caused by	coccidioidomycosis
+fever of unknown origin	may be caused by	blastomycosis
+fever of unknown origin	may be caused by	temporal arteritis
+fever of unknown origin	may be caused by	polymyalgia rheumatica
+fever of unknown origin	may be caused by	lupus
+fever of unknown origin	may be caused by	rheumatoid arthritis
+fever of unknown origin	may be caused by	sarcoidosis
+fever of unknown origin	may be caused by	multiple sclerosis
+fever of unknown origin	may be caused by	amyloidosis
+fever of unknown origin	may be caused by	hemophagocytic lymphohistiocytosis
+fever of unknown origin	may be caused by	myelodysplastic syndrome
+fever of unknown origin	may be caused by	leukemia
+fever of unknown origin	may be caused by	lymphoma
+fever of unknown origin	may be caused by	metastatic cancer
+fever of unknown origin	may be caused by	neuroblastoma
+fever of unknown origin	may be caused by	renal cell carcinoma
+fever of unknown origin	may be caused by	atrial myxoma
+fever of unknown origin	may be caused by	drug fever
+fever of unknown origin	may be caused by	factitious fever
+fever of unknown origin	may be caused by	central fever
+fever of unknown origin	may be caused by	hypothalamic dysfunction
+fever of unknown origin	may be caused by	heat stroke
+fever of unknown origin	may be caused by	serotonin syndrome
+fever of unknown origin	may be caused by	neuroleptic malignant syndrome
+fever of unknown origin	may be caused by	malignant hyperthermia
+fever of unknown origin	may be caused by	adrenal insufficiency
+fever of unknown origin	may be caused by	pheochromocytoma
+fever of unknown origin	may be caused by	subacute thyroiditis
+fever of unknown origin	may be caused by	pancreatitis
+fever of unknown origin	may be caused by	cholecystitis
+fever of unknown origin	may be caused by	diverticulitis
+fever of unknown origin	may be caused by	pyelonephritis
+fever of unknown origin	may be caused by	prostatitis
+fever of unknown origin	may be caused by	pelvic inflammatory disease
+fever of unknown origin	may be caused by	sinusitis
+fever of unknown origin	may be caused by	mastoiditis
+fever of unknown origin	may be caused by	dental abscess
+fever of unknown origin	may be caused by	infected prosthesis
+fever of unknown origin	may be caused by	infected catheter
+fever of unknown origin	may be caused by	immune deficiency

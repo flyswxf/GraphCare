@@ -1,0 +1,100 @@
+aortic aneurysm	is a	vascular condition
+peripheral artery aneurysm	is a	vascular condition
+visceral artery aneurysm	is a	vascular condition
+aortic aneurysm	may cause	rupture
+peripheral artery aneurysm	may cause	thrombosis
+visceral artery aneurysm	may cause	hemorrhage
+aortic aneurysm	is diagnosed with	CT scan
+peripheral artery aneurysm	is diagnosed with	ultrasound
+visceral artery aneurysm	is diagnosed with	angiography
+aortic aneurysm	is treated with	surgery
+peripheral artery aneurysm	is treated with	stent
+visceral artery aneurysm	is treated with	embolization
+hypertension	increases risk of	aortic aneurysm
+smoking	increases risk of	peripheral artery aneurysm
+atherosclerosis	increases risk of	visceral artery aneurysm
+aortic aneurysm	may lead to	shock
+peripheral artery aneurysm	may lead to	limb ischemia
+visceral artery aneurysm	may lead to	organ failure
+aortic aneurysm	has symptom	back pain
+peripheral artery aneurysm	has symptom	pulsatile mass
+visceral artery aneurysm	has symptom	abdominal pain
+aortic aneurysm	is monitored with	echocardiography
+peripheral artery aneurysm	is monitored with	Doppler
+visceral artery aneurysm	is monitored with	MRI
+endovascular repair	is a treatment for	aortic aneurysm
+open surgery	is a treatment for	peripheral artery aneurysm
+coiling	is a treatment for	visceral artery aneurysm
+aortic aneurysm	is classified as	thoracic
+aortic aneurysm	is classified as	abdominal
+peripheral artery aneurysm	affects	popliteal artery
+visceral artery aneurysm	affects	splenic artery
+aortic aneurysm	has complication	dissection
+peripheral artery aneurysm	has complication	embolism
+visceral artery aneurysm	has complication	infarction
+aortic aneurysm	is associated with	Marfan syndrome
+peripheral artery aneurysm	is associated with	trauma
+visceral artery aneurysm	is associated with	vasculitis
+beta blockers	reduce risk of	aortic aneurysm
+statins	reduce risk of	peripheral artery aneurysm
+antihypertensives	reduce risk of	visceral artery aneurysm
+aortic aneurysm	requires	blood pressure control
+peripheral artery aneurysm	requires	antiplatelet therapy
+visceral artery aneurysm	requires	anticoagulation
+aortic aneurysm	is measured by	diameter
+peripheral artery aneurysm	is measured by	size
+visceral artery aneurysm	is measured by	expansion rate
+aortic aneurysm	has risk factor	age
+peripheral artery aneurysm	has risk factor	male gender
+visceral artery aneurysm	has risk factor	pregnancy
+aortic aneurysm	is prevented by	smoking cessation
+peripheral artery aneurysm	is prevented by	exercise
+visceral artery aneurysm	is prevented by	diet
+aortic aneurysm	can coexist with	coronary artery disease
+peripheral artery aneurysm	can coexist with	diabetes
+visceral artery aneurysm	can coexist with	liver disease
+aortic aneurysm	has variant	fusiform
+aortic aneurysm	has variant	saccular
+peripheral artery aneurysm	has variant	pseudoaneurysm
+visceral artery aneurysm	has variant	mycotic
+aortic aneurysm	may require	emergency intervention
+peripheral artery aneurysm	may require	elective repair
+visceral artery aneurysm	may require	observation
+aortic aneurysm	is researched with	genetic studies
+peripheral artery aneurysm	is researched with	biomarkers
+visceral artery aneurysm	is researched with	imaging
+aortic aneurysm	affects mortality	cardiovascular
+peripheral artery aneurysm	affects mortality	surgical
+visceral artery aneurysm	affects mortality	hemorrhagic
+aortic aneurysm	has guideline	surveillance
+peripheral artery aneurysm	has guideline	management
+visceral artery aneurysm	has guideline	screening
+aortic aneurysm	is linked to	connective tissue disorder
+peripheral artery aneurysm	is linked to	infection
+visceral artery aneurysm	is linked to	inflammation
+aortic aneurysm	has surgical option	graft
+peripheral artery aneurysm	has surgical option	bypass
+visceral artery aneurysm	has surgical option	ligation
+aortic aneurysm	is studied in	epidemiology
+peripheral artery aneurysm	is studied in	outcomes
+visceral artery aneurysm	is studied in	prevalence
+aortic aneurysm	has follow-up	imaging
+peripheral artery aneurysm	has follow-up	clinical
+visceral artery aneurysm	has follow-up	laboratory
+aortic aneurysm	may progress to	rupture
+peripheral artery aneurysm	may progress to	occlusion
+visceral artery aneurysm	may progress to	rupture
+aortic aneurysm	has treatment goal	stabilization
+peripheral artery aneurysm	has treatment goal	preservation
+visceral artery aneurysm	has treatment goal	control
+aortic aneurysm	involves	vascular surgeon
+peripheral artery aneurysm	involves	interventional radiologist
+visceral artery aneurysm	involves	gastroenterologist
+aortic aneurysm	has anatomical location	ascending
+aortic aneurysm	has anatomical location	descending
+peripheral artery aneurysm	has anatomical location	femoral
+visceral artery aneurysm	has anatomical location	renal
+aortic aneurysm	has physiological impact	hemodynamic
+peripheral artery aneurysm	has physiological impact	perfusion
+visceral artery aneurysm	has physiological impact	function
+aortic aneurysm	requires	multidisciplinary care

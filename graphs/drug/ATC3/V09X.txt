@@ -1,0 +1,100 @@
+diagnostic radiopharmaceuticals	classified under	ATC group
+diagnostic radiopharmaceuticals	used for	medical imaging
+medical imaging	includes	PET scans
+medical imaging	includes	SPECT scans
+diagnostic radiopharmaceuticals	contain	radioactive isotopes
+radioactive isotopes	emit	gamma rays
+gamma rays	detected by	scintillation cameras
+diagnostic radiopharmaceuticals	require	radiation safety
+radiation safety	involves	shielding
+shielding	uses	lead
+diagnostic radiopharmaceuticals	administered via	injection
+injection	requires	sterile technique
+sterile technique	prevents	infections
+diagnostic radiopharmaceuticals	have	half-life
+half-life	determines	decay rate
+decay rate	affects	imaging timing
+diagnostic radiopharmaceuticals	used in	oncology
+oncology	uses	tumor detection
+tumor detection	requires	contrast agents
+contrast agents	improve	image resolution
+diagnostic radiopharmaceuticals	include	technetium-99m
+technetium-99m	derived from	molybdenum-99
+molybdenum-99	produced in	nuclear reactors
+nuclear reactors	generate	neutrons
+neutrons	cause	nuclear reactions
+diagnostic radiopharmaceuticals	used for	cardiac imaging
+cardiac imaging	evaluates	blood flow
+blood flow	indicates	myocardial perfusion
+myocardial perfusion	assesses	heart function
+heart function	relates to	cardiovascular disease
+cardiovascular disease	treated with	medications
+medications	prescribed by	physicians
+physicians	trained in	medical schools
+medical schools	teach	radiology
+radiology	studies	imaging techniques
+imaging techniques	require	specialized equipment
+specialized equipment	includes	gamma cameras
+gamma cameras	detect	radiation
+radiation	measured in	becquerels
+becquerels	quantify	radioactivity
+diagnostic radiopharmaceuticals	regulated by	FDA
+FDA	sets	approval standards
+approval standards	ensure	safety
+safety	assessed through	clinical trials
+clinical trials	involve	patient volunteers
+patient volunteers	give	informed consent
+informed consent	requires	disclosure
+disclosure	includes	risks
+risks	may involve	allergic reactions
+allergic reactions	treated with	antihistamines
+diagnostic radiopharmaceuticals	stored in	lead containers
+lead containers	protect from	radiation exposure
+radiation exposure	monitored with	dosimeters
+dosimeters	worn by	nuclear medicine staff
+nuclear medicine staff	include	technologists
+technologists	operate	imaging equipment
+imaging equipment	requires	calibration
+calibration	ensures	accurate results
+accurate results	lead to	correct diagnoses
+correct diagnoses	improve	treatment outcomes
+treatment outcomes	measured by	survival rates
+survival rates	depend on	early detection
+early detection	facilitated by	screening tests
+screening tests	recommended for	high-risk patients
+high-risk patients	have	family history
+family history	indicates	genetic predisposition
+genetic predisposition	tested via	DNA analysis
+DNA analysis	performed in	laboratories
+laboratories	follow	quality control
+quality control	maintains	result reliability
+diagnostic radiopharmaceuticals	combined with	CT scans
+CT scans	provide	anatomical details
+anatomical details	complement	functional imaging
+functional imaging	shows	metabolic activity
+metabolic activity	reflects	disease progression
+disease progression	tracked by	serial imaging
+serial imaging	requires	follow-up appointments
+follow-up appointments	scheduled by	receptionists
+receptionists	maintain	patient records
+patient records	stored in	electronic systems
+electronic systems	protect	health information
+health information	governed by	HIPAA
+HIPAA	ensures	patient privacy
+patient privacy	important for	confidentiality
+confidentiality	builds	patient trust
+patient trust	enhances	doctor-patient relationship
+doctor-patient relationship	crucial for	care quality
+care quality	measured by	satisfaction surveys
+satisfaction surveys	collect	feedback
+feedback	used for	service improvement
+service improvement	involves	staff training
+staff training	includes	continuing education
+continuing education	maintains	professional licenses
+professional licenses	issued by	regulatory boards
+regulatory boards	enforce	practice standards
+practice standards	include	ethical guidelines
+ethical guidelines	address	conflicts of interest
+conflicts of interest	managed by	disclosure forms
+disclosure forms	reviewed by	ethics committees
+ethics committees	oversee	research protocols

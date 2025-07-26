@@ -1,0 +1,100 @@
+corticosteroid dermatological preparations	is a	topical medication
+corticosteroid dermatological preparations	treats	skin inflammation
+corticosteroid dermatological preparations	reduces	skin redness
+corticosteroid dermatological preparations	relieves	itching
+corticosteroid dermatological preparations	contains	corticosteroids
+corticosteroid dermatological preparations	classified by	potency
+corticosteroid dermatological preparations	used for	eczema
+corticosteroid dermatological preparations	used for	psoriasis
+corticosteroid dermatological preparations	used for	dermatitis
+corticosteroid dermatological preparations	may cause	skin thinning
+corticosteroid dermatological preparations	may cause	telangiectasia
+corticosteroid dermatological preparations	may cause	striae
+corticosteroid dermatological preparations	absorbed through	skin
+corticosteroid dermatological preparations	metabolized in	liver
+corticosteroid dermatological preparations	excreted via	kidneys
+corticosteroid dermatological preparations	available as	cream
+corticosteroid dermatological preparations	available as	ointment
+corticosteroid dermatological preparations	available as	lotion
+corticosteroid dermatological preparations	applied to	affected area
+corticosteroid dermatological preparations	frequency depends on	severity
+corticosteroid dermatological preparations	contraindicated in	skin infections
+corticosteroid dermatological preparations	interacts with	other topical drugs
+corticosteroid dermatological preparations	pregnancy category	C
+corticosteroid dermatological preparations	stored at	room temperature
+corticosteroid dermatological preparations	duration limited by	side effects
+corticosteroid dermatological preparations	mechanism of action	anti-inflammatory
+corticosteroid dermatological preparations	mechanism of action	immunosuppressive
+corticosteroid dermatological preparations	mechanism of action	vasoconstrictive
+corticosteroid dermatological preparations	affects	cytokine production
+corticosteroid dermatological preparations	inhibits	phospholipase A2
+corticosteroid dermatological preparations	decreases	prostaglandin synthesis
+corticosteroid dermatological preparations	reduces	leukocyte migration
+corticosteroid dermatological preparations	stabilizes	lysosomal membranes
+corticosteroid dermatological preparations	binds to	glucocorticoid receptors
+corticosteroid dermatological preparations	potency determined by	molecular structure
+hydrocortisone	is a	low potency corticosteroid
+triamcinolone	is a	medium potency corticosteroid
+clobetasol	is a	high potency corticosteroid
+corticosteroid dermatological preparations	absorption varies by	skin region
+corticosteroid dermatological preparations	absorption higher in	thin skin
+corticosteroid dermatological preparations	absorption lower in	thick skin
+corticosteroid dermatological preparations	occlusion increases	absorption
+corticosteroid dermatological preparations	vehicle affects	penetration
+ointment base	provides	better absorption
+cream base	preferred for	moist areas
+lotion base	suitable for	hairy areas
+gel base	useful for	scalp conditions
+corticosteroid dermatological preparations	systemic effects possible with	prolonged use
+corticosteroid dermatological preparations	can suppress	adrenal axis
+corticosteroid dermatological preparations	monitoring needed for	long-term therapy
+corticosteroid dermatological preparations	withdrawal requires	tapering
+corticosteroid dermatological preparations	addiction possible with	chronic use
+corticosteroid dermatological preparations	rebound phenomenon occurs after	abrupt cessation
+corticosteroid dermatological preparations	tachyphylaxis develops with	continuous use
+corticosteroid dermatological preparations	alternation recommended for	chronic conditions
+corticosteroid dermatological preparations	combination therapy with	antibiotics
+corticosteroid dermatological preparations	combination therapy with	antifungals
+corticosteroid dermatological preparations	not recommended for	viral infections
+corticosteroid dermatological preparations	caution in	pediatric patients
+corticosteroid dermatological preparations	caution in	elderly patients
+corticosteroid dermatological preparations	caution in	diabetic patients
+corticosteroid dermatological preparations	may worsen	acne
+corticosteroid dermatological preparations	may worsen	rosacea
+corticosteroid dermatological preparations	may cause	perioral dermatitis
+corticosteroid dermatological preparations	may mask	infection symptoms
+corticosteroid dermatological preparations	adverse effects correlate with	potency
+corticosteroid dermatological preparations	adverse effects correlate with	duration
+corticosteroid dermatological preparations	adverse effects correlate with	application area
+corticosteroid dermatological preparations	first-line for	inflammatory dermatoses
+corticosteroid dermatological preparations	second-line for	pruritic conditions
+corticosteroid dermatological preparations	alternatives include	calcineurin inhibitors
+corticosteroid dermatological preparations	alternatives include	coal tar
+corticosteroid dermatological preparations	alternatives include	phototherapy
+corticosteroid dermatological preparations	cost varies by	formulation
+corticosteroid dermatological preparations	generic versions available for	many compounds
+corticosteroid dermatological preparations	brand names include	multiple products
+corticosteroid dermatological preparations	prescription required for	higher potencies
+corticosteroid dermatological preparations	OTC available for	lower potencies
+corticosteroid dermatological preparations	patient education includes	proper application
+corticosteroid dermatological preparations	patient education includes	side effect recognition
+corticosteroid dermatological preparations	patient education includes	duration limits
+corticosteroid dermatological preparations	clinical trials evaluate	new formulations
+corticosteroid dermatological preparations	research focuses on	reduced side effects
+corticosteroid dermatological preparations	novel delivery systems include	liposomal carriers
+corticosteroid dermatological preparations	novel delivery systems include	nanoparticle technology
+corticosteroid dermatological preparations	combination products include	antimicrobial agents
+corticosteroid dermatological preparations	combination products include	vitamin D analogs
+corticosteroid dermatological preparations	prescribing trends show	increased use
+corticosteroid dermatological preparations	guidelines recommend	potency matching
+corticosteroid dermatological preparations	guidelines recommend	intermittent use
+corticosteroid dermatological preparations	guidelines recommend	face avoidance
+corticosteroid dermatological preparations	guidelines recommend	genital sparing
+corticosteroid dermatological preparations	guidelines recommend	pediatric dilution
+corticosteroid dermatological preparations	monitoring includes	skin thickness
+corticosteroid dermatological preparations	monitoring includes	adrenal function
+corticosteroid dermatological preparations	monitoring includes	infection signs
+corticosteroid dermatological preparations	quality of life improves with	proper use
+corticosteroid dermatological preparations	treatment failure suggests	incorrect diagnosis
+corticosteroid dermatological preparations	treatment failure suggests	nonadherence
+corticosteroid dermatological preparations	treatment failure suggests	resistance

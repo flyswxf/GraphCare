@@ -1,0 +1,100 @@
+other ear and sense organ disorders	includes	hearing loss
+other ear and sense organ disorders	includes	tinnitus
+other ear and sense organ disorders	includes	vertigo
+other ear and sense organ disorders	includes	Ménière's disease
+other ear and sense organ disorders	includes	otitis externa
+other ear and sense organ disorders	includes	labyrinthitis
+other ear and sense organ disorders	includes	otosclerosis
+other ear and sense organ disorders	includes	acoustic neuroma
+other ear and sense organ disorders	includes	presbycusis
+other ear and sense organ disorders	includes	eustachian tube dysfunction
+hearing loss	may cause	communication difficulties
+hearing loss	may lead to	social isolation
+hearing loss	may require	hearing aids
+hearing loss	may be treated with	cochlear implants
+tinnitus	may cause	sleep disturbances
+tinnitus	may lead to	anxiety
+tinnitus	may be managed with	sound therapy
+vertigo	may cause	balance problems
+vertigo	may be caused by	BPPV
+vertigo	may be treated with	vestibular rehabilitation
+Ménière's disease	may cause	hearing fluctuations
+Ménière's disease	may lead to	aural fullness
+Ménière's disease	may be treated with	diuretics
+otitis externa	may cause	ear pain
+otitis externa	may be treated with	antibiotic eardrops
+labyrinthitis	may cause	nystagmus
+labyrinthitis	may be caused by	viral infection
+otosclerosis	may cause	conductive hearing loss
+otosclerosis	may be treated with	stapedectomy
+acoustic neuroma	may cause	unilateral hearing loss
+acoustic neuroma	may require	surgical removal
+presbycusis	is associated with	aging
+presbycusis	may require	hearing amplification
+eustachian tube dysfunction	may cause	ear pressure
+eustachian tube dysfunction	may be treated with	nasal steroids
+hearing aids	may improve	speech understanding
+hearing aids	require	battery replacement
+cochlear implants	may restore	sound perception
+cochlear implants	require	surgical implantation
+sound therapy	may mask	tinnitus
+vestibular rehabilitation	improves	balance control
+BPPV	may be diagnosed with	Dix-Hallpike test
+diuretics	may reduce	endolymphatic fluid
+antibiotic eardrops	treat	bacterial infections
+viral infection	may precede	labyrinthitis
+stapedectomy	replaces	stapes bone
+unilateral hearing loss	may indicate	acoustic neuroma
+surgical removal	may affect	facial nerve
+hearing amplification	compensates for	hearing loss
+nasal steroids	reduce	nasal inflammation
+communication difficulties	may require	speech therapy
+social isolation	may impact	mental health
+sleep disturbances	may lead to	fatigue
+anxiety	may be managed with	relaxation techniques
+balance problems	increase	fall risk
+hearing fluctuations	characterize	Ménière's disease
+aural fullness	accompanies	Ménière's attacks
+ear pain	may be relieved with	analgesics
+nystagmus	indicates	vestibular dysfunction
+conductive hearing loss	affects	middle ear
+surgical implantation	requires	postoperative care
+battery replacement	maintains	hearing aid function
+speech understanding	improves with	hearing devices
+sound perception	is processed by	auditory cortex
+tinnitus masking	provides	symptom relief
+balance control	involves	cerebellum
+Dix-Hallpike test	provokes	vertigo
+endolymphatic fluid	accumulates in	inner ear
+bacterial infections	may cause	ear discharge
+stapes bone	transmits	sound vibrations
+facial nerve	controls	facial muscles
+nasal inflammation	may block	eustachian tube
+speech therapy	improves	communication skills
+mental health	may decline with	hearing impairment
+fatigue	may result from	sleep deprivation
+relaxation techniques	include	deep breathing
+fall risk	increases with	vestibular disorders
+Ménière's attacks	involve	vertigo episodes
+analgesics	relieve	ear discomfort
+vestibular dysfunction	affects	spatial orientation
+middle ear	contains	ossicles
+postoperative care	prevents	complications
+hearing aid function	depends on	proper fitting
+auditory cortex	interprets	sound signals
+symptom relief	improves	quality of life
+cerebellum	coordinates	motor movements
+vertigo provocation	aids in	diagnosis
+inner ear	houses	cochlea
+ear discharge	may indicate	infection
+sound vibrations	travel through	ear canal
+facial muscles	express	emotions
+eustachian tube	regulates	ear pressure
+communication skills	facilitate	social interaction
+hearing impairment	affects	sound localization
+sleep deprivation	impacts	cognitive function
+deep breathing	reduces	stress levels
+vestibular disorders	may cause	motion sensitivity
+vertigo episodes	vary in	duration
+ear discomfort	may worsen at	nighttime
+spatial orientation	depends on	vestibular input

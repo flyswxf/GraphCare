@@ -1,0 +1,100 @@
+calcium channel blockers	are	antihypertensive drugs
+diuretics	are	antihypertensive drugs
+calcium channel blockers	block	L-type calcium channels
+diuretics	increase	urine production
+calcium channel blockers	reduce	blood pressure
+diuretics	reduce	blood volume
+calcium channel blockers	treat	hypertension
+diuretics	treat	hypertension
+calcium channel blockers	treat	angina
+diuretics	treat	edema
+calcium channel blockers	include	amlodipine
+diuretics	include	hydrochlorothiazide
+calcium channel blockers	include	nifedipine
+diuretics	include	furosemide
+calcium channel blockers	can cause	peripheral edema
+diuretics	can cause	hypokalemia
+calcium channel blockers	may interact	grapefruit juice
+diuretics	may interact	NSAIDs
+calcium channel blockers	decrease	cardiac workload
+diuretics	decrease	fluid overload
+calcium channel blockers	contraindicated	heart failure
+diuretics	contraindicated	severe renal impairment
+calcium channel blockers	preferred	elderly patients
+diuretics	preferred	heart failure patients
+calcium channel blockers	mechanism	vasodilation
+diuretics	mechanism	sodium excretion
+calcium channel blockers	may cause	dizziness
+diuretics	may cause	dehydration
+calcium channel blockers	metabolized by	CYP3A4
+diuretics	excreted by	kidneys
+calcium channel blockers	affect	vascular smooth muscle
+diuretics	affect	renal tubules
+calcium channel blockers	alternatives	beta blockers
+diuretics	alternatives	ACE inhibitors
+calcium channel blockers	long-acting	better compliance
+diuretics	loop type	stronger effect
+calcium channel blockers	risk	hypotension
+diuretics	risk	electrolyte imbalance
+calcium channel blockers	combined with	diuretics
+diuretics	combined with	potassium supplements
+calcium channel blockers	non-dihydropyridines	affect heart rate
+diuretics	thiazide type	milder effect
+calcium channel blockers	dilate	coronary arteries
+diuretics	reduce	pulmonary edema
+calcium channel blockers	first-line	hypertension treatment
+diuretics	first-line	heart failure treatment
+calcium channel blockers	avoid	pregnancy
+diuretics	avoid	severe liver disease
+calcium channel blockers	onset	within hours
+diuretics	onset	within minutes
+calcium channel blockers	half-life	long
+diuretics	half-life	short
+calcium channel blockers	require	dose adjustment
+diuretics	require	monitoring
+calcium channel blockers	used in	arrhythmias
+diuretics	used in	ascites
+calcium channel blockers	alternative	verapamil
+diuretics	alternative	spironolactone
+calcium channel blockers	warning	constipation
+diuretics	warning	gout
+calcium channel blockers	benefit	stroke prevention
+diuretics	benefit	kidney stone prevention
+calcium channel blockers	side effect	headache
+diuretics	side effect	fatigue
+calcium channel blockers	brand	Norvasc
+diuretics	brand	Lasix
+calcium channel blockers	generic	amlodipine
+diuretics	generic	furosemide
+calcium channel blockers	category	cardiovascular drugs
+diuretics	category	renal drugs
+calcium channel blockers	research	new formulations
+diuretics	research	novel targets
+calcium channel blockers	interactions	beta blockers
+diuretics	interactions	digoxin
+calcium channel blockers	increase risk	gingival hyperplasia
+diuretics	increase risk	hyponatremia
+calcium channel blockers	synergy	ARBs
+diuretics	synergy	ACE inhibitors
+calcium channel blockers	caution	elderly
+diuretics	caution	diabetics
+calcium channel blockers	effect	coronary spasm
+diuretics	effect	nephrotic syndrome
+calcium channel blockers	indication	Raynaud’s phenomenon
+diuretics	indication	nephrogenic diabetes insipidus
+calcium channel blockers	overuse	rebound hypertension
+diuretics	overuse	dehydration
+calcium channel blockers	withdrawal	angina worsening
+diuretics	withdrawal	fluid retention
+calcium channel blockers	pharmacokinetics	CYP-dependent
+diuretics	pharmacokinetics	renal clearance
+calcium channel blockers	cost	moderate
+diuretics	cost	low
+calcium channel blockers	adverse effect	bradycardia
+diuretics	adverse effect	hyperuricemia
+calcium channel blockers	patient education	monitor BP
+diuretics	patient education	monitor weight
+calcium channel blockers	clinical trial	ALLHAT
+diuretics	clinical trial	SPRINT
+calcium channel blockers	future	gene therapy
+diuretics	future	personalized dosing

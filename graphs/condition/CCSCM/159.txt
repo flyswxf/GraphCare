@@ -1,0 +1,100 @@
+urinary tract infections	caused by	bacteria
+urinary tract infections	commonly involves	Escherichia coli
+urinary tract infections	symptom	painful urination
+urinary tract infections	symptom	frequent urination
+urinary tract infections	symptom	cloudy urine
+urinary tract infections	may lead	pyelonephritis
+urinary tract infections	risk factor	female anatomy
+urinary tract infections	risk factor	sexual activity
+urinary tract infections	risk factor	catheter use
+urinary tract infections	risk factor	diabetes
+urinary tract infections	treated with	antibiotics
+trimethoprim-sulfamethoxazole	treats	urinary tract infections
+nitrofurantoin	treats	urinary tract infections
+ciprofloxacin	treats	urinary tract infections
+urinary tract infections	prevented by	hydration
+urinary tract infections	prevented by	urinating after intercourse
+urinary tract infections	diagnosed with	urinalysis
+urinary tract infections	diagnosed with	urine culture
+urinary tract infections	complication	sepsis
+urinary tract infections	complication	kidney damage
+urinary tract infections	associated with	pregnancy
+urinary tract infections	associated with	menopause
+urinary tract infections	may recur	chronic UTIs
+urinary tract infections	may mimic	interstitial cystitis
+urinary tract infections	differs from	urethritis
+urinary tract infections	more common in	women
+urinary tract infections	less common in	men
+urinary tract infections	may require	hospitalization
+urinary tract infections	contraindication	delayed treatment
+urinary tract infections	managed with	pain relievers
+phenazopyridine	relieves	UTI pain
+urinary tract infections	linked to	urinary retention
+urinary tract infections	linked to	enlarged prostate
+urinary tract infections	screening tool	dipstick test
+urinary tract infections	may indicate	structural abnormality
+urinary tract infections	aggravated by	dehydration
+urinary tract infections	research focus	antibiotic resistance
+urinary tract infections	alternative treatment	cranberry products
+urinary tract infections	education topic	hygiene practices
+urinary tract infections	public health concern	elderly care
+urinary tract infections	may follow	urinary catheterization
+urinary tract infections	nursing consideration	intake-output monitoring
+urinary tract infections	pediatric concern	vesicoureteral reflux
+urinary tract infections	elderly concern	atypical presentation
+urinary tract infections	biomarker	leukocyte esterase
+urinary tract infections	biomarker	nitrites
+urinary tract infections	differential diagnosis	vaginitis
+urinary tract infections	differential diagnosis	prostatitis
+urinary tract infections	emergency case	urosepsis
+urinary tract infections	cost burden	healthcare system
+urinary tract infections	quality measure	appropriate antibiotic use
+urinary tract infections	antibiotic stewardship	short-course therapy
+urinary tract infections	associated procedure	cystoscopy
+urinary tract infections	imaging study	renal ultrasound
+urinary tract infections	preventive measure	estrogen therapy
+urinary tract infections	vaccine development	Urovac
+urinary tract infections	research area	probiotic use
+urinary tract infections	microbiome factor	gut flora
+urinary tract infections	pharmacokinetics consideration	renal excretion
+urinary tract infections	drug resistance	ESBL-producing bacteria
+urinary tract infections	public health strategy	awareness campaigns
+urinary tract infections	nursing home issue	infection control
+urinary tract infections	sexual health link	contraceptive methods
+urinary tract infections	occupational hazard	healthcare workers
+urinary tract infections	immunocompromised risk	HIV patients
+urinary tract infections	postoperative complication	surgical patients
+urinary tract infections	neonatal concern	congenital anomalies
+urinary tract infections	genetic factor	innate immunity
+urinary tract infections	environmental factor	hot climate
+urinary tract infections	behavioral factor	holding urine
+urinary tract infections	alternative therapy	D-mannose
+urinary tract infections	herbal remedy	uva ursi
+urinary tract infections	diagnostic challenge	asymptomatic bacteriuria
+urinary tract infections	special population	spinal cord injury
+urinary tract infections	quality of life	sleep disturbance
+urinary tract infections	economic impact	work absenteeism
+urinary tract infections	comorbidity	urinary incontinence
+urinary tract infections	nursing intervention	perineal care
+urinary tract infections	patient education	antibiotic adherence
+urinary tract infections	clinical guideline	IDSA recommendations
+urinary tract infections	laboratory finding	pyuria
+urinary tract infections	pathological process	mucosal invasion
+urinary tract infections	inflammatory marker	CRP elevation
+urinary tract infections	anatomical site	bladder
+urinary tract infections	anatomical site	urethra
+urinary tract infections	anatomical site	ureters
+urinary tract infections	anatomical site	kidneys
+urinary tract infections	virulence factor	bacterial adhesion
+urinary tract infections	host defense	urinary flow
+urinary tract infections	molecular mechanism	biofilm formation
+urinary tract infections	research model	murine studies
+urinary tract infections	surveillance system	NHSN tracking
+urinary tract infections	prevention trial	vaccine studies
+urinary tract infections	pharmacoeconomics	generic antibiotics
+urinary tract infections	social determinant	access to toilets
+urinary tract infections	cultural factor	health-seeking behavior
+urinary tract infections	temporal pattern	summer months
+urinary tract infections	care setting	outpatient clinics
+urinary tract infections	documentation requirement	infection reporting
+urinary tract infections	future direction	point-of-care diagnostics

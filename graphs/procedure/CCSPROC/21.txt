@@ -1,0 +1,100 @@
+other extraocular muscle and orbit therapeutic procedures	is a	surgical procedure
+other extraocular muscle and orbit therapeutic procedures	treats	strabismus
+other extraocular muscle and orbit therapeutic procedures	treats	orbital fractures
+other extraocular muscle and orbit therapeutic procedures	treats	thyroid eye disease
+other extraocular muscle and orbit therapeutic procedures	treats	orbital tumors
+other extraocular muscle and orbit therapeutic procedures	performed by	ophthalmologist
+other extraocular muscle and orbit therapeutic procedures	involves	muscle repositioning
+other extraocular muscle and orbit therapeutic procedures	involves	orbital decompression
+other extraocular muscle and orbit therapeutic procedures	requires	anesthesia
+other extraocular muscle and orbit therapeutic procedures	has risk	infection
+other extraocular muscle and orbit therapeutic procedures	has risk	bleeding
+other extraocular muscle and orbit therapeutic procedures	has risk	double vision
+other extraocular muscle and orbit therapeutic procedures	follows	imaging
+other extraocular muscle and orbit therapeutic procedures	follows	diagnosis
+other extraocular muscle and orbit therapeutic procedures	may require	hospitalization
+other extraocular muscle and orbit therapeutic procedures	may require	follow-up visits
+other extraocular muscle and orbit therapeutic procedures	uses	sutures
+other extraocular muscle and orbit therapeutic procedures	uses	surgical instruments
+strabismus	causes	misaligned eyes
+strabismus	treated with	eye muscle surgery
+strabismus	may cause	amblyopia
+orbital fractures	caused by	trauma
+orbital fractures	may require	reconstruction
+orbital fractures	can affect	vision
+thyroid eye disease	involves	inflammation
+thyroid eye disease	associated with	Graves' disease
+thyroid eye disease	may cause	proptosis
+orbital tumors	can be	benign
+orbital tumors	can be	malignant
+orbital tumors	may require	biopsy
+ophthalmologist	specializes in	eye care
+ophthalmologist	performs	eye surgeries
+muscle repositioning	adjusts	eye alignment
+muscle repositioning	corrects	strabismus
+orbital decompression	relieves	pressure
+orbital decompression	treats	proptosis
+anesthesia	ensures	pain control
+anesthesia	can be	general
+infection	prevented by	antibiotics
+infection	may require	treatment
+bleeding	controlled by	cauterization
+bleeding	may require	transfusion
+double vision	may resolve	over time
+double vision	treated with	prism glasses
+imaging	includes	CT scan
+imaging	includes	MRI
+diagnosis	based on	clinical examination
+diagnosis	confirmed by	tests
+hospitalization	may involve	monitoring
+hospitalization	duration varies	by procedure
+follow-up visits	assess	recovery
+follow-up visits	monitor	complications
+sutures	hold	incisions
+sutures	dissolve	over time
+surgical instruments	include	scalpels
+surgical instruments	include	forceps
+misaligned eyes	affect	binocular vision
+misaligned eyes	may cause	headaches
+eye muscle surgery	improves	eye alignment
+eye muscle surgery	adjusts	muscle tension
+amblyopia	known as	lazy eye
+amblyopia	treated with	patching
+trauma	results from	accidents
+trauma	may involve	blunt force
+reconstruction	restores	orbital structure
+reconstruction	uses	implants
+vision	depends on	optic nerve
+vision	affected by	eye position
+inflammation	treated with	steroids
+inflammation	causes	swelling
+Graves' disease	is an	autoimmune disorder
+Graves' disease	affects	thyroid gland
+proptosis	is	eye bulging
+proptosis	may compress	optic nerve
+benign tumors	grow slowly
+benign tumors	non-cancerous
+malignant tumors	can metastasize
+malignant tumors	require	oncology care
+biopsy	determines	tumor type
+biopsy	involves	tissue sample
+eye care	includes	surgery
+eye care	includes	medication
+eye surgeries	correct	abnormalities
+eye surgeries	restore	function
+eye alignment	important for	depth perception
+eye alignment	affects	appearance
+pressure	can damage	eye structures
+pressure	measured by	tonometry
+pain control	achieved with	analgesics
+pain control	essential for	recovery
+general anesthesia	induces	unconsciousness
+general anesthesia	administered by	anesthesiologist
+antibiotics	prevent	bacterial infection
+antibiotics	prescribed postoperatively
+cauterization	stops	bleeding
+cauterization	uses	heat
+transfusion	replaces	lost blood
+transfusion	requires	matching
+prism glasses	correct	double vision
+prism glasses	adjust	light path

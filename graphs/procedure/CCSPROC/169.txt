@@ -1,0 +1,100 @@
+debridement	is a	medical procedure
+wound	requires	debridement
+infection	requires	debridement
+burn	requires	debridement
+debridement	removes	necrotic tissue
+debridement	promotes	wound healing
+debridement	prevents	sepsis
+surgical debridement	is a type of	debridement
+mechanical debridement	is a type of	debridement
+enzymatic debridement	is a type of	debridement
+autolytic debridement	is a type of	debridement
+debridement	reduces	bacterial load
+debridement	improves	antibiotic efficacy
+chronic wound	requires	debridement
+diabetic ulcer	requires	debridement
+pressure ulcer	requires	debridement
+debridement	facilitates	granulation tissue formation
+debridement	decreases	infection risk
+sharp debridement	is a type of	surgical debridement
+hydrosurgery	is a type of	mechanical debridement
+debridement	accelerates	wound closure
+debridement	enhances	tissue repair
+biofilm	requires	debridement
+debridement	disrupts	biofilm
+debridement	prevents	amputation
+debridement	reduces	hospital stay
+debridement	lowers	mortality risk
+debridement	requires	anesthesia
+local anesthesia	used in	debridement
+general anesthesia	used in	debridement
+debridement	followed by	wound dressing
+antiseptic	used after	debridement
+antibiotic	used after	debridement
+debridement	indicated for	osteomyelitis
+debridement	treats	abscess
+debridement	manages	gangrene
+maggot therapy	is a type of	biological debridement
+debridement	increases	blood flow
+debridement	restores	skin integrity
+debridement	prevents	wound dehiscence
+debridement	reduces	pain
+debridement	minimizes	scarring
+debridement	improves	mobility
+debridement	enhances	quality of life
+debridement	requires	sterile technique
+debridement	performed by	surgeon
+debridement	performed by	wound care specialist
+debridement	documented in	medical record
+debridement	monitored for	complications
+debridement	associated with	bleeding risk
+debridement	associated with	infection risk
+debridement	followed by	physical therapy
+debridement	part of	burn care
+debridement	part of	infection control
+debridement	uses	scalpel
+debridement	uses	curette
+debridement	uses	scissors
+debridement	uses	laser
+debridement	uses	ultrasound
+debridement	requires	wound assessment
+debridement	evaluates	tissue viability
+debridement	determines	wound depth
+debridement	classifies	wound type
+debridement	assesses	infection severity
+debridement	considers	patient comorbidities
+debridement	influenced by	wound location
+debridement	frequency depends on	wound condition
+debridement	involves	wound irrigation
+debridement	may require	skin graft
+debridement	may require	flap reconstruction
+debridement	contraindicated in	bleeding disorders
+debridement	contraindicated in	poor vascular supply
+debridement	requires	informed consent
+debridement	involves	pain management
+debridement	monitored with	vital signs
+debridement	documented with	wound measurements
+debridement	evaluates	exudate
+debridement	assesses	odor
+debridement	checks for	foreign bodies
+debridement	ensures	hemostasis
+debridement	supported by	nutrition
+debridement	improves	oxygen delivery
+debridement	reduces	edema
+debridement	prevents	contractures
+debridement	enhances	collagen deposition
+debridement	stimulates	epithelialization
+debridement	optimizes	moist wound environment
+debridement	avoids	tissue maceration
+debridement	balances	proteolytic activity
+debridement	coordinates	multidisciplinary care
+debridement	educates	patient
+debridement	follows	clinical guidelines
+debridement	adheres to	infection protocols
+debridement	tailored to	patient needs
+debridement	reviewed in	follow-up
+debridement	benchmarked with	healing rates
+debridement	correlated with	patient satisfaction
+debridement	impacts	healthcare costs
+debridement	reduces	readmission rates
+debridement	essential for	wound management

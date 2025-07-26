@@ -1,0 +1,100 @@
+other diuretics	belong to	ATC class C03
+ATC class C03	includes	carbonic anhydrase inhibitors
+ATC class C03	includes	osmotic diuretics
+ATC class C03	includes	low-ceiling diuretics
+carbonic anhydrase inhibitors	include	acetazolamide
+osmotic diuretics	include	mannitol
+low-ceiling diuretics	include	thiazides
+acetazolamide	treats	glaucoma
+acetazolamide	prevents	altitude sickness
+mannitol	reduces	intracranial pressure
+mannitol	manages	cerebral edema
+thiazides	treat	hypertension
+thiazides	cause	hypokalemia
+hypokalemia	increases	arrhythmia risk
+other diuretics	act on	nephron
+nephron	contains	proximal tubule
+proximal tubule	reabsorbs	sodium
+carbonic anhydrase inhibitors	target	proximal tubule
+osmotic diuretics	act on	loop of Henle
+loop of Henle	regulates	urine concentration
+other diuretics	interact with	NSAIDs
+NSAIDs	reduce	diuretic efficacy
+other diuretics	require	electrolyte monitoring
+electrolyte monitoring	detects	hyponatremia
+hyponatremia	causes	neurological symptoms
+other diuretics	contraindicated in	renal failure
+renal failure	requires	dose adjustment
+dose adjustment	prevents	toxicity
+other diuretics	prescribed for	heart failure
+heart failure	involves	fluid overload
+fluid overload	manifests as	edema
+edema	assessed by	weight monitoring
+other diuretics	affect	blood pressure
+blood pressure	regulated by	RAAS system
+RAAS system	inhibited by	ACE inhibitors
+ACE inhibitors	combined with	diuretics
+combination therapy	enhances	antihypertensive effect
+other diuretics	excreted via	kidneys
+kidneys	filter	creatinine
+creatinine levels	indicate	renal function
+other diuretics	may cause	dehydration
+dehydration	leads to	orthostatic hypotension
+orthostatic hypotension	increases	fall risk
+fall risk	concerns	elderly patients
+elderly patients	require	lower doses
+other diuretics	compete with	lithium excretion
+lithium	has narrow	therapeutic index
+therapeutic index	determines	drug safety
+other diuretics	interact with	digoxin
+digoxin	treats	atrial fibrillation
+atrial fibrillation	requires	rate control
+rate control	achieved by	beta blockers
+beta blockers	combined with	diuretics
+other diuretics	affect	glucose metabolism
+glucose metabolism	impaired in	diabetes
+diabetes	monitored by	HbA1c levels
+other diuretics	increase	uric acid
+uric acid	causes	gout
+gout	treated with	allopurinol
+allopurinol	inhibits	xanthine oxidase
+other diuretics	alter	calcium balance
+calcium balance	affects	bone density
+bone density	measured by	DEXA scan
+DEXA scan	diagnoses	osteoporosis
+other diuretics	require	baseline labs
+baseline labs	include	serum potassium
+serum potassium	maintained by	aldosterone
+aldosterone	secreted by	adrenal glands
+adrenal glands	produce	cortisol
+cortisol	affects	fluid balance
+other diuretics	contraindicated in	pregnancy
+pregnancy	alters	pharmacokinetics
+pharmacokinetics	studies	drug absorption
+drug absorption	occurs in	small intestine
+small intestine	absorbs	nutrients
+other diuretics	have	onset time
+onset time	varies by	administration route
+administration route	includes	oral
+oral administration	requires	GI tract
+GI tract	affected by	food interactions
+food interactions	modify	drug bioavailability
+bioavailability	determines	dosing regimen
+dosing regimen	adjusted for	comorbidities
+comorbidities	include	liver disease
+liver disease	impairs	drug metabolism
+drug metabolism	involves	cytochrome P450
+cytochrome P450	inhibited by	grapefruit juice
+grapefruit juice	affects	drug clearance
+drug clearance	measured by	half-life
+half-life	determines	dosing frequency
+other diuretics	have	generic versions
+generic versions	reduce	healthcare costs
+healthcare costs	influenced by	formularies
+formularies	list	preferred medications
+preferred medications	selected by	P&T committees
+P&T committees	review	clinical evidence
+clinical evidence	includes	RCTs
+RCTs	evaluate	drug efficacy
+drug efficacy	compared to	placebo
+placebo	controls for	psychological effects

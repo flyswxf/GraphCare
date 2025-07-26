@@ -1,0 +1,100 @@
+ultrasound contrast media	is a	diagnostic tool
+ultrasound contrast media	enhances	ultrasound imaging
+ultrasound contrast media	contains	microbubbles
+microbubbles	consist of	gas core
+gas core	surrounded by	shell
+shell	made of	lipids
+shell	made of	proteins
+ultrasound contrast media	improves	vascular visualization
+ultrasound contrast media	used in	echocardiography
+echocardiography	assesses	heart function
+ultrasound contrast media	detects	liver lesions
+liver lesions	may indicate	cancer
+ultrasound contrast media	aids in	tumor characterization
+tumor characterization	helps in	treatment planning
+ultrasound contrast media	evaluates	blood flow
+blood flow	indicates	organ perfusion
+organ perfusion	correlates with	organ health
+ultrasound contrast media	contraindicated in	pulmonary hypertension
+pulmonary hypertension	increases	right heart pressure
+right heart pressure	affects	cardiac output
+ultrasound contrast media	contraindicated in	hypersensitivity
+hypersensitivity	causes	allergic reactions
+allergic reactions	may include	anaphylaxis
+anaphylaxis	requires	epinephrine
+ultrasound contrast media	metabolized by	lungs
+lungs	eliminate	gas microbubbles
+ultrasound contrast media	administered via	intravenous injection
+intravenous injection	requires	venous access
+venous access	established by	catheter
+ultrasound contrast media	has	half-life
+half-life	determines	duration of effect
+ultrasound contrast media	interacts with	ultrasound waves
+ultrasound waves	generate	acoustic signals
+acoustic signals	processed into	images
+ultrasound contrast media	improves	diagnostic accuracy
+diagnostic accuracy	reduces	need for biopsies
+biopsies	carry risk of	complications
+ultrasound contrast media	used in	abdominal imaging
+abdominal imaging	evaluates	liver disease
+liver disease	includes	cirrhosis
+ultrasound contrast media	used in	renal imaging
+renal imaging	assesses	kidney function
+kidney function	measured by	glomerular filtration rate
+ultrasound contrast media	distinguishes	benign from malignant tumors
+malignant tumors	require	chemotherapy
+chemotherapy	has	side effects
+side effects	include	nausea
+ultrasound contrast media	guided by	ultrasound machine
+ultrasound machine	operated by	sonographer
+sonographer	trained in	medical imaging
+ultrasound contrast media	enhances	Doppler ultrasound
+Doppler ultrasound	measures	blood velocity
+blood velocity	indicates	vessel patency
+vessel patency	affects	tissue oxygenation
+tissue oxygenation	vital for	cell survival
+ultrasound contrast media	used in	breast imaging
+breast imaging	detects	breast cancer
+breast cancer	treated with	surgery
+surgery	may involve	lumpectomy
+ultrasound contrast media	used in	musculoskeletal imaging
+musculoskeletal imaging	evaluates	tendon tears
+tendon tears	require	physical therapy
+physical therapy	improves	mobility
+ultrasound contrast media	used in	thyroid imaging
+thyroid imaging	diagnoses	thyroid nodules
+thyroid nodules	may be	cancerous
+ultrasound contrast media	used in	obstetric imaging
+obstetric imaging	monitors	fetal development
+fetal development	assessed by	growth charts
+ultrasound contrast media	alternative to	CT contrast
+CT contrast	carries risk of	nephrotoxicity
+nephrotoxicity	damages	kidneys
+ultrasound contrast media	safer for	renal patients
+renal patients	have	impaired kidney function
+impaired kidney function	requires	dose adjustment
+ultrasound contrast media	stored at	room temperature
+room temperature	maintains	stability
+stability	ensures	efficacy
+ultrasound contrast media	approved by	FDA
+FDA	regulates	medical devices
+medical devices	must pass	clinical trials
+clinical trials	test	safety
+safety	evaluated by	adverse events
+ultrasound contrast media	developed by	pharmaceutical companies
+pharmaceutical companies	invest in	research
+research	leads to	innovations
+innovations	improve	patient outcomes
+patient outcomes	measured by	survival rates
+survival rates	depend on	early diagnosis
+early diagnosis	facilitated by	imaging
+imaging	includes	MRI
+MRI	alternative to	ultrasound
+ultrasound	more accessible than	MRI
+accessibility	increases	patient compliance
+patient compliance	improves	treatment success
+treatment success	reduces	healthcare costs
+healthcare costs	affected by	hospital readmissions
+hospital readmissions	reduced by	accurate diagnosis
+accurate diagnosis	achieved with	contrast media
+contrast media	includes	ultrasound contrast media

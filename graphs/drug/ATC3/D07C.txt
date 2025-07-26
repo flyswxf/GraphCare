@@ -1,0 +1,100 @@
+corticosteroids	suppress	inflammation
+antibiotics	kill	bacteria
+corticosteroids	combined with	antibiotics
+combination therapy	treats	bacterial infections
+combination therapy	reduces	inflammation
+bacterial infections	cause	tissue damage
+inflammation	contributes to	tissue damage
+corticosteroids	inhibit	immune response
+antibiotics	target	bacterial cell walls
+combination therapy	used for	otitis media
+otitis media	involves	ear infection
+combination therapy	treats	sinusitis
+sinusitis	affects	nasal cavities
+corticosteroids	decrease	swelling
+antibiotics	prevent	infection spread
+combination therapy	accelerates	recovery
+recovery	depends on	treatment adherence
+corticosteroids	derived from	adrenal cortex
+antibiotics	classified by	mechanism
+combination therapy	requires	dosage adjustment
+dosage adjustment	prevents	side effects
+side effects	include	gastrointestinal upset
+corticosteroids	increase	infection risk
+antibiotics	cause	bacterial resistance
+bacterial resistance	complicates	treatment
+combination therapy	monitored by	physicians
+physicians	consider	patient history
+patient history	includes	allergies
+allergies	contraindicate	certain drugs
+corticosteroids	affect	glucose metabolism
+glucose metabolism	impacts	diabetes control
+antibiotics	disrupt	gut microbiota
+gut microbiota	influences	immunity
+combination therapy	effective for	COPD
+COPD	characterized by	airflow obstruction
+airflow obstruction	causes	breathing difficulty
+corticosteroids	reduce	mucus production
+antibiotics	clear	bacterial exacerbations
+combination therapy	prevents	hospitalization
+hospitalization	increases	healthcare costs
+corticosteroids	available as	oral tablets
+oral tablets	require	proper administration
+antibiotics	include	penicillin class
+penicillin class	treats	gram-positive bacteria
+gram-positive bacteria	have	thick cell walls
+combination therapy	used in	dermatology
+dermatology	deals with	skin disorders
+skin disorders	manifest as	rashes
+corticosteroids	alleviate	itching
+antibiotics	heal	infected wounds
+wound healing	involves	tissue regeneration
+combination therapy	prescribed for	pneumonia
+pneumonia	affects	lung alveoli
+lung alveoli	facilitate	gas exchange
+corticosteroids	modulate	cytokine production
+cytokines	mediate	immune reactions
+antibiotics	interfere with	protein synthesis
+protein synthesis	essential for	bacterial growth
+combination therapy	contraindicated in	viral infections
+viral infections	unaffected by	antibiotics
+corticosteroids	administered via	inhalers
+inhalers	deliver	medication locally
+antibiotics	available as	intravenous formulations
+intravenous administration	ensures	rapid delivery
+combination therapy	benefits	immunocompromised patients
+immunocompromised patients	susceptible to	opportunistic infections
+corticosteroids	regulate	gene expression
+gene expression	controls	protein production
+antibiotics	classified as	bacteriostatic or bactericidal
+bactericidal drugs	kill	bacteria directly
+combination therapy	treats	septic arthritis
+septic arthritis	involves	joint infection
+joint infection	leads to	cartilage damage
+corticosteroids	prevent	excessive scarring
+antibiotics	eliminate	infection source
+combination therapy	used post	surgery
+surgery	carries	infection risk
+infection risk	mitigated by	prophylactic antibiotics
+corticosteroids	decrease	postoperative swelling
+postoperative swelling	delays	recovery
+combination therapy	manages	cellulitis
+cellulitis	affects	subcutaneous tissue
+subcutaneous tissue	contains	connective fibers
+corticosteroids	influence	leukocyte migration
+leukocyte migration	crucial for	immune defense
+antibiotics	disrupt	bacterial DNA replication
+DNA replication	necessary for	bacterial division
+combination therapy	requires	culture tests
+culture tests	identify	causative organisms
+corticosteroids	alter	prostaglandin synthesis
+prostaglandins	promote	inflammation
+antibiotics	differ in	spectrum
+broad-spectrum antibiotics	cover	multiple bacteria
+combination therapy	treats	meningitis
+meningitis	inflames	meninges
+meninges	protect	central nervous system
+corticosteroids	reduce	intracranial pressure
+antibiotics	cross	blood-brain barrier
+blood-brain barrier	filters	harmful substances
+combination therapy	improves	patient outcomes

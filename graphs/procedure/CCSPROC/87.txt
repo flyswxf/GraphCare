@@ -1,0 +1,100 @@
+laparoscopy	is a	surgical procedure
+laparoscopy	used for	diagnosis
+laparoscopy	used for	treatment
+laparoscopy	involves	minimally invasive technique
+laparoscopy	requires	general anesthesia
+laparoscopy	performed by	surgeon
+laparoscopy	uses	laparoscope
+laparoscopy	examines	abdominal organs
+laparoscopy	detects	appendicitis
+laparoscopy	detects	gallstones
+laparoscopy	treats	cholecystitis
+laparoscopy	treats	hernia
+laparoscopy	treats	ectopic pregnancy
+laparoscopy	treats	endometriosis
+laparoscopy	treats	adhesions
+laparoscopy	evaluates	liver disease
+laparoscopy	evaluates	pancreatic disease
+laparoscopy	evaluates	stomach disease
+laparoscopy	evaluates	intestinal disease
+laparoscopy	assesses	tumor
+laparoscopy	assesses	inflammation
+laparoscopy	assesses	infection
+laparoscopy	assesses	trauma
+laparoscopy	requires	preoperative testing
+laparoscopy	requires	fasting
+laparoscopy	risks	bleeding
+laparoscopy	risks	infection
+laparoscopy	risks	organ injury
+laparoscopy	risks	anesthesia complications
+laparoscopy	alternative to	open surgery
+laparoscopy	has advantage	shorter recovery
+laparoscopy	has advantage	smaller scars
+laparoscopy	has advantage	less pain
+laparoscopy	has advantage	lower infection risk
+laparoscopy	contraindicated in	severe cardiopulmonary disease
+laparoscopy	contraindicated in	bleeding disorder
+laparoscopy	contraindicated in	bowel obstruction
+laparoscopy	contraindicated in	late pregnancy
+laparoscopy	requires	carbon dioxide insufflation
+laparoscopy	causes	shoulder pain
+laparoscopy	followed by	postoperative monitoring
+laparoscopy	followed by	pain management
+laparoscopy	followed by	activity restriction
+laparoscopy	followed by	wound care
+laparoscopy	complication	hernia at incision
+laparoscopy	complication	blood clot
+laparoscopy	complication	gas embolism
+laparoscopy	performed in	operating room
+laparoscopy	requires	sterile technique
+laparoscopy	uses	trocar
+laparoscopy	uses	electrocautery
+laparoscopy	uses	sutures
+laparoscopy	uses	staplers
+laparoscopy	can convert to	open surgery
+laparoscopy	duration	30-120 minutes
+laparoscopy	preparation	bowel prep
+laparoscopy	preparation	IV antibiotics
+laparoscopy	recovery	1-2 weeks
+laparoscopy	recovery	light activity
+laparoscopy	recovery	no heavy lifting
+laparoscopy	postoperative symptom	bloating
+laparoscopy	postoperative symptom	nausea
+laparoscopy	postoperative symptom	fatigue
+laparoscopy	success rate	high
+laparoscopy	cost	lower than open surgery
+laparoscopy	history	first performed in 1901
+laparoscopy	advancement	robotic-assisted
+laparoscopy	advancement	single-port
+laparoscopy	training	residency program
+laparoscopy	training	simulation
+laparoscopy	research	improved techniques
+laparoscopy	research	new applications
+laparoscopy	specialty	general surgery
+laparoscopy	specialty	gynecology
+laparoscopy	specialty	urology
+laparoscopy	imaging	real-time video
+laparoscopy	imaging	high-definition
+laparoscopy	instrument	graspers
+laparoscopy	instrument	scissors
+laparoscopy	instrument	clip applier
+laparoscopy	instrument	suction device
+laparoscopy	instrument	irrigation system
+laparoscopy	anesthesia type	endotracheal intubation
+laparoscopy	anesthesia type	laryngeal mask
+laparoscopy	monitoring	pulse oximeter
+laparoscopy	monitoring	blood pressure
+laparoscopy	monitoring	capnography
+laparoscopy	patient position	supine
+laparoscopy	patient position	Trendelenburg
+laparoscopy	patient position	reverse Trendelenburg
+laparoscopy	patient position	lateral decubitus
+laparoscopy	surgical team	scrub nurse
+laparoscopy	surgical team	anesthesiologist
+laparoscopy	surgical team	circulating nurse
+laparoscopy	documentation	operative note
+laparoscopy	documentation	images
+laparoscopy	documentation	video recording
+laparoscopy	follow-up	outpatient visit
+laparoscopy	follow-up	pathology review
+laparoscopy	follow-up	long-term outcomes

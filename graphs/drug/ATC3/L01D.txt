@@ -1,0 +1,100 @@
+cytotoxic antibiotics	are	chemotherapy drugs
+cytotoxic antibiotics	target	rapidly dividing cells
+cytotoxic antibiotics	used to treat	cancers
+cytotoxic antibiotics	can cause	bone marrow suppression
+bone marrow suppression	leads to	anemia
+bone marrow suppression	leads to	leukopenia
+bone marrow suppression	leads to	thrombocytopenia
+cytotoxic antibiotics	can cause	gastrointestinal toxicity
+gastrointestinal toxicity	includes	nausea
+gastrointestinal toxicity	includes	vomiting
+cytotoxic antibiotics	can cause	alopecia
+cytotoxic antibiotics	include	anthracyclines
+anthracyclines	include	doxorubicin
+anthracyclines	include	daunorubicin
+doxorubicin	can cause	cardiotoxicity
+cardiotoxicity	may lead to	heart failure
+daunorubicin	used for	acute leukemias
+cytotoxic antibiotics	include	bleomycin
+bleomycin	can cause	pulmonary fibrosis
+pulmonary fibrosis	leads to	respiratory insufficiency
+cytotoxic antibiotics	include	dactinomycin
+dactinomycin	used for	Wilms tumor
+cytotoxic antibiotics	work by	DNA intercalation
+DNA intercalation	inhibits	DNA replication
+DNA replication inhibition	prevents	cell division
+cytotoxic antibiotics	derived from	Streptomyces
+Streptomyces	are	soil bacteria
+cytotoxic antibiotics	have	dose-limiting toxicities
+dose-limiting toxicities	require	treatment adjustments
+cytotoxic antibiotics	often used in	combination chemotherapy
+combination chemotherapy	enhances	treatment efficacy
+combination chemotherapy	reduces	drug resistance
+cytotoxic antibiotics	may interact with	other medications
+drug interactions	can increase	toxicity
+cytotoxic antibiotics	require	careful monitoring
+careful monitoring	includes	blood tests
+blood tests	check for	myelosuppression
+cytotoxic antibiotics	contraindicated in	pregnancy
+pregnancy	requires	alternative treatments
+cytotoxic antibiotics	affected by	renal function
+renal impairment	requires	dose reduction
+cytotoxic antibiotics	metabolized by	liver
+liver dysfunction	affects	drug clearance
+cytotoxic antibiotics	can cause	secondary malignancies
+secondary malignancies	may appear	years later
+cytotoxic antibiotics	have	narrow therapeutic index
+narrow therapeutic index	needs	precise dosing
+cytotoxic antibiotics	administered via	intravenous infusion
+intravenous infusion	requires	vascular access
+vascular access	can lead to	phlebitis
+cytotoxic antibiotics	may cause	hypersensitivity reactions
+hypersensitivity reactions	require	immediate treatment
+cytotoxic antibiotics	can damage	mucous membranes
+mucous membrane damage	causes	oral mucositis
+oral mucositis	leads to	pain
+oral mucositis	leads to	difficulty eating
+cytotoxic antibiotics	affect	wound healing
+impaired wound healing	increases	infection risk
+cytotoxic antibiotics	contraindicated in	breastfeeding
+breastfeeding	requires	temporary cessation
+cytotoxic antibiotics	stored under	specific conditions
+improper storage	reduces	drug potency
+cytotoxic antibiotics	have	specific administration protocols
+administration protocols	minimize	staff exposure
+staff exposure	requires	protective equipment
+cytotoxic antibiotics	classified as	hazardous drugs
+hazardous drugs	need	special handling
+cytotoxic antibiotics	can be	teratogenic
+teratogenic effects	cause	fetal abnormalities
+cytotoxic antibiotics	may cause	infertility
+infertility	results from	gonadal toxicity
+gonadal toxicity	affects	sperm production
+gonadal toxicity	affects	ovarian function
+cytotoxic antibiotics	can induce	tumor lysis syndrome
+tumor lysis syndrome	causes	metabolic disturbances
+metabolic disturbances	include	hyperuricemia
+hyperuricemia	leads to	renal complications
+cytotoxic antibiotics	have	specific antidotes
+dexrazoxane	is antidote for	anthracycline toxicity
+cytotoxic antibiotics	often require	premedications
+premedications	prevent	infusion reactions
+cytotoxic antibiotics	show	cell cycle specificity
+cell cycle specificity	determines	administration timing
+cytotoxic antibiotics	vary in	lipid solubility
+lipid solubility	affects	CNS penetration
+cytotoxic antibiotics	may be	vesicants
+vesicants	cause	tissue necrosis
+tissue necrosis	requires	wound care
+cytotoxic antibiotics	have	generic alternatives
+generic alternatives	reduce	treatment costs
+cytotoxic antibiotics	subject to	drug shortages
+drug shortages	necessitate	therapeutic substitutions
+cytotoxic antibiotics	have	patent expirations
+patent expirations	allow	biosimilars
+biosimilars	undergo	rigorous testing
+cytotoxic antibiotics	researched for	new formulations
+liposomal formulations	reduce	toxicity
+cytotoxic antibiotics	studied for	new indications
+new indications	expand	clinical utility
+cytotoxic antibiotics	remain	cancer treatment cornerstone

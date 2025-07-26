@@ -1,0 +1,100 @@
+diuretics and potassium-sparing agents in combination	is a	medication class
+diuretics and potassium-sparing agents in combination	used for	hypertension
+diuretics and potassium-sparing agents in combination	used for	edema
+diuretics and potassium-sparing agents in combination	used for	heart failure
+diuretics and potassium-sparing agents in combination	prevents	hypokalemia
+diuretics and potassium-sparing agents in combination	has	synergistic effect
+diuretics and potassium-sparing agents in combination	contains	thiazide
+diuretics and potassium-sparing agents in combination	contains	spironolactone
+diuretics and potassium-sparing agents in combination	contains	amiloride
+diuretics and potassium-sparing agents in combination	contains	triamterene
+thiazide	causes	hypokalemia
+spironolactone	prevents	hypokalemia
+amiloride	prevents	hypokalemia
+triamterene	prevents	hypokalemia
+diuretics and potassium-sparing agents in combination	requires	monitoring
+monitoring	includes	serum potassium
+monitoring	includes	renal function
+diuretics and potassium-sparing agents in combination	contraindicated in	renal failure
+diuretics and potassium-sparing agents in combination	contraindicated in	hyperkalemia
+diuretics and potassium-sparing agents in combination	may cause	hyperkalemia
+hyperkalemia	can lead to	arrhythmia
+arrhythmia	can cause	cardiac arrest
+diuretics and potassium-sparing agents in combination	interacts with	ACE inhibitors
+ACE inhibitors	increase risk of	hyperkalemia
+diuretics and potassium-sparing agents in combination	interacts with	ARBs
+ARBs	increase risk of	hyperkalemia
+diuretics and potassium-sparing agents in combination	interacts with	potassium supplements
+potassium supplements	increase risk of	hyperkalemia
+diuretics and potassium-sparing agents in combination	has	dose-dependent effects
+dose-dependent effects	affect	efficacy
+dose-dependent effects	affect	safety
+diuretics and potassium-sparing agents in combination	metabolized in	liver
+liver dysfunction	affects	metabolism
+diuretics and potassium-sparing agents in combination	excreted via	kidneys
+renal dysfunction	affects	excretion
+diuretics and potassium-sparing agents in combination	has	fixed-dose combinations
+fixed-dose combinations	improve	adherence
+adherence	affects	treatment outcomes
+diuretics and potassium-sparing agents in combination	alters	electrolyte balance
+electrolyte imbalance	causes	complications
+complications	include	muscle weakness
+complications	include	fatigue
+diuretics and potassium-sparing agents in combination	affects	blood pressure
+blood pressure reduction	prevents	stroke
+blood pressure reduction	prevents	myocardial infarction
+diuretics and potassium-sparing agents in combination	used in	nephrotic syndrome
+nephrotic syndrome	causes	edema
+diuretics and potassium-sparing agents in combination	used in	cirrhosis
+cirrhosis	causes	ascites
+ascites	treated with	diuretics
+diuretics and potassium-sparing agents in combination	less effective in	renal impairment
+renal impairment	requires	dose adjustment
+dose adjustment	prevents	toxicity
+diuretics and potassium-sparing agents in combination	contraindicated in	Addison's disease
+Addison's disease	causes	hyperkalemia
+diuretics and potassium-sparing agents in combination	may cause	gynecomastia
+gynecomastia	side effect of	spironolactone
+diuretics and potassium-sparing agents in combination	may cause	nausea
+nausea	can lead to	vomiting
+diuretics and potassium-sparing agents in combination	may cause	headache
+headache	can be	mild to severe
+diuretics and potassium-sparing agents in combination	may cause	dizziness
+dizziness	increases risk of	falls
+falls	can cause	fractures
+diuretics and potassium-sparing agents in combination	may cause	rash
+rash	can be	allergic reaction
+allergic reaction	can cause	anaphylaxis
+diuretics and potassium-sparing agents in combination	affects	glucose metabolism
+glucose metabolism alteration	can worsen	diabetes
+diabetes	requires	monitoring
+diuretics and potassium-sparing agents in combination	affects	uric acid
+uric acid elevation	can cause	gout
+gout	causes	joint pain
+diuretics and potassium-sparing agents in combination	may cause	photosensitivity
+photosensitivity	increases risk of	sunburn
+diuretics and potassium-sparing agents in combination	has	black box warning
+black box warning	indicates	serious risks
+diuretics and potassium-sparing agents in combination	requires	baseline labs
+baseline labs	include	electrolytes
+baseline labs	include	creatinine
+creatinine elevation	indicates	renal impairment
+diuretics and potassium-sparing agents in combination	used with	dietary sodium restriction
+dietary sodium restriction	enhances	efficacy
+diuretics and potassium-sparing agents in combination	avoided in	pregnancy
+pregnancy	requires	special consideration
+diuretics and potassium-sparing agents in combination	affects	blood volume
+blood volume reduction	causes	hypotension
+hypotension	can cause	dizziness
+diuretics and potassium-sparing agents in combination	may cause	dehydration
+dehydration	leads to	electrolyte imbalance
+diuretics and potassium-sparing agents in combination	used in	elderly patients
+elderly patients	have increased	sensitivity
+sensitivity	requires	lower doses
+diuretics and potassium-sparing agents in combination	has	onset of action
+onset of action	varies by	formulation
+formulation	affects	bioavailability
+bioavailability	determines	dosing
+diuretics and potassium-sparing agents in combination	has	duration of action
+duration of action	affects	dosing frequency
+dosing frequency	impacts	adherence

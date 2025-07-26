@@ -1,0 +1,100 @@
+crushing injury	may cause	internal bleeding
+internal injury	may cause	organ damage
+crushing injury	may lead to	compartment syndrome
+internal injury	may result in	hemorrhagic shock
+crushing injury	requires	imaging diagnosis
+internal injury	is diagnosed with	CT scan
+crushing injury	is treated with	surgical intervention
+internal injury	may require	blood transfusion
+crushing injury	can cause	fracture
+internal injury	may involve	liver laceration
+crushing injury	may result in	nerve damage
+internal injury	can lead to	peritonitis
+crushing injury	is associated with	rhabdomyolysis
+internal injury	may cause	sepsis
+crushing injury	requires	pain management
+internal injury	is monitored with	vital signs
+crushing injury	may necessitate	fasciotomy
+internal injury	can be caused by	blunt trauma
+crushing injury	has symptom	swelling
+internal injury	has symptom	abdominal pain
+crushing injury	may require	ICU admission
+internal injury	can worsen with	delayed treatment
+crushing injury	is assessed with	Glasgow Coma Scale
+internal injury	may lead to	multi-organ failure
+crushing injury	can complicate with	infection
+internal injury	is managed with	fluid resuscitation
+crushing injury	may cause	crush syndrome
+internal injury	may involve	spleen rupture
+crushing injury	requires	tetanus prophylaxis
+internal injury	can result from	car accident
+crushing injury	may lead to	amputation
+internal injury	is screened with	FAST exam
+crushing injury	may require	wound debridement
+internal injury	can cause	pneumothorax
+crushing injury	is evaluated with	X-ray
+internal injury	may necessitate	laparotomy
+crushing injury	can trigger	DIC
+internal injury	may involve	kidney contusion
+crushing injury	is treated with	antibiotics
+internal injury	can lead to	ARDS
+crushing injury	may cause	vascular injury
+internal injury	is associated with	hypotension
+crushing injury	requires	immobilization
+internal injury	may result in	bowel perforation
+crushing injury	can complicate with	gangrene
+internal injury	is managed with	vasopressors
+crushing injury	may necessitate	skin graft
+internal injury	can be caused by	fall
+crushing injury	has risk factor	construction work
+internal injury	has risk factor	contact sports
+crushing injury	may require	mechanical ventilation
+internal injury	can worsen with	coagulopathy
+crushing injury	is assessed with	capillary refill
+internal injury	may lead to	cardiac tamponade
+crushing injury	can complicate with	fat embolism
+internal injury	is managed with	chest tube
+crushing injury	may cause	spinal cord injury
+internal injury	may involve	pancreatic trauma
+crushing injury	requires	hemoglobin monitoring
+internal injury	can result from	assault
+crushing injury	may lead to	chronic pain
+internal injury	is screened with	D-dimer
+crushing injury	may require	nerve repair
+internal injury	can cause	hemothorax
+crushing injury	is evaluated with	MRI
+internal injury	may necessitate	thoracotomy
+crushing injury	can trigger	SIRS
+internal injury	may involve	adrenal hemorrhage
+crushing injury	is treated with	anticoagulants
+internal injury	can lead to	renal failure
+crushing injury	may cause	compartment pressure
+internal injury	is associated with	tachycardia
+crushing injury	requires	pulse oximetry
+internal injury	may result in	duodenal injury
+crushing injury	can complicate with	osteomyelitis
+internal injury	is managed with	NG tube
+crushing injury	may necessitate	external fixation
+internal injury	can be caused by	explosion
+crushing injury	has risk factor	heavy machinery
+internal injury	has risk factor	elderly
+crushing injury	may require	dialysis
+internal injury	can worsen with	hypothermia
+crushing injury	is assessed with	creatine kinase
+internal injury	may lead to	mesenteric ischemia
+crushing injury	can complicate with	thromboembolism
+internal injury	is managed with	pelvic binder
+crushing injury	may cause	nerve compression
+internal injury	may involve	gallbladder rupture
+crushing injury	requires	urine output monitoring
+internal injury	can result from	sports injury
+crushing injury	may lead to	phantom pain
+internal injury	is screened with	lactate level
+crushing injury	may require	vascular repair
+internal injury	can cause	diaphragmatic tear
+crushing injury	is evaluated with	ultrasound
+internal injury	may necessitate	ERCP
+crushing injury	can trigger	hyperkalemia
+internal injury	may involve	esophageal rupture
+crushing injury	is treated with	hyperbaric oxygen
+internal injury	can lead to	death

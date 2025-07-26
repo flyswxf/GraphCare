@@ -1,0 +1,100 @@
+incision and drainage	is a	surgical procedure
+incision and drainage	treats	abscess
+incision and drainage	involves	skin incision
+incision and drainage	drains	pus
+incision and drainage	requires	local anesthesia
+incision and drainage	prevents	infection spread
+incision and drainage	performed on	skin and subcutaneous tissue
+incision and drainage	follows	abscess localization
+incision and drainage	may require	wound packing
+incision and drainage	has risk	bleeding
+skin and subcutaneous tissue	contains	abscess
+skin and subcutaneous tissue	has layers	epidermis
+skin and subcutaneous tissue	has layers	dermis
+skin and subcutaneous tissue	has layers	hypodermis
+skin and subcutaneous tissue	harbors	bacteria
+skin and subcutaneous tissue	can develop	cellulitis
+skin and subcutaneous tissue	requires	aseptic technique
+skin and subcutaneous tissue	heals by	secondary intention
+skin and subcutaneous tissue	affected by	diabetes
+skin and subcutaneous tissue	prone to	infection
+abscess	caused by	bacterial infection
+abscess	characterized by	pus collection
+abscess	presents with	erythema
+abscess	presents with	swelling
+abscess	presents with	tenderness
+abscess	may cause	fever
+abscess	diagnosed by	clinical examination
+abscess	may require	ultrasound
+abscess	complication	sepsis
+abscess	associated with	MRSA
+pus	contains	dead leukocytes
+pus	contains	bacteria
+pus	has color	yellow
+pus	has odor	foul
+pus	indicates	infection
+pus	cultured for	antibiotic sensitivity
+pus	removed by	drainage
+pus	accumulation causes	pressure
+pus	may lead	tissue damage
+pus	analyzed for	pathogen identification
+local anesthesia	numbs	surgical site
+local anesthesia	includes	lidocaine
+local anesthesia	administered by	injection
+local anesthesia	avoids	general anesthesia
+local anesthesia	has duration	limited
+local anesthesia	may cause	allergic reaction
+local anesthesia	requires	dosage calculation
+local anesthesia	wears off	hours
+local anesthesia	contraindicated in	allergy
+local anesthesia	preferred for	minor procedures
+wound packing	promotes	drainage
+wound packing	uses	gauze
+wound packing	prevents	premature closure
+wound packing	requires	daily changing
+wound packing	facilitates	healing
+wound packing	may use	iodinated solution
+wound packing	monitored for	infection
+wound packing	reduces	recurrence
+wound packing	absorbs	exudate
+wound packing	discontinued when	granulation appears
+erythema	indicates	inflammation
+erythema	appears as	redness
+erythema	measured by	visual assessment
+erythema	may spread	centrifugally
+erythema	accompanies	warmth
+erythema	resolves with	treatment
+erythema	differs from	bruising
+erythema	evaluates	treatment response
+erythema	may indicate	allergic reaction
+erythema	documented in	medical records
+MRSA	resistant to	beta-lactams
+MRSA	treated with	vancomycin
+MRSA	spreads by	contact
+MRSA	colonizes	nares
+MRSA	screened for	preoperative
+MRSA	prevented by	hand hygiene
+MRSA	causes	recurrent abscesses
+MRSA	requires	contact precautions
+MRSA	increases	hospital stay
+MRSA	associated with	healthcare settings
+secondary intention	involves	granulation
+secondary intention	takes	longer time
+secondary intention	leaves	larger scar
+secondary intention	prefers	contaminated wounds
+secondary intention	requires	moist environment
+secondary intention	contrasts with	primary closure
+secondary intention	monitored for	infection
+secondary intention	benefits from	dressings
+secondary intention	progresses through	phases
+secondary intention	completes with	epithelialization
+aseptic technique	prevents	contamination
+aseptic technique	includes	handwashing
+aseptic technique	uses	sterile instruments
+aseptic technique	requires	glove use
+aseptic technique	minimizes	infection risk
+aseptic technique	standard in	surgical procedures
+aseptic technique	taught in	medical training
+aseptic technique	violated by	negligence
+aseptic technique	documented in	protocols
+aseptic technique	ensures	patient safety

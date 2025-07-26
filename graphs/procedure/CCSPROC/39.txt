@@ -1,0 +1,110 @@
+incision of pleura	is a	surgical procedure
+thoracentesis	is a	medical procedure
+chest drainage	is a	therapeutic procedure
+incision of pleura	treats	pleural effusion
+thoracentesis	removes	pleural fluid
+chest drainage	relieves	pneumothorax
+incision of pleura	requires	anesthesia
+thoracentesis	performed using	ultrasound guidance
+chest drainage	involves	chest tube insertion
+pleural effusion	caused by	heart failure
+pneumothorax	caused by	lung injury
+pleural fluid	analyzed for	infection
+ultrasound guidance	reduces	complication risk
+chest tube	connected to	drainage system
+incision of pleura	risks	bleeding
+thoracentesis	risks	lung puncture
+chest drainage	risks	infection
+pleural effusion	symptom of	cancer
+pneumothorax	symptom of	emphysema
+heart failure	treated with	diuretics
+lung injury	caused by	trauma
+infection	treated with	antibiotics
+cancer	diagnosed with	biopsy
+emphysema	managed with	bronchodilators
+diuretics	reduce	fluid retention
+trauma	requires	emergency care
+antibiotics	target	bacteria
+biopsy	confirms	malignancy
+bronchodilators	relieve	breathing difficulty
+emergency care	involves	stabilization
+bacteria	cause	pneumonia
+malignancy	treated with	chemotherapy
+breathing difficulty	symptom of	asthma
+stabilization	performed in	ER
+pneumonia	diagnosed with	x-ray
+chemotherapy	side effect	nausea
+asthma	managed with	inhalers
+ER	staffed by	emergency physicians
+x-ray	shows	lung opacity
+nausea	treated with	antiemetics
+inhalers	deliver	corticosteroids
+emergency physicians	assess	vital signs
+lung opacity	indicates	infection
+antiemetics	block	vomiting reflex
+corticosteroids	reduce	inflammation
+vital signs	include	blood pressure
+infection	leads to	fever
+vomiting reflex	controlled by	brainstem
+inflammation	causes	pain
+blood pressure	monitored with	sphygmomanometer
+fever	treated with	antipyretics
+brainstem	regulates	autonomic functions
+pain	managed with	analgesics
+sphygmomanometer	measures	mmHg
+antipyretics	lower	body temperature
+autonomic functions	include	heart rate
+analgesics	classified as	opioids
+mmHg	unit of	pressure
+body temperature	regulated by	hypothalamus
+heart rate	controlled by	sinoatrial node
+opioids	derived from	poppy
+pressure	affects	blood flow
+hypothalamus	part of	brain
+sinoatrial node	generates	electrical impulses
+poppy	source of	morphine
+blood flow	delivers	oxygen
+brain	protected by	skull
+electrical impulses	measured by	ECG
+morphine	used for	severe pain
+oxygen	carried by	hemoglobin
+skull	surrounds	meninges
+ECG	detects	arrhythmia
+severe pain	indicates	serious injury
+hemoglobin	contains	iron
+meninges	protect	cerebrospinal fluid
+arrhythmia	treated with	beta blockers
+serious injury	requires	surgery
+iron	deficiency causes	anemia
+cerebrospinal fluid	cushions	brain
+beta blockers	reduce	heart rate
+surgery	performed by	surgeons
+anemia	treated with	iron supplements
+brain	composed of	neurons
+heart rate	influenced by	stress
+surgeons	specialize in	specialties
+iron supplements	increase	red blood cells
+neurons	transmit	nerve signals
+stress	managed with	relaxation techniques
+specialties	include	cardiothoracic surgery
+red blood cells	produced in	bone marrow
+nerve signals	travel via	axons
+relaxation techniques	involve	deep breathing
+cardio thoracic surgery	repairs	heart defects
+bone marrow	contains	stem cells
+axons	insulated by	myelin
+deep breathing	lowers	cortisol levels
+heart defects	congenital	birth
+stem cells	differentiate into	blood cells
+myelin	produced by	Schwann cells
+cortisol	released by	adrenal glands
+birth	attended by	obstetricians
+blood cells	include	white blood cells
+Schwann cells	found in	peripheral nerves
+adrenal glands	secrete	hormones
+obstetricians	assist	deliveries
+white blood cells	fight	pathogens
+peripheral nerves	connect to	spinal cord
+hormones	regulate	metabolism
+deliveries	result in	newborns
+pathogens	include	viruses

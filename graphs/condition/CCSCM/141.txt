@@ -1,0 +1,100 @@
+other disorders of stomach and duodenum	is a	digestive system disorder
+other disorders of stomach and duodenum	may cause	abdominal pain
+other disorders of stomach and duodenum	may cause	nausea
+other disorders of stomach and duodenum	may cause	vomiting
+other disorders of stomach and duodenum	may cause	bloating
+other disorders of stomach and duodenum	may cause	indigestion
+other disorders of stomach and duodenum	may lead to	gastritis
+other disorders of stomach and duodenum	may lead to	duodenitis
+other disorders of stomach and duodenum	may lead to	peptic ulcer
+other disorders of stomach and duodenum	may lead to	anemia
+other disorders of stomach and duodenum	may require	endoscopy
+other disorders of stomach and duodenum	may require	biopsy
+other disorders of stomach and duodenum	is diagnosed with	imaging
+other disorders of stomach and duodenum	is associated with	H. pylori infection
+other disorders of stomach and duodenum	is associated with	NSAID use
+other disorders of stomach and duodenum	is associated with	stress
+other disorders of stomach and duodenum	is treated with	antacids
+other disorders of stomach and duodenum	is treated with	proton pump inhibitors
+other disorders of stomach and duodenum	is treated with	H2 blockers
+other disorders of stomach and duodenum	is treated with	antibiotics
+other disorders of stomach and duodenum	may lead to	bleeding
+other disorders of stomach and duodenum	may lead to	perforation
+other disorders of stomach and duodenum	may lead to	obstruction
+other disorders of stomach and duodenum	may lead to	malnutrition
+other disorders of stomach and duodenum	may lead to	weight loss
+other disorders of stomach and duodenum	may lead to	dehydration
+other disorders of stomach and duodenum	may require	hospitalization
+other disorders of stomach and duodenum	may require	surgery
+other disorders of stomach and duodenum	may require	blood transfusion
+other disorders of stomach and duodenum	may require	IV fluids
+other disorders of stomach and duodenum	is monitored with	blood tests
+other disorders of stomach and duodenum	is monitored with	stool tests
+other disorders of stomach and duodenum	is monitored with	follow-up endoscopy
+other disorders of stomach and duodenum	is linked to	smoking
+other disorders of stomach and duodenum	is linked to	alcohol use
+other disorders of stomach and duodenum	is linked to	genetic factors
+other disorders of stomach and duodenum	is linked to	autoimmune conditions
+other disorders of stomach and duodenum	may coexist with	GERD
+other disorders of stomach and duodenum	may coexist with	IBS
+other disorders of stomach and duodenum	may coexist with	gastroparesis
+other disorders of stomach and duodenum	may coexist with	celiac disease
+other disorders of stomach and duodenum	may coexist with	Crohn's disease
+other disorders of stomach and duodenum	may increase risk of	stomach cancer
+other disorders of stomach and duodenum	may increase risk of	esophageal cancer
+other disorders of stomach and duodenum	affects	quality of life
+other disorders of stomach and duodenum	affects	dietary habits
+other disorders of stomach and duodenum	affects	sleep patterns
+other disorders of stomach and duodenum	affects	mental health
+other disorders of stomach and duodenum	may require	dietary changes
+other disorders of stomach and duodenum	may require	lifestyle modifications
+other disorders of stomach and duodenum	may require	stress management
+other disorders of stomach and duodenum	may require	physical therapy
+other disorders of stomach and duodenum	may require	pain management
+other disorders of stomach and duodenum	may require	nutritional support
+other disorders of stomach and duodenum	may lead to	electrolyte imbalance
+other disorders of stomach and duodenum	may lead to	vitamin deficiency
+other disorders of stomach and duodenum	may lead to	iron deficiency
+other disorders of stomach and duodenum	may lead to	B12 deficiency
+other disorders of stomach and duodenum	may lead to	osteoporosis
+other disorders of stomach and duodenum	may lead to	depression
+other disorders of stomach and duodenum	may lead to	anxiety
+other disorders of stomach and duodenum	may lead to	fatigue
+other disorders of stomach and duodenum	may lead to	complications
+other disorders of stomach and duodenum	may lead to	infections
+other disorders of stomach and duodenum	may lead to	sepsis
+other disorders of stomach and duodenum	is managed with	medications
+other disorders of stomach and duodenum	is managed with	monitoring
+other disorders of stomach and duodenum	is managed with	patient education
+other disorders of stomach and duodenum	is managed with	multidisciplinary care
+other disorders of stomach and duodenum	is managed with	gastroenterologist
+other disorders of stomach and duodenum	is managed with	primary care physician
+other disorders of stomach and duodenum	is managed with	dietitian
+other disorders of stomach and duodenum	is managed with	psychologist
+other disorders of stomach and duodenum	may require	emergency care
+other disorders of stomach and duodenum	may require	intensive care
+other disorders of stomach and duodenum	may require	palliative care
+other disorders of stomach and duodenum	may require	rehabilitation
+other disorders of stomach and duodenum	may require	long-term follow-up
+other disorders of stomach and duodenum	may lead to	disability
+other disorders of stomach and duodenum	may lead to	mortality
+other disorders of stomach and duodenum	is studied in	gastroenterology
+other disorders of stomach and duodenum	is studied in	internal medicine
+other disorders of stomach and duodenum	is studied in	pathology
+other disorders of stomach and duodenum	is studied in	radiology
+other disorders of stomach and duodenum	is studied in	surgery
+other disorders of stomach and duodenum	has	ICD codes
+other disorders of stomach and duodenum	has	billing codes
+other disorders of stomach and duodenum	has	clinical guidelines
+other disorders of stomach and duodenum	has	treatment protocols
+other disorders of stomach and duodenum	has	research studies
+other disorders of stomach and duodenum	has	patient support groups
+other disorders of stomach and duodenum	has	awareness campaigns
+other disorders of stomach and duodenum	has	risk factors
+other disorders of stomach and duodenum	has	prevention strategies
+other disorders of stomach and duodenum	has	early detection methods
+other disorders of stomach and duodenum	has	prognosis factors
+other disorders of stomach and duodenum	has	recurrence rates
+other disorders of stomach and duodenum	has	complications rates
+other disorders of stomach and duodenum	has	economic impact
+other disorders of stomach and duodenum	has	healthcare costs

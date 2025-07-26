@@ -1,0 +1,100 @@
+urinary catheterization	is a	urinary tract procedure
+urinary catheterization	treats	urinary retention
+urinary catheterization	prevents	kidney damage
+cystoscopy	is a	urinary tract procedure
+cystoscopy	diagnoses	bladder conditions
+cystoscopy	detects	bladder tumors
+urodynamic testing	evaluates	bladder function
+urodynamic testing	diagnoses	incontinence
+urodynamic testing	assesses	urine flow
+urethral dilation	treats	urethral stricture
+urethral dilation	is a	urinary tract procedure
+suprapubic catheterization	is a	urinary tract procedure
+suprapubic catheterization	bypasses	urethra
+suprapubic catheterization	prevents	urethral trauma
+urinalysis	is a	diagnostic test
+urinalysis	detects	urinary tract infections
+urinalysis	screens	kidney disease
+urostomy	creates	urinary diversion
+urostomy	treats	bladder dysfunction
+urostomy	requires	stoma care
+nephrostomy	drains	kidney
+nephrostomy	treats	kidney obstruction
+nephrostomy	is a	urinary tract procedure
+uroflowmetry	measures	urine flow rate
+uroflowmetry	diagnoses	voiding dysfunction
+cystometry	measures	bladder pressure
+cystometry	evaluates	bladder capacity
+cystometry	diagnoses	overactive bladder
+urethroscopy	examines	urethra
+urethroscopy	diagnoses	urethral strictures
+percutaneous nephrolithotomy	removes	kidney stones
+percutaneous nephrolithotomy	is a	surgical procedure
+ureteroscopy	examines	ureter
+ureteroscopy	removes	ureteral stones
+ureteral stent	relieves	ureteral obstruction
+ureteral stent	is a	medical device
+bladder irrigation	cleans	bladder
+bladder irrigation	prevents	clot retention
+bladder irrigation	treats	hematuria
+clean intermittent catheterization	manages	urinary retention
+clean intermittent catheterization	reduces	infection risk
+urinary diversion	reroutes	urine flow
+urinary diversion	treats	bladder cancer
+ileal conduit	is a	urinary diversion
+ileal conduit	uses	intestinal segment
+continent urinary reservoir	stores	urine
+continent urinary reservoir	requires	catheterization
+bladder training	improves	bladder control
+bladder training	treats	overactive bladder
+pelvic floor exercises	strengthen	pelvic muscles
+pelvic floor exercises	treat	stress incontinence
+bladder instillation	delivers	medication
+bladder instillation	treats	interstitial cystitis
+urine cytology	detects	cancer cells
+urine cytology	screens	bladder cancer
+urography	visualizes	urinary tract
+urography	diagnoses	structural abnormalities
+retrograde pyelogram	examines	ureters and kidneys
+retrograde pyelogram	uses	contrast dye
+cystogram	images	bladder
+cystogram	diagnoses	vesicoureteral reflux
+voiding cystourethrogram	evaluates	urination
+voiding cystourethrogram	diagnoses	urethral abnormalities
+urothelial biopsy	samples	bladder tissue
+urothelial biopsy	diagnoses	bladder cancer
+ureteral dilation	treats	ureteral strictures
+ureteral dilation	uses	balloon catheter
+percutaneous nephrostomy	drains	kidney
+percutaneous nephrostomy	treats	hydronephrosis
+bladder neck incision	treats	bladder outlet obstruction
+bladder neck incision	improves	urine flow
+transurethral resection	removes	bladder tumors
+transurethral resection	is a	surgical procedure
+botulinum toxin injection	treats	overactive bladder
+botulinum toxin injection	reduces	bladder contractions
+sacral neuromodulation	regulates	bladder function
+sacral neuromodulation	treats	urinary retention
+intermittent self-catheterization	manages	neurogenic bladder
+intermittent self-catheterization	prevents	urinary retention
+bladder augmentation	increases	bladder capacity
+bladder augmentation	treats	small bladder
+artificial urinary sphincter	controls	urinary incontinence
+artificial urinary sphincter	is a	prosthetic device
+urethral bulking	treats	stress incontinence
+urethral bulking	uses	injectable agents
+ureteric stent	maintains	ureter patency
+ureteric stent	prevents	ureteral strictures
+nephrostomy tube	drains	renal pelvis
+nephrostomy tube	treats	pyonephrosis
+peritoneal dialysis	replaces	kidney function
+peritoneal dialysis	filters	blood
+hemodialysis	removes	waste products
+hemodialysis	treats	kidney failure
+kidney transplant	replaces	failed kidney
+kidney transplant	requires	immunosuppression
+urinary diversion	prevents	skin breakdown
+urinary diversion	preserves	kidney function
+bladder training	reduces	urinary frequency
+biofeedback	improves	pelvic muscle control
+biofeedback	treats	urinary incontinence

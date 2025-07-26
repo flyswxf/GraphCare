@@ -1,0 +1,100 @@
+nasogastric tube	is a	medical device
+nasogastric tube	inserted through	nose
+nasogastric tube	passes through	esophagus
+nasogastric tube	ends in	stomach
+nasogastric tube	used for	feeding
+nasogastric tube	used for	medication administration
+nasogastric tube	used for	gastric decompression
+nasogastric tube	contraindicated in	facial trauma
+nasogastric tube	contraindicated in	esophageal varices
+nasogastric tube	requires	placement verification
+nasogastric tube	verified by	pH testing
+nasogastric tube	verified by	X-ray
+nasogastric tube	may cause	nasal irritation
+nasogastric tube	may cause	sinusitis
+nasogastric tube	may cause	aspiration
+nasogastric tube	requires	securement device
+nasogastric tube	secured with	adhesive tape
+nasogastric tube	measured from	nose to ear
+nasogastric tube	measured from	ear to xiphoid
+nasogastric tube	lubricated with	water-soluble gel
+nasogastric tube	size measured in	French units
+nasogastric tube	smaller size for	pediatric patients
+nasogastric tube	larger size for	gastric lavage
+nasogastric tube	connects to	suction device
+nasogastric tube	connects to	feeding pump
+nasogastric tube	requires	flushing
+nasogastric tube	flushed with	water
+nasogastric tube	clogging prevented by	regular flushing
+nasogastric tube	replacement recommended after	4 weeks
+nasogastric tube	alternative to	PEG tube
+nasogastric tube	short-term use for	acute conditions
+nasogastric tube	long-term use requires	gastrostomy
+nasogastric tube	inserted by	nurse
+nasogastric tube	inserted by	physician
+nasogastric tube	insertion requires	patient cooperation
+nasogastric tube	insertion technique affects	success rate
+nasogastric tube	coiled placement indicates	incorrect position
+nasogastric tube	pulmonary placement causes	respiratory distress
+nasogastric tube	used in	ICU patients
+nasogastric tube	used in	postoperative care
+nasogastric tube	used in	bowel obstruction
+nasogastric tube	used in	pancreatitis
+nasogastric tube	drains	gastric contents
+nasogastric tube	monitors	gastric output
+nasogastric tube	high output indicates	fistula
+nasogastric tube	bilious output indicates	intestinal obstruction
+nasogastric tube	bloody output indicates	GI bleeding
+nasogastric tube	used with	enteral nutrition
+nasogastric tube	delivers	liquid nutrition
+nasogastric tube	incompatible with	some medications
+nasogastric tube	medication administration requires	dilution
+nasogastric tube	requires	head elevation
+nasogastric tube	head elevation prevents	aspiration
+nasogastric tube	records	intake volume
+nasogastric tube	records	output volume
+nasogastric tube	removed after	bowel sounds return
+nasogastric tube	removed after	flatus passage
+nasogastric tube	complications include	tube dislodgement
+nasogastric tube	complications include	mucosal erosion
+nasogastric tube	complications include	electrolyte imbalance
+nasogastric tube	suction setting varies by	patient condition
+nasogastric tube	intermittent suction prevents	mucosal damage
+nasogastric tube	continuous suction used for	severe distension
+nasogastric tube	Salem sump type has	air vent
+nasogastric tube	Levin type is	single lumen
+nasogastric tube	weighted tip assists	placement
+nasogastric tube	unweighted tip is	standard
+nasogastric tube	pediatric version is	softer
+nasogastric tube	radiopaque stripe confirms	position
+nasogastric tube	bedside insertion requires	proper lighting
+nasogastric tube	emergency use includes	poison ingestion
+nasogastric tube	gastric lavage removes	toxins
+nasogastric tube	activated charcoal delivered via	tube
+nasogastric tube	contraindicated in	base skull fracture
+nasogastric tube	skull fracture risks	intracranial placement
+nasogastric tube	post-insertion care includes	oral hygiene
+nasogastric tube	oral hygiene prevents	infections
+nasogastric tube	patient education includes	tube care
+nasogastric tube	family training includes	feeding procedure
+nasogastric tube	home use requires	caregiver training
+nasogastric tube	outpatient use monitored by	home health
+nasogastric tube	enteral feeding requires	prescription
+nasogastric tube	formula selection based on	nutritional needs
+nasogastric tube	polymeric formula is	standard
+nasogastric tube	elemental formula for	malabsorption
+nasogastric tube	feeding rate adjusted by	tolerance
+nasogastric tube	rapid feeding causes	diarrhea
+nasogastric tube	slow feeding prevents	dumping syndrome
+nasogastric tube	residual volume checks prevent	overfeeding
+nasogastric tube	high residual indicates	intolerance
+nasogastric tube	prokinetics improve	gastric emptying
+nasogastric tube	metoclopramide increases	motility
+nasogastric tube	GRV threshold determines	feeding hold
+nasogastric tube	documentation includes	insertion date
+nasogastric tube	documentation includes	tube length
+nasogastric tube	documentation includes	output characteristics
+nasogastric tube	color coding indicates	tube size
+nasogastric tube	purple stripe indicates	small bore
+nasogastric tube	yellow stripe indicates	medium bore
+nasogastric tube	red stripe indicates	large bore

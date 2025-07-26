@@ -1,0 +1,100 @@
+potassium supplements	is a	medication
+potassium supplements	contains	potassium
+potassium	is	electrolyte
+electrolyte	regulates	fluid balance
+potassium supplements	treats	hypokalemia
+hypokalemia	is	low potassium
+potassium supplements	prescribed for	hypertension
+hypertension	causes	cardiovascular disease
+potassium supplements	interacts with	ACE inhibitors
+ACE inhibitors	treat	heart failure
+potassium supplements	contraindicated in	kidney disease
+kidney disease	affects	potassium excretion
+potassium supplements	may cause	hyperkalemia
+hyperkalemia	is	high potassium
+potassium supplements	available as	tablets
+tablets	have	dosage forms
+potassium supplements	also available as	liquid
+liquid medication	easier for	swallowing difficulties
+potassium supplements	require	monitoring
+monitoring	involves	blood tests
+potassium supplements	interact with	diuretics
+diuretics	cause	potassium loss
+potassium supplements	help with	muscle cramps
+muscle cramps	related to	electrolyte imbalance
+potassium supplements	affect	nerve function
+nerve function	controls	muscle contraction
+potassium supplements	influence	heart rhythm
+heart rhythm	monitored by	ECG
+potassium supplements	should avoid	salt substitutes
+salt substitutes	contain	potassium chloride
+potassium supplements	prescribed with	magnesium
+magnesium	assists	potassium absorption
+potassium supplements	taken with	food
+food	reduces	stomach irritation
+potassium supplements	contraindicated with	potassium-sparing diuretics
+potassium-sparing diuretics	increase	potassium levels
+potassium supplements	have	RDI
+RDI	stands for	recommended intake
+potassium supplements	monitored in	elderly
+elderly	have	decreased kidney function
+potassium supplements	caution in	diabetes
+diabetes	affects	kidney function
+potassium supplements	may require	dose adjustment
+dose adjustment	based on	renal function
+potassium supplements	affect	blood pressure
+blood pressure	regulated by	sodium-potassium balance
+potassium supplements	influence	bone health
+bone health	benefits from	mineral balance
+potassium supplements	prevent	stroke
+stroke	related to	hypertension
+potassium supplements	studied for	osteoporosis prevention
+osteoporosis	involves	bone loss
+potassium supplements	help	acid-base balance
+acid-base balance	important for	homeostasis
+potassium supplements	available as	prescription
+prescription drugs	require	doctor approval
+potassium supplements	also available	OTC
+OTC	means	over-the-counter
+potassium supplements	have	side effects
+side effects	include	GI distress
+potassium supplements	may cause	nausea
+nausea	is	common side effect
+potassium supplements	risk of	ulceration
+ulceration	occurs in	GI tract
+potassium supplements	should be	taken slowly
+slow intake	prevents	esophageal irritation
+potassium supplements	interact with	NSAIDs
+NSAIDs	increase	potassium retention
+potassium supplements	affect	aldosterone
+aldosterone	regulates	potassium excretion
+potassium supplements	impact	neuromuscular function
+neuromuscular function	requires	electrolyte balance
+potassium supplements	help	cardiac conduction
+cardiac conduction	depends on	ion channels
+potassium supplements	contraindicated in	Addison's disease
+Addison's disease	affects	aldosterone production
+potassium supplements	used in	digitalis toxicity
+digitalis toxicity	causes	arrhythmias
+potassium supplements	risk factor for	kidney stones
+kidney stones	form from	mineral imbalance
+potassium supplements	influence	insulin secretion
+insulin secretion	affects	glucose metabolism
+potassium supplements	studied for	diabetes prevention
+diabetes prevention	involves	diet modification
+potassium supplements	help	vascular function
+vascular function	impacts	blood flow
+potassium supplements	reduce	sodium effects
+sodium	contributes to	fluid retention
+potassium supplements	have	extended-release forms
+extended-release	provides	sustained effect
+potassium supplements	stored at	room temperature
+room temperature	preserves	drug stability
+potassium supplements	check for	interactions
+interactions	affect	drug efficacy
+potassium supplements	require	periodic testing
+periodic testing	ensures	safety
+potassium supplements	prescribed cautiously in	heart disease
+heart disease	sensitive to	electrolyte changes
+potassium supplements	affect	acid secretion
+acid secretion	occurs in	stomach

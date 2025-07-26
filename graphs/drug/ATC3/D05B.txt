@@ -1,0 +1,100 @@
+antipsoriatics for systemic use	is a	drug class
+antipsoriatics for systemic use	treats	psoriasis
+psoriasis	is a	chronic inflammatory disease
+chronic inflammatory disease	affects	skin
+skin	consists of	keratinocytes
+keratinocytes	influenced by	immune system
+immune system	regulated by	cytokines
+cytokines	include	TNF-alpha
+TNF-alpha	targeted by	biologics
+biologics	are a type of	antipsoriatics
+antipsoriatics for systemic use	includes	methotrexate
+methotrexate	is a	DMARD
+DMARD	stands for	disease-modifying antirheumatic drug
+disease-modifying antirheumatic drug	also treats	rheumatoid arthritis
+rheumatoid arthritis	involves	joint inflammation
+joint inflammation	causes	pain
+pain	managed by	analgesics
+antipsoriatics for systemic use	includes	acitretin
+acitretin	is a	retinoid
+retinoid	derived from	vitamin A
+vitamin A	important for	epithelial growth
+epithelial growth	affects	skin turnover
+skin turnover	accelerated in	psoriasis
+antipsoriatics for systemic use	includes	cyclosporine
+cyclosporine	suppresses	T-cells
+T-cells	produce	inflammatory cytokines
+inflammatory cytokines	contribute to	plaque formation
+plaque formation	characteristic of	psoriasis vulgaris
+psoriasis vulgaris	most common type	psoriasis
+antipsoriatics for systemic use	requires	monitoring
+monitoring	includes	liver function tests
+liver function tests	detect	hepatotoxicity
+hepatotoxicity	potential side effect	methotrexate
+methotrexate	requires	folic acid supplementation
+folic acid supplementation	reduces	side effects
+side effects	include	nausea
+nausea	can be treated with	antiemetics
+antipsoriatics for systemic use	contraindicated in	pregnancy
+pregnancy	requires	contraception
+contraception	especially important with	acitretin
+acitretin	has long	half-life
+half-life	determines	drug clearance
+drug clearance	affected by	renal function
+renal function	monitored via	creatinine levels
+creatinine levels	indicate	kidney health
+antipsoriatics for systemic use	interacts with	alcohol
+alcohol	increases	liver toxicity
+liver toxicity	risk factor for	cirrhosis
+cirrhosis	contraindication for	methotrexate
+antipsoriatics for systemic use	alternative to	topical therapy
+topical therapy	includes	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	mediated by	prostaglandins
+prostaglandins	synthesized from	arachidonic acid
+arachidonic acid	pathway inhibited by	NSAIDs
+antipsoriatics for systemic use	newer option	biologics
+biologics	target	IL-17
+IL-17	cytokine involved	psoriasis pathogenesis
+psoriasis pathogenesis	involves	Th17 cells
+Th17 cells	subset of	CD4+ T cells
+CD4+ T cells	part of	adaptive immunity
+adaptive immunity	develops	memory response
+memory response	basis for	vaccines
+antipsoriatics for systemic use	includes	apremilast
+apremilast	is a	PDE4 inhibitor
+PDE4 inhibitor	increases	cAMP levels
+cAMP levels	regulate	immune response
+immune response	dysregulated in	autoimmune diseases
+autoimmune diseases	include	psoriasis
+antipsoriatics for systemic use	requires	dose titration
+dose titration	prevents	adverse effects
+adverse effects	may include	infections
+infections	risk increased by	immunosuppression
+immunosuppression	mechanism of	cyclosporine
+cyclosporine	derived from	fungus
+fungus	source of	many antibiotics
+antibiotics	can trigger	psoriasis flares
+psoriasis flares	managed by	systemic therapy
+systemic therapy	alternative to	phototherapy
+phototherapy	uses	UV light
+UV light	increases	skin cancer risk
+skin cancer risk	contraindication for	PUVA
+PUVA	is a type of	photochemotherapy
+photochemotherapy	combines	psoralens
+psoralens	photosensitizing agents	plant-derived
+plant-derived compounds	basis for	many drugs
+many drugs	metabolized by	cytochrome P450
+cytochrome P450	affected by	drug interactions
+drug interactions	concern with	systemic therapy
+systemic therapy	effectiveness measured by	PASI score
+PASI score	evaluates	psoriasis severity
+psoriasis severity	associated with	comorbidities
+comorbidities	include	cardiovascular disease
+cardiovascular disease	risk increased by	chronic inflammation
+chronic inflammation	biomarker	CRP
+CRP	produced by	liver
+liver	metabolizes	systemic drugs
+systemic drugs	distribution affected by	plasma proteins
+plasma proteins	include	albumin
+albumin	binds	many drugs

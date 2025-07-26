@@ -1,0 +1,100 @@
+antifungals for topical use	is a	medication
+antifungals for topical use	treats	fungal infections
+antifungals for topical use	applied to	skin
+antifungals for topical use	may cause	skin irritation
+antifungals for topical use	includes	clotrimazole
+antifungals for topical use	includes	miconazole
+antifungals for topical use	includes	terbinafine
+antifungals for topical use	includes	ketoconazole
+antifungals for topical use	includes	nystatin
+clotrimazole	is a	azole antifungal
+miconazole	is a	imidazole antifungal
+terbinafine	is a	allylamine antifungal
+ketoconazole	is a	broad-spectrum antifungal
+nystatin	is a	polyene antifungal
+fungal infections	include	athlete's foot
+fungal infections	include	ringworm
+fungal infections	include	jock itch
+fungal infections	include	yeast infections
+athlete's foot	caused by	Trichophyton
+ringworm	caused by	dermatophytes
+jock itch	caused by	fungal overgrowth
+yeast infections	caused by	Candida
+antifungals for topical use	available as	cream
+antifungals for topical use	available as	ointment
+antifungals for topical use	available as	powder
+antifungals for topical use	available as	spray
+antifungals for topical use	available as	solution
+cream formulation	has	moisturizing properties
+ointment formulation	has	occlusive properties
+powder formulation	absorbs	moisture
+spray formulation	provides	easy application
+solution formulation	used for	scalp infections
+antifungals for topical use	inhibits	fungal cell membrane
+azole antifungals	inhibits	ergosterol synthesis
+allylamine antifungals	inhibits	squalene epoxidase
+polyene antifungals	binds to	ergosterol
+fungal cell membrane	contains	ergosterol
+ergosterol	is a	fungal sterol
+squalene epoxidase	converts	squalene to lanosterol
+antifungals for topical use	contraindicated in	hypersensitivity
+antifungals for topical use	interacts with	certain medications
+hypersensitivity	may cause	allergic reactions
+allergic reactions	include	rash
+allergic reactions	include	itching
+allergic reactions	include	swelling
+antifungals for topical use	requires	proper hygiene
+proper hygiene	prevents	reinfection
+reinfection	caused by	contaminated surfaces
+contaminated surfaces	harbor	fungal spores
+fungal spores	are	dormant fungi
+antifungals for topical use	duration	1-4 weeks
+treatment duration	depends on	infection severity
+infection severity	assessed by	healthcare provider
+healthcare provider	prescribes	antifungals
+antifungals	dispensed by	pharmacist
+pharmacist	provides	usage instructions
+usage instructions	include	application frequency
+application frequency	typically	twice daily
+antifungals for topical use	stored at	room temperature
+room temperature	maintains	drug stability
+drug stability	affects	potency
+potency	determines	treatment efficacy
+treatment efficacy	measured by	symptom resolution
+symptom resolution	indicates	fungal eradication
+fungal eradication	prevents	complications
+complications	include	secondary infections
+secondary infections	require	additional treatment
+additional treatment	may include	oral antifungals
+oral antifungals	used for	severe cases
+severe cases	involve	extensive infections
+extensive infections	affect	large areas
+large areas	need	systemic treatment
+antifungals for topical use	preferred for	localized infections
+localized infections	confined to	small regions
+small regions	heal faster with	topical treatment
+topical treatment	has fewer	systemic effects
+systemic effects	include	liver toxicity
+liver toxicity	monitored by	blood tests
+blood tests	measure	liver enzymes
+elevated liver enzymes	indicate	liver stress
+antifungals for topical use	absorbed minimally
+minimal absorption	reduces	side effects
+side effects	may include	burning sensation
+side effects	may include	redness
+side effects	may include	dryness
+burning sensation	usually	temporary
+redness	may indicate	irritation
+dryness	alleviated by	moisturizers
+moisturizers	maintain	skin barrier
+skin barrier	prevents	microbial entry
+antifungals for topical use	used with	antibiotics
+antibiotics	treat	bacterial co-infections
+bacterial co-infections	complicate	fungal infections
+complicated infections	need	combination therapy
+combination therapy	increases	treatment success
+treatment success	leads to	patient satisfaction
+patient satisfaction	improves	medication adherence
+medication adherence	crucial for	complete recovery
+complete recovery	restores	quality of life
+quality of life	important for	patient well-being

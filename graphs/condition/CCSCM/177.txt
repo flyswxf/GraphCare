@@ -1,0 +1,100 @@
+spontaneous abortion	is a	pregnancy loss
+spontaneous abortion	occurs in	first trimester
+spontaneous abortion	may cause	bleeding
+spontaneous abortion	may cause	cramping
+spontaneous abortion	may require	dilation and curettage
+spontaneous abortion	has risk factor	advanced maternal age
+spontaneous abortion	has risk factor	chromosomal abnormalities
+spontaneous abortion	has risk factor	uterine abnormalities
+spontaneous abortion	has risk factor	thyroid disorders
+spontaneous abortion	has risk factor	diabetes
+spontaneous abortion	has risk factor	smoking
+spontaneous abortion	has risk factor	alcohol use
+spontaneous abortion	has risk factor	infections
+spontaneous abortion	may lead to	depression
+spontaneous abortion	may lead to	anxiety
+spontaneous abortion	may require	emotional support
+spontaneous abortion	may be prevented by	progesterone
+spontaneous abortion	may be prevented by	folic acid
+spontaneous abortion	may be prevented by	prenatal care
+spontaneous abortion	may be diagnosed by	ultrasound
+spontaneous abortion	may be diagnosed by	hCG testing
+spontaneous abortion	may be followed by	retained products
+spontaneous abortion	may be followed by	infection
+spontaneous abortion	may be followed by	Asherman syndrome
+spontaneous abortion	has symptom	vaginal bleeding
+spontaneous abortion	has symptom	tissue passing
+spontaneous abortion	has symptom	pain
+spontaneous abortion	has type	complete abortion
+spontaneous abortion	has type	incomplete abortion
+spontaneous abortion	has type	missed abortion
+spontaneous abortion	has type	threatened abortion
+spontaneous abortion	has type	inevitable abortion
+spontaneous abortion	has type	septic abortion
+spontaneous abortion	may be managed by	expectant management
+spontaneous abortion	may be managed by	medical management
+spontaneous abortion	may be managed by	surgical management
+spontaneous abortion	may be treated with	misoprostol
+spontaneous abortion	may be treated with	mifepristone
+spontaneous abortion	may require	blood transfusion
+spontaneous abortion	may require	antibiotics
+spontaneous abortion	may lead to	recurrent pregnancy loss
+spontaneous abortion	may require	genetic testing
+spontaneous abortion	may require	immunological testing
+spontaneous abortion	may require	thrombophilia testing
+spontaneous abortion	may be associated with	antiphospholipid syndrome
+spontaneous abortion	may be associated with	polycystic ovary syndrome
+spontaneous abortion	may be associated with	luteal phase defect
+spontaneous abortion	may be associated with	cervical insufficiency
+spontaneous abortion	may be associated with	trauma
+spontaneous abortion	may be associated with	radiation exposure
+spontaneous abortion	may be associated with	chemical exposure
+spontaneous abortion	may be associated with	malnutrition
+spontaneous abortion	may be associated with	obesity
+spontaneous abortion	may be associated with	stress
+spontaneous abortion	has complication	hemorrhage
+spontaneous abortion	has complication	septic shock
+spontaneous abortion	has complication	infertility
+spontaneous abortion	may require	follow-up care
+spontaneous abortion	may require	counseling
+spontaneous abortion	may be prevented by	avoiding toxins
+spontaneous abortion	may be prevented by	managing chronic conditions
+spontaneous abortion	may be prevented by	maintaining healthy weight
+spontaneous abortion	has higher risk with	previous miscarriage
+spontaneous abortion	has higher risk with	multiple pregnancies
+spontaneous abortion	may be evaluated by	karyotyping
+spontaneous abortion	may be evaluated by	hysteroscopy
+spontaneous abortion	may be evaluated by	endometrial biopsy
+spontaneous abortion	may be evaluated by	hormone testing
+spontaneous abortion	may be evaluated by	infection screening
+spontaneous abortion	may lead to	future pregnancy anxiety
+spontaneous abortion	may lead to	relationship stress
+spontaneous abortion	may be documented in	medical history
+spontaneous abortion	may affect	future fertility
+spontaneous abortion	may require	pelvic rest
+spontaneous abortion	may require	pain management
+spontaneous abortion	may have	cultural implications
+spontaneous abortion	may have	religious considerations
+spontaneous abortion	may require	bereavement support
+spontaneous abortion	may be researched in	reproductive epidemiology
+spontaneous abortion	may be studied in	embryology
+spontaneous abortion	has prevalence rate	10-20%
+spontaneous abortion	has ICD code	O03
+spontaneous abortion	may be reported in	vital statistics
+spontaneous abortion	may be discussed in	patient education
+spontaneous abortion	may be prevented by	optimizing pre-conception health
+spontaneous abortion	may be prevented by	avoiding certain medications
+spontaneous abortion	may be prevented by	treating infections
+spontaneous abortion	may be prevented by	managing autoimmune disorders
+spontaneous abortion	may be prevented by	cervical cerclage
+spontaneous abortion	may be influenced by	paternal factors
+spontaneous abortion	may be influenced by	environmental factors
+spontaneous abortion	may be influenced by	occupational hazards
+spontaneous abortion	may require	follow-up ultrasound
+spontaneous abortion	may require	beta-hCG monitoring
+spontaneous abortion	may require	Rh testing
+spontaneous abortion	may require	Rh immune globulin
+spontaneous abortion	may be associated with	substance abuse
+spontaneous abortion	may be associated with	domestic violence
+spontaneous abortion	may be associated with	poor prenatal care
+spontaneous abortion	may lead to	post-traumatic stress disorder

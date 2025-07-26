@@ -1,0 +1,100 @@
+abortion	is a	medical procedure
+abortion	terminates	pregnancy
+abortion	can be	surgical
+abortion	can be	medical
+medical abortion	uses	mifepristone
+medical abortion	uses	misoprostol
+surgical abortion	involves	vacuum aspiration
+surgical abortion	involves	dilation and curettage
+abortion	may require	anesthesia
+abortion	carries risks	infection
+abortion	carries risks	bleeding
+abortion	requires	consent
+abortion	regulated by	laws
+abortion	performed by	gynecologist
+abortion	performed in	clinic
+abortion	performed in	hospital
+abortion	may follow	ultrasound
+abortion	may require	counseling
+abortion	affects	mental health
+abortion	alternative to	adoption
+abortion	influenced by	socioeconomic status
+abortion	influenced by	religion
+abortion	debated in	politics
+abortion	opposed by	pro-life groups
+abortion	supported by	pro-choice groups
+abortion	impacts	fertility
+abortion	may require	follow-up
+abortion	linked to	contraception use
+abortion	reduces	maternal mortality
+abortion	prevents	unwanted birth
+abortion	may require	antibiotics
+abortion	may cause	cramping
+abortion	may cause	nausea
+abortion	contraindicated in	ectopic pregnancy
+abortion	contraindicated in	blood disorders
+abortion	delayed by	gestational age
+abortion	restricted in	some countries
+abortion	accessible in	others
+abortion	associated with	stigma
+abortion	discussed in	ethics
+abortion	studied in	public health
+abortion	affects	reproductive rights
+abortion	influenced by	partner
+abortion	influenced by	family
+abortion	may lead to	regret
+abortion	may lead to	relief
+abortion	may affect	future pregnancies
+abortion	may cause	uterine perforation
+abortion	may require	emergency care
+abortion	monitored by	healthcare provider
+abortion	involves	informed consent
+abortion	preceded by	pregnancy test
+abortion	followed by	recovery time
+abortion	linked to	post-abortion care
+abortion	may include	pain management
+abortion	may involve	sedation
+abortion	documented in	medical records
+abortion	impacts	population growth
+abortion	affects	gender equality
+abortion	related to	family planning
+abortion	may prevent	unsafe abortion
+abortion	costs	healthcare system
+abortion	covered by	insurance
+abortion	restricted by	parental consent
+abortion	restricted by	waiting period
+abortion	provided by	Planned Parenthood
+abortion	opposed by	religious leaders
+abortion	supported by	women's rights groups
+abortion	studied in	demography
+abortion	affects	life expectancy
+abortion	linked to	contraception education
+abortion	prevented by	emergency contraception
+abortion	influenced by	misinformation
+abortion	impacted by	healthcare access
+abortion	varies by	geographical region
+abortion	affected by	economic factors
+abortion	influenced by	cultural norms
+abortion	associated with	trauma
+abortion	may require	psychological support
+abortion	may lead to	legal consequences
+abortion	debated in	bioethics
+abortion	studied in	sociology
+abortion	affects	birth rates
+abortion	linked to	maternal health
+abortion	restricted in	conservative states
+abortion	legalized in	Roe v. Wade
+abortion	overturned in	Dobbs decision
+abortion	affected by	judicial rulings
+abortion	influenced by	media
+abortion	researched in	epidemiology
+abortion	affects	child welfare
+abortion	linked to	sex education
+abortion	opposed by	conservative groups
+abortion	supported by	human rights organizations
+abortion	limited by	gestational bans
+abortion	restricted by	mandatory counseling
+abortion	influenced by	technological advancements
+abortion	monitored by	public health agencies
+abortion	affects	global health
+abortion	related to	bodily autonomy

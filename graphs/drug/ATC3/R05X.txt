@@ -1,0 +1,100 @@
+other cold preparations	is a	drug class
+other cold preparations	belongs to	ATC category
+other cold preparations	includes	combination drugs
+other cold preparations	treats	common cold
+common cold	caused by	viruses
+other cold preparations	may contain	antihistamines
+other cold preparations	may contain	decongestants
+other cold preparations	may contain	analgesics
+other cold preparations	may contain	cough suppressants
+other cold preparations	may contain	expectorants
+antihistamines	reduce	sneezing
+antihistamines	reduce	runny nose
+decongestants	relieve	nasal congestion
+analgesics	reduce	fever
+analgesics	relieve	pain
+cough suppressants	control	cough
+expectorants	loosen	mucus
+other cold preparations	have	side effects
+side effects	include	drowsiness
+side effects	include	dry mouth
+side effects	include	dizziness
+other cold preparations	interact with	other medications
+other cold preparations	contraindicated in	hypertension
+other cold preparations	contraindicated in	glaucoma
+other cold preparations	contraindicated in	prostate disorders
+other cold preparations	should avoid	alcohol
+other cold preparations	used for	symptom relief
+symptom relief	improves	quality of life
+other cold preparations	available as	tablets
+other cold preparations	available as	capsules
+other cold preparations	available as	syrups
+other cold preparations	available as	powders
+other cold preparations	have	dosage forms
+dosage forms	affect	absorption
+other cold preparations	have	administration routes
+administration routes	include	oral
+administration routes	include	nasal
+other cold preparations	metabolized in	liver
+liver	affects	drug metabolism
+other cold preparations	excreted through	kidneys
+kidneys	affect	drug clearance
+other cold preparations	have	pharmacokinetics
+pharmacokinetics	determines	dosing
+other cold preparations	have	pharmacodynamics
+pharmacodynamics	determines	effects
+other cold preparations	vary in	efficacy
+efficacy	depends on	patient factors
+patient factors	include	age
+patient factors	include	weight
+patient factors	include	comorbidities
+other cold preparations	prescribed by	physicians
+other cold preparations	recommended by	pharmacists
+other cold preparations	purchased as	OTC drugs
+OTC drugs	have	accessibility
+accessibility	increases	usage
+other cold preparations	studied in	clinical trials
+clinical trials	evaluate	safety
+clinical trials	evaluate	effectiveness
+other cold preparations	regulated by	FDA
+FDA	ensures	drug quality
+other cold preparations	have	brand names
+brand names	differ by	manufacturer
+other cold preparations	have	generic versions
+generic versions	offer	cost savings
+other cold preparations	compete in	market
+market	influenced by	advertising
+other cold preparations	used in	primary care
+primary care	manages	acute conditions
+other cold preparations	prevent	complications
+complications	include	sinusitis
+complications	include	otitis media
+other cold preparations	reduce	doctor visits
+doctor visits	incur	healthcare costs
+other cold preparations	affect	work productivity
+work productivity	impacts	economy
+other cold preparations	researched in	pharmacology
+pharmacology	studies	drug actions
+other cold preparations	involve	drug development
+drug development	requires	testing
+testing	ensures	standards
+other cold preparations	follow	guidelines
+guidelines	provide	recommendations
+other cold preparations	differ by	country
+country	has	regulations
+other cold preparations	used with	home remedies
+home remedies	include	hydration
+home remedies	include	rest
+other cold preparations	complement	immune system
+immune system	fights	infections
+other cold preparations	used during	seasons
+seasons	affect	cold prevalence
+other cold preparations	stored in	pharmacies
+pharmacies	provide	drug information
+other cold preparations	require	proper use
+proper use	prevents	misuse
+misuse	leads to	adverse effects
+other cold preparations	monitored by	healthcare providers
+healthcare providers	assess	outcomes
+outcomes	measure	treatment success
+other cold preparations	contribute to	public health

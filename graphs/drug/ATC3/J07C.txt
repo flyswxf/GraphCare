@@ -1,0 +1,100 @@
+bacterial and viral vaccines	combined	is a	vaccine type
+bacterial and viral vaccines	combined	provides	dual immunity
+bacterial and viral vaccines	combined	contains	bacterial antigens
+bacterial and viral vaccines	combined	contains	viral antigens
+bacterial and viral vaccines	combined	stimulates	immune response
+bacterial and viral vaccines	combined	used for	disease prevention
+bacterial and viral vaccines	combined	reduces	vaccine doses
+bacterial and viral vaccines	combined	improves	vaccination efficiency
+bacterial and viral vaccines	combined	requires	adjuvant
+bacterial and viral vaccines	combined	has	administration route
+bacterial and viral vaccines	combined	targets	multiple pathogens
+bacterial and viral vaccines	combined	prevents	co-infections
+bacterial and viral vaccines	combined	enhances	immune memory
+bacterial and viral vaccines	combined	may cause	adverse effects
+bacterial and viral vaccines	combined	needs	cold chain
+bacterial and viral vaccines	combined	has	formulation
+bacterial and viral vaccines	combined	undergoes	clinical trials
+bacterial and viral vaccines	combined	requires	FDA approval
+bacterial and viral vaccines	combined	has	efficacy rate
+bacterial and viral vaccines	combined	provides	herd immunity
+bacterial antigens	derived from	bacteria
+viral antigens	derived from	viruses
+immune response	produces	antibodies
+immune response	activates	T-cells
+disease prevention	reduces	mortality
+vaccine doses	determined by	age
+vaccination efficiency	measured by	coverage rate
+adjuvant	enhances	immunogenicity
+administration route	includes	injection
+multiple pathogens	cause	different diseases
+co-infections	complicate	treatment
+immune memory	enables	faster response
+adverse effects	include	fever
+cold chain	maintains	potency
+formulation	contains	stabilizers
+clinical trials	test	safety
+FDA approval	requires	evidence
+efficacy rate	determines	effectiveness
+herd immunity	protects	unvaccinated
+bacteria	cause	bacterial infections
+viruses	cause	viral infections
+antibodies	neutralize	pathogens
+T-cells	kill	infected cells
+mortality	affected by	vaccination rate
+age	determines	dosage
+coverage rate	affects	outbreak control
+immunogenicity	influenced by	adjuvant type
+injection	administered by	healthcare worker
+different diseases	require	specific vaccines
+treatment	involves	antibiotics
+faster response	prevents	severe illness
+fever	managed by	antipyretics
+potency	decreases with	temperature
+stabilizers	prevent	degradation
+safety	evaluated in	phase trials
+evidence	includes	trial results
+effectiveness	measured by	protection level
+unvaccinated	at risk of	infection
+bacterial infections	treated with	antibiotics
+viral infections	treated with	antivirals
+pathogens	enter	body
+infected cells	detected by	immune system
+vaccination rate	influenced by	awareness
+dosage	adjusted for	weight
+outbreak control	requires	rapid response
+adjuvant type	affects	reactogenicity
+healthcare worker	follows	protocol
+specific vaccines	target	specific diseases
+antibiotics	kill	bacteria
+severe illness	leads to	hospitalization
+antipyretics	reduce	fever
+temperature	monitored by	thermometer
+degradation	affects	shelf life
+phase trials	progress to	next stage
+trial results	published in	journals
+protection level	varies by	individual
+infection	causes	symptoms
+antivirals	inhibit	viral replication
+body	defends against	pathogens
+immune system	comprises	white blood cells
+awareness	raised by	education
+weight	measured in	kilograms
+rapid response	involves	contact tracing
+reactogenicity	causes	local reactions
+protocol	ensures	safety
+specific diseases	have	characteristic symptoms
+bacteria	reproduce by	binary fission
+hospitalization	requires	medical care
+fever	indicates	immune activation
+thermometer	measures	body temperature
+shelf life	determines	expiration date
+next stage	involves	larger population
+journals	contain	peer-reviewed studies
+individual	has	genetic factors
+symptoms	prompt	diagnosis
+viral replication	requires	host cell
+white blood cells	include	lymphocytes
+education	provided by	health authorities
+contact tracing	identifies	exposure
+local reactions	include	swelling

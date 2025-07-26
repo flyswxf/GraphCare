@@ -1,0 +1,100 @@
+cancer of testis	is a	testicular malignancy
+cancer of testis	has subtype	seminoma
+cancer of testis	has subtype	non-seminoma
+cancer of testis	affects	testes
+cancer of testis	may cause	testicular lump
+cancer of testis	may cause	back pain
+cancer of testis	may cause	gynecomastia
+cancer of testis	diagnosed by	ultrasound
+cancer of testis	diagnosed by	tumor markers
+cancer of testis	treated with	orchiectomy
+cancer of testis	treated with	chemotherapy
+cancer of testis	treated with	radiation therapy
+cancer of testis	requires	staging
+cancer of testis	has risk factor	cryptorchidism
+cancer of testis	has risk factor	family history
+cancer of testis	has risk factor	Caucasian race
+cancer of testis	occurs in	young adults
+cancer of testis	may metastasize to	retroperitoneal lymph nodes
+cancer of testis	may metastasize to	lungs
+cancer of testis	may metastasize to	liver
+cancer of testis	may elevate	AFP
+cancer of testis	may elevate	hCG
+cancer of testis	may elevate	LDH
+cancer of testis	monitored by	CT scan
+cancer of testis	may require	RPLND
+cancer of testis	has survival rate	high
+cancer of testis	may cause	infertility
+cancer of testis	may require	sperm banking
+cancer of testis	associated with	testicular microlithiasis
+cancer of testis	may cause	hydrocele
+orchiectomy	removes	testis
+orchiectomy	may require	prosthesis
+chemotherapy	uses	bleomycin
+chemotherapy	uses	etoposide
+chemotherapy	uses	cisplatin
+radiation therapy	targets	lymph nodes
+radiation therapy	may cause	fatigue
+radiation therapy	may cause	skin changes
+seminoma	is sensitive to	radiation
+non-seminoma	is resistant to	radiation
+AFP	is produced by	yolk sac tumor
+hCG	is produced by	choriocarcinoma
+testicular microlithiasis	is seen on	ultrasound
+cryptorchidism	increases risk of	cancer of testis
+cryptorchidism	requires	orchiopexy
+RPLND	removes	lymph nodes
+RPLND	may cause	retrograde ejaculation
+testicular prosthesis	restores	appearance
+sperm banking	preserves	fertility
+infertility	may result from	chemotherapy
+infertility	may result from	radiation
+infertility	may be temporary	after treatment
+gynecomastia	caused by	hormonal changes
+back pain	may indicate	metastasis
+testicular lump	requires	biopsy
+testicular lump	may be	painless
+ultrasound	differentiates	solid masses
+ultrasound	detects	microlithiasis
+CT scan	evaluates	metastasis
+CT scan	uses	contrast
+tumor markers	monitor	treatment response
+tumor markers	indicate	recurrence
+staging	determines	prognosis
+staging	guides	treatment
+stage I	indicates	localized disease
+stage II	indicates	nodal involvement
+stage III	indicates	distant metastasis
+bleomycin	may cause	pulmonary fibrosis
+cisplatin	may cause	nephrotoxicity
+etoposide	may cause	myelosuppression
+chemotherapy	may cause	nausea
+chemotherapy	may cause	alopecia
+radiation therapy	may cause	secondary cancers
+fertility	may be assessed by	semen analysis
+semen analysis	measures	sperm count
+testicular self-exam	detects	early lesions
+testicular self-exam	recommended for	young men
+pain	may be absent in	early stages
+scrotal swelling	may indicate	cancer
+hemorrhage	may occur in	choriocarcinoma
+teratoma	is a type of	non-seminoma
+embryonal carcinoma	is aggressive	subtype
+lymphoma	may mimic	testicular cancer
+metastasis	requires	systemic therapy
+surveillance	is option for	stage I
+relapse	may occur in	first two years
+follow-up	includes	tumor markers
+follow-up	includes	imaging
+cancer of testis	rarely bilateral
+second primary	may develop	in contralateral testis
+testicular trauma	not a risk factor
+HIV	increases risk of	testicular cancer
+Klinefelter syndrome	increases risk of	mediastinal germ cell tumor
+inguinal orchiectomy	is standard approach
+scrotal orchiectomy	contraindicated
+sperm count	may recover after	treatment
+pulmonary function tests	monitor	bleomycin toxicity
+creatinine clearance	monitors	cisplatin toxicity
+PET scan	may detect	residual disease
+cancer of testis	has good prognosis

@@ -1,0 +1,100 @@
+small bowel resection	is a	surgical procedure
+small bowel resection	involves	small intestine
+small bowel resection	treats	Crohn's disease
+small bowel resection	treats	bowel obstruction
+small bowel resection	treats	tumors
+small bowel resection	treats	ischemia
+small bowel resection	treats	trauma
+small bowel resection	requires	general anesthesia
+small bowel resection	may cause	bleeding
+small bowel resection	may cause	infection
+small bowel resection	may cause	anastomotic leak
+small bowel resection	may cause	adhesions
+small bowel resection	may cause	short bowel syndrome
+small bowel resection	performed by	surgeon
+small bowel resection	requires	hospitalization
+small bowel resection	followed by	recovery period
+small bowel resection	may require	ostomy
+small bowel resection	affects	digestion
+small bowel resection	affects	nutrient absorption
+small bowel resection	monitored with	imaging
+small bowel resection	may lead	malnutrition
+small bowel resection	may require	nutritional support
+small bowel resection	may require	parenteral nutrition
+small bowel resection	associated with	postoperative pain
+small bowel resection	managed with	analgesia
+small bowel resection	requires	preoperative evaluation
+small bowel resection	may involve	laparoscopy
+small bowel resection	may involve	open surgery
+small bowel resection	may require	blood transfusion
+small bowel resection	may cause	bowel perforation
+small bowel resection	may lead	sepsis
+small bowel resection	may require	ICU admission
+small bowel resection	may cause	ileus
+small bowel resection	treated with	bowel rest
+small bowel resection	may require	reoperation
+small bowel resection	affects	gut microbiota
+small bowel resection	may cause	diarrhea
+small bowel resection	may require	antidiarrheals
+small bowel resection	may require	probiotics
+small bowel resection	may lead	dehydration
+small bowel resection	monitored with	lab tests
+small bowel resection	may cause	electrolyte imbalance
+small bowel resection	treated with	IV fluids
+small bowel resection	may require	rehabilitation
+small bowel resection	may affect	quality of life
+small bowel resection	may require	follow-up care
+small bowel resection	may lead	weight loss
+small bowel resection	may require	dietary changes
+small bowel resection	may cause	dumping syndrome
+small bowel resection	treated with	small frequent meals
+small bowel resection	may cause	bile acid malabsorption
+small bowel resection	treated with	bile acid sequestrants
+small bowel resection	may cause	steatorrhea
+small bowel resection	treated with	pancreatic enzymes
+small bowel resection	may require	vitamin supplementation
+small bowel resection	may cause	vitamin B12 deficiency
+small bowel resection	treated with	B12 injections
+small bowel resection	may cause	iron deficiency
+small bowel resection	treated with	iron supplements
+small bowel resection	may cause	calcium deficiency
+small bowel resection	treated with	calcium supplements
+small bowel resection	may cause	magnesium deficiency
+small bowel resection	treated with	magnesium supplements
+small bowel resection	may cause	zinc deficiency
+small bowel resection	treated with	zinc supplements
+small bowel resection	may cause	fat-soluble vitamin deficiency
+small bowel resection	treated with	fat-soluble vitamins
+small bowel resection	may require	long-term monitoring
+small bowel resection	may cause	bowel stricture
+small bowel resection	treated with	dilation
+small bowel resection	may require	endoscopic evaluation
+small bowel resection	may lead	chronic pain
+small bowel resection	managed with	pain management
+small bowel resection	may cause	fatigue
+small bowel resection	may require	lifestyle adjustments
+small bowel resection	may affect	mental health
+small bowel resection	may require	psychological support
+small bowel resection	may increase	healthcare costs
+small bowel resection	may require	insurance coverage
+small bowel resection	may involve	multidisciplinary team
+small bowel resection	may require	stoma care
+small bowel resection	may involve	stoma nurse
+small bowel resection	may lead	body image issues
+small bowel resection	may require	counseling
+small bowel resection	may require	support groups
+small bowel resection	may affect	employment
+small bowel resection	may require	disability support
+small bowel resection	may increase	readmission risk
+small bowel resection	may require	home care
+small bowel resection	may involve	physical therapy
+small bowel resection	may require	wound care
+small bowel resection	may cause	incisional hernia
+small bowel resection	treated with	hernia repair
+small bowel resection	may require	abdominal binder
+small bowel resection	may cause	chronic diarrhea
+small bowel resection	treated with	loperamide
+small bowel resection	may require	antispasmodics
+small bowel resection	may cause	bacterial overgrowth
+small bowel resection	treated with	antibiotics
+small bowel resection	may require	periodic imaging

@@ -1,0 +1,100 @@
+alimentary tract	is part of	digestive system
+metabolism	involves	biochemical processes
+ATC classification	categorizes	drugs
+alimentary tract products	treat	digestive disorders
+metabolism products	regulate	metabolic pathways
+digestive disorders	include	acid-related diseases
+acid-related diseases	treated with	antacids
+antacids	neutralize	stomach acid
+stomach acid	causes	heartburn
+heartburn	symptom of	GERD
+GERD	treated with	proton pump inhibitors
+proton pump inhibitors	reduce	acid secretion
+acid secretion	regulated by	histamine
+histamine	blocked by	H2 antagonists
+H2 antagonists	treat	peptic ulcers
+peptic ulcers	caused by	H. pylori
+H. pylori	treated with	antibiotics
+antibiotics	can cause	diarrhea
+diarrhea	treated with	antidiarrheals
+antidiarrheals	contain	loperamide
+loperamide	slows	intestinal motility
+intestinal motility	affected by	laxatives
+laxatives	treat	constipation
+constipation	symptom of	IBS
+IBS	managed with	dietary fiber
+dietary fiber	improves	bowel movements
+bowel movements	regulated by	gut microbiota
+gut microbiota	supported by	probiotics
+probiotics	contain	Lactobacillus
+Lactobacillus	aids in	digestion
+digestion	requires	digestive enzymes
+digestive enzymes	include	amylase
+amylase	breaks down	carbohydrates
+carbohydrates	metabolized into	glucose
+glucose	regulated by	insulin
+insulin	produced by	pancreas
+pancreas	secretes	lipase
+lipase	digests	fats
+fats	absorbed in	small intestine
+small intestine	affected by	celiac disease
+celiac disease	managed with	gluten-free diet
+gluten-free diet	excludes	wheat
+wheat	contains	gluten
+gluten	triggers	immune response
+immune response	involves	antibodies
+antibodies	detected in	blood tests
+blood tests	diagnose	deficiencies
+deficiencies	corrected with	supplements
+supplements	include	vitamins
+vitamins	essential for	metabolism
+metabolism	influenced by	thyroid hormones
+thyroid hormones	regulated by	iodine
+iodine	found in	seafood
+seafood	rich in	omega-3
+omega-3	reduces	inflammation
+inflammation	symptom of	Crohn’s disease
+Crohn’s disease	treated with	immunosuppressants
+immunosuppressants	suppress	immune system
+immune system	weakened by	malnutrition
+malnutrition	caused by	poor absorption
+poor absorption	symptom of	pancreatitis
+pancreatitis	treated with	enzyme replacement
+enzyme replacement	includes	pancrelipase
+pancrelipase	aids in	fat digestion
+fat digestion	produces	energy
+energy	stored as	glycogen
+glycogen	broken down by	glucagon
+glucagon	secreted by	alpha cells
+alpha cells	located in	pancreas
+pancreas	affected by	diabetes
+diabetes	managed with	insulin therapy
+insulin therapy	requires	blood glucose monitoring
+blood glucose monitoring	uses	test strips
+test strips	measure	blood sugar
+blood sugar	controlled by	diet
+diet	includes	balanced meals
+balanced meals	contain	macronutrients
+macronutrients	include	proteins
+proteins	digested into	amino acids
+amino acids	used for	muscle repair
+muscle repair	requires	rest
+rest	disrupted by	sleep disorders
+sleep disorders	treated with	melatonin
+melatonin	regulates	sleep cycle
+sleep cycle	affects	metabolism
+metabolism	impacts	body weight
+body weight	managed with	exercise
+exercise	increases	calorie expenditure
+calorie expenditure	influences	weight loss
+weight loss	aided by	dietary supplements
+dietary supplements	include	fiber pills
+fiber pills	improve	satiety
+satiety	reduces	overeating
+overeating	leads to	obesity
+obesity	risk factor for	metabolic syndrome
+metabolic syndrome	includes	hypertension
+hypertension	treated with	diuretics
+diuretics	reduce	fluid retention
+fluid retention	symptom of	heart failure
+heart failure	managed with	ACE inhibitors

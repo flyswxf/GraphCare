@@ -1,0 +1,100 @@
+other non-epithelial cancer of skin	is a	skin cancer
+other non-epithelial cancer of skin	includes	Merkel cell carcinoma
+other non-epithelial cancer of skin	includes	cutaneous lymphoma
+other non-epithelial cancer of skin	includes	sarcoma of skin
+other non-epithelial cancer of skin	is distinct from	melanoma
+other non-epithelial cancer of skin	is distinct from	basal cell carcinoma
+other non-epithelial cancer of skin	is distinct from	squamous cell carcinoma
+other non-epithelial cancer of skin	may require	biopsy
+other non-epithelial cancer of skin	may require	immunohistochemistry
+other non-epithelial cancer of skin	may cause	skin lesions
+other non-epithelial cancer of skin	may metastasize	lymph nodes
+other non-epithelial cancer of skin	may metastasize	lungs
+other non-epithelial cancer of skin	may metastasize	liver
+other non-epithelial cancer of skin	is diagnosed with	imaging
+other non-epithelial cancer of skin	is diagnosed with	pathology
+other non-epithelial cancer of skin	is treated with	surgery
+other non-epithelial cancer of skin	is treated with	radiation therapy
+other non-epithelial cancer of skin	is treated with	chemotherapy
+other non-epithelial cancer of skin	is treated with	immunotherapy
+other non-epithelial cancer of skin	has risk factor	UV exposure
+other non-epithelial cancer of skin	has risk factor	immunosuppression
+other non-epithelial cancer of skin	has risk factor	genetic mutations
+Merkel cell carcinoma	is associated with	Merkel cell polyomavirus
+Merkel cell carcinoma	has histology	neuroendocrine features
+Merkel cell carcinoma	is aggressive	cancer
+cutaneous lymphoma	is a type of	non-Hodgkin lymphoma
+cutaneous lymphoma	primarily involves	skin
+cutaneous lymphoma	may progress to	systemic lymphoma
+sarcoma of skin	is rare	malignancy
+sarcoma of skin	originates from	soft tissue
+sarcoma of skin	may resemble	benign tumors
+biopsy	confirms	diagnosis
+biopsy	differentiates	cancer types
+immunohistochemistry	identifies	tumor markers
+immunohistochemistry	aids in	classification
+skin lesions	can be	nodular
+skin lesions	can be	ulcerated
+lymph nodes	are part of	lymphatic system
+lymph nodes	filter	cancer cells
+lungs	are common site of	metastasis
+liver	is common site of	metastasis
+imaging	includes	CT scan
+imaging	includes	MRI
+imaging	detects	tumor spread
+pathology	examines	tissue samples
+pathology	determines	tumor grade
+surgery	removes	tumor
+surgery	may require	wide excision
+radiation therapy	kills	cancer cells
+radiation therapy	reduces	recurrence risk
+chemotherapy	targets	rapidly dividing cells
+chemotherapy	has side effects	nausea
+chemotherapy	has side effects	fatigue
+immunotherapy	enhances	immune response
+immunotherapy	includes	checkpoint inhibitors
+UV exposure	damages	DNA
+UV exposure	increases	mutation risk
+immunosuppression	weakens	immune surveillance
+immunosuppression	is seen in	transplant patients
+genetic mutations	drive	carcinogenesis
+genetic mutations	may be	inherited
+Merkel cell polyomavirus	integrates into	host genome
+Merkel cell polyomavirus	encodes	oncoproteins
+neuroendocrine features	indicate	Merkel cell origin
+neuroendocrine features	are detected via	synaptophysin staining
+aggressive cancer	requires	multimodal therapy
+aggressive cancer	has high	recurrence rate
+non-Hodgkin lymphoma	is heterogeneous	disease
+non-Hodgkin lymphoma	has subtypes	T-cell lymphoma
+non-Hodgkin lymphoma	has subtypes	B-cell lymphoma
+systemic lymphoma	affects	multiple organs
+systemic lymphoma	requires	systemic treatment
+rare malignancy	has limited	treatment guidelines
+rare malignancy	benefits from	specialized centers
+soft tissue	includes	connective tissue
+soft tissue	includes	blood vessels
+benign tumors	are non-cancerous	growths
+benign tumors	may mimic	malignancies
+diagnosis	guides	treatment plan
+diagnosis	relies on	clinical correlation
+cancer types	differ in	behavior
+cancer types	differ in	prognosis
+tumor markers	aid in	diagnosis
+tumor markers	predict	treatment response
+classification	impacts	therapy choice
+classification	follows	WHO guidelines
+nodular lesions	suggest	tumor growth
+ulcerated lesions	indicate	advanced disease
+lymphatic system	transports	immune cells
+lymphatic system	spreads	cancer
+CT scan	visualizes	internal organs
+MRI	provides	detailed images
+tumor spread	determines	staging
+tumor spread	affects	survival
+tissue samples	are processed	in lab
+tumor grade	reflects	aggressiveness
+wide excision	ensures	clear margins
+clear margins	reduce	recurrence
+checkpoint inhibitors	block	PD-1
+PD-1	regulates	immune tolerance

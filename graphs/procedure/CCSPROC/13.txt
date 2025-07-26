@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+corneal transplant	is a	surgery
+corneal transplant	treats	corneal blindness
+corneal transplant	replaces	damaged cornea
+corneal transplant	requires	donor tissue
+corneal transplant	performed by	ophthalmologist
+penetrating keratoplasty	is a type of	corneal transplant
+endothelial keratoplasty	is a type of	corneal transplant
+anterior lamellar keratoplasty	is a type of	corneal transplant
+DSAEK	is a type of	endothelial keratoplasty
+DMEK	is a type of	endothelial keratoplasty
+keratoconus	treated by	corneal transplant
+Fuchs dystrophy	treated by	corneal transplant
+corneal scarring	treated by	corneal transplant
+corneal ulcer	may require	corneal transplant
+corneal edema	may require	corneal transplant
+corneal topography	evaluates for	corneal transplant
+pachymetry	measures for	corneal transplant
+eye examination	precedes	corneal transplant
+blood tests	required for	corneal transplant
+donor matching	necessary for	corneal transplant
+local anesthesia	used in	corneal transplant
+trephine	used in	corneal transplant
+sutures	secure	transplanted cornea
+operating microscope	used in	corneal transplant
+antibiotics	administered during	corneal transplant
+eye drops	prescribed after	corneal transplant
+steroid drops	prevent rejection after	corneal transplant
+eye shield	protects after	corneal transplant
+follow-up visits	monitor	corneal transplant
+suture removal	occurs after	corneal transplant
+graft rejection	risk of	corneal transplant
+infection	risk of	corneal transplant
+astigmatism	may result from	corneal transplant
+glaucoma	may develop after	corneal transplant
+cataracts	may develop after	corneal transplant
+prednisolone	treats	graft rejection
+cyclosporine	prevents	graft rejection
+antibiotics	prevent	infection
+artificial tears	relieve	dry eye
+antihypertensives	manage	postoperative glaucoma
+contact lenses	alternative to	corneal transplant
+corneal cross-linking	alternative to	corneal transplant
+intacs	alternative to	corneal transplant
+phototherapeutic keratectomy	alternative to	corneal transplant
+amniotic membrane transplant	alternative to	corneal transplant
+donor age	affects	graft survival
+recipient age	affects	recovery
+underlying condition	influences	prognosis
+compliance	impacts	outcomes
+surgical technique	determines	visual outcome
+eye banks	provide	donor corneas
+cadaveric donors	source of	corneal tissue
+tissue matching	improves	compatibility
+preservation medium	stores	donor corneas
+corneal evaluation	assesses	donor quality
+aging population	increases demand for	corneal transplant
+trauma	causes need for	corneal transplant
+infections	lead to	corneal damage
+genetic disorders	predispose to	corneal disease
+contact lens misuse	contributes to	corneal problems
+femtosecond laser	assists	corneal transplant
+optical coherence tomography	monitors	graft attachment
+confocal microscopy	evaluates	corneal cells
+specular microscopy	assesses	endothelial health
+wavefront analysis	measures	optical quality
+bioengineered corneas	future of	corneal transplant
+stem cell therapy	may replace	corneal transplant
+gene therapy	targets	inherited corneal disorders
+immunomodulation	reduces	rejection risk
+nanotechnology	enhances	drug delivery
+insurance	covers	corneal transplant
+cost	varies for	corneal transplant
+tissue processing	adds to	expense
+follow-up care	increases	total cost
+global shortage	affects	corneal availability
+organ donation	enables	corneal transplant
+transplant coordinators	facilitate	process
+support groups	help	recipients
+rehabilitation	assists	visual recovery
+counseling	addresses	anxiety
+children	require specialized	corneal transplant
+elderly	have higher risk with	corneal transplant
+immunocompromised	face challenges with	corneal transplant
+diabetics	need careful management after	corneal transplant
+autoimmune patients	risk rejection after	corneal transplant
+Eduard Zirm	performed first successful	corneal transplant
+suturing techniques	evolved for	corneal transplant
+eye banking	developed to support	corneal transplant
+microsurgery	advanced	corneal transplant
+lamellar techniques	revolutionized	corneal transplant
+developing countries	face shortages of	donor corneas
+telemedicine	expands access to	corneal care
+international collaboration	improves	tissue sharing
+public awareness	increases	donation rates
+training programs	build capacity for	corneal surgery
+xenotransplantation	explored for	corneal needs
+3D printing	investigated for	corneal fabrication
+artificial corneas	under development for	transplantation
+immune tolerance	researched for	graft acceptance
+regenerative medicine	promises to transform	corneal repair

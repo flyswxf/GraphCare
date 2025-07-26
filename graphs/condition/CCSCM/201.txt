@@ -1,0 +1,100 @@
+infective arthritis	is a	joint infection
+osteomyelitis	is a	bone infection
+infective arthritis	may cause	joint pain
+osteomyelitis	may cause	bone pain
+infective arthritis	is caused by	bacteria
+osteomyelitis	is caused by	bacteria
+staphylococcus aureus	causes	infective arthritis
+staphylococcus aureus	causes	osteomyelitis
+infective arthritis	requires	antibiotic therapy
+osteomyelitis	requires	antibiotic therapy
+vancomycin	treats	infective arthritis
+vancomycin	treats	osteomyelitis
+infective arthritis	may lead to	joint damage
+osteomyelitis	may lead to	bone necrosis
+infective arthritis	may require	joint drainage
+osteomyelitis	may require	surgical debridement
+diabetes mellitus	increases risk of	infective arthritis
+diabetes mellitus	increases risk of	osteomyelitis
+immunosuppression	increases risk of	infective arthritis
+immunosuppression	increases risk of	osteomyelitis
+infective arthritis	may present with	fever
+osteomyelitis	may present with	fever
+infective arthritis	diagnosed with	joint aspiration
+osteomyelitis	diagnosed with	bone biopsy
+CRP	is a marker for	infective arthritis
+CRP	is a marker for	osteomyelitis
+ESR	is a marker for	infective arthritis
+ESR	is a marker for	osteomyelitis
+MRI	detects	infective arthritis
+MRI	detects	osteomyelitis
+infective arthritis	may coexist with	osteomyelitis
+osteomyelitis	may spread to	joints
+joint prosthesis	increases risk of	infective arthritis
+bone fracture	increases risk of	osteomyelitis
+ceftriaxone	treats	infective arthritis
+ceftriaxone	treats	osteomyelitis
+infective arthritis	may cause	septicemia
+osteomyelitis	may cause	septicemia
+prolonged antibiotic therapy	prevents recurrence of	osteomyelitis
+joint immobilization	helps treat	infective arthritis
+infective arthritis	may lead to	osteoarthritis
+osteomyelitis	may lead to	pathological fracture
+IV drug use	increases risk of	infective arthritis
+IV drug use	increases risk of	osteomyelitis
+infective arthritis	requires	hospitalization
+osteomyelitis	requires	hospitalization
+blood cultures	diagnose	infective arthritis
+blood cultures	diagnose	osteomyelitis
+infective arthritis	may affect	knee joint
+osteomyelitis	may affect	femur
+infective arthritis	may affect	hip joint
+osteomyelitis	may affect	tibia
+synovial fluid analysis	confirms	infective arthritis
+bone scan	confirms	osteomyelitis
+infective arthritis	has symptom	joint swelling
+osteomyelitis	has symptom	localized tenderness
+infective arthritis	may result from	hematogenous spread
+osteomyelitis	may result from	hematogenous spread
+infective arthritis	may complicate	rheumatoid arthritis
+osteomyelitis	may complicate	sickle cell disease
+infective arthritis	has complication	joint destruction
+osteomyelitis	has complication	chronic infection
+infective arthritis	treated with	flucloxacillin
+osteomyelitis	treated with	flucloxacillin
+infective arthritis	requires monitoring of	inflammatory markers
+osteomyelitis	requires monitoring of	inflammatory markers
+infective arthritis	may require	arthrotomy
+osteomyelitis	may require	bone grafting
+infective arthritis	prevention includes	proper wound care
+osteomyelitis	prevention includes	proper wound care
+infective arthritis	risks increase with	prosthetic joints
+osteomyelitis	risks increase with	open fractures
+infective arthritis	associated with	bacteremia
+osteomyelitis	associated with	bacteremia
+infective arthritis	differential diagnosis includes	gout
+osteomyelitis	differential diagnosis includes	bone tumor
+infective arthritis	may follow	joint injection
+osteomyelitis	may follow	orthopedic surgery
+infective arthritis	more common in	elderly
+osteomyelitis	more common in	children
+infective arthritis	may spread from	adjacent osteomyelitis
+osteomyelitis	may spread to	adjacent joints
+infective arthritis	requires	infectious disease consultation
+osteomyelitis	requires	infectious disease consultation
+infective arthritis	may lead to	joint stiffness
+osteomyelitis	may lead to	limb deformity
+infective arthritis	may cause	systemic inflammation
+osteomyelitis	may cause	systemic inflammation
+infective arthritis	treatment duration	4-6 weeks
+osteomyelitis	treatment duration	6-8 weeks
+infective arthritis	may recur without	proper treatment
+osteomyelitis	may recur without	proper treatment
+infective arthritis	associated with	elevated white blood cells
+osteomyelitis	associated with	elevated white blood cells
+infective arthritis	may require	joint replacement
+osteomyelitis	may require	amputation
+infective arthritis	prevention includes	antibiotic prophylaxis
+osteomyelitis	prevention includes	antibiotic prophylaxis
+infective arthritis	has prognosis dependent on	early treatment
+osteomyelitis	has prognosis dependent on	early treatment

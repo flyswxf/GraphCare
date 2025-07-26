@@ -1,0 +1,100 @@
+intestinal obstruction	is a	digestive disorder
+intestinal obstruction	may cause	abdominal pain
+intestinal obstruction	may cause	vomiting
+intestinal obstruction	may cause	constipation
+intestinal obstruction	may cause	bloating
+intestinal obstruction	may cause	bowel perforation
+intestinal obstruction	may cause	sepsis
+intestinal obstruction	is diagnosed by	abdominal X-ray
+intestinal obstruction	is diagnosed by	CT scan
+intestinal obstruction	is treated with	nasogastric tube
+intestinal obstruction	is treated with	intravenous fluids
+intestinal obstruction	may require	surgery
+adhesions	can cause	intestinal obstruction
+tumors	can cause	intestinal obstruction
+inflammatory bowel disease	can cause	intestinal obstruction
+diverticulitis	can cause	intestinal obstruction
+Crohn's disease	can cause	intestinal obstruction
+intestinal ischemia	can cause	intestinal obstruction
+opioids	can cause	intestinal pseudo-obstruction
+electrolyte imbalance	can worsen	intestinal obstruction
+intestinal obstruction	increases risk of	dehydration
+intestinal obstruction	increases risk of	malnutrition
+intestinal obstruction	may lead to	bowel resection
+intestinal obstruction	may lead to	colostomy
+mechanical obstruction	is a type of	intestinal obstruction
+functional obstruction	is a type of	intestinal obstruction
+small bowel obstruction	is a type of	intestinal obstruction
+large bowel obstruction	is a type of	intestinal obstruction
+intestinal obstruction	is managed by	gastroenterologist
+intestinal obstruction	is managed by	general surgeon
+laparotomy	is a surgery for	intestinal obstruction
+laparoscopy	is a surgery for	intestinal obstruction
+bowel sounds	are assessed in	intestinal obstruction
+abdominal distension	is a sign of	intestinal obstruction
+intestinal obstruction	may require	pain management
+intestinal obstruction	may require	antibiotics
+metoclopramide	may be used for	intestinal pseudo-obstruction
+neostigmine	may be used for	intestinal pseudo-obstruction
+intestinal obstruction	can recur after	surgery
+postoperative adhesions	can cause	recurrent obstruction
+intestinal obstruction	has higher risk in	elderly
+intestinal obstruction	has higher risk in	abdominal surgery history
+intestinal obstruction	may complicate	pregnancy
+intestinal obstruction	may mimic	gastroenteritis
+intestinal obstruction	differs from	ileus
+water-soluble contrast	helps diagnose	intestinal obstruction
+intestinal obstruction	may cause	tachycardia
+intestinal obstruction	may cause	hypotension
+intestinal obstruction	requires	NPO status
+intestinal obstruction	may require	total parenteral nutrition
+intestinal obstruction	can lead to	multi-organ failure
+intestinal obstruction	increases	hospital stay
+intestinal obstruction	increases	healthcare costs
+early ambulation	prevents	postoperative obstruction
+intestinal obstruction	has mortality risk
+closed-loop obstruction	is severe	intestinal obstruction
+strangulated obstruction	is severe	intestinal obstruction
+intestinal obstruction	may cause	metabolic alkalosis
+intestinal obstruction	may cause	hypokalemia
+intestinal obstruction	may cause	respiratory distress
+intestinal obstruction	may cause	oliguria
+intestinal obstruction	requires	frequent monitoring
+intestinal obstruction	may require	ICU admission
+nasogastric decompression	relieves	intestinal obstruction
+intestinal obstruction	contraindicates	oral intake
+intestinal obstruction	delays	wound healing
+intestinal obstruction	prolongs	recovery time
+intestinal obstruction	increases	complication rate
+intestinal obstruction	may require	second surgery
+intestinal obstruction	may cause	anastomotic leak
+intestinal obstruction	may lead to	short bowel syndrome
+intestinal obstruction	increases	readmission rate
+intestinal obstruction	affects	quality of life
+intestinal obstruction	requires	long-term follow-up
+intestinal obstruction	may cause	chronic pain
+intestinal obstruction	may cause	bowel dysfunction
+intestinal obstruction	may lead to	depression
+intestinal obstruction	increases	caregiver burden
+intestinal obstruction	is studied in	gastroenterology research
+intestinal obstruction	has genetic factors
+intestinal obstruction	has environmental factors
+intestinal obstruction	may be prevented by	dietary fiber
+intestinal obstruction	may be prevented by	hydration
+intestinal obstruction	may be prevented by	early mobilization
+intestinal obstruction	has clinical guidelines
+intestinal obstruction	requires	multidisciplinary care
+intestinal obstruction	involves	radiologist consultation
+intestinal obstruction	involves	nutritionist consultation
+intestinal obstruction	may require	pain specialist
+intestinal obstruction	may require	physical therapy
+intestinal obstruction	may require	psychological support
+intestinal obstruction	has scoring systems
+intestinal obstruction	has prognostic factors
+intestinal obstruction	affects	work productivity
+intestinal obstruction	increases	disability risk
+intestinal obstruction	is documented in	medical records
+intestinal obstruction	is reported in	clinical trials
+intestinal obstruction	has treatment algorithms
+intestinal obstruction	requires	patient education
+intestinal obstruction	necessitates	emergency care

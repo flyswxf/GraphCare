@@ -1,0 +1,100 @@
+nutritional deficiencies	may cause	anemia
+iron deficiency	is a	nutritional deficiency
+vitamin D deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	osteoporosis
+vitamin B12 deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	impaired immunity
+folate deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	cognitive impairment
+protein-energy malnutrition	is a	nutritional deficiency
+nutritional deficiencies	may lead to	growth retardation
+zinc deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	night blindness
+vitamin A deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	dermatitis
+iodine deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	goiter
+magnesium deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	muscle cramps
+calcium deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	rickets
+vitamin K deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	bleeding disorders
+selenium deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	cardiomyopathy
+thiamine deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	beriberi
+niacin deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	pellagra
+vitamin C deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	scurvy
+riboflavin deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	angular stomatitis
+potassium deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	hypokalemia
+copper deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	neutropenia
+vitamin E deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	ataxia
+biotin deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	hair loss
+omega-3 deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	dry skin
+chromium deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	glucose intolerance
+manganese deficiency	is a	nutritional deficiency
+nutritional deficiencies	may cause	skeletal abnormalities
+phosphorus deficiency	is a	nutritional deficiency
+nutritional deficiencies	may result in	weakness
+vitamin B6 deficiency	is a	nutritional deficiency
+nutritional deficiencies	may lead to	peripheral neuropathy
+malabsorption	may cause	nutritional deficiencies
+alcoholism	may lead to	nutritional deficiencies
+poverty	is a risk factor for	nutritional deficiencies
+food insecurity	may cause	nutritional deficiencies
+elderly	are at risk for	nutritional deficiencies
+pregnancy	increases need for	nutritional supplementation
+vegan diet	may lead to	nutritional deficiencies
+gastrointestinal surgery	may cause	nutritional deficiencies
+chronic diarrhea	may lead to	nutritional deficiencies
+inflammatory bowel disease	may cause	nutritional deficiencies
+celiac disease	may lead to	nutritional deficiencies
+eating disorders	may cause	nutritional deficiencies
+cancer	may lead to	nutritional deficiencies
+HIV/AIDS	may cause	nutritional deficiencies
+renal failure	may lead to	nutritional deficiencies
+liver disease	may cause	nutritional deficiencies
+diabetes	may lead to	nutritional deficiencies
+hyperthyroidism	may cause	nutritional deficiencies
+chronic pancreatitis	may lead to	nutritional deficiencies
+cystic fibrosis	may cause	nutritional deficiencies
+bariatric surgery	may lead to	nutritional deficiencies
+nutritional deficiencies	may require	dietary counseling
+nutritional deficiencies	may be treated with	supplements
+multivitamins	are used for	nutritional deficiencies
+iron supplements	treat	iron deficiency
+vitamin D supplements	treat	vitamin D deficiency
+B12 injections	treat	vitamin B12 deficiency
+folic acid	treats	folate deficiency
+zinc supplements	treat	zinc deficiency
+iodized salt	prevents	iodine deficiency
+calcium supplements	treat	calcium deficiency
+vitamin A supplementation	treats	vitamin A deficiency
+nutritional deficiencies	may require	blood tests
+complete blood count	detects	anemia
+serum ferritin	measures	iron stores
+25-hydroxyvitamin D test	assesses	vitamin D status
+serum B12	measures	vitamin B12 levels
+serum folate	assesses	folate status
+nutritional deficiencies	may predict	hospital readmission
+nutritional deficiencies	are associated with	longer hospital stays
+nutritional deficiencies	increase risk of	surgical complications
+nutritional deficiencies	may affect	wound healing
+nutritional deficiencies	impact	quality of life
+nutritional deficiencies	increase	healthcare costs
+malnourished patients	have higher	mortality rates
+nutritional screening	identifies	at-risk patients
+nutrition support teams	manage	nutritional deficiencies
+enteral nutrition	treats	nutritional deficiencies
+parenteral nutrition	treats	severe malnutrition
+nutrition education	prevents	nutritional deficiencies

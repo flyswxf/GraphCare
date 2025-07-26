@@ -1,0 +1,100 @@
+hemorrhage during pregnancy	is caused by	abruptio placenta
+hemorrhage during pregnancy	is caused by	placenta previa
+abruptio placenta	is a	pregnancy complication
+placenta previa	is a	pregnancy complication
+abruptio placenta	may lead to	fetal distress
+placenta previa	may lead to	maternal bleeding
+abruptio placenta	requires	emergency cesarean
+placenta previa	requires	cesarean delivery
+hemorrhage during pregnancy	is managed with	blood transfusion
+abruptio placenta	is associated with	hypertension
+placenta previa	is diagnosed via	ultrasound
+abruptio placenta	is diagnosed via	clinical examination
+hemorrhage during pregnancy	increases risk of	preterm birth
+abruptio placenta	increases risk of	maternal shock
+placenta previa	increases risk of	postpartum hemorrhage
+abruptio placenta	is linked to	trauma
+placenta previa	is linked to	uterine abnormalities
+hemorrhage during pregnancy	necessitates	hospitalization
+abruptio placenta	may cause	disseminated intravascular coagulation
+placenta previa	may cause	anemia
+abruptio placenta	is treated with	tocolytics
+placenta previa	is treated with	bed rest
+hemorrhage during pregnancy	requires	fetal monitoring
+abruptio placenta	is prevented by	prenatal care
+placenta previa	is prevented by	avoiding intercourse
+abruptio placenta	has symptom	abdominal pain
+placenta previa	has symptom	painless bleeding
+hemorrhage during pregnancy	may require	iron supplements
+abruptio placenta	is graded by	severity
+placenta previa	is classified by	location
+abruptio placenta	affects	placental function
+placenta previa	affects	cervical dilation
+hemorrhage during pregnancy	contraindicates	vaginal delivery
+abruptio placenta	is exacerbated by	smoking
+placenta previa	is exacerbated by	multiple pregnancies
+hemorrhage during pregnancy	is monitored via	hemoglobin levels
+abruptio placenta	is correlated with	preeclampsia
+placenta previa	is correlated with	advanced maternal age
+abruptio placenta	may recur in	subsequent pregnancies
+placenta previa	may resolve with	uterine growth
+hemorrhage during pregnancy	increases	neonatal mortality
+abruptio placenta	reduces	fetal oxygen supply
+placenta previa	obstructs	birth canal
+abruptio placenta	is studied via	coagulation tests
+placenta previa	is studied via	MRI
+hemorrhage during pregnancy	necessitates	multidisciplinary care
+abruptio placenta	has risk factor	cocaine use
+placenta previa	has risk factor	prior cesarean
+abruptio placenta	complicates	labor induction
+placenta previa	complicates	vaginal bleeding management
+hemorrhage during pregnancy	is documented in	medical history
+abruptio placenta	is reported via	electronic health records
+placenta previa	is reported via	obstetric notes
+abruptio placenta	influences	delivery timing
+placenta previa	influences	surgical planning
+hemorrhage during pregnancy	is researched in	clinical trials
+abruptio placenta	is researched in	cohort studies
+placenta previa	is researched in	case reports
+abruptio placenta	requires	neonatal intensive care
+placenta previa	requires	maternal intensive care
+hemorrhage during pregnancy	impacts	healthcare costs
+abruptio placenta	impacts	insurance coverage
+placenta previa	impacts	maternity leave duration
+abruptio placenta	has complication	renal failure
+placenta previa	has complication	hysterectomy
+hemorrhage during pregnancy	is addressed in	clinical guidelines
+abruptio placenta	is addressed in	obstetric protocols
+placenta previa	is addressed in	surgical manuals
+abruptio placenta	is visualized via	Doppler ultrasound
+placenta previa	is visualized via	transvaginal scan
+hemorrhage during pregnancy	is discussed in	patient education
+abruptio placenta	is discussed in	prenatal classes
+placenta previa	is discussed in	informed consent
+abruptio placenta	involves	placental separation
+placenta previa	involves	cervical proximity
+hemorrhage during pregnancy	is mitigated by	hemostatic agents
+abruptio placenta	is mitigated by	blood pressure control
+placenta previa	is mitigated by	pelvic rest
+abruptio placenta	is referenced in	medical textbooks
+placenta previa	is referenced in	obstetrics literature
+hemorrhage during pregnancy	is audited in	quality improvement
+abruptio placenta	is audited in	adverse event reviews
+placenta previa	is audited in	surgical outcomes
+abruptio placenta	is modeled in	predictive algorithms
+placenta previa	is modeled in	risk stratification
+hemorrhage during pregnancy	is tracked in	health registries
+abruptio placenta	is tracked in	perinatal databases
+placenta previa	is tracked in	billing codes
+abruptio placenta	is reviewed in	morbidity conferences
+placenta previa	is reviewed in	case discussions
+hemorrhage during pregnancy	is predicted by	biomarkers
+abruptio placenta	is predicted by	uterine monitoring
+placenta previa	is predicted by	imaging findings
+abruptio placenta	is managed by	obstetric team
+placenta previa	is managed by	surgical team
+hemorrhage during pregnancy	is influenced by	socioeconomic factors
+abruptio placenta	is influenced by	nutritional status
+placenta previa	is influenced by	genetic predisposition
+abruptio placenta	is treated with	magnesium sulfate
+placenta previa	is treated with	corticosteroid therapy

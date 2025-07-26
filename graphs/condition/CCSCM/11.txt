@@ -1,0 +1,100 @@
+cancer of head and neck	is a	malignancy
+cancer of head and neck	affects	oral cavity
+cancer of head and neck	affects	pharynx
+cancer of head and neck	affects	larynx
+cancer of head and neck	affects	salivary glands
+cancer of head and neck	affects	nasal cavity
+cancer of head and neck	affects	sinuses
+cancer of head and neck	may cause	dysphagia
+cancer of head and neck	may cause	hoarseness
+cancer of head and neck	may cause	neck mass
+cancer of head and neck	may cause	weight loss
+cancer of head and neck	may cause	pain
+cancer of head and neck	may cause	bleeding
+cancer of head and neck	may cause	airway obstruction
+cancer of head and neck	may cause	malnutrition
+cancer of head and neck	may cause	metastasis
+cancer of head and neck	may cause	lymphadenopathy
+cancer of head and neck	may cause	trismus
+cancer of head and neck	may cause	odynophagia
+cancer of head and neck	may cause	halitosis
+cancer of head and neck	is associated with	tobacco use
+cancer of head and neck	is associated with	alcohol use
+cancer of head and neck	is associated with	HPV infection
+cancer of head and neck	is associated with	EBV infection
+cancer of head and neck	is associated with	poor oral hygiene
+cancer of head and neck	is associated with	betel nut chewing
+cancer of head and neck	is associated with	radiation exposure
+cancer of head and neck	is associated with	immunosuppression
+cancer of head and neck	is diagnosed with	biopsy
+cancer of head and neck	is diagnosed with	imaging
+cancer of head and neck	is diagnosed with	endoscopy
+cancer of head and neck	is staged with	TNM system
+cancer of head and neck	is treated with	surgery
+cancer of head and neck	is treated with	radiation therapy
+cancer of head and neck	is treated with	chemotherapy
+cancer of head and neck	is treated with	immunotherapy
+cancer of head and neck	is treated with	targeted therapy
+cancer of head and neck	may require	tracheostomy
+cancer of head and neck	may require	feeding tube
+cancer of head and neck	may require	speech therapy
+cancer of head and neck	may require	rehabilitation
+cancer of head and neck	may recur	locally
+cancer of head and neck	may recur	regionally
+cancer of head and neck	may recur	distantly
+cancer of head and neck	has prognosis	stage-dependent
+cancer of head and neck	has prognosis	HPV-related better
+cancer of head and neck	has prognosis	smoking-related worse
+cancer of head and neck	increases risk	second primary cancer
+cancer of head and neck	increases risk	depression
+cancer of head and neck	increases risk	anxiety
+cancer of head and neck	increases risk	infection
+cancer of head and neck	increases risk	osteoradionecrosis
+cancer of head and neck	increases risk	xerostomia
+cancer of head and neck	increases risk	dysgeusia
+cancer of head and neck	increases risk	fibrosis
+cancer of head and neck	requires follow-up	imaging
+cancer of head and neck	requires follow-up	clinical exams
+cancer of head and neck	requires follow-up	blood tests
+cancer of head and neck	requires monitoring	nutrition
+cancer of head and neck	requires monitoring	swallowing
+cancer of head and neck	requires monitoring	dental health
+cancer of head and neck	may benefit from	HPV vaccination
+cancer of head and neck	may benefit from	smoking cessation
+cancer of head and neck	may benefit from	alcohol cessation
+cancer of head and neck	may benefit from	nutritional support
+cancer of head and neck	may benefit from	palliative care
+cancer of head and neck	may complicate	wound healing
+cancer of head and neck	may complicate	speech impairment
+cancer of head and neck	may complicate	cosmetic deformity
+cancer of head and neck	may complicate	chronic pain
+cancer of head and neck	may complicate	lymphedema
+cancer of head and neck	may spread to	lungs
+cancer of head and neck	may spread to	liver
+cancer of head and neck	may spread to	bones
+cancer of head and neck	may spread to	brain
+cancer of head and neck	has subtypes	squamous cell carcinoma
+cancer of head and neck	has subtypes	adenocarcinoma
+cancer of head and neck	has subtypes	sarcoma
+cancer of head and neck	has subtypes	lymphoma
+cancer of head and neck	has subtypes	melanoma
+cancer of head and neck	involves	tumor suppressor genes
+cancer of head and neck	involves	oncogenes
+cancer of head and neck	involves	DNA mutations
+cancer of head and neck	involves	angiogenesis
+cancer of head and neck	involves	immune evasion
+cancer of head and neck	is researched	biomarker discovery
+cancer of head and neck	is researched	novel therapies
+cancer of head and neck	is researched	immunotherapy resistance
+cancer of head and neck	is researched	precision medicine
+cancer of head and neck	is researched	liquid biopsy
+cancer of head and neck	has prevention	HPV vaccination
+cancer of head and neck	has prevention	tobacco control
+cancer of head and neck	has prevention	alcohol moderation
+cancer of head and neck	has prevention	oral hygiene
+cancer of head and neck	has prevention	regular screenings
+cancer of head and neck	needs multidisciplinary care	oncologists
+cancer of head and neck	needs multidisciplinary care	surgeons
+cancer of head and neck	needs multidisciplinary care	radiologists
+cancer of head and neck	needs multidisciplinary care	speech therapists
+cancer of head and neck	needs multidisciplinary care	nutritionists

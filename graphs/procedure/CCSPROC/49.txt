@@ -1,0 +1,100 @@
+heart procedure	is a	medical procedure
+heart procedure	treats	heart disease
+heart procedure	performed by	cardiologist
+heart procedure	requires	anesthesia
+heart procedure	uses	medical imaging
+heart procedure	has risk	bleeding
+heart procedure	has risk	infection
+heart procedure	requires	hospitalization
+heart procedure	follows	preoperative care
+heart procedure	followed by	postoperative care
+heart procedure	may require	blood transfusion
+heart procedure	monitors	vital signs
+heart procedure	uses	surgical instruments
+heart procedure	classified as	invasive procedure
+heart procedure	alternative to	medication
+coronary angioplasty	is a	heart procedure
+coronary angioplasty	treats	coronary artery disease
+coronary angioplasty	uses	stent
+coronary angioplasty	requires	catheter
+coronary angioplasty	improves	blood flow
+coronary angioplasty	prevents	heart attack
+coronary angioplasty	may cause	restenosis
+coronary angioplasty	requires	anticoagulants
+coronary angioplasty	performed in	catheterization lab
+coronary angioplasty	uses	contrast dye
+coronary angioplasty	monitors	ECG
+coronary angioplasty	may lead to	arrhythmia
+coronary angioplasty	has alternative	bypass surgery
+coronary angioplasty	requires	follow-up
+coronary angioplasty	evaluates	coronary arteries
+bypass surgery	is a	heart procedure
+bypass surgery	treats	blocked arteries
+bypass surgery	uses	graft
+bypass surgery	requires	heart-lung machine
+bypass surgery	performed by	cardiac surgeon
+bypass surgery	requires	general anesthesia
+bypass surgery	has risk	stroke
+bypass surgery	has risk	kidney failure
+bypass surgery	requires	intensive care
+bypass surgery	followed by	cardiac rehabilitation
+bypass surgery	improves	survival rate
+bypass surgery	relieves	angina
+bypass surgery	may require	blood thinners
+bypass surgery	has alternative	angioplasty
+bypass surgery	requires	long recovery
+valve replacement	is a	heart procedure
+valve replacement	treats	valve disease
+valve replacement	uses	mechanical valve
+valve replacement	uses	biological valve
+valve replacement	requires	anticoagulation therapy
+valve replacement	may cause	clotting
+valve replacement	improves	heart function
+valve replacement	has risk	endocarditis
+valve replacement	requires	echocardiogram
+valve replacement	alternative to	valve repair
+valve replacement	performed via	open-heart surgery
+valve replacement	may require	pacemaker
+valve replacement	monitors	blood pressure
+pacemaker implantation	is a	heart procedure
+pacemaker implantation	treats	bradycardia
+pacemaker implantation	regulates	heartbeat
+pacemaker implantation	uses	generator
+pacemaker implantation	uses	leads
+pacemaker implantation	requires	local anesthesia
+pacemaker implantation	has risk	infection
+pacemaker implantation	requires	programming
+pacemaker implantation	followed by	device checks
+pacemaker implantation	avoids	arrhythmia
+pacemaker implantation	improves	quality of life
+pacemaker implantation	may require	battery replacement
+pacemaker implantation	interacts with	MRI
+pacemaker implantation	avoids	fainting
+ablation therapy	is a	heart procedure
+ablation therapy	treats	arrhythmia
+ablation therapy	uses	catheter
+ablation therapy	destroys	abnormal tissue
+ablation therapy	requires	electrophysiology study
+ablation therapy	monitors	heart rhythm
+ablation therapy	has risk	perforation
+ablation therapy	alternative to	medication
+ablation therapy	improves	heart rate
+ablation therapy	may require	repeat procedure
+ablation therapy	targets	electrical pathways
+heart transplant	is a	heart procedure
+heart transplant	treats	heart failure
+heart transplant	requires	donor heart
+heart transplant	uses	immunosuppressants
+heart transplant	has risk	rejection
+heart transplant	requires	lifelong medication
+heart transplant	followed by	rehabilitation
+heart transplant	improves	survival
+heart transplant	evaluates	compatibility
+heart transplant	requires	waiting list
+heart transplant	performed in	specialized center
+heart transplant	monitors	organ function
+heart transplant	has risk	infection
+heart transplant	alternative to	ventricular assist device
+heart transplant	requires	psychological evaluation
+heart transplant	followed by	frequent checkups
+heart transplant	improves	exercise capacity

@@ -1,0 +1,100 @@
+hemolytic jaundice	is a type of	jaundice
+perinatal jaundice	is a type of	jaundice
+hemolytic jaundice	caused by	red blood cell destruction
+perinatal jaundice	caused by	immature liver function
+hemolytic jaundice	associated with	hemolytic anemia
+perinatal jaundice	associated with	breastfeeding
+hemolytic jaundice	may lead to	kernicterus
+perinatal jaundice	may lead to	kernicterus
+hemolytic jaundice	diagnosed via	bilirubin test
+perinatal jaundice	diagnosed via	bilirubin test
+hemolytic jaundice	treated with	phototherapy
+perinatal jaundice	treated with	phototherapy
+hemolytic jaundice	caused by	Rh incompatibility
+perinatal jaundice	caused by	ABO incompatibility
+hemolytic jaundice	may require	blood transfusion
+perinatal jaundice	may require	exchange transfusion
+hemolytic jaundice	linked to	G6PD deficiency
+perinatal jaundice	linked to	prematurity
+hemolytic jaundice	involves	unconjugated bilirubin
+perinatal jaundice	involves	unconjugated bilirubin
+hemolytic jaundice	monitored via	serum bilirubin levels
+perinatal jaundice	monitored via	transcutaneous bilirubinometry
+hemolytic jaundice	prevented by	Rh immune globulin
+perinatal jaundice	prevented by	early feeding
+hemolytic jaundice	complicates	sickle cell disease
+perinatal jaundice	complicates	sepsis
+hemolytic jaundice	associated with	spherocytosis
+perinatal jaundice	associated with	bruising
+hemolytic jaundice	worsened by	infection
+perinatal jaundice	worsened by	dehydration
+hemolytic jaundice	increases risk of	gallstones
+perinatal jaundice	increases risk of	hearing loss
+hemolytic jaundice	requires	hematologist consultation
+perinatal jaundice	requires	pediatrician consultation
+hemolytic jaundice	managed with	immunosuppressants
+perinatal jaundice	managed with	frequent feeding
+hemolytic jaundice	involves	hemoglobin breakdown
+perinatal jaundice	involves	hepatic immaturity
+hemolytic jaundice	screened via	Coombs test
+perinatal jaundice	screened via	heel stick test
+hemolytic jaundice	caused by	autoimmune hemolysis
+perinatal jaundice	caused by	physiological factors
+hemolytic jaundice	leads to	anemia
+perinatal jaundice	leads to	hyperbilirubinemia
+hemolytic jaundice	treated with	corticosteroids
+perinatal jaundice	treated with	fiberoptic blankets
+hemolytic jaundice	correlated with	splenomegaly
+perinatal jaundice	correlated with	weight loss
+hemolytic jaundice	differentiated by	reticulocyte count
+perinatal jaundice	differentiated by	age of onset
+hemolytic jaundice	exacerbated by	oxidative stress
+perinatal jaundice	exacerbated by	delayed meconium passage
+hemolytic jaundice	causes	yellow skin
+perinatal jaundice	causes	yellow eyes
+hemolytic jaundice	indicates	hemolysis
+perinatal jaundice	indicates	liver immaturity
+hemolytic jaundice	associated with	malaria
+perinatal jaundice	associated with	cephalohematoma
+hemolytic jaundice	may follow	blood transfusion reaction
+perinatal jaundice	may follow	traumatic delivery
+hemolytic jaundice	requires	iron supplementation
+perinatal jaundice	requires	close monitoring
+hemolytic jaundice	linked to	thalassemia
+perinatal jaundice	linked to	hypothyroidism
+hemolytic jaundice	involves	haptoglobin depletion
+perinatal jaundice	involves	bilirubin encephalopathy risk
+hemolytic jaundice	detected via	peripheral smear
+perinatal jaundice	detected via	visual assessment
+hemolytic jaundice	treated with	splenectomy
+perinatal jaundice	treated with	sunlight exposure
+hemolytic jaundice	worsened by	certain medications
+perinatal jaundice	worsened by	poor feeding
+hemolytic jaundice	increases	mortality risk
+perinatal jaundice	increases	neurodevelopmental risk
+hemolytic jaundice	managed via	hydration
+perinatal jaundice	managed via	lactation support
+hemolytic jaundice	associated with	hereditary spherocytosis
+perinatal jaundice	associated with	polycythemia
+hemolytic jaundice	may require	immunoglobulin therapy
+perinatal jaundice	may require	IV fluids
+hemolytic jaundice	related to	enzyme deficiencies
+perinatal jaundice	related to	maternal diabetes
+hemolytic jaundice	causes	dark urine
+perinatal jaundice	causes	poor weight gain
+hemolytic jaundice	indicates	intravascular hemolysis
+perinatal jaundice	indicates	breastfeeding jaundice
+hemolytic jaundice	screened via	hemoglobin electrophoresis
+perinatal jaundice	screened via	newborn metabolic panel
+hemolytic jaundice	treated with	folic acid
+perinatal jaundice	treated with	bili lights
+hemolytic jaundice	associated with	microangiopathic hemolysis
+perinatal jaundice	associated with	delayed cord clamping
+hemolytic jaundice	may lead to	heart failure
+perinatal jaundice	may lead to	cerebral palsy
+hemolytic jaundice	requires	genetic counseling
+perinatal jaundice	requires	maternal education
+hemolytic jaundice	linked to	transfusion reactions
+perinatal jaundice	linked to	Gilbert syndrome
+hemolytic jaundice	involves	LDH elevation
+perinatal jaundice	involves	UDP-glucuronosyltransferase deficiency

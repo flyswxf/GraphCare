@@ -1,0 +1,100 @@
+fracture of lower limb	is a	bone injury
+fracture of lower limb	may cause	pain
+fracture of lower limb	requires	immobilization
+fracture of lower limb	may lead to	swelling
+fracture of lower limb	is diagnosed by	X-ray
+fracture of lower limb	can result in	disability
+fracture of lower limb	increases risk of	deep vein thrombosis
+fracture of lower limb	requires	pain management
+fracture of lower limb	may need	surgery
+fracture of lower limb	is treated with	cast
+fracture of lower limb	affects	mobility
+fracture of lower limb	can cause	muscle atrophy
+fracture of lower limb	requires	physical therapy
+fracture of lower limb	may lead to	nonunion
+fracture of lower limb	is classified by	location
+fracture of lower limb	has subtypes	open fracture
+fracture of lower limb	has subtypes	closed fracture
+fracture of lower limb	may require	traction
+fracture of lower limb	can cause	nerve damage
+fracture of lower limb	increases risk of	infection
+fracture of lower limb	is common in	elderly
+fracture of lower limb	often caused by	trauma
+fracture of lower limb	can result from	osteoporosis
+fracture of lower limb	may need	internal fixation
+fracture of lower limb	may need	external fixation
+fracture of lower limb	requires	follow-up care
+fracture of lower limb	can lead to	compartment syndrome
+fracture of lower limb	affects	quality of life
+fracture of lower limb	may cause	bleeding
+fracture of lower limb	is assessed by	CT scan
+fracture of lower limb	may require	MRI
+fracture of lower limb	is treated with	NSAIDs
+fracture of lower limb	may need	bone graft
+fracture of lower limb	has complication	malunion
+fracture of lower limb	can cause	fat embolism
+fracture of lower limb	increases hospital	stay length
+fracture of lower limb	requires	rehabilitation
+fracture of lower limb	affects	daily activities
+fracture of lower limb	may lead to	depression
+fracture of lower limb	is associated with	falls
+fracture of lower limb	can cause	deformity
+fracture of lower limb	requires	weight restriction
+fracture of lower limb	may need	crutches
+fracture of lower limb	is monitored by	physician
+fracture of lower limb	can affect	gait
+fracture of lower limb	increases risk of	pneumonia
+fracture of lower limb	may require	blood transfusion
+fracture of lower limb	is documented by	medical coding
+fracture of lower limb	has outcome measure	healing time
+fracture of lower limb	affects	bone density
+fracture of lower limb	may lead to	chronic pain
+fracture of lower limb	requires	nutritional support
+fracture of lower limb	can cause	joint stiffness
+fracture of lower limb	is common in	athletes
+fracture of lower limb	may require	orthopedic consultation
+fracture of lower limb	has risk factor	obesity
+fracture of lower limb	has risk factor	smoking
+fracture of lower limb	can result from	motor accident
+fracture of lower limb	affects	employment status
+fracture of lower limb	requires	wound care
+fracture of lower limb	may lead to	amputation
+fracture of lower limb	is treated with	opioids
+fracture of lower limb	requires	pain assessment
+fracture of lower limb	can cause	vascular injury
+fracture of lower limb	increases risk of	pressure ulcers
+fracture of lower limb	requires	mobility aid
+fracture of lower limb	affects	sleep quality
+fracture of lower limb	may require	home modification
+fracture of lower limb	can lead to	social isolation
+fracture of lower limb	is prevented by	calcium supplements
+fracture of lower limb	has treatment option	plating
+fracture of lower limb	has treatment option	nailing
+fracture of lower limb	may require	bone stimulator
+fracture of lower limb	affects	muscle strength
+fracture of lower limb	requires	range of motion exercises
+fracture of lower limb	can cause	limb length discrepancy
+fracture of lower limb	is documented in	medical record
+fracture of lower limb	affects	insurance coverage
+fracture of lower limb	may require	assistive device
+fracture of lower limb	can lead to	financial burden
+fracture of lower limb	increases risk of	thromboembolism
+fracture of lower limb	requires	anticoagulant therapy
+fracture of lower limb	may lead to	arthritis
+fracture of lower limb	affects	body image
+fracture of lower limb	requires	pain scale evaluation
+fracture of lower limb	can cause	temperature sensitivity
+fracture of lower limb	may require	wheelchair
+fracture of lower limb	affects	medication regimen
+fracture of lower limb	is associated with	vitamin D deficiency
+fracture of lower limb	requires	fall prevention education
+fracture of lower limb	may lead to	muscle spasm
+fracture of lower limb	affects	bone healing process
+fracture of lower limb	requires	serial imaging
+fracture of lower limb	can cause	skin discoloration
+fracture of lower limb	may require	bone scan
+fracture of lower limb	affects	proprioception
+fracture of lower limb	increases healthcare	utilization
+fracture of lower limb	may lead to	reflex sympathetic dystrophy
+fracture of lower limb	requires	patient education
+fracture of lower limb	affects	overall prognosis

@@ -1,0 +1,100 @@
+female infertility	may be caused by	polycystic ovary syndrome
+female infertility	may be caused by	endometriosis
+female infertility	may be caused by	tubal blockage
+female infertility	may be caused by	premature ovarian failure
+female infertility	may be caused by	uterine fibroids
+female infertility	may be caused by	thyroid disorders
+female infertility	may be caused by	hyperprolactinemia
+female infertility	may be caused by	pelvic inflammatory disease
+female infertility	may be caused by	obesity
+female infertility	may be caused by	low body weight
+female infertility	may be caused by	advanced maternal age
+female infertility	may be caused by	smoking
+female infertility	may be caused by	excessive alcohol
+female infertility	may be caused by	stress
+female infertility	may be caused by	sexually transmitted infections
+female infertility	may be caused by	chemotherapy
+female infertility	may be caused by	radiation therapy
+female infertility	may be caused by	autoimmune disorders
+female infertility	may be caused by	luteal phase defect
+female infertility	may be caused by	cervical stenosis
+female infertility	may be diagnosed with	hysterosalpingography
+female infertility	may be diagnosed with	transvaginal ultrasound
+female infertility	may be diagnosed with	ovarian reserve testing
+female infertility	may be diagnosed with	hormone level testing
+female infertility	may be diagnosed with	laparoscopy
+female infertility	may be treated with	fertility medications
+female infertility	may be treated with	in vitro fertilization
+female infertility	may be treated with	intrauterine insemination
+female infertility	may be treated with	surgery
+female infertility	may be treated with	lifestyle changes
+clomiphene citrate	is a medication for	female infertility
+gonadotropins	are medications for	female infertility
+letrozole	is a medication for	female infertility
+metformin	is a medication for	female infertility
+assisted reproductive technology	is a treatment for	female infertility
+ovulation induction	is a treatment for	female infertility
+tubal surgery	is a treatment for	female infertility
+myomectomy	is a treatment for	female infertility
+endometriosis surgery	is a treatment for	female infertility
+egg donation	is an option for	female infertility
+surrogacy	is an option for	female infertility
+polycystic ovary syndrome	may lead to	anovulation
+endometriosis	may lead to	pelvic adhesions
+tubal blockage	may result from	pelvic inflammatory disease
+premature ovarian failure	may result from	genetic factors
+uterine fibroids	may interfere with	embryo implantation
+thyroid disorders	may affect	menstrual cycles
+hyperprolactinemia	may suppress	ovulation
+pelvic inflammatory disease	may cause	tubal damage
+obesity	may cause	hormonal imbalances
+low body weight	may cause	amenorrhea
+advanced maternal age	may reduce	egg quality
+smoking	may accelerate	ovarian aging
+excessive alcohol	may disrupt	hormone production
+stress	may affect	hypothalamic function
+sexually transmitted infections	may cause	tubal scarring
+chemotherapy	may damage	ovarian follicles
+radiation therapy	may impair	ovarian function
+autoimmune disorders	may attack	ovarian tissue
+luteal phase defect	may prevent	embryo implantation
+cervical stenosis	may block	sperm passage
+hysterosalpingography	evaluates	fallopian tube patency
+transvaginal ultrasound	assesses	uterine abnormalities
+ovarian reserve testing	measures	remaining egg supply
+hormone level testing	checks	reproductive hormones
+laparoscopy	diagnoses	pelvic abnormalities
+fertility medications	stimulate	ovulation
+in vitro fertilization	bypasses	fallopian tubes
+intrauterine insemination	places	sperm directly
+surgery	removes	uterine fibroids
+lifestyle changes	improve	fertility chances
+clomiphene citrate	induces	ovulation
+gonadotropins	stimulate	ovarian follicles
+letrozole	reduces	estrogen levels
+metformin	improves	insulin resistance
+assisted reproductive technology	includes	IVF
+ovulation induction	triggers	egg release
+tubal surgery	repairs	damaged tubes
+myomectomy	removes	fibroids
+endometriosis surgery	excises	endometrial implants
+egg donation	uses	donor eggs
+surrogacy	involves	gestational carrier
+anovulation	prevents	pregnancy
+pelvic adhesions	may obstruct	reproductive organs
+genetic factors	may cause	ovarian dysfunction
+embryo implantation	requires	healthy endometrium
+menstrual cycles	reflect	hormonal balance
+ovulation	releases	mature eggs
+tubal damage	blocks	egg transport
+hormonal imbalances	disrupt	ovulation
+amenorrhea	indicates	reproductive issues
+egg quality	declines	with age
+ovarian aging	reduces	fertility
+hypothalamic function	regulates	reproductive hormones
+tubal scarring	prevents	fertilization
+ovarian follicles	contain	eggs
+reproductive hormones	control	menstrual cycle
+uterine abnormalities	may interfere	with pregnancy
+fallopian tube patency	is essential	for conception
+insulin resistance	affects	ovulation

@@ -1,0 +1,100 @@
+progestogen	is a	hormone
+progestogen	regulates	menstrual cycle
+progestogen	prepares	endometrium
+progestogen	inhibits	ovulation
+progestogen	maintains	pregnancy
+progestogen	antagonizes	estrogen
+progestogen	binds to	progesterone receptor
+progestogen	modulates	uterine contractions
+progestogen	influences	breast development
+progestogen	affects	bone density
+progestogen	reduces	endometrial cancer risk
+progestogen	increases	blood clotting risk
+progestogen	interacts with	glucocorticoid receptors
+progestogen	alters	cervical mucus
+progestogen	suppresses	gonadotropin release
+progestogen	stabilizes	implantation
+progestogen	prevents	premature labor
+progestogen	treats	endometriosis
+progestogen	manages	abnormal uterine bleeding
+progestogen	counteracts	endometrial hyperplasia
+progestogen	contributes to	mood changes
+progestogen	exacerbates	depression
+progestogen	causes	weight gain
+progestogen	leads to	fluid retention
+progestogen	induces	breast tenderness
+progestogen	triggers	headaches
+progestogen	metabolized by	liver
+progestogen	excreted via	kidneys
+progestogen	interacts with	CYP3A4
+progestogen	reduced by	rifampin
+progestogen	increases	HDL cholesterol
+progestogen	decreases	LDL cholesterol
+progestogen	affects	insulin sensitivity
+progestogen	linked to	venous thromboembolism
+progestogen	contraindicated in	breast cancer
+progestogen	used in	hormone replacement therapy
+progestogen	combined with	estrogen
+progestogen	component of	oral contraceptives
+progestogen	found in	intrauterine devices
+progestogen	delivered via	implants
+progestogen	available as	injections
+progestogen	used for	contraception
+progestogen	treats	polycystic ovary syndrome
+progestogen	alleviates	premenstrual syndrome
+progestogen	prescribed for	amenorrhea
+progestogen	mitigates	menopausal symptoms
+progestogen	prevents	miscarriage
+progestogen	supports	in vitro fertilization
+progestogen	delays	cervical ripening
+progestogen	influences	immune tolerance
+progestogen	modulates	inflammatory response
+progestogen	enhances	vascular stability
+progestogen	suppresses	myometrial activity
+progestogen	reduces	preterm birth risk
+progestogen	affects	libido
+progestogen	alters	vaginal pH
+progestogen	decreases	acne
+progestogen	increases	hirsutism
+progestogen	antagonizes	androgen receptors
+progestogen	competes with	cortisol
+progestogen	induces	hepatic proteins
+progestogen	impacts	thyroid-binding globulin
+progestogen	modifies	coagulation factors
+progestogen	elevates	C-reactive protein
+progestogen	lowers	SHBG levels
+progestogen	interacts with	statins
+progestogen	conflicts with	anticoagulants
+progestogen	contraindicated in	liver disease
+progestogen	avoided in	cardiovascular disease
+progestogen	monitored in	diabetes
+progestogen	adjusted in	renal impairment
+progestogen	tested via	serum levels
+progestogen	detected in	urine
+progestogen	synthesized from	cholesterol
+progestogen	derived from	pregnenolone
+progestogen	converted to	allopregnanolone
+progestogen	precursor to	corticosteroids
+progestogen	analog of	norethisterone
+progestogen	similar to	medroxyprogesterone
+progestogen	variant of	levonorgestrel
+progestogen	mimics	natural progesterone
+progestogen	differs from	drospirenone
+progestogen	stronger than	dydrogesterone
+progestogen	weaker than	gestodene
+progestogen	newer than	megestrol
+progestogen	older than	dienogest
+progestogen	studied in	clinical trials
+progestogen	approved by	FDA
+progestogen	regulated by	EMA
+progestogen	prescribed by	gynecologists
+progestogen	monitored by	endocrinologists
+progestogen	discontinued for	adverse effects
+progestogen	preferred for	perimenopause
+progestogen	alternative to	GnRH agonists
+progestogen	compared with	SERMs
+progestogen	combined with	androgens
+progestogen	antagonized by	mifepristone
+progestogen	reversed by	ulipristal
+progestogen	researched for	cancer prevention
+progestogen	investigated for	neuroprotection

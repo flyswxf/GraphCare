@@ -1,0 +1,100 @@
+corticosteroids	is a	anti-inflammatory drug
+corticosteroids	treats	inflammation
+corticosteroids	suppresses	immune system
+corticosteroids	manages	autoimmune diseases
+corticosteroids	treats	rheumatoid arthritis
+corticosteroids	treats	asthma
+corticosteroids	treats	lupus
+corticosteroids	treats	allergic reactions
+corticosteroids	reduces	swelling
+corticosteroids	mimics	cortisol
+corticosteroids	affects	metabolism
+corticosteroids	increases	blood sugar
+corticosteroids	causes	weight gain
+corticosteroids	leads to	osteoporosis
+corticosteroids	results in	moon face
+corticosteroids	induces	insomnia
+corticosteroids	causes	mood changes
+corticosteroids	requires	tapering
+corticosteroids	interacts with	NSAIDs
+corticosteroids	increases risk	infections
+corticosteroids	contraindicated in	diabetes
+corticosteroids	monitored with	blood tests
+corticosteroids	prescribed for	COPD
+corticosteroids	administered as	oral tablets
+corticosteroids	available as	injections
+corticosteroids	derived from	adrenal cortex
+corticosteroids	classified as	glucocorticoids
+corticosteroids	differs from	mineralocorticoids
+corticosteroids	has half-life	8-12 hours
+corticosteroids	metabolized in	liver
+corticosteroids	excreted through	kidneys
+corticosteroids	binds to	glucocorticoid receptors
+corticosteroids	inhibits	phospholipase A2
+corticosteroids	decreases	prostaglandins
+corticosteroids	reduces	cytokine production
+corticosteroids	stabilizes	lysosomal membranes
+corticosteroids	affects	white blood cells
+corticosteroids	suppresses	histamine release
+corticosteroids	used in	organ transplants
+corticosteroids	prevents	graft rejection
+corticosteroids	treats	multiple sclerosis flares
+corticosteroids	manages	skin conditions
+corticosteroids	treats	eczema
+corticosteroids	controls	psoriasis
+corticosteroids	alleviates	poison ivy
+corticosteroids	prescribed for	Crohn's disease
+corticosteroids	treats	ulcerative colitis
+corticosteroids	used in	chemotherapy regimens
+corticosteroids	reduces	nausea from chemo
+corticosteroids	enhances	appetite
+corticosteroids	contraindicated in	peptic ulcers
+corticosteroids	avoided in	herpes infections
+corticosteroids	increases risk	glaucoma
+corticosteroids	causes	fluid retention
+corticosteroids	leads to	hypertension
+corticosteroids	associated with	cataracts
+corticosteroids	results in	thin skin
+corticosteroids	causes	easy bruising
+corticosteroids	affects	wound healing
+corticosteroids	requires	calcium supplementation
+corticosteroids	needs	vitamin D
+corticosteroids	monitored for	adrenal suppression
+corticosteroids	tapered to avoid	withdrawal
+corticosteroids	interacts with	anticoagulants
+corticosteroids	affects	potassium levels
+corticosteroids	alters	sodium balance
+corticosteroids	changes	fat distribution
+corticosteroids	increases	cholesterol
+corticosteroids	linked to	avascular necrosis
+corticosteroids	causes	muscle weakness
+corticosteroids	results in	growth retardation
+corticosteroids	affects	bone density
+corticosteroids	requires	DEXA scans
+corticosteroids	contraindicated in	pregnancy
+corticosteroids	passes into	breast milk
+corticosteroids	used in	COVID-19 treatment
+corticosteroids	reduces	ARDS mortality
+corticosteroids	treats	septic shock
+corticosteroids	manages	adrenal insufficiency
+corticosteroids	replaces	cortisol deficiency
+corticosteroids	dosed by	weight
+corticosteroids	adjusted for	liver disease
+corticosteroids	varies by	potency
+corticosteroids	includes	prednisone
+corticosteroids	includes	dexamethasone
+corticosteroids	includes	hydrocortisone
+corticosteroids	differs in	bioavailability
+corticosteroids	classified by	duration
+corticosteroids	has alternatives	biologics
+corticosteroids	preferred for	acute flares
+corticosteroids	combined with	DMARDs
+corticosteroids	stored at	room temperature
+corticosteroids	absorbed in	small intestine
+corticosteroids	peaks in	1-2 hours
+corticosteroids	discovered in	1940s
+corticosteroids	revolutionized	rheumatology
+corticosteroids	costs	varies widely
+corticosteroids	available as	generics
+corticosteroids	subject to	shortages
+corticosteroids	researched for	new formulations

@@ -1,0 +1,100 @@
+immunosuppressants	are	drugs
+immunosuppressants	suppress	immune system
+immunosuppressants	used for	organ transplantation
+immunosuppressants	treat	autoimmune diseases
+immunosuppressants	increase	infection risk
+immunosuppressants	may cause	side effects
+side effects	include	nausea
+side effects	include	fatigue
+side effects	include	hypertension
+immunosuppressants	require	monitoring
+monitoring	involves	blood tests
+immunosuppressants	interact with	other medications
+immunosuppressants	include	corticosteroids
+corticosteroids	suppress	inflammation
+immunosuppressants	include	calcineurin inhibitors
+calcineurin inhibitors	include	tacrolimus
+tacrolimus	prevents	organ rejection
+calcineurin inhibitors	include	cyclosporine
+cyclosporine	treats	psoriasis
+immunosuppressants	include	mTOR inhibitors
+mTOR inhibitors	include	sirolimus
+sirolimus	prevents	kidney rejection
+immunosuppressants	include	antimetabolites
+antimetabolites	include	mycophenolate
+mycophenolate	treats	lupus nephritis
+antimetabolites	include	azathioprine
+azathioprine	treats	rheumatoid arthritis
+immunosuppressants	include	biologics
+biologics	include	TNF inhibitors
+TNF inhibitors	treat	Crohn's disease
+biologics	include	monoclonal antibodies
+monoclonal antibodies	target	immune cells
+immunosuppressants	used in	chemotherapy
+chemotherapy	treats	cancer
+immunosuppressants	contraindicated in	pregnancy
+pregnancy	requires	careful monitoring
+immunosuppressants	affect	vaccine efficacy
+vaccine efficacy	reduced by	immunosuppression
+immunosuppressants	require	dose adjustment
+dose adjustment	based on	kidney function
+kidney function	measured by	creatinine
+immunosuppressants	metabolized in	liver
+liver	affected by	drug toxicity
+immunosuppressants	may cause	nephrotoxicity
+nephrotoxicity	leads to	kidney damage
+immunosuppressants	may cause	neurotoxicity
+neurotoxicity	causes	tremors
+tremors	managed with	dose reduction
+immunosuppressants	may cause	hyperglycemia
+hyperglycemia	requires	insulin therapy
+immunosuppressants	may cause	hyperlipidemia
+hyperlipidemia	increases	cardiovascular risk
+cardiovascular risk	reduced by	statins
+immunosuppressants	may cause	bone marrow suppression
+bone marrow suppression	leads to	anemia
+anemia	treated with	erythropoietin
+immunosuppressants	may cause	leukopenia
+leukopenia	increases	infection susceptibility
+immunosuppressants	may cause	thrombocytopenia
+thrombocytopenia	causes	bleeding risk
+immunosuppressants	may cause	hepatotoxicity
+hepatotoxicity	monitored by	liver enzymes
+liver enzymes	include	ALT
+immunosuppressants	may cause	pancreatitis
+pancreatitis	causes	abdominal pain
+immunosuppressants	may cause	diarrhea
+diarrhea	managed with	loperamide
+immunosuppressants	may cause	headache
+headache	treated with	analgesics
+immunosuppressants	may cause	insomnia
+insomnia	managed with	sleep hygiene
+immunosuppressants	may cause	mood changes
+mood changes	include	depression
+depression	treated with	antidepressants
+immunosuppressants	may cause	weight gain
+weight gain	managed with	diet
+immunosuppressants	may cause	edema
+edema	treated with	diuretics
+immunosuppressants	may cause	acne
+acne	treated with	topical retinoids
+immunosuppressants	may cause	hirsutism
+hirsutism	managed with	hair removal
+immunosuppressants	may cause	gingival hyperplasia
+gingival hyperplasia	treated with	dental care
+immunosuppressants	require	adherence
+adherence	improved by	education
+education	includes	medication counseling
+immunosuppressants	have	half-life
+half-life	determines	dosing frequency
+immunosuppressants	have	therapeutic window
+therapeutic window	ensures	efficacy
+immunosuppressants	have	cost
+cost	affects	accessibility
+immunosuppressants	have	generics
+generics	reduce	expenses
+immunosuppressants	researched in	clinical trials
+clinical trials	evaluate	safety
+safety	assessed by	adverse events
+adverse events	reported to	FDA
+FDA	regulates	medications

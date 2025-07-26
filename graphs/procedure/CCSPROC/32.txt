@@ -1,0 +1,100 @@
+nasal procedure	is a	medical procedure
+oral procedure	is a	medical procedure
+pharyngeal procedure	is a	medical procedure
+nasal procedure	treats	nasal obstruction
+oral procedure	treats	oral lesions
+pharyngeal procedure	treats	pharyngitis
+nasal procedure	requires	local anesthesia
+oral procedure	requires	sedation
+pharyngeal procedure	requires	general anesthesia
+nasal endoscopy	is a type of	nasal procedure
+oral biopsy	is a type of	oral procedure
+pharyngeal dilation	is a type of	pharyngeal procedure
+nasal endoscopy	diagnoses	sinusitis
+oral biopsy	diagnoses	oral cancer
+pharyngeal dilation	treats	dysphagia
+nasal packing	is a type of	nasal procedure
+oral suturing	is a type of	oral procedure
+pharyngeal cauterization	is a type of	pharyngeal procedure
+nasal packing	controls	epistaxis
+oral suturing	repairs	oral trauma
+pharyngeal cauterization	treats	bleeding
+nasal irrigation	is a type of	nasal procedure
+oral debridement	is a type of	oral procedure
+pharyngeal suction	is a type of	pharyngeal procedure
+nasal irrigation	removes	mucus
+oral debridement	removes	necrotic tissue
+pharyngeal suction	clears	secretions
+nasal polyp removal	is a type of	nasal procedure
+oral lesion excision	is a type of	oral procedure
+pharyngeal abscess drainage	is a type of	pharyngeal procedure
+nasal polyp removal	treats	polyps
+oral lesion excision	treats	leukoplakia
+pharyngeal abscess drainage	treats	abscess
+nasal fracture reduction	is a type of	nasal procedure
+oral frenectomy	is a type of	oral procedure
+pharyngeal foreign body removal	is a type of	pharyngeal procedure
+nasal fracture reduction	repairs	fracture
+oral frenectomy	treats	ankyloglossia
+pharyngeal foreign body removal	extracts	foreign body
+nasal septoplasty	is a type of	nasal procedure
+oral vestibuloplasty	is a type of	oral procedure
+pharyngeal biopsy	is a type of	pharyngeal procedure
+nasal septoplasty	corrects	deviated septum
+oral vestibuloplasty	improves	denture fit
+pharyngeal biopsy	diagnoses	pharyngeal cancer
+nasal cauterization	is a type of	nasal procedure
+oral cryotherapy	is a type of	oral procedure
+pharyngeal laser therapy	is a type of	pharyngeal procedure
+nasal cauterization	stops	bleeding
+oral cryotherapy	destroys	lesions
+pharyngeal laser therapy	treats	tumors
+nasal stent placement	is a type of	nasal procedure
+oral stent placement	is a type of	oral procedure
+pharyngeal stent placement	is a type of	pharyngeal procedure
+nasal stent placement	maintains	airway
+oral stent placement	prevents	contracture
+pharyngeal stent placement	relieves	obstruction
+nasal turbinectomy	is a type of	nasal procedure
+oral leukoplakia treatment	is a type of	oral procedure
+pharyngeal stricture dilation	is a type of	pharyngeal procedure
+nasal turbinectomy	reduces	turbinate hypertrophy
+oral leukoplakia treatment	removes	precancerous lesions
+pharyngeal stricture dilation	widens	stricture
+nasal valve repair	is a type of	nasal procedure
+oral mucocele excision	is a type of	oral procedure
+pharyngeal pouch excision	is a type of	pharyngeal procedure
+nasal valve repair	improves	breathing
+oral mucocele excision	removes	mucocele
+pharyngeal pouch excision	treats	diverticulum
+nasal allergen challenge	is a type of	nasal procedure
+oral lichen planus treatment	is a type of	oral procedure
+pharyngeal pH monitoring	is a type of	pharyngeal procedure
+nasal allergen challenge	tests	allergies
+oral lichen planus treatment	manages	autoimmune condition
+pharyngeal pH monitoring	diagnoses	GERD
+nasal culture	is a type of	nasal procedure
+oral culture	is a type of	oral procedure
+pharyngeal culture	is a type of	pharyngeal procedure
+nasal culture	identifies	pathogens
+oral culture	detects	infections
+pharyngeal culture	isolates	bacteria
+nasal steroid injection	is a type of	nasal procedure
+oral steroid injection	is a type of	oral procedure
+pharyngeal steroid injection	is a type of	pharyngeal procedure
+nasal steroid injection	reduces	inflammation
+oral steroid injection	treats	mucositis
+pharyngeal steroid injection	alleviates	swelling
+nasal dermabrasion	is a type of	nasal procedure
+oral laser ablation	is a type of	oral procedure
+pharyngeal radiofrequency ablation	is a type of	pharyngeal procedure
+nasal dermabrasion	improves	skin texture
+oral laser ablation	vaporizes	lesions
+pharyngeal radiofrequency ablation	shrinks	tissue
+nasal prosthesis placement	is a type of	nasal procedure
+oral prosthesis placement	is a type of	oral procedure
+pharyngeal prosthesis placement	is a type of	pharyngeal procedure
+nasal prosthesis placement	restores	structure
+oral prosthesis placement	replaces	missing tissue
+pharyngeal prosthesis placement	supports	function
+nose procedure	synonym of	nasal procedure

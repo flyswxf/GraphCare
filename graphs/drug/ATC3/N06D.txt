@@ -1,0 +1,100 @@
+anti-dementia drugs	treat	dementia
+dementia	has type	Alzheimer's disease
+Alzheimer's disease	characterized by	amyloid plaques
+amyloid plaques	contain	beta-amyloid
+beta-amyloid	derived from	APP
+APP	encoded by	APP gene
+anti-dementia drugs	include	cholinesterase inhibitors
+cholinesterase inhibitors	example	donepezil
+donepezil	increases	acetylcholine
+acetylcholine	is	neurotransmitter
+neurotransmitter	involved in	memory
+memory	impaired in	dementia
+anti-dementia drugs	include	memantine
+memantine	acts on	NMDA receptors
+NMDA receptors	regulate	calcium influx
+calcium influx	affects	neuronal excitability
+neuronal excitability	altered in	dementia
+anti-dementia drugs	may cause	side effects
+side effects	include	nausea
+nausea	can be treated with	antiemetics
+dementia	associated with	aging
+aging	risk factor for	dementia
+anti-dementia drugs	prescribed by	neurologists
+neurologists	specialize in	nervous system
+nervous system	includes	brain
+brain	affected by	dementia
+dementia	may lead to	disability
+disability	measured by	ADL scale
+ADL scale	assesses	daily functioning
+daily functioning	impaired in	dementia
+anti-dementia drugs	can improve	cognition
+cognition	includes	executive function
+executive function	controlled by	prefrontal cortex
+prefrontal cortex	degenerates in	dementia
+anti-dementia drugs	metabolized by	liver
+liver	contains	cytochrome P450
+cytochrome P450	affects	drug metabolism
+drug metabolism	influences	drug efficacy
+drug efficacy	important for	treatment outcomes
+treatment outcomes	assessed by	clinical trials
+clinical trials	require	patient participation
+patient participation	influenced by	informed consent
+informed consent	involves	risk disclosure
+risk disclosure	includes	side effects
+anti-dementia drugs	interact with	other medications
+other medications	may include	antidepressants
+antidepressants	used for	depressive symptoms
+depressive symptoms	common in	dementia
+dementia	may coexist with	Parkinson's disease
+Parkinson's disease	involves	dopamine deficiency
+dopamine deficiency	treated with	L-DOPA
+L-DOPA	may interact with	anti-dementia drugs
+anti-dementia drugs	administered via	oral route
+oral route	may affect	bioavailability
+bioavailability	determines	drug absorption
+drug absorption	affects	plasma concentration
+plasma concentration	monitored by	therapeutic drug monitoring
+therapeutic drug monitoring	guides	dosage adjustment
+dosage adjustment	necessary for	elderly patients
+elderly patients	more prone to	adverse effects
+adverse effects	may require	drug discontinuation
+drug discontinuation	leads to	treatment failure
+treatment failure	results in	disease progression
+disease progression	measured by	cognitive decline
+cognitive decline	assessed by	MMSE
+MMSE	evaluates	cognitive function
+cognitive function	preserved by	neuroplasticity
+neuroplasticity	enhanced by	cognitive training
+cognitive training	adjunct to	drug therapy
+drug therapy	combined with	non-pharmacological interventions
+non-pharmacological interventions	include	physical exercise
+physical exercise	improves	cerebral blood flow
+cerebral blood flow	reduced in	dementia
+dementia	may cause	behavioral symptoms
+behavioral symptoms	managed with	antipsychotics
+antipsychotics	may worsen	cognitive symptoms
+cognitive symptoms	hallmark of	dementia
+dementia	affects	caregivers
+caregivers	experience	caregiver burden
+caregiver burden	measured by	Zarit scale
+Zarit scale	evaluates	stress levels
+stress levels	impact	immune function
+immune function	linked to	neuroinflammation
+neuroinflammation	contributes to	neurodegeneration
+neurodegeneration	characteristic of	dementia
+anti-dementia drugs	target	disease modification
+disease modification	aims to	slow progression
+slow progression	measured by	clinical scales
+clinical scales	track	disease severity
+disease severity	predicts	mortality risk
+mortality risk	increased in	late-stage dementia
+late-stage dementia	requires	palliative care
+palliative care	focuses on	quality of life
+quality of life	assessed by	QOL-AD
+QOL-AD	measures	patient wellbeing
+patient wellbeing	influenced by	social support
+social support	provided by	family members
+family members	may need	counseling
+counseling	helps cope with	dementia diagnosis
+dementia diagnosis	confirmed by	neuroimaging

@@ -1,0 +1,100 @@
+open prostatectomy	is a	surgical procedure
+open prostatectomy	treats	prostate cancer
+open prostatectomy	treats	benign prostatic hyperplasia
+open prostatectomy	involves	prostate removal
+open prostatectomy	requires	general anesthesia
+open prostatectomy	has risk	bleeding
+open prostatectomy	has risk	infection
+open prostatectomy	has risk	urinary incontinence
+open prostatectomy	has risk	erectile dysfunction
+open prostatectomy	alternative to	robotic prostatectomy
+open prostatectomy	alternative to	laparoscopic prostatectomy
+open prostatectomy	longer recovery than	minimally invasive surgery
+open prostatectomy	requires	hospital stay
+surgeon	performs	open prostatectomy
+urologist	specializes in	open prostatectomy
+open prostatectomy	uses	surgical instruments
+open prostatectomy	preceded by	medical imaging
+MRI	used for	prostate evaluation
+biopsy	confirms	prostate cancer
+PSA test	indicates	prostate issues
+open prostatectomy	affects	urinary function
+catheter	required after	open prostatectomy
+open prostatectomy	followed by	physical therapy
+open prostatectomy	followed by	pain management
+opioids	used for	post-surgery pain
+open prostatectomy	requires	follow-up visits
+open prostatectomy	may lead to	lymphocele
+open prostatectomy	may lead to	deep vein thrombosis
+compression stockings	prevent	deep vein thrombosis
+open prostatectomy	contraindicated for	severe heart disease
+open prostatectomy	contraindicated for	bleeding disorders
+anticoagulants	avoided before	open prostatectomy
+open prostatectomy	more invasive than	TURP
+TURP	treats	benign prostatic hyperplasia
+open prostatectomy	preserves	nerve bundles
+nerve-sparing technique	reduces	erectile dysfunction
+open prostatectomy	may require	blood transfusion
+blood tests	monitor	post-surgery recovery
+open prostatectomy	affects	sexual function
+phosphodiesterase inhibitors	treat	erectile dysfunction
+pelvic floor exercises	improve	urinary incontinence
+open prostatectomy	has higher morbidity than	robotic surgery
+open prostatectomy	has longer operative time than	laparoscopic surgery
+obesity	increases risk of	surgical complications
+diabetes	delays	wound healing
+smoking	increases risk of	postoperative complications
+open prostatectomy	requires	preoperative evaluation
+ECG	assesses	cardiac risk
+chest X-ray	evaluates	lung function
+open prostatectomy	may cause	bladder neck contracture
+urethral dilation	treats	bladder neck contracture
+open prostatectomy	may lead to	rectal injury
+bowel preparation	reduces risk of	rectal injury
+antibiotics	prevent	surgical site infection
+open prostatectomy	more cost-effective than	robotic surgery
+hospital volume	affects	surgical outcomes
+surgeon experience	reduces	complication rates
+open prostatectomy	first performed in	20th century
+radical prostatectomy	more extensive than	simple prostatectomy
+simple prostatectomy	treats	benign prostatic hyperplasia
+radical prostatectomy	treats	prostate cancer
+lymph node dissection	accompanies	radical prostatectomy
+metastasis	contraindication for	open prostatectomy
+bone scan	detects	metastasis
+CT scan	stages	prostate cancer
+Gleason score	guides	treatment decision
+high Gleason score	indicates	aggressive cancer
+androgen deprivation therapy	adjunct to	prostatectomy
+radiation therapy	alternative to	prostatectomy
+active surveillance	alternative to	prostatectomy
+open prostatectomy	has better cancer control than	radiation
+radical prostatectomy	provides	pathological staging
+pathology report	confirms	surgical margins
+positive margins	indicate	residual cancer
+salvage radiation	treats	recurrent cancer
+PSA monitoring	detects	recurrence
+rising PSA	indicates	recurrence
+open prostatectomy	affects	quality of life
+support groups	help	postoperative adjustment
+depression	common after	prostatectomy
+counseling	benefits	postoperative recovery
+open prostatectomy	more common in	developing countries
+robotic surgery	more common in	developed countries
+insurance coverage	affects	treatment choice
+open prostatectomy	has learning curve	surgical trainees
+surgical simulation	trains	prostatectomy techniques
+animal models	used for	surgical training
+virtual reality	aids	surgical planning
+3D printing	assists	preoperative planning
+patient age	influences	surgical decision
+comorbidities	affect	surgical eligibility
+ASA score	assesses	surgical risk
+open prostatectomy	requires	informed consent
+patient education	improves	surgical outcomes
+second opinion	recommended for	prostate cancer
+multidisciplinary team	manages	prostate cancer
+oncology nurse	assists	postoperative care
+physical therapist	helps	recovery
+nutritionist	advises	postoperative diet
+open prostatectomy	remains	gold standard

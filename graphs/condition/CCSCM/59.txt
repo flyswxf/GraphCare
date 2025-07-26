@@ -1,0 +1,100 @@
+iron deficiency	causes	anemia
+vitamin B12 deficiency	causes	anemia
+folate deficiency	causes	anemia
+chronic kidney disease	causes	anemia
+anemia	causes	fatigue
+anemia	causes	pallor
+anemia	causes	shortness of breath
+anemia	causes	dizziness
+iron deficiency	is diagnosed by	serum ferritin test
+vitamin B12 deficiency	is diagnosed by	serum B12 test
+folate deficiency	is diagnosed by	serum folate test
+anemia	is diagnosed by	complete blood count
+iron deficiency anemia	is treated with	iron supplements
+vitamin B12 deficiency anemia	is treated with	B12 injections
+folate deficiency anemia	is treated with	folic acid
+chronic kidney disease anemia	is treated with	erythropoietin
+anemia	may require	blood transfusion
+iron deficiency	may be caused by	blood loss
+iron deficiency	may be caused by	poor diet
+iron deficiency	may be caused by	malabsorption
+vitamin B12 deficiency	may be caused by	pernicious anemia
+vitamin B12 deficiency	may be caused by	vegan diet
+folate deficiency	may be caused by	alcoholism
+folate deficiency	may be caused by	poor diet
+anemia	increases risk of	heart failure
+anemia	increases risk of	cognitive impairment
+severe anemia	may cause	organ damage
+iron supplements	may cause	constipation
+iron supplements	should be taken with	vitamin C
+iron supplements	may interact with	antacids
+hemoglobin	is a marker of	anemia
+hematocrit	is a marker of	anemia
+mean corpuscular volume	classifies	anemia
+microcytic anemia	suggests	iron deficiency
+macrocytic anemia	suggests	B12 deficiency
+normocytic anemia	suggests	chronic disease
+reticulocyte count	assesses	bone marrow response
+bone marrow biopsy	diagnoses	aplastic anemia
+hemolytic anemia	causes	jaundice
+sickle cell anemia	is a type of	hemolytic anemia
+thalassemia	is a type of	microcytic anemia
+anemia of chronic disease	is associated with	inflammation
+iron	is absorbed in	duodenum
+intrinsic factor	is needed for	B12 absorption
+proton pump inhibitors	may cause	B12 deficiency
+metformin	may cause	B12 deficiency
+pregnancy	increases risk of	iron deficiency
+menstruation	increases risk of	iron deficiency
+gastric bypass	increases risk of	nutrient deficiencies
+celiac disease	may cause	malabsorption anemia
+Crohn's disease	may cause	malabsorption anemia
+hookworm infection	causes	iron deficiency
+lead poisoning	causes	microcytic anemia
+chemotherapy	causes	anemia
+myelodysplastic syndrome	causes	anemia
+bone marrow failure	causes	anemia
+anemia	is common in	elderly
+anemia	worsens outcomes in	surgery
+anemia	delays	wound healing
+iron deficiency	affects	cognitive development
+iron deficiency	causes	pica
+B12 deficiency	causes	neuropathy
+B12 deficiency	causes	glossitis
+folate deficiency	increases risk of	neural tube defects
+blood transfusion	carries risk of	infection
+blood transfusion	carries risk of	iron overload
+erythropoietin	stimulates	red blood cell production
+ferritin	stores	iron
+transferrin	transports	iron
+hepcidin	regulates	iron absorption
+anemia	may cause	tachycardia
+anemia	may cause	systolic murmur
+anemia	may cause	angina
+iron deficiency	may cause	koilonychia
+iron deficiency	may cause	angular cheilitis
+pernicious anemia	is an	autoimmune condition
+pernicious anemia	targets	parietal cells
+schilling test	diagnoses	pernicious anemia
+autoimmune gastritis	causes	pernicious anemia
+folic acid	prevents	neural tube defects
+hemoglobinopathy	causes	anemia
+G6PD deficiency	causes	hemolytic anemia
+pyruvate kinase deficiency	causes	hemolytic anemia
+hereditary spherocytosis	causes	hemolytic anemia
+paroxysmal nocturnal hemoglobinuria	causes	hemolytic anemia
+malaria	causes	hemolytic anemia
+mechanical heart valve	causes	hemolytic anemia
+autoimmune hemolytic anemia	is treated with	corticosteroids
+sickle cell anemia	is treated with	hydroxyurea
+thalassemia major	requires	regular transfusions
+iron overload	is treated with	chelation therapy
+deferoxamine	is a	iron chelator
+deferasirox	is a	iron chelator
+aplastic anemia	may require	bone marrow transplant
+Fanconi anemia	is a genetic cause of	aplastic anemia
+diamond-blackfan anemia	affects	erythroid precursors
+pure red cell aplasia	causes	anemia
+myelofibrosis	causes	anemia
+multiple myeloma	causes	anemia
+leukemia	causes	anemia

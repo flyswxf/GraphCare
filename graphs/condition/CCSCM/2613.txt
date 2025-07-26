@@ -1,0 +1,100 @@
+E codes	classify	poisoning
+poisoning	is categorized by	E codes
+poisoning	may involve	substance
+substance	can cause	poisoning
+poisoning	requires	medical attention
+medical attention	may include	antidote
+antidote	counteracts	poisoning
+poisoning	can lead to	organ damage
+organ damage	may result from	poisoning
+poisoning	has	symptoms
+symptoms	indicate	poisoning
+poisoning	may require	hospitalization
+hospitalization	treats	poisoning
+poisoning	can be	accidental
+accidental poisoning	is common in	children
+children	are at risk for	poisoning
+poisoning	can be	intentional
+intentional poisoning	may indicate	suicide attempt
+suicide attempt	may involve	poisoning
+poisoning	has	mortality rate
+mortality rate	depends on	poison type
+poison type	affects	treatment
+treatment	varies by	poison severity
+poison severity	determines	prognosis
+prognosis	depends on	treatment timing
+treatment timing	affects	recovery
+recovery	follows	proper treatment
+proper treatment	requires	diagnosis
+diagnosis	identifies	poison
+poison	can be	chemical
+chemical poisoning	may involve	household products
+household products	can cause	poisoning
+poisoning	may result from	drug overdose
+drug overdose	is a type of	poisoning
+medication	can cause	poisoning
+poisoning	may involve	prescription drugs
+prescription drugs	can lead to	poisoning
+poisoning	can be caused by	pesticides
+pesticides	are a common cause of	poisoning
+agricultural workers	are at risk for	pesticide poisoning
+pesticide poisoning	requires	specific antidote
+specific antidote	treats	pesticide poisoning
+poisoning	may involve	heavy metals
+heavy metals	can cause	poisoning
+lead	is a	heavy metal
+lead poisoning	affects	nervous system
+nervous system	can be damaged by	poisoning
+poisoning	may affect	liver
+liver	can be damaged by	poisoning
+poisoning	may affect	kidneys
+kidneys	can be damaged by	poisoning
+poisoning	may cause	respiratory failure
+respiratory failure	can result from	poisoning
+poisoning	may require	ventilator
+ventilator	supports	respiratory failure
+poisoning	may cause	cardiac arrest
+cardiac arrest	can result from	poisoning
+poisoning	may require	CPR
+CPR	treats	cardiac arrest
+poison control center	assists with	poisoning
+poisoning	may be reported to	poison control center
+poison control center	provides	treatment advice
+treatment advice	guides	poisoning management
+poisoning management	involves	decontamination
+decontamination	removes	poison
+activated charcoal	is used for	decontamination
+decontamination	may prevent	absorption
+absorption	increases	poison effects
+poison effects	depend on	dose
+dose	determines	poisoning severity
+poisoning severity	affects	treatment plan
+treatment plan	includes	supportive care
+supportive care	manages	symptoms
+symptoms	may include	nausea
+nausea	can indicate	poisoning
+poisoning	may cause	vomiting
+vomiting	can remove	poison
+poisoning	may cause	diarrhea
+diarrhea	can result from	poisoning
+poisoning	may cause	seizures
+seizures	can result from	poisoning
+poisoning	may cause	coma
+coma	can result from	poisoning
+poisoning	may be fatal
+fatal poisoning	requires	autopsy
+autopsy	determines	cause of death
+cause of death	may be	poisoning
+poisoning	is preventable
+prevention	involves	safety measures
+safety measures	reduce	poisoning risk
+childproof containers	prevent	poisoning
+poisoning	is reduced by	childproof containers
+education	prevents	poisoning
+poisoning	is reduced by	education
+warning labels	prevent	poisoning
+poisoning	is reduced by	warning labels
+proper storage	prevents	poisoning
+poisoning	is reduced by	proper storage
+emergency number	assists with	poisoning
+poisoning	may require	emergency number

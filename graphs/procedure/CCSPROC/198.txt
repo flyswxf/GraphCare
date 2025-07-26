@@ -1,0 +1,100 @@
+magnetic resonance imaging	is a	diagnostic tool
+magnetic resonance imaging	uses	magnetic fields
+magnetic resonance imaging	produces	detailed images
+magnetic resonance imaging	detects	soft tissue abnormalities
+magnetic resonance imaging	used for	brain scans
+magnetic resonance imaging	used for	spinal cord imaging
+magnetic resonance imaging	used for	joint assessment
+magnetic resonance imaging	alternative to	CT scan
+magnetic resonance imaging	safer than	X-ray
+magnetic resonance imaging	requires	patient cooperation
+magnetic resonance imaging	contraindicated for	pacemaker patients
+magnetic resonance imaging	involves	radio waves
+magnetic resonance imaging	measures	hydrogen atoms
+magnetic resonance imaging	provides	cross-sectional views
+magnetic resonance imaging	assists in	tumor detection
+magnetic resonance imaging	evaluates	multiple sclerosis
+magnetic resonance imaging	diagnoses	stroke
+magnetic resonance imaging	assesses	ligament tears
+magnetic resonance imaging	monitors	treatment response
+magnetic resonance imaging	requires	contrast agents
+gadolinium	is a	contrast agent
+contrast agents	enhance	image clarity
+contrast agents	risk	nephrogenic systemic fibrosis
+magnetic resonance imaging	contraindicated for	metal implants
+magnetic resonance imaging	performed by	radiologist
+radiologist	interprets	MRI results
+MRI machine	generates	strong magnetic field
+MRI machine	requires	shielding
+MRI machine	produces	loud noises
+patients	need	ear protection
+claustrophobia	limits	MRI use
+open MRI	reduces	claustrophobia
+functional MRI	measures	brain activity
+functional MRI	used in	neuroscience research
+diffusion MRI	visualizes	white matter
+diffusion MRI	diagnoses	stroke early
+magnetic resonance angiography	images	blood vessels
+magnetic resonance angiography	detects	aneurysms
+magnetic resonance spectroscopy	analyzes	chemical composition
+magnetic resonance spectroscopy	studies	metabolic disorders
+MRI	costs more than	ultrasound
+MRI	takes longer than	CT scan
+MRI	avoids	ionizing radiation
+ionizing radiation	increases	cancer risk
+MRI	preferred for	pediatric imaging
+pediatric patients	may need	sedation
+sedation	requires	anesthesia team
+anesthesia team	monitors	vital signs
+MRI	detects	brain tumors
+brain tumors	require	biopsy confirmation
+MRI	evaluates	pituitary gland
+pituitary gland	regulates	hormones
+MRI	assesses	cartilage damage
+cartilage damage	leads to	osteoarthritis
+MRI	identifies	spinal stenosis
+spinal stenosis	causes	nerve compression
+nerve compression	results in	pain
+pain	managed with	analgesics
+analgesics	include	NSAIDs
+NSAIDs	risk	gastrointestinal bleeding
+MRI	examines	heart structure
+cardiac MRI	evaluates	heart function
+heart function	measured by	ejection fraction
+ejection fraction	indicates	heart failure
+heart failure	treated with	beta-blockers
+beta-blockers	lower	blood pressure
+blood pressure	monitored with	sphygmomanometer
+MRI	visualizes	liver lesions
+liver lesions	may indicate	cancer
+liver cancer	treated with	surgery
+surgery	requires	hospitalization
+hospitalization	increases	healthcare costs
+MRI	detects	multiple sclerosis plaques
+multiple sclerosis	managed with	immunosuppressants
+immunosuppressants	increase	infection risk
+infection risk	reduced by	vaccinations
+MRI	screens for	breast cancer
+breast cancer	diagnosed with	biopsy
+biopsy	performed by	surgeon
+surgeon	follows	sterile technique
+sterile technique	prevents	infections
+MRI	guides	radiation therapy
+radiation therapy	targets	cancer cells
+cancer cells	destroyed by	radiation
+MRI	assesses	prostate cancer
+prostate cancer	treated with	hormone therapy
+hormone therapy	blocks	testosterone
+testosterone	produced by	testes
+MRI	evaluates	rotator cuff
+rotator cuff	repaired with	surgery
+surgery	followed by	physical therapy
+physical therapy	improves	mobility
+mobility	enhances	quality of life
+MRI	detects	herniated discs
+herniated discs	cause	sciatica
+sciatica	treated with	epidural injections
+epidural injections	contain	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	associated with	immune response
+immune response	involves	white blood cells

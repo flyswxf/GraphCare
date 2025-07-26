@@ -1,0 +1,100 @@
+low-ceiling diuretics	are	diuretics
+low-ceiling diuretics	exclude	thiazides
+low-ceiling diuretics	include	loop diuretics
+loop diuretics	act on	nephron loop
+loop diuretics	inhibit	Na-K-2Cl symporter
+Na-K-2Cl symporter	located in	thick ascending limb
+loop diuretics	increase	urine output
+loop diuretics	reduce	blood pressure
+loop diuretics	treat	edema
+edema	associated with	heart failure
+heart failure	may require	diuretic therapy
+loop diuretics	treat	hypertension
+hypertension	risk factor for	stroke
+loop diuretics	may cause	hypokalemia
+hypokalemia	leads to	muscle weakness
+loop diuretics	may cause	dehydration
+dehydration	can result in	hypotension
+loop diuretics	interact with	NSAIDs
+NSAIDs	reduce	diuretic efficacy
+loop diuretics	require	potassium monitoring
+potassium monitoring	prevents	hypokalemia
+loop diuretics	metabolized in	liver
+liver dysfunction	affects	drug metabolism
+loop diuretics	excreted via	kidneys
+kidney dysfunction	alters	drug clearance
+loop diuretics	examples include	furosemide
+furosemide	is	loop diuretic
+furosemide	treats	pulmonary edema
+pulmonary edema	caused by	fluid overload
+furosemide	may cause	ototoxicity
+ototoxicity	leads to	hearing loss
+furosemide	has	rapid onset
+rapid onset	makes it	acute treatment
+furosemide	administered	intravenously
+intravenous administration	ensures	fast action
+loop diuretics	examples include	bumetanide
+bumetanide	is	more potent
+bumetanide	has	better bioavailability
+bioavailability	affects	drug dosing
+bumetanide	preferred in	renal impairment
+renal impairment	requires	dose adjustment
+loop diuretics	examples include	torsemide
+torsemide	has	longer half-life
+longer half-life	allows	once-daily dosing
+torsemide	useful in	chronic conditions
+chronic conditions	need	sustained therapy
+loop diuretics	contraindicated in	anuria
+anuria	indicates	kidney failure
+kidney failure	requires	dialysis
+loop diuretics	may worsen	gout
+gout	caused by	hyperuricemia
+loop diuretics	increase	uric acid
+hyperuricemia	leads to	joint pain
+loop diuretics	may cause	metabolic alkalosis
+metabolic alkalosis	results from	bicarbonate retention
+loop diuretics	affect	electrolyte balance
+electrolyte imbalance	causes	arrhythmias
+arrhythmias	increase	cardiac risk
+loop diuretics	combined with	ACE inhibitors
+ACE inhibitors	reduce	afterload
+afterload reduction	improves	cardiac output
+loop diuretics	avoid with	aminoglycosides
+aminoglycosides	increase	ototoxicity risk
+ototoxicity risk	higher in	elderly
+elderly patients	need	lower doses
+loop diuretics	monitored via	weight tracking
+weight tracking	assesses	fluid status
+fluid overload	suggests	inadequate diuresis
+inadequate diuresis	may need	dose increase
+loop diuretics	used in	cirrhosis
+cirrhosis	leads to	ascites
+ascites	managed with	sodium restriction
+sodium restriction	supports	diuretic effect
+loop diuretics	less effective in	hypoalbuminemia
+hypoalbuminemia	reduces	drug binding
+drug binding	affects	efficacy
+loop diuretics	alternative to	thiazides
+thiazides	preferred in	mild hypertension
+mild hypertension	managed with	monotherapy
+loop diuretics	reserved for	severe cases
+severe cases	include	refractory edema
+refractory edema	may need	combination therapy
+combination therapy	includes	spironolactone
+spironolactone	is	potassium-sparing diuretic
+potassium-sparing diuretics	counteract	hypokalemia
+loop diuretics	may cause	hyperglycemia
+hyperglycemia	worsens	diabetes
+diabetes	requires	glucose monitoring
+loop diuretics	interact with	digoxin
+digoxin	toxicity	increased by hypokalemia
+digoxin toxicity	causes	arrhythmias
+loop diuretics	avoided in	pregnancy
+pregnancy	requires	safer alternatives
+safer alternatives	include	methyldopa
+methyldopa	is	antihypertensive
+loop diuretics	can lead	hypomagnesemia
+hypomagnesemia	affects	neuromuscular function
+neuromuscular dysfunction	causes	cramps
+loop diuretics	require	dietary sodium control
+dietary sodium control	enhances	treatment efficacy

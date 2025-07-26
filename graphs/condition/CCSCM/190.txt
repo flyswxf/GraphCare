@@ -1,0 +1,100 @@
+fetal distress	is associated with	abnormal forces of labor
+abnormal forces of labor	may cause	fetal distress
+fetal distress	indicates	compromised oxygen supply
+abnormal forces of labor	leads to	prolonged labor
+fetal distress	may require	emergency cesarean section
+abnormal forces of labor	increases risk of	uterine rupture
+fetal distress	can result in	hypoxic-ischemic encephalopathy
+abnormal forces of labor	is linked to	cephalopelvic disproportion
+fetal distress	may necessitate	fetal monitoring
+abnormal forces of labor	can cause	birth trauma
+fetal distress	is detected by	abnormal heart rate
+abnormal forces of labor	involves	dysfunctional contractions
+fetal distress	may lead to	neonatal resuscitation
+abnormal forces of labor	is associated with	maternal exhaustion
+fetal distress	requires	obstetric intervention
+abnormal forces of labor	may result in	instrumental delivery
+fetal distress	can cause	perinatal mortality
+abnormal forces of labor	is related to	malpositioned fetus
+fetal distress	may indicate	umbilical cord compression
+abnormal forces of labor	is exacerbated by	epidural anesthesia
+fetal distress	is managed with	intrauterine resuscitation
+abnormal forces of labor	may require	oxytocin augmentation
+fetal distress	is worsened by	maternal hypotension
+abnormal forces of labor	can lead to	postpartum hemorrhage
+fetal distress	is a sign of	placental insufficiency
+abnormal forces of labor	is influenced by	maternal age
+fetal distress	may necessitate	neonatal intensive care
+abnormal forces of labor	is affected by	fetal size
+fetal distress	is correlated with	meconium-stained amniotic fluid
+abnormal forces of labor	is more common in	primigravida
+fetal distress	can be caused by	maternal diabetes
+abnormal forces of labor	is linked to	uterine anomalies
+fetal distress	may result from	maternal hypertension
+abnormal forces of labor	is associated with	induction of labor
+fetal distress	is a concern in	multiple gestation
+abnormal forces of labor	may be due to	fetal macrosomia
+fetal distress	is monitored via	cardiotocography
+abnormal forces of labor	can be caused by	pelvic abnormalities
+fetal distress	is a risk factor for	cerebral palsy
+abnormal forces of labor	may require	tocolytic therapy
+fetal distress	is exacerbated by	maternal fever
+abnormal forces of labor	is influenced by	fetal presentation
+fetal distress	may indicate	nuchal cord
+abnormal forces of labor	is a cause of	maternal distress
+fetal distress	is screened for	biophysical profile
+abnormal forces of labor	is related to	amniotic fluid volume
+fetal distress	may lead to	neonatal seizures
+abnormal forces of labor	can result in	perineal tears
+fetal distress	is a complication of	preeclampsia
+abnormal forces of labor	is affected by	maternal obesity
+fetal distress	requires	multidisciplinary team
+abnormal forces of labor	may necessitate	operative vaginal delivery
+fetal distress	is linked to	intrauterine growth restriction
+abnormal forces of labor	is associated with	premature rupture of membranes
+fetal distress	may be caused by	maternal anemia
+abnormal forces of labor	is a risk for	neonatal asphyxia
+fetal distress	is assessed via	scalp pH testing
+abnormal forces of labor	can be due to	fetal malformations
+fetal distress	is a predictor of	low Apgar score
+abnormal forces of labor	may lead to	shoulder dystocia
+fetal distress	is worsened by	maternal dehydration
+abnormal forces of labor	is related to	cervical dystocia
+fetal distress	may require	amnioinfusion
+abnormal forces of labor	is influenced by	maternal positioning
+fetal distress	is a consequence of	cord prolapse
+abnormal forces of labor	is associated with	chorioamnionitis
+fetal distress	may indicate	placental abruption
+abnormal forces of labor	can be caused by	fetal distress
+fetal distress	is managed by	oxygen administration
+abnormal forces of labor	may result in	uterine atony
+fetal distress	is a sign of	metabolic acidosis
+abnormal forces of labor	is linked to	maternal stress
+fetal distress	may necessitate	blood gas analysis
+abnormal forces of labor	is affected by	parity
+fetal distress	is a risk in	post-term pregnancy
+abnormal forces of labor	can lead to	neonatal hypoglycemia
+fetal distress	is screened with	Doppler ultrasound
+abnormal forces of labor	is associated with	maternal infection
+fetal distress	may be caused by	oligohydramnios
+abnormal forces of labor	is a concern in	breech presentation
+fetal distress	requires	continuous monitoring
+abnormal forces of labor	may lead to	neonatal sepsis
+fetal distress	is a complication of	gestational diabetes
+abnormal forces of labor	is influenced by	epidural use
+fetal distress	is correlated with	maternal smoking
+abnormal forces of labor	may require	maternal repositioning
+fetal distress	is a predictor of	NICU admission
+abnormal forces of labor	is linked to	uterine overdistension
+fetal distress	may result from	maternal thyroid disorder
+abnormal forces of labor	is associated with	fetal anomalies
+fetal distress	is a risk for	developmental delay
+abnormal forces of labor	can be caused by	pelvic inflammatory disease
+fetal distress	is managed with	fluid resuscitation
+abnormal forces of labor	may necessitate	cesarean delivery
+fetal distress	is worsened by	maternal hypoxia
+abnormal forces of labor	is related to	maternal fatigue
+fetal distress	may indicate	placental infarction
+abnormal forces of labor	is affected by	fetal head position
+fetal distress	is a cause of	neonatal jaundice
+abnormal forces of labor	is a risk factor for	maternal morbidity

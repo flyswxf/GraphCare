@@ -1,0 +1,100 @@
+corticosteroid ophthalmologic and otologic preparations	is a	medication
+corticosteroid ophthalmologic and otologic preparations	contains	corticosteroids
+corticosteroid ophthalmologic and otologic preparations	used for	eye inflammation
+corticosteroid ophthalmologic and otologic preparations	used for	ear inflammation
+corticosteroid ophthalmologic and otologic preparations	can cause	increased intraocular pressure
+corticosteroid ophthalmologic and otologic preparations	may lead	cataract formation
+corticosteroid ophthalmologic and otologic preparations	available as	eye drops
+corticosteroid ophthalmologic and otologic preparations	available as	ear drops
+corticosteroid ophthalmologic and otologic preparations	contains	dexamethasone
+corticosteroid ophthalmologic and otologic preparations	contains	prednisolone
+corticosteroid ophthalmologic and otologic preparations	contains	fluorometholone
+corticosteroid ophthalmologic and otologic preparations	treats	conjunctivitis
+corticosteroid ophthalmologic and otologic preparations	treats	uveitis
+corticosteroid ophthalmologic and otologic preparations	treats	keratitis
+corticosteroid ophthalmologic and otologic preparations	treats	otitis externa
+corticosteroid ophthalmologic and otologic preparations	contraindicated in	viral infections
+corticosteroid ophthalmologic and otologic preparations	contraindicated in	fungal infections
+corticosteroid ophthalmologic and otologic preparations	requires	prescription
+corticosteroid ophthalmologic and otologic preparations	has	anti-inflammatory effect
+corticosteroid ophthalmologic and otologic preparations	has	immunosuppressive effect
+corticosteroid ophthalmologic and otologic preparations	interacts with	other medications
+corticosteroid ophthalmologic and otologic preparations	monitoring required	intraocular pressure
+corticosteroid ophthalmologic and otologic preparations	monitoring required	visual acuity
+corticosteroid ophthalmologic and otologic preparations	may cause	blurred vision
+corticosteroid ophthalmologic and otologic preparations	may cause	eye irritation
+corticosteroid ophthalmologic and otologic preparations	may cause	ear discomfort
+corticosteroid ophthalmologic and otologic preparations	formulation includes	preservatives
+corticosteroid ophthalmologic and otologic preparations	formulation includes	vehicles
+corticosteroid ophthalmologic and otologic preparations	absorption	through mucous membranes
+corticosteroid ophthalmologic and otologic preparations	duration of action	varies
+corticosteroid ophthalmologic and otologic preparations	frequency of administration	varies
+corticosteroid ophthalmologic and otologic preparations	pregnancy category	C
+corticosteroid ophthalmologic and otologic preparations	lactation safety	caution
+corticosteroid ophthalmologic and otologic preparations	alternative to	systemic corticosteroids
+corticosteroid ophthalmologic and otologic preparations	more effective than	NSAID drops
+corticosteroid ophthalmologic and otologic preparations	often combined with	antibiotics
+corticosteroid ophthalmologic and otologic preparations	storage condition	room temperature
+corticosteroid ophthalmologic and otologic preparations	shelf life	limited
+corticosteroid ophthalmologic and otologic preparations	potency	varies
+corticosteroid ophthalmologic and otologic preparations	brand names	multiple
+corticosteroid ophthalmologic and otologic preparations	generic availability	yes
+corticosteroid ophthalmologic and otologic preparations	cost	variable
+corticosteroid ophthalmologic and otologic preparations	insurance coverage	usually
+corticosteroid ophthalmologic and otologic preparations	patient education	important
+corticosteroid ophthalmologic and otologic preparations	administration technique	crucial
+corticosteroid ophthalmologic and otologic preparations	missed dose	instructions
+corticosteroid ophthalmologic and otologic preparations	overdose	rare
+corticosteroid ophthalmologic and otologic preparations	withdrawal	gradual
+corticosteroid ophthalmologic and otologic preparations	mechanism of action	anti-inflammatory
+corticosteroid ophthalmologic and otologic preparations	mechanism of action	immunosuppressive
+corticosteroid ophthalmologic and otologic preparations	targets	inflammatory cytokines
+corticosteroid ophthalmologic and otologic preparations	inhibits	phospholipase A2
+corticosteroid ophthalmologic and otologic preparations	reduces	vascular permeability
+corticosteroid ophthalmologic and otologic preparations	suppresses	leukocyte migration
+corticosteroid ophthalmologic and otologic preparations	stabilizes	cell membranes
+corticosteroid ophthalmologic and otologic preparations	affects	prostaglandin synthesis
+corticosteroid ophthalmologic and otologic preparations	affects	leukotriene synthesis
+corticosteroid ophthalmologic and otologic preparations	indications	allergic conditions
+corticosteroid ophthalmologic and otologic preparations	indications	postoperative inflammation
+corticosteroid ophthalmologic and otologic preparations	indications	traumatic inflammation
+corticosteroid ophthalmologic and otologic preparations	off-label uses	certain
+corticosteroid ophthalmologic and otologic preparations	onset of action	rapid
+corticosteroid ophthalmologic and otologic preparations	peak effect	hours
+corticosteroid ophthalmologic and otologic preparations	metabolism	hepatic
+corticosteroid ophthalmologic and otologic preparations	excretion	renal
+corticosteroid ophthalmologic and otologic preparations	half-life	variable
+corticosteroid ophthalmologic and otologic preparations	protein binding	high
+corticosteroid ophthalmologic and otologic preparations	volume of distribution	large
+corticosteroid ophthalmologic and otologic preparations	clearance	hepatic
+corticosteroid ophthalmologic and otologic preparations	bioavailability	low
+corticosteroid ophthalmologic and otologic preparations	penetration	ocular tissues
+corticosteroid ophthalmologic and otologic preparations	penetration	aural tissues
+corticosteroid ophthalmologic and otologic preparations	comparative efficacy	studied
+corticosteroid ophthalmologic and otologic preparations	comparative safety	studied
+corticosteroid ophthalmologic and otologic preparations	pediatric use	caution
+corticosteroid ophthalmologic and otologic preparations	geriatric use	caution
+corticosteroid ophthalmologic and otologic preparations	hepatic impairment	caution
+corticosteroid ophthalmologic and otologic preparations	renal impairment	caution
+corticosteroid ophthalmologic and otologic preparations	drug interactions	many
+corticosteroid ophthalmologic and otologic preparations	laboratory interactions	possible
+corticosteroid ophthalmologic and otologic preparations	affects	glucose levels
+corticosteroid ophthalmologic and otologic preparations	affects	potassium levels
+corticosteroid ophthalmologic and otologic preparations	affects	sodium levels
+corticosteroid ophthalmologic and otologic preparations	affects	calcium levels
+corticosteroid ophthalmologic and otologic preparations	affects	wound healing
+corticosteroid ophthalmologic and otologic preparations	affects	immune response
+corticosteroid ophthalmologic and otologic preparations	development history	decades
+corticosteroid ophthalmologic and otologic preparations	research studies	numerous
+corticosteroid ophthalmologic and otologic preparations	clinical trials	ongoing
+corticosteroid ophthalmologic and otologic preparations	guidelines	available
+corticosteroid ophthalmologic and otologic preparations	therapeutic index	narrow
+corticosteroid ophthalmologic and otologic preparations	adherence issues	common
+corticosteroid ophthalmologic and otologic preparations	administration errors	possible
+corticosteroid ophthalmologic and otologic preparations	quality control	strict
+corticosteroid ophthalmologic and otologic preparations	manufacturing standards	high
+corticosteroid ophthalmologic and otologic preparations	regulatory approval	required
+corticosteroid ophthalmologic and otologic preparations	post-marketing surveillance	ongoing
+corticosteroid ophthalmologic and otologic preparations	adverse event reporting	mandatory
+corticosteroid ophthalmologic and otologic preparations	pharmacovigilance	important
+corticosteroid ophthalmologic and otologic preparations	future developments	expected

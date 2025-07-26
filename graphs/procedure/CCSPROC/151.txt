@@ -1,0 +1,100 @@
+excision of semilunar cartilage of knee	is a	surgical procedure
+excision of semilunar cartilage of knee	performed on	knee
+excision of semilunar cartilage of knee	involves	meniscus
+excision of semilunar cartilage of knee	treats	meniscal tear
+excision of semilunar cartilage of knee	requires	anesthesia
+excision of semilunar cartilage of knee	performed by	orthopedic surgeon
+excision of semilunar cartilage of knee	has risk	infection
+excision of semilunar cartilage of knee	has risk	bleeding
+excision of semilunar cartilage of knee	followed by	physical therapy
+excision of semilunar cartilage of knee	requires	postoperative care
+meniscus	is part of	knee joint
+meniscus	functions as	shock absorber
+meniscus	can develop	degeneration
+meniscus	can suffer	injury
+meniscal tear	causes	knee pain
+meniscal tear	results from	trauma
+meniscal tear	leads to	knee locking
+meniscal tear	causes	joint swelling
+orthopedic surgeon	specializes in	musculoskeletal system
+orthopedic surgeon	performs	arthroscopy
+arthroscopy	is a	minimally invasive surgery
+arthroscopy	used for	joint examination
+arthroscopy	allows for	meniscectomy
+meniscectomy	removes	damaged meniscus
+meniscectomy	alternative to	meniscal repair
+physical therapy	improves	joint mobility
+physical therapy	reduces	recovery time
+physical therapy	strengthens	thigh muscles
+knee pain	treated with	analgesics
+knee pain	managed with	ice therapy
+analgesics	include	NSAIDs
+NSAIDs	reduce	inflammation
+NSAIDs	examples are	ibuprofen
+postoperative care	involves	wound monitoring
+postoperative care	includes	pain management
+postoperative care	prevents	complications
+knee joint	contains	synovial fluid
+knee joint	supported by	ligaments
+ligaments	provide	joint stability
+ligaments	can suffer	sprains
+trauma	results from	sports injury
+trauma	caused by	fall
+sports injury	common in	athletes
+athletes	prone to	ACL tears
+ACL tears	require	reconstruction
+joint swelling	treated with	compression
+joint swelling	relieved by	elevation
+compression	uses	elastic bandage
+elastic bandage	applies	pressure
+knee locking	indicates	mechanical block
+mechanical block	caused by	loose body
+loose body	composed of	cartilage fragment
+cartilage fragment	results from	degeneration
+degeneration	associated with	osteoarthritis
+osteoarthritis	causes	joint damage
+osteoarthritis	leads to	disability
+disability	requires	assistive devices
+assistive devices	include	knee brace
+knee brace	provides	support
+knee brace	reduces	pain
+anesthesia	types include	general anesthesia
+anesthesia	types include	spinal anesthesia
+general anesthesia	induces	unconsciousness
+spinal anesthesia	blocks	nerve signals
+nerve signals	transmit	pain sensations
+pain sensations	processed by	brain
+brain	controls	body movements
+body movements	coordinated by	nervous system
+nervous system	includes	peripheral nerves
+peripheral nerves	can be	damaged
+damaged nerves	cause	numbness
+numbness	affects	sensation
+sensation	important for	proprioception
+proprioception	maintains	balance
+balance	prevents	falls
+falls	risk factor for	fractures
+fractures	require	immobilization
+immobilization	uses	cast
+cast	protects	broken bone
+broken bone	heals through	remodeling
+remodeling	involves	osteoblasts
+osteoblasts	produce	bone matrix
+bone matrix	contains	collagen
+collagen	provides	tensile strength
+tensile strength	resists	mechanical stress
+mechanical stress	affects	joint health
+joint health	maintained by	exercise
+exercise	improves	circulation
+circulation	delivers	nutrients
+nutrients	include	calcium
+calcium	essential for	bone strength
+bone strength	prevents	osteoporosis
+osteoporosis	increases	fracture risk
+fracture risk	reduced by	vitamin D
+vitamin D	enhances	calcium absorption
+calcium absorption	occurs in	intestines
+intestines	part of	digestive system
+digestive system	processes	food
+food	provides	energy
+energy	required for	healing

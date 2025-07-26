@@ -1,0 +1,100 @@
+antiarrhythmics	treat	arrhythmia
+antiarrhythmics	classified into	class I
+antiarrhythmics	classified into	class III
+class I antiarrhythmics	block	sodium channels
+class III antiarrhythmics	block	potassium channels
+class I antiarrhythmics	include	quinidine
+class I antiarrhythmics	include	procainamide
+class I antiarrhythmics	include	lidocaine
+class III antiarrhythmics	include	amiodarone
+class III antiarrhythmics	include	sotalol
+arrhythmia	caused by	abnormal electrical activity
+abnormal electrical activity	occurs in	heart
+heart	contains	cardiac cells
+cardiac cells	have	ion channels
+ion channels	regulate	action potential
+action potential	affects	heart rhythm
+quinidine	derived from	cinchona bark
+procainamide	metabolized into	NAPA
+lidocaine	used as	local anesthetic
+amiodarone	contains	iodine
+sotalol	has	beta-blocking effects
+class I antiarrhythmics	subdivided into	IA
+class I antiarrhythmics	subdivided into	IB
+class I antiarrhythmics	subdivided into	IC
+IA drugs	prolong	action potential
+IB drugs	shorten	action potential
+IC drugs	strongly block	sodium channels
+amiodarone	has	long half-life
+amiodarone	can cause	pulmonary toxicity
+sotalol	can cause	QT prolongation
+quinidine	can cause	cinchonism
+procainamide	can cause	lupus-like syndrome
+lidocaine	used for	ventricular arrhythmias
+class III antiarrhythmics	prolong	refractory period
+refractory period	prevents	reentry circuits
+reentry circuits	cause	tachyarrhythmias
+tachyarrhythmias	include	atrial fibrillation
+tachyarrhythmias	include	ventricular tachycardia
+atrial fibrillation	increases risk of	stroke
+ventricular tachycardia	can lead to	cardiac arrest
+cardiac arrest	requires	defibrillation
+defibrillation	delivers	electric shock
+electric shock	resets	heart rhythm
+antiarrhythmics	can cause	proarrhythmia
+proarrhythmia	worsens	arrhythmia
+amiodarone	interacts with	warfarin
+warfarin	increases risk of	bleeding
+sotalol	contraindicated in	asthma
+asthma	involves	bronchoconstriction
+quinidine	increases	digoxin levels
+digoxin	treats	heart failure
+heart failure	results from	reduced cardiac output
+cardiac output	depends on	stroke volume
+stroke volume	affected by	preload
+preload	determined by	venous return
+class I antiarrhythmics	more effective in	atrial arrhythmias
+class III antiarrhythmics	more effective in	ventricular arrhythmias
+amiodarone	requires	loading dose
+loading dose	achieves	steady state
+steady state	maintains	therapeutic levels
+therapeutic levels	ensure	drug efficacy
+drug efficacy	measured by	clinical response
+clinical response	assessed via	ECG
+ECG	detects	heart rhythm
+ECG	shows	QT interval
+QT interval	prolonged by	class III drugs
+QT prolongation	can lead to	torsades de pointes
+torsades de pointes	is a	polymorphic VT
+polymorphic VT	requires	magnesium
+magnesium	stabilizes	membranes
+membranes	contain	ion channels
+ion channels	targeted by	antiarrhythmics
+antiarrhythmics	monitored via	blood levels
+blood levels	indicate	toxicity
+toxicity	managed by	dose adjustment
+dose adjustment	based on	renal function
+renal function	assessed via	creatinine
+creatinine	reflects	GFR
+GFR	determines	drug clearance
+drug clearance	affects	half-life
+half-life	influences	dosing frequency
+dosing frequency	ensures	compliance
+compliance	improves	outcomes
+outcomes	measured by	mortality
+mortality	reduced by	effective treatment
+effective treatment	requires	correct diagnosis
+correct diagnosis	involves	electrophysiology studies
+electrophysiology studies	map	abnormal pathways
+abnormal pathways	ablated by	catheter ablation
+catheter ablation	destroys	problematic tissue
+problematic tissue	causes	arrhythmia
+arrhythmia	prevented by	pacemaker
+pacemaker	regulates	heart rate
+heart rate	controlled by	sinoatrial node
+sinoatrial node	acts as	pacemaker
+antiarrhythmics	alternative to	cardioversion
+cardioversion	restores	sinus rhythm
+sinus rhythm	represents	normal conduction
+normal conduction	ensures	coordinated contraction
+coordinated contraction	maintains	cardiac output

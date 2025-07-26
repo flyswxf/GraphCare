@@ -1,0 +1,100 @@
+hip replacement	is a	surgical procedure
+hip replacement	treats	hip arthritis
+hip replacement	treats	hip fracture
+hip replacement	treats	avascular necrosis
+total hip replacement	is a type of	hip replacement
+partial hip replacement	is a type of	hip replacement
+hip replacement	uses	prosthetic implant
+hip replacement	requires	anesthesia
+hip replacement	has risk	infection
+hip replacement	has risk	blood clots
+hip replacement	has risk	dislocation
+hip replacement	requires	rehabilitation
+hip replacement	improves	mobility
+hip replacement	reduces	pain
+hip replacement	has alternative	hip resurfacing
+hip replacement	performed by	orthopedic surgeon
+hip replacement	requires	hospital stay
+hip replacement	uses	metal components
+hip replacement	uses	plastic components
+hip replacement	uses	ceramic components
+hip replacement	preceded by	physical therapy
+hip replacement	followed by	pain medication
+hip replacement	followed by	anticoagulants
+hip replacement	requires	follow-up visits
+hip replacement	affected by	patient age
+hip replacement	affected by	patient weight
+hip replacement	has complication	leg length discrepancy
+hip replacement	has complication	implant loosening
+hip replacement	has complication	nerve damage
+hip replacement	requires	preoperative evaluation
+total hip replacement	replaces	femoral head
+total hip replacement	replaces	acetabulum
+partial hip replacement	replaces	femoral head
+hip replacement	contraindicated in	active infection
+hip replacement	contraindicated in	severe osteoporosis
+hip replacement	requires	imaging studies
+hip replacement	influenced by	surgical approach
+posterior approach	is a type of	surgical approach
+anterior approach	is a type of	surgical approach
+hip replacement	uses	bone cement
+cementless hip replacement	is a type of	hip replacement
+hip replacement	affected by	implant design
+hip replacement	associated with	blood transfusion
+hip replacement	requires	physical therapy
+hip replacement	improves	quality of life
+hip replacement	has outcome measure	Harris Hip Score
+hip replacement	has outcome measure	WOMAC score
+hip replacement	affected by	surgeon experience
+hip replacement	requires	assistive devices
+hip replacement	followed by	activity restrictions
+hip replacement	influenced by	preoperative function
+hip replacement	has revision rate	10% at 10 years
+hip replacement	has cost	significant
+hip replacement	covered by	insurance
+hip replacement	requires	informed consent
+hip replacement	preceded by	medical optimization
+hip replacement	affected by	comorbidities
+hip replacement	contraindicated in	neuromuscular disorders
+hip replacement	contraindicated in	vascular insufficiency
+hip replacement	requires	postoperative monitoring
+hip replacement	followed by	wound care
+hip replacement	has risk	pulmonary embolism
+hip replacement	has risk	cardiac events
+hip replacement	requires	antibiotic prophylaxis
+hip replacement	uses	surgical drains
+hip replacement	affected by	operating time
+hip replacement	influenced by	anesthesia type
+general anesthesia	is a type of	anesthesia
+spinal anesthesia	is a type of	anesthesia
+hip replacement	affected by	blood loss
+hip replacement	requires	pain management
+hip replacement	uses	multimodal analgesia
+hip replacement	followed by	mobility assessment
+hip replacement	requires	fall prevention
+hip replacement	affected by	bone quality
+hip replacement	influenced by	implant material
+metal-on-polyethylene	is a type of	bearing surface
+ceramic-on-ceramic	is a type of	bearing surface
+hip replacement	has risk	metal ion release
+hip replacement	requires	long-term follow-up
+hip replacement	affected by	patient compliance
+hip replacement	influenced by	rehabilitation protocol
+hip replacement	followed by	home modifications
+hip replacement	improves	sleep quality
+hip replacement	reduces	opioid use
+hip replacement	affected by	psychological factors
+hip replacement	requires	patient education
+hip replacement	influenced by	hospital volume
+hip replacement	has better outcomes	high-volume centers
+hip replacement	affected by	surgical team
+hip replacement	requires	sterile technique
+hip replacement	uses	surgical navigation
+computer-assisted surgery	is a type of	surgical technique
+hip replacement	influenced by	preoperative education
+hip replacement	requires	discharge planning
+hip replacement	followed by	outpatient therapy
+hip replacement	affected by	social support
+hip replacement	improves	activities of daily living
+hip replacement	reduces	caregiver burden
+hip replacement	influenced by	postoperative nutrition

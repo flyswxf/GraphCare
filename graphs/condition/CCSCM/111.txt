@@ -1,0 +1,100 @@
+other and ill-defined cerebrovascular disease	is a	cerebrovascular disorder
+other and ill-defined cerebrovascular disease	may cause	stroke
+other and ill-defined cerebrovascular disease	may lead to	neurological deficits
+other and ill-defined cerebrovascular disease	is diagnosed with	MRI
+other and ill-defined cerebrovascular disease	is diagnosed with	CT scan
+other and ill-defined cerebrovascular disease	may require	hospitalization
+other and ill-defined cerebrovascular disease	may result in	disability
+other and ill-defined cerebrovascular disease	has symptom	headache
+other and ill-defined cerebrovascular disease	has symptom	dizziness
+other and ill-defined cerebrovascular disease	has symptom	confusion
+other and ill-defined cerebrovascular disease	has risk factor	hypertension
+other and ill-defined cerebrovascular disease	has risk factor	diabetes
+other and ill-defined cerebrovascular disease	has risk factor	smoking
+other and ill-defined cerebrovascular disease	has risk factor	atherosclerosis
+other and ill-defined cerebrovascular disease	may cause	cognitive impairment
+other and ill-defined cerebrovascular disease	may lead to	dementia
+other and ill-defined cerebrovascular disease	is managed with	anticoagulants
+other and ill-defined cerebrovascular disease	is managed with	antiplatelets
+other and ill-defined cerebrovascular disease	may require	rehabilitation
+other and ill-defined cerebrovascular disease	has complication	seizures
+other and ill-defined cerebrovascular disease	has complication	aphasia
+other and ill-defined cerebrovascular disease	has complication	hemiparesis
+other and ill-defined cerebrovascular disease	is associated with	aging
+other and ill-defined cerebrovascular disease	may cause	depression
+other and ill-defined cerebrovascular disease	has subtype	transient ischemic attack
+other and ill-defined cerebrovascular disease	has subtype	vascular parkinsonism
+other and ill-defined cerebrovascular disease	has subtype	vascular dementia
+other and ill-defined cerebrovascular disease	is studied in	neurology
+other and ill-defined cerebrovascular disease	may affect	memory
+other and ill-defined cerebrovascular disease	may affect	balance
+other and ill-defined cerebrovascular disease	may require	physical therapy
+other and ill-defined cerebrovascular disease	may require	occupational therapy
+other and ill-defined cerebrovascular disease	has diagnostic code	ICD-10 I67.8
+other and ill-defined cerebrovascular disease	is monitored with	blood pressure measurement
+other and ill-defined cerebrovascular disease	is prevented by	healthy diet
+other and ill-defined cerebrovascular disease	is prevented by	exercise
+other and ill-defined cerebrovascular disease	has biomarker	C-reactive protein
+other and ill-defined cerebrovascular disease	has biomarker	homocysteine
+other and ill-defined cerebrovascular disease	may co-occur with	heart disease
+other and ill-defined cerebrovascular disease	may co-occur with	kidney disease
+other and ill-defined cerebrovascular disease	increases risk of	recurrent stroke
+other and ill-defined cerebrovascular disease	is researched in	clinical trials
+other and ill-defined cerebrovascular disease	has treatment option	statins
+other and ill-defined cerebrovascular disease	has treatment option	blood pressure medications
+other and ill-defined cerebrovascular disease	has emergency symptom	sudden weakness
+other and ill-defined cerebrovascular disease	has emergency symptom	vision loss
+other and ill-defined cerebrovascular disease	has emergency symptom	speech difficulty
+other and ill-defined cerebrovascular disease	requires	neurological examination
+other and ill-defined cerebrovascular disease	may involve	carotid arteries
+other and ill-defined cerebrovascular disease	may involve	vertebrobasilar system
+other and ill-defined cerebrovascular disease	has imaging finding	white matter lesions
+other and ill-defined cerebrovascular disease	has imaging finding	lacunar infarcts
+other and ill-defined cerebrovascular disease	is differentiated from	multiple sclerosis
+other and ill-defined cerebrovascular disease	is differentiated from	migraine
+other and ill-defined cerebrovascular disease	has prognostic factor	lesion volume
+other and ill-defined cerebrovascular disease	has prognostic factor	age
+other and ill-defined cerebrovascular disease	may cause	gait disturbance
+other and ill-defined cerebrovascular disease	may cause	urinary incontinence
+other and ill-defined cerebrovascular disease	is associated with	sleep apnea
+other and ill-defined cerebrovascular disease	is associated with	atrial fibrillation
+other and ill-defined cerebrovascular disease	has genetic factor	MTHFR mutation
+other and ill-defined cerebrovascular disease	has environmental factor	air pollution
+other and ill-defined cerebrovascular disease	has pathology	small vessel disease
+other and ill-defined cerebrovascular disease	has pathology	endothelial dysfunction
+other and ill-defined cerebrovascular disease	is treated by	neurologist
+other and ill-defined cerebrovascular disease	is treated by	vascular specialist
+other and ill-defined cerebrovascular disease	may require	carotid endarterectomy
+other and ill-defined cerebrovascular disease	may require	angioplasty
+other and ill-defined cerebrovascular disease	has prevention strategy	smoking cessation
+other and ill-defined cerebrovascular disease	has prevention strategy	weight control
+other and ill-defined cerebrovascular disease	has comorbidity	dyslipidemia
+other and ill-defined cerebrovascular disease	has comorbidity	metabolic syndrome
+other and ill-defined cerebrovascular disease	affects	cerebral blood flow
+other and ill-defined cerebrovascular disease	alters	neurovascular coupling
+other and ill-defined cerebrovascular disease	may lead to	institutionalization
+other and ill-defined cerebrovascular disease	impacts	quality of life
+other and ill-defined cerebrovascular disease	increases	healthcare costs
+other and ill-defined cerebrovascular disease	is subject to	clinical guidelines
+other and ill-defined cerebrovascular disease	has rehabilitation approach	cognitive therapy
+other and ill-defined cerebrovascular disease	has rehabilitation approach	speech therapy
+other and ill-defined cerebrovascular disease	is monitored with	annual checkups
+other and ill-defined cerebrovascular disease	is monitored with	lipid profile
+other and ill-defined cerebrovascular disease	has acute management	thrombolysis
+other and ill-defined cerebrovascular disease	has acute management	blood pressure control
+other and ill-defined cerebrovascular disease	may trigger	neuroinflammation
+other and ill-defined cerebrovascular disease	may trigger	oxidative stress
+other and ill-defined cerebrovascular disease	has research focus	neuroprotection
+other and ill-defined cerebrovascular disease	has research focus	biomarkers
+other and ill-defined cerebrovascular disease	is documented in	medical records
+other and ill-defined cerebrovascular disease	is reported in	epidemiological studies
+other and ill-defined cerebrovascular disease	affects	brain connectivity
+other and ill-defined cerebrovascular disease	alters	neuroplasticity
+other and ill-defined cerebrovascular disease	has assessment tool	NIH Stroke Scale
+other and ill-defined cerebrovascular disease	has assessment tool	Modified Rankin Scale
+other and ill-defined cerebrovascular disease	is associated with	vascular depression
+other and ill-defined cerebrovascular disease	is associated with	pseudobulbar affect
+other and ill-defined cerebrovascular disease	may benefit from	Mediterranean diet
+other and ill-defined cerebrovascular disease	may benefit from	DASH diet
+other and ill-defined cerebrovascular disease	has educational resource	patient leaflets
+other and ill-defined cerebrovascular disease	has support resource	stroke support groups

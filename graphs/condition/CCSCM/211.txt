@@ -1,0 +1,100 @@
+other connective tissue disease	is a	autoimmune disorder
+other connective tissue disease	may include	mixed connective tissue disease
+other connective tissue disease	may include	undifferentiated connective tissue disease
+other connective tissue disease	may include	overlap syndrome
+other connective tissue disease	shares features with	rheumatoid arthritis
+other connective tissue disease	shares features with	systemic sclerosis
+other connective tissue disease	shares features with	polymyositis
+other connective tissue disease	may cause	joint pain
+other connective tissue disease	may cause	muscle weakness
+other connective tissue disease	may cause	skin changes
+other connective tissue disease	may cause	Raynaud phenomenon
+other connective tissue disease	may cause	interstitial lung disease
+other connective tissue disease	may cause	pulmonary hypertension
+other connective tissue disease	may cause	esophageal dysmotility
+other connective tissue disease	may cause	fatigue
+other connective tissue disease	may cause	fever
+other connective tissue disease	may cause	weight loss
+other connective tissue disease	may cause	dry eyes
+other connective tissue disease	may cause	dry mouth
+other connective tissue disease	may cause	kidney dysfunction
+other connective tissue disease	may cause	anemia
+other connective tissue disease	may cause	leukopenia
+other connective tissue disease	may cause	thrombocytopenia
+other connective tissue disease	may require	immunosuppressive therapy
+other connective tissue disease	may require	corticosteroids
+other connective tissue disease	may require	disease-modifying antirheumatic drugs
+other connective tissue disease	may require	biologic agents
+other connective tissue disease	may require	physical therapy
+other connective tissue disease	may require	pulmonary rehabilitation
+other connective tissue disease	may require	oxygen therapy
+other connective tissue disease	may require	gastroprotection
+other connective tissue disease	may require	calcium channel blockers
+other connective tissue disease	may require	proton pump inhibitors
+other connective tissue disease	may require	diuretics
+other connective tissue disease	may require	anticoagulants
+other connective tissue disease	may require	pulmonary vasodilators
+other connective tissue disease	may require	renal replacement therapy
+other connective tissue disease	may require	joint replacement
+other connective tissue disease	may require	nutritional support
+other connective tissue disease	may require	pain management
+other connective tissue disease	may require	psychological support
+other connective tissue disease	is diagnosed with	clinical examination
+other connective tissue disease	is diagnosed with	laboratory tests
+other connective tissue disease	is diagnosed with	imaging studies
+other connective tissue disease	is diagnosed with	biopsy
+other connective tissue disease	is diagnosed with	pulmonary function tests
+other connective tissue disease	is diagnosed with	echocardiography
+other connective tissue disease	is diagnosed with	capillaroscopy
+other connective tissue disease	is diagnosed with	esophageal manometry
+other connective tissue disease	is associated with	antinuclear antibodies
+other connective tissue disease	is associated with	anti-U1-RNP antibodies
+other connective tissue disease	is associated with	rheumatoid factor
+other connective tissue disease	is associated with	anti-CCP antibodies
+other connective tissue disease	is associated with	anti-SSA antibodies
+other connective tissue disease	is associated with	anti-SSB antibodies
+other connective tissue disease	is associated with	anti-dsDNA antibodies
+other connective tissue disease	is associated with	anti-Sm antibodies
+other connective tissue disease	is associated with	anti-centromere antibodies
+other connective tissue disease	is associated with	anti-topoisomerase antibodies
+other connective tissue disease	is associated with	hypergammaglobulinemia
+other connective tissue disease	is associated with	complement consumption
+other connective tissue disease	is associated with	elevated ESR
+other connective tissue disease	is associated with	elevated CRP
+other connective tissue disease	is associated with	creatine kinase elevation
+other connective tissue disease	is associated with	aldolase elevation
+other connective tissue disease	is associated with	lymphadenopathy
+other connective tissue disease	is associated with	hepatomegaly
+other connective tissue disease	is associated with	splenomegaly
+other connective tissue disease	is associated with	pleuritis
+other connective tissue disease	is associated with	pericarditis
+other connective tissue disease	is associated with	myocarditis
+other connective tissue disease	is associated with	vasculitis
+other connective tissue disease	is associated with	sicca symptoms
+other connective tissue disease	is associated with	photosensitivity
+other connective tissue disease	is associated with	malar rash
+other connective tissue disease	is associated with	sclerodactyly
+other connective tissue disease	is associated with	calcinosis
+other connective tissue disease	is associated with	telangiectasia
+other connective tissue disease	is associated with	digital ulcers
+other connective tissue disease	is associated with	Gottron papules
+other connective tissue disease	is associated with	mechanic's hands
+other connective tissue disease	is associated with	proximal muscle weakness
+other connective tissue disease	is associated with	dysphagia
+other connective tissue disease	is associated with	gastroesophageal reflux
+other connective tissue disease	is associated with	constipation
+other connective tissue disease	is associated with	diarrhea
+other connective tissue disease	is associated with	malabsorption
+other connective tissue disease	is associated with	osteoporosis
+other connective tissue disease	is associated with	avascular necrosis
+other connective tissue disease	is associated with	secondary fibromyalgia
+other connective tissue disease	is associated with	depression
+other connective tissue disease	is associated with	anxiety
+other connective tissue disease	is associated with	cognitive dysfunction
+other connective tissue disease	is associated with	sleep disturbance
+other connective tissue disease	is associated with	increased infection risk
+other connective tissue disease	is associated with	increased malignancy risk
+other connective tissue disease	is associated with	increased cardiovascular risk
+other connective tissue disease	is associated with	increased mortality
+other connective tissue disease	is associated with	reduced quality of life
+other connective tissue disease	requires	multidisciplinary care

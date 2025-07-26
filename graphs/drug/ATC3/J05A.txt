@@ -1,0 +1,100 @@
+direct acting antivirals	is a	drug class
+direct acting antivirals	targets	viruses
+direct acting antivirals	treats	hepatitis C
+direct acting antivirals	inhibits	viral replication
+direct acting antivirals	includes	NS5A inhibitors
+direct acting antivirals	includes	protease inhibitors
+direct acting antivirals	includes	polymerase inhibitors
+direct acting antivirals	has	high efficacy
+direct acting antivirals	reduces	treatment duration
+direct acting antivirals	improves	cure rates
+direct acting antivirals	decreases	liver damage
+direct acting antivirals	prevents	cirrhosis
+direct acting antivirals	lowers	viral load
+direct acting antivirals	requires	genotype testing
+direct acting antivirals	may cause	fatigue
+direct acting antivirals	may cause	headache
+direct acting antivirals	may cause	nausea
+direct acting antivirals	interacts with	amiodarone
+direct acting antivirals	contraindicated in	severe liver disease
+direct acting antivirals	monitored with	liver function tests
+NS5A inhibitors	includes	ledipasvir
+NS5A inhibitors	includes	daclatasvir
+NS5A inhibitors	includes	velpatasvir
+protease inhibitors	includes	grazoprevir
+protease inhibitors	includes	glecaprevir
+polymerase inhibitors	includes	sofosbuvir
+polymerase inhibitors	includes	dasabuvir
+hepatitis C	caused by	HCV
+hepatitis C	leads to	chronic infection
+hepatitis C	transmitted via	blood
+hepatitis C	risk factor	intravenous drug use
+hepatitis C	complication	hepatocellular carcinoma
+HCV	has	genotypes
+HCV genotypes	affect	treatment choice
+viral replication	requires	viral enzymes
+viral enzymes	targeted by	direct acting antivirals
+liver damage	measured by	fibrosis score
+fibrosis score	predicts	disease progression
+cirrhosis	increases	mortality risk
+viral load	indicates	treatment response
+genotype testing	determines	drug regimen
+fatigue	managed with	rest
+headache	treated with	analgesics
+nausea	relieved by	antiemetics
+amiodarone	causes	arrhythmias
+severe liver disease	contraindicates	certain drugs
+liver function tests	monitor	ALT levels
+ALT levels	indicate	liver inflammation
+ledipasvir	combined with	sofosbuvir
+daclatasvir	used with	asunaprevir
+velpatasvir	paired with	sofosbuvir
+grazoprevir	combined with	elbasvir
+glecaprevir	paired with	pibrentasvir
+sofosbuvir	is a	nucleotide analog
+dasabuvir	inhibits	NS5B polymerase
+chronic infection	leads to	liver fibrosis
+blood transmission	prevented by	screening
+intravenous drug use	prevented by	needle exchange
+hepatocellular carcinoma	screened with	ultrasound
+treatment choice	based on	resistance testing
+viral enzymes	include	NS3/4A protease
+fibrosis score	ranges from	F0 to F4
+disease progression	leads to	decompensation
+mortality risk	reduced by	antiviral therapy
+treatment response	measured by	SVR
+SVR	indicates	viral eradication
+drug regimen	adjusted for	renal impairment
+rest	improves	fatigue symptoms
+analgesics	include	acetaminophen
+antiemetics	include	ondansetron
+arrhythmias	monitored with	ECG
+certain drugs	avoided in	pregnancy
+ALT levels	elevated in	hepatitis
+liver inflammation	treated with	antivirals
+sofosbuvir	has	high barrier to resistance
+asunaprevir	is a	protease inhibitor
+elbasvir	is a	NS5A inhibitor
+pibrentasvir	is a	NS3/4A inhibitor
+nucleotide analog	mimics	natural substrates
+NS5B polymerase	essential for	viral RNA synthesis
+liver fibrosis	reversible with	treatment
+screening	detects	HCV antibodies
+needle exchange	reduces	transmission risk
+ultrasound	detects	liver lesions
+resistance testing	identifies	mutations
+NS3/4A protease	cleaves	viral polyprotein
+F0 to F4	represents	fibrosis severity
+decompensation	causes	ascites
+antiviral therapy	prevents	complications
+viral eradication	confirmed by	PCR
+renal impairment	requires	dose adjustment
+fatigue symptoms	assessed by	questionnaires
+acetaminophen	contraindicated in	high doses
+ondansetron	blocks	5-HT3 receptors
+ECG	detects	QT prolongation
+pregnancy	requires	ribavirin caution
+hepatitis	diagnosed by	liver biopsy
+high barrier to resistance	prevents	treatment failure
+viral RNA synthesis	necessary for	infection
+HCV antibodies	indicate	past exposure

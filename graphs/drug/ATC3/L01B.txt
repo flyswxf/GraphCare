@@ -1,0 +1,100 @@
+antimetabolites	is a	chemotherapeutic agent
+antimetabolites	inhibit	DNA synthesis
+antimetabolites	interfere with	RNA synthesis
+antimetabolites	used to treat	cancer
+antimetabolites	used to treat	autoimmune diseases
+antimetabolites	include	methotrexate
+antimetabolites	include	5-fluorouracil
+antimetabolites	include	cytarabine
+antimetabolites	include	mercaptopurine
+antimetabolites	mimic	metabolites
+methotrexate	inhibits	dihydrofolate reductase
+5-fluorouracil	inhibits	thymidylate synthase
+cytarabine	inhibits	DNA polymerase
+mercaptopurine	inhibits	purine synthesis
+antimetabolites	can cause	myelosuppression
+antimetabolites	can cause	mucositis
+antimetabolites	can cause	hepatotoxicity
+antimetabolites	can cause	nephrotoxicity
+antimetabolites	require	dose adjustment
+antimetabolites	exhibit	cell cycle specificity
+antimetabolites	are	S-phase specific
+antimetabolites	can be	folate antagonists
+antimetabolites	can be	pyrimidine analogs
+antimetabolites	can be	purine analogs
+methotrexate	treats	rheumatoid arthritis
+methotrexate	treats	psoriasis
+5-fluorouracil	treats	colorectal cancer
+5-fluorouracil	treats	breast cancer
+cytarabine	treats	acute myeloid leukemia
+mercaptopurine	treats	acute lymphoblastic leukemia
+antimetabolites	require	monitoring
+monitoring	includes	blood counts
+monitoring	includes	liver function
+monitoring	includes	renal function
+antimetabolites	have	drug interactions
+antimetabolites	interact with	NSAIDs
+antimetabolites	interact with	proton pump inhibitors
+antimetabolites	interact with	sulfonamides
+antimetabolites	are metabolized by	liver
+antimetabolites	excreted through	kidneys
+antimetabolites	contraindicated in	pregnancy
+antimetabolites	contraindicated in	liver disease
+antimetabolites	contraindicated in	renal impairment
+antimetabolites	require	leucovorin rescue
+leucovorin	reduces	toxicity
+antimetabolites	can lead to	tumor lysis syndrome
+tumor lysis syndrome	requires	hydration
+tumor lysis syndrome	requires	allopurinol
+antimetabolites	have	oral formulations
+antimetabolites	have	intravenous formulations
+antimetabolites	have	subcutaneous formulations
+antimetabolites	may require	combination therapy
+combination therapy	includes	platinum agents
+combination therapy	includes	taxanes
+combination therapy	includes	anthracyclines
+antimetabolites	show	dose-response relationship
+antimetabolites	affected by	drug resistance
+drug resistance	caused by	enzyme mutations
+drug resistance	caused by	efflux pumps
+antimetabolites	used in	adjuvant therapy
+antimetabolites	used in	neoadjuvant therapy
+antimetabolites	used in	palliative care
+antimetabolites	affect	rapidly dividing cells
+rapidly dividing cells	include	cancer cells
+rapidly dividing cells	include	bone marrow cells
+rapidly dividing cells	include	gastrointestinal cells
+antimetabolites	can cause	alopecia
+antimetabolites	can cause	diarrhea
+antimetabolites	can cause	hand-foot syndrome
+antimetabolites	have	therapeutic index
+therapeutic index	determines	safety margin
+antimetabolites	may require	therapeutic drug monitoring
+therapeutic drug monitoring	optimizes	dosing
+antimetabolites	have	generic versions
+antimetabolites	have	brand name versions
+antimetabolites	patented in	20th century
+antimetabolites	discovered through	drug screening
+drug screening	involves	cell cultures
+drug screening	involves	animal models
+antimetabolites	undergo	clinical trials
+clinical trials	assess	efficacy
+clinical trials	assess	safety
+antimetabolites	approved by	FDA
+antimetabolites	included in	treatment guidelines
+treatment guidelines	published by	NCCN
+treatment guidelines	published by	ASCO
+antimetabolites	have	mechanism of action
+mechanism of action	involves	enzyme inhibition
+mechanism of action	involves	DNA damage
+antimetabolites	show	synergistic effects
+synergistic effects	occur with	radiation therapy
+antimetabolites	stored at	room temperature
+antimetabolites	have	expiration dates
+antimetabolites	prescribed by	oncologists
+antimetabolites	prescribed by	rheumatologists
+antimetabolites	administered by	nurses
+antimetabolites	covered by	insurance
+antimetabolites	have	cost considerations
+antimetabolites	subject to	prior authorization
+antimetabolites	require	patient education

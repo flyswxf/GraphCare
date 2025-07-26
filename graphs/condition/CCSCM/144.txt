@@ -1,0 +1,100 @@
+regional enteritis	is a type of	inflammatory bowel disease
+ulcerative colitis	is a type of	inflammatory bowel disease
+regional enteritis	affects	small intestine
+ulcerative colitis	affects	colon
+regional enteritis	may cause	abdominal pain
+ulcerative colitis	may cause	bloody diarrhea
+inflammatory bowel disease	increases risk of	colorectal cancer
+regional enteritis	is associated with	malnutrition
+ulcerative colitis	is associated with	anemia
+regional enteritis	may lead to	bowel obstruction
+ulcerative colitis	may lead to	toxic megacolon
+regional enteritis	is diagnosed with	colonoscopy
+ulcerative colitis	is diagnosed with	sigmoidoscopy
+inflammatory bowel disease	requires	immunosuppressants
+regional enteritis	is treated with	anti-TNF therapy
+ulcerative colitis	is treated with	aminosalicylates
+inflammatory bowel disease	affects	quality of life
+regional enteritis	may cause	fistulas
+ulcerative colitis	may cause	ulcers
+inflammatory bowel disease	has	genetic predisposition
+regional enteritis	is also called	Crohn's disease
+inflammatory bowel disease	is chronic	condition
+regional enteritis	may affect	any digestive tract part
+ulcerative colitis	affects only	large intestine
+inflammatory bowel disease	has	flare-ups
+regional enteritis	may require	surgery
+ulcerative colitis	may require	colectomy
+inflammatory bowel disease	is more common in	developed countries
+regional enteritis	is associated with	smoking
+ulcerative colitis	is associated with	non-smoking
+inflammatory bowel disease	has	autoimmune component
+regional enteritis	may cause	strictures
+ulcerative colitis	may cause	pseudopolyps
+inflammatory bowel disease	requires	long-term management
+regional enteritis	may lead to	short bowel syndrome
+ulcerative colitis	may lead to	colon perforation
+inflammatory bowel disease	affects	mental health
+regional enteritis	is diagnosed with	capsule endoscopy
+ulcerative colitis	is diagnosed with	biopsy
+inflammatory bowel disease	has	extraintestinal manifestations
+regional enteritis	may cause	arthritis
+ulcerative colitis	may cause	uveitis
+inflammatory bowel disease	is treated with	biologics
+regional enteritis	responds to	enteral nutrition
+ulcerative colitis	responds to	topical therapy
+inflammatory bowel disease	requires	multidisciplinary care
+regional enteritis	has	transmural inflammation
+ulcerative colitis	has	mucosal inflammation
+inflammatory bowel disease	affects	young adults
+regional enteritis	may cause	perianal disease
+ulcerative colitis	may cause	primary sclerosing cholangitis
+inflammatory bowel disease	is associated with	dysbiosis
+regional enteritis	may lead to	abscesses
+ulcerative colitis	may lead to	fulminant colitis
+inflammatory bowel disease	requires	regular monitoring
+regional enteritis	is diagnosed with	MRI enterography
+ulcerative colitis	is diagnosed with	stool tests
+inflammatory bowel disease	increases	healthcare costs
+regional enteritis	may cause	growth retardation
+ulcerative colitis	may cause	osteoporosis
+inflammatory bowel disease	is treated with	corticosteroids
+regional enteritis	responds to	immunomodulators
+ulcerative colitis	responds to	JAK inhibitors
+inflammatory bowel disease	requires	dietary modifications
+regional enteritis	has	skip lesions
+ulcerative colitis	has	continuous inflammation
+inflammatory bowel disease	affects	fertility
+regional enteritis	may cause	aphthous ulcers
+ulcerative colitis	may cause	erythema nodosum
+inflammatory bowel disease	is associated with	stress
+regional enteritis	may lead to	enteric fistulas
+ulcerative colitis	may lead to	pouchitis
+inflammatory bowel disease	requires	patient education
+regional enteritis	is diagnosed with	balloon-assisted enteroscopy
+ulcerative colitis	is diagnosed with	CT scan
+inflammatory bowel disease	increases	hospitalization rates
+regional enteritis	may cause	vitamin deficiencies
+ulcerative colitis	may cause	dehydration
+inflammatory bowel disease	is treated with	antibiotics
+regional enteritis	responds to	exclusive enteral nutrition
+ulcerative colitis	responds to	fecal microbiota transplantation
+inflammatory bowel disease	requires	vaccination adjustments
+regional enteritis	has	granulomas
+ulcerative colitis	has	crypt abscesses
+inflammatory bowel disease	affects	pregnancy outcomes
+regional enteritis	may cause	pyoderma gangrenosum
+ulcerative colitis	may cause	thromboembolism
+inflammatory bowel disease	is associated with	microbiome changes
+regional enteritis	may lead to	intestinal failure
+ulcerative colitis	may lead to	dysplasia
+inflammatory bowel disease	requires	psychological support
+regional enteritis	is diagnosed with	small bowel follow-through
+ulcerative colitis	is diagnosed with	calprotectin test
+inflammatory bowel disease	increases	mortality risk
+regional enteritis	may cause	bile acid malabsorption
+ulcerative colitis	may cause	electrolyte imbalances
+inflammatory bowel disease	is treated with	surgery
+regional enteritis	responds to	anti-integrin therapy
+ulcerative colitis	responds to	IL-12/23 inhibitors
+inflammatory bowel disease	requires	personalized treatment

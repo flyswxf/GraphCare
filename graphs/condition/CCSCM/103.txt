@@ -1,0 +1,100 @@
+pulmonary heart disease	is a	heart condition
+pulmonary heart disease	caused by	pulmonary hypertension
+pulmonary hypertension	causes	right ventricular hypertrophy
+right ventricular hypertrophy	leads to	heart failure
+heart failure	increases risk of	mortality
+pulmonary heart disease	associated with	chronic lung disease
+chronic lung disease	includes	COPD
+COPD	leads to	hypoxemia
+hypoxemia	worsens	pulmonary hypertension
+pulmonary heart disease	diagnosed with	echocardiography
+echocardiography	measures	right ventricular pressure
+right ventricular pressure	indicates	pulmonary hypertension
+pulmonary heart disease	treated with	diuretics
+diuretics	reduce	fluid retention
+fluid retention	exacerbates	heart failure
+pulmonary heart disease	managed with	oxygen therapy
+oxygen therapy	improves	hypoxemia
+hypoxemia	aggravates	pulmonary hypertension
+pulmonary heart disease	linked to	sleep apnea
+sleep apnea	causes	nocturnal hypoxemia
+nocturnal hypoxemia	worsens	right heart strain
+pulmonary heart disease	increases risk of	arrhythmias
+arrhythmias	may lead to	sudden cardiac death
+pulmonary heart disease	requires	anticoagulants
+anticoagulants	prevent	thromboembolism
+thromboembolism	exacerbates	pulmonary hypertension
+pulmonary heart disease	monitored via	BNP levels
+BNP levels	indicate	heart failure severity
+heart failure severity	predicts	prognosis
+pulmonary heart disease	influenced by	smoking
+smoking	contributes to	COPD
+COPD	progresses to	pulmonary hypertension
+pulmonary heart disease	associated with	obesity
+obesity	increases risk of	sleep apnea
+sleep apnea	worsens	pulmonary hypertension
+pulmonary heart disease	treated with	vasodilators
+vasodilators	reduce	pulmonary artery pressure
+pulmonary artery pressure	affects	right heart function
+pulmonary heart disease	linked to	interstitial lung disease
+interstitial lung disease	results in	pulmonary fibrosis
+pulmonary fibrosis	raises	pulmonary vascular resistance
+pulmonary vascular resistance	causes	right heart strain
+pulmonary heart disease	screened via	chest X-ray
+chest X-ray	shows	enlarged right ventricle
+enlarged right ventricle	suggests	pulmonary hypertension
+pulmonary heart disease	worsened by	high altitude
+high altitude	induces	hypoxemia
+hypoxemia	elevates	pulmonary artery pressure
+pulmonary heart disease	managed by	pulmonary rehabilitation
+pulmonary rehabilitation	improves	exercise capacity
+exercise capacity	reflects	disease severity
+pulmonary heart disease	correlated with	left heart disease
+left heart disease	leads to	secondary pulmonary hypertension
+secondary pulmonary hypertension	complicates	pulmonary heart disease
+pulmonary heart disease	tested with	right heart catheterization
+right heart catheterization	confirms	pulmonary hypertension
+pulmonary hypertension	classified by	WHO groups
+WHO groups	guide	treatment strategy
+pulmonary heart disease	may require	lung transplantation
+lung transplantation	resolves	pulmonary hypertension
+pulmonary hypertension	recurs in	chronic rejection
+chronic rejection	limits	transplant survival
+pulmonary heart disease	influenced by	genetics
+genetics	affect	BMPR2 mutations
+BMPR2 mutations	predispose to	pulmonary hypertension
+pulmonary hypertension	treated with	endothelin receptor antagonists
+endothelin receptor antagonists	reduce	vascular resistance
+vascular resistance	impacts	cardiac output
+pulmonary heart disease	aggravated by	pregnancy
+pregnancy	increases	cardiac workload
+cardiac workload	stresses	right ventricle
+pulmonary heart disease	contraindicates	high-intensity exercise
+high-intensity exercise	risks	acute decompensation
+acute decompensation	leads to	hospitalization
+pulmonary heart disease	monitored by	6-minute walk test
+6-minute walk test	assesses	functional capacity
+functional capacity	predicts	survival
+pulmonary heart disease	associated with	liver congestion
+liver congestion	results from	right heart failure
+right heart failure	causes	ascites
+ascites	managed with	paracentesis
+pulmonary heart disease	linked to	thrombophilia
+thrombophilia	increases risk of	pulmonary embolism
+pulmonary embolism	worsens	pulmonary hypertension
+pulmonary heart disease	treated with	PDE-5 inhibitors
+PDE-5 inhibitors	dilate	pulmonary arteries
+pulmonary arteries	carry	deoxygenated blood
+deoxygenated blood	returns to	right atrium
+right atrium	contracts into	right ventricle
+right ventricle	pumps to	pulmonary artery
+pulmonary artery	supplies	lungs
+lungs	oxygenate	blood
+oxygenated blood	enters	left heart
+left heart	circulates	systemic blood
+systemic blood	delivers	oxygen to tissues
+tissues	require	oxygen for metabolism
+metabolism	produces	carbon dioxide
+carbon dioxide	exhaled by	lungs
+lungs	impaired in	pulmonary heart disease
+pulmonary heart disease	reduces	quality of life

@@ -1,0 +1,100 @@
+antigout preparations	treat	gout
+antigout preparations	include	allopurinol
+antigout preparations	include	febuxostat
+antigout preparations	include	colchicine
+antigout preparations	include	probenecid
+allopurinol	inhibits	xanthine oxidase
+xanthine oxidase	converts	hypoxanthine
+hypoxanthine	converts	xanthine
+xanthine	converts	uric acid
+uric acid	causes	hyperuricemia
+hyperuricemia	leads to	gout
+febuxostat	inhibits	xanthine oxidase
+colchicine	reduces	inflammation
+inflammation	caused by	gout flares
+probenecid	increases	uric acid excretion
+uric acid excretion	occurs in	kidneys
+kidneys	filter	blood
+blood	contains	uric acid
+gout	affects	joints
+joints	experience	pain
+pain	managed by	NSAIDs
+NSAIDs	include	ibuprofen
+NSAIDs	include	naproxen
+gout flares	triggered by	purine-rich foods
+purine-rich foods	include	red meat
+purine-rich foods	include	seafood
+alcohol	increases	uric acid levels
+uric acid levels	measured by	blood test
+blood test	detects	hyperuricemia
+gout	associated with	tophi
+tophi	are	urate crystals
+urate crystals	deposit in	tissues
+tissues	include	skin
+tissues	include	cartilage
+cartilage	cushions	joints
+gout	more common in	men
+men	have higher	uric acid levels
+uric acid levels	influenced by	genetics
+genetics	affect	enzyme activity
+enzyme activity	impacts	uric acid production
+allopurinol	metabolized by	liver
+liver	processes	drugs
+drugs	excreted by	kidneys
+kidney dysfunction	affects	drug clearance
+drug clearance	determines	dosage
+dosage	adjusted for	elderly
+elderly	have reduced	kidney function
+colchicine	derived from	autumn crocus
+autumn crocus	is a	plant
+plant	contains	alkaloids
+alkaloids	have	medicinal properties
+probenecid	interacts with	penicillin
+penicillin	is a	antibiotic
+antibiotic	treats	infections
+infections	can trigger	gout flares
+febuxostat	preferred for	kidney patients
+kidney patients	avoid	allopurinol
+allopurinol	causes	rash
+rash	may indicate	hypersensitivity
+hypersensitivity	requires	discontinuation
+discontinuation	leads to	alternative therapy
+alternative therapy	includes	febuxostat
+gout	linked to	metabolic syndrome
+metabolic syndrome	includes	obesity
+obesity	increases	uric acid production
+uric acid production	reduced by	diet
+diet	low in	purines
+purines	break down into	uric acid
+gout	increases risk of	kidney stones
+kidney stones	composed of	uric acid
+uric acid stones	treated with	hydration
+hydration	dilutes	urine
+urine	excretes	uric acid
+antigout preparations	prevent	joint damage
+joint damage	results from	chronic gout
+chronic gout	requires	long-term treatment
+long-term treatment	involves	urate-lowering therapy
+urate-lowering therapy	includes	allopurinol
+allopurinol	requires	dose titration
+dose titration	minimizes	side effects
+side effects	include	gastrointestinal upset
+gastrointestinal upset	managed with	food
+food	taken with	medications
+medications	absorbed in	intestines
+intestines	part of	digestive system
+digestive system	affected by	colchicine
+colchicine	causes	diarrhea
+diarrhea	leads to	dehydration
+dehydration	worsens	gout
+gout	managed with	lifestyle changes
+lifestyle changes	include	weight loss
+weight loss	reduces	uric acid levels
+uric acid levels	monitored by	rheumatologist
+rheumatologist	specializes in	arthritis
+arthritis	includes	gout
+gout	historically called	disease of kings
+disease of kings	associated with	rich diet
+rich diet	high in	meat
+meat	contains	purines
+purines	metabolized into	uric acid

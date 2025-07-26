@@ -1,0 +1,100 @@
+treatment	manages	fracture of radius and ulna
+treatment	manages	dislocation of radius and ulna
+fracture of radius and ulna	requires	immobilization
+dislocation of radius and ulna	requires	reduction
+immobilization	involves	cast
+immobilization	involves	splint
+reduction	performed by	orthopedic surgeon
+reduction	can be	closed reduction
+reduction	can be	open reduction
+closed reduction	uses	manual manipulation
+open reduction	requires	surgery
+surgery	may involve	internal fixation
+internal fixation	uses	plates
+internal fixation	uses	screws
+internal fixation	uses	pins
+fracture of radius and ulna	causes	pain
+dislocation of radius and ulna	causes	pain
+pain	managed by	analgesics
+analgesics	include	NSAIDs
+analgesics	include	opioids
+NSAIDs	example	ibuprofen
+opioids	example	oxycodone
+fracture of radius and ulna	may lead	nerve damage
+dislocation of radius and ulna	may lead	nerve damage
+nerve damage	causes	numbness
+nerve damage	causes	weakness
+fracture of radius and ulna	may lead	compartment syndrome
+compartment syndrome	treated by	fasciotomy
+fasciotomy	prevents	tissue necrosis
+tissue necrosis	results from	ischemia
+fracture of radius and ulna	may require	physical therapy
+dislocation of radius and ulna	may require	physical therapy
+physical therapy	improves	range of motion
+physical therapy	improves	strength
+range of motion	measured by	goniometer
+fracture of radius and ulna	classified by	location
+location	includes	distal radius fracture
+location	includes	proximal ulna fracture
+distal radius fracture	common in	elderly
+distal radius fracture	mechanism	fall
+fall	risk factor	osteoporosis
+osteoporosis	managed by	bisphosphonates
+bisphosphonates	example	alendronate
+fracture of radius and ulna	diagnosed by	X-ray
+dislocation of radius and ulna	diagnosed by	X-ray
+X-ray	confirms	bone alignment
+bone alignment	important for	healing
+healing	influenced by	nutrition
+nutrition	requires	calcium
+nutrition	requires	vitamin D
+calcium	found in	dairy
+vitamin D	synthesized by	sunlight
+fracture of radius and ulna	complication	nonunion
+dislocation of radius and ulna	complication	recurrent instability
+nonunion	treated by	bone grafting
+bone grafting	uses	autograft
+bone grafting	uses	allograft
+autograft	harvested from	iliac crest
+recurrent instability	managed by	ligament repair
+ligament repair	involves	sutures
+sutures	material	absorbable
+sutures	material	non-absorbable
+fracture of radius and ulna	associated with	trauma
+trauma	mechanism	motor vehicle accident
+motor vehicle accident	prevention	seatbelt
+dislocation of radius and ulna	associated with	sports injury
+sports injury	prevention	protective gear
+protective gear	includes	wrist guards
+fracture of radius and ulna	affects	wrist joint
+dislocation of radius and ulna	affects	elbow joint
+wrist joint	stabilized by	ligaments
+elbow joint	stabilized by	collateral ligaments
+fracture of radius and ulna	may lead	stiffness
+stiffness	reduced by	early mobilization
+early mobilization	guided by	physiotherapist
+physiotherapist	teaches	exercises
+exercises	improve	flexibility
+flexibility	prevents	contractures
+contractures	complication	immobility
+immobility	causes	muscle atrophy
+muscle atrophy	reversed by	resistance training
+resistance training	uses	weights
+weights	adjustable	dumbbells
+fracture of radius and ulna	risk factor	osteoporosis
+osteoporosis	screened by	DEXA scan
+DEXA scan	measures	bone density
+bone density	indicator	fracture risk
+fracture risk	reduced by	weight-bearing exercise
+weight-bearing exercise	example	walking
+walking	beneficial for	cardiovascular health
+cardiovascular health	monitored by	blood pressure
+blood pressure	measured by	sphygmomanometer
+fracture of radius and ulna	recovery time	weeks to months
+recovery time	influenced by	age
+age	factor in	healing speed
+healing speed	affected by	smoking
+smoking	delays	bone healing
+bone healing	assessed by	follow-up imaging
+follow-up imaging	includes	CT scan
+CT scan	provides	3D reconstruction

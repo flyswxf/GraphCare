@@ -1,0 +1,100 @@
+other perinatal conditions	include	preterm birth
+other perinatal conditions	include	low birth weight
+other perinatal conditions	include	neonatal jaundice
+other perinatal conditions	include	birth asphyxia
+other perinatal conditions	include	meconium aspiration
+preterm birth	may lead to	respiratory distress syndrome
+low birth weight	increases risk of	infection
+neonatal jaundice	may require	phototherapy
+birth asphyxia	can cause	hypoxic-ischemic encephalopathy
+meconium aspiration	may lead to	pneumonia
+respiratory distress syndrome	is treated with	surfactant therapy
+infection	may require	antibiotics
+phototherapy	uses	blue light
+hypoxic-ischemic encephalopathy	may result in	cerebral palsy
+pneumonia	is diagnosed with	chest X-ray
+preterm birth	is associated with	premature rupture of membranes
+low birth weight	is linked to	maternal malnutrition
+neonatal jaundice	is caused by	hyperbilirubinemia
+birth asphyxia	may require	neonatal resuscitation
+meconium aspiration	is prevented by	suctioning
+surfactant therapy	reduces	lung collapse
+antibiotics	target	bacterial infections
+blue light	breaks down	bilirubin
+cerebral palsy	affects	motor function
+chest X-ray	detects	lung abnormalities
+premature rupture of membranes	increases risk of	chorioamnionitis
+maternal malnutrition	affects	fetal growth
+hyperbilirubinemia	is measured by	bilirubin test
+neonatal resuscitation	involves	chest compressions
+suctioning	clears	meconium
+lung collapse	impairs	oxygen exchange
+bacterial infections	are treated with	antimicrobials
+bilirubin	is a byproduct of	hemoglobin breakdown
+motor function	is assessed by	neurological exam
+lung abnormalities	may include	infiltrates
+chorioamnionitis	may require	early delivery
+fetal growth	is monitored by	ultrasound
+bilirubin test	uses	blood sample
+chest compressions	support	circulation
+meconium	is expelled by	fetus
+oxygen exchange	occurs in	alveoli
+antimicrobials	combat	pathogens
+hemoglobin breakdown	produces	iron
+neurological exam	evaluates	reflexes
+infiltrates	indicate	inflammation
+early delivery	may involve	cesarean section
+ultrasound	images	fetal development
+blood sample	is analyzed in	laboratory
+circulation	delivers	oxygen
+fetus	develops in	uterus
+alveoli	are part of	lungs
+pathogens	cause	disease
+iron	is stored in	liver
+reflexes	indicate	nervous system function
+inflammation	is a response to	injury
+cesarean section	is a	surgical procedure
+fetal development	depends on	placenta
+laboratory	performs	diagnostic tests
+oxygen	is transported by	red blood cells
+uterus	is part of	female reproductive system
+lungs	facilitate	breathing
+disease	manifests with	symptoms
+liver	metabolizes	toxins
+nervous system	controls	body functions
+injury	triggers	immune response
+surgical procedure	requires	anesthesia
+placenta	provides	nutrients
+diagnostic tests	aid in	treatment planning
+red blood cells	contain	hemoglobin
+female reproductive system	includes	ovaries
+breathing	involves	diaphragm
+symptoms	indicate	health status
+toxins	are filtered by	kidneys
+body functions	regulate	homeostasis
+immune response	involves	white blood cells
+anesthesia	prevents	pain
+nutrients	support	growth
+treatment planning	involves	healthcare team
+hemoglobin	binds	oxygen
+ovaries	produce	hormones
+diaphragm	contracts during	inhalation
+health status	is assessed by	physician
+kidneys	filter	blood
+homeostasis	maintains	internal balance
+white blood cells	fight	infection
+pain	is managed with	analgesics
+growth	depends on	genetics
+healthcare team	includes	nurses
+oxygen	is essential for	cellular respiration
+hormones	regulate	metabolism
+inhalation	brings in	air
+physician	prescribes	medications
+blood	carries	waste products
+internal balance	ensures	survival
+infection	triggers	fever
+analgesics	alleviate	discomfort
+genetics	determine	traits
+nurses	provide	patient care
+cellular respiration	produces	energy
+metabolism	converts	food into energy

@@ -1,0 +1,100 @@
+intravenous pyelogram	is a	diagnostic test
+intravenous pyelogram	uses	contrast dye
+intravenous pyelogram	evaluates	kidneys
+intravenous pyelogram	evaluates	ureters
+intravenous pyelogram	evaluates	bladder
+intravenous pyelogram	detects	kidney stones
+intravenous pyelogram	detects	tumors
+intravenous pyelogram	detects	blockages
+intravenous pyelogram	requires	X-ray
+intravenous pyelogram	involves	injection
+intravenous pyelogram	can cause	allergic reaction
+intravenous pyelogram	contraindicated in	pregnancy
+intravenous pyelogram	contraindicated in	renal failure
+intravenous pyelogram	requires	fasting
+intravenous pyelogram	requires	hydration
+intravenous pyelogram	alternative to	CT urogram
+intravenous pyelogram	alternative to	ultrasound
+intravenous pyelogram	assesses	urinary tract
+intravenous pyelogram	monitors	kidney function
+intravenous pyelogram	diagnoses	hydronephrosis
+intravenous pyelogram	evaluates	trauma
+intravenous pyelogram	detects	congenital abnormalities
+intravenous pyelogram	requires	patient preparation
+intravenous pyelogram	involves	radiologist
+intravenous pyelogram	involves	technician
+intravenous pyelogram	may cause	nausea
+intravenous pyelogram	may cause	vomiting
+intravenous pyelogram	may cause	flushing
+intravenous pyelogram	may cause	hypotension
+intravenous pyelogram	follows	bowel prep
+intravenous pyelogram	requires	consent form
+intravenous pyelogram	evaluates	hematuria
+intravenous pyelogram	evaluates	recurrent infections
+intravenous pyelogram	assesses	post-surgical changes
+intravenous pyelogram	less common than	CT scan
+intravenous pyelogram	historical use	urology
+intravenous pyelogram	superseded by	advanced imaging
+intravenous pyelogram	involves	multiple images
+intravenous pyelogram	requires	IV access
+intravenous pyelogram	timing depends on	kidney function
+intravenous pyelogram	may miss	small stones
+intravenous pyelogram	limited in	obese patients
+intravenous pyelogram	less sensitive than	MRI
+intravenous pyelogram	contraindicated in	iodine allergy
+intravenous pyelogram	evaluates	ureteral strictures
+intravenous pyelogram	assesses	renal cysts
+intravenous pyelogram	detects	bladder diverticula
+intravenous pyelogram	requires	patient cooperation
+intravenous pyelogram	may require	sedation
+intravenous pyelogram	involves	radiation exposure
+contrast dye	contains	iodine
+contrast dye	filtered by	kidneys
+contrast dye	excreted via	urine
+contrast dye	risk of	nephropathy
+contrast dye	interacts with	metformin
+kidney stones	cause	pain
+kidney stones	treated with	lithotripsy
+kidney stones	may require	surgery
+kidney stones	composed of	calcium
+kidney stones	risk factor	dehydration
+tumors	may be	malignant
+tumors	may be	benign
+tumors	diagnosed via	biopsy
+blockages	cause	hydronephrosis
+blockages	treated with	stent
+X-ray	uses	electromagnetic radiation
+X-ray	limited in	soft tissue
+allergic reaction	may require	antihistamines
+allergic reaction	may require	epinephrine
+renal failure	contraindicates	contrast
+CT urogram	more detailed than	IVP
+ultrasound	avoids	radiation
+hydronephrosis	indicates	obstruction
+bowel prep	improves	image quality
+hematuria	symptom of	cancer
+hematuria	symptom of	infection
+ureteral strictures	cause	pain
+ureteral strictures	treated with	dilation
+bladder diverticula	risk of	infection
+radiation exposure	risk of	cancer
+nephropathy	monitored via	creatinine
+metformin	withheld before	contrast
+lithotripsy	uses	shock waves
+stent	relieves	obstruction
+malignant tumor	requires	oncology
+benign tumor	may require	monitoring
+epinephrine	treats	anaphylaxis
+antihistamines	reduce	itching
+creatinine	indicates	kidney function
+obstruction	leads to	swelling
+cancer	confirmed by	pathology
+infection	treated with	antibiotics
+dilation	performed by	urologist
+oncology	involves	chemotherapy
+swelling	causes	discomfort
+pathology	examines	tissue
+antibiotics	target	bacteria
+chemotherapy	kills	cancer cells
+discomfort	managed with	analgesics
+analgesics	include	NSAIDs

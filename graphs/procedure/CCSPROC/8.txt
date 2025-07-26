@@ -1,0 +1,100 @@
+other non-OR or closed therapeutic nervous system procedures	is a	medical procedure
+other non-OR or closed therapeutic nervous system procedures	involves	nervous system
+other non-OR or closed therapeutic nervous system procedures	performed by	neurologist
+other non-OR or closed therapeutic nervous system procedures	used for	pain management
+other non-OR or closed therapeutic nervous system procedures	includes	nerve block
+nerve block	is a type of	other non-OR or closed therapeutic nervous system procedures
+nerve block	treats	chronic pain
+nerve block	involves	local anesthetic
+local anesthetic	reduces	pain sensation
+chronic pain	caused by	nerve damage
+nerve damage	may lead to	neuropathy
+neuropathy	treated with	medication
+medication	includes	gabapentin
+gabapentin	manages	neuropathic pain
+neuropathic pain	is a type of	chronic pain
+other non-OR or closed therapeutic nervous system procedures	includes	epidural injection
+epidural injection	treats	back pain
+back pain	caused by	herniated disc
+herniated disc	compresses	spinal nerve
+spinal nerve	transmits	pain signals
+epidural injection	contains	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	aggravates	nerve pain
+other non-OR or closed therapeutic nervous system procedures	includes	lumbar puncture
+lumbar puncture	diagnoses	meningitis
+meningitis	affects	meninges
+meninges	protect	central nervous system
+central nervous system	includes	brain
+brain	controls	body functions
+lumbar puncture	measures	cerebrospinal fluid pressure
+cerebrospinal fluid pressure	indicates	intracranial hypertension
+intracranial hypertension	causes	headaches
+headaches	treated with	analgesics
+analgesics	include	acetaminophen
+acetaminophen	relieves	mild pain
+other non-OR or closed therapeutic nervous system procedures	includes	botulinum toxin injection
+botulinum toxin injection	treats	muscle spasticity
+muscle spasticity	caused by	stroke
+stroke	damages	brain tissue
+brain tissue	requires	oxygen
+oxygen	delivered by	blood circulation
+botulinum toxin injection	blocks	nerve signals
+nerve signals	control	muscle contraction
+muscle contraction	requires	acetylcholine
+acetylcholine	inhibited by	botulinum toxin
+other non-OR or closed therapeutic nervous system procedures	includes	vagus nerve stimulation
+vagus nerve stimulation	treats	epilepsy
+epilepsy	characterized by	seizures
+seizures	caused by	abnormal electrical activity
+abnormal electrical activity	originates in	brain
+vagus nerve stimulation	involves	implanted device
+implanted device	sends	electrical impulses
+electrical impulses	regulate	brain activity
+brain activity	monitored by	EEG
+EEG	detects	seizure patterns
+other non-OR or closed therapeutic nervous system procedures	includes	transcranial magnetic stimulation
+transcranial magnetic stimulation	treats	depression
+depression	linked to	serotonin imbalance
+serotonin imbalance	corrected by	antidepressants
+antidepressants	include	SSRIs
+SSRIs	increase	serotonin levels
+transcranial magnetic stimulation	stimulates	prefrontal cortex
+prefrontal cortex	regulates	mood
+mood disorders	include	bipolar disorder
+bipolar disorder	treated with	mood stabilizers
+other non-OR or closed therapeutic nervous system procedures	includes	spinal cord stimulation
+spinal cord stimulation	treats	failed back surgery syndrome
+failed back surgery syndrome	causes	persistent pain
+persistent pain	managed with	multidisciplinary approach
+multidisciplinary approach	includes	physical therapy
+physical therapy	improves	mobility
+spinal cord stimulation	uses	electrodes
+electrodes	deliver	electrical pulses
+electrical pulses	mask	pain signals
+pain signals	transmitted via	spinal nerves
+other non-OR or closed therapeutic nervous system procedures	includes	deep brain stimulation
+deep brain stimulation	treats	Parkinson's disease
+Parkinson's disease	involves	dopamine deficiency
+dopamine deficiency	causes	motor symptoms
+motor symptoms	include	tremors
+tremors	reduced by	levodopa
+deep brain stimulation	targets	subthalamic nucleus
+subthalamic nucleus	regulates	movement
+movement disorders	include	dystonia
+dystonia	treated with	muscle relaxants
+other non-OR or closed therapeutic nervous system procedures	includes	peripheral nerve stimulation
+peripheral nerve stimulation	treats	occipital neuralgia
+occipital neuralgia	causes	head pain
+head pain	localized to	occipital region
+occipital region	innervated by	occipital nerves
+peripheral nerve stimulation	blocks	pain pathways
+pain pathways	involve	nociceptors
+nociceptors	detect	tissue damage
+tissue damage	triggers	inflammatory response
+inflammatory response	mediated by	cytokines
+other non-OR or closed therapeutic nervous system procedures	includes	sympathetic nerve block
+sympathetic nerve block	treats	complex regional pain syndrome
+complex regional pain syndrome	involves	autonomic dysfunction
+autonomic dysfunction	affects	blood flow
+blood flow	regulated by	sympathetic nervous system

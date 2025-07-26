@@ -1,0 +1,100 @@
+contrast aortogram	is a	diagnostic test
+contrast aortogram	involves	contrast agent
+contrast aortogram	examines	aorta
+contrast aortogram	detects	aortic aneurysm
+contrast aortogram	identifies	aortic dissection
+contrast aortogram	evaluates	vascular disease
+contrast aortogram	requires	X-ray imaging
+contrast aortogram	performed by	radiologist
+contrast aortogram	uses	catheter
+contrast aortogram	assesses	blood flow
+contrast aortogram	helps diagnose	atherosclerosis
+contrast aortogram	monitors	stent placement
+contrast aortogram	checks	aortic valve function
+contrast aortogram	reveals	occlusion
+contrast aortogram	can cause	allergic reaction
+contrast aortogram	measures	vessel diameter
+contrast aortogram	guides	surgical planning
+contrast aortogram	contraindicated in	kidney disease
+contrast aortogram	precedes	endovascular repair
+contrast aortogram	follows	CT scan
+contrast aortogram	supports	trauma assessment
+contrast aortogram	differentiates	true lumen
+contrast aortogram	visualizes	collateral circulation
+contrast aortogram	detects	coarctation
+contrast aortogram	confirms	aneurysm rupture
+contrast aortogram	aids	embolization procedure
+contrast aortogram	requires	informed consent
+contrast aortogram	may lead	contrast-induced nephropathy
+contrast aortogram	evaluates	graft patency
+contrast aortogram	detects	thromboembolism
+contrast aortogram	assists	fluoroscopy
+contrast aortogram	contraindicated in	pregnancy
+contrast aortogram	assesses	pseudoaneurysm
+contrast aortogram	monitors	post-operative results
+contrast aortogram	measures	pressure gradient
+contrast aortogram	identifies	arteriovenous fistula
+contrast aortogram	checks	bypass graft
+contrast aortogram	evaluates	aortic regurgitation
+contrast aortogram	differentiates	intramural hematoma
+contrast aortogram	detects	inflammatory aortitis
+contrast aortogram	confirms	congenital anomaly
+contrast aortogram	guides	angioplasty
+contrast aortogram	supports	vascular intervention
+contrast aortogram	assesses	plaque burden
+contrast aortogram	detects	vascular compression
+contrast aortogram	evaluates	post-stent complications
+contrast aortogram	monitors	aortic growth
+contrast aortogram	requires	sterile technique
+contrast aortogram	helps	surgical decision-making
+contrast aortogram	contraindicated in	iodine allergy
+contrast aortogram	detects	penetrating ulcer
+contrast aortogram	confirms	aortic stenosis
+contrast aortogram	assesses	aneurysm stability
+contrast aortogram	identifies	dissection flap
+contrast aortogram	evaluates	endoleak
+contrast aortogram	differentiates	thrombus
+contrast aortogram	monitors	post-embolization result
+contrast aortogram	supports	emergency diagnosis
+contrast aortogram	checks	collateral vessels
+contrast aortogram	detects	vascular malformation
+contrast aortogram	confirms	traumatic injury
+contrast aortogram	guides	biopsy
+contrast aortogram	assesses	vessel tortuosity
+contrast aortogram	evaluates	post-traumatic repair
+contrast aortogram	differentiates	extrinsic compression
+contrast aortogram	monitors	medication response
+contrast aortogram	detects	mycotic aneurysm
+contrast aortogram	confirms	vasculitis
+contrast aortogram	supports	hemodynamic assessment
+contrast aortogram	checks	perfusion status
+contrast aortogram	evaluates	post-radiation changes
+contrast aortogram	differentiates	true vs. false aneurysm
+contrast aortogram	monitors	aortic dilation
+contrast aortogram	detects	mural thrombus
+contrast aortogram	confirms	graft infection
+contrast aortogram	supports	pre-operative planning
+contrast aortogram	checks	anastomotic site
+contrast aortogram	evaluates	post-chemotherapy effects
+contrast aortogram	differentiates	dynamic obstruction
+contrast aortogram	monitors	anticoagulant therapy
+contrast aortogram	detects	vascular kinking
+contrast aortogram	confirms	aortic rupture
+contrast aortogram	supports	risk stratification
+contrast aortogram	checks	surgical clips
+contrast aortogram	evaluates	post-transplant vasculature
+contrast aortogram	differentiates	neoplastic invasion
+contrast aortogram	monitors	aortic stiffness
+contrast aortogram	detects	prosthetic graft failure
+contrast aortogram	confirms	branch vessel occlusion
+contrast aortogram	supports	prognosis assessment
+contrast aortogram	checks	vascular calcification
+contrast aortogram	evaluates	post-radiotherapy effects
+contrast aortogram	differentiates	functional stenosis
+contrast aortogram	monitors	post-angiography recovery
+contrast aortogram	detects	vascular steal phenomenon
+contrast aortogram	confirms	aortic fistula
+contrast aortogram	supports	treatment response evaluation
+contrast aortogram	checks	post-stent restenosis
+contrast aortogram	evaluates	vascular remodeling
+contrast aortogram	differentiates	acute vs. chronic dissection

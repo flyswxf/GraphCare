@@ -1,0 +1,100 @@
+quinolone antibacterials	is a	antibiotic class
+quinolone antibacterials	treat	bacterial infections
+quinolone antibacterials	inhibit	DNA gyrase
+quinolone antibacterials	inhibit	topoisomerase IV
+quinolone antibacterials	include	ciprofloxacin
+quinolone antibacterials	include	levofloxacin
+quinolone antibacterials	include	moxifloxacin
+quinolone antibacterials	effective against	gram-negative bacteria
+quinolone antibacterials	effective against	gram-positive bacteria
+quinolone antibacterials	can cause	tendon rupture
+quinolone antibacterials	can cause	peripheral neuropathy
+quinolone antibacterials	can cause	QT prolongation
+quinolone antibacterials	contraindicated in	pregnancy
+quinolone antibacterials	contraindicated in	children
+quinolone antibacterials	interact with	metal cations
+quinolone antibacterials	interact with	warfarin
+quinolone antibacterials	resistance mechanism	efflux pumps
+quinolone antibacterials	resistance mechanism	target mutations
+quinolone antibacterials	used for	urinary tract infections
+quinolone antibacterials	used for	respiratory infections
+quinolone antibacterials	used for	skin infections
+quinolone antibacterials	used for	gastrointestinal infections
+quinolone antibacterials	absorption affected by	food
+quinolone antibacterials	administered as	oral tablets
+quinolone antibacterials	administered as	intravenous infusion
+quinolone antibacterials	metabolized in	liver
+quinolone antibacterials	excreted via	kidneys
+quinolone antibacterials	half-life	varies by agent
+quinolone antibacterials	FDA black box warning	tendon rupture
+quinolone antibacterials	FDA black box warning	peripheral neuropathy
+quinolone antibacterials	spectrum	broad
+quinolone antibacterials	developed in	1960s
+quinolone antibacterials	derived from	nalidixic acid
+quinolone antibacterials	mechanism	bactericidal
+quinolone antibacterials	concentration-dependent killing
+quinolone antibacterials	post-antibiotic effect
+quinolone antibacterials	contraindicated with	theophylline
+quinolone antibacterials	increase risk of	Clostridioides difficile infection
+quinolone antibacterials	alternative to	beta-lactams
+quinolone antibacterials	alternative to	macrolides
+quinolone antibacterials	phototoxicity risk
+quinolone antibacterials	CNS penetration
+quinolone antibacterials	protein binding	variable
+quinolone antibacterials	bioavailability	high
+quinolone antibacterials	crosses blood-brain barrier
+quinolone antibacterials	therapeutic use	prostatitis
+quinolone antibacterials	therapeutic use	osteomyelitis
+quinolone antibacterials	therapeutic use	typhoid fever
+quinolone antibacterials	therapeutic use	anthrax
+quinolone antibacterials	resistance prevalence	increasing
+quinolone antibacterials	empirical therapy
+quinolone antibacterials	prophylactic use
+quinolone antibacterials	first generation	narrow spectrum
+quinolone antibacterials	second generation	expanded gram-negative coverage
+quinolone antibacterials	third generation	improved gram-positive coverage
+quinolone antibacterials	fourth generation	broadest spectrum
+quinolone antibacterials	contraindicated in	myasthenia gravis
+quinolone antibacterials	monitoring parameter	renal function
+quinolone antibacterials	monitoring parameter	liver function
+quinolone antibacterials	monitoring parameter	ECG
+quinolone antibacterials	adverse effect	headache
+quinolone antibacterials	adverse effect	dizziness
+quinolone antibacterials	adverse effect	insomnia
+quinolone antibacterials	adverse effect	diarrhea
+quinolone antibacterials	adverse effect	rash
+quinolone antibacterials	drug of choice	traveler's diarrhea
+quinolone antibacterials	caution in	elderly
+quinolone antibacterials	caution in	seizure disorders
+quinolone antibacterials	structural feature	fluorine atom
+quinolone antibacterials	structural feature	quinolone core
+quinolone antibacterials	dosage adjustment	renal impairment
+quinolone antibacterials	dosage adjustment	hepatic impairment
+quinolone antibacterials	resistance genes	qnr
+quinolone antibacterials	resistance genes	aac(6')-Ib-cr
+quinolone antibacterials	resistance genes	gyrA mutations
+quinolone antibacterials	resistance genes	parC mutations
+quinolone antibacterials	used in	cystic fibrosis
+quinolone antibacterials	used in	immunocompromised patients
+quinolone antibacterials	veterinary use
+quinolone antibacterials	environmental persistence
+quinolone antibacterials	ecotoxicology concern
+quinolone antibacterials	synthetic origin
+quinolone antibacterials	hydrophobic properties
+quinolone antibacterials	zwitterionic properties
+quinolone antibacterials	pH-dependent solubility
+quinolone antibacterials	chelate divalent cations
+quinolone antibacterials	concentration in	prostate tissue
+quinolone antibacterials	concentration in	lung tissue
+quinolone antibacterials	concentration in	bile
+quinolone antibacterials	pregnancy category	C
+quinolone antibacterials	breastfeeding caution
+quinolone antibacterials	alternative for	penicillin-allergic patients
+quinolone antibacterials	synergistic with	aminoglycosides
+quinolone antibacterials	antagonistic with	chloramphenicol
+quinolone antibacterials	cost	moderate
+quinolone antibacterials	generic availability
+quinolone antibacterials	storage condition	room temperature
+quinolone antibacterials	stability in	solution
+quinolone antibacterials	patent expiration
+quinolone antibacterials	research focus	overcoming resistance

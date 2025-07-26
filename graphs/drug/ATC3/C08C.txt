@@ -1,0 +1,100 @@
+selective calcium channel blockers	are	antihypertensive drugs
+selective calcium channel blockers	act on	vascular smooth muscle
+selective calcium channel blockers	inhibit	L-type calcium channels
+selective calcium channel blockers	reduce	vascular resistance
+selective calcium channel blockers	lower	blood pressure
+selective calcium channel blockers	treat	hypertension
+selective calcium channel blockers	include	amlodipine
+selective calcium channel blockers	include	felodipine
+selective calcium channel blockers	include	nifedipine
+amlodipine	is	dihydropyridine
+felodipine	is	dihydropyridine
+nifedipine	is	dihydropyridine
+dihydropyridines	target	arterial vessels
+dihydropyridines	have	minimal cardiac effects
+selective calcium channel blockers	contraindicated in	heart failure
+selective calcium channel blockers	may cause	peripheral edema
+peripheral edema	results from	arteriolar dilation
+selective calcium channel blockers	may cause	headache
+headache	caused by	vasodilation
+selective calcium channel blockers	may cause	flushing
+flushing	results from	cutaneous vasodilation
+selective calcium channel blockers	interact with	grapefruit juice
+grapefruit juice	inhibits	CYP3A4
+CYP3A4	metabolizes	dihydropyridines
+selective calcium channel blockers	require	dose adjustment in hepatic impairment
+selective calcium channel blockers	are preferred in	elderly patients
+elderly patients	often have	isolated systolic hypertension
+isolated systolic hypertension	benefits from	vascular selectivity
+selective calcium channel blockers	combined with	ACE inhibitors
+ACE inhibitors	complement	vascular effects
+selective calcium channel blockers	avoid in	severe aortic stenosis
+severe aortic stenosis	risks	hypotension
+selective calcium channel blockers	may worsen	angina
+angina	can be	reflex tachycardia
+reflex tachycardia	countered by	beta blockers
+selective calcium channel blockers	used in	Raynaud's phenomenon
+Raynaud's phenomenon	involves	vasospasm
+vasospasm	relieved by	vasodilation
+selective calcium channel blockers	studied for	subarachnoid hemorrhage
+subarachnoid hemorrhage	risks	vasospasm
+selective calcium channel blockers	have	long half-life
+long half-life	allows	once-daily dosing
+selective calcium channel blockers	absorbed	orally
+oral absorption	affected by	food
+selective calcium channel blockers	highly protein-bound
+protein binding	affects	drug interactions
+selective calcium channel blockers	excreted	renally
+renal excretion	requires	caution in kidney disease
+selective calcium channel blockers	cross	placenta
+placental crossing	risks	fetal hypotension
+selective calcium channel blockers	secreted in	breast milk
+breast milk secretion	limits	use in lactation
+selective calcium channel blockers	approved for	chronic stable angina
+chronic stable angina	improved by	reduced afterload
+selective calcium channel blockers	compared to	beta blockers
+beta blockers	preferred in	post-MI patients
+selective calcium channel blockers	lack	mortality benefit
+mortality benefit	shown with	ACE inhibitors
+selective calcium channel blockers	prescribed as	first-line therapy
+first-line therapy	recommended by	hypertension guidelines
+hypertension guidelines	classify	drug choices
+drug choices	depend on	comorbidities
+selective calcium channel blockers	preferred in	diabetes
+diabetes	often has	concomitant hypertension
+selective calcium channel blockers	neutral on	glucose metabolism
+glucose metabolism	affected by	beta blockers
+selective calcium channel blockers	used in	black patients
+black patients	respond better to	calcium channel blockers
+selective calcium channel blockers	require	BP monitoring
+BP monitoring	checks for	hypotension
+hypotension	may cause	dizziness
+dizziness	increases	fall risk
+fall risk	concerning in	elderly
+selective calcium channel blockers	avoided in	cardiogenic shock
+cardiogenic shock	contraindicates	vasodilation
+selective calcium channel blockers	may cause	gingival hyperplasia
+gingival hyperplasia	associated with	nifedipine
+selective calcium channel blockers	interact with	simvastatin
+simvastatin	metabolized by	CYP3A4
+CYP3A4 inhibition	increases	drug levels
+selective calcium channel blockers	interact with	erythromycin
+erythromycin	inhibits	CYP3A4
+selective calcium channel blockers	compete with	p-glycoprotein
+p-glycoprotein	affects	drug distribution
+selective calcium channel blockers	storage	room temperature
+room temperature	prevents	drug degradation
+selective calcium channel blockers	available as	extended-release
+extended-release	improves	compliance
+compliance	critical for	chronic conditions
+selective calcium channel blockers	cost	varies
+cost	affects	medication adherence
+selective calcium channel blockers	have	generic versions
+generic versions	reduce	healthcare costs
+healthcare costs	influence	prescribing patterns
+selective calcium channel blockers	researched for	dementia prevention
+dementia prevention	hypothesized via	cerebral blood flow
+cerebral blood flow	impaired in	hypertension
+selective calcium channel blockers	may protect	endothelial function
+endothelial function	important for	vascular health
+vascular health	impacts	cardiovascular outcomes

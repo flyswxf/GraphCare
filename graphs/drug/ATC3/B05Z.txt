@@ -1,0 +1,122 @@
+hemodialytics	is a	treatment
+hemofiltrates	is a	treatment
+hemodialytics	used for	kidney failure
+hemofiltrates	used for	kidney failure
+hemodialytics	removes	toxins
+hemofiltrates	removes	toxins
+hemodialytics	requires	dialysis machine
+hemofiltrates	requires	dialysis machine
+hemodialytics	involves	blood filtration
+hemofiltrates	involves	blood filtration
+hemodialytics	can cause	hypotension
+hemofiltrates	can cause	hypotension
+hemodialytics	may lead to	electrolyte imbalance
+hemofiltrates	may lead to	electrolyte imbalance
+hemodialytics	requires	vascular access
+hemofiltrates	requires	vascular access
+hemodialytics	monitored by	nephrologist
+hemofiltrates	monitored by	nephrologist
+hemodialytics	associated with	anemia
+hemofiltrates	associated with	anemia
+hemodialytics	requires	anticoagulation
+hemofiltrates	requires	anticoagulation
+hemodialytics	can cause	infection
+hemofiltrates	can cause	infection
+hemodialytics	may need	blood transfusion
+hemofiltrates	may need	blood transfusion
+hemodialytics	affects	fluid balance
+hemofiltrates	affects	fluid balance
+hemodialytics	involves	semipermeable membrane
+hemofiltrates	involves	semipermeable membrane
+hemodialytics	can improve	survival rate
+hemofiltrates	can improve	survival rate
+hemodialytics	reduces	uremia
+hemofiltrates	reduces	uremia
+hemodialytics	may cause	muscle cramps
+hemofiltrates	may cause	muscle cramps
+hemodialytics	requires	sterile technique
+hemofiltrates	requires	sterile technique
+hemodialytics	monitored with	blood tests
+hemofiltrates	monitored with	blood tests
+hemodialytics	can lead to	fatigue
+hemofiltrates	can lead to	fatigue
+hemodialytics	depends on	blood flow rate
+hemofiltrates	depends on	blood flow rate
+hemodialytics	influenced by	dialysate composition
+hemofiltrates	influenced by	replacement fluid
+hemodialytics	may require	hospitalization
+hemofiltrates	may require	hospitalization
+hemodialytics	associated with	cardiovascular risk
+hemofiltrates	associated with	cardiovascular risk
+hemodialytics	can affect	bone health
+hemofiltrates	can affect	bone health
+hemodialytics	managed by	dialysis nurse
+hemofiltrates	managed by	dialysis nurse
+hemodialytics	involves	solute clearance
+hemofiltrates	involves	solute clearance
+hemodialytics	can cause	allergic reactions
+hemofiltrates	can cause	allergic reactions
+hemodialytics	may interact with	medications
+hemofiltrates	may interact with	medications
+hemodialytics	requires	patient compliance
+hemofiltrates	requires	patient compliance
+hemodialytics	impacts	quality of life
+hemofiltrates	impacts	quality of life
+hemodialytics	can lead to	depression
+hemofiltrates	can lead to	depression
+hemodialytics	may need	dietary restrictions
+hemofiltrates	may need	dietary restrictions
+hemodialytics	involves	ultrafiltration
+hemofiltrates	involves	convection
+hemodialytics	can cause	itching
+hemofiltrates	can cause	itching
+hemodialytics	may result in	weight loss
+hemofiltrates	may result in	weight loss
+hemodialytics	associated with	sleep disorders
+hemofiltrates	associated with	sleep disorders
+hemodialytics	can affect	cognitive function
+hemofiltrates	can affect	cognitive function
+hemodialytics	requires	regular sessions
+hemofiltrates	requires	regular sessions
+hemodialytics	may cause	headaches
+hemofiltrates	may cause	headaches
+hemodialytics	can lead to	dehydration
+hemofiltrates	can lead to	dehydration
+hemodialytics	monitored for	complications
+hemofiltrates	monitored for	complications
+hemodialytics	may require	catheter placement
+hemofiltrates	may require	catheter placement
+hemodialytics	can reduce	potassium levels
+hemofiltrates	can reduce	potassium levels
+hemodialytics	may increase	infection risk
+hemofiltrates	may increase	infection risk
+hemodialytics	involves	diffusion
+hemofiltrates	involves	adsorption
+hemodialytics	can cause	nausea
+hemofiltrates	can cause	nausea
+hemodialytics	may lead to	hypotension episodes
+hemofiltrates	may lead to	hypotension episodes
+hemodialytics	requires	trained staff
+hemofiltrates	requires	trained staff
+hemodialytics	can affect	blood pressure
+hemofiltrates	can affect	blood pressure
+hemodialytics	associated with	mortality risk
+hemofiltrates	associated with	mortality risk
+hemodialytics	may involve	home dialysis
+hemofiltrates	may involve	home dialysis
+hemodialytics	can cause	clotting
+hemofiltrates	can cause	clotting
+hemodialytics	requires	water treatment
+hemofiltrates	requires	water treatment
+hemodialytics	may need	iron supplementation
+hemofiltrates	may need	iron supplementation
+hemodialytics	can impact	immune system
+hemofiltrates	can impact	immune system
+hemodialytics	involves	clearance rate
+hemofiltrates	involves	filtration rate
+hemodialytics	may cause	vomiting
+hemofiltrates	may cause	vomiting
+hemodialytics	can lead to	malnutrition
+hemofiltrates	can lead to	malnutrition
+hemodialytics	monitored via	vital signs
+hemofiltrates	monitored via	vital signs

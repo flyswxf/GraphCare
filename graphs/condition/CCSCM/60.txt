@@ -1,0 +1,100 @@
+acute posthemorrhagic anemia	is a	blood disorder
+acute posthemorrhagic anemia	caused by	blood loss
+acute posthemorrhagic anemia	leads to	hypovolemia
+acute posthemorrhagic anemia	results in	decreased hemoglobin
+acute posthemorrhagic anemia	causes	fatigue
+acute posthemorrhagic anemia	causes	tachycardia
+acute posthemorrhagic anemia	causes	pallor
+acute posthemorrhagic anemia	requires	blood transfusion
+acute posthemorrhagic anemia	treated with	iron supplementation
+acute posthemorrhagic anemia	associated with	trauma
+acute posthemorrhagic anemia	associated with	surgery
+acute posthemorrhagic anemia	associated with	gastrointestinal bleeding
+acute posthemorrhagic anemia	associated with	obstetric hemorrhage
+acute posthemorrhagic anemia	diagnosed with	complete blood count
+acute posthemorrhagic anemia	diagnosed with	reticulocyte count
+acute posthemorrhagic anemia	monitored with	hemoglobin level
+acute posthemorrhagic anemia	may lead to	shock
+acute posthemorrhagic anemia	may require	fluid resuscitation
+acute posthemorrhagic anemia	managed with	oxygen therapy
+acute posthemorrhagic anemia	contraindicates	anticoagulants
+blood loss	caused by	trauma
+blood loss	caused by	ulcer
+blood loss	caused by	aneurysm rupture
+blood loss	caused by	coagulopathy
+hypovolemia	causes	hypotension
+hypovolemia	leads to	organ failure
+hypovolemia	treated with	intravenous fluids
+decreased hemoglobin	causes	tissue hypoxia
+tissue hypoxia	affects	brain function
+tissue hypoxia	affects	heart function
+fatigue	affects	quality of life
+tachycardia	indicates	compensatory mechanism
+pallor	indicates	reduced perfusion
+blood transfusion	requires	blood typing
+blood transfusion	carries risk of	infection
+blood transfusion	carries risk of	allergic reaction
+iron supplementation	helps	erythropoiesis
+iron supplementation	causes	constipation
+trauma	includes	blunt injury
+trauma	includes	penetrating injury
+gastrointestinal bleeding	caused by	peptic ulcer
+gastrointestinal bleeding	caused by	esophageal varices
+gastrointestinal bleeding	diagnosed with	endoscopy
+obstetric hemorrhage	includes	postpartum bleeding
+obstetric hemorrhage	managed with	uterotonics
+complete blood count	measures	red blood cells
+complete blood count	measures	white blood cells
+complete blood count	measures	platelets
+reticulocyte count	indicates	bone marrow response
+shock	classified as	hypovolemic shock
+shock	requires	vasopressors
+fluid resuscitation	uses	crystalloids
+fluid resuscitation	uses	colloids
+oxygen therapy	improves	oxygen saturation
+anticoagulants	increase	bleeding risk
+ulcer	caused by	H. pylori infection
+ulcer	treated with	proton pump inhibitors
+aneurysm rupture	related to	hypertension
+coagulopathy	includes	hemophilia
+coagulopathy	includes	von Willebrand disease
+hypotension	monitored with	blood pressure
+organ failure	includes	kidney failure
+intravenous fluids	include	normal saline
+brain function	assessed by	mental status
+heart function	monitored with	ECG
+quality of life	measured by	questionnaires
+compensatory mechanism	includes	vasoconstriction
+reduced perfusion	causes	cold extremities
+blood typing	checks	ABO group
+infection	includes	hepatitis B
+allergic reaction	manifests as	urticaria
+erythropoiesis	stimulated by	erythropoietin
+constipation	relieved by	laxatives
+blunt injury	includes	falls
+penetrating injury	includes	stab wounds
+peptic ulcer	caused by	NSAIDs
+esophageal varices	related to	liver cirrhosis
+endoscopy	allows	biopsy
+postpartum bleeding	prevented by	oxytocin
+uterotonics	include	misoprostol
+red blood cells	carry	oxygen
+white blood cells	fight	infection
+platelets	aid in	clotting
+bone marrow response	indicates	recovery
+hypovolemic shock	treated with	blood products
+vasopressors	include	norepinephrine
+crystalloids	include	lactated Ringer's
+colloids	include	albumin
+oxygen saturation	measured by	pulse oximetry
+bleeding risk	increased by	thrombocytopenia
+H. pylori infection	diagnosed with	breath test
+proton pump inhibitors	include	omeprazole
+hypertension	managed with	antihypertensives
+hemophilia	treated with	factor VIII
+von Willebrand disease	diagnosed with	factor assay
+normal saline	contains	sodium chloride
+mental status	assessed by	Glasgow scale
+ECG	detects	arrhythmias
+vasoconstriction	increases	blood pressure
+cold extremities	indicate	poor circulation

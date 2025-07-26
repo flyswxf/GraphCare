@@ -1,0 +1,100 @@
+incision and excision of CNS	is a	neurosurgical procedure
+incision and excision of CNS	involves	brain tissue
+incision and excision of CNS	involves	spinal cord tissue
+incision and excision of CNS	treats	brain tumors
+incision and excision of CNS	treats	spinal cord tumors
+incision and excision of CNS	treats	epilepsy
+incision and excision of CNS	treats	traumatic brain injury
+incision and excision of CNS	requires	general anesthesia
+incision and excision of CNS	performed by	neurosurgeon
+incision and excision of CNS	uses	surgical microscope
+incision and excision of CNS	uses	neuronavigation system
+incision and excision of CNS	risks	bleeding
+incision and excision of CNS	risks	infection
+incision and excision of CNS	risks	neurological deficits
+incision and excision of CNS	requires	preoperative MRI
+incision and excision of CNS	requires	postoperative care
+incision and excision of CNS	follows	craniotomy
+incision and excision of CNS	may require	tissue biopsy
+incision and excision of CNS	associated with	hospital stay
+incision and excision of CNS	monitors	intracranial pressure
+brain tumor	indication for	incision and excision of CNS
+glioblastoma	treated by	incision and excision of CNS
+meningioma	treated by	incision and excision of CNS
+astrocytoma	treated by	incision and excision of CNS
+metastatic brain tumor	treated by	incision and excision of CNS
+epileptogenic focus	removed by	incision and excision of CNS
+intracranial hemorrhage	treated by	incision and excision of CNS
+brain abscess	treated by	incision and excision of CNS
+cerebral edema	complication of	incision and excision of CNS
+hydrocephalus	complication of	incision and excision of CNS
+neurological examination	precedes	incision and excision of CNS
+steroids	reduces edema after	incision and excision of CNS
+anticonvulsants	prevents seizures after	incision and excision of CNS
+antibiotics	prevents infection after	incision and excision of CNS
+intensive care unit	monitors after	incision and excision of CNS
+rehabilitation	follows	incision and excision of CNS
+physical therapy	aids recovery after	incision and excision of CNS
+speech therapy	aids recovery after	incision and excision of CNS
+occupational therapy	aids recovery after	incision and excision of CNS
+postoperative MRI	evaluates	incision and excision of CNS
+functional MRI	guides	incision and excision of CNS
+diffusion tensor imaging	guides	incision and excision of CNS
+intraoperative neurophysiological monitoring	guides	incision and excision of CNS
+awake craniotomy	variant of	incision and excision of CNS
+laser ablation	alternative to	incision and excision of CNS
+radiosurgery	alternative to	incision and excision of CNS
+chemotherapy	adjunct to	incision and excision of CNS
+radiation therapy	adjunct to	incision and excision of CNS
+immunotherapy	adjunct to	incision and excision of CNS
+tumor grade	affects outcome of	incision and excision of CNS
+tumor location	affects difficulty of	incision and excision of CNS
+patient age	affects recovery from	incision and excision of CNS
+Karnofsky performance status	predicts outcome of	incision and excision of CNS
+ASA physical status	assesses risk for	incision and excision of CNS
+coagulation tests	precede	incision and excision of CNS
+blood transfusion	may follow	incision and excision of CNS
+postoperative seizures	complication of	incision and excision of CNS
+cognitive impairment	complication of	incision and excision of CNS
+motor deficits	complication of	incision and excision of CNS
+sensory deficits	complication of	incision and excision of CNS
+language deficits	complication of	incision and excision of CNS
+visual deficits	complication of	incision and excision of CNS
+cerebrospinal fluid leak	complication of	incision and excision of CNS
+wound dehiscence	complication of	incision and excision of CNS
+deep vein thrombosis	risk after	incision and excision of CNS
+pulmonary embolism	risk after	incision and excision of CNS
+pneumonia	risk after	incision and excision of CNS
+urinary tract infection	risk after	incision and excision of CNS
+pressure ulcers	risk after	incision and excision of CNS
+nutritional support	important for recovery after	incision and excision of CNS
+pain management	required after	incision and excision of CNS
+opioids	used for pain after	incision and excision of CNS
+nonsteroidal anti-inflammatory drugs	used after	incision and excision of CNS
+antiemetics	used after	incision and excision of CNS
+prophylactic antibiotics	used with	incision and excision of CNS
+anticoagulants	used after	incision and excision of CNS
+osmotic diuretics	used after	incision and excision of CNS
+electrolyte management	important after	incision and excision of CNS
+glucose control	important after	incision and excision of CNS
+blood pressure control	important during	incision and excision of CNS
+intravenous fluids	administered during	incision and excision of CNS
+positioning	critical for	incision and excision of CNS
+skull fixation	required for	incision and excision of CNS
+surgical draping	standard for	incision and excision of CNS
+electrocautery	used during	incision and excision of CNS
+ultrasonic aspirator	used during	incision and excision of CNS
+hemostatic agents	used during	incision and excision of CNS
+dural closure	required after	incision and excision of CNS
+bone flap	replaced after	incision and excision of CNS
+wound closure	final step of	incision and excision of CNS
+head dressing	applied after	incision and excision of CNS
+postoperative nausea	common after	incision and excision of CNS
+postoperative headache	common after	incision and excision of CNS
+fever	sign of infection after	incision and excision of CNS
+altered mental status	concerning after	incision and excision of CNS
+follow-up imaging	scheduled after	incision and excision of CNS
+outpatient visit	follows discharge after	incision and excision of CNS
+quality of life	outcome measure of	incision and excision of CNS
+progression-free survival	outcome measure of	incision and excision of CNS
+overall survival	outcome measure of	incision and excision of CNS

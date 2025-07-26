@@ -1,0 +1,100 @@
+insertion of catheter	is a	medical procedure
+spinal stimulator	is a	medical device
+injection into spinal canal	is a	medical procedure
+insertion of catheter	performed in	spine
+spinal stimulator	implanted via	surgical procedure
+injection into spinal canal	delivers	medication
+insertion of catheter	requires	local anesthesia
+spinal stimulator	treats	chronic pain
+injection into spinal canal	targets	nerve roots
+catheter	can deliver	spinal anesthesia
+spinal stimulator	sends	electrical pulses
+spinal injection	reduces	inflammation
+catheter insertion	may cause	infection
+spinal stimulator	requires	battery replacement
+epidural injection	is type of	spinal injection
+catheter	placed in	epidural space
+spinal cord stimulator	blocks	pain signals
+intrathecal injection	reaches	cerebrospinal fluid
+catheter insertion	uses	fluoroscopic guidance
+spinal stimulator	alternative to	pain medication
+steroid injection	reduces	nerve swelling
+catheter	connects to	infusion pump
+spinal stimulation	modulates	neural activity
+contrast injection	aids in	imaging
+catheter placement	monitored via	imaging
+neurostimulator	interacts with	dorsal columns
+spinal anesthesia	causes	temporary numbness
+catheter insertion	risks	dural puncture
+spinal stimulator trial	precedes	permanent implantation
+nerve block injection	provides	pain relief
+epidural catheter	administers	pain medication
+spinal cord stimulation	treats	failed back surgery syndrome
+diagnostic injection	identifies	pain source
+catheter placement	requires	sterile technique
+stimulator leads	positioned near	spinal cord
+corticosteroid injection	decreases	inflammation
+intrathecal catheter	delivers	chemotherapy
+spinal stimulation	improves	mobility
+facet joint injection	treats	arthritis pain
+catheter insertion	may cause	bleeding
+stimulator programming	adjusts	stimulation parameters
+selective nerve root block	targets	specific nerves
+epidural catheter	used for	postoperative pain
+spinal stimulator	contraindicated in	pregnancy
+therapeutic injection	provides	long-term relief
+catheter placement	requires	anatomical knowledge
+stimulation leads	connected to	pulse generator
+fluoroscopy	guides	needle placement
+epidural catheter	risks	nerve damage
+spinal stimulator	manages	neuropathic pain
+contrast medium	visualizes	injection spread
+intrathecal catheter	treats	spasticity
+stimulation therapy	reduces	opioid use
+nerve root injection	alleviates	radicular pain
+catheter insertion	requires	patient positioning
+spinal stimulator	interacts with	pain pathways
+local anesthetic injection	blocks	nerve conduction
+epidural catheter	placed near	nerve roots
+stimulator implantation	requires	surgical incision
+diagnostic injection	uses	anesthetic agent
+catheter placement	may require	sedation
+spinal stimulation	affects	central nervous system
+therapeutic injection	contains	corticosteroid
+intrathecal catheter	delivers	baclofen
+stimulation parameters	control	pain intensity
+facet injection	treats	spinal arthritis
+epidural catheter	monitors	cerebrospinal fluid
+spinal stimulator	contraindicated in	pacemaker patients
+nerve block	interrupts	pain signals
+catheter insertion	uses	Tuohy needle
+stimulation therapy	improves	quality of life
+contrast injection	confirms	needle placement
+epidural catheter	provides	continuous analgesia
+spinal stimulator	requires	follow-up adjustments
+therapeutic injection	reduces	surgical need
+intrathecal catheter	bypasses	blood-brain barrier
+stimulation intensity	adjusted via	remote control
+sacroiliac joint injection	treats	lower back pain
+catheter placement	risks	spinal headache
+spinal stimulator	alternative to	spinal fusion
+diagnostic injection	localizes	pain generator
+epidural catheter	used in	childbirth
+stimulation frequency	affects	pain relief
+nerve root injection	uses	imaging guidance
+catheter insertion	contraindicated in	infection
+spinal stimulator	treats	complex regional pain syndrome
+therapeutic injection	targets	inflamed tissue
+intrathecal catheter	manages	chronic pain
+stimulation amplitude	controls	coverage area
+facet block	diagnoses	facet joint pain
+epidural catheter	risks	dural tear
+spinal stimulator	interacts with	pain perception
+contrast injection	verifies	medication spread
+catheter placement	requires	anatomical landmarks
+stimulation therapy	reduces	healthcare costs
+nerve root block	treats	sciatica
+intrathecal catheter	delivers	ziconotide
+stimulation pulse width	affects	nerve activation
+diagnostic injection	predicts	surgical outcome
+epidural catheter	monitors	pain control

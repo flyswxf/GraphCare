@@ -1,0 +1,20 @@
+antiadrenergic agents	peripherally acting	is a	drug class
+antiadrenergic agents	peripherally acting	blocks	norepinephrine
+antiadrenergic agents	peripherally acting	targets	alpha receptors
+alpha receptors	subtypes include	alpha-1 receptors
+alpha receptors	subtypes include	alpha-2 receptors
+antiadrenergic agents	peripherally acting	treats	hypertension
+hypertension	is risk factor for	stroke
+antiadrenergic agents	peripherally acting	treats	pheochromocytoma
+pheochromocytoma	secretes	catecholamines
+antiadrenergic agents	peripherally acting	contraindicated in	bronchial asthma
+bronchial asthma	involves	bronchospasm
+antiadrenergic agents	peripherally acting	interacts with	beta blockers
+beta blockers	class includes	propranolol
+antiadrenergic agents	peripherally acting	causes	orthostatic hypotension
+orthostatic hypotension	leads to	dizziness
+antiadrenergic agents	peripherally acting	metabolized by	liver
+liver	contains	cytochrome P450
+antiadrenergic agents	peripherally acting	excreted through	kidneys
+kidneys	regulate	blood pressure
+antiadrenergic agents	peripherally acting	example drug	prazosin

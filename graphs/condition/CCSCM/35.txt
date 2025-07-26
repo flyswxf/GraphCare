@@ -1,0 +1,100 @@
+cancer of brain and nervous system	is a	malignant neoplasm
+cancer of brain and nervous system	originates from	glial cells
+glioblastoma	is a type of	cancer of brain and nervous system
+meningioma	is a type of	cancer of brain and nervous system
+cancer of brain and nervous system	may cause	seizures
+cancer of brain and nervous system	may cause	headaches
+cancer of brain and nervous system	may cause	cognitive impairment
+cancer of brain and nervous system	may cause	motor dysfunction
+cancer of brain and nervous system	may cause	sensory loss
+cancer of brain and nervous system	may cause	nausea
+cancer of brain and nervous system	may cause	vomiting
+MRI	is used to diagnose	cancer of brain and nervous system
+CT scan	is used to diagnose	cancer of brain and nervous system
+biopsy	confirms diagnosis of	cancer of brain and nervous system
+surgery	is a treatment for	cancer of brain and nervous system
+radiation therapy	is a treatment for	cancer of brain and nervous system
+chemotherapy	is a treatment for	cancer of brain and nervous system
+temozolomide	is used to treat	cancer of brain and nervous system
+bevacizumab	is used to treat	cancer of brain and nervous system
+cancer of brain and nervous system	has risk factor	genetic predisposition
+cancer of brain and nervous system	has risk factor	ionizing radiation
+cancer of brain and nervous system	has risk factor	family history
+cancer of brain and nervous system	has risk factor	age
+cancer of brain and nervous system	has risk factor	immune suppression
+cancer of brain and nervous system	may lead to	increased intracranial pressure
+cancer of brain and nervous system	may lead to	hydrocephalus
+cancer of brain and nervous system	may lead to	cerebral edema
+corticosteroids	reduce symptoms of	cancer of brain and nervous system
+anticonvulsants	prevent complications of	cancer of brain and nervous system
+cancer of brain and nervous system	requires	multidisciplinary care
+cancer of brain and nervous system	has prognostic factor	tumor grade
+cancer of brain and nervous system	has prognostic factor	tumor location
+cancer of brain and nervous system	has prognostic factor	patient age
+cancer of brain and nervous system	has prognostic factor	molecular markers
+IDH mutation	affects prognosis of	cancer of brain and nervous system
+MGMT methylation	affects prognosis of	cancer of brain and nervous system
+cancer of brain and nervous system	may metastasize to	spinal cord
+cancer of brain and nervous system	may recur after	treatment
+cancer of brain and nervous system	requires	follow-up imaging
+cancer of brain and nervous system	affects quality of	life
+palliative care	supports patients with	cancer of brain and nervous system
+physical therapy	helps patients with	cancer of brain and nervous system
+occupational therapy	helps patients with	cancer of brain and nervous system
+speech therapy	helps patients with	cancer of brain and nervous system
+cancer of brain and nervous system	increases risk of	depression
+cancer of brain and nervous system	increases risk of	anxiety
+psychotherapy	benefits patients with	cancer of brain and nervous system
+support groups	help patients with	cancer of brain and nervous system
+cancer of brain and nervous system	may require	ventriculoperitoneal shunt
+cancer of brain and nervous system	may cause	visual disturbances
+cancer of brain and nervous system	may cause	hearing loss
+cancer of brain and nervous system	may cause	balance problems
+cancer of brain and nervous system	may cause	personality changes
+cancer of brain and nervous system	may cause	memory loss
+cancer of brain and nervous system	may cause	fatigue
+cancer of brain and nervous system	may cause	sleep disturbances
+dexamethasone	reduces swelling in	cancer of brain and nervous system
+manitol	reduces pressure in	cancer of brain and nervous system
+cancer of brain and nervous system	may require	decompressive surgery
+cancer of brain and nervous system	may spread via	cerebrospinal fluid
+cancer of brain and nervous system	has histological subtypes	astrocytoma
+cancer of brain and nervous system	has histological subtypes	oligodendroglioma
+cancer of brain and nervous system	has histological subtypes	ependymoma
+cancer of brain and nervous system	has histological subtypes	medulloblastoma
+cancer of brain and nervous system	has WHO grading system	I-IV
+cancer of brain and nervous system	may involve	molecular testing
+cancer of brain and nervous system	may involve	genetic counseling
+cancer of brain and nervous system	may qualify for	clinical trials
+cancer of brain and nervous system	requires	neuro-oncology team
+cancer of brain and nervous system	may benefit from	targeted therapy
+cancer of brain and nervous system	may benefit from	immunotherapy
+cancer of brain and nervous system	may benefit from	tumor-treating fields
+cancer of brain and nervous system	requires	symptom management
+cancer of brain and nervous system	may lead to	disability
+cancer of brain and nervous system	affects	caregivers
+cancer of brain and nervous system	has research focus	blood-brain barrier
+cancer of brain and nervous system	has research focus	tumor microenvironment
+cancer of brain and nervous system	has research focus	liquid biopsy
+cancer of brain and nervous system	may cause	endocrine dysfunction
+cancer of brain and nervous system	may require	hormone replacement
+cancer of brain and nervous system	may cause	swallowing difficulties
+cancer of brain and nervous system	may require	feeding tube
+cancer of brain and nervous system	may cause	speech difficulties
+cancer of brain and nervous system	may cause	motor weakness
+cancer of brain and nervous system	may cause	sensory changes
+cancer of brain and nervous system	may cause	coordination problems
+cancer of brain and nervous system	may cause	autonomic dysfunction
+cancer of brain and nervous system	requires	rehabilitation services
+cancer of brain and nervous system	may benefit from	complementary therapies
+cancer of brain and nervous system	has association with	neurofibromatosis
+cancer of brain and nervous system	has association with	Li-Fraumeni syndrome
+cancer of brain and nervous system	has association with	tuberous sclerosis
+cancer of brain and nervous system	may require	second opinion
+cancer of brain and nervous system	requires	treatment planning
+cancer of brain and nervous system	may involve	proton therapy
+cancer of brain and nervous system	may involve	stereotactic radiosurgery
+cancer of brain and nervous system	may involve	laser ablation
+cancer of brain and nervous system	may involve	intraoperative imaging
+cancer of brain and nervous system	may involve	awake craniotomy
+cancer of brain and nervous system	requires	long-term monitoring

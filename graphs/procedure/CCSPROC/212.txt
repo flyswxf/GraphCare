@@ -1,0 +1,100 @@
+diagnostic physical therapy	is a	healthcare service
+diagnostic physical therapy	evaluates	movement disorders
+diagnostic physical therapy	assesses	musculoskeletal conditions
+diagnostic physical therapy	identifies	neuromuscular impairments
+diagnostic physical therapy	measures	range of motion
+diagnostic physical therapy	tests	muscle strength
+diagnostic physical therapy	examines	posture abnormalities
+diagnostic physical therapy	detects	gait deviations
+diagnostic physical therapy	performed by	physical therapist
+diagnostic physical therapy	requires	clinical expertise
+diagnostic physical therapy	follows	assessment protocols
+diagnostic physical therapy	precedes	treatment planning
+diagnostic physical therapy	informs	rehabilitation strategy
+diagnostic physical therapy	utilizes	functional movement tests
+diagnostic physical therapy	incorporates	pain assessment
+diagnostic physical therapy	documents	physical findings
+diagnostic physical therapy	differentiates	movement patterns
+diagnostic physical therapy	evaluates	balance deficits
+diagnostic physical therapy	screens	fall risk
+diagnostic physical therapy	assesses	joint stability
+diagnostic physical therapy	measures	functional capacity
+diagnostic physical therapy	identifies	compensatory movements
+diagnostic physical therapy	tests	proprioception
+diagnostic physical therapy	examines	reflex integrity
+diagnostic physical therapy	detects	muscle imbalances
+physical therapist	performs	manual therapy assessment
+physical therapist	uses	goniometer
+physical therapist	applies	dynamometer
+physical therapist	interprets	test results
+physical therapist	develops	treatment plan
+musculoskeletal conditions	include	arthritis
+musculoskeletal conditions	include	tendinitis
+musculoskeletal conditions	include	bursitis
+neuromuscular impairments	include	neuropathy
+neuromuscular impairments	include	myopathy
+neuromuscular impairments	include	radiculopathy
+range of motion	indicates	joint health
+range of motion	affected by	stiffness
+range of motion	limited by	pain
+muscle strength	measured by	resistance testing
+muscle strength	affects	functional ability
+muscle strength	graded by	medical scale
+posture abnormalities	cause	back pain
+posture abnormalities	result from	muscle weakness
+posture abnormalities	lead to	joint degeneration
+gait deviations	indicate	neurological disorders
+gait deviations	caused by	muscle weakness
+gait deviations	require	assistive devices
+balance deficits	increase	fall risk
+balance deficits	treated with	balance training
+balance deficits	measured by	standardized tests
+joint stability	assessed by	stress tests
+joint stability	compromised by	ligament injuries
+joint stability	affects	athletic performance
+functional capacity	predicts	recovery potential
+functional capacity	determines	disability status
+functional capacity	influences	return-to-work decisions
+compensatory movements	lead to	secondary injuries
+compensatory movements	mask	primary dysfunction
+compensatory movements	require	movement reeducation
+proprioception	important for	coordination
+proprioception	impaired by	neurological damage
+proprioception	trained with	balance exercises
+reflex integrity	indicates	nervous system function
+reflex integrity	tested by	reflex hammer
+reflex integrity	abnormal in	spinal cord injuries
+muscle imbalances	cause	postural deviations
+muscle imbalances	treated with	strengthening exercises
+muscle imbalances	corrected by	stretching regimen
+manual therapy assessment	evaluates	joint mobility
+manual therapy assessment	detects	tissue restrictions
+manual therapy assessment	guides	manual treatment
+goniometer	measures	joint angles
+goniometer	used in	orthopedic assessment
+goniometer	provides	objective data
+dynamometer	quantifies	muscle strength
+dynamometer	used for	baseline assessment
+dynamometer	tracks	progress
+treatment plan	includes	therapeutic exercises
+treatment plan	incorporates	pain management
+treatment plan	addresses	functional goals
+arthritis	causes	joint pain
+arthritis	limits	mobility
+arthritis	managed with	physical therapy
+tendinitis	results from	overuse
+tendinitis	causes	localized pain
+tendinitis	treated with	rest
+bursitis	involves	fluid-filled sacs
+bursitis	aggravated by	repetitive motions
+bursitis	relieved by	anti-inflammatory measures
+neuropathy	affects	nerve function
+neuropathy	causes	sensory loss
+neuropathy	managed with	nerve gliding exercises
+myopathy	weakens	skeletal muscles
+myopathy	diagnosed with	electromyography
+myopathy	treated with	muscle conditioning
+radiculopathy	originates from	nerve root compression
+radiculopathy	causes	radiating pain
+radiculopathy	assessed with	neurological tests
+diagnostic physical therapy	reduces	unnecessary imaging

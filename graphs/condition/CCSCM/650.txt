@@ -1,0 +1,100 @@
+adjustment disorder	is a	mental health condition
+adjustment disorder	may lead to	depression
+adjustment disorder	may lead to	anxiety
+adjustment disorder	may cause	insomnia
+adjustment disorder	is triggered by	stressful event
+adjustment disorder	is diagnosed by	clinical interview
+adjustment disorder	is treated with	psychotherapy
+adjustment disorder	is treated with	antidepressants
+adjustment disorder	has symptom	emotional distress
+adjustment disorder	has symptom	behavioral changes
+adjustment disorder	is classified under	ICD-10
+adjustment disorder	is related to	PTSD
+adjustment disorder	differs from	major depressive disorder
+adjustment disorder	may require	hospitalization
+adjustment disorder	affects	daily functioning
+adjustment disorder	is more common in	adolescents
+adjustment disorder	may coexist with	substance abuse
+adjustment disorder	is assessed with	DSM-5 criteria
+adjustment disorder	has subtypes	acute
+adjustment disorder	has subtypes	chronic
+adjustment disorder	may improve with	social support
+adjustment disorder	is linked to	work stress
+adjustment disorder	is linked to	relationship issues
+adjustment disorder	may lead to	suicidal thoughts
+adjustment disorder	is managed with	cognitive behavioral therapy
+adjustment disorder	may worsen	chronic illness
+adjustment disorder	is studied in	clinical psychology
+adjustment disorder	has risk factor	poor coping skills
+adjustment disorder	has risk factor	childhood trauma
+adjustment disorder	is associated with	low resilience
+adjustment disorder	may trigger	panic attacks
+adjustment disorder	is documented in	medical records
+adjustment disorder	may require	medication adjustment
+adjustment disorder	is addressed in	primary care
+adjustment disorder	benefits from	mindfulness techniques
+adjustment disorder	is exacerbated by	lack of sleep
+adjustment disorder	is researched in	psychiatry
+adjustment disorder	may coexist with	personality disorders
+adjustment disorder	is differentiated from	bipolar disorder
+adjustment disorder	may affect	academic performance
+adjustment disorder	is treated by	psychiatrists
+adjustment disorder	is treated by	psychologists
+adjustment disorder	may lead to	absenteeism
+adjustment disorder	is screened with	questionnaires
+adjustment disorder	has comorbidity	GAD
+adjustment disorder	has comorbidity	MDD
+adjustment disorder	may result from	job loss
+adjustment disorder	may result from	divorce
+adjustment disorder	is influenced by	cultural factors
+adjustment disorder	is addressed in	employee assistance programs
+adjustment disorder	may require	short-term disability
+adjustment disorder	is monitored with	follow-up visits
+adjustment disorder	may benefit from	group therapy
+adjustment disorder	is associated with	somatic symptoms
+adjustment disorder	may mimic	physical illness
+adjustment disorder	is considered in	differential diagnosis
+adjustment disorder	is treated with	SSRIs
+adjustment disorder	is treated with	SNRIs
+adjustment disorder	may affect	immune system
+adjustment disorder	is linked to	inflammation
+adjustment disorder	may increase	healthcare utilization
+adjustment disorder	is documented using	ICD codes
+adjustment disorder	is reviewed in	case conferences
+adjustment disorder	may lead to	self-harm
+adjustment disorder	is prevented by	early intervention
+adjustment disorder	is assessed with	rating scales
+adjustment disorder	has prognostic factor	social support
+adjustment disorder	has prognostic factor	treatment adherence
+adjustment disorder	may recur	after new stressors
+adjustment disorder	is studied in	longitudinal studies
+adjustment disorder	may involve	family therapy
+adjustment disorder	is addressed in	school counseling
+adjustment disorder	may affect	parenting
+adjustment disorder	is associated with	financial stress
+adjustment disorder	may lead to	relationship breakdown
+adjustment disorder	is managed with	stress reduction
+adjustment disorder	is referenced in	clinical guidelines
+adjustment disorder	may coexist with	eating disorders
+adjustment disorder	is differentiated from	schizophrenia
+adjustment disorder	may trigger	migraine
+adjustment disorder	is evaluated with	psychosocial assessment
+adjustment disorder	may require	referral to specialist
+adjustment disorder	is treated in	outpatient settings
+adjustment disorder	is treated in	inpatient settings
+adjustment disorder	may lead to	disability claims
+adjustment disorder	is discussed in	mental health awareness
+adjustment disorder	has genetic predisposition
+adjustment disorder	is influenced by	personality traits
+adjustment disorder	may affect	job performance
+adjustment disorder	is correlated with	low self-esteem
+adjustment disorder	may require	lifestyle changes
+adjustment disorder	is addressed in	workplace wellness programs
+adjustment disorder	may lead to	social withdrawal
+adjustment disorder	is managed with	coping strategies
+adjustment disorder	is researched in	neurobiology
+adjustment disorder	may involve	psychodynamic therapy
+adjustment disorder	is treated with	benzodiazepines
+adjustment disorder	is monitored with	symptom tracking
+adjustment disorder	may improve with	exercise
+adjustment disorder	is prevented by	resilience training

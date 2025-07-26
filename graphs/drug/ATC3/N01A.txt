@@ -1,0 +1,100 @@
+anesthetics	general	are	drugs
+anesthetics	general	induce	unconsciousness
+anesthetics	general	cause	muscle relaxation
+anesthetics	general	produce	analgesia
+anesthetics	general	used in	surgery
+anesthetics	general	administered by	anesthesiologists
+anesthetics	general	have	side effects
+side effects	can include	nausea
+side effects	can include	vomiting
+side effects	can include	confusion
+anesthetics	general	affect	central nervous system
+central nervous system	includes	brain
+central nervous system	includes	spinal cord
+anesthetics	general	interact with	GABA receptors
+GABA receptors	mediate	inhibition
+anesthetics	general	may cause	hypotension
+hypotension	is	low blood pressure
+anesthetics	general	require	monitoring
+monitoring	involves	vital signs
+vital signs	include	heart rate
+vital signs	include	blood pressure
+vital signs	include	oxygen saturation
+anesthetics	general	can lead to	respiratory depression
+respiratory depression	requires	ventilation support
+anesthetics	general	metabolized by	liver
+liver	produces	enzymes
+enzymes	break down	drugs
+anesthetics	general	excreted by	kidneys
+kidneys	filter	blood
+anesthetics	general	have	contraindications
+contraindications	include	allergies
+contraindications	include	heart conditions
+heart conditions	may involve	arrhythmias
+anesthetics	general	used with	premedication
+premedication	may include	benzodiazepines
+benzodiazepines	reduce	anxiety
+anesthetics	general	have	induction agents
+induction agents	include	propofol
+propofol	causes	rapid unconsciousness
+anesthetics	general	have	maintenance agents
+maintenance agents	include	isoflurane
+isoflurane	is	volatile anesthetic
+volatile anesthetics	delivered via	vaporizer
+anesthetics	general	require	intubation
+intubation	uses	endotracheal tube
+endotracheal tube	maintains	airway
+anesthetics	general	monitored with	EEG
+EEG	measures	brain activity
+anesthetics	general	affect	BIS index
+BIS index	indicates	depth of anesthesia
+anesthetics	general	have	emergence phase
+emergence phase	involves	recovery
+recovery	occurs in	PACU
+PACU	staffed by	nurses
+nurses	monitor	patients
+patients	may experience	postoperative pain
+postoperative pain	treated with	analgesics
+analgesics	include	opioids
+opioids	bind to	receptors
+receptors	located in	brain
+anesthetics	general	combined with	local anesthetics
+local anesthetics	block	nerve conduction
+nerve conduction	transmits	signals
+signals	carry	pain
+anesthetics	general	influenced by	age
+age	affects	metabolism
+metabolism	determines	drug clearance
+anesthetics	general	dosed by	weight
+weight	measured in	kilograms
+anesthetics	general	risk	awareness
+awareness	during	surgery
+surgery	performed by	surgeons
+surgeons	require	sterile field
+sterile field	prevents	infections
+infections	treated with	antibiotics
+antibiotics	target	bacteria
+bacteria	cause	diseases
+anesthetics	general	stored in	vials
+vials	sealed with	rubber stoppers
+rubber stoppers	pierced by	needles
+needles	connected to	syringes
+syringes	deliver	medications
+medications	prescribed by	doctors
+doctors	follow	protocols
+protocols	based on	evidence
+evidence	comes from	studies
+studies	published in	journals
+journals	reviewed by	peers
+peers	evaluate	validity
+validity	ensures	reliability
+anesthetics	general	have	alternatives
+alternatives	include	regional anesthesia
+regional anesthesia	numbs	specific area
+specific area	determined by	nerves
+nerves	transmit	sensations
+sensations	include	pain
+pain	managed by	painkillers
+painkillers	relieve	discomfort
+discomfort	affects	quality of life
+quality of life	important for	patients

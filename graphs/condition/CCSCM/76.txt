@@ -1,0 +1,100 @@
+meningitis	is an	inflammation
+meningitis	affects	meninges
+meningitis	may cause	headache
+meningitis	may cause	fever
+meningitis	may cause	neck stiffness
+meningitis	may cause	photophobia
+meningitis	may cause	confusion
+meningitis	may cause	seizures
+meningitis	may cause	coma
+meningitis	may cause	death
+meningitis	has type	bacterial meningitis
+meningitis	has type	viral meningitis
+meningitis	has type	fungal meningitis
+meningitis	has type	parasitic meningitis
+bacterial meningitis	is caused by	Streptococcus pneumoniae
+bacterial meningitis	is caused by	Neisseria meningitidis
+bacterial meningitis	is caused by	Haemophilus influenzae
+viral meningitis	is caused by	enteroviruses
+fungal meningitis	is caused by	Cryptococcus
+meningitis	is diagnosed with	lumbar puncture
+lumbar puncture	analyzes	cerebrospinal fluid
+cerebrospinal fluid	shows	white blood cells
+cerebrospinal fluid	shows	glucose levels
+cerebrospinal fluid	shows	protein levels
+meningitis	requires	hospitalization
+meningitis	may require	intensive care
+bacterial meningitis	is treated with	antibiotics
+antibiotics	include	ceftriaxone
+antibiotics	include	vancomycin
+antibiotics	include	ampicillin
+viral meningitis	is treated with	supportive care
+supportive care	includes	hydration
+supportive care	includes	pain management
+fungal meningitis	is treated with	antifungals
+antifungals	include	amphotericin B
+meningitis	may lead to	hearing loss
+meningitis	may lead to	cognitive impairment
+meningitis	may lead to	motor deficits
+meningitis	has complication	hydrocephalus
+meningitis	has complication	cerebral edema
+meningitis	has risk factor	young age
+meningitis	has risk factor	old age
+meningitis	has risk factor	immunosuppression
+meningitis	has risk factor	head trauma
+meningitis	has risk factor	neurosurgery
+meningitis	is prevented by	vaccination
+vaccination	includes	Hib vaccine
+vaccination	includes	pneumococcal vaccine
+vaccination	includes	meningococcal vaccine
+meningitis	has symptom	nausea
+meningitis	has symptom	vomiting
+meningitis	has symptom	rash
+meningitis	has symptom	irritability
+meningitis	has symptom	lethargy
+meningococcal meningitis	causes	petechiae
+meningitis	requires	isolation precautions
+meningitis	may require	mechanical ventilation
+meningitis	affects	brain function
+meningitis	increases risk of	sepsis
+sepsis	is a complication of	meningitis
+meningitis	may cause	increased intracranial pressure
+increased intracranial pressure	requires	mannitol
+meningitis	is associated with	Kernig's sign
+meningitis	is associated with	Brudzinski's sign
+meningitis	has diagnostic test	blood culture
+meningitis	has diagnostic test	CT scan
+meningitis	has diagnostic test	MRI
+meningitis	has differential diagnosis	encephalitis
+meningitis	has differential diagnosis	subarachnoid hemorrhage
+meningitis	has differential diagnosis	brain abscess
+meningitis	affects	cerebrospinal fluid production
+meningitis	alters	blood-brain barrier
+meningitis	triggers	immune response
+immune response	involves	cytokines
+cytokines	contribute to	inflammation
+meningitis	may require	steroids
+steroids	reduce	inflammation
+dexamethasone	is a	steroid
+meningitis	increases	mortality risk
+meningitis	prolongs	hospital stay
+meningitis	requires	follow-up care
+follow-up care	includes	hearing tests
+follow-up care	includes	neurological exams
+meningitis	has outbreak potential	in communities
+meningitis	requires	contact tracing
+meningitis	has seasonal variation	in incidence
+meningitis	is more common	in winter
+meningitis	has vector	respiratory droplets
+respiratory droplets	spread	bacterial meningitis
+meningitis	has prevention method	hand hygiene
+meningitis	has prevention method	avoiding sharing utensils
+meningitis	has emergency treatment	ceftriaxone
+meningitis	has emergency treatment	dexamethasone
+meningitis	may cause	cranial nerve palsies
+meningitis	may cause	vasculitis
+meningitis	may cause	cerebral infarction
+meningitis	has biomarker	C-reactive protein
+meningitis	has biomarker	procalcitonin
+meningitis	affects	quality of life
+meningitis	requires	multidisciplinary care

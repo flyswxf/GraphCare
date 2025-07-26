@@ -1,0 +1,100 @@
+genitourinary congenital anomalies	is a	birth defect
+genitourinary congenital anomalies	affect	urinary system
+genitourinary congenital anomalies	affect	reproductive system
+hypospadias	is a	genitourinary congenital anomaly
+epispadias	is a	genitourinary congenital anomaly
+bladder exstrophy	is a	genitourinary congenital anomaly
+posterior urethral valves	is a	genitourinary congenital anomaly
+renal agenesis	is a	genitourinary congenital anomaly
+multicystic dysplastic kidney	is a	genitourinary congenital anomaly
+vesicoureteral reflux	is a	genitourinary congenital anomaly
+genitourinary congenital anomalies	may cause	urinary tract infections
+genitourinary congenital anomalies	may cause	kidney damage
+genitourinary congenital anomalies	may cause	renal failure
+genitourinary congenital anomalies	may cause	infertility
+genitourinary congenital anomalies	may cause	hydronephrosis
+genitourinary congenital anomalies	may require	surgery
+genitourinary congenital anomalies	may require	catheterization
+genitourinary congenital anomalies	may require	dialysis
+genitourinary congenital anomalies	may require	kidney transplant
+genitourinary congenital anomalies	diagnosed by	ultrasound
+genitourinary congenital anomalies	diagnosed by	voiding cystourethrogram
+genitourinary congenital anomalies	diagnosed by	MRI
+genitourinary congenital anomalies	diagnosed by	blood tests
+genitourinary congenital anomalies	diagnosed by	urine tests
+prenatal ultrasound	can detect	genitourinary congenital anomalies
+genitourinary congenital anomalies	associated with	chromosomal abnormalities
+Down syndrome	increases risk of	genitourinary congenital anomalies
+Turner syndrome	increases risk of	genitourinary congenital anomalies
+maternal diabetes	increases risk of	genitourinary congenital anomalies
+maternal obesity	increases risk of	genitourinary congenital anomalies
+genitourinary congenital anomalies	may lead to	hypertension
+genitourinary congenital anomalies	may lead to	proteinuria
+genitourinary congenital anomalies	may lead to	growth retardation
+genitourinary congenital anomalies	may lead to	metabolic acidosis
+genitourinary congenital anomalies	treated by	pediatric urologist
+genitourinary congenital anomalies	treated by	nephrologist
+genitourinary congenital anomalies	treated by	reconstructive surgery
+genitourinary congenital anomalies	treated by	antibiotic prophylaxis
+genitourinary congenital anomalies	treated by	anticholinergic medications
+genitourinary congenital anomalies	treated by	alpha blockers
+hypospadias	repaired by	urethroplasty
+vesicoureteral reflux	treated by	ureteral reimplantation
+posterior urethral valves	treated by	valve ablation
+bladder exstrophy	treated by	bladder closure
+renal agenesis	managed by	single kidney care
+genitourinary congenital anomalies	may coexist with	cardiac anomalies
+genitourinary congenital anomalies	may coexist with	spinal anomalies
+genitourinary congenital anomalies	may coexist with	gastrointestinal anomalies
+VACTERL association	includes	genitourinary congenital anomalies
+prune belly syndrome	includes	genitourinary congenital anomalies
+genitourinary congenital anomalies	increase risk of	urinary stones
+genitourinary congenital anomalies	increase risk of	urinary incontinence
+genitourinary congenital anomalies	increase risk of	sexual dysfunction
+genitourinary congenital anomalies	increase risk of	psychological distress
+genitourinary congenital anomalies	monitored by	renal ultrasound
+genitourinary congenital anomalies	monitored by	creatinine levels
+genitourinary congenital anomalies	monitored by	glomerular filtration rate
+genitourinary congenital anomalies	monitored by	urine protein levels
+genitourinary congenital anomalies	may require	intermittent catheterization
+genitourinary congenital anomalies	may require	urinary diversion
+ureteropelvic junction obstruction	is a	genitourinary congenital anomaly
+ureterovesical junction obstruction	is a	genitourinary congenital anomaly
+cloacal malformation	is a	genitourinary congenital anomaly
+persistent cloaca	is a	genitourinary congenital anomaly
+müllerian agenesis	is a	genitourinary congenital anomaly
+undescended testes	is a	genitourinary congenital anomaly
+bicornuate uterus	is a	genitourinary congenital anomaly
+duplex kidney	is a	genitourinary congenital anomaly
+horseshoe kidney	is a	genitourinary congenital anomaly
+crossed fused ectopia	is a	genitourinary congenital anomaly
+genitourinary congenital anomalies	may cause	chronic kidney disease
+genitourinary congenital anomalies	may cause	end-stage renal disease
+genitourinary congenital anomalies	may cause	electrolyte imbalances
+genitourinary congenital anomalies	may cause	urinary retention
+genitourinary congenital anomalies	may cause	recurrent pyelonephritis
+genitourinary congenital anomalies	may require	clean intermittent catheterization
+genitourinary congenital anomalies	may require	augmentation cystoplasty
+genitourinary congenital anomalies	may require	continent urinary diversion
+genitourinary congenital anomalies	may require	incontinent urinary diversion
+genitourinary congenital anomalies	may require	mitrofanoff procedure
+genitourinary congenital anomalies	associated with	prematurity
+genitourinary congenital anomalies	associated with	low birth weight
+genitourinary congenital anomalies	associated with	oligohydramnios
+genitourinary congenital anomalies	associated with	pulmonary hypoplasia
+genitourinary congenital anomalies	associated with	Potter sequence
+genitourinary congenital anomalies	may improve with	early intervention
+genitourinary congenital anomalies	may improve with	multidisciplinary care
+genitourinary congenital anomalies	may improve with	long-term follow-up
+genitourinary congenital anomalies	may worsen with	delayed treatment
+genitourinary congenital anomalies	may worsen with	recurrent infections
+ureteral stents	used in	genitourinary congenital anomalies
+nephrostomy tubes	used in	genitourinary congenital anomalies
+suprapubic catheters	used in	genitourinary congenital anomalies
+genitourinary congenital anomalies	may require	bowel segments
+genitourinary congenital anomalies	may require	bladder neck reconstruction
+genitourinary congenital anomalies	may require	genital reconstruction
+genitourinary congenital anomalies	may affect	quality of life
+genitourinary congenital anomalies	may affect	sexual health
+genitourinary congenital anomalies	may affect	reproductive options
+genitourinary congenital anomalies	require	lifelong monitoring

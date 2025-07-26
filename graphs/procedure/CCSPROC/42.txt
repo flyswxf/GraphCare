@@ -1,0 +1,100 @@
+respiratory procedure	is a	medical procedure
+mediastinum procedure	is a	medical procedure
+bronchoscopy	is a type of	respiratory procedure
+thoracentesis	is a type of	respiratory procedure
+mediastinoscopy	is a type of	mediastinum procedure
+pleuroscopy	is a type of	respiratory procedure
+lung biopsy	is a type of	respiratory procedure
+tracheostomy	is a type of	respiratory procedure
+bronchoscopy	used for	diagnosis
+bronchoscopy	used for	treatment
+thoracentesis	used for	fluid drainage
+mediastinoscopy	used for	tissue sampling
+pleuroscopy	used for	pleural examination
+lung biopsy	used for	cancer detection
+tracheostomy	used for	airway management
+respiratory procedure	performed on	lungs
+respiratory procedure	performed on	trachea
+respiratory procedure	performed on	bronchi
+mediastinum procedure	performed on	mediastinum
+bronchoscopy	requires	anesthesia
+thoracentesis	requires	local anesthesia
+mediastinoscopy	requires	general anesthesia
+pleuroscopy	requires	sedation
+lung biopsy	requires	imaging guidance
+tracheostomy	requires	surgical incision
+bronchoscopy	can diagnose	lung cancer
+bronchoscopy	can diagnose	infections
+thoracentesis	can diagnose	pleural effusion
+mediastinoscopy	can diagnose	lymphoma
+pleuroscopy	can diagnose	mesothelioma
+lung biopsy	can diagnose	tuberculosis
+tracheostomy	treats	airway obstruction
+bronchoscopy	may cause	bleeding
+thoracentesis	may cause	pneumothorax
+mediastinoscopy	may cause	nerve damage
+pleuroscopy	may cause	infection
+lung biopsy	may cause	air leak
+tracheostomy	may cause	tube blockage
+respiratory procedure	follows	imaging
+mediastinum procedure	follows	CT scan
+bronchoscopy	uses	flexible scope
+thoracentesis	uses	needle
+mediastinoscopy	uses	rigid scope
+pleuroscopy	uses	camera
+lung biopsy	uses	cutting needle
+tracheostomy	uses	breathing tube
+bronchoscopy	performed by	pulmonologist
+thoracentesis	performed by	interventional radiologist
+mediastinoscopy	performed by	thoracic surgeon
+pleuroscopy	performed by	chest physician
+lung biopsy	performed by	pathologist
+tracheostomy	performed by	ENT surgeon
+respiratory procedure	requires	patient consent
+mediastinum procedure	requires	preoperative testing
+bronchoscopy	contraindicated in	severe COPD
+thoracentesis	contraindicated in	bleeding disorders
+mediastinoscopy	contraindicated in	mediastinitis
+pleuroscopy	contraindicated in	severe adhesions
+lung biopsy	contraindicated in	pulmonary hypertension
+tracheostomy	contraindicated in	neck trauma
+bronchoscopy	monitors	oxygen saturation
+thoracentesis	monitors	fluid analysis
+mediastinoscopy	monitors	lymph nodes
+pleuroscopy	monitors	pleural space
+lung biopsy	monitors	tissue pathology
+tracheostomy	monitors	airway patency
+respiratory procedure	has	recovery period
+mediastinum procedure	has	surgical risks
+bronchoscopy	preceded by	fasting
+thoracentesis	preceded by	ultrasound
+mediastinoscopy	preceded by	blood tests
+pleuroscopy	preceded by	chest X-ray
+lung biopsy	preceded by	CT scan
+tracheostomy	preceded by	intubation
+bronchoscopy	followed by	observation
+thoracentesis	followed by	chest X-ray
+mediastinoscopy	followed by	pain management
+pleuroscopy	followed by	chest tube
+lung biopsy	followed by	monitoring
+tracheostomy	followed by	tube care
+respiratory procedure	associated with	hospitalization
+mediastinum procedure	associated with	operating room
+bronchoscopy	treats	foreign body
+thoracentesis	treats	empyema
+mediastinoscopy	treats	tumor staging
+pleuroscopy	treats	pleural disease
+lung biopsy	treats	interstitial lung disease
+tracheostomy	treats	prolonged ventilation
+bronchoscopy	alternative to	CT scan
+thoracentesis	alternative to	pleurodesis
+mediastinoscopy	alternative to	EBUS
+pleuroscopy	alternative to	open surgery
+lung biopsy	alternative to	sputum test
+tracheostomy	alternative to	intubation
+respiratory procedure	documented in	medical record
+mediastinum procedure	documented in	operative report
+bronchoscopy	coded as	CPT code
+thoracentesis	coded as	procedure code
+mediastinoscopy	coded as	surgical code
+pleuroscopy	coded as	endoscopic code

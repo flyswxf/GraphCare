@@ -1,0 +1,100 @@
+glaucoma	is a	eye disease
+glaucoma	involves	optic nerve damage
+glaucoma	causes	vision loss
+glaucoma	has type	open-angle glaucoma
+glaucoma	has type	angle-closure glaucoma
+glaucoma	has type	normal-tension glaucoma
+glaucoma	has risk factor	high intraocular pressure
+glaucoma	has risk factor	age
+glaucoma	has risk factor	family history
+glaucoma	has risk factor	diabetes
+glaucoma	has risk factor	hypertension
+glaucoma	has symptom	peripheral vision loss
+glaucoma	has symptom	tunnel vision
+glaucoma	has symptom	eye pain
+glaucoma	has symptom	headache
+glaucoma	has symptom	nausea
+glaucoma	diagnosed by	tonometry
+glaucoma	diagnosed by	ophthalmoscopy
+glaucoma	diagnosed by	perimetry
+glaucoma	diagnosed by	gonioscopy
+glaucoma	treated with	eye drops
+glaucoma	treated with	laser therapy
+glaucoma	treated with	surgery
+glaucoma	prevented by	regular eye exams
+glaucoma	may lead to	blindness
+open-angle glaucoma	is a	chronic condition
+angle-closure glaucoma	is a	medical emergency
+intraocular pressure	measured by	tonometer
+prostaglandin analogs	treat	glaucoma
+beta-blockers	treat	glaucoma
+alpha agonists	treat	glaucoma
+carbonic anhydrase inhibitors	treat	glaucoma
+miotics	treat	glaucoma
+trabeculectomy	is a surgery for	glaucoma
+glaucoma drainage implant	is a device for	glaucoma
+selective laser trabeculoplasty	treats	glaucoma
+iridotomy	treats	angle-closure glaucoma
+optic nerve damage	caused by	increased intraocular pressure
+optic nerve damage	leads to	vision field defects
+retinal ganglion cells	damaged in	glaucoma
+aqueous humor	builds up in	glaucoma
+trabecular meshwork	involved in	glaucoma
+visual field test	detects	glaucoma progression
+optical coherence tomography	monitors	glaucoma
+glaucoma	associated with	sleep apnea
+glaucoma	associated with	migraine
+glaucoma	associated with	myopia
+glaucoma	more common in	African Americans
+glaucoma	more common in	Asians
+glaucoma	more common in	elderly
+steroid use	increases risk of	glaucoma
+eye injury	increases risk of	glaucoma
+corticosteroids	can cause	secondary glaucoma
+neovascular glaucoma	caused by	diabetes
+pigmentary glaucoma	caused by	pigment dispersion
+exfoliation glaucoma	involves	abnormal protein deposits
+congenital glaucoma	occurs in	infants
+glaucoma medications	may cause	eye irritation
+glaucoma medications	may cause	blurred vision
+glaucoma medications	may cause	systemic side effects
+brimonidine	is a	alpha agonist
+timolol	is a	beta-blocker
+latanoprost	is a	prostaglandin analog
+dorzolamide	is a	carbonic anhydrase inhibitor
+pilocarpine	is a	miotic
+glaucoma surgery	may cause	cataract
+glaucoma surgery	may cause	hypotony
+glaucoma surgery	may cause	infection
+glaucoma	requires	lifelong management
+glaucoma	has no	cure
+early detection	prevents	glaucoma progression
+intraocular pressure	regulated by	aqueous humor drainage
+Schlemm's canal	involved in	aqueous humor drainage
+corneal thickness	affects	intraocular pressure measurement
+glaucoma suspect	monitored for	glaucoma development
+visual acuity test	assesses	glaucoma impact
+optic disc cupping	indicates	glaucoma
+retinal nerve fiber layer	thins in	glaucoma
+glaucoma	may coexist with	cataracts
+glaucoma	may coexist with	macular degeneration
+glaucoma research	focuses on	neuroprotection
+stem cell therapy	investigated for	glaucoma
+gene therapy	investigated for	glaucoma
+glutamate excitotoxicity	involved in	glaucoma
+oxidative stress	contributes to	glaucoma
+vascular dysregulation	associated with	glaucoma
+autonomic dysfunction	associated with	glaucoma
+glaucoma	affects	quality of life
+glaucoma support groups	help	patients
+low vision aids	assist	glaucoma patients
+glaucoma education	improves	treatment adherence
+telemedicine	used for	glaucoma monitoring
+artificial intelligence	aids in	glaucoma diagnosis
+home tonometry	allows	intraocular pressure monitoring
+nutrition	may influence	glaucoma progression
+exercise	may benefit	glaucoma patients
+smoking	worsens	glaucoma prognosis
+alcohol	affects	intraocular pressure
+caffeine	temporarily increases	intraocular pressure
+stress management	helps	glaucoma control

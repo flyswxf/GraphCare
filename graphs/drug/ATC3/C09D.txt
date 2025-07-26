@@ -1,0 +1,100 @@
+ARBs	are	hypertension medications
+ARBs	block	angiotensin II receptors
+ARBs combinations	include	diuretics
+ARBs combinations	include	calcium channel blockers
+losartan	is an	ARB
+valsartan	is an	ARB
+candesartan	is an	ARB
+olmesartan	is an	ARB
+irbesartan	is an	ARB
+telmisartan	is an	ARB
+ARBs	reduce	blood pressure
+ARBs	protect	kidneys
+ARBs	prevent	stroke
+ARBs	decrease	heart failure risk
+ARBs combinations	enhance	efficacy
+ARBs+dihydropyridine CCBs	treat	resistant hypertension
+ARBs+thiazides	have	synergistic effect
+ARBs	contraindicated in	pregnancy
+ARBs	may cause	hyperkalemia
+ARBs	require	renal monitoring
+ARBs	alternative to	ACE inhibitors
+ARBs	have fewer	cough side effects
+ARBs	metabolized by	CYP2C9
+ARBs	interact with	NSAIDs
+ARBs	increase	lithium levels
+ARBs+amlodipine	sold as	Exforge
+ARBs+HCTZ	sold as	Diovan HCT
+ARBs	delay	diabetic nephropathy
+ARBs	reduce	proteinuria
+ARBs	lower	cardiovascular mortality
+ARBs	preferred in	diabetes patients
+ARBs	inhibit	aldosterone secretion
+ARBs	decrease	left ventricular hypertrophy
+ARBs	improve	endothelial function
+ARBs	show	pleiotropic effects
+ARBs	prescribed for	heart failure
+ARBs	indicated for	post-MI care
+ARBs	compete with	angiotensin II
+ARBs	bind to	AT1 receptors
+ARBs	prevent	vasoconstriction
+ARBs	reduce	oxidative stress
+ARBs	modify	RAAS system
+ARBs	affect	sodium excretion
+ARBs	influence	potassium balance
+ARBs	require	dose titration
+ARBs	available as	generics
+ARBs	differ in	lipophilicity
+ARBs	vary in	bioavailability
+ARBs	have	once-daily dosing
+ARBs	approved for	pediatric use
+ARBs	evaluated in	clinical trials
+ARBs	compared with	beta blockers
+ARBs	superior to	ACEi in tolerability
+ARBs	cost-effective for	long-term therapy
+ARBs	included in	treatment guidelines
+ARBs	prescribed for	elderly patients
+ARBs	monitored via	BP measurements
+ARBs	require	adherence monitoring
+ARBs	affected by	dietary sodium
+ARBs	interact with	potassium supplements
+ARBs	contraindicated in	bilateral renal stenosis
+ARBs	avoided in	cirrhosis
+ARBs	studied in	CHARM trial
+ARBs	evaluated in	VALUE trial
+ARBs	shown in	ONTARGET study
+ARBs	prevent	atrial fibrillation
+ARBs	reduce	hospitalizations
+ARBs	improve	quality of life
+ARBs	combined with	statins
+ARBs	prescribed with	antiplatelets
+ARBs	used in	polypharmacy regimens
+ARBs	require	liver function tests
+ARBs	associated with	rare angioedema
+ARBs	prescribed as	first-line therapy
+ARBs	alternative for	ACEi-intolerant
+ARBs	work via	receptor blockade
+ARBs	developed after	ACE inhibitors
+ARBs	have	better side effect profile
+ARBs	protect against	stroke recurrence
+ARBs	reduce	myocardial fibrosis
+ARBs	inhibit	vascular remodeling
+ARBs	decrease	inflammatory markers
+ARBs	affect	collagen metabolism
+ARBs	show	organoprotective effects
+ARBs	prevent	microalbuminuria
+ARBs	slow	CKD progression
+ARBs	recommended in	ADA guidelines
+ARBs	preferred for	metabolic syndrome
+ARBs	effective in	obese hypertensives
+ARBs	prescribed with	lifestyle modifications
+ARBs	require	periodic potassium checks
+ARBs	avoided in	severe renal impairment
+ARBs	contraindicated with	aliskiren
+ARBs	interact with	grapefruit juice
+ARBs	affect	GFR
+ARBs	influence	renal plasma flow
+ARBs	reduce	glomerular pressure
+ARBs	decrease	urinary albumin
+ARBs	improve	insulin sensitivity
+ARBs	modulate	adipokine secretion

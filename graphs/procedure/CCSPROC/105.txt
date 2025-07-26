@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+kidney transplant	is a	surgical procedure
+kidney transplant	treats	kidney failure
+kidney transplant	requires	donor kidney
+donor kidney	can be from	living donor
+donor kidney	can be from	deceased donor
+kidney transplant	has risk	rejection
+rejection	prevented by	immunosuppressants
+immunosuppressants	includes	tacrolimus
+immunosuppressants	includes	cyclosporine
+immunosuppressants	includes	prednisone
+kidney transplant	requires	blood type matching
+kidney transplant	requires	tissue matching
+tissue matching	involves	HLA antigens
+kidney transplant	followed by	postoperative care
+postoperative care	includes	infection prevention
+infection prevention	requires	antibiotics
+kidney transplant	can lead to	complications
+complications	include	surgical site infection
+complications	include	blood clots
+complications	include	urinary problems
+kidney transplant	alternative to	dialysis
+dialysis	types include	hemodialysis
+dialysis	types include	peritoneal dialysis
+kidney transplant	improves	quality of life
+kidney transplant	increases	life expectancy
+kidney failure	causes include	diabetes
+kidney failure	causes include	hypertension
+diabetes	managed by	insulin
+hypertension	treated by	antihypertensives
+kidney transplant	requires	pre-surgery evaluation
+pre-surgery evaluation	includes	cardiac testing
+pre-surgery evaluation	includes	pulmonary testing
+cardiac testing	methods include	ECG
+pulmonary testing	methods include	spirometry
+kidney transplant	performed by	transplant surgeon
+transplant surgeon	specializes in	organ transplantation
+kidney transplant	occurs in	transplant center
+transplant center	has	specialized equipment
+specialized equipment	includes	operating microscope
+kidney transplant	requires	anesthesia
+anesthesia	types include	general anesthesia
+anesthesia	administered by	anesthesiologist
+kidney transplant	involves	vascular anastomosis
+vascular anastomosis	connects	blood vessels
+kidney transplant	involves	ureteral reimplantation
+ureteral reimplantation	connects	ureter to bladder
+kidney transplant	requires	hospital stay
+hospital stay	duration depends on	recovery progress
+recovery progress	monitored by	nephrologist
+nephrologist	specializes in	kidney diseases
+kidney transplant	followed by	regular checkups
+regular checkups	include	blood tests
+blood tests	measure	creatinine levels
+creatinine levels	indicate	kidney function
+kidney transplant	requires	lifestyle changes
+lifestyle changes	include	dietary modifications
+dietary modifications	restrict	sodium intake
+dietary modifications	restrict	potassium intake
+lifestyle changes	include	exercise regimen
+exercise regimen	improves	cardiovascular health
+kidney transplant	contraindicated in	active infections
+kidney transplant	contraindicated in	metastatic cancer
+metastatic cancer	treated by	chemotherapy
+chemotherapy	affects	immune system
+kidney transplant	preceded by	organ allocation
+organ allocation	governed by	UNOS
+UNOS	maintains	transplant waiting list
+transplant waiting list	prioritizes	medical urgency
+medical urgency	determined by	MELD score
+MELD score	calculated from	lab values
+kidney transplant	costs covered by	insurance
+insurance	types include	Medicare
+Medicare	covers	end-stage renal disease
+end-stage renal disease	requires	renal replacement therapy
+renal replacement therapy	options include	transplantation
+kidney transplant	research involves	xenotransplantation
+xenotransplantation	uses	animal organs
+animal organs	sources include	pigs
+kidney transplant	success measured by	graft survival
+graft survival	affected by	immunosuppression adherence
+immunosuppression adherence	prevents	rejection episodes
+rejection episodes	diagnosed by	biopsy
+biopsy	examines	tissue samples
+tissue samples	analyzed by	pathologist
+kidney transplant	complications include	CMV infection
+CMV infection	treated by	antiviral drugs
+antiviral drugs	include	ganciclovir
+kidney transplant	complications include	PTLD
+PTLD	associated with	EBV infection
+EBV infection	causes	mononucleosis
+kidney transplant	psychological aspects include	anxiety
+anxiety	managed by	counseling
+counseling	provided by	psychologist
+kidney transplant	social aspects include	support groups
+support groups	provide	peer support
+kidney transplant	ethical issues include	organ trafficking
+organ trafficking	opposed by	WHO
+WHO	promotes	ethical transplantation
+ethical transplantation	requires	informed consent
+informed consent	explains	risks and benefits

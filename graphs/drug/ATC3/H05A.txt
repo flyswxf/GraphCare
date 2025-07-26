@@ -1,0 +1,100 @@
+parathyroid hormone	is a	hormone
+parathyroid hormone	secreted by	parathyroid glands
+parathyroid hormone	regulates	calcium levels
+parathyroid hormone	affects	bone metabolism
+parathyroid hormone	stimulates	osteoclasts
+parathyroid hormone	increases	calcium absorption
+parathyroid hormone	decreases	phosphate levels
+parathyroid hormone	activates	vitamin D
+parathyroid hormone	targets	kidneys
+parathyroid hormone	causes	hypercalcemia
+hypercalcemia	may lead to	kidney stones
+hypercalcemia	associated with	fatigue
+parathyroid hormone	measured by	PTH test
+PTH test	diagnoses	hyperparathyroidism
+hyperparathyroidism	treated by	surgery
+parathyroid hormone	has	analogues
+teriparatide	is a	parathyroid hormone analogue
+teriparatide	used for	osteoporosis
+osteoporosis	characterized by	bone loss
+teriparatate	stimulates	bone formation
+teriparatide	administered via	injection
+teriparatide	has side effect	hypercalcemia
+teriparatide	contraindicated in	Paget's disease
+Paget's disease	affects	bone remodeling
+parathyroid hormone	interacts with	calcitonin
+calcitonin	opposes	parathyroid hormone
+calcitonin	lowers	calcium levels
+parathyroid hormone	related to	calcium-sensing receptor
+calcium-sensing receptor	regulates	PTH secretion
+parathyroid hormone	affects	phosphate excretion
+hypoparathyroidism	caused by	low PTH
+hypoparathyroidism	treated with	calcium supplements
+calcium supplements	may cause	constipation
+parathyroid hormone	influences	magnesium levels
+magnesium deficiency	affects	PTH secretion
+parathyroid hormone	measured with	calcium levels
+PTH assay	differentiates	hyperparathyroidism types
+primary hyperparathyroidism	caused by	adenoma
+parathyroid adenoma	treated by	parathyroidectomy
+parathyroidectomy	requires	postoperative monitoring
+postoperative monitoring	checks	calcium levels
+hypocalcemia	complication of	parathyroidectomy
+hypocalcemia	treated with	IV calcium
+parathyroid hormone	affects	cardiovascular system
+chronic hyperparathyroidism	linked to	hypertension
+hypertension	risk factor for	cardiovascular disease
+parathyroid hormone	impacts	neuromuscular function
+hypocalcemia	causes	muscle cramps
+muscle cramps	relieved by	calcium supplementation
+parathyroid hormone	relates to	phosphate homeostasis
+phosphate homeostasis	important for	energy metabolism
+energy metabolism	involves	ATP production
+parathyroid hormone	affects	intestinal calcium absorption
+intestinal calcium absorption	enhanced by	vitamin D
+vitamin D deficiency	causes	rickets
+rickets	characterized by	bone deformities
+parathyroid hormone	influences	bone mineral density
+low bone mineral density	indicates	osteoporosis
+osteoporosis	increases risk of	fractures
+fractures	may require	surgical intervention
+parathyroid hormone	administered as	recombinant PTH
+recombinant PTH	used for	hypoparathyroidism
+hypoparathyroidism	may cause	tetany
+tetany	symptom of	severe hypocalcemia
+parathyroid hormone	interacts with	PTHrP
+PTHrP	causes	humoral hypercalcemia
+humoral hypercalcemia	associated with	malignancies
+malignancies	may secrete	PTHrP
+parathyroid hormone	regulates	renal calcium reabsorption
+renal calcium reabsorption	occurs in	distal tubule
+distal tubule	target of	thiazide diuretics
+thiazide diuretics	may cause	hypercalcemia
+parathyroid hormone	levels vary with	circadian rhythm
+circadian rhythm	affects	hormone secretion
+parathyroid hormone	production decreases with	aging
+aging	risk factor for	osteoporosis
+parathyroid hormone	influenced by	estrogen
+estrogen deficiency	accelerates	bone loss
+bone loss	prevented by	bisphosphonates
+bisphosphonates	contraindicated with	teriparatide
+parathyroid hormone	affects	acid-base balance
+acidosis	stimulates	PTH secretion
+alkalosis	inhibits	PTH secretion
+parathyroid hormone	related to	fibroblast growth factor 23
+FGF23	regulates	phosphate excretion
+FGF23	suppressed by	PTH
+parathyroid hormone	impacts	dental health
+hypocalcemia	causes	enamel defects
+enamel defects	lead to	dental caries
+parathyroid hormone	monitored in	chronic kidney disease
+chronic kidney disease	causes	secondary hyperparathyroidism
+secondary hyperparathyroidism	treated with	calcimimetics
+calcimimetics	activate	calcium-sensing receptor
+parathyroid hormone	affects	pregnancy outcomes
+maternal hyperparathyroidism	risks	neonatal hypocalcemia
+neonatal hypocalcemia	may cause	seizures
+parathyroid hormone	influences	cognitive function
+chronic hypercalcemia	associated with	cognitive impairment
+cognitive impairment	evaluated by	MMSE
+MMSE	assesses	dementia severity

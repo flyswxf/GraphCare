@@ -1,0 +1,100 @@
+Hodgkin's disease	is a	lymphoma
+Hodgkin's disease	affects	lymph nodes
+Hodgkin's disease	may cause	B symptoms
+B symptoms	include	fever
+B symptoms	include	night sweats
+B symptoms	include	weight loss
+Hodgkin's disease	diagnosed via	biopsy
+biopsy	reveals	Reed-Sternberg cells
+Reed-Sternberg cells	are characteristic of	Hodgkin's disease
+Hodgkin's disease	classified into	classical type
+Hodgkin's disease	classified into	nodular lymphocyte-predominant type
+classical Hodgkin's disease	has subtypes	nodular sclerosis
+classical Hodgkin's disease	has subtypes	mixed cellularity
+classical Hodgkin's disease	has subtypes	lymphocyte-rich
+classical Hodgkin's disease	has subtypes	lymphocyte-depleted
+Hodgkin's disease	staged via	Ann Arbor system
+Ann Arbor system	considers	lymph node regions
+Ann Arbor system	considers	extranodal involvement
+Hodgkin's disease	may lead to	immunodeficiency
+immunodeficiency	increases risk of	infections
+Hodgkin's disease	treated with	chemotherapy
+ABVD regimen	is a	chemotherapy protocol
+ABVD regimen	includes	doxorubicin
+ABVD regimen	includes	bleomycin
+ABVD regimen	includes	vinblastine
+ABVD regimen	includes	dacarbazine
+Hodgkin's disease	treated with	radiotherapy
+radiotherapy	targets	affected lymph nodes
+Hodgkin's disease	may require	stem cell transplant
+stem cell transplant	preceded by	high-dose chemotherapy
+Hodgkin's disease	associated with	Epstein-Barr virus
+Epstein-Barr virus	linked to	oncogenesis
+Hodgkin's disease	has risk factor	family history
+Hodgkin's disease	has risk factor	young adulthood
+Hodgkin's disease	may cause	splenomegaly
+splenomegaly	may lead to	cytopenias
+Hodgkin's disease	may cause	hepatomegaly
+Hodgkin's disease	may cause	bone marrow infiltration
+bone marrow infiltration	may cause	anemia
+Hodgkin's disease	may cause	mediastinal mass
+mediastinal mass	may cause	superior vena cava syndrome
+superior vena cava syndrome	causes	facial swelling
+superior vena cava syndrome	causes	dyspnea
+Hodgkin's disease	may relapse after	treatment
+relapsed Hodgkin's disease	treated with	salvage therapy
+salvage therapy	may include	ICE regimen
+ICE regimen	includes	ifosfamide
+ICE regimen	includes	carboplatin
+ICE regimen	includes	etoposide
+Hodgkin's disease	has prognostic factor	stage
+Hodgkin's disease	has prognostic factor	B symptoms
+Hodgkin's disease	has prognostic factor	ESR
+ESR	measures	inflammation
+Hodgkin's disease	may cause	pruritus
+Hodgkin's disease	may cause	alcohol-induced pain
+Hodgkin's disease	requires	PET-CT monitoring
+PET-CT	assesses	treatment response
+complete metabolic response	indicates	remission
+Hodgkin's disease	may lead to	secondary malignancies
+secondary malignancies	include	acute leukemia
+secondary malignancies	include	solid tumors
+Hodgkin's disease treatment	may cause	infertility
+Hodgkin's disease treatment	may cause	cardiotoxicity
+cardiotoxicity	associated with	anthracyclines
+Hodgkin's disease treatment	may cause	pulmonary toxicity
+pulmonary toxicity	associated with	bleomycin
+Hodgkin's disease	has biomarker	CD30
+brentuximab vedotin	targets	CD30
+brentuximab vedotin	is an	antibody-drug conjugate
+Hodgkin's disease	may be treated with	checkpoint inhibitors
+nivolumab	is a	PD-1 inhibitor
+pembrolizumab	is a	PD-1 inhibitor
+PD-1 inhibitors	enhance	immune response
+Hodgkin's disease	has genetic predisposition	HLA associations
+HLA-DRB1	associated with	Hodgkin's disease
+Hodgkin's disease	more common in	developed countries
+Hodgkin's disease	has peak incidence	ages 15-35
+Hodgkin's disease	has second peak	after age 55
+Hodgkin's disease	may cause	lymphocytopenia
+lymphocytopenia	increases risk of	infections
+Hodgkin's disease	may cause	eosinophilia
+eosinophilia	indicates	cytokine production
+Hodgkin's disease	involves	cytokine dysregulation
+IL-10	elevated in	Hodgkin's disease
+IL-13	elevated in	Hodgkin's disease
+Hodgkin's disease	may cause	hypercalcemia
+hypercalcemia	may cause	renal stones
+hypercalcemia	may cause	altered mental status
+Hodgkin's disease	may cause	paraproteinemia
+paraproteinemia	may cause	hyperviscosity
+Hodgkin's disease	requires	long-term follow-up
+long-term follow-up	monitors	late effects
+late effects	include	cardiovascular disease
+late effects	include	thyroid dysfunction
+Hodgkin's disease	may complicate	pregnancy
+pregnancy	requires modified	treatment approach
+Hodgkin's disease	has differential diagnosis	non-Hodgkin lymphoma
+Hodgkin's disease	has differential diagnosis	infectious mononucleosis
+Hodgkin's disease	has differential diagnosis	sarcoidosis
+Hodgkin's disease	research focuses on	immunotherapy

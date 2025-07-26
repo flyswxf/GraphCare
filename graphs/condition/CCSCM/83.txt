@@ -1,0 +1,100 @@
+epilepsy	is a	neurological disorder
+convulsions	are a symptom of	epilepsy
+epilepsy	may cause	loss of consciousness
+epilepsy	is treated with	anticonvulsants
+carbamazepine	is an	anticonvulsant
+valproate	is an	anticonvulsant
+lamotrigine	is an	anticonvulsant
+epilepsy	can lead to	status epilepticus
+status epilepticus	is a	medical emergency
+epilepsy	is diagnosed by	EEG
+EEG	measures	brain activity
+epilepsy	may be caused by	brain injury
+brain injury	can result from	trauma
+epilepsy	is associated with	genetic mutations
+genetic mutations	may affect	ion channels
+ion channels	regulate	neuronal excitability
+epilepsy	increases risk of	sudden death
+sudden death	may result from	cardiac arrhythmia
+epilepsy	is comorbid with	depression
+depression	is treated with	antidepressants
+epilepsy	may worsen with	sleep deprivation
+sleep deprivation	affects	cognitive function
+epilepsy	requires	long-term management
+long-term management	includes	medication adherence
+medication adherence	prevents	seizure recurrence
+seizure recurrence	reduces	quality of life
+epilepsy	may require	surgical intervention
+surgical intervention	includes	temporal lobectomy
+temporal lobectomy	removes	epileptogenic tissue
+epilepsy	is monitored with	seizure diaries
+seizure diaries	track	seizure frequency
+seizure frequency	indicates	treatment efficacy
+epilepsy	can be triggered by	flashing lights
+flashing lights	stimulate	photosensitive epilepsy
+photosensitive epilepsy	is a subtype of	epilepsy
+epilepsy	may coexist with	migraines
+migraines	are treated with	triptans
+epilepsy	increases risk of	fractures
+fractures	may result from	seizure falls
+seizure falls	cause	physical injury
+epilepsy	is managed by	neurologists
+neurologists	specialize in	brain disorders
+epilepsy	may involve	hippocampal sclerosis
+hippocampal sclerosis	is seen in	MRI
+MRI	provides	brain imaging
+epilepsy	is linked to	febrile seizures
+febrile seizures	occur in	childhood
+childhood epilepsy	may resolve with age
+epilepsy	can be inherited	genetic predisposition
+genetic predisposition	increases	seizure susceptibility
+epilepsy	may respond to	ketogenic diet
+ketogenic diet	alters	metabolism
+metabolism	affects	seizure threshold
+epilepsy	is exacerbated by	stress
+stress	triggers	cortisol release
+cortisol	influences	neuronal activity
+epilepsy	requires	emergency medication
+emergency medication	includes	benzodiazepines
+benzodiazepines	act on	GABA receptors
+GABA receptors	inhibit	neuronal firing
+epilepsy	may lead to	cognitive decline
+cognitive decline	affects	memory
+memory	is impaired by	frequent seizures
+epilepsy	is studied in	animal models
+animal models	simulate	human seizures
+human seizures	vary in	severity
+epilepsy	may involve	cortical dysplasia
+cortical dysplasia	is a	brain malformation
+brain malformation	disrupts	neural circuits
+epilepsy	is screened for	drug resistance
+drug resistance	complicates	treatment
+treatment failure	necessitates	alternative therapies
+epilepsy	is associated with	SUDEP
+SUDEP	stands for	sudden unexpected death in epilepsy
+SUDEP	is prevented by	seizure control
+epilepsy	may involve	autoimmune mechanisms
+autoimmune mechanisms	target	brain proteins
+brain proteins	regulate	synaptic transmission
+epilepsy	is influenced by	hormones
+hormones	fluctuate during	menstrual cycle
+menstrual cycle	affects	catamenial epilepsy
+catamenial epilepsy	worsens during	menstruation
+epilepsy	may benefit from	vagus nerve stimulation
+vagus nerve stimulation	modulates	brain activity
+brain activity	is measured by	MEG
+MEG	detects	magnetic fields
+epilepsy	is researched via	clinical trials
+clinical trials	test	new drugs
+new drugs	aim to	reduce side effects
+side effects	include	dizziness
+dizziness	is a symptom of	drug toxicity
+drug toxicity	requires	dose adjustment
+epilepsy	may correlate with	autism
+autism	is a	developmental disorder
+developmental disorder	affects	communication
+epilepsy	is more common in	low-income countries
+low-income countries	lack	healthcare access
+healthcare access	improves	treatment outcomes
+treatment outcomes	depend on	early diagnosis
+early diagnosis	enables	timely intervention

@@ -1,0 +1,100 @@
+cough suppressants	are	medications
+cough suppressants	treat	cough
+cough suppressants	act on	cough reflex
+cough suppressants	contain	dextromethorphan
+cough suppressants	contain	codeine
+dextromethorphan	is	active ingredient
+codeine	is	opioid
+opioids	can cause	dependence
+cough suppressants	work in	brain
+brain	has	cough center
+cough center	regulates	cough reflex
+cough suppressants	suppress	medullary cough center
+cough suppressants	not mixed with	expectorants
+expectorants	promote	mucus secretion
+mucus secretion	helps with	productive cough
+productive cough	requires	expectorants
+cough suppressants	contraindicated for	productive cough
+cough suppressants	used for	dry cough
+dry cough	caused by	irritation
+irritation	may be from	viral infection
+viral infection	causes	common cold
+common cold	symptom is	cough
+cough suppressants	available as	syrup
+cough suppressants	available as	tablets
+syrup	has	faster absorption
+tablets	have	longer duration
+cough suppressants	interact with	MAOIs
+MAOIs	are	antidepressants
+antidepressants	may increase	side effects
+side effects	include	drowsiness
+drowsiness	affects	driving ability
+cough suppressants	not for	children
+children	may have	respiratory depression
+respiratory depression	is	serious side effect
+cough suppressants	metabolized in	liver
+liver	enzymes break down	drugs
+enzyme deficiency	affects	drug metabolism
+drug metabolism	influences	dosage
+dosage	depends on	age
+dosage	depends on	weight
+weight	affects	drug distribution
+drug distribution	determines	effectiveness
+effectiveness	measured by	symptom relief
+symptom relief	improves	quality of life
+quality of life	important for	chronic cough
+chronic cough	lasts over	8 weeks
+8 weeks	is	diagnostic threshold
+diagnostic threshold	determines	treatment
+treatment	may require	specialist
+specialist	could be	pulmonologist
+pulmonologist	treats	lung conditions
+lung conditions	include	asthma
+asthma	symptom is	cough
+cough	may be	nocturnal
+nocturnal cough	disrupts	sleep
+sleep disruption	affects	daytime function
+daytime function	important for	work performance
+work performance	impacted by	medication side effects
+medication side effects	include	dizziness
+dizziness	increases	fall risk
+fall risk	higher in	elderly
+elderly	need	dose adjustment
+dose adjustment	prevents	toxicity
+toxicity	causes	adverse effects
+adverse effects	require	medical attention
+medical attention	provided by	healthcare providers
+healthcare providers	prescribe	medications
+medications	have	generic versions
+generic versions	are	cheaper
+cheaper medications	increase	adherence
+adherence	improves	treatment outcomes
+treatment outcomes	measured by	symptom reduction
+symptom reduction	indicates	effectiveness
+effectiveness	compared in	clinical trials
+clinical trials	test	safety
+safety	evaluated by	FDA
+FDA	regulates	medications
+medications	have	indications
+indications	specify	approved uses
+approved uses	exclude	certain conditions
+certain conditions	may require	alternative treatments
+alternative treatments	include	honey
+honey	soothes	throat irritation
+throat irritation	triggers	cough
+cough	classified as	acute
+acute cough	lasts under	3 weeks
+3 weeks	is	common duration
+common duration	depends on	cause
+cause	could be	allergies
+allergies	treated with	antihistamines
+antihistamines	differ from	cough suppressants
+cough suppressants	not for	allergic cough
+allergic cough	better treated with	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	causes	airway irritation
+airway irritation	results in	cough
+cough	evaluated by	frequency
+frequency	determines	severity
+severity	guides	treatment choice
+treatment choice	considers	patient history

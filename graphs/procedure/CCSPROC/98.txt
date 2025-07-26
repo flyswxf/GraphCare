@@ -1,0 +1,100 @@
+gastrointestinal therapeutic procedure	is a	medical procedure
+gastrointestinal therapeutic procedure	treats	digestive disorders
+endoscopic procedure	is a type of	gastrointestinal therapeutic procedure
+colonoscopy	is a type of	gastrointestinal therapeutic procedure
+upper endoscopy	is a type of	gastrointestinal therapeutic procedure
+ERCP	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound	is a type of	gastrointestinal therapeutic procedure
+capsule endoscopy	is a type of	gastrointestinal therapeutic procedure
+biliary stent placement	is a type of	gastrointestinal therapeutic procedure
+esophageal dilation	is a type of	gastrointestinal therapeutic procedure
+endoscopic hemostasis	is a type of	gastrointestinal therapeutic procedure
+polypectomy	is a type of	gastrointestinal therapeutic procedure
+endoscopic mucosal resection	is a type of	gastrointestinal therapeutic procedure
+percutaneous endoscopic gastrostomy	is a type of	gastrointestinal therapeutic procedure
+endoscopic retrograde cholangiopancreatography	is a type of	gastrointestinal therapeutic procedure
+endoscopic variceal ligation	is a type of	gastrointestinal therapeutic procedure
+endoscopic sphincterotomy	is a type of	gastrointestinal therapeutic procedure
+endoscopic balloon dilation	is a type of	gastrointestinal therapeutic procedure
+endoscopic stent placement	is a type of	gastrointestinal therapeutic procedure
+endoscopic necrosectomy	is a type of	gastrointestinal therapeutic procedure
+endoscopic submucosal dissection	is a type of	gastrointestinal therapeutic procedure
+endoscopic full-thickness resection	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided drainage	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided biopsy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided fine-needle aspiration	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided celiac plexus block	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided pancreatic duct drainage	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided biliary drainage	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided gallbladder drainage	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided pseudocyst drainage	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided abscess drainage	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided tumor ablation	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided fiducial placement	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided brachytherapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided radiofrequency ablation	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided cryotherapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided photodynamic therapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided laser therapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided ethanol injection	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided chemoembolization	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided immunotherapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided gene therapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided stem cell therapy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided tissue engineering	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided artificial intelligence	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided robotic surgery	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided virtual reality	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided augmented reality	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided 3D printing	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided nanotechnology	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided biosensors	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided wireless capsule endoscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided confocal laser endomicroscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided optical coherence tomography	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided Raman spectroscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided fluorescence imaging	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided photoacoustic imaging	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided hyperspectral imaging	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided molecular imaging	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided multiphoton microscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided super-resolution microscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided atomic force microscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided scanning electron microscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided transmission electron microscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided cryo-electron microscopy	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided X-ray crystallography	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided nuclear magnetic resonance	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided mass spectrometry	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided chromatography	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided electrophoresis	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided PCR	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided DNA sequencing	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided RNA sequencing	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided protein sequencing	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided metabolomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided proteomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided transcriptomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided genomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided epigenomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided microbiomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided viromics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided immunomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided pharmacogenomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided toxicogenomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided nutrigenomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided metagenomics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided synthetic biology	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided systems biology	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided computational biology	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided mathematical modeling	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided machine learning	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided deep learning	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided neural networks	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided reinforcement learning	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided natural language processing	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided computer vision	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided robotics	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided automation	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided internet of things	is a type of	gastrointestinal therapeutic procedure
+endoscopic ultrasound-guided blockchain	is a type of	gastrointestinal therapeutic procedure

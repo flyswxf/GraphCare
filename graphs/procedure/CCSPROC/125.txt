@@ -1,0 +1,100 @@
+other excision of cervix and uterus	is a	surgical procedure
+other excision of cervix and uterus	performed for	cervical cancer
+other excision of cervix and uterus	performed for	uterine cancer
+other excision of cervix and uterus	performed for	fibroids
+other excision of cervix and uterus	performed for	endometriosis
+other excision of cervix and uterus	performed for	abnormal bleeding
+other excision of cervix and uterus	performed for	pelvic pain
+other excision of cervix and uterus	performed for	prolapse
+other excision of cervix and uterus	performed by	gynecologist
+other excision of cervix and uterus	requires	anesthesia
+other excision of cervix and uterus	has risk	bleeding
+other excision of cervix and uterus	has risk	infection
+other excision of cervix and uterus	has risk	organ damage
+other excision of cervix and uterus	has risk	blood clots
+other excision of cervix and uterus	has risk	infertility
+other excision of cervix and uterus	has risk	menopause
+other excision of cervix and uterus	has risk	adhesions
+other excision of cervix and uterus	requires	hospitalization
+other excision of cervix and uterus	requires	recovery time
+other excision of cervix and uterus	followed by	pain management
+other excision of cervix and uterus	followed by	physical therapy
+other excision of cervix and uterus	alternative to	hysterectomy
+other excision of cervix and uterus	alternative to	radiation therapy
+other excision of cervix and uterus	alternative to	chemotherapy
+other excision of cervix and uterus	uses	surgical instruments
+other excision of cervix and uterus	uses	laparoscope
+other excision of cervix and uterus	uses	laser
+other excision of cervix and uterus	uses	electrosurgery
+other excision of cervix and uterus	preceded by	imaging
+other excision of cervix and uterus	preceded by	biopsy
+other excision of cervix and uterus	preceded by	blood tests
+other excision of cervix and uterus	preceded by	Pap smear
+other excision of cervix and uterus	preceded by	colposcopy
+other excision of cervix and uterus	affects	hormone levels
+other excision of cervix and uterus	affects	sexual function
+other excision of cervix and uterus	affects	urinary function
+other excision of cervix and uterus	affects	bowel function
+other excision of cervix and uterus	associated with	pelvic exam
+other excision of cervix and uterus	associated with	HPV
+other excision of cervix and uterus	associated with	family history
+other excision of cervix and uterus	associated with	obesity
+other excision of cervix and uterus	associated with	age
+other excision of cervix and uterus	associated with	parity
+other excision of cervix and uterus	associated with	smoking
+other excision of cervix and uterus	prevents	cancer spread
+other excision of cervix and uterus	prevents	hemorrhage
+other excision of cervix and uterus	prevents	chronic pain
+other excision of cervix and uterus	requires	follow-up
+other excision of cervix and uterus	requires	pathology report
+other excision of cervix and uterus	requires	wound care
+other excision of cervix and uterus	contraindicated in	pregnancy
+other excision of cervix and uterus	contraindicated in	active infection
+other excision of cervix and uterus	contraindicated in	bleeding disorders
+other excision of cervix and uterus	contraindicated in	heart disease
+other excision of cervix and uterus	contraindicated in	lung disease
+other excision of cervix and uterus	monitored by	vital signs
+other excision of cervix and uterus	monitored by	pain scale
+other excision of cervix and uterus	monitored by	blood count
+other excision of cervix and uterus	monitored by	urine output
+other excision of cervix and uterus	complication	fistula
+other excision of cervix and uterus	complication	hematoma
+other excision of cervix and uterus	complication	abscess
+other excision of cervix and uterus	complication	nerve damage
+other excision of cervix and uterus	complication	lymphedema
+other excision of cervix and uterus	complication	vaginal stenosis
+other excision of cervix and uterus	complication	vaginal shortening
+other excision of cervix and uterus	complication	dyspareunia
+other excision of cervix and uterus	complication	urinary incontinence
+other excision of cervix and uterus	complication	bowel obstruction
+other excision of cervix and uterus	outcome	cure
+other excision of cervix and uterus	outcome	remission
+other excision of cervix and uterus	outcome	recurrence
+other excision of cervix and uterus	outcome	metastasis
+other excision of cervix and uterus	outcome	survival
+other excision of cervix and uterus	outcome	quality of life
+other excision of cervix and uterus	outcome	sexual health
+other excision of cervix and uterus	outcome	fertility
+other excision of cervix and uterus	outcome	psychological impact
+other excision of cervix and uterus	managed with	antibiotics
+other excision of cervix and uterus	managed with	analgesics
+other excision of cervix and uterus	managed with	hormone therapy
+other excision of cervix and uterus	managed with	pelvic floor exercises
+other excision of cervix and uterus	managed with	counseling
+other excision of cervix and uterus	managed with	support groups
+other excision of cervix and uterus	involves	cervix
+other excision of cervix and uterus	involves	uterus
+other excision of cervix and uterus	involves	fallopian tubes
+other excision of cervix and uterus	involves	ovaries
+other excision of cervix and uterus	involves	ligaments
+other excision of cervix and uterus	involves	lymph nodes
+other excision of cervix and uterus	involves	blood vessels
+other excision of cervix and uterus	involves	nerves
+other excision of cervix and uterus	involves	vaginal cuff
+other excision of cervix and uterus	classification	radical
+other excision of cervix and uterus	classification	total
+other excision of cervix and uterus	classification	partial
+other excision of cervix and uterus	classification	laparoscopic
+other excision of cervix and uterus	classification	robotic
+other excision of cervix and uterus	classification	abdominal
+other excision of cervix and uterus	classification	vaginal

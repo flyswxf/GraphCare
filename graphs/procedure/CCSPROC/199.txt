@@ -1,0 +1,100 @@
+electroencephalogram	is a	diagnostic test
+electroencephalogram	measures	brain activity
+electroencephalogram	uses	electrodes
+electroencephalogram	detects	epilepsy
+electroencephalogram	evaluates	seizures
+electroencephalogram	monitors	sleep disorders
+electroencephalogram	assesses	brain damage
+electroencephalogram	diagnoses	encephalopathy
+electroencephalogram	screens	brain tumors
+electroencephalogram	tests	brain death
+electroencephalogram	records	electrical impulses
+electroencephalogram	requires	scalp preparation
+electroencephalogram	performed by	neurologist
+electroencephalogram	takes	20-40 minutes
+electroencephalogram	may follow	sleep deprivation
+electroencephalogram	contraindicated in	scalp wounds
+electroencephalogram	alternative to	MRI
+electroencephalogram	cheaper than	PET scan
+electroencephalogram	non-invasive	procedure
+electroencephalogram	safer than	invasive monitoring
+electroencephalogram	first used	1929
+electroencephalogram	invented by	Hans Berger
+electroencephalogram	measures	delta waves
+electroencephalogram	measures	theta waves
+electroencephalogram	measures	alpha waves
+electroencephalogram	measures	beta waves
+electroencephalogram	identifies	spike waves
+electroencephalogram	detects	slow waves
+electroencephalogram	shows	seizure patterns
+electroencephalogram	reveals	focal abnormalities
+electroencephalogram	indicates	encephalitis
+electroencephalogram	suggests	stroke
+electroencephalogram	helps diagnose	dementia
+electroencephalogram	evaluates	coma
+electroencephalogram	monitors	anesthesia
+electroencephalogram	tracks	brain development
+electroencephalogram	assesses	ADHD
+electroencephalogram	studies	concussion
+electroencephalogram	researches	consciousness
+electroencephalogram	analyzes	brain mapping
+EEG technician	performs	electroencephalogram
+neurologist	interprets	electroencephalogram
+hospital	offers	electroencephalogram
+clinic	provides	electroencephalogram
+ambulatory EEG	is a type of	electroencephalogram
+sleep EEG	is a type of	electroencephalogram
+video EEG	is a type of	electroencephalogram
+routine EEG	is a type of	electroencephalogram
+prolonged EEG	is a type of	electroencephalogram
+electroencephalogram	requires	patient cooperation
+electroencephalogram	contraindicated in	uncooperative patients
+electroencephalogram	affected by	medications
+electroencephalogram	influenced by	caffeine
+electroencephalogram	disrupted by	movement
+electroencephalogram	improved by	digital technology
+electroencephalogram	stored as	electronic record
+electroencephalogram	compared with	previous tests
+electroencephalogram	part of	neurological exam
+electroencephalogram	complements	clinical assessment
+electroencephalogram	precedes	treatment planning
+electroencephalogram	guides	medication choice
+electroencephalogram	monitors	treatment efficacy
+electroencephalogram	detects	drug toxicity
+electroencephalogram	evaluates	brain injury
+electroencephalogram	assists in	surgical planning
+electroencephalogram	measures	cognitive function
+electroencephalogram	researches	brain disorders
+electroencephalogram	studies	mental illness
+electroencephalogram	investigates	neurodegenerative diseases
+electroencephalogram	explores	brain-computer interfaces
+electroencephalogram	used in	neuroscience
+electroencephalogram	applied in	psychiatry
+electroencephalogram	utilized in	intensive care
+electroencephalogram	helpful for	epilepsy monitoring
+electroencephalogram	essential for	seizure classification
+electroencephalogram	confirms	non-epileptic seizures
+electroencephalogram	differentiates	seizure types
+electroencephalogram	predicts	seizure recurrence
+electroencephalogram	assesses	seizure severity
+electroencephalogram	evaluates	anticonvulsant effects
+electroencephalogram	monitors	status epilepticus
+electroencephalogram	detects	subclinical seizures
+electroencephalogram	identifies	epileptogenic zone
+electroencephalogram	localizes	seizure focus
+electroencephalogram	correlates with	MRI findings
+electroencephalogram	combines with	video monitoring
+electroencephalogram	integrates with	polysomnography
+electroencephalogram	synchronizes with	EKG
+electroencephalogram	complements	CT scan
+electroencephalogram	contrasts with	fMRI
+electroencephalogram	superior for	temporal resolution
+electroencephalogram	inferior for	spatial resolution
+electroencephalogram	portable version exists
+electroencephalogram	wearable versions developed
+electroencephalogram	mobile applications emerging
+electroencephalogram	artificial intelligence analyzes
+electroencephalogram	machine learning improves
+electroencephalogram	automated interpretation possible
+electroencephalogram	evolving technology
+electroencephalogram	remains fundamental tool

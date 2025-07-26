@@ -1,0 +1,101 @@
+cardiac and circulatory congenital anomalies	is a type of	congenital disorder
+cardiac and circulatory congenital anomalies	affects	cardiovascular system
+cardiac and circulatory congenital anomalies	may cause	cyanosis
+cardiac and circulatory congenital anomalies	may lead to	heart failure
+cardiac and circulatory congenital anomalies	requires	surgical intervention
+cardiac and circulatory congenital anomalies	is diagnosed via	echocardiography
+echocardiography	uses	ultrasound
+cardiac and circulatory congenital anomalies	is associated with	genetic mutations
+genetic mutations	can be detected via	genetic testing
+cardiac and circulatory congenital anomalies	may require	lifelong monitoring
+cardiac and circulatory congenital anomalies	increases risk of	arrhythmias
+arrhythmias	can be treated with	antiarrhythmic drugs
+antiarrhythmic drugs	include	amiodarone
+cardiac and circulatory congenital anomalies	can cause	pulmonary hypertension
+pulmonary hypertension	is managed with	vasodilators
+vasodilators	include	sildenafil
+cardiac and circulatory congenital anomalies	may result in	developmental delays
+developmental delays	require	early intervention
+early intervention	involves	physical therapy
+cardiac and circulatory congenital anomalies	is linked to	maternal infections
+maternal infections	include	rubella
+rubella	can be prevented by	vaccination
+cardiac and circulatory congenital anomalies	may necessitate	pacemaker implantation
+pacemaker implantation	is a	surgical procedure
+cardiac and circulatory congenital anomalies	is more common in	preterm births
+preterm births	increase risk of	neonatal complications
+neonatal complications	require	NICU care
+NICU care	involves	specialized nursing
+cardiac and circulatory congenital anomalies	can lead to	thromboembolism
+thromboembolism	is prevented with	anticoagulants
+anticoagulants	include	warfarin
+cardiac and circulatory congenital anomalies	may coexist with	chromosomal abnormalities
+chromosomal abnormalities	include	Down syndrome
+Down syndrome	is diagnosed via	karyotyping
+cardiac and circulatory congenital anomalies	can worsen with	aging
+aging	increases risk of	comorbidities
+comorbidities	complicate	treatment plans
+cardiac and circulatory congenital anomalies	is studied via	animal models
+animal models	help in	drug development
+drug development	requires	clinical trials
+clinical trials	involve	human participants
+human participants	provide	informed consent
+informed consent	ensures	ethical research
+cardiac and circulatory congenital anomalies	has subtypes	septal defects
+septal defects	can be	atrial or ventricular
+atrial septal defects	may close spontaneously
+ventricular septal defects	often require surgery
+cardiac and circulatory congenital anomalies	can affect	exercise tolerance
+exercise tolerance	is assessed via	stress testing
+stress testing	monitors	heart rate
+heart rate	is regulated by	autonomic nervous system
+autonomic nervous system	can be dysregulated in	congenital anomalies
+cardiac and circulatory congenital anomalies	increases mortality in	infants
+infants	may need	extracorporeal membrane oxygenation
+extracorporeal membrane oxygenation	supports	heart and lung function
+cardiac and circulatory congenital anomalies	is researched via	genome sequencing
+genome sequencing	identifies	pathogenic variants
+pathogenic variants	can inform	personalized medicine
+personalized medicine	tailors	treatment strategies
+cardiac and circulatory congenital anomalies	can cause	growth retardation
+growth retardation	is managed with	nutritional support
+nutritional support	includes	high-calorie formulas
+high-calorie formulas	are administered via	feeding tubes
+feeding tubes	require	proper placement
+cardiac and circulatory congenital anomalies	may involve	valve abnormalities
+valve abnormalities	can lead to	regurgitation
+regurgitation	is corrected via	valve repair
+valve repair	uses	prosthetic materials
+prosthetic materials	can cause	immune reactions
+immune reactions	are mitigated with	immunosuppressants
+immunosuppressants	include	corticosteroids
+cardiac and circulatory congenital anomalies	is detected via	prenatal ultrasound
+prenatal ultrasound	is performed during	pregnancy
+pregnancy	requires	regular checkups
+regular checkups	help in	early detection
+early detection	improves	prognosis
+cardiac and circulatory congenital anomalies	can trigger	syncope
+syncope	is evaluated via	electrocardiography
+electrocardiography	records	electrical activity
+electrical activity	can reveal	conduction disorders
+conduction disorders	are treated with	pacemakers
+pacemakers	regulate	heart rhythm
+heart rhythm	can be disrupted by	electrolyte imbalances
+electrolyte imbalances	are corrected with	IV fluids
+IV fluids	contain	sodium and potassium
+cardiac and circulatory congenital anomalies	may cause	clubbing
+clubbing	is a sign of	chronic hypoxia
+chronic hypoxia	is managed with	oxygen therapy
+oxygen therapy	improves	tissue perfusion
+tissue perfusion	is critical for	organ function
+organ function	can decline in	heart failure
+heart failure	is classified by	ejection fraction
+ejection fraction	is measured via	cardiac MRI
+cardiac MRI	provides	detailed images
+detailed images	assist in	surgical planning
+surgical planning	involves	multidisciplinary teams
+multidisciplinary teams	include	cardiologists and surgeons
+cardiologists	prescribe	medications
+surgeons	perform	corrective procedures
+corrective procedures	aim to	restore circulation
+restored circulation	enhances	quality of life

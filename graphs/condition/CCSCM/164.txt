@@ -1,0 +1,100 @@
+hyperplasia of prostate	is a	benign condition
+hyperplasia of prostate	affects	prostate gland
+hyperplasia of prostate	causes	urinary obstruction
+hyperplasia of prostate	leads to	lower urinary tract symptoms
+hyperplasia of prostate	associated with	aging
+hyperplasia of prostate	may cause	nocturia
+hyperplasia of prostate	may cause	urinary retention
+hyperplasia of prostate	may cause	weak urine stream
+hyperplasia of prostate	may cause	urinary frequency
+hyperplasia of prostate	may cause	hesitancy
+hyperplasia of prostate	may lead to	bladder stones
+hyperplasia of prostate	may lead to	urinary tract infections
+hyperplasia of prostate	may lead to	hydronephrosis
+hyperplasia of prostate	may lead to	renal failure
+hyperplasia of prostate	diagnosed by	digital rectal exam
+hyperplasia of prostate	diagnosed by	prostate-specific antigen test
+hyperplasia of prostate	diagnosed by	urinalysis
+hyperplasia of prostate	diagnosed by	ultrasound
+hyperplasia of prostate	diagnosed by	uroflowmetry
+hyperplasia of prostate	treated with	alpha-blockers
+hyperplasia of prostate	treated with	5-alpha reductase inhibitors
+hyperplasia of prostate	treated with	anticholinergics
+hyperplasia of prostate	treated with	surgery
+hyperplasia of prostate	treated with	transurethral resection
+hyperplasia of prostate	treated with	laser therapy
+hyperplasia of prostate	treated with	prostate artery embolization
+tamsulosin	is an	alpha-blocker
+finasteride	is a	5-alpha reductase inhibitor
+dutasteride	is a	5-alpha reductase inhibitor
+transurethral resection	is a	surgical procedure
+transurethral resection	treats	hyperplasia of prostate
+holmium laser enucleation	is a	surgical procedure
+holmium laser enucleation	treats	hyperplasia of prostate
+prostate-specific antigen	is a	biomarker
+prostate-specific antigen	elevated in	hyperplasia of prostate
+prostate-specific antigen	elevated in	prostate cancer
+digital rectal exam	assesses	prostate size
+digital rectal exam	assesses	prostate nodules
+urgency	is a symptom of	hyperplasia of prostate
+incomplete emptying	is a symptom of	hyperplasia of prostate
+dysuria	is a symptom of	hyperplasia of prostate
+hematuria	may occur in	hyperplasia of prostate
+bladder hypertrophy	may result from	hyperplasia of prostate
+detrusor muscle	affected by	hyperplasia of prostate
+urinary retention	may require	catheterization
+acute urinary retention	is a complication of	hyperplasia of prostate
+chronic urinary retention	is a complication of	hyperplasia of prostate
+post-void residual	measures	urine retention
+post-void residual	assesses	hyperplasia of prostate severity
+urodynamic testing	evaluates	bladder function
+urodynamic testing	diagnoses	hyperplasia of prostate complications
+antidiuretic hormone	affects	nocturia
+nocturnal polyuria	associated with	hyperplasia of prostate
+diuretics	may worsen	lower urinary tract symptoms
+caffeine	may worsen	lower urinary tract symptoms
+alcohol	may worsen	lower urinary tract symptoms
+saw palmetto	is a	herbal remedy
+saw palmetto	used for	hyperplasia of prostate
+beta-sitosterol	is a	phytosterol
+beta-sitosterol	used for	hyperplasia of prostate
+phosphodiesterase inhibitors	treat	erectile dysfunction
+phosphodiesterase inhibitors	may interact with	alpha-blockers
+intravesical prostatic protrusion	predicts	hyperplasia of prostate severity
+prostate volume	correlates with	hyperplasia of prostate severity
+prostate volume	measured by	ultrasound
+transrectal ultrasound	evaluates	prostate
+magnetic resonance imaging	evaluates	prostate
+prostate biopsy	rules out	prostate cancer
+prostate cancer	may coexist with	hyperplasia of prostate
+prostatectomy	treats	prostate cancer
+prostatectomy	may treat	hyperplasia of prostate
+open prostatectomy	is a	surgical option
+minimally invasive surgery	treats	hyperplasia of prostate
+recurrent urinary infections	indicate	hyperplasia of prostate complications
+kidney damage	may result from	hyperplasia of prostate
+creatinine levels	monitor	kidney function
+blood urea nitrogen	monitors	kidney function
+hydronephrosis	may require	nephrostomy
+urethral stricture	may mimic	hyperplasia of prostate symptoms
+neurogenic bladder	may mimic	hyperplasia of prostate symptoms
+diabetes mellitus	may worsen	lower urinary tract symptoms
+hypertension	may coexist with	hyperplasia of prostate
+obesity	is a risk factor for	hyperplasia of prostate
+metabolic syndrome	is a risk factor for	hyperplasia of prostate
+family history	is a risk factor for	hyperplasia of prostate
+androgens	contribute to	hyperplasia of prostate
+estrogens	may influence	hyperplasia of prostate
+dihydrotestosterone	stimulates	prostate growth
+5-alpha reductase	converts	testosterone to dihydrotestosterone
+inflammation	may contribute to	hyperplasia of prostate
+chronic prostatitis	may coexist with	hyperplasia of prostate
+urinary diversion	may be needed for	hyperplasia of prostate complications
+suprapubic catheter	manages	urinary retention
+intermittent catheterization	manages	urinary retention
+quality of life	affected by	hyperplasia of prostate
+International Prostate Symptom Score	assesses	hyperplasia of prostate severity
+watchful waiting	is a management option for	hyperplasia of prostate
+lifestyle modifications	help manage	hyperplasia of prostate
+pelvic floor exercises	may improve	urinary symptoms
+regular follow-up	monitors	hyperplasia of prostate progression

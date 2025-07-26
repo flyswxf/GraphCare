@@ -1,0 +1,100 @@
+hysterectomy	is a	female organ procedure
+hysterectomy	treats	uterine fibroids
+hysterectomy	treats	endometriosis
+hysterectomy	prevents	cervical cancer
+oophorectomy	is a	female organ procedure
+oophorectomy	treats	ovarian cancer
+oophorectomy	prevents	ovarian cysts
+salpingectomy	is a	female organ procedure
+salpingectomy	prevents	ectopic pregnancy
+salpingectomy	reduces risk	ovarian cancer
+myomectomy	is a	female organ procedure
+myomectomy	removes	uterine fibroids
+myomectomy	preserves	fertility
+endometrial ablation	is a	therapeutic procedure
+endometrial ablation	treats	heavy menstrual bleeding
+endometrial ablation	reduces need	hysterectomy
+tubal ligation	is a	sterilization procedure
+tubal ligation	prevents	pregnancy
+tubal ligation	is irreversible	contraception
+colposcopy	is a	diagnostic procedure
+colposcopy	detects	cervical dysplasia
+colposcopy	follows	abnormal Pap smear
+LEEP procedure	treats	cervical dysplasia
+LEEP procedure	is a	therapeutic procedure
+LEEP procedure	prevents	cervical cancer
+D&C	is a	uterine procedure
+D&C	treats	abnormal bleeding
+D&C	removes	uterine polyps
+laparoscopy	is a	minimally invasive procedure
+laparoscopy	diagnoses	endometriosis
+laparoscopy	treats	pelvic adhesions
+hysteroscopy	is a	diagnostic procedure
+hysteroscopy	visualizes	uterine cavity
+hysteroscopy	removes	uterine fibroids
+vaginal rejuvenation	is a	cosmetic procedure
+vaginal rejuvenation	improves	pelvic floor function
+vaginal rejuvenation	treats	vaginal laxity
+pelvic exenteration	is a	radical procedure
+pelvic exenteration	treats	advanced gynecologic cancer
+pelvic exenteration	removes	multiple organs
+cervical cerclage	is a	therapeutic procedure
+cervical cerclage	prevents	preterm birth
+cervical cerclage	supports	weak cervix
+fertility preservation	is a	therapeutic option
+fertility preservation	includes	egg freezing
+fertility preservation	precedes	chemotherapy
+ovarian drilling	is a	fertility treatment
+ovarian drilling	induces	ovulation
+ovarian drilling	treats	PCOS
+vulvectomy	is a	surgical procedure
+vulvectomy	treats	vulvar cancer
+vulvectomy	removes	vulvar tissue
+uterine artery embolization	is a	minimally invasive procedure
+uterine artery embolization	shrinks	fibroids
+uterine artery embolization	preserves	uterus
+Mirena IUD	is a	therapeutic device
+Mirena IUD	treats	heavy periods
+Mirena IUD	provides	contraception
+Essure	is a	sterilization device
+Essure	blocks	fallopian tubes
+Essure	is a	non-surgical option
+vaginal hysterectomy	is a	surgical approach
+vaginal hysterectomy	has faster recovery	abdominal hysterectomy
+vaginal hysterectomy	avoids	abdominal incision
+abdominal hysterectomy	is a	surgical approach
+abdominal hysterectomy	allows	better visualization
+abdominal hysterectomy	treats	large fibroids
+laparoscopic hysterectomy	is a	minimally invasive approach
+laparoscopic hysterectomy	reduces	hospital stay
+laparoscopic hysterectomy	has less pain	open surgery
+robot-assisted hysterectomy	uses	da Vinci system
+robot-assisted hysterectomy	enhances	surgical precision
+robot-assisted hysterectomy	is more expensive	traditional surgery
+endometrial resection	is a	surgical procedure
+endometrial resection	treats	abnormal bleeding
+endometrial resection	destroys	endometrial lining
+vaginal vault suspension	is a	reconstructive procedure
+vaginal vault suspension	treats	pelvic organ prolapse
+vaginal vault suspension	supports	vaginal apex
+Burch procedure	is a	incontinence surgery
+Burch procedure	treats	stress incontinence
+Burch procedure	supports	urethra
+sling procedure	is a	incontinence treatment
+sling procedure	uses	synthetic mesh
+sling procedure	supports	urethra
+perineorrhaphy	is a	reconstructive surgery
+perineorrhaphy	repairs	perineal muscles
+perineorrhaphy	treats	vaginal prolapse
+fistula repair	is a	surgical procedure
+fistula repair	closes	abnormal connection
+fistula repair	treats	obstetric fistula
+vaginoplasty	is a	reconstructive surgery
+vaginoplasty	creates	neovagina
+vaginoplasty	treats	vaginal agenesis
+labiaplasty	is a	cosmetic procedure
+labiaplasty	reshapes	labia
+labiaplasty	reduces	discomfort
+fallopian tube recanalization	is a	fertility procedure
+fallopian tube recanalization	opens	blocked tubes
+fallopian tube recanalization	restores	fertility

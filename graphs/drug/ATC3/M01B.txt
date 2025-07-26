@@ -1,0 +1,100 @@
+antiinflammatory/antirheumatic agents in combination	is a	medication
+antiinflammatory/antirheumatic agents in combination	treats	rheumatoid arthritis
+antiinflammatory/antirheumatic agents in combination	treats	osteoarthritis
+antiinflammatory/antirheumatic agents in combination	reduces	inflammation
+antiinflammatory/antirheumatic agents in combination	alleviates	pain
+antiinflammatory/antirheumatic agents in combination	may include	NSAIDs
+antiinflammatory/antirheumatic agents in combination	may include	DMARDs
+antiinflammatory/antirheumatic agents in combination	may include	corticosteroids
+antiinflammatory/antirheumatic agents in combination	can cause	gastrointestinal bleeding
+antiinflammatory/antirheumatic agents in combination	can cause	liver damage
+antiinflammatory/antirheumatic agents in combination	requires	monitoring
+antiinflammatory/antirheumatic agents in combination	interacts with	anticoagulants
+antiinflammatory/antirheumatic agents in combination	contraindicated in	peptic ulcer disease
+antiinflammatory/antirheumatic agents in combination	metabolized in	liver
+antiinflammatory/antirheumatic agents in combination	excreted by	kidneys
+antiinflammatory/antirheumatic agents in combination	prescribed for	autoimmune diseases
+antiinflammatory/antirheumatic agents in combination	improves	joint mobility
+antiinflammatory/antirheumatic agents in combination	slows	disease progression
+antiinflammatory/antirheumatic agents in combination	may require	dose adjustment
+antiinflammatory/antirheumatic agents in combination	affects	immune system
+NSAIDs	inhibit	COX enzymes
+DMARDs	modify	immune response
+corticosteroids	suppress	inflammation
+gastrointestinal bleeding	caused by	NSAIDs
+liver damage	monitored through	liver function tests
+monitoring	involves	blood tests
+anticoagulants	increased risk of	bleeding
+peptic ulcer disease	aggravated by	NSAIDs
+liver	processes	drug metabolism
+kidneys	filter	drug metabolites
+autoimmune diseases	characterized by	chronic inflammation
+joint mobility	improved by	pain reduction
+disease progression	measured by	imaging studies
+dose adjustment	based on	renal function
+immune system	modulated by	DMARDs
+COX enzymes	produce	prostaglandins
+immune response	regulated by	cytokines
+inflammation	mediated by	inflammatory markers
+liver function tests	assess	hepatotoxicity
+blood tests	detect	side effects
+bleeding	prevented by	proton pump inhibitors
+NSAIDs	combined with	gastroprotective agents
+drug metabolites	eliminated via	urine
+chronic inflammation	leads to	tissue damage
+pain reduction	improves	quality of life
+imaging studies	show	joint erosion
+renal function	determines	drug clearance
+cytokines	targeted by	biologic agents
+prostaglandins	cause	pain
+inflammatory markers	include	CRP
+hepatotoxicity	indicated by	elevated enzymes
+side effects	managed by	dose reduction
+proton pump inhibitors	protect	gastric mucosa
+gastroprotective agents	prevent	ulcers
+urine	contains	drug byproducts
+tissue damage	results in	disability
+quality of life	assessed by	questionnaires
+joint erosion	seen on	X-rays
+drug clearance	affected by	age
+biologic agents	block	TNF-alpha
+CRP	measures	inflammation severity
+elevated enzymes	suggest	liver injury
+dose reduction	minimizes	toxicity
+gastric mucosa	damaged by	NSAIDs
+ulcers	treated with	antacids
+drug byproducts	detected in	lab tests
+disability	measured by	HAQ score
+questionnaires	evaluate	patient symptoms
+X-rays	reveal	joint space narrowing
+age	influences	drug sensitivity
+TNF-alpha	promotes	inflammation
+inflammation severity	correlates with	ESR
+liver injury	treated with	medication cessation
+toxicity	prevented by	therapeutic drug monitoring
+antacids	neutralize	stomach acid
+lab tests	monitor	drug levels
+HAQ score	assesses	functional status
+patient symptoms	include	morning stiffness
+joint space narrowing	indicates	osteoarthritis
+drug sensitivity	varies by	genetics
+ESR	reflects	inflammatory activity
+medication cessation	reverses	adverse effects
+therapeutic drug monitoring	optimizes	treatment
+stomach acid	irritates	esophagus
+drug levels	guide	dosing
+functional status	impacts	daily activities
+morning stiffness	lasts	hours
+osteoarthritis	involves	cartilage breakdown
+genetics	affect	drug metabolism
+inflammatory activity	predicts	disease flares
+adverse effects	reported to	FDA
+treatment	tailored to	individual needs
+esophagus	protected by	sucralfate
+dosing	adjusted for	body weight
+daily activities	limited by	joint pain
+cartilage breakdown	leads to	bone spurs
+drug metabolism	influenced by	liver enzymes
+disease flares	managed with	steroid pulses
+FDA	regulates	drug safety
+individual needs	determined by	comorbidities

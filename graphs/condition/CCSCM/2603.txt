@@ -1,0 +1,100 @@
+fall	is classified by	E codes
+fall	is a type of	unintentional injury
+fall	may cause	fracture
+fall	may cause	traumatic brain injury
+fall	may cause	hip fracture
+fall	is common in	elderly
+fall	is associated with	osteoporosis
+fall	is associated with	balance disorder
+fall	is associated with	visual impairment
+fall	is associated with	polypharmacy
+fall	is prevented by	exercise
+fall	is prevented by	home modification
+fall	is prevented by	vitamin D supplementation
+fall	is treated with	physical therapy
+fall	is treated with	pain medication
+fall	is treated with	surgery
+fall	leads to	hospitalization
+fall	leads to	rehabilitation
+fall	leads to	disability
+fall	leads to	mortality
+fall	is assessed by	Morse Fall Scale
+fall	is assessed by	Tinetti test
+fall	is assessed by	Berg Balance Scale
+fall	is documented with	incident report
+fall	is documented with	electronic health record
+fall	is documented with	ICD-10 coding
+fall	is more common in	nursing homes
+fall	is more common in	hospitals
+fall	is more common in	dementia patients
+fall	is more common in	stroke survivors
+fall	is influenced by	environmental hazards
+fall	is influenced by	footwear
+fall	is influenced by	lighting
+fall	is influenced by	floor surface
+fall	is influenced by	assistive devices
+fall	is associated with	syncope
+fall	is associated with	vertigo
+fall	is associated with	hypotension
+fall	is associated with	arrhythmia
+fall	is associated with	Parkinson's disease
+fall	is associated with	peripheral neuropathy
+fall	is associated with	muscle weakness
+fall	is associated with	gait disorder
+fall	is associated with	alcohol use
+fall	is associated with	benzodiazepine use
+fall	is associated with	antidepressant use
+fall	is associated with	antihypertensive use
+fall	is associated with	diuretic use
+fall	is associated with	hypoglycemia
+fall	is associated with	dehydration
+fall	is evaluated with	radiology
+fall	is evaluated with	CT scan
+fall	is evaluated with	MRI
+fall	is evaluated with	X-ray
+fall	is evaluated with	neurological exam
+fall	is evaluated with	orthostatic blood pressure
+fall	is evaluated with	cardiac monitoring
+fall	is evaluated with	medication review
+fall	is evaluated with	vision test
+fall	is evaluated with	hearing test
+fall	requires	multidisciplinary care
+fall	requires	geriatric assessment
+fall	requires	occupational therapy
+fall	requires	social work intervention
+fall	requires	nutrition assessment
+fall	increases risk of	fear of falling
+fall	increases risk of	social isolation
+fall	increases risk of	depression
+fall	increases risk of	loss of independence
+fall	increases risk of	institutionalization
+fall	increases cost of	healthcare
+fall	increases cost of	long-term care
+fall	increases cost of	insurance
+fall	is researched in	epidemiology
+fall	is researched in	gerontology
+fall	is researched in	rehabilitation science
+fall	is researched in	public health
+fall	is researched in	biomechanics
+fall	is prevented by	calcium supplementation
+fall	is prevented by	cataract surgery
+fall	is prevented by	hearing aids
+fall	is prevented by	medication adjustment
+fall	is prevented by	hip protectors
+fall	is prevented by	alarm systems
+fall	is prevented by	caregiver education
+fall	is prevented by	community programs
+fall	is prevented by	tai chi
+fall	is prevented by	strength training
+fall	is prevented by	balance training
+fall	is prevented by	vision correction
+fall	is prevented by	proper footwear
+fall	is prevented by	handrail installation
+fall	is prevented by	non-slip mats
+fall	is prevented by	adequate lighting
+fall	is prevented by	clutter removal
+fall	is prevented by	bed alarms
+fall	is prevented by	chair alarms
+fall	is prevented by	toilet risers
+fall	is prevented by	shower chairs
+fall	is prevented by	grab bars

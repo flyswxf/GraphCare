@@ -1,0 +1,100 @@
+other diagnostic procedures	include	imaging tests
+other diagnostic procedures	include	laboratory tests
+other diagnostic procedures	include	biopsy
+other diagnostic procedures	include	physical examination
+other diagnostic procedures	include	electrocardiogram
+imaging tests	can detect	tumors
+imaging tests	include	X-ray
+imaging tests	include	MRI
+imaging tests	include	CT scan
+imaging tests	include	ultrasound
+X-ray	used for	bone fractures
+X-ray	can detect	pneumonia
+MRI	provides detailed images	soft tissues
+MRI	used for	brain disorders
+CT scan	combines	X-rays
+CT scan	creates cross-sectional images	organs
+ultrasound	uses	sound waves
+ultrasound	monitors	pregnancy
+laboratory tests	analyze	blood samples
+laboratory tests	analyze	urine samples
+laboratory tests	measure	glucose levels
+laboratory tests	detect	infections
+blood test	assesses	kidney function
+blood test	measures	cholesterol
+urine test	detects	diabetes
+urine test	identifies	urinary tract infections
+biopsy	examines	tissue samples
+biopsy	confirms	cancer
+biopsy	types include	needle biopsy
+biopsy	types include	surgical biopsy
+needle biopsy	minimally invasive	procedure
+surgical biopsy	removes	larger tissue samples
+physical examination	assesses	vital signs
+physical examination	checks	reflexes
+physical examination	evaluates	heart sounds
+vital signs	include	blood pressure
+vital signs	include	heart rate
+vital signs	include	respiratory rate
+blood pressure	indicates	hypertension
+heart rate	reflects	cardiovascular health
+electrocardiogram	records	heart activity
+electrocardiogram	detects	arrhythmias
+electrocardiogram	helps diagnose	heart attacks
+pulmonary function tests	evaluate	lung capacity
+pulmonary function tests	diagnose	asthma
+colonoscopy	examines	colon
+colonoscopy	screens for	colorectal cancer
+mammography	detects	breast cancer
+mammography	recommended for	women over 40
+endoscopy	visualizes	digestive tract
+endoscopy	diagnoses	ulcers
+lumbar puncture	collects	cerebrospinal fluid
+lumbar puncture	tests for	meningitis
+allergy testing	identifies	allergens
+allergy testing	uses	skin prick test
+skin prick test	measures	allergic reactions
+genetic testing	detects	hereditary diseases
+genetic testing	analyzes	DNA
+DNA	contains	genetic information
+hearing test	assesses	auditory function
+hearing test	identifies	hearing loss
+vision test	measures	visual acuity
+vision test	detects	refractive errors
+refractive errors	include	myopia
+refractive errors	include	hyperopia
+dermatoscopy	examines	skin lesions
+dermatoscopy	aids in	melanoma detection
+melanoma	is a type of	skin cancer
+skin cancer	caused by	UV exposure
+UV exposure	increases	cancer risk
+cancer risk	reduced by	sunscreen
+sunscreen	protects against	skin damage
+skin damage	leads to	premature aging
+premature aging	affects	collagen production
+collagen production	declines with	age
+age	increases	disease susceptibility
+disease susceptibility	managed by	preventive care
+preventive care	includes	vaccinations
+vaccinations	prevent	infectious diseases
+infectious diseases	caused by	pathogens
+pathogens	include	bacteria
+pathogens	include	viruses
+bacteria	treated with	antibiotics
+viruses	treated with	antivirals
+antibiotics	target	bacterial infections
+antivirals	inhibit	viral replication
+viral replication	causes	disease spread
+disease spread	controlled by	hygiene
+hygiene	involves	handwashing
+handwashing	reduces	infection risk
+infection risk	affects	hospital stays
+hospital stays	increase	healthcare costs
+healthcare costs	managed by	insurance
+insurance	covers	medical expenses
+medical expenses	include	diagnostic procedures
+diagnostic procedures	aid in	early detection
+early detection	improves	treatment outcomes
+treatment outcomes	depend on	disease stage
+disease stage	determines	prognosis
+prognosis	influences	patient decisions

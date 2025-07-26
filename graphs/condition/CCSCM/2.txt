@@ -1,0 +1,100 @@
+septicemia	is a	bloodstream infection
+septicemia	may cause	sepsis
+septicemia	may lead to	septic shock
+septicemia	is caused by	bacteria
+septicemia	is diagnosed via	blood culture
+septicemia	requires	hospitalization
+septicemia	is treated with	antibiotics
+septicemia	has symptom	fever
+septicemia	has symptom	chills
+septicemia	has symptom	hypotension
+septicemia	may cause	organ failure
+septicemia	increases risk of	mortality
+septicemia	may originate from	urinary tract infection
+septicemia	may originate from	pneumonia
+septicemia	may originate from	wound infection
+septicemia	is associated with	immunocompromised state
+septicemia	requires	intravenous therapy
+septicemia	may cause	disseminated intravascular coagulation
+septicemia	is monitored via	lactate levels
+septicemia	is managed with	fluid resuscitation
+septicemia	may require	vasopressors
+septicemia	is a medical emergency
+septicemia	has high mortality rate
+septicemia	may lead to	ICU admission
+septicemia	is prevented by	infection control
+septicemia	is prevented by	antibiotic prophylaxis
+septicemia	is more common in	elderly
+septicemia	is more common in	neonates
+septicemia	is associated with	chronic illness
+septicemia	may cause	acute respiratory distress syndrome
+septicemia	may require	mechanical ventilation
+septicemia	is complicated by	multiple organ dysfunction syndrome
+septicemia	is diagnosed using	SOFA score
+septicemia	is treated with	broad-spectrum antibiotics
+vancomycin	treats	septicemia
+piperacillin-tazobactam	treats	septicemia
+meropenem	treats	septicemia
+septicemia	may require	source control
+septicemia	is associated with	central venous catheters
+septicemia	may originate from	intra-abdominal infection
+septicemia	may originate from	skin infection
+septicemia	is monitored via	procalcitonin levels
+septicemia	is managed with	hemodynamic support
+septicemia	may cause	renal failure
+septicemia	may cause	liver dysfunction
+septicemia	may cause	altered mental status
+septicemia	is treated in	intensive care unit
+septicemia	is a leading cause of	hospital death
+septicemia	increases healthcare costs
+septicemia	requires	early recognition
+septicemia	is associated with	prolonged hospital stay
+septicemia	may require	renal replacement therapy
+septicemia	is more severe in	diabetic patients
+septicemia	is complicated by	nosocomial infections
+septicemia	may originate from	osteomyelitis
+septicemia	is associated with	malnutrition
+septicemia	is prevented by	vaccination
+septicemia	may require	surgical intervention
+septicemia	is diagnosed using	qSOFA criteria
+septicemia	is treated with	combination therapy
+septicemia	may cause	thrombocytopenia
+septicemia	may cause	leukocytosis
+septicemia	is monitored via	C-reactive protein
+septicemia	is associated with	invasive procedures
+septicemia	may originate from	endocarditis
+septicemia	is more common in	burn patients
+septicemia	is treated with	pathogen-specific antibiotics
+septicemia	requires	frequent monitoring
+septicemia	may cause	metabolic acidosis
+septicemia	is associated with	immunosuppressive therapy
+septicemia	may originate from	meningitis
+septicemia	is prevented by	hand hygiene
+septicemia	is treated with	empiric therapy
+septicemia	may require	blood transfusion
+septicemia	is associated with	indwelling devices
+septicemia	may cause	myocardial depression
+septicemia	is diagnosed using	SIRS criteria
+septicemia	is treated with	supportive care
+septicemia	may require	inotropic support
+septicemia	is complicated by	antibiotic resistance
+septicemia	is associated with	chemotherapy
+septicemia	may originate from	dental infections
+septicemia	is prevented by	sterile technique
+septicemia	is treated with	early goal-directed therapy
+septicemia	may require	central line placement
+septicemia	is associated with	trauma
+septicemia	may cause	encephalopathy
+septicemia	is diagnosed using	biomarker panel
+septicemia	is treated with	immunomodulators
+septicemia	may require	oxygen therapy
+septicemia	is associated with	cirrhosis
+septicemia	may originate from	abscess
+septicemia	is prevented by	proper wound care
+septicemia	is treated with	antimicrobial stewardship
+septicemia	may require	nutritional support
+septicemia	is associated with	HIV infection
+septicemia	may cause	coagulation abnormalities
+septicemia	is diagnosed using	molecular diagnostics
+septicemia	is treated with	adjunctive therapies
+septicemia	increases risk of	long-term disability

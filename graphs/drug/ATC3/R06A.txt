@@ -1,0 +1,100 @@
+antihistamines	treat	allergies
+antihistamines	block	histamine receptors
+histamine receptors	mediate	allergic reactions
+antihistamines	reduce	sneezing
+antihistamines	alleviate	itching
+antihistamines	decrease	nasal congestion
+antihistamines	classified as	H1 antagonists
+H1 antagonists	target	H1 receptors
+first-generation antihistamines	cause	drowsiness
+second-generation antihistamines	have less	sedation
+antihistamines	interact with	CNS
+CNS	affected by	histamine
+antihistamines	used for	urticaria
+urticaria	characterized by	hives
+antihistamines	prescribed for	allergic rhinitis
+allergic rhinitis	involves	nasal inflammation
+antihistamines	help with	conjunctivitis
+conjunctivitis	causes	eye redness
+antihistamines	counteract	anaphylaxis
+anaphylaxis	requires	epinephrine
+antihistamines	metabolized in	liver
+liver	processes	drugs
+antihistamines	excreted via	kidneys
+kidneys	filter	metabolites
+antihistamines	may cause	dry mouth
+dry mouth	associated with	anticholinergic effects
+antihistamines	rarely cause	arrhythmias
+arrhythmias	relate to	QT prolongation
+antihistamines	contraindicated in	glaucoma
+glaucoma	worsened by	pupil dilation
+antihistamines	avoided in	BPH
+BPH	affects	urinary flow
+antihistamines	interact with	alcohol
+alcohol	enhances	sedation
+antihistamines	compete with	cytochrome P450
+cytochrome P450	metabolizes	medications
+antihistamines	include	loratadine
+loratadine	is	non-sedating
+antihistamines	include	diphenhydramine
+diphenhydramine	causes	drowsiness
+antihistamines	include	cetirizine
+cetirizine	treats	hay fever
+antihistamines	include	fexofenadine
+fexofenadine	derived from	terfenadine
+terfenadine	withdrawn due to	cardiotoxicity
+antihistamines	used in	cold preparations
+cold preparations	contain	decongestants
+decongestants	relieve	nasal obstruction
+antihistamines	combined with	pseudoephedrine
+pseudoephedrine	stimulates	adrenergic receptors
+adrenergic receptors	mediate	vasoconstriction
+antihistamines	useful for	motion sickness
+motion sickness	involves	vestibular system
+vestibular system	regulates	balance
+antihistamines	sometimes used for	insomnia
+insomnia	treated with	sedatives
+antihistamines	may impair	driving
+driving	requires	alertness
+antihistamines	studied for	anti-inflammatory effects
+anti-inflammatory effects	reduce	cytokine release
+cytokine release	triggers	immune response
+antihistamines	vary in	half-life
+half-life	determines	dosing frequency
+antihistamines	available as	tablets
+tablets	offer	oral administration
+antihistamines	available as	syrups
+syrups	suit	pediatric patients
+pediatric patients	require	weight-based dosing
+antihistamines	sometimes given	intravenously
+intravenous administration	provides	rapid onset
+antihistamines	cross	blood-brain barrier
+blood-brain barrier	protects	CNS
+antihistamines	accumulate in	adipose tissue
+adipose tissue	stores	lipophilic drugs
+antihistamines	may cause	weight gain
+weight gain	linked to	histamine regulation
+histamine regulation	affects	appetite
+antihistamines	modulate	mast cells
+mast cells	release	histamine
+histamine	triggers	vasodilation
+vasodilation	causes	hypotension
+antihistamines	prevent	pruritus
+pruritus	results from	histamine release
+antihistamines	tested for	COVID-19
+COVID-19	involves	cytokine storm
+cytokine storm	mitigated by	immunomodulators
+antihistamines	researched for	antiviral properties
+antiviral properties	inhibit	viral replication
+antihistamines	prescribed for	eczema
+eczema	features	skin inflammation
+skin inflammation	driven by	immune activation
+antihistamines	sometimes help	migraine
+migraine	involves	trigeminal nerve
+trigeminal nerve	transmits	pain signals
+antihistamines	compete with	serotonin receptors
+serotonin receptors	influence	mood
+antihistamines	show	weak anticholinergic activity
+anticholinergic activity	relates to	cognitive effects
+antihistamines	monitored for	drug interactions
+drug interactions	affect	therapeutic outcomes

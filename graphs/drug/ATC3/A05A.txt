@@ -1,0 +1,100 @@
+bile therapy drugs	are	medications
+bile therapy drugs	treat	cholestatic diseases
+bile therapy drugs	include	ursodeoxycholic acid
+bile therapy drugs	include	obeticholic acid
+bile therapy drugs	work on	bile acid receptors
+bile therapy drugs	regulate	bile flow
+bile therapy drugs	reduce	liver toxicity
+bile therapy drugs	improve	liver function
+bile therapy drugs	manage	primary biliary cholangitis
+bile therapy drugs	help with	gallstone dissolution
+bile therapy drugs	may cause	diarrhea
+bile therapy drugs	interact with	cholesterol medications
+bile therapy drugs	require	liver monitoring
+bile therapy drugs	affect	FXR receptor
+bile therapy drugs	modify	bile composition
+ursodeoxycholic acid	is	bile acid
+obeticholic acid	is	FXR agonist
+cholestatic diseases	affect	bile ducts
+cholestatic diseases	cause	jaundice
+cholestatic diseases	lead to	liver damage
+bile acid receptors	regulate	lipid metabolism
+bile flow	transports	toxins
+bile flow	aids	digestion
+liver toxicity	results from	bile accumulation
+liver function	measured by	ALT levels
+primary biliary cholangitis	is	autoimmune disease
+primary biliary cholangitis	affects	middle-aged women
+gallstone dissolution	requires	long-term therapy
+diarrhea	is	common side effect
+cholesterol medications	include	statins
+liver monitoring	involves	blood tests
+FXR receptor	regulates	bile acid synthesis
+bile composition	affects	cholesterol solubility
+bile acids	emulsify	dietary fats
+bile acids	are	steroid molecules
+autoimmune diseases	involve	immune dysfunction
+jaundice	causes	yellow skin
+liver damage	leads to	fibrosis
+lipid metabolism	affects	cardiovascular health
+digestion	requires	pancreatic enzymes
+ALT levels	indicate	liver inflammation
+statins	lower	LDL cholesterol
+blood tests	measure	bilirubin levels
+bile acid synthesis	occurs in	hepatocytes
+cholesterol solubility	prevents	gallstone formation
+dietary fats	are	energy sources
+steroid molecules	include	hormones
+fibrosis	progresses to	cirrhosis
+cardiovascular health	depends on	lipid balance
+pancreatic enzymes	break down	proteins
+liver inflammation	causes	hepatomegaly
+LDL cholesterol	contributes to	atherosclerosis
+bilirubin levels	reflect	liver excretory function
+hepatocytes	produce	albumin
+gallstone formation	causes	biliary colic
+energy sources	include	triglycerides
+hormones	regulate	metabolic processes
+cirrhosis	leads to	portal hypertension
+lipid balance	affects	body weight
+proteins	are	macromolecules
+hepatomegaly	indicates	liver disease
+atherosclerosis	causes	heart attacks
+liver excretory function	removes	waste products
+albumin	maintains	oncotic pressure
+biliary colic	causes	severe pain
+triglycerides	store	fatty acids
+metabolic processes	generate	ATP
+portal hypertension	leads to	varices
+body weight	affects	insulin sensitivity
+macromolecules	include	nucleic acids
+liver disease	requires	specialist care
+heart attacks	result from	coronary occlusion
+waste products	include	ammonia
+oncotic pressure	maintains	fluid balance
+severe pain	requires	analgesics
+fatty acids	are	fuel molecules
+ATP	provides	cellular energy
+varices	can cause	bleeding
+insulin sensitivity	affects	glucose metabolism
+nucleic acids	store	genetic information
+specialist care	involves	hepatologists
+coronary occlusion	reduces	blood flow
+ammonia	is	neurotoxin
+fluid balance	regulates	blood pressure
+analgesics	include	opioids
+fuel molecules	undergo	beta-oxidation
+cellular energy	powers	biochemical reactions
+bleeding	requires	emergency treatment
+glucose metabolism	produces	pyruvate
+genetic information	encodes	proteins
+hepatologists	specialize in	liver disorders
+blood flow	delivers	oxygen
+neurotoxin	affects	brain function
+blood pressure	is regulated by	renin-angiotensin system
+opioids	act on	CNS receptors
+beta-oxidation	generates	acetyl-CoA
+biochemical reactions	require	enzyme catalysis
+emergency treatment	includes	fluid resuscitation
+pyruvate	enters	citric acid cycle
+oxygen	is	cellular respiration substrate

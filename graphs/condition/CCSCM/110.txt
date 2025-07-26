@@ -1,0 +1,100 @@
+occlusion or stenosis of precerebral arteries	is a	cerebrovascular disorder
+occlusion or stenosis of precerebral arteries	may cause	ischemic stroke
+occlusion or stenosis of precerebral arteries	is diagnosed by	carotid ultrasound
+occlusion or stenosis of precerebral arteries	is managed with	antiplatelet therapy
+aspirin	is an	antiplatelet drug
+clopidogrel	is an	antiplatelet drug
+occlusion or stenosis of precerebral arteries	may require	carotid endarterectomy
+carotid endarterectomy	is a	surgical procedure
+occlusion or stenosis of precerebral arteries	is associated with	atherosclerosis
+atherosclerosis	is caused by	hyperlipidemia
+statins	treat	hyperlipidemia
+atorvastatin	is a	statin
+occlusion or stenosis of precerebral arteries	increases risk of	transient ischemic attack
+transient ischemic attack	is a warning sign for	stroke
+occlusion or stenosis of precerebral arteries	may lead to	cerebral hypoperfusion
+cerebral hypoperfusion	causes	cognitive impairment
+occlusion or stenosis of precerebral arteries	is evaluated with	CT angiography
+CT angiography	uses	contrast dye
+contrast dye	may cause	nephropathy
+occlusion or stenosis of precerebral arteries	is linked to	hypertension
+hypertension	is managed with	antihypertensive drugs
+amlodipine	is an	antihypertensive drug
+occlusion or stenosis of precerebral arteries	correlates with	diabetes mellitus
+diabetes mellitus	requires	glycemic control
+metformin	is used for	glycemic control
+occlusion or stenosis of precerebral arteries	may result in	hemiparesis
+hemiparesis	requires	physical therapy
+physical therapy	improves	motor function
+occlusion or stenosis of precerebral arteries	can cause	aphasia
+aphasia	is treated with	speech therapy
+occlusion or stenosis of precerebral arteries	is prevented by	smoking cessation
+smoking cessation	reduces	cardiovascular risk
+nicotine patches	aid in	smoking cessation
+occlusion or stenosis of precerebral arteries	is related to	obesity
+obesity	increases	inflammation
+inflammation	contributes to	endothelial dysfunction
+occlusion or stenosis of precerebral arteries	may necessitate	stenting
+stenting	involves	vascular prosthesis
+vascular prosthesis	prevents	vessel collapse
+occlusion or stenosis of precerebral arteries	is monitored with	Doppler ultrasound
+Doppler ultrasound	measures	blood flow velocity
+blood flow velocity	indicates	stenosis severity
+occlusion or stenosis of precerebral arteries	is exacerbated by	hypercoagulability
+hypercoagulability	is tested with	D-dimer
+D-dimer	detects	thrombotic activity
+occlusion or stenosis of precerebral arteries	is influenced by	genetic factors
+genetic factors	may include	MTHFR mutation
+MTHFR mutation	affects	homocysteine levels
+occlusion or stenosis of precerebral arteries	is more common in	elderly
+elderly	have increased	vascular stiffness
+vascular stiffness	worsens	pulse pressure
+occlusion or stenosis of precerebral arteries	is associated with	atrial fibrillation
+atrial fibrillation	causes	cardioembolism
+cardioembolism	leads to	stroke
+occlusion or stenosis of precerebral arteries	may coexist with	coronary artery disease
+coronary artery disease	is assessed by	stress test
+stress test	evaluates	myocardial ischemia
+occlusion or stenosis of precerebral arteries	is worsened by	sleep apnea
+sleep apnea	causes	intermittent hypoxia
+intermittent hypoxia	promotes	oxidative stress
+occlusion or stenosis of precerebral arteries	is mitigated by	Mediterranean diet
+Mediterranean diet	includes	omega-3 fatty acids
+omega-3 fatty acids	reduce	inflammation
+occlusion or stenosis of precerebral arteries	may present with	amaurosis fugax
+amaurosis fugax	is a	visual disturbance
+visual disturbance	warrants	ophthalmologic evaluation
+occlusion or stenosis of precerebral arteries	is affected by	alcohol consumption
+alcohol consumption	influences	blood pressure
+blood pressure	is regulated by	renin-angiotensin system
+occlusion or stenosis of precerebral arteries	is researched via	MR angiography
+MR angiography	provides	vascular imaging
+vascular imaging	guides	treatment planning
+occlusion or stenosis of precerebral arteries	may lead to	vascular dementia
+vascular dementia	manifests as	memory loss
+memory loss	is assessed by	cognitive testing
+occlusion or stenosis of precerebral arteries	is complicated by	recurrent stroke
+recurrent stroke	increases	mortality risk
+mortality risk	is calculated by	CHA2DS2-VASc score
+occlusion or stenosis of precerebral arteries	is treated with	anticoagulation
+warfarin	is an	anticoagulant
+anticoagulation	prevents	thrombus formation
+occlusion or stenosis of precerebral arteries	is associated with	metabolic syndrome
+metabolic syndrome	includes	insulin resistance
+insulin resistance	precedes	type 2 diabetes
+occlusion or stenosis of precerebral arteries	may require	thrombolysis
+thrombolysis	uses	tissue plasminogen activator
+tissue plasminogen activator	dissolves	blood clots
+occlusion or stenosis of precerebral arteries	is influenced by	sedentary lifestyle
+sedentary lifestyle	contributes to	weight gain
+weight gain	exacerbates	hypertension
+occlusion or stenosis of precerebral arteries	is screened for	in high-risk patients
+high-risk patients	have	multiple comorbidities
+multiple comorbidities	complicate	treatment decisions
+occlusion or stenosis of precerebral arteries	is studied in	neurology
+neurology	is a branch of	medicine
+medicine	encompasses	disease management
+occlusion or stenosis of precerebral arteries	has	ICD-10 code
+ICD-10 code	is used for	billing purposes
+billing purposes	require	documentation
+documentation	ensures	continuity of care

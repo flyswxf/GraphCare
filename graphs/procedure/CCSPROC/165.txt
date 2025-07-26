@@ -1,0 +1,100 @@
+breast biopsy	is a	diagnostic procedure
+breast biopsy	detects	breast cancer
+breast biopsy	requires	local anesthesia
+breast biopsy	uses	imaging guidance
+breast biopsy	collects	tissue sample
+core needle biopsy	is a type of	breast biopsy
+fine needle aspiration	is a type of	breast biopsy
+surgical biopsy	is a type of	breast biopsy
+vacuum-assisted biopsy	is a type of	breast biopsy
+breast biopsy	evaluates	breast lump
+breast biopsy	rules out	malignancy
+breast biopsy	performed by	radiologist
+breast biopsy	performed by	surgeon
+breast biopsy	involves	breast imaging
+breast biopsy	follows	mammography
+breast biopsy	follows	ultrasound
+breast biopsy	follows	MRI
+breast biopsy	causes	bruising
+breast biopsy	causes	swelling
+breast biopsy	risks	infection
+breast biopsy	risks	bleeding
+breast biopsy	requires	wound care
+breast biopsy	precedes	pathology analysis
+pathology report	results from	breast biopsy
+pathology report	determines	diagnosis
+breast biopsy	indicates	treatment plan
+breast biopsy	influences	surgery decision
+breast biopsy	may require	repeat procedure
+breast biopsy	affects	patient anxiety
+breast biopsy	requires	informed consent
+mammography	screens for	breast abnormalities
+mammography	precedes	breast biopsy
+ultrasound	guides	breast biopsy
+MRI	detects	occult lesions
+MRI	guides	breast biopsy
+breast MRI	is a type of	MRI
+diagnostic mammogram	is a type of	mammography
+diagnostic mammogram	evaluates	breast symptoms
+breast ultrasound	is a type of	ultrasound
+breast ultrasound	differentiates	cysts
+breast ultrasound	differentiates	solid masses
+clinical breast exam	precedes	breast biopsy
+clinical breast exam	detects	palpable lumps
+self-breast exam	detects	breast changes
+breast biopsy	confirms	imaging findings
+breast biopsy	classifies	tumor grade
+breast biopsy	identifies	hormone receptors
+estrogen receptor	is a type of	hormone receptor
+progesterone receptor	is a type of	hormone receptor
+HER2	is a type of	biomarker
+breast biopsy	tests for	HER2
+breast biopsy	determines	tumor subtype
+ductal carcinoma	is a type of	breast cancer
+lobular carcinoma	is a type of	breast cancer
+inflammatory breast cancer	is a type of	breast cancer
+breast biopsy	evaluates	calcifications
+microcalcifications	is a type of	calcifications
+macrocalcifications	is a type of	calcifications
+stereotactic biopsy	is a type of	breast biopsy
+stereotactic biopsy	targets	microcalcifications
+MRI-guided biopsy	is a type of	breast biopsy
+MRI-guided biopsy	targets	non-palpable lesions
+ultrasound-guided biopsy	is a type of	breast biopsy
+ultrasound-guided biopsy	targets	palpable lesions
+breast biopsy	excludes	benign conditions
+fibroadenoma	is a type of	benign tumor
+breast cyst	is a type of	benign condition
+fat necrosis	is a type of	benign condition
+breast biopsy	differentiates	benign tumors
+breast biopsy	differentiates	malignant tumors
+breast biopsy	aids	prognosis
+breast biopsy	influences	chemotherapy decision
+breast biopsy	influences	radiation therapy decision
+breast biopsy	influences	hormone therapy decision
+breast biopsy	influences	targeted therapy decision
+breast biopsy	precedes	lumpectomy
+breast biopsy	precedes	mastectomy
+sentinel lymph node biopsy	follows	breast biopsy
+sentinel lymph node biopsy	evaluates	lymph nodes
+axillary lymph node dissection	follows	breast biopsy
+breast biopsy	assesses	tumor margins
+breast biopsy	measures	tumor size
+breast biopsy	evaluates	lymphovascular invasion
+breast biopsy	checks	nipple involvement
+breast biopsy	determines	cancer stage
+breast biopsy	correlates with	survival rate
+breast biopsy	associated with	recurrence risk
+breast biopsy	requires	follow-up imaging
+breast biopsy	necessitates	multidisciplinary review
+breast biopsy	involves	patient counseling
+breast biopsy	impacts	quality of life
+breast biopsy	requires	pain management
+breast biopsy	utilizes	biopsy needle
+breast biopsy	utilizes	biopsy gun
+breast biopsy	utilizes	vacuum device
+breast biopsy	performed in	outpatient setting
+breast biopsy	performed in	hospital
+breast biopsy	performed in	imaging center
+breast biopsy	covered by	insurance
+breast biopsy	subject to	clinical guidelines

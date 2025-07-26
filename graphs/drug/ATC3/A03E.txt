@@ -1,0 +1,110 @@
+antispasmodics	is a	drug class
+anticholinergics	is a	drug class
+combination therapy	uses	antispasmodics
+combination therapy	uses	anticholinergics
+antispasmodics	treats	muscle spasms
+anticholinergics	blocks	acetylcholine
+muscle spasms	symptom of	irritable bowel syndrome
+acetylcholine	is a	neurotransmitter
+antispasmodics	may interact with	CNS depressants
+anticholinergics	may interact with	antidepressants
+CNS depressants	include	opioids
+antidepressants	include	SSRIs
+antispasmodics	side effect	dry mouth
+anticholinergics	side effect	blurred vision
+dry mouth	caused by	reduced saliva
+blurred vision	caused by	pupil dilation
+antispasmodics	contraindicated in	glaucoma
+anticholinergics	contraindicated in	BPH
+glaucoma	affects	optic nerve
+BPH	affects	prostate gland
+antispasmodics	metabolized by	liver enzymes
+anticholinergics	excreted via	kidneys
+liver enzymes	include	CYP3A4
+kidneys	regulate	fluid balance
+antispasmodics	mechanism	smooth muscle relaxation
+anticholinergics	mechanism	parasympathetic inhibition
+smooth muscle	found in	gastrointestinal tract
+parasympathetic system	controls	rest and digest
+combination therapy	enhances	efficacy
+efficacy	measured by	symptom relief
+antispasmodics	dosage form	oral tablet
+anticholinergics	dosage form	transdermal patch
+oral tablet	absorbed in	small intestine
+transdermal patch	delivers	steady dose
+antispasmodics	half-life	6-8 hours
+anticholinergics	half-life	12-24 hours
+half-life	determines	dosing frequency
+dosing frequency	affects	patient adherence
+antispasmodics	pregnancy category	C
+anticholinergics	pregnancy category	B
+pregnancy category	indicates	fetal risk
+fetal risk	assessed via	clinical studies
+antispasmodics	brand name	Bentyl
+anticholinergics	brand name	Atrovent
+brand name	differs from	generic name
+generic name	is	international standard
+antispasmodics	cost	lower than branded
+anticholinergics	cost	varies by region
+cost	influences	prescription rate
+prescription rate	affects	market demand
+antispasmodics	used in	elderly patients
+anticholinergics	used in	COPD patients
+elderly patients	prone to	side effects
+COPD patients	need	bronchodilation
+antispasmodics	research focus	new formulations
+anticholinergics	research focus	receptor selectivity
+new formulations	aim for	sustained release
+receptor selectivity	reduces	adverse effects
+antispasmodics	storage	room temperature
+anticholinergics	storage	avoid moisture
+room temperature	maintains	stability
+moisture	causes	degradation
+antispasmodics	onset	30-60 minutes
+anticholinergics	onset	15-30 minutes
+onset time	affects	patient satisfaction
+patient satisfaction	impacts	treatment continuation
+antispasmodics	peak effect	2 hours
+anticholinergics	peak effect	1 hour
+peak effect	determines	symptom control
+symptom control	improves	quality of life
+antispasmodics	duration	4-6 hours
+anticholinergics	duration	6-12 hours
+duration	influences	daily dose
+daily dose	tailored to	patient needs
+antispasmodics	toxicity	rare
+anticholinergics	toxicity	anticholinergic syndrome
+toxicity	managed by	dose adjustment
+anticholinergic syndrome	treated with	physostigmine
+antispasmodics	monitoring	symptom diary
+anticholinergics	monitoring	heart rate
+symptom diary	tracks	progress
+heart rate	indicates	autonomic effects
+antispasmodics	withdrawal	mild symptoms
+anticholinergics	withdrawal	rebound secretions
+withdrawal symptoms	managed by	tapering
+rebound secretions	cause	discomfort
+antispasmodics	tolerance	develops slowly
+anticholinergics	tolerance	minimal
+tolerance	leads to	dose escalation
+dose escalation	increases	risk
+antispasmodics	OTC availability	no
+anticholinergics	OTC availability	limited
+OTC availability	depends on	regulations
+regulations	vary by	country
+antispasmodics	pediatric use	caution
+anticholinergics	pediatric use	restricted
+pediatric use	requires	weight-based dosing
+weight-based dosing	ensures	safety
+antispasmodics	geriatric use	common
+anticholinergics	geriatric use	risk of confusion
+geriatric use	monitored for	cognitive effects
+cognitive effects	include	memory issues
+antispasmodics	alternative	peppermint oil
+anticholinergics	alternative	beta-agonists
+peppermint oil	relieves	IBS symptoms
+beta-agonists	treat	bronchospasm
+antispasmodics	receptor target	muscarinic
+anticholinergics	receptor target	nicotinic
+muscarinic receptor	subtypes	M1-M5
+nicotinic receptor	subtypes	neuronal/muscle

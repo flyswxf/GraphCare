@@ -1,0 +1,100 @@
+peripheral vascular bypass	is a	surgical procedure
+peripheral vascular bypass	treats	peripheral artery disease
+peripheral vascular bypass	improves	blood flow
+peripheral vascular bypass	uses	graft
+graft	can be	autologous vein
+graft	can be	synthetic material
+peripheral vascular bypass	bypasses	blocked artery
+blocked artery	caused by	atherosclerosis
+atherosclerosis	leads to	plaque buildup
+peripheral vascular bypass	performed on	lower extremities
+lower extremities	include	legs
+peripheral vascular bypass	alternative to	angioplasty
+angioplasty	uses	stent
+peripheral vascular bypass	requires	anesthesia
+anesthesia	can be	general
+anesthesia	can be	regional
+peripheral vascular bypass	has risk	infection
+infection	treated with	antibiotics
+peripheral vascular bypass	has risk	bleeding
+bleeding	managed with	hemostasis
+peripheral vascular bypass	has risk	graft failure
+graft failure	leads to	reoperation
+peripheral vascular bypass	monitored with	ultrasound
+ultrasound	detects	blood flow
+peripheral vascular bypass	requires	postoperative care
+postoperative care	includes	wound care
+wound care	prevents	complications
+peripheral vascular bypass	improves	mobility
+mobility	enhances	quality of life
+peripheral vascular bypass	reduces	claudication
+claudication	symptom of	ischemia
+ischemia	caused by	reduced blood supply
+peripheral vascular bypass	prevents	limb amputation
+limb amputation	result of	critical limb ischemia
+critical limb ischemia	advanced stage of	peripheral artery disease
+peripheral vascular bypass	performed by	vascular surgeon
+vascular surgeon	specializes in	blood vessel surgery
+peripheral vascular bypass	requires	preoperative assessment
+preoperative assessment	includes	imaging
+imaging	can be	CT angiography
+CT angiography	visualizes	blood vessels
+peripheral vascular bypass	has complication	thrombosis
+thrombosis	treated with	anticoagulants
+anticoagulants	include	heparin
+heparin	prevents	blood clots
+peripheral vascular bypass	associated with	hospital stay
+hospital stay	duration depends on	recovery
+recovery	influenced by	patient health
+patient health	affected by	comorbidities
+comorbidities	include	diabetes
+diabetes	increases risk	surgical complications
+peripheral vascular bypass	requires	follow-up
+follow-up	includes	vascular tests
+vascular tests	assess	graft patency
+graft patency	indicates	success
+peripheral vascular bypass	contraindicated in	severe heart disease
+severe heart disease	increases risk	surgery
+peripheral vascular bypass	contraindicated in	active infection
+active infection	worsens	outcomes
+peripheral vascular bypass	uses	sutures
+sutures	close	incisions
+incisions	heal over	time
+peripheral vascular bypass	requires	sterile technique
+sterile technique	prevents	contamination
+contamination	leads to	sepsis
+sepsis	life-threatening condition	systemic infection
+peripheral vascular bypass	influenced by	surgeon experience
+surgeon experience	affects	outcomes
+outcomes	measured by	patency rates
+patency rates	higher in	autologous grafts
+autologous grafts	harvested from	patient
+patient	must have	suitable veins
+suitable veins	evaluated with	duplex ultrasound
+duplex ultrasound	combines	Doppler and B-mode
+peripheral vascular bypass	may require	blood transfusion
+blood transfusion	replaces	lost blood
+lost blood	result of	surgery
+peripheral vascular bypass	has alternative	endovascular therapy
+endovascular therapy	less invasive than	surgery
+endovascular therapy	uses	catheter
+catheter	inserted through	femoral artery
+femoral artery	accessed percutaneously
+peripheral vascular bypass	more durable than	angioplasty
+durability	important for	long-term results
+long-term results	tracked with	surveillance
+surveillance	detects	restenosis
+restenosis	recurrence of	blockage
+blockage	treated with	reintervention
+reintervention	can be	repeat bypass
+repeat bypass	more complex than	initial
+peripheral vascular bypass	costs more than	angioplasty
+cost	factor in	treatment choice
+treatment choice	depends on	patient preference
+patient preference	influenced by	education
+education	provided by	healthcare team
+healthcare team	includes	nurses
+nurses	assist in	postoperative recovery
+postoperative recovery	involves	physical therapy
+physical therapy	improves	strength
+strength	aids in	rehabilitation

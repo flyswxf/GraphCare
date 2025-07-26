@@ -1,0 +1,100 @@
+facial fracture	requires	medical treatment
+facial dislocation	requires	medical treatment
+treatment	involves	pain management
+treatment	may include	surgery
+surgery	can repair	facial fracture
+surgery	can correct	facial dislocation
+facial fracture	may cause	swelling
+facial dislocation	may cause	misalignment
+pain management	uses	analgesics
+analgesics	reduces	pain
+swelling	treated with	ice packs
+misalignment	corrected by	manual reduction
+manual reduction	performed by	physician
+physician	may refer to	specialist
+specialist	can be	maxillofacial surgeon
+maxillofacial surgeon	specializes in	facial injuries
+facial injuries	include	fractures
+facial injuries	include	dislocations
+fractures	classified by	severity
+dislocations	classified by	joint involved
+severity	determines	treatment approach
+treatment approach	may involve	immobilization
+immobilization	uses	splints
+splints	stabilize	bones
+bones	heal over	time
+time	varies by	injury type
+injury type	affects	recovery duration
+recovery duration	influenced by	patient health
+patient health	affects	healing speed
+healing speed	monitored by	follow-up visits
+follow-up visits	assess	progress
+progress	evaluated with	imaging
+imaging	includes	X-rays
+X-rays	show	bone alignment
+bone alignment	indicates	healing quality
+healing quality	affects	outcome
+outcome	may include	complications
+complications	can be	infections
+infections	treated with	antibiotics
+antibiotics	prescribed by	doctor
+doctor	advises	wound care
+wound care	prevents	infections
+infections	delay	recovery
+recovery	may require	physical therapy
+physical therapy	improves	mobility
+mobility	enhances	function
+function	impacts	quality of life
+quality of life	influenced by	aesthetics
+aesthetics	restored by	reconstructive surgery
+reconstructive surgery	performed by	plastic surgeon
+plastic surgeon	collaborates with	maxillofacial surgeon
+collaboration	ensures	comprehensive care
+comprehensive care	includes	psychological support
+psychological support	aids	emotional recovery
+emotional recovery	impacts	overall wellbeing
+overall wellbeing	measured by	patient satisfaction
+patient satisfaction	influenced by	treatment results
+treatment results	depend on	adherence
+adherence	requires	patient education
+patient education	provided by	healthcare team
+healthcare team	includes	nurses
+nurses	assist in	postoperative care
+postoperative care	involves	monitoring
+monitoring	detects	complications early
+complications early	managed by	interventions
+interventions	prevent	worsening
+worsening	leads to	readmission
+readmission	increases	healthcare costs
+healthcare costs	affected by	insurance
+insurance	covers	treatments
+treatments	vary by	hospital
+hospital	employs	specialists
+specialists	follow	protocols
+protocols	based on	guidelines
+guidelines	updated by	medical associations
+medical associations	recommend	best practices
+best practices	improve	outcomes
+outcomes	studied in	clinical trials
+clinical trials	test	new techniques
+new techniques	reduce	recovery time
+recovery time	impacts	work absence
+work absence	affects	income
+income	influences	access to care
+access to care	determines	treatment options
+treatment options	include	non-surgical methods
+non-surgical methods	involve	braces
+braces	support	healing
+healing	monitored via	telemedicine
+telemedicine	enables	remote consultations
+remote consultations	reduce	travel burden
+travel burden	affects	elderly patients
+elderly patients	require	tailored care
+tailored care	considers	comorbidities
+comorbidities	complicate	treatment
+treatment	adjusted for	age
+age	affects	bone density
+bone density	influences	fracture risk
+fracture risk	mitigated by	prevention
+prevention	includes	safety measures
+safety measures	reduce	injury incidence

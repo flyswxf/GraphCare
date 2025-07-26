@@ -1,0 +1,100 @@
+antitrematodals	is a	drug class
+antitrematodals	treats	trematode infections
+antitrematodals	includes	praziquantel
+antitrematodals	includes	triclabendazole
+antitrematodals	includes	oxamniquine
+antitrematodals	mechanism	paralysis of parasites
+antitrematodals	mechanism	tegument disruption
+antitrematodals	used for	schistosomiasis
+antitrematodals	used for	fascioliasis
+antitrematodals	used for	clonorchiasis
+praziquantel	is a	antitrematodal
+triclabendazole	is a	antitrematodal
+oxamniquine	is a	antitrematodal
+trematode infections	caused by	flukes
+schistosomiasis	caused by	Schistosoma
+fascioliasis	caused by	Fasciola
+clonorchiasis	caused by	Clonorchis
+antitrematodals	contraindicated in	pregnancy
+antitrematodals	side effect	abdominal pain
+antitrematodals	side effect	headache
+antitrematodals	side effect	dizziness
+antitrematodals	interacts with	rifampin
+antitrematodals	interacts with	anticonvulsants
+praziquantel	mechanism	calcium influx
+triclabendazole	mechanism	inhibits tubulin
+oxamniquine	mechanism	DNA binding
+antitrematodals	administration	oral
+antitrematodals	administration	single dose
+schistosomiasis	symptom	hematuria
+schistosomiasis	symptom	hepatosplenomegaly
+fascioliasis	symptom	biliary colic
+clonorchiasis	symptom	jaundice
+antitrematodals	resistance	emerging
+praziquantel	resistance	documented
+triclabendazole	resistance	reported
+antitrematodals	research target	new compounds
+antitrematodals	research target	combination therapy
+Schistosoma	habitat	freshwater
+Fasciola	habitat	livestock
+Clonorchis	habitat	fish
+antitrematodals	prevention	water sanitation
+antitrematodals	prevention	snail control
+schistosomiasis	prevalence	tropical
+fascioliasis	prevalence	agricultural
+clonorchiasis	prevalence	Southeast Asia
+praziquantel	approved	FDA
+triclabendazole	approved	EMA
+oxamniquine	approved	WHO
+antitrematodals	cost	varies
+antitrematodals	storage	room temperature
+antitrematodals	pharmacokinetics	rapid absorption
+antitrematodals	metabolism	hepatic
+antitrematodals	excretion	renal
+praziquantel	half-life	1-3 hours
+triclabendazole	half-life	8-12 hours
+oxamniquine	half-life	2-4 hours
+antitrematodals	efficacy	high
+antitrematodals	safety	good
+antitrematodals	monitoring	liver function
+antitrematodals	monitoring	eosinophil count
+schistosomiasis	complication	portal hypertension
+fascioliasis	complication	cholangitis
+clonorchiasis	complication	cholangiocarcinoma
+antitrematodals	alternative	artemisinins
+antitrematodals	alternative	nitazoxanide
+praziquantel	synthesis	pyrazinoisoquinoline
+triclabendazole	synthesis	benzimidazole
+oxamniquine	synthesis	tetrahydroquinoline
+antitrematodals	diagnostic aid	stool exam
+antitrematodals	diagnostic aid	serology
+antitrematodals	diagnostic aid	imaging
+Schistosoma	lifecycle	snail host
+Fasciola	lifecycle	metacercariae
+Clonorchis	lifecycle	fish host
+antitrematodals	public health	mass administration
+antitrematodals	public health	endemic areas
+praziquantel	production	high volume
+triclabendazole	production	limited
+oxamniquine	production	discontinued
+antitrematodals	veterinary use	common
+antitrematodals	veterinary use	livestock
+antitrematodals	history	20th century
+praziquantel	discovery	1970s
+triclabendazole	discovery	1980s
+oxamniquine	discovery	1970s
+antitrematodals	WHO guideline	essential medicines
+antitrematodals	WHO guideline	neglected diseases
+schistosomiasis	control	molluscicides
+fascioliasis	control	pasture management
+clonorchiasis	control	fish cooking
+antitrematodals	resistance marker	genetic
+antitrematodals	resistance marker	phenotypic
+praziquantel	formulation	tablet
+triclabendazole	formulation	suspension
+oxamniquine	formulation	capsule
+antitrematodals	pediatric use	adjusted dosing
+antitrematodals	geriatric use	caution
+antitrematodals	pregnancy category	B
+antitrematodals	lactation	caution
+antitrematodals	global burden	significant

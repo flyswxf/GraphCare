@@ -1,0 +1,100 @@
+excision	is a	surgical procedure
+lysis peritoneal adhesions	is a	surgical procedure
+peritoneal adhesions	caused by	abdominal surgery
+peritoneal adhesions	caused by	inflammation
+peritoneal adhesions	caused by	infection
+peritoneal adhesions	cause	bowel obstruction
+peritoneal adhesions	cause	chronic pain
+excision	treats	peritoneal adhesions
+lysis	treats	peritoneal adhesions
+laparoscopy	used for	lysis peritoneal adhesions
+laparotomy	used for	excision
+adhesiolysis	synonym of	lysis peritoneal adhesions
+general anesthesia	required for	excision
+antibiotics	prevent	infection
+adhesion barrier	prevents	peritoneal adhesions
+postoperative care	follows	excision
+pain medication	treats	postoperative pain
+bowel rest	follows	lysis peritoneal adhesions
+nasogastric tube	used in	bowel obstruction
+CT scan	diagnoses	peritoneal adhesions
+ultrasound	diagnoses	peritoneal adhesions
+MRI	diagnoses	peritoneal adhesions
+small bowel follow-through	diagnoses	peritoneal adhesions
+adhesions	composed of	fibrous tissue
+fibroblasts	produce	fibrous tissue
+inflammation	activates	fibroblasts
+TGF-beta	stimulates	fibrosis
+mesothelial cells	line	peritoneum
+peritoneum	covers	abdominal organs
+omentum	attaches to	peritoneum
+surgical trauma	causes	adhesions
+ischemia	causes	adhesions
+foreign bodies	cause	adhesions
+endometriosis	causes	adhesions
+diverticulitis	causes	adhesions
+appendicitis	causes	adhesions
+radiation therapy	causes	adhesions
+chemotherapy	causes	adhesions
+intraperitoneal bleeding	causes	adhesions
+pelvic inflammatory disease	causes	adhesions
+peritonitis	causes	adhesions
+adhesions	increase risk	infertility
+adhesions	complicate	future surgeries
+minimally invasive surgery	reduces	adhesions
+robotic surgery	used for	adhesiolysis
+electrocautery	used in	adhesiolysis
+laser	used in	adhesiolysis
+sharp dissection	technique for	adhesiolysis
+blunt dissection	technique for	adhesiolysis
+hydrodissection	technique for	adhesiolysis
+pneumoperitoneum	required for	laparoscopic adhesiolysis
+CO2	used for	pneumoperitoneum
+trocar	used in	laparoscopy
+veress needle	used in	laparoscopy
+optical trocar	used in	laparoscopy
+surgical gloves	cause	adhesions
+suture material	causes	adhesions
+surgical mesh	causes	adhesions
+hyaluronic acid	prevents	adhesions
+carboxymethylcellulose	prevents	adhesions
+Seprafilm	prevents	adhesions
+Interceed	prevents	adhesions
+Gore-Tex	prevents	adhesions
+fibrinolytic agents	prevent	adhesions
+tissue plasminogen activator	prevents	adhesions
+steroids	prevent	adhesions
+NSAIDs	prevent	adhesions
+immunomodulators	prevent	adhesions
+early ambulation	prevents	adhesions
+physical therapy	prevents	adhesions
+postoperative ileus	complication of	adhesiolysis
+bowel perforation	complication of	adhesiolysis
+hemorrhage	complication of	adhesiolysis
+infection	complication of	adhesiolysis
+anastomotic leak	complication of	adhesiolysis
+incisional hernia	complication of	laparotomy
+seroma	complication of	surgery
+hematoma	complication of	surgery
+wound dehiscence	complication of	surgery
+deep vein thrombosis	complication of	surgery
+pulmonary embolism	complication of	surgery
+urinary retention	complication of	surgery
+atelectasis	complication of	anesthesia
+pneumonia	complication of	surgery
+sepsis	complication of	infection
+adhesions	recurrence after	adhesiolysis
+repeat surgery	required for	recurrent adhesions
+chronic pain syndrome	result of	adhesions
+bowel resection	required for	severe adhesions
+ostomy	required for	bowel resection
+nutritional support	required after	bowel resection
+TPN	used for	nutritional support
+enteral nutrition	preferred over	TPN
+probiotics	help	gut recovery
+fiber supplements	prevent	constipation
+laxatives	treat	constipation
+prokinetics	treat	ileus
+opioids	cause	ileus
+multimodal analgesia	reduces	opioid use
+enhanced recovery protocol	improves	surgical outcomes

@@ -1,0 +1,100 @@
+chronic kidney disease	is a	kidney disorder
+chronic kidney disease	may cause	hypertension
+chronic kidney disease	may cause	anemia
+chronic kidney disease	may lead to	end-stage renal disease
+chronic kidney disease	is associated with	diabetes mellitus
+chronic kidney disease	is associated with	cardiovascular disease
+chronic kidney disease	requires monitoring of	serum creatinine
+chronic kidney disease	requires monitoring of	glomerular filtration rate
+chronic kidney disease	may cause	fluid overload
+chronic kidney disease	may cause	electrolyte imbalance
+chronic kidney disease	increases risk of	hyperkalemia
+chronic kidney disease	is managed with	dietary modifications
+chronic kidney disease	is treated with	ACE inhibitors
+chronic kidney disease	is treated with	ARBs
+chronic kidney disease	may require	dialysis
+chronic kidney disease	may require	kidney transplant
+chronic kidney disease	is linked to	metabolic acidosis
+chronic kidney disease	may cause	bone mineral disorder
+chronic kidney disease	increases risk of	infection
+chronic kidney disease	is diagnosed via	urinalysis
+chronic kidney disease	is diagnosed via	blood tests
+chronic kidney disease	may cause	uremia
+chronic kidney disease	is classified by	staging system
+chronic kidney disease	is exacerbated by	nephrotoxic drugs
+chronic kidney disease	increases mortality risk	cardiovascular events
+chronic kidney disease	is a risk factor for	stroke
+chronic kidney disease	is associated with	proteinuria
+chronic kidney disease	may lead to	secondary hyperparathyroidism
+chronic kidney disease	is monitored via	albumin-to-creatinine ratio
+chronic kidney disease	may cause	itching
+chronic kidney disease	may cause	fatigue
+chronic kidney disease	is managed by	nephrologist
+chronic kidney disease	is worsened by	uncontrolled diabetes
+chronic kidney disease	is worsened by	uncontrolled hypertension
+chronic kidney disease	may cause	peripheral edema
+chronic kidney disease	increases risk of	hospital readmission
+chronic kidney disease	is screened for	in high-risk populations
+chronic kidney disease	may cause	nausea
+chronic kidney disease	may cause	loss of appetite
+chronic kidney disease	is linked to	sleep disturbances
+chronic kidney disease	may require	phosphate binders
+chronic kidney disease	may require	erythropoiesis-stimulating agents
+chronic kidney disease	may require	iron supplementation
+chronic kidney disease	increases risk of	bleeding
+chronic kidney disease	is associated with	depression
+chronic kidney disease	is associated with	cognitive decline
+chronic kidney disease	may cause	muscle cramps
+chronic kidney disease	is exacerbated by	high-sodium diet
+chronic kidney disease	is exacerbated by	high-protein diet
+chronic kidney disease	may cause	restless legs syndrome
+chronic kidney disease	is monitored via	potassium levels
+chronic kidney disease	is monitored via	calcium levels
+chronic kidney disease	is monitored via	phosphorus levels
+chronic kidney disease	may require	vitamin D supplementation
+chronic kidney disease	increases risk of	fractures
+chronic kidney disease	is associated with	malnutrition
+chronic kidney disease	may cause	shortness of breath
+chronic kidney disease	is linked to	pulmonary edema
+chronic kidney disease	may cause	pericarditis
+chronic kidney disease	is associated with	insulin resistance
+chronic kidney disease	is managed with	diuretics
+chronic kidney disease	may require	sodium restriction
+chronic kidney disease	may require	fluid restriction
+chronic kidney disease	is associated with	hyperuricemia
+chronic kidney disease	may lead to	gout
+chronic kidney disease	increases risk of	contrast-induced nephropathy
+chronic kidney disease	requires adjustment of	drug dosages
+chronic kidney disease	is associated with	oxidative stress
+chronic kidney disease	is associated with	chronic inflammation
+chronic kidney disease	may cause	sexual dysfunction
+chronic kidney disease	is exacerbated by	smoking
+chronic kidney disease	is exacerbated by	obesity
+chronic kidney disease	increases risk of	venous thromboembolism
+chronic kidney disease	is linked to	autonomic dysfunction
+chronic kidney disease	may cause	hearing loss
+chronic kidney disease	is associated with	periodontal disease
+chronic kidney disease	may require	statins
+chronic kidney disease	is monitored via	hemoglobin levels
+chronic kidney disease	is monitored via	parathyroid hormone levels
+chronic kidney disease	may require	bicarbonate therapy
+chronic kidney disease	increases risk of	cancer
+chronic kidney disease	is associated with	sarcopenia
+chronic kidney disease	may cause	delayed wound healing
+chronic kidney disease	is associated with	pruritus
+chronic kidney disease	is exacerbated by	NSAIDs
+chronic kidney disease	is exacerbated by	contrast dyes
+chronic kidney disease	may require	potassium binders
+chronic kidney disease	is associated with	gut dysbiosis
+chronic kidney disease	may cause	taste changes
+chronic kidney disease	is associated with	hypotension
+chronic kidney disease	increases risk of	falls
+chronic kidney disease	is managed with	beta-blockers
+chronic kidney disease	is managed with	calcium channel blockers
+chronic kidney disease	is associated with	sleep apnea
+chronic kidney disease	may require	antihypertensive therapy
+chronic kidney disease	is linked to	endothelial dysfunction
+chronic kidney disease	increases risk of	dementia
+chronic kidney disease	is associated with	left ventricular hypertrophy
+chronic kidney disease	may cause	anxiety
+chronic kidney disease	is a global health burden

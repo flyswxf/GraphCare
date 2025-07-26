@@ -1,0 +1,100 @@
+motor vehicle traffic	is a	traffic accident
+motor vehicle traffic	involves	vehicles
+motor vehicle traffic	may cause	injuries
+motor vehicle traffic	may lead to	fatalities
+motor vehicle traffic	requires	emergency response
+motor vehicle traffic	involves	drivers
+motor vehicle traffic	involves	passengers
+motor vehicle traffic	may involve	pedestrians
+motor vehicle traffic	may cause	fractures
+motor vehicle traffic	may cause	traumatic brain injury
+motor vehicle traffic	may cause	spinal cord injury
+motor vehicle traffic	may lead to	hospitalization
+motor vehicle traffic	may require	surgery
+motor vehicle traffic	may result in	disability
+motor vehicle traffic	may involve	alcohol
+motor vehicle traffic	may involve	speeding
+motor vehicle traffic	may involve	distracted driving
+motor vehicle traffic	may involve	weather conditions
+motor vehicle traffic	may involve	road conditions
+motor vehicle traffic	may involve	vehicle malfunction
+motor vehicle traffic	is recorded using	E codes
+E codes	are part of	ICD coding system
+E codes	classify	external causes of injury
+motor vehicle traffic	is a subset of	transport accidents
+motor vehicle traffic	may lead to	PTSD
+motor vehicle traffic	may require	physical therapy
+motor vehicle traffic	may require	rehabilitation
+motor vehicle traffic	may lead to	chronic pain
+motor vehicle traffic	may result in	lost workdays
+motor vehicle traffic	may increase	healthcare costs
+motor vehicle traffic	may involve	seatbelt use
+motor vehicle traffic	may involve	airbag deployment
+motor vehicle traffic	may involve	motorcycle
+motor vehicle traffic	may involve	truck
+motor vehicle traffic	may involve	bicycle
+motor vehicle traffic	may lead to	amputation
+motor vehicle traffic	may cause	internal bleeding
+motor vehicle traffic	may require	blood transfusion
+motor vehicle traffic	may lead to	ICU admission
+motor vehicle traffic	may involve	multiple vehicles
+motor vehicle traffic	may involve	head-on collision
+motor vehicle traffic	may involve	rear-end collision
+motor vehicle traffic	may involve	rollover
+motor vehicle traffic	may involve	side impact
+motor vehicle traffic	may lead to	whiplash
+motor vehicle traffic	may lead to	concussion
+motor vehicle traffic	may require	imaging tests
+motor vehicle traffic	may require	X-rays
+motor vehicle traffic	may require	CT scan
+motor vehicle traffic	may require	MRI
+motor vehicle traffic	may lead to	legal proceedings
+motor vehicle traffic	may involve	insurance claims
+motor vehicle traffic	may involve	police report
+motor vehicle traffic	may lead to	traffic citations
+motor vehicle traffic	may involve	DUI
+motor vehicle traffic	may lead to	license suspension
+motor vehicle traffic	may involve	elderly drivers
+motor vehicle traffic	may involve	teenage drivers
+motor vehicle traffic	may involve	unlicensed drivers
+motor vehicle traffic	may involve	drowsy driving
+motor vehicle traffic	may lead to	psychological trauma
+motor vehicle traffic	may require	counseling
+motor vehicle traffic	may lead to	depression
+motor vehicle traffic	may lead to	anxiety
+motor vehicle traffic	may affect	quality of life
+motor vehicle traffic	may lead to	sleep disturbances
+motor vehicle traffic	may lead to	chronic headaches
+motor vehicle traffic	may lead to	neck pain
+motor vehicle traffic	may lead to	back pain
+motor vehicle traffic	may lead to	nerve damage
+motor vehicle traffic	may involve	emergency surgery
+motor vehicle traffic	may require	orthopedic intervention
+motor vehicle traffic	may require	neurosurgery
+motor vehicle traffic	may lead to	long-term care
+motor vehicle traffic	may lead to	home healthcare
+motor vehicle traffic	may lead to	disability benefits
+motor vehicle traffic	may lead to	workers compensation
+motor vehicle traffic	may involve	commercial vehicles
+motor vehicle traffic	may involve	public transportation
+motor vehicle traffic	may involve	taxi
+motor vehicle traffic	may involve	rideshare vehicles
+motor vehicle traffic	may involve	pedestrian accidents
+motor vehicle traffic	may involve	cyclist accidents
+motor vehicle traffic	may involve	scooter accidents
+motor vehicle traffic	may lead to	facial injuries
+motor vehicle traffic	may lead to	dental injuries
+motor vehicle traffic	may lead to	vision impairment
+motor vehicle traffic	may lead to	hearing loss
+motor vehicle traffic	may lead to	burns
+motor vehicle traffic	may lead to	lacerations
+motor vehicle traffic	may lead to	contusions
+motor vehicle traffic	may lead to	organ damage
+motor vehicle traffic	may lead to	respiratory complications
+motor vehicle traffic	may lead to	cardiovascular complications
+motor vehicle traffic	may lead to	infections
+motor vehicle traffic	may lead to	sepsis
+motor vehicle traffic	may lead to	amnesia
+motor vehicle traffic	may lead to	cognitive impairment
+motor vehicle traffic	may lead to	substance abuse
+motor vehicle traffic	may lead to	suicidal ideation

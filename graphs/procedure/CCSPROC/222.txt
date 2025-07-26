@@ -1,0 +1,100 @@
+blood transfusion	is a	medical procedure
+blood transfusion	involves	blood products
+blood transfusion	treats	anemia
+blood transfusion	treats	hemorrhage
+blood transfusion	requires	blood donor
+blood transfusion	has risk	infection
+blood transfusion	has risk	allergic reaction
+blood transfusion	requires	blood typing
+blood transfusion	requires	crossmatching
+blood transfusion	uses	red blood cells
+blood transfusion	uses	platelets
+blood transfusion	uses	plasma
+blood transfusion	uses	cryoprecipitate
+blood transfusion	performed in	hospital
+blood transfusion	performed by	medical staff
+blood transfusion	monitored by	nurse
+blood transfusion	follows	blood bank protocol
+blood transfusion	prevents	hypovolemic shock
+blood transfusion	manages	surgical blood loss
+blood transfusion	treats	thalassemia
+blood transfusion	treats	sickle cell disease
+blood transfusion	treats	leukemia
+blood transfusion	treats	aplastic anemia
+blood transfusion	requires	informed consent
+blood transfusion	has complication	transfusion reaction
+blood transfusion	has complication	iron overload
+blood transfusion	requires	IV access
+blood transfusion	follows	aseptic technique
+blood transfusion	requires	vital sign monitoring
+blood transfusion	has alternative	erythropoietin therapy
+blood transfusion	regulated by	FDA
+blood transfusion	follows	WHO guidelines
+blood transfusion	uses	leukocyte reduced blood
+blood transfusion	uses	irradiated blood
+blood transfusion	treats	trauma patients
+blood transfusion	treats	burn victims
+blood transfusion	uses	autologous blood
+blood transfusion	uses	allogeneic blood
+blood transfusion	requires	blood filter
+blood transfusion	has duration	several hours
+blood transfusion	documented in	medical record
+blood transfusion	ordered by	physician
+blood transfusion	treats	hemophilia
+blood transfusion	treats	DIC
+blood transfusion	treats	chronic kidney disease
+blood transfusion	requires	pretransfusion testing
+blood transfusion	has precaution	febrile reaction
+blood transfusion	has precaution	TRALI
+blood transfusion	has precaution	TACO
+blood transfusion	treats	myelodysplastic syndrome
+blood transfusion	follows	blood conservation strategy
+blood transfusion	uses	group O blood
+blood transfusion	uses	Rh negative blood
+blood transfusion	requires	patient identification
+blood transfusion	has rate	controlled infusion
+blood transfusion	monitored for	hemolysis
+blood transfusion	treats	chemotherapy patients
+blood transfusion	treats	bone marrow failure
+blood transfusion	contraindicated in	fluid overload
+blood transfusion	contraindicated in	hyperviscosity
+blood transfusion	requires	posttransfusion evaluation
+blood transfusion	follows	hospital policy
+blood transfusion	uses	fresh frozen plasma
+blood transfusion	uses	packed red cells
+blood transfusion	treats	neonatal jaundice
+blood transfusion	performs	exchange transfusion
+blood transfusion	requires	blood warmer
+blood transfusion	has complication	graft versus host disease
+blood transfusion	prevents	organ failure
+blood transfusion	improves	oxygen delivery
+blood transfusion	corrects	coagulopathy
+blood transfusion	treats	postpartum hemorrhage
+blood transfusion	treats	GI bleeding
+blood transfusion	uses	CMV negative blood
+blood transfusion	screens for	infectious diseases
+blood transfusion	tests for	hepatitis B
+blood transfusion	tests for	HIV
+blood transfusion	tests for	syphilis
+blood transfusion	tests for	West Nile virus
+blood transfusion	labels	blood units
+blood transfusion	stores	blood products
+blood transfusion	transports	blood safely
+blood transfusion	requires	two person verification
+blood transfusion	has standard	ISBT 128
+blood transfusion	reports	adverse events
+blood transfusion	researches	artificial blood
+blood transfusion	compares	whole blood
+blood transfusion	uses	apheresis platelets
+blood transfusion	treats	immune thrombocytopenia
+blood transfusion	requires	transfusion committee
+blood transfusion	audits	transfusion practice
+blood transfusion	educates	healthcare staff
+blood transfusion	follows	JCAHO standards
+blood transfusion	implements	patient blood management
+blood transfusion	reduces	allogeneic exposure
+blood transfusion	uses	blood substitutes
+blood transfusion	researches	stem cell therapy
+blood transfusion	tracks	blood utilization
+blood transfusion	analyzes	transfusion data
+blood transfusion	improves	patient outcomes

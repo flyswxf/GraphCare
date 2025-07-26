@@ -1,0 +1,100 @@
+insecticides	kill	insects
+repellents	deter	insects
+insecticides	contain	chemicals
+repellents	contain	active ingredients
+DEET	is a	repellent
+permethrin	is an	insecticide
+insecticides	target	nervous system
+repellents	mask	human scent
+insecticides	used in	agriculture
+repellents	used by	humans
+malaria	prevented by	repellents
+mosquitoes	controlled by	insecticides
+pyrethroids	are	synthetic insecticides
+citronella	is a	natural repellent
+insecticides	cause	resistance
+resistance	reduces	effectiveness
+DDT	was an	insecticide
+DDT	banned in	many countries
+repellents	applied to	skin
+insecticides	sprayed on	crops
+neonicotinoids	affect	bees
+bees	harmed by	insecticides
+insecticides	pollute	water
+repellents	last for	hours
+permethrin	treats	clothing
+dengue	prevented by	repellents
+insecticides	classified by	toxicity
+toxicity	measured by	LD50
+organophosphates	are	insecticides
+organophosphates	inhibit	cholinesterase
+cholinesterase	needed for	nerve function
+repellents	safe for	children
+picaridin	is a	repellent
+picaridin	similar to	DEET
+insecticides	control	pests
+pests	damage	crops
+crops	protected by	insecticides
+repellents	prevent	bites
+bites	cause	diseases
+malaria	transmitted by	mosquitoes
+Zika	spread by	mosquitoes
+insecticides	regulated by	EPA
+EPA	evaluates	safety
+safety	ensures	proper use
+repellents	tested for	efficacy
+efficacy	determines	duration
+insecticides	persist in	environment
+environment	affected by	pollution
+pollution	harms	wildlife
+wildlife	impacted by	chemicals
+natural repellents	include	eucalyptus
+eucalyptus	contains	cineole
+cineole	repels	insects
+insecticides	formulated as	sprays
+sprays	cover	large areas
+large areas	treated for	infestation
+infestation	requires	control
+control	involves	monitoring
+monitoring	tracks	pest levels
+pest levels	indicate	need
+need	justifies	application
+application	follows	guidelines
+guidelines	prevent	misuse
+misuse	leads to	harm
+harm	affects	health
+health	protected by	regulations
+regulations	enforced by	authorities
+authorities	inspect	products
+products	labeled with	instructions
+instructions	guide	users
+users	must follow	precautions
+precautions	reduce	risks
+risks	include	allergies
+allergies	triggered by	ingredients
+ingredients	listed on	packaging
+packaging	displays	warnings
+warnings	inform about	dangers
+dangers	minimized by	care
+care	involves	reading labels
+labels	provide	information
+information	includes	contact details
+contact details	used for	reporting
+reporting	helps	improve safety
+safety	enhanced by	research
+research	develops	new products
+new products	offer	alternatives
+alternatives	reduce	reliance
+reliance	decreased by	diversity
+diversity	improves	resilience
+resilience	needed for	sustainability
+sustainability	requires	balance
+balance	achieved by	regulation
+regulation	supports	innovation
+innovation	leads to	better solutions
+better solutions	benefit	society
+society	depends on	health
+health	maintained by	prevention
+prevention	includes	repellents
+repellents	part of	strategies
+strategies	combat	insect-borne diseases

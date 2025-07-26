@@ -1,0 +1,100 @@
+HIV infection	is a	viral infection
+HIV infection	attacks	immune system
+HIV infection	causes	AIDS
+HIV infection	transmitted through	unprotected sex
+HIV infection	transmitted through	blood contact
+HIV infection	transmitted through	mother-to-child
+HIV infection	detected by	ELISA test
+HIV infection	confirmed by	Western blot
+HIV infection	monitored by	CD4 count
+HIV infection	treated with	antiretroviral therapy
+antiretroviral therapy	includes	protease inhibitors
+antiretroviral therapy	includes	integrase inhibitors
+antiretroviral therapy	includes	reverse transcriptase inhibitors
+HIV infection	increases risk of	opportunistic infections
+opportunistic infections	include	tuberculosis
+opportunistic infections	include	pneumocystis pneumonia
+opportunistic infections	include	candidiasis
+HIV infection	associated with	weight loss
+HIV infection	associated with	chronic fatigue
+HIV infection	increases risk of	lymphoma
+HIV infection	affects	T cells
+T cells	are part of	immune system
+HIV infection	reduces	CD4 count
+low CD4 count	indicates	advanced HIV
+HIV infection	may lead to	neurological disorders
+HIV infection	increases risk of	cardiovascular disease
+HIV infection	complicates	pregnancy
+HIV infection	requires	lifelong treatment
+HIV infection	managed by	infectious disease specialist
+HIV infection	prevented by	pre-exposure prophylaxis
+pre-exposure prophylaxis	contains	tenofovir
+pre-exposure prophylaxis	contains	emtricitabine
+HIV infection	diagnosed with	viral load test
+HIV infection	can cause	dementia
+HIV infection	associated with	depression
+HIV infection	increases risk of	kidney disease
+HIV infection	treated with	combination therapy
+combination therapy	reduces	drug resistance
+HIV infection	prevented by	condom use
+HIV infection	prevented by	sterile needles
+HIV infection	screened by	rapid test
+HIV infection	may cause	anemia
+HIV infection	linked to	hepatitis B
+HIV infection	linked to	hepatitis C
+HIV infection	increases risk of	osteoporosis
+HIV infection	may lead to	wasting syndrome
+HIV infection	affects	life expectancy
+HIV infection	researched by	virologists
+HIV infection	originated from	SIV
+SIV	affects	primates
+HIV infection	has subtypes	HIV-1
+HIV infection	has subtypes	HIV-2
+HIV-1	is more virulent	than HIV-2
+HIV infection	enters cells via	CD4 receptor
+HIV infection	uses	CCR5 co-receptor
+CCR5 antagonist	blocks	HIV entry
+HIV infection	replicates via	reverse transcription
+reverse transcriptase	converts	RNA to DNA
+HIV infection	integrates into	host genome
+integrase inhibitor	prevents	viral integration
+HIV infection	produces	viral proteins
+protease inhibitor	blocks	viral maturation
+HIV infection	assembles	new virions
+HIV infection	spreads to	lymph nodes
+HIV infection	depletes	immune cells
+HIV infection	may cause	Kaposi sarcoma
+Kaposi sarcoma	is a	cancer
+HIV infection	increases risk of	cervical cancer
+HIV infection	monitored with	viral load
+undetectable viral load	prevents	transmission
+HIV infection	stigma affects	mental health
+HIV infection	requires	adherence counseling
+HIV infection	complicates	surgery outcomes
+HIV infection	affects	drug metabolism
+HIV infection	interacts with	tuberculosis drugs
+HIV infection	increases	healthcare costs
+HIV infection	prevented by	education programs
+HIV infection	tracked by	contact tracing
+HIV infection	reported to	health departments
+HIV infection	studied in	clinical trials
+HIV vaccine	is under	development
+HIV infection	has no	cure
+HIV infection	research includes	gene therapy
+HIV infection	may be controlled by	bone marrow transplant
+HIV infection	resistance occurs through	mutations
+drug resistance	tested by	genotype assay
+HIV infection	survival improved by	early treatment
+HIV infection	guidelines provided by	WHO
+WHO	recommends	universal testing
+HIV infection	disparities exist in	access to care
+HIV infection	prevalence high in	Sub-Saharan Africa
+HIV infection	transmission reduced by	male circumcision
+HIV infection	research funded by	NIH
+HIV infection	awareness raised by	World AIDS Day
+HIV infection	documented in	medical records
+HIV infection	may require	social support
+HIV infection	associated with	substance abuse
+HIV infection	prevention includes	needle exchange
+HIV infection	monitored through	public health surveillance
+HIV infection	research advances	global health

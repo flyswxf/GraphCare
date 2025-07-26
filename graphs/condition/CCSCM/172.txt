@@ -1,0 +1,100 @@
+ovarian cyst	is a	fluid-filled sac
+ovarian cyst	occurs in	ovary
+ovarian cyst	may cause	pelvic pain
+ovarian cyst	may cause	bloating
+ovarian cyst	may cause	irregular periods
+ovarian cyst	can lead to	ovarian torsion
+ovarian cyst	can lead to	rupture
+ovarian cyst	is diagnosed with	ultrasound
+ovarian cyst	is associated with	endometriosis
+ovarian cyst	is associated with	PCOS
+functional cyst	is a type of	ovarian cyst
+follicular cyst	is a type of	ovarian cyst
+corpus luteum cyst	is a type of	ovarian cyst
+dermoid cyst	is a type of	ovarian cyst
+cystadenoma	is a type of	ovarian cyst
+endometrioma	is a type of	ovarian cyst
+ovarian cyst	may require	surgery
+laparoscopy	is a surgery for	ovarian cyst
+ovarian cyst	may be treated with	hormonal birth control
+oral contraceptives	can prevent	ovarian cysts
+pain medication	is used for	ovarian cyst pain
+NSAIDs	are used for	ovarian cyst pain
+ovarian cyst	can affect	fertility
+ovarian cyst	is monitored with	CA-125 test
+ovarian cyst	may be mistaken for	ectopic pregnancy
+ovarian cyst	has risk of	malignancy
+complex ovarian cyst	has higher	malignancy risk
+simple ovarian cyst	has lower	malignancy risk
+ovarian cyst	may recur	after treatment
+pelvic exam	can detect	ovarian cyst
+MRI	is used for	ovarian cyst evaluation
+CT scan	is used for	ovarian cyst evaluation
+ovarian cyst	can cause	urinary frequency
+ovarian cyst	can cause	constipation
+ovarian cyst	can cause	nausea
+ovarian cyst rupture	can cause	internal bleeding
+hemorrhagic cyst	is a type of	ovarian cyst
+ovarian cyst	is common in	reproductive age
+postmenopausal women	have higher	ovarian cancer risk
+ovarian cyst	may compress	bladder
+ovarian cyst	may compress	rectum
+ovarian cyst	can lead to	infection
+antibiotics	are used for	infected ovarian cyst
+ovarian cystectomy	is a surgery for	ovarian cyst
+oophorectomy	is a surgery for	ovarian cyst
+hormone therapy	is used for	recurrent ovarian cysts
+ovarian cyst	may be asymptomatic
+obesity	is a risk factor for	ovarian cyst
+infertility treatments	increase risk of	ovarian cysts
+clomiphene citrate	can cause	ovarian cysts
+ovarian hyperstimulation syndrome	can cause	ovarian cysts
+pregnancy	can cause	corpus luteum cyst
+hysterectomy	may prevent	ovarian cysts
+family history	increases risk of	ovarian cysts
+genetic mutations	increase risk of	ovarian cysts
+BRCA mutation	increases risk of	ovarian cancer
+ovarian cyst	may be monitored with	regular ultrasounds
+paracetamol	is used for	ovarian cyst pain
+ibuprofen	is used for	ovarian cyst pain
+naproxen	is used for	ovarian cyst pain
+transvaginal ultrasound	is used for	ovarian cyst diagnosis
+abdominal ultrasound	is used for	ovarian cyst diagnosis
+ovarian cyst	can cause	hormonal imbalance
+estrogen	is linked to	ovarian cyst formation
+progesterone	is linked to	ovarian cyst formation
+thyroid disorders	are associated with	ovarian cysts
+hypothyroidism	is associated with	ovarian cysts
+hyperthyroidism	is associated with	ovarian cysts
+diabetes	is a risk factor for	ovarian cysts
+insulin resistance	is linked to	ovarian cysts
+metformin	may reduce	ovarian cysts
+weight loss	may reduce	ovarian cysts
+exercise	may reduce	ovarian cysts
+diet	can influence	ovarian cysts
+smoking	increases risk of	ovarian cysts
+alcohol	may increase	ovarian cyst risk
+caffeine	may increase	ovarian cyst risk
+stress	may worsen	ovarian cysts
+acupuncture	may help	ovarian cyst pain
+yoga	may help	ovarian cyst symptoms
+meditation	may help	ovarian cyst symptoms
+physical therapy	may help	pelvic pain
+heat therapy	may relieve	ovarian cyst pain
+cold therapy	may relieve	ovarian cyst pain
+vitamin D	may reduce	ovarian cyst risk
+magnesium	may reduce	ovarian cyst pain
+omega-3	may reduce	ovarian cyst inflammation
+antioxidants	may reduce	ovarian cyst risk
+probiotics	may improve	ovarian health
+fiber	may reduce	ovarian cyst risk
+sugary foods	may increase	ovarian cyst risk
+processed foods	may increase	ovarian cyst risk
+red meat	may increase	ovarian cyst risk
+vegetables	may reduce	ovarian cyst risk
+fruits	may reduce	ovarian cyst risk
+whole grains	may reduce	ovarian cyst risk
+hydration	may help	ovarian cyst symptoms
+sleep	may improve	ovarian health
+counseling	may help	ovarian cyst stress
+support groups	may help	ovarian cyst patients

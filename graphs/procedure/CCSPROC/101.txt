@@ -1,0 +1,100 @@
+transurethral excision	is a	surgical procedure
+transurethral excision	treats	urinary obstruction
+urinary obstruction	caused by	benign prostatic hyperplasia
+benign prostatic hyperplasia	affects	prostate
+prostate	part of	male reproductive system
+urinary obstruction	symptom	urinary retention
+urinary retention	leads to	bladder distension
+bladder distension	causes	discomfort
+discomfort	measured by	pain scale
+pain scale	used in	patient assessment
+patient assessment	involves	medical history
+medical history	includes	comorbidities
+comorbidities	affect	treatment outcome
+treatment outcome	evaluated by	follow-up
+follow-up	may require	imaging
+imaging	includes	ultrasound
+ultrasound	detects	hydronephrosis
+hydronephrosis	complication of	urinary obstruction
+urinary obstruction	may lead to	kidney damage
+kidney damage	assessed by	creatinine levels
+creatinine levels	indicate	renal function
+renal function	monitored by	blood tests
+blood tests	include	electrolyte panel
+electrolyte panel	detects	hyperkalemia
+hyperkalemia	risk factor for	arrhythmia
+arrhythmia	managed by	cardiology
+cardiology	specializes in	heart conditions
+heart conditions	contraindication for	surgery
+surgery	requires	anesthesia
+anesthesia	types include	general anesthesia
+general anesthesia	administered by	anesthesiologist
+anesthesiologist	evaluates	patient fitness
+patient fitness	determines	surgical risk
+surgical risk	includes	bleeding
+bleeding	controlled by	hemostasis
+hemostasis	achieved via	electrocautery
+electrocautery	used during	transurethral resection
+transurethral resection	alternative to	transurethral excision
+transurethral resection	treats	bladder tumors
+bladder tumors	diagnosed by	cystoscopy
+cystoscopy	involves	urethral insertion
+urethral insertion	may cause	infection
+infection	prevented by	antibiotics
+antibiotics	prescribed based on	culture
+culture	identifies	bacteria
+bacteria	cause	UTI
+UTI	symptom	dysuria
+dysuria	relieved by	analgesics
+analgesics	include	NSAIDs
+NSAIDs	contraindicated in	renal impairment
+renal impairment	complication of	chronic obstruction
+chronic obstruction	managed by	catheterization
+catheterization	types include	Foley catheter
+Foley catheter	inserted via	urethra
+urethra	part of	urinary tract
+urinary tract	includes	kidneys
+kidneys	produce	urine
+urine	transported via	ureters
+ureters	connect to	bladder
+bladder	stores	urine
+urine	expelled via	micturition
+micturition	controlled by	sphincters
+sphincters	innervated by	pudendal nerve
+pudendal nerve	branches from	sacral plexus
+sacral plexus	supplies	pelvic organs
+pelvic organs	include	prostate
+prostate	enlarges with	age
+age	risk factor for	BPH
+BPH	treated by	alpha-blockers
+alpha-blockers	relax	smooth muscle
+smooth muscle	found in	bladder neck
+bladder neck	obstructed by	enlarged prostate
+enlarged prostate	measured by	PSA
+PSA	screened via	blood test
+blood test	ordered by	urologist
+urologist	specializes in	urinary system
+urinary system	diseases include	nephrolithiasis
+nephrolithiasis	causes	renal colic
+renal colic	treated by	analgesics
+analgesics	administered via	IV
+IV	delivers	fluids
+fluids	prevent	dehydration
+dehydration	exacerbates	renal failure
+renal failure	requires	dialysis
+dialysis	replaces	kidney function
+kidney function	critical for	homeostasis
+homeostasis	regulated by	hormones
+hormones	include	ADH
+ADH	secreted by	pituitary
+pituitary	located in	brain
+brain	controls	micturition reflex
+micturition reflex	impaired in	neurogenic bladder
+neurogenic bladder	caused by	spinal injury
+spinal injury	assessed by	MRI
+MRI	visualizes	soft tissue
+soft tissue	includes	prostate
+prostate	examined via	DRE
+DRE	performed by	physician
+physician	refers to	specialist
+specialist	may recommend	surgery

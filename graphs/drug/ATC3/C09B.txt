@@ -1,0 +1,100 @@
+ace inhibitors	are	antihypertensive drugs
+ace inhibitors	treat	hypertension
+ace inhibitors	reduce	blood pressure
+ace inhibitors	prevent	heart failure
+ace inhibitors	protect	kidneys
+ace inhibitors	combined with	diuretics
+diuretics	enhance effects of	ace inhibitors
+ace inhibitor combinations	increase	efficacy
+ace inhibitor combinations	reduce	side effects
+ace inhibitors	interact with	potassium supplements
+ace inhibitors	contraindicated in	pregnancy
+ace inhibitors	cause	dry cough
+ace inhibitors	may induce	angioedema
+ace inhibitors	metabolized by	liver
+ace inhibitors	excreted by	kidneys
+ace inhibitors	combined with	calcium channel blockers
+calcium channel blockers	complement	ace inhibitors
+ace inhibitor combinations	lower	cardiovascular risk
+ace inhibitors	combined with	beta blockers
+beta blockers	synergize with	ace inhibitors
+ace inhibitors	inhibit	angiotensin-converting enzyme
+angiotensin-converting enzyme	converts	angiotensin I
+angiotensin I	converts to	angiotensin II
+angiotensin II	causes	vasoconstriction
+ace inhibitors	decrease	angiotensin II
+ace inhibitors	increase	bradykinin
+bradykinin	mediates	vasodilation
+bradykinin	causes	cough
+ace inhibitors	combined with	ARBs
+ARBs	alternative to	ace inhibitors
+ace inhibitors	combined with	thiazides
+thiazides	potentiate	ace inhibitors
+ace inhibitors	contraindicated in	renal artery stenosis
+ace inhibitors	require	renal monitoring
+ace inhibitors	affect	electrolyte balance
+ace inhibitors	may cause	hyperkalemia
+hyperkalemia	risk with	ace inhibitors
+ace inhibitors	first-line for	heart failure
+ace inhibitors	improve	ejection fraction
+ejection fraction	measures	heart function
+ace inhibitors	prevent	ventricular remodeling
+ventricular remodeling	worsens	heart failure
+ace inhibitors	reduce	proteinuria
+proteinuria	indicates	kidney damage
+ace inhibitors	delay	dialysis
+ace inhibitors	combined with	statins
+statins	complement	ace inhibitors
+ace inhibitor combinations	prevent	atherosclerosis
+atherosclerosis	leads to	myocardial infarction
+ace inhibitors	lower risk of	stroke
+stroke	prevented by	blood pressure control
+ace inhibitors	combined with	aspirin
+aspirin	adds benefits to	ace inhibitors
+ace inhibitors	interact with	NSAIDs
+NSAIDs	reduce efficacy of	ace inhibitors
+ace inhibitors	require	dose titration
+dose titration	minimizes	hypotension
+hypotension	side effect of	ace inhibitors
+ace inhibitors	contraindicated in	angioedema history
+ace inhibitors	alternatives to	ARBs
+ARBs	lack	cough side effect
+ace inhibitors	combined with	CCBs
+CCBs	add vasodilation to	ace inhibitors
+ace inhibitors	benefit	diabetic patients
+diabetic patients	protected by	ace inhibitors
+ace inhibitors	reduce	microalbuminuria
+microalbuminuria	predicts	nephropathy
+ace inhibitors	slow	CKD progression
+CKD	managed by	ace inhibitors
+ace inhibitors	combined with	aldosterone antagonists
+aldosterone antagonists	enhance	ace inhibitors
+ace inhibitors	prevent	atrial fibrillation
+atrial fibrillation	risk reduced by	ace inhibitors
+ace inhibitors	lower	cardiovascular mortality
+cardiovascular mortality	decreased by	ace inhibitors
+ace inhibitors	combined with	clopidogrel
+clopidogrel	complements	ace inhibitors
+ace inhibitors	improve	endothelial function
+endothelial dysfunction	improved by	ace inhibitors
+ace inhibitors	reduce	oxidative stress
+oxidative stress	contributes to	atherosclerosis
+ace inhibitors	combined with	nitrates
+nitrates	synergize with	ace inhibitors
+ace inhibitors	prevent	left ventricular hypertrophy
+left ventricular hypertrophy	risk factor for	heart failure
+ace inhibitors	combined with	hydralazine
+hydralazine	potentiates	ace inhibitors
+ace inhibitors	first-line for	diabetic nephropathy
+diabetic nephropathy	delayed by	ace inhibitors
+ace inhibitors	require	potassium monitoring
+potassium monitoring	prevents	hyperkalemia
+ace inhibitors	combined with	warfarin
+warfarin	used with caution with	ace inhibitors
+ace inhibitors	affect	glucose metabolism
+glucose metabolism	altered by	ace inhibitors
+ace inhibitors	combined with	digoxin
+digoxin	adjunct to	ace inhibitors
+ace inhibitors	reduce	hospitalizations
+hospitalizations	decreased by	ace inhibitors
+ace inhibitors	improve	quality of life

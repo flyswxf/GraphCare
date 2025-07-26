@@ -1,0 +1,100 @@
+antidepressants	are	medications
+antidepressants	treat	depression
+antidepressants	may cause	side effects
+side effects	include	nausea
+side effects	include	insomnia
+side effects	include	weight gain
+antidepressants	interact with	MAOIs
+antidepressants	interact with	alcohol
+antidepressants	classified into	SSRIs
+SSRIs	include	fluoxetine
+SSRIs	include	sertraline
+SSRIs	include	escitalopram
+antidepressants	classified into	SNRIs
+SNRIs	include	venlafaxine
+SNRIs	include	duloxetine
+antidepressants	classified into	TCAs
+TCAs	include	amitriptyline
+TCAs	include	imipramine
+antidepressants	classified into	MAOIs
+MAOIs	include	phenelzine
+MAOIs	include	tranylcypromine
+antidepressants	increase	serotonin levels
+serotonin	affects	mood
+antidepressants	increase	norepinephrine levels
+norepinephrine	affects	alertness
+antidepressants	prescribed for	anxiety disorders
+anxiety disorders	include	GAD
+anxiety disorders	include	panic disorder
+antidepressants	prescribed for	OCD
+OCD	involves	intrusive thoughts
+antidepressants	prescribed for	PTSD
+PTSD	triggered by	trauma
+antidepressants	prescribed for	chronic pain
+chronic pain	linked to	neuropathy
+antidepressants	may take	weeks to work
+antidepressants	require	dosage adjustment
+dosage adjustment	monitored by	physician
+physician	considers	patient history
+patient history	includes	allergies
+antidepressants	contraindicated in	bipolar disorder
+bipolar disorder	treated with	mood stabilizers
+mood stabilizers	include	lithium
+antidepressants	may trigger	manic episodes
+manic episodes	characterized by	hyperactivity
+antidepressants	metabolized by	liver
+liver	affected by	CYP enzymes
+CYP enzymes	influenced by	genetics
+antidepressants	excreted by	kidneys
+kidneys	function measured by	creatinine levels
+antidepressants	may cause	sexual dysfunction
+sexual dysfunction	includes	libido loss
+antidepressants	sometimes combined with	psychotherapy
+psychotherapy	includes	CBT
+CBT	helps with	negative thoughts
+antidepressants	studied in	clinical trials
+clinical trials	assess	efficacy
+efficacy	compared to	placebo
+placebo	has	psychological effects
+antidepressants	approved by	FDA
+FDA	regulates	drug safety
+drug safety	monitored through	adverse reports
+adverse reports	submitted by	healthcare providers
+healthcare providers	follow	guidelines
+guidelines	published by	WHO
+WHO	recommends	mental health care
+mental health care	includes	community support
+community support	involves	peer groups
+peer groups	provide	shared experiences
+antidepressants	discontinued via	tapering
+tapering	prevents	withdrawal symptoms
+withdrawal symptoms	include	dizziness
+dizziness	may lead to	falls
+falls	risk factor for	fractures
+fractures	common in	elderly
+elderly	often take	multiple medications
+multiple medications	risk	drug interactions
+drug interactions	affect	drug efficacy
+drug efficacy	influences	treatment outcomes
+treatment outcomes	measured by	symptom reduction
+symptom reduction	improves	quality of life
+quality of life	depends on	social factors
+social factors	include	employment status
+employment status	affects	mental health
+mental health	influenced by	stress levels
+stress levels	managed by	relaxation techniques
+relaxation techniques	include	meditation
+meditation	enhances	mindfulness
+mindfulness	reduces	rumination
+rumination	associated with	depression
+depression	linked to	inflammation
+inflammation	measured by	CRP levels
+CRP levels	indicate	immune response
+immune response	affects	neurotransmitter production
+neurotransmitter production	regulated by	genes
+genes	studied in	pharmacogenomics
+pharmacogenomics	guides	personalized medicine
+personalized medicine	optimizes	treatment plans
+treatment plans	involve	multidisciplinary teams
+multidisciplinary teams	include	psychiatrists
+psychiatrists	specialize in	mental disorders

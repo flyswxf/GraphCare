@@ -1,0 +1,100 @@
+dopaminergic agents	is a	drug class
+dopaminergic agents	affects	dopamine system
+dopaminergic agents	includes	dopamine agonists
+dopaminergic agents	includes	dopamine precursors
+dopaminergic agents	includes	dopamine reuptake inhibitors
+dopaminergic agents	treats	Parkinson's disease
+dopaminergic agents	treats	restless legs syndrome
+dopaminergic agents	treats	hyperprolactinemia
+dopaminergic agents	may cause	nausea
+dopaminergic agents	may cause	dizziness
+dopaminergic agents	may cause	hallucinations
+dopaminergic agents	may cause	orthostatic hypotension
+dopamine agonists	subtype	non-ergot dopamine agonists
+dopamine agonists	subtype	ergot dopamine agonists
+non-ergot dopamine agonists	includes	pramipexole
+non-ergot dopamine agonists	includes	ropinirole
+non-ergot dopamine agonists	includes	rotigotine
+ergot dopamine agonists	includes	bromocriptine
+ergot dopamine agonists	includes	cabergoline
+dopamine precursors	includes	levodopa
+levodopa	often combined with	carbidopa
+levodopa-carbidopa	is	combination therapy
+levodopa-carbidopa	treats	Parkinson's disease
+dopamine reuptake inhibitors	includes	methylphenidate
+dopamine reuptake inhibitors	includes	bupropion
+methylphenidate	treats	ADHD
+bupropion	treats	depression
+bupropion	helps with	smoking cessation
+dopaminergic agents	interacts with	antipsychotics
+dopaminergic agents	contraindicated in	psychosis
+dopaminergic agents	requires	dose titration
+long-term use	may cause	dyskinesias
+long-term use	may cause	impulse control disorders
+impulse control disorders	include	gambling addiction
+impulse control disorders	include	hypersexuality
+dopaminergic agents	monitored via	Unified Parkinson's Disease Rating Scale
+Parkinson's disease	characterized by	motor symptoms
+motor symptoms	include	tremors
+motor symptoms	include	bradykinesia
+motor symptoms	include	rigidity
+Parkinson's disease	characterized by	non-motor symptoms
+non-motor symptoms	include	depression
+non-motor symptoms	include	sleep disturbances
+dopaminergic agents	affects	prolactin levels
+hyperprolactinemia	causes	galactorrhea
+hyperprolactinemia	causes	amenorrhea
+dopaminergic agents	metabolized in	liver
+liver metabolism	involves	cytochrome P450 enzymes
+dopaminergic agents	excreted via	kidneys
+renal impairment	requires	dose adjustment
+dopaminergic agents	has	half-life
+half-life	determines	dosing frequency
+dopaminergic agents	crosses	blood-brain barrier
+blood-brain barrier penetration	affects	efficacy
+dopaminergic agents	may cause	sleep attacks
+sleep attacks	are	sudden onset of sleep
+dopaminergic agents	contraindicated in	severe cardiovascular disease
+dopaminergic agents	requires	cardiac monitoring
+dopaminergic agents	may interact with	MAO inhibitors
+MAO inhibitors	include	selegiline
+dopaminergic agents	available as	oral formulations
+dopaminergic agents	available as	transdermal patches
+transdermal patches	example	rotigotine patch
+dopaminergic agents	has	receptor specificity
+receptor specificity	targets	D1 receptors
+receptor specificity	targets	D2 receptors
+receptor specificity	affects	side effect profile
+dopaminergic agents	used in	augmentation therapy
+augmentation therapy	treats	inadequate response
+dopaminergic agents	subject to	tolerance development
+tolerance development	may require	dose escalation
+dopaminergic agents	associated with	wearing-off phenomenon
+wearing-off phenomenon	characterized by	reduced duration of effect
+dopaminergic agents	may cause	dopamine dysregulation syndrome
+dopamine dysregulation syndrome	involves	compulsive medication use
+dopaminergic agents	affects	reward system
+reward system	involves	nucleus accumbens
+dopaminergic agents	influences	mood
+mood effects	can include	euphoria
+mood effects	can include	depression
+dopaminergic agents	used in	neuroprotection research
+neuroprotection research	aims to	slow disease progression
+dopaminergic agents	affects	gastrointestinal motility
+gastrointestinal effects	can include	constipation
+dopaminergic agents	contraindicated in	angle-closure glaucoma
+dopaminergic agents	requires	ophthalmologic monitoring
+dopaminergic agents	may cause	peripheral edema
+peripheral edema	affects	lower extremities
+dopaminergic agents	may cause	psychosis
+psychosis	characterized by	hallucinations
+psychosis	characterized by	delusions
+dopaminergic agents	may require	adjunctive therapy
+adjunctive therapy	includes	anticholinergics
+adjunctive therapy	includes	COMT inhibitors
+COMT inhibitors	example	entacapone
+dopaminergic agents	affects	quality of life
+quality of life	measured by	PDQ-39
+dopaminergic agents	subject to	drug holidays
+drug holidays	aim to	reduce side effects
+dopaminergic agents	researched for	new formulations

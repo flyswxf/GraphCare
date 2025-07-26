@@ -1,0 +1,100 @@
+menopausal disorders	are caused by	hormonal imbalance
+menopausal disorders	include	hot flashes
+menopausal disorders	include	night sweats
+menopausal disorders	include	vaginal dryness
+menopausal disorders	may lead to	osteoporosis
+menopausal disorders	may lead to	cardiovascular disease
+menopausal disorders	are associated with	mood swings
+menopausal disorders	are associated with	sleep disturbances
+menopausal disorders	may cause	urinary incontinence
+menopausal disorders	may cause	decreased libido
+menopausal disorders	are diagnosed via	blood tests
+menopausal disorders	are diagnosed via	symptom assessment
+menopausal disorders	can be treated with	hormone therapy
+menopausal disorders	can be treated with	antidepressants
+menopausal disorders	can be treated with	vaginal estrogen
+menopausal disorders	can be managed with	lifestyle changes
+menopausal disorders	can be managed with	dietary supplements
+menopausal disorders	may require	calcium supplementation
+menopausal disorders	may require	vitamin D supplementation
+menopausal disorders	increase risk of	fractures
+menopausal disorders	increase risk of	weight gain
+menopausal disorders	are linked to	insulin resistance
+menopausal disorders	are linked to	metabolic syndrome
+menopausal disorders	may worsen	depression
+menopausal disorders	may worsen	anxiety
+hormonal imbalance	involves	estrogen decline
+hormonal imbalance	involves	progesterone decline
+estrogen decline	affects	bone density
+estrogen decline	affects	cholesterol levels
+progesterone decline	affects	menstrual cycle
+hot flashes	are triggered by	hypothalamus dysfunction
+hot flashes	can be relieved by	clonidine
+night sweats	disrupt	sleep quality
+vaginal dryness	can be treated with	lubricants
+vaginal dryness	increases risk of	infections
+osteoporosis	is prevented by	bisphosphonates
+osteoporosis	is prevented by	weight-bearing exercise
+cardiovascular disease	is mitigated by	statins
+mood swings	are alleviated by	SSRIs
+sleep disturbances	are managed with	melatonin
+urinary incontinence	is treated with	pelvic floor therapy
+decreased libido	may improve with	testosterone therapy
+blood tests	measure	FSH levels
+blood tests	measure	LH levels
+hormone therapy	includes	estrogen replacement
+hormone therapy	includes	progesterone replacement
+hormone therapy	increases risk of	breast cancer
+hormone therapy	increases risk of	blood clots
+antidepressants	help with	vasomotor symptoms
+vaginal estrogen	reduces	dyspareunia
+lifestyle changes	include	regular exercise
+lifestyle changes	include	smoking cessation
+dietary supplements	contain	phytoestrogens
+calcium supplementation	supports	bone health
+vitamin D supplementation	enhances	calcium absorption
+fractures	are prevented by	fall prevention
+weight gain	is managed with	calorie control
+insulin resistance	leads to	type 2 diabetes
+metabolic syndrome	includes	hypertension
+depression	is screened with	PHQ-9
+anxiety	is screened with	GAD-7
+hypothalamus dysfunction	causes	thermoregulation issues
+clonidine	is an	alpha-agonist
+sleep quality	affects	daytime fatigue
+lubricants	improve	sexual comfort
+infections	include	bacterial vaginosis
+bisphosphonates	inhibit	bone resorption
+weight-bearing exercise	strengthens	muscles
+statins	lower	LDL cholesterol
+SSRIs	increase	serotonin levels
+melatonin	regulates	sleep-wake cycle
+pelvic floor therapy	involves	Kegel exercises
+testosterone therapy	may cause	acne
+FSH levels	indicate	ovarian reserve
+LH levels	surge during	ovulation
+estrogen replacement	relieves	vasomotor symptoms
+progesterone replacement	protects	endometrium
+breast cancer	is detected via	mammography
+blood clots	are prevented by	anticoagulants
+vasomotor symptoms	include	hot flashes
+dyspareunia	is caused by	vaginal atrophy
+regular exercise	improves	cardiovascular health
+smoking cessation	reduces	hot flash severity
+phytoestrogens	are found in	soy products
+bone health	depends on	adequate nutrition
+calcium absorption	requires	stomach acid
+fall prevention	includes	home modifications
+calorie control	involves	portion management
+type 2 diabetes	is managed with	metformin
+hypertension	is treated with	ACE inhibitors
+PHQ-9	assesses	depression severity
+GAD-7	assesses	anxiety severity
+thermoregulation issues	cause	sweating
+alpha-agonist	reduces	noradrenaline activity
+daytime fatigue	affects	work performance
+sexual comfort	enhances	relationship satisfaction
+bacterial vaginosis	is treated with	antibiotics
+bone resorption	releases	calcium
+muscles	support	joint stability
+LDL cholesterol	contributes to	atherosclerosis

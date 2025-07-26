@@ -1,0 +1,100 @@
+other diagnostic cardiovascular procedures	are part of	cardiology
+other diagnostic cardiovascular procedures	include	echocardiography
+other diagnostic cardiovascular procedures	include	stress testing
+other diagnostic cardiovascular procedures	include	cardiac CT
+other diagnostic cardiovascular procedures	include	cardiac MRI
+echocardiography	uses	ultrasound
+echocardiography	evaluates	heart function
+echocardiography	detects	valve abnormalities
+stress testing	assesses	exercise tolerance
+stress testing	diagnoses	coronary artery disease
+stress testing	measures	heart rate response
+cardiac CT	provides	heart images
+cardiac CT	detects	calcium deposits
+cardiac CT	evaluates	coronary arteries
+cardiac MRI	produces	detailed heart images
+cardiac MRI	assesses	myocardial viability
+cardiac MRI	diagnoses	cardiomyopathies
+other diagnostic cardiovascular procedures	require	specialized equipment
+other diagnostic cardiovascular procedures	performed by	cardiologists
+other diagnostic cardiovascular procedures	aid in	treatment planning
+echocardiography	can detect	pericardial effusion
+echocardiography	measures	ejection fraction
+stress testing	may involve	treadmill
+stress testing	monitors	ECG changes
+cardiac CT	requires	contrast dye
+cardiac CT	calculates	coronary calcium score
+cardiac MRI	evaluates	congenital heart defects
+cardiac MRI	visualizes	cardiac tumors
+other diagnostic cardiovascular procedures	have	risks
+other diagnostic cardiovascular procedures	need	patient preparation
+echocardiography	classifies as	non-invasive
+echocardiography	has subtypes	transthoracic
+echocardiography	has subtypes	transesophageal
+transesophageal echocardiography	provides	clearer images
+transesophageal echocardiography	requires	sedation
+stress testing	contraindicated in	severe aortic stenosis
+stress testing	modified for	physical limitations
+cardiac CT	contraindicated in	kidney disease
+cardiac CT	alternative to	invasive angiography
+cardiac MRI	contraindicated in	metal implants
+cardiac MRI	superior for	tissue characterization
+other diagnostic cardiovascular procedures	complement	clinical assessment
+other diagnostic cardiovascular procedures	guide	interventions
+echocardiography	first-line for	heart failure
+echocardiography	monitors	prosthetic valves
+stress testing	prognostic for	cardiac events
+stress testing	combines with	imaging
+cardiac CT	screens for	atherosclerosis
+cardiac CT	detects	aortic aneurysms
+cardiac MRI	quantifies	blood flow
+cardiac MRI	diagnoses	myocarditis
+other diagnostic cardiovascular procedures	compared to	invasive methods
+other diagnostic cardiovascular procedures	reduce	hospitalization
+echocardiography	portable version	handheld devices
+echocardiography	emergency use	cardiac tamponade
+stress testing	pharmacological option	dobutamine
+stress testing	pharmacological option	adenosine
+cardiac CT	requires	beta blockers
+cardiac CT	reduces	catheterization need
+cardiac MRI	assesses	iron overload
+cardiac MRI	evaluates	sarcoidosis
+other diagnostic cardiovascular procedures	standardized by	guidelines
+other diagnostic cardiovascular procedures	improve	diagnostic accuracy
+echocardiography	detects	intracardiac thrombi
+echocardiography	guides	pericardiocentesis
+stress testing	contraindicated in	unstable angina
+stress testing	endpoint	target heart rate
+cardiac CT	alternative	coronary CTA
+cardiac CT	detects	pulmonary embolism
+cardiac MRI	diagnoses	arrhythmogenic dysplasia
+cardiac MRI	evaluates	post-infarct scarring
+other diagnostic cardiovascular procedures	cost-effective	long-term
+other diagnostic cardiovascular procedures	require	trained technicians
+echocardiography	Doppler mode	blood flow analysis
+echocardiography	3D version	structural assessment
+stress testing	recovery phase	important data
+stress testing	false positives	obesity
+cardiac CT	radiation dose	concern
+cardiac CT	gating technique	motion reduction
+cardiac MRI	late enhancement	infarct size
+cardiac MRI	T1 mapping	fibrosis
+other diagnostic cardiovascular procedures	integrate with	AI
+other diagnostic cardiovascular procedures	enhance	early detection
+echocardiography	contrast-enhanced	better borders
+echocardiography	strain imaging	subtle dysfunction
+stress testing	Duke treadmill score	risk stratification
+stress testing	METs measurement	functional capacity
+cardiac CT	FFR-CT	functional assessment
+cardiac CT	plaque characterization	high-risk features
+cardiac MRI	feature tracking	myocardial deformation
+cardiac MRI	perfusion imaging	ischemia
+other diagnostic cardiovascular procedures	evolving with	technology
+other diagnostic cardiovascular procedures	combine	biomarkers
+echocardiography	exercise version	valve disease
+echocardiography	diastolic assessment	filling pressures
+stress testing	recovery heart rate	prognostic
+stress testing	blood pressure response	significance
+cardiac CT	incidental findings	management
+cardiac CT	preoperative use	valve surgery
+cardiac MRI	parametric mapping	tissue properties

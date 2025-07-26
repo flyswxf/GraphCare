@@ -1,0 +1,100 @@
+antibiotics for topical use	is a	medication
+antibiotics for topical use	treats	skin infections
+skin infections	caused by	bacteria
+antibiotics for topical use	applied to	skin
+antibiotics for topical use	contains	active ingredients
+active ingredients	kill	bacteria
+antibiotics for topical use	available as	creams
+antibiotics for topical use	available as	ointments
+antibiotics for topical use	available as	sprays
+antibiotics for topical use	prevents	infection
+antibiotics for topical use	may cause	skin irritation
+skin irritation	can lead to	redness
+skin irritation	can lead to	itching
+antibiotics for topical use	interacts with	other medications
+antibiotics for topical use	requires	prescription
+antibiotics for topical use	sometimes available	over-the-counter
+antibiotics for topical use	effective against	staphylococcus
+antibiotics for topical use	effective against	streptococcus
+staphylococcus	causes	impetigo
+streptococcus	causes	cellulitis
+antibiotics for topical use	less likely to cause	systemic side effects
+systemic side effects	include	gastrointestinal issues
+antibiotics for topical use	preferred for	localized infections
+localized infections	affect	small skin areas
+antibiotics for topical use	not effective against	fungal infections
+fungal infections	require	antifungal medications
+antibiotics for topical use	common brand	Neosporin
+Neosporin	contains	neomycin
+Neosporin	contains	polymyxin B
+Neosporin	contains	bacitracin
+antibiotics for topical use	alternative to	oral antibiotics
+oral antibiotics	affect	whole body
+antibiotics for topical use	used for	wound care
+wound care	prevents	complications
+antibiotics for topical use	contraindicated for	deep wounds
+deep wounds	require	medical attention
+antibiotics for topical use	may lead to	antibiotic resistance
+antibiotic resistance	causes	treatment failure
+antibiotics for topical use	should be used	as directed
+antibiotics for topical use	stored at	room temperature
+antibiotics for topical use	expiry date	important
+expired medications	lose	effectiveness
+antibiotics for topical use	not recommended for	viral infections
+viral infections	unaffected by	antibiotics
+antibiotics for topical use	absorbed minimally	through skin
+minimal absorption	reduces	systemic effects
+antibiotics for topical use	available in	different strengths
+different strengths	require	different dosing
+antibiotics for topical use	should not be used	long-term
+long-term use	increases	side effects
+antibiotics for topical use	sometimes combined with	corticosteroids
+corticosteroids	reduce	inflammation
+antibiotics for topical use	used in	dermatology
+dermatology	specializes in	skin conditions
+antibiotics for topical use	prescribed for	acne
+acne	involves	clogged pores
+antibiotics for topical use	alternative to	systemic therapy
+systemic therapy	affects	entire body
+antibiotics for topical use	applied	multiple times daily
+multiple applications	ensure	effectiveness
+antibiotics for topical use	not suitable for	eye infections
+eye infections	require	ophthalmic antibiotics
+antibiotics for topical use	may interact with	other topical products
+other topical products	include	moisturizers
+antibiotics for topical use	tested in	clinical trials
+clinical trials	determine	safety
+clinical trials	determine	efficacy
+antibiotics for topical use	manufactured by	pharmaceutical companies
+pharmaceutical companies	follow	FDA regulations
+FDA regulations	ensure	quality control
+antibiotics for topical use	distributed to	pharmacies
+pharmacies	provide	patient education
+patient education	improves	adherence
+antibiotics for topical use	often prescribed with	wound dressings
+wound dressings	protect	injured skin
+antibiotics for topical use	sometimes cause	allergic reactions
+allergic reactions	may manifest as	rash
+antibiotics for topical use	dosage depends on	infection severity
+infection severity	assessed by	healthcare provider
+antibiotics for topical use	not recommended for	burns
+burns	require	specialized treatment
+antibiotics for topical use	used in	postoperative care
+postoperative care	prevents	surgical site infections
+antibiotics for topical use	sometimes used for	animal bites
+animal bites	risk of	rabies
+antibiotics for topical use	can be	bacteriostatic
+antibiotics for topical use	can be	bactericidal
+bacteriostatic	inhibits	bacterial growth
+bactericidal	kills	bacteria
+antibiotics for topical use	pH level	important
+pH level	affects	stability
+antibiotics for topical use	research ongoing for	new formulations
+new formulations	aim for	better absorption
+antibiotics for topical use	subject to	recalls
+recalls	occur due to	contamination
+antibiotics for topical use	packaging includes	instructions
+instructions	guide	proper use
+antibiotics for topical use	disposal requires	care
+proper disposal	prevents	environmental contamination
+antibiotics for topical use	part of	infection control

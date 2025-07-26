@@ -1,0 +1,112 @@
+other antiparkinson drugs in atc	is a	drug class
+other antiparkinson drugs in atc	includes	levodopa
+other antiparkinson drugs in atc	includes	dopamine agonists
+other antiparkinson drugs in atc	includes	MAO-B inhibitors
+other antiparkinson drugs in atc	includes	COMT inhibitors
+other antiparkinson drugs in atc	includes	anticholinergics
+levodopa	converts to	dopamine
+dopamine	deficiency causes	Parkinson's disease
+dopamine agonists	mimic	dopamine
+MAO-B inhibitors	inhibit	monoamine oxidase B
+monoamine oxidase B	breaks down	dopamine
+COMT inhibitors	prolong	levodopa effect
+anticholinergics	reduce	acetylcholine activity
+acetylcholine	imbalance causes	Parkinson's symptoms
+levodopa	often combined	carbidopa
+carbidopa	prevents	peripheral levodopa conversion
+dopamine agonists	include	pramipexole
+dopamine agonists	include	ropinirole
+MAO-B inhibitors	include	selegiline
+MAO-B inhibitors	include	rasagiline
+COMT inhibitors	include	entacapone
+COMT inhibitors	include	tolcapone
+anticholinergics	include	trihexyphenidyl
+anticholinergics	include	benztropine
+Parkinson's disease	characterized by	motor symptoms
+motor symptoms	include	tremors
+motor symptoms	include	bradykinesia
+motor symptoms	include	rigidity
+Parkinson's disease	characterized by	non-motor symptoms
+non-motor symptoms	include	depression
+non-motor symptoms	include	sleep disturbances
+levodopa	causes	dyskinesia
+dyskinesia	is a	movement disorder
+dopamine agonists	may cause	hallucinations
+hallucinations	are	psychiatric side effects
+MAO-B inhibitors	interact with	tyramine
+tyramine	found in	aged cheeses
+COMT inhibitors	may cause	diarrhea
+diarrhea	is a	gastrointestinal side effect
+anticholinergics	may cause	dry mouth
+dry mouth	is a	anticholinergic side effect
+Parkinson's disease	treated with	deep brain stimulation
+deep brain stimulation	involves	surgical implantation
+Parkinson's disease	associated with	Lewy bodies
+Lewy bodies	contain	alpha-synuclein
+alpha-synuclein	misfolding causes	neurodegeneration
+neurodegeneration	leads to	dopamine neuron loss
+levodopa	administered as	oral medication
+dopamine agonists	available as	transdermal patches
+MAO-B inhibitors	require	dietary restrictions
+COMT inhibitors	taken with	levodopa
+anticholinergics	avoided in	elderly patients
+elderly patients	prone to	cognitive side effects
+Parkinson's disease	risk factor	aging
+aging	increases	neurodegeneration risk
+Parkinson's disease	genetic forms involve	LRRK2 gene
+LRRK2 gene	mutations increase	disease risk
+Parkinson's disease	environmental risk	pesticide exposure
+pesticide exposure	linked to	dopamine neuron damage
+levodopa	effectiveness decreases	over time
+dopamine agonists	used as	monotherapy
+monotherapy	is	single-drug treatment
+MAO-B inhibitors	delay	levodopa need
+COMT inhibitors	reduce	OFF periods
+OFF periods	are	symptom re-emergence
+anticholinergics	more effective for	tremors
+tremors	reduced by	dopamine replacement
+Parkinson's disease	diagnosis involves	neurological exam
+neurological exam	assesses	motor function
+Parkinson's disease	may require	multidisciplinary care
+multidisciplinary care	includes	physiotherapy
+physiotherapy	improves	mobility
+mobility	affected by	bradykinesia
+Parkinson's disease	complications include	falls
+falls	result from	postural instability
+postural instability	is a	balance disorder
+levodopa	absorption affected by	protein intake
+protein intake	interferes with	levodopa transport
+dopamine agonists	require	dose titration
+dose titration	prevents	side effects
+MAO-B inhibitors	have	neuroprotective potential
+neuroprotective potential	may slow	disease progression
+COMT inhibitors	increase	levodopa bioavailability
+levodopa bioavailability	affects	treatment efficacy
+anticholinergics	contraindicated in	glaucoma
+glaucoma	is a	eye pressure disorder
+Parkinson's disease	non-pharmacological treatment	exercise
+exercise	improves	motor symptoms
+Parkinson's disease	research focuses on	stem cell therapy
+stem cell therapy	aims to	replace dopamine neurons
+levodopa	discovered in	1960s
+1960s	marked	Parkinson's treatment revolution
+dopamine agonists	developed as	alternative to levodopa
+MAO-B inhibitors	derived from	antidepressant research
+COMT inhibitors	introduced in	1990s
+1990s	saw	adjunctive therapy development
+anticholinergics	among	oldest Parkinson's treatments
+oldest Parkinson's treatments	date to	19th century
+Parkinson's disease	prevalence increases	globally
+globally	aging populations drive	disease burden
+levodopa	remains	gold standard treatment
+gold standard treatment	despite	limitations
+dopamine agonists	preferred in	younger patients
+younger patients	tolerate	side effects better
+MAO-B inhibitors	suitable for	early-stage disease
+early-stage disease	has	milder symptoms
+COMT inhibitors	useful in	advanced disease
+advanced disease	has	motor complications
+anticholinergics	limited by	cognitive effects
+cognitive effects	include	memory impairment
+Parkinson's disease	animal models use	MPTP
+MPTP	induces	Parkinsonism in primates

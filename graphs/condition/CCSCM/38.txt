@@ -1,0 +1,101 @@
+non-Hodgkin's lymphoma	is a	cancer
+non-Hodgkin's lymphoma	affects	lymphocytes
+non-Hodgkin's lymphoma	may cause	lymphadenopathy
+non-Hodgkin's lymphoma	may cause	fever
+non-Hodgkin's lymphoma	may cause	weight loss
+non-Hodgkin's lymphoma	may cause	night sweats
+non-Hodgkin's lymphoma	is diagnosed via	biopsy
+non-Hodgkin's lymphoma	is staged with	PET scan
+non-Hodgkin's lymphoma	is treated with	chemotherapy
+non-Hodgkin's lymphoma	is treated with	immunotherapy
+non-Hodgkin's lymphoma	is treated with	radiation therapy
+non-Hodgkin's lymphoma	is treated with	stem cell transplant
+rituximab	treats	non-Hodgkin's lymphoma
+CHOP regimen	treats	non-Hodgkin's lymphoma
+cyclophosphamide	is in	CHOP regimen
+doxorubicin	is in	CHOP regimen
+vincristine	is in	CHOP regimen
+prednisone	is in	CHOP regimen
+non-Hodgkin's lymphoma	has subtype	diffuse large B-cell lymphoma
+non-Hodgkin's lymphoma	has subtype	follicular lymphoma
+non-Hodgkin's lymphoma	has subtype	mantle cell lymphoma
+non-Hodgkin's lymphoma	has subtype	Burkitt lymphoma
+non-Hodgkin's lymphoma	has risk factor	immunodeficiency
+non-Hodgkin's lymphoma	has risk factor	Epstein-Barr virus
+non-Hodgkin's lymphoma	has risk factor	Helicobacter pylori
+non-Hodgkin's lymphoma	has risk factor	pesticides
+non-Hodgkin's lymphoma	has risk factor	age
+non-Hodgkin's lymphoma	may lead to	anemia
+non-Hodgkin's lymphoma	may lead to	infection
+non-Hodgkin's lymphoma	may lead to	organ dysfunction
+non-Hodgkin's lymphoma	requires monitoring	LDH levels
+non-Hodgkin's lymphoma	requires monitoring	CBC
+non-Hodgkin's lymphoma	may recur	relapse
+non-Hodgkin's lymphoma	has prognostic factor	IPI score
+non-Hodgkin's lymphoma	can spread to	bone marrow
+non-Hodgkin's lymphoma	can spread to	liver
+non-Hodgkin's lymphoma	can spread to	spleen
+non-Hodgkin's lymphoma	can spread to	CNS
+non-Hodgkin's lymphoma	is differentiated from	Hodgkin lymphoma
+Reed-Sternberg cells	absent in	non-Hodgkin's lymphoma
+CD20	is a marker for	non-Hodgkin's lymphoma
+ibrutinib	treats	mantle cell lymphoma
+bendamustine	treats	follicular lymphoma
+obinutuzumab	treats	follicular lymphoma
+CAR-T therapy	treats	refractory non-Hodgkin's lymphoma
+axicabtagene ciloleucel	is a	CAR-T therapy
+tisagenlecleucel	is a	CAR-T therapy
+non-Hodgkin's lymphoma	may cause	B symptoms
+non-Hodgkin's lymphoma	has genetic mutation	BCL2
+non-Hodgkin's lymphoma	has genetic mutation	MYC
+non-Hodgkin's lymphoma	has genetic mutation	TP53
+non-Hodgkin's lymphoma	may involve	extranodal sites
+non-Hodgkin's lymphoma	requires evaluation	flow cytometry
+non-Hodgkin's lymphoma	may present with	pleural effusion
+non-Hodgkin's lymphoma	may present with	ascites
+non-Hodgkin's lymphoma	may require	lymph node excision
+non-Hodgkin's lymphoma	has association	autoimmune diseases
+non-Hodgkin's lymphoma	is more common in	males
+non-Hodgkin's lymphoma	has incidence increase with	age
+non-Hodgkin's lymphoma	is classified by	WHO classification
+non-Hodgkin's lymphoma	has histological grade	low-grade
+non-Hodgkin's lymphoma	has histological grade	high-grade
+non-Hodgkin's lymphoma	has treatment complication	neutropenia
+non-Hodgkin's lymphoma	has treatment complication	cardiotoxicity
+non-Hodgkin's lymphoma	has treatment complication	secondary cancers
+non-Hodgkin's lymphoma	may respond to	targeted therapy
+non-Hodgkin's lymphoma	may be refractory to	chemotherapy
+non-Hodgkin's lymphoma	survival rate depends on	stage
+Ann Arbor staging	is used for	non-Hodgkin's lymphoma
+non-Hodgkin's lymphoma	stage I	involves single lymph node region
+non-Hodgkin's lymphoma	stage II	involves multiple lymph node regions
+non-Hodgkin's lymphoma	stage III	involves lymph nodes on both sides of diaphragm
+non-Hodgkin's lymphoma	stage IV	involves extranodal spread
+non-Hodgkin's lymphoma	has survival marker	Ki-67 index
+non-Hodgkin's lymphoma	may co-occur with	HIV
+non-Hodgkin's lymphoma	in HIV patients	is often aggressive
+non-Hodgkin's lymphoma	may require	intrathecal chemotherapy
+non-Hodgkin's lymphoma	can cause	hypercalcemia
+non-Hodgkin's lymphoma	may lead to	superior vena cava syndrome
+non-Hodgkin's lymphoma	may cause	spinal cord compression
+non-Hodgkin's lymphoma	may require	surgical debulking
+non-Hodgkin's lymphoma	has differential diagnosis	sarcoidosis
+non-Hodgkin's lymphoma	has differential diagnosis	tuberculosis
+non-Hodgkin's lymphoma	may mimic	metastatic carcinoma
+non-Hodgkin's lymphoma	may be associated with	hepatitis C
+non-Hodgkin's lymphoma	research involves	checkpoint inhibitors
+pembrolizumab	is being studied for	non-Hodgkin's lymphoma
+nivolumab	is being studied for	non-Hodgkin's lymphoma
+non-Hodgkin's lymphoma	has experimental treatment	bispecific antibodies
+non-Hodgkin's lymphoma	may affect	PFS
+non-Hodgkin's lymphoma	may affect	OS
+non-Hodgkin's lymphoma	prognosis depends on	molecular subtype
+non-Hodgkin's lymphoma	has research focus	liquid biopsy
+non-Hodgkin's lymphoma	has research focus	minimal residual disease
+non-Hodgkin's lymphoma	requires supportive care	growth factors
+non-Hodgkin's lymphoma	requires supportive care	antiemetics
+non-Hodgkin's lymphoma	requires supportive care	transfusion support
+non-Hodgkin's lymphoma	has palliative option	radiation therapy
+non-Hodgkin's lymphoma	may benefit from	clinical trials
+non-Hodgkin's lymphoma	research explores	tumor microenvironment
+ENTITY	RELATIONSHIP	ENTITY

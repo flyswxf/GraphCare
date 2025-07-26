@@ -1,0 +1,100 @@
+diagnostic D&C	is a	surgical procedure
+diagnostic D&C	used for	uterine evaluation
+diagnostic D&C	can detect	endometrial cancer
+diagnostic D&C	can diagnose	abnormal bleeding
+diagnostic D&C	involves	cervix dilation
+diagnostic D&C	involves	uterine curettage
+diagnostic D&C	requires	anesthesia
+diagnostic D&C	performed by	gynecologist
+diagnostic D&C	may require	hospital stay
+diagnostic D&C	can cause	cramping
+diagnostic D&C	can cause	bleeding
+diagnostic D&C	may lead	infection
+diagnostic D&C	alternative to	hysteroscopy
+diagnostic D&C	follows	abnormal ultrasound
+diagnostic D&C	evaluates	endometrial hyperplasia
+diagnostic D&C	checks for	polyps
+diagnostic D&C	assesses	retained products of conception
+diagnostic D&C	used after	miscarriage
+diagnostic D&C	helps diagnose	Asherman’s syndrome
+diagnostic D&C	may require	preoperative testing
+diagnostic D&C	contraindicated in	active pelvic infection
+diagnostic D&C	requires	sterile technique
+diagnostic D&C	may involve	ultrasound guidance
+diagnostic D&C	preferred over	blind biopsy
+diagnostic D&C	can collect	tissue samples
+diagnostic D&C	helps rule out	malignancy
+diagnostic D&C	often precedes	hormonal therapy
+diagnostic D&C	may necessitate	repeat procedure
+diagnostic D&C	risks include	uterine perforation
+diagnostic D&C	risks include	cervical injury
+diagnostic D&C	recovery involves	rest
+diagnostic D&C	recovery involves	pain management
+diagnostic D&C	may cause	temporary infertility
+diagnostic D&C	sometimes paired with	hysterectomy
+diagnostic D&C	differs from	therapeutic D&C
+diagnostic D&C	may require	antibiotic prophylaxis
+diagnostic D&C	useful in	perimenopausal women
+diagnostic D&C	can detect	uterine fibroids
+diagnostic D&C	helps assess	chronic endometritis
+diagnostic D&C	may follow	failed medical management
+diagnostic D&C	sometimes needed for	postmenopausal bleeding
+diagnostic D&C	can help diagnose	adenomyosis
+diagnostic D&C	may require	hormonal preparation
+diagnostic D&C	influenced by	patient age
+diagnostic D&C	influenced by	bleeding severity
+diagnostic D&C	may need	blood transfusion
+diagnostic D&C	can trigger	vasovagal response
+diagnostic D&C	sometimes combined with	laparoscopy
+diagnostic D&C	may involve	electrocautery
+diagnostic D&C	can lead to	scar tissue formation
+diagnostic D&C	sometimes replaced by	endometrial biopsy
+diagnostic D&C	requires	informed consent
+diagnostic D&C	may necessitate	postoperative monitoring
+diagnostic D&C	outcomes affect	treatment planning
+diagnostic D&C	can indicate	hormonal imbalance
+diagnostic D&C	sometimes used in	infertility workup
+diagnostic D&C	helps exclude	cervical cancer
+diagnostic D&C	may require	cervical ripening
+diagnostic D&C	complications include	adhesions
+diagnostic D&C	complications include	hematometra
+diagnostic D&C	varies by	surgical technique
+diagnostic D&C	sometimes guided by	MRI
+diagnostic D&C	may be outpatient	procedure
+diagnostic D&C	can influence	cancer staging
+diagnostic D&C	may require	dilation agents
+diagnostic D&C	sometimes preceded by	hysterography
+diagnostic D&C	can confirm	molar pregnancy
+diagnostic D&C	may need	pathology consultation
+diagnostic D&C	sometimes indicated for	tamoxifen users
+diagnostic D&C	helps assess	endometrial thickness
+diagnostic D&C	may follow	inconclusive imaging
+diagnostic D&C	can detect	endometrial atrophy
+diagnostic D&C	risks vary by	surgeon experience
+diagnostic D&C	may require	coagulation testing
+diagnostic D&C	sometimes used for	retained placenta
+diagnostic D&C	may involve	manual vacuum aspiration
+diagnostic D&C	can assess	estrogen effects
+diagnostic D&C	sometimes performed under	sedation
+diagnostic D&C	may detect	metastatic cancer
+diagnostic D&C	can lead to	cervical stenosis
+diagnostic D&C	sometimes avoided in	pregnancy
+diagnostic D&C	may need	pain relief post-op
+diagnostic D&C	can determine	cause of infertility
+diagnostic D&C	sometimes used in	menopause transition
+diagnostic D&C	may require	follow-up biopsy
+diagnostic D&C	can identify	precancerous changes
+diagnostic D&C	sometimes combined with	myomectomy
+diagnostic D&C	can assess	progesterone effects
+diagnostic D&C	may necessitate	bed rest
+diagnostic D&C	risks increase with	fibroid presence
+diagnostic D&C	sometimes indicated for	IUD users
+diagnostic D&C	can reveal	infection signs
+diagnostic D&C	may require	anti-inflammatory drugs
+diagnostic D&C	sometimes used for	post-coital bleeding
+diagnostic D&C	can correlate with	hormone levels
+diagnostic D&C	may involve	sharp curettage
+diagnostic D&C	sometimes guided by	saline sonography
+diagnostic D&C	can help diagnose	Lynch syndrome
+diagnostic D&C	may necessitate	genetic testing
+diagnostic D&C	outcomes guide	cancer treatment

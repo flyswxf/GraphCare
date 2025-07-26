@@ -1,0 +1,100 @@
+ARBs	are	antihypertensive drugs
+ARBs	block	angiotensin II receptors
+ARBs	used for	hypertension
+ARBs	used for	heart failure
+ARBs	used for	diabetic nephropathy
+ARBs	may cause	hyperkalemia
+ARBs	may cause	hypotension
+ARBs	may cause	dizziness
+ARBs	may cause	renal impairment
+ARBs	contraindicated in	pregnancy
+ARBs	metabolized by	liver
+ARBs	excreted via	kidneys
+ARBs	can interact with	diuretics
+ARBs	can interact with	NSAIDs
+ARBs	can interact with	potassium supplements
+ARBs	alternative to	ACE inhibitors
+ARBs	include	losartan
+ARBs	include	valsartan
+ARBs	include	irbesartan
+ARBs	include	candesartan
+ARBs	include	telmisartan
+ARBs	include	olmesartan
+ARBs	include	eprosartan
+ARBs	include	azilsartan
+ARBs	reduce	blood pressure
+ARBs	decrease	afterload
+ARBs	protect	kidneys
+ARBs	improve	cardiac function
+ARBs	prescribed for	left ventricular hypertrophy
+ARBs	used in	post-myocardial infarction
+ARBs	may reduce	proteinuria
+ARBs	may slow	renal disease progression
+ARBs	require	dose adjustment in renal impairment
+ARBs	require	dose adjustment in hepatic impairment
+ARBs	have	once-daily dosing
+ARBs	preferred in	ACE inhibitor-induced cough
+ARBs	not recommended in	bilateral renal artery stenosis
+ARBs	associated with	lower risk of angioedema
+ARBs	compared with	ACE inhibitors
+ARBs	mechanism	receptor antagonism
+ARBs	target	AT1 receptors
+ARBs	do not affect	bradykinin
+ARBs	may increase	renin levels
+ARBs	may decrease	aldosterone
+ARBs	can cause	first-dose hypotension
+ARBs	contraindicated in	severe liver disease
+ARBs	contraindicated in	severe renal impairment
+ARBs	monitored via	blood tests
+ARBs	monitored via	kidney function
+ARBs	monitored via	potassium levels
+ARBs	available as	tablets
+ARBs	available as	oral suspension
+ARBs	have	generic versions
+ARBs	have	brand name versions
+ARBs	used in	combination therapy
+ARBs	combined with	calcium channel blockers
+ARBs	combined with	thiazide diuretics
+ARBs	studied in	clinical trials
+ARBs	shown to	reduce stroke risk
+ARBs	shown to	reduce cardiovascular events
+ARBs	have	dose-dependent effects
+ARBs	have	long half-life
+ARBs	absorbed in	gastrointestinal tract
+ARBs	bind to	plasma proteins
+ARBs	may require	dose titration
+ARBs	may cause	fatigue
+ARBs	may cause	headache
+ARBs	may cause	back pain
+ARBs	may cause	upper respiratory infection
+ARBs	may cause	abdominal pain
+ARBs	may cause	diarrhea
+ARBs	may cause	rash
+ARBs	may increase	serum creatinine
+ARBs	may enhance	lithium toxicity
+ARBs	may decrease	antihypertensive effect with NSAIDs
+ARBs	may increase	digoxin levels
+ARBs	may potentiate	hypotensive agents
+ARBs	may interact with	rifampin
+ARBs	may interact with	phenobarbital
+ARBs	may interact with	carbamazepine
+ARBs	may interact with	St. John's wort
+ARBs	may interact with	cyclosporine
+ARBs	may interact with	tacrolimus
+ARBs	may interact with	warfarin
+ARBs	may interact with	grapefruit juice
+ARBs	may reduce	mortality in heart failure
+ARBs	may improve	endothelial function
+ARBs	may reduce	oxidative stress
+ARBs	may decrease	inflammation
+ARBs	may attenuate	atherosclerosis
+ARBs	may prevent	atrial fibrillation
+ARBs	may reduce	myocardial fibrosis
+ARBs	may preserve	cognitive function
+ARBs	may benefit	metabolic syndrome
+ARBs	may lower	insulin resistance
+ARBs	may have	nephroprotective effects
+ARBs	may delay	dialysis initiation
+ARBs	may slow	aortic root dilation
+ARBs	may decrease	hospitalizations
+ARBs	may improve	quality of life

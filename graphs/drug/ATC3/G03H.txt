@@ -1,0 +1,100 @@
+antiandrogen	is a	sex hormone modulator
+antiandrogen	treats	prostate cancer
+antiandrogen	inhibits	androgen receptor
+antiandrogen	used for	hirsutism
+antiandrogen	prescribed for	polycystic ovary syndrome
+antiandrogen	reduces	testosterone levels
+antiandrogen	may cause	gynecomastia
+antiandrogen	interacts with	CYP3A4 inhibitors
+antiandrogen	side effect	liver toxicity
+antiandrogen	contraindicated in	pregnancy
+antiandrogen	alternative to	surgical castration
+antiandrogen	metabolized in	liver
+antiandrogen	precursor of	active metabolites
+antiandrogen	duration	long-term
+antiandrogen	combined with	GnRH agonists
+androgen receptor	mediates	male sexual development
+androgen receptor	mutation	resistance to antiandrogens
+androgen receptor	activated by	DHT
+DHT	derived from	testosterone
+DHT	regulates	prostate growth
+prostate cancer	driven by	androgen signaling
+prostate cancer	treated with	androgen deprivation therapy
+androgen deprivation therapy	includes	antiandrogens
+androgen deprivation therapy	increases	cardiovascular risk
+androgen deprivation therapy	side effect	osteoporosis
+hirsutism	caused by	high androgen levels
+hirsutism	treated with	spironolactone
+spironolactone	is a	potassium-sparing diuretic
+spironolactone	also acts as	antiandrogen
+polycystic ovary syndrome	characterized by	hyperandrogenism
+polycystic ovary syndrome	managed with	oral contraceptives
+polycystic ovary syndrome	linked to	insulin resistance
+oral contraceptives	suppress	ovarian androgen production
+testosterone	produced by	Leydig cells
+testosterone	converted to	estrogen
+estrogen	regulates	female secondary sex characteristics
+gynecomastia	caused by	estrogen excess
+gynecomastia	reversible with	antiandrogen withdrawal
+CYP3A4 inhibitors	increase	antiandrogen concentration
+CYP3A4 inhibitors	include	ketoconazole
+ketoconazole	used for	fungal infections
+liver toxicity	monitored via	liver function tests
+liver function tests	measure	ALT levels
+ALT	indicates	liver damage
+pregnancy	contraindication due to	fetal harm
+fetal harm	risk with	antiandrogen exposure
+surgical castration	alternative to	medical castration
+medical castration	achieved with	LHRH agonists
+LHRH agonists	suppress	testosterone production
+testosterone production	regulated by	hypothalamus
+hypothalamus	releases	GnRH
+GnRH	stimulates	pituitary gland
+pituitary gland	secretes	LH and FSH
+LH	stimulates	testosterone synthesis
+FSH	regulates	spermatogenesis
+spermatogenesis	impaired by	antiandrogens
+active metabolites	prolong	drug effect
+drug effect	duration	varies by metabolism
+long-term use	associated with	side effects
+side effects	mitigated with	dose adjustment
+dose adjustment	based on	therapeutic response
+therapeutic response	monitored via	PSA levels
+PSA	biomarker for	prostate cancer
+prostate cancer	progression	monitored via imaging
+imaging	includes	MRI scans
+MRI scans	detect	tumor size
+tumor size	correlates with	malignancy
+malignancy	graded by	Gleason score
+Gleason score	predicts	prognosis
+prognosis	improved with	early treatment
+early treatment	includes	antiandrogen therapy
+cardiovascular risk	increased by	hormonal changes
+hormonal changes	lead to	dyslipidemia
+dyslipidemia	managed with	statins
+statins	reduce	LDL cholesterol
+LDL cholesterol	linked to	atherosclerosis
+atherosclerosis	causes	heart disease
+heart disease	risk factor for	mortality
+mortality	reduced by	lifestyle changes
+lifestyle changes	include	regular exercise
+osteoporosis	prevented with	calcium supplements
+calcium supplements	support	bone density
+bone density	measured via	DEXA scan
+DEXA scan	assesses	fracture risk
+fracture risk	elevated in	elderly patients
+elderly patients	may need	adjusted dosing
+adjusted dosing	prevents	adverse effects
+adverse effects	reported via	pharmacovigilance
+pharmacovigilance	improves	drug safety
+drug safety	ensured by	regulatory agencies
+regulatory agencies	approve	new medications
+new medications	tested in	clinical trials
+clinical trials	assess	efficacy and safety
+efficacy	evaluated via	response rates
+response rates	compare	treatment options
+treatment options	personalized via	genetic testing
+genetic testing	identifies	drug metabolism variants
+drug metabolism variants	affect	therapeutic outcomes
+therapeutic outcomes	guide	precision medicine
+precision medicine	optimizes	antiandrogen therapy

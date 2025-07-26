@@ -1,0 +1,100 @@
+aspiration pneumonitis	caused by	food/vomitus
+aspiration pneumonitis	is a	lung inflammation
+food/vomitus	contains	gastric acid
+gastric acid	damages	lung tissue
+aspiration pneumonitis	may lead to	respiratory failure
+respiratory failure	requires	mechanical ventilation
+mechanical ventilation	is managed by	ICU team
+aspiration pneumonitis	treated with	antibiotics
+antibiotics	prevent	secondary infection
+secondary infection	worsens	pneumonia
+pneumonia	increases	mortality risk
+mortality risk	depends on	comorbidities
+aspiration pneumonitis	more common in	elderly patients
+elderly patients	have higher	aspiration risk
+aspiration risk	increased by	dysphagia
+dysphagia	assessed with	swallowing study
+swallowing study	performed by	speech therapist
+speech therapist	recommends	diet modification
+diet modification	reduces	aspiration risk
+aspiration pneumonitis	prevented by	head elevation
+head elevation	decreases	reflux
+reflux	contributes to	aspiration
+aspiration pneumonitis	may cause	ARDS
+ARDS	requires	high PEEP
+high PEEP	managed in	ICU
+aspiration pneumonitis	diagnosed with	chest X-ray
+chest X-ray	shows	infiltrates
+infiltrates	indicate	lung injury
+lung injury	leads to	hypoxia
+hypoxia	treated with	oxygen therapy
+oxygen therapy	delivered via	nasal cannula
+nasal cannula	provides	low-flow oxygen
+low-flow oxygen	improves	oxygen saturation
+oxygen saturation	monitored with	pulse oximeter
+pulse oximeter	attached to	finger
+aspiration pneumonitis	associated with	altered mental status
+altered mental status	increases	aspiration risk
+aspiration risk	higher in	stroke patients
+stroke patients	often have	swallowing difficulty
+swallowing difficulty	evaluated with	FEES
+FEES	stands for	fiberoptic endoscopic evaluation of swallowing
+aspiration pneumonitis	may require	bronchoscopy
+bronchoscopy	removes	foreign material
+foreign material	includes	food particles
+food particles	trigger	inflammatory response
+inflammatory response	releases	cytokines
+cytokines	cause	fever
+fever	treated with	antipyretics
+antipyretics	include	acetaminophen
+acetaminophen	reduces	fever
+aspiration pneumonitis	increases	hospital stay
+hospital stay	raises	healthcare costs
+healthcare costs	impacted by	complications
+complications	include	sepsis
+sepsis	treated with	IV fluids
+IV fluids	maintain	blood pressure
+blood pressure	monitored with	sphygmomanometer
+sphygmomanometer	measures	systolic pressure
+systolic pressure	indicates	cardiovascular health
+cardiovascular health	affects	recovery
+recovery	faster in	younger patients
+younger patients	have better	lung reserve
+lung reserve	protects against	respiratory failure
+respiratory failure	treated with	intubation
+intubation	performed by	anesthesiologist
+anesthesiologist	administers	sedatives
+sedatives	reduce	patient discomfort
+patient discomfort	affects	cooperation
+cooperation	needed for	treatment success
+treatment success	measured by	symptom resolution
+symptom resolution	includes	normalized breathing
+normalized breathing	confirmed with	auscultation
+auscultation	performed with	stethoscope
+stethoscope	detects	lung sounds
+lung sounds	indicate	aeration
+aeration	improved by	chest physiotherapy
+chest physiotherapy	involves	percussion
+percussion	loosens	secretions
+secretions	cleared by	suctioning
+suctioning	prevents	airway obstruction
+airway obstruction	causes	stridor
+stridor	signals	upper airway issue
+upper airway issue	may require	tracheostomy
+tracheostomy	bypasses	vocal cords
+vocal cords	protect	lower airway
+lower airway	includes	bronchi
+bronchi	branch into	bronchioles
+bronchioles	lead to	alveoli
+alveoli	facilitate	gas exchange
+gas exchange	impaired in	aspiration pneumonitis
+aspiration pneumonitis	linked to	gastric pH
+gastric pH	lowered by	proton pump inhibitors
+proton pump inhibitors	include	omeprazole
+omeprazole	reduces	acid production
+acid production	contributes to	mucosal damage
+mucosal damage	heals with	time
+time	affected by	patient nutrition
+patient nutrition	optimized with	dietary consult
+dietary consult	recommends	high-protein diet
+high-protein diet	promotes	tissue repair

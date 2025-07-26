@@ -1,0 +1,100 @@
+nonoperative removal of foreign body	is a	medical procedure
+nonoperative removal of foreign body	alternative to	surgical removal
+nonoperative removal of foreign body	used for	foreign body extraction
+nonoperative removal of foreign body	requires	imaging guidance
+nonoperative removal of foreign body	performed by	emergency physician
+nonoperative removal of foreign body	performed by	radiologist
+nonoperative removal of foreign body	uses	forceps
+nonoperative removal of foreign body	uses	suction device
+nonoperative removal of foreign body	uses	endoscope
+nonoperative removal of foreign body	treats	airway obstruction
+nonoperative removal of foreign body	prevents	infection
+nonoperative removal of foreign body	reduces	hospitalization time
+nonoperative removal of foreign body	avoids	general anesthesia
+nonoperative removal of foreign body	applicable in	pediatric cases
+nonoperative removal of foreign body	preferred for	esophageal foreign bodies
+nonoperative removal of foreign body	contraindicated in	perforation
+nonoperative removal of foreign body	followed by	radiographic confirmation
+nonoperative removal of foreign body	preceded by	physical examination
+nonoperative removal of foreign body	associated with	lower complication rate
+nonoperative removal of foreign body	requires	patient cooperation
+foreign body	causes	tissue damage
+foreign body	leads to	inflammation
+foreign body	may cause	infection
+foreign body	detected by	X-ray
+foreign body	detected by	CT scan
+foreign body	detected by	ultrasound
+foreign body	commonly found in	airway
+foreign body	commonly found in	digestive tract
+foreign body	commonly found in	soft tissue
+foreign body	commonly found in	eye
+pediatric patient	prone to	foreign body ingestion
+elderly patient	prone to	foreign body aspiration
+psychiatric patient	prone to	foreign body insertion
+foreign body ingestion	common in	children under 5
+foreign body aspiration	emergency condition	airway obstruction
+airway obstruction	causes	respiratory distress
+respiratory distress	requires	immediate intervention
+esophageal foreign body	causes	dysphagia
+dysphagia	symptom of	esophageal obstruction
+esophageal obstruction	may lead to	perforation
+perforation	complication of	foreign body retention
+foreign body retention	requires	surgical intervention
+surgical intervention	alternative to	nonoperative removal
+general anesthesia	required for	surgical removal
+local anesthesia	sufficient for	nonoperative removal
+emergency department	setting for	nonoperative removal
+operating room	setting for	surgical removal
+radiologist	specialist for	imaging-guided removal
+otolaryngologist	specialist for	airway foreign bodies
+gastroenterologist	specialist for	digestive tract foreign bodies
+forceps	instrument for	grasping foreign bodies
+suction device	instrument for	removing small objects
+endoscope	instrument for	visualizing foreign bodies
+fluoroscopy	imaging for	real-time guidance
+CT scan	imaging for	precise localization
+contrast study	diagnostic for	radiolucent objects
+metal detector	tool for	metallic objects
+nasopharyngoscope	used for	nasal foreign bodies
+bronchoscope	used for	tracheobronchial foreign bodies
+esophagoscope	used for	esophageal foreign bodies
+coin	common	ingested foreign body
+food bolus	common	esophageal obstruction
+button battery	dangerous	ingested object
+button battery	causes	tissue necrosis
+magnets	hazardous	ingested objects
+sharp objects	risk of	perforation
+organic material	may cause	infection
+inorganic material	visible on	X-ray
+fish bone	common	pharyngeal foreign body
+toy parts	common	pediatric ingestion
+antibiotics	treatment for	secondary infection
+analgesics	treatment for	post-procedure pain
+steroids	reduce	airway edema
+topical anesthetic	used for	pharyngeal procedures
+sedation	sometimes required for	pediatric cases
+observation	follow-up for	asymptomatic cases
+chest X-ray	follow-up for	pulmonary cases
+contrast swallow	follow-up for	esophageal cases
+vital signs	monitoring during	procedure
+oxygen saturation	monitored during	airway procedures
+respiratory failure	complication of	airway obstruction
+mediastinitis	complication of	esophageal perforation
+abscess	complication of	retained foreign body
+bleeding	complication of	removal procedure
+aspiration pneumonia	complication of	foreign body
+stricture formation	long-term complication
+tracheostomy	required for	severe obstruction
+ICU admission	required for	severe cases
+mortality	possible outcome of	complications
+readmission	possible for	missed foreign body
+foreign body prevention	involves	childproofing
+parent education	reduces	ingestion incidents
+warning labels	prevent	hazardous product use
+food preparation	reduces	aspiration risk
+elderly care	prevents	denture aspiration
+mental health treatment	prevents	intentional insertion
+first aid training	helps	emergency management
+EMS protocols	guide	prehospital care
+hospital protocols	standardize	removal procedures
+quality improvement	reduces	complication rates

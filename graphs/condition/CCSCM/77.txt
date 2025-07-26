@@ -1,0 +1,100 @@
+encephalitis	is a	brain inflammation
+encephalitis	may cause	fever
+encephalitis	may cause	headache
+encephalitis	may cause	seizures
+encephalitis	may cause	confusion
+encephalitis	may cause	memory loss
+encephalitis	may lead to	coma
+encephalitis	has symptom	neck stiffness
+encephalitis	has symptom	photophobia
+encephalitis	has symptom	nausea
+encephalitis	can result from	viral infection
+encephalitis	can result from	bacterial infection
+encephalitis	can result from	autoimmune reaction
+herpes simplex virus	causes	encephalitis
+West Nile virus	causes	encephalitis
+rabies virus	causes	encephalitis
+Japanese encephalitis virus	causes	encephalitis
+encephalitis	requires	lumbar puncture
+encephalitis	diagnosed with	MRI scan
+encephalitis	diagnosed with	CT scan
+encephalitis	diagnosed with	EEG
+encephalitis	treated with	antivirals
+encephalitis	treated with	antibiotics
+encephalitis	treated with	corticosteroids
+acyclovir	treats	herpes encephalitis
+encephalitis	may require	hospitalization
+encephalitis	may require	ICU admission
+encephalitis	can lead to	brain damage
+encephalitis	can lead to	neurological deficits
+encephalitis	can lead to	death
+encephalitis	has complication	epilepsy
+encephalitis	has complication	personality changes
+encephalitis	has complication	speech problems
+encephalitis	has complication	movement disorders
+encephalitis	prevention includes	vaccination
+JE vaccine	prevents	Japanese encephalitis
+encephalitis	risk factor	weakened immunity
+encephalitis	risk factor	young age
+encephalitis	risk factor	old age
+encephalitis	risk factor	mosquito bites
+encephalitis	risk factor	tick bites
+encephalitis	differential diagnosis	meningitis
+encephalitis	differential diagnosis	brain abscess
+encephalitis	differential diagnosis	stroke
+encephalitis	differential diagnosis	brain tumor
+CSF analysis	diagnoses	encephalitis
+encephalitis	associated with	autoimmune encephalitis
+anti-NMDA receptor	causes	autoimmune encephalitis
+encephalitis	has type	acute disseminated encephalomyelitis
+encephalitis	has type	limbic encephalitis
+encephalitis	has type	Rasmussen encephalitis
+encephalitis	management includes	seizure control
+encephalitis	management includes	fluid balance
+encephalitis	management includes	respiratory support
+encephalitis	prognosis depends on	cause
+encephalitis	prognosis depends on	treatment timing
+encephalitis	prognosis depends on	patient age
+encephalitis	rehabilitation may need	physical therapy
+encephalitis	rehabilitation may need	speech therapy
+encephalitis	rehabilitation may need	occupational therapy
+encephalitis	research involves	biomarker discovery
+encephalitis	research involves	new antiviral development
+encephalitis	research involves	immunotherapy
+encephalitis	epidemiology includes	seasonal variation
+encephalitis	epidemiology includes	geographic variation
+encephalitis	public health concern in	tropical areas
+encephalitis	public health concern in	developing countries
+encephalitis	vector-borne transmission by	mosquitoes
+encephalitis	vector-borne transmission by	ticks
+encephalitis	non-vector transmission by	direct contact
+encephalitis	non-vector transmission by	blood transfusion
+encephalitis	non-vector transmission by	organ transplant
+encephalitis	immune response involves	cytokine release
+encephalitis	immune response involves	blood-brain barrier disruption
+encephalitis	pathological feature	perivascular inflammation
+encephalitis	pathological feature	neuronal damage
+encephalitis	pathological feature	glial activation
+encephalitis	experimental model	Theiler murine encephalomyelitis
+encephalitis	experimental model	West Nile virus infection
+encephalitis	experimental model	herpes simplex infection
+encephalitis	clinical trial target	immunomodulation
+encephalitis	clinical trial target	neuroprotection
+encephalitis	clinical trial target	antiviral efficacy
+encephalitis	long-term effect	cognitive impairment
+encephalitis	long-term effect	fatigue
+encephalitis	long-term effect	mood disorders
+encephalitis	long-term effect	sleep disturbances
+encephalitis	pediatric concern	developmental delays
+encephalitis	pediatric concern	learning disabilities
+encephalitis	geriatric concern	worse outcomes
+encephalitis	geriatric concern	polypharmacy issues
+encephalitis	diagnostic challenge	subclinical cases
+encephalitis	diagnostic challenge	atypical presentations
+encephalitis	treatment challenge	drug resistance
+encephalitis	treatment challenge	side effects
+encephalitis	prevention strategy	vector control
+encephalitis	prevention strategy	public education
+encephalitis	prevention strategy	early detection
+encephalitis	research gap	pediatric-specific therapies
+encephalitis	research gap	long-term outcome prediction

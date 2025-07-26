@@ -1,0 +1,100 @@
+mental health screening	assesses	depression
+substance abuse screening	detects	alcohol use disorder
+PHQ-9	is a tool for	depression screening
+AUDIT	measures	alcohol consumption
+mental health codes	belong to	ICD-10 classification
+F10-F19	covers	substance abuse disorders
+screening results	predict	hospitalization risk
+suicide risk assessment	follows	positive depression screening
+SBIRT	combines	substance abuse screening
+mental health history	influences	treatment adherence
+DAST-10	screens for	drug abuse
+bipolar disorder	requires	mood stabilizers
+anxiety screening	precedes	cognitive behavioral therapy
+tobacco use history	correlates with	lung disease
+opioid abuse history	contraindicates	opioid prescription
+trauma history	associates with	PTSD
+mental health comorbidities	complicate	treatment plans
+CAGE questionnaire	evaluates	alcoholism
+dual diagnosis	involves	substance and mental disorder
+suicidal ideation	warrants	emergency intervention
+psychiatric evaluation	supplements	screening data
+MAT	treats	opioid use disorder
+mental health coding	affects	insurance reimbursement
+depression severity	determines	antidepressant selection
+substance withdrawal	requires	detox protocol
+cognitive impairment	hinders	screening accuracy
+cultural factors	influence	screening interpretation
+telehealth	enables	remote screenings
+confidentiality	protects	screening results
+false positives	occur in	rapid screenings
+mental health stigma	reduces	screening uptake
+primary care	integrates	mental health screening
+electronic health records	store	screening histories
+risk assessment	guides	safety planning
+benzodiazepines	treat	anxiety disorders
+relapse history	predicts	readmission risk
+social determinants	impact	mental health outcomes
+brief interventions	follow	positive screens
+mental status exam	evaluates	cognitive function
+SSRIs	are first-line for	depression
+dual diagnosis programs	address	complex cases
+screening frequency	depends on	risk factors
+patient education	improves	screening compliance
+mood disorders	correlate with	substance abuse
+clinical guidelines	standardize	screening protocols
+confidentiality laws	protect	substance abuse records
+trauma-informed care	considers	abuse history
+mental health parity laws	ensure	coverage equality
+early intervention	prevents	condition worsening
+cultural competence	enhances	screening validity
+psychotic disorders	require	antipsychotics
+screening tools	vary by	target population
+patient engagement	affects	disclosure accuracy
+mental health crisis	necessitates	immediate response
+comorbid conditions	increase	mortality risk
+recovery planning	follows	screening assessment
+telepsychiatry	expands	access to care
+evidence-based practices	inform	screening methods
+staged interventions	match	symptom severity
+mental health legislation	governs	involuntary commitment
+peer support	complements	professional treatment
+integrated care	coordinates	physical and mental health
+screening refusal	indicates	potential denial
+mental health epidemiology	tracks	prevalence rates
+risk stratification	prioritizes	high-need cases
+confidentiality breaches	deter	honest disclosure
+mental health literacy	improves	help-seeking behavior
+polypharmacy	risks	adverse drug interactions
+trauma screening	identifies	abuse survivors
+mental health workforce	delivers	screening services
+psychosocial assessment	explores	support systems
+screening reminders	increase	follow-up rates
+mental health apps	supplement	traditional screening
+diagnostic overshadowing	occurs with	physical symptoms
+recovery-oriented care	focuses	patient strengths
+mental health indicators	predict	chronic disease outcomes
+screening validity	depends on	instrument reliability
+mental health first aid	trains	community responders
+substance abuse severity	guides	treatment intensity
+mental health disclosure	affects	employment status
+integrated databases	link	service utilization
+mental health hotlines	provide	crisis screening
+patient portals	facilitate	self-reporting
+mental health biomarkers	augment	clinical assessment
+screening algorithms	automate	risk calculation
+mental health economics	studies	cost-effectiveness
+peer-reviewed research	validates	screening tools
+mental health outcomes	measure	treatment efficacy
+screening workflows	optimize	clinic efficiency
+mental health disparities	reflect	inequities
+predictive analytics	forecast	mental health crises
+mental health navigation	assists	service access
+screening consent	ensures	ethical practice
+mental health recovery	involves	multidimensional progress
+digital phenotyping	captures	behavioral data
+mental health policy	shapes	service delivery
+screening reimbursement	incentivizes	routine implementation
+mental health advocates	promote	screening awareness
+precision psychiatry	tailors	interventions
+longitudinal screening	tracks	progression trajectories

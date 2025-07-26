@@ -1,0 +1,106 @@
+other antianemic preparations	is a	drug class
+other antianemic preparations	includes	iron supplements
+other antianemic preparations	includes	vitamin B12
+other antianemic preparations	includes	folic acid
+other antianemic preparations	treats	anemia
+anemia	has symptom	fatigue
+anemia	has symptom	weakness
+anemia	has symptom	pallor
+iron supplements	contains	ferrous sulfate
+iron supplements	contains	ferrous gluconate
+iron supplements	contains	ferric carboxymaltose
+iron supplements	mechanism	increases hemoglobin
+vitamin B12	is a	cobalamin
+vitamin B12	deficiency causes	pernicious anemia
+vitamin B12	source	animal products
+folic acid	deficiency causes	megaloblastic anemia
+folic acid	necessary for	DNA synthesis
+folic acid	recommended for	pregnant women
+ferrous sulfate	side effect	constipation
+ferrous sulfate	side effect	nausea
+ferrous gluconate	has	better absorption
+ferric carboxymaltose	used for	iron deficiency anemia
+ferric carboxymaltose	administered via	IV infusion
+pernicious anemia	caused by	lack of intrinsic factor
+pernicious anemia	treated with	vitamin B12 injections
+megaloblastic anemia	caused by	folate deficiency
+megaloblastic anemia	symptom	macrocytosis
+hemoglobin	carries	oxygen
+hemoglobin	measured by	blood test
+fatigue	can be	chronic
+weakness	may indicate	severe anemia
+pallor	seen in	mucous membranes
+constipation	relieved by	fiber intake
+nausea	may lead to	vomiting
+IV infusion	requires	medical supervision
+DNA synthesis	essential for	cell division
+pregnant women	need more	folic acid
+animal products	include	meat and dairy
+lack of intrinsic factor	causes	malabsorption
+blood test	includes	CBC
+iron deficiency anemia	common in	women
+better absorption	achieved with	vitamin C
+medical supervision	ensures	safety
+cell division	important for	growth
+macrocytosis	visible in	blood smear
+chronic fatigue	affects	daily life
+severe anemia	may require	transfusion
+mucous membranes	include	oral mucosa
+fiber intake	improves	bowel movements
+vomiting	can cause	dehydration
+malabsorption	leads to	nutrient deficiencies
+CBC	measures	red blood cells
+women	at risk due to	menstruation
+vitamin C	enhances	iron uptake
+safety	ensured by	dosage control
+growth	depends on	nutrition
+blood smear	used for	diagnosis
+daily life	impacted by	energy levels
+transfusion	requires	blood matching
+oral mucosa	examined for	pallor
+bowel movements	regulated by	diet
+dehydration	prevented by	fluid intake
+nutrient deficiencies	cause	various symptoms
+red blood cells	carry	oxygen
+menstruation	leads to	blood loss
+iron uptake	occurs in	duodenum
+dosage control	prevents	toxicity
+nutrition	affects	overall health
+diagnosis	confirmed by	lab tests
+energy levels	depend on	hemoglobin
+blood matching	avoids	reactions
+diet	influences	iron absorption
+fluid intake	maintains	hydration
+various symptoms	include	dizziness
+oxygen	binds to	heme group
+blood loss	requires	iron replacement
+duodenum	part of	small intestine
+toxicity	causes	organ damage
+overall health	depends on	balanced diet
+lab tests	include	serum ferritin
+heme group	contains	iron
+iron replacement	corrects	deficiency
+small intestine	site of	absorption
+organ damage	seen in	overdose
+balanced diet	provides	essential nutrients
+serum ferritin	indicates	iron stores
+essential nutrients	include	vitamins
+overdose	treated with	chelation
+iron stores	reflect	body's reserves
+vitamins	support	metabolic processes
+chelation	removes	excess iron
+body's reserves	depleted in	chronic deficiency
+metabolic processes	require	cofactors
+excess iron	damages	liver
+chronic deficiency	leads to	complications
+cofactors	include	minerals
+liver	stores	ferritin
+complications	include	heart failure
+minerals	essential for	enzyme function
+ferritin	levels indicate	iron status
+heart failure	risk in	severe cases
+enzyme function	depends on	coenzymes
+iron status	monitored via	blood work
+severe cases	require	hospitalization
+coenzymes	derived from	vitamins
+blood work	assesses	health status

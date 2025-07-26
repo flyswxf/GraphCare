@@ -1,0 +1,100 @@
+poisoning by nonmedicinal substances	is a	toxic condition
+poisoning by nonmedicinal substances	may involve	household chemicals
+poisoning by nonmedicinal substances	may involve	industrial chemicals
+poisoning by nonmedicinal substances	may involve	pesticides
+poisoning by nonmedicinal substances	may involve	heavy metals
+poisoning by nonmedicinal substances	may involve	carbon monoxide
+poisoning by nonmedicinal substances	requires	decontamination
+poisoning by nonmedicinal substances	may require	antidote
+poisoning by nonmedicinal substances	may cause	organ damage
+poisoning by nonmedicinal substances	may lead to	respiratory failure
+poisoning by nonmedicinal substances	may cause	neurological symptoms
+poisoning by nonmedicinal substances	may result in	coma
+poisoning by nonmedicinal substances	may require	hospitalization
+poisoning by nonmedicinal substances	may need	intensive care
+poisoning by nonmedicinal substances	may lead to	death
+activated charcoal	treats	poisoning by nonmedicinal substances
+gastric lavage	treats	poisoning by nonmedicinal substances
+chelation therapy	treats	poisoning by nonmedicinal substances
+oxygen therapy	treats	poisoning by nonmedicinal substances
+poison control center	advises on	poisoning by nonmedicinal substances
+blood tests	diagnose	poisoning by nonmedicinal substances
+urine tests	diagnose	poisoning by nonmedicinal substances
+liver function tests	monitor	poisoning by nonmedicinal substances
+kidney function tests	monitor	poisoning by nonmedicinal substances
+ECG	monitors	poisoning by nonmedicinal substances
+lead	causes	poisoning by nonmedicinal substances
+mercury	causes	poisoning by nonmedicinal substances
+arsenic	causes	poisoning by nonmedicinal substances
+cadmium	causes	poisoning by nonmedicinal substances
+pesticides	contain	organophosphates
+organophosphates	cause	poisoning by nonmedicinal substances
+atropine	treats	organophosphate poisoning
+pralidoxime	treats	organophosphate poisoning
+carbon monoxide	binds to	hemoglobin
+hyperbaric oxygen	treats	carbon monoxide poisoning
+ethylene glycol	causes	poisoning by nonmedicinal substances
+fomepizole	treats	ethylene glycol poisoning
+methanol	causes	poisoning by nonmedicinal substances
+ethanol	treats	methanol poisoning
+cyanide	causes	poisoning by nonmedicinal substances
+hydroxocobalamin	treats	cyanide poisoning
+sodium thiosulfate	treats	cyanide poisoning
+heavy metal poisoning	is a type of	poisoning by nonmedicinal substances
+chemical poisoning	is a type of	poisoning by nonmedicinal substances
+pesticide poisoning	is a type of	poisoning by nonmedicinal substances
+solvent poisoning	is a type of	poisoning by nonmedicinal substances
+household cleaner poisoning	is a type of	poisoning by nonmedicinal substances
+industrial chemical poisoning	is a type of	poisoning by nonmedicinal substances
+acute poisoning	describes timing of	poisoning by nonmedicinal substances
+chronic poisoning	describes timing of	poisoning by nonmedicinal substances
+accidental poisoning	describes cause of	poisoning by nonmedicinal substances
+intentional poisoning	describes cause of	poisoning by nonmedicinal substances
+occupational exposure	causes	poisoning by nonmedicinal substances
+environmental exposure	causes	poisoning by nonmedicinal substances
+suicide attempt	may involve	poisoning by nonmedicinal substances
+homicide attempt	may involve	poisoning by nonmedicinal substances
+children	are vulnerable to	poisoning by nonmedicinal substances
+elderly	are vulnerable to	poisoning by nonmedicinal substances
+intoxication	is similar to	poisoning by nonmedicinal substances
+toxicokinetics	studies	poisoning by nonmedicinal substances
+toxicodynamics	studies	poisoning by nonmedicinal substances
+LD50	measures severity of	poisoning by nonmedicinal substances
+LC50	measures severity of	poisoning by nonmedicinal substances
+toxidrome	classifies	poisoning by nonmedicinal substances
+anticholinergic toxidrome	is caused by	poisoning by nonmedicinal substances
+sympathomimetic toxidrome	is caused by	poisoning by nonmedicinal substances
+sedative toxidrome	is caused by	poisoning by nonmedicinal substances
+cholinergic toxidrome	is caused by	poisoning by nonmedicinal substances
+serotonin syndrome	may result from	poisoning by nonmedicinal substances
+neuroleptic malignant syndrome	may result from	poisoning by nonmedicinal substances
+liver failure	may result from	poisoning by nonmedicinal substances
+kidney failure	may result from	poisoning by nonmedicinal substances
+respiratory depression	may result from	poisoning by nonmedicinal substances
+cardiac arrhythmia	may result from	poisoning by nonmedicinal substances
+seizures	may result from	poisoning by nonmedicinal substances
+rhabdomyolysis	may result from	poisoning by nonmedicinal substances
+coagulopathy	may result from	poisoning by nonmedicinal substances
+metabolic acidosis	may result from	poisoning by nonmedicinal substances
+hypoglycemia	may result from	poisoning by nonmedicinal substances
+hyperthermia	may result from	poisoning by nonmedicinal substances
+hypothermia	may result from	poisoning by nonmedicinal substances
+hypertension	may result from	poisoning by nonmedicinal substances
+hypotension	may result from	poisoning by nonmedicinal substances
+tachycardia	may result from	poisoning by nonmedicinal substances
+bradycardia	may result from	poisoning by nonmedicinal substances
+pupil dilation	may result from	poisoning by nonmedicinal substances
+pupil constriction	may result from	poisoning by nonmedicinal substances
+skin flushing	may result from	poisoning by nonmedicinal substances
+diaphoresis	may result from	poisoning by nonmedicinal substances
+dry mouth	may result from	poisoning by nonmedicinal substances
+nausea	may result from	poisoning by nonmedicinal substances
+vomiting	may result from	poisoning by nonmedicinal substances
+diarrhea	may result from	poisoning by nonmedicinal substances
+abdominal pain	may result from	poisoning by nonmedicinal substances
+headache	may result from	poisoning by nonmedicinal substances
+dizziness	may result from	poisoning by nonmedicinal substances
+confusion	may result from	poisoning by nonmedicinal substances
+hallucinations	may result from	poisoning by nonmedicinal substances
+coma	may result from	poisoning by nonmedicinal substances
+death	may result from	poisoning by nonmedicinal substances

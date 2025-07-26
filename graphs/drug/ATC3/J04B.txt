@@ -1,0 +1,105 @@
+drugs	treat	lepra
+lepra	caused by	Mycobacterium leprae
+lepra	characterized by	skin lesions
+lepra	affects	peripheral nerves
+dapsone	treats	lepra
+rifampicin	treats	lepra
+clofazimine	treats	lepra
+multidrug therapy	recommended for	lepra
+WHO	recommends	multidrug therapy
+multidrug therapy	combines	dapsone
+multidrug therapy	combines	rifampicin
+multidrug therapy	combines	clofazimine
+dapsone	inhibits	folate synthesis
+rifampicin	inhibits	RNA polymerase
+clofazimine	binds	bacterial DNA
+lepra	classified into	paucibacillary
+lepra	classified into	multibacillary
+paucibacillary lepra	treated with	dapsone
+paucibacillary lepra	treated with	rifampicin
+multibacillary lepra	treated with	dapsone
+multibacillary lepra	treated with	rifampicin
+multibacillary lepra	treated with	clofazimine
+dapsone	may cause	hemolysis
+dapsone	may cause	methemoglobinemia
+rifampicin	may cause	hepatotoxicity
+rifampicin	may cause	orange urine
+clofazimine	may cause	skin pigmentation
+lepra	leads to	nerve damage
+nerve damage	results in	loss of sensation
+loss of sensation	increases risk of	injuries
+injuries	may lead to	infections
+infections	may lead to	amputations
+lepra	associated with	social stigma
+social stigma	affects	mental health
+mental health	impacts	quality of life
+quality of life	improves with	early treatment
+early treatment	prevents	complications
+drug resistance	complicates	lepra treatment
+drug resistance	necessitates	alternative drugs
+ofloxacin	alternative for	lepra
+minocycline	alternative for	lepra
+clarithromycin	alternative for	lepra
+ofloxacin	inhibits	DNA gyrase
+minocycline	inhibits	protein synthesis
+clarithromycin	inhibits	protein synthesis
+BCG vaccine	may prevent	lepra
+BCG vaccine	primarily prevents	tuberculosis
+lepra	endemic in	tropical regions
+tropical regions	have	limited healthcare
+limited healthcare	delays	diagnosis
+delayed diagnosis	worsens	prognosis
+lepra	diagnosed via	skin biopsy
+skin biopsy	detects	acid-fast bacilli
+acid-fast bacilli	confirm	lepra diagnosis
+lepra	monitored via	clinical examination
+clinical examination	assesses	nerve function
+nerve function	evaluated via	sensory testing
+sensory testing	detects	neuropathy
+neuropathy	managed with	physiotherapy
+physiotherapy	prevents	contractures
+contractures	limit	mobility
+mobility	restored with	surgery
+surgery	repairs	nerve damage
+nerve damage	causes	muscle weakness
+muscle weakness	leads to	disability
+disability	requires	rehabilitation
+rehabilitation	involves	occupational therapy
+occupational therapy	improves	daily function
+daily function	enhances	independence
+independence	boosts	self-esteem
+self-esteem	reduces	depression
+depression	treated with	antidepressants
+antidepressants	include	SSRIs
+SSRIs	increase	serotonin levels
+serotonin levels	regulate	mood
+mood	affects	treatment adherence
+treatment adherence	ensures	recovery
+recovery	depends on	drug compliance
+drug compliance	monitored via	pill counts
+pill counts	verify	medication intake
+medication intake	prevents	relapse
+relapse	indicates	treatment failure
+treatment failure	requires	regimen change
+regimen change	involves	second-line drugs
+second-line drugs	include	fluoroquinolones
+fluoroquinolones	target	bacterial DNA
+bacterial DNA	mutates	resistance
+resistance	necessitates	drug rotation
+drug rotation	prevents	resistance development
+resistance development	complicates	disease control
+disease control	achieved via	public health measures
+public health measures	include	contact tracing
+contact tracing	identifies	at-risk individuals
+at-risk individuals	receive	prophylactic treatment
+prophylactic treatment	reduces	transmission
+transmission	occurs via	respiratory droplets
+respiratory droplets	spread	Mycobacterium leprae
+Mycobacterium leprae	has	long incubation
+long incubation	delays	symptom onset
+symptom onset	prompts	medical consultation
+medical consultation	leads to	diagnosis
+diagnosis	initiates	treatment plan
+treatment plan	tailored to	disease severity
+disease severity	classified via	WHO guidelines
+WHO guidelines	standardize	lepra management

@@ -1,0 +1,100 @@
+colorectal resection	is a	surgical procedure
+colorectal resection	treats	colorectal cancer
+colorectal resection	treats	diverticulitis
+colorectal resection	treats	inflammatory bowel disease
+colorectal resection	removes	colon segment
+colorectal resection	removes	rectum segment
+colorectal resection	requires	general anesthesia
+colorectal resection	has risk	infection
+colorectal resection	has risk	bleeding
+colorectal resection	has risk	anastomotic leak
+colorectal resection	requires	preoperative bowel preparation
+colorectal resection	may require	ostomy
+colorectal resection	followed by	postoperative recovery
+colorectal resection	affects	bowel function
+colorectal resection	monitored with	follow-up colonoscopy
+colorectal resection	performed by	colorectal surgeon
+colorectal resection	requires	hospital stay
+colorectal resection	has alternative	chemotherapy
+colorectal resection	has alternative	radiation therapy
+colorectal resection	preceded by	diagnostic imaging
+colorectal resection	preceded by	biopsy
+colorectal resection	uses	surgical instruments
+colorectal resection	uses	stapling devices
+colorectal resection	classified as	major surgery
+colorectal resection	may cause	adhesions
+colorectal resection	may lead to	short bowel syndrome
+colorectal resection	may require	blood transfusion
+colorectal resection	contraindicated in	severe comorbidities
+colorectal resection	evaluated with	preoperative assessment
+colorectal resection	documented in	operative report
+colorectal resection	has variation	laparoscopic approach
+colorectal resection	has variation	robotic approach
+colorectal resection	has variation	open surgery
+colorectal resection	associated with	postoperative pain
+colorectal resection	managed with	pain medication
+colorectal resection	requires	wound care
+colorectal resection	may develop	surgical site infection
+colorectal resection	prevented with	prophylactic antibiotics
+colorectal resection	monitored with	vital signs
+colorectal resection	followed by	pathology examination
+colorectal resection	determines	cancer staging
+colorectal resection	affects	quality of life
+colorectal resection	requires	dietary modifications
+colorectal resection	may cause	nutritional deficiencies
+colorectal resection	supplemented with	vitamins
+colorectal resection	rehabilitated with	physical therapy
+colorectal resection	evaluated with	postoperative imaging
+colorectal resection	may recur	tumor growth
+colorectal resection	prevented with	surveillance
+colorectal resection	associated with	lymph node dissection
+colorectal resection	examines	tumor margins
+colorectal resection	determines	adjuvant therapy
+colorectal resection	coordinated with	oncologist
+colorectal resection	documented in	medical record
+colorectal resection	billed as	surgical code
+colorectal resection	covered by	health insurance
+colorectal resection	requires	informed consent
+colorectal resection	explained with	patient education
+colorectal resection	prepared with	fasting
+colorectal resection	positioned in	lithotomy
+colorectal resection	draped in	sterile field
+colorectal resection	incised with	scalpel
+colorectal resection	dissected with	electrocautery
+colorectal resection	anastomosed with	sutures
+colorectal resection	drained with	surgical drain
+colorectal resection	closed with	staples
+colorectal resection	dressed with	surgical dressing
+colorectal resection	transported to	recovery room
+colorectal resection	monitored in	intensive care
+colorectal resection	advanced to	liquid diet
+colorectal resection	progressed to	solid food
+colorectal resection	discharged with	home instructions
+colorectal resection	followed up in	clinic
+colorectal resection	assessed for	complications
+colorectal resection	may require	reoperation
+colorectal resection	associated with	mortality risk
+colorectal resection	predicted by	risk scores
+colorectal resection	influenced by	surgeon experience
+colorectal resection	performed in	operating room
+colorectal resection	assisted by	surgical team
+colorectal resection	timed with	surgical duration
+colorectal resection	measured by	blood loss
+colorectal resection	complicated by	ileus
+colorectal resection	treated with	nasogastric tube
+colorectal resection	prevented with	early ambulation
+colorectal resection	avoided with	conservative management
+colorectal resection	indicated for	bowel obstruction
+colorectal resection	necessary for	perforation
+colorectal resection	urgent for	hemorrhage
+colorectal resection	elective for	neoplasms
+colorectal resection	scheduled as	inpatient procedure
+colorectal resection	coded in	ICD-10
+colorectal resection	reimbursed by	Medicare
+colorectal resection	studied in	clinical trials
+colorectal resection	improved with	enhanced recovery
+colorectal resection	benchmarked with	quality metrics
+colorectal resection	reported in	surgical outcomes
+colorectal resection	compared to	nonoperative treatment
+colorectal resection	preferred for	localized disease
+colorectal resection	curative for	early-stage cancer

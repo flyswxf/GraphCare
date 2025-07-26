@@ -1,0 +1,100 @@
+viral infection	caused by	virus
+viral infection	may cause	fever
+viral infection	may cause	cough
+viral infection	may cause	fatigue
+viral infection	may cause	sore throat
+viral infection	may cause	headache
+viral infection	may cause	muscle pain
+viral infection	may cause	diarrhea
+viral infection	may cause	rash
+viral infection	may lead to	pneumonia
+viral infection	may lead to	bronchitis
+viral infection	may lead to	sinusitis
+viral infection	may lead to	dehydration
+viral infection	may lead to	hospitalization
+viral infection	may lead to	sepsis
+viral infection	may lead to	meningitis
+viral infection	may lead to	encephalitis
+viral infection	may lead to	myocarditis
+viral infection	may lead to	death
+viral infection	may require	antiviral medication
+viral infection	may require	rest
+viral infection	may require	fluid intake
+viral infection	may require	hospitalization
+viral infection	may require	oxygen therapy
+viral infection	may require	ICU care
+viral infection	may require	ventilator support
+viral infection	may require	pain relievers
+viral infection	may require	antipyretics
+viral infection	may require	antibiotics
+viral infection	may be prevented by	vaccination
+viral infection	may be prevented by	hand hygiene
+viral infection	may be prevented by	mask wearing
+viral infection	may be prevented by	social distancing
+viral infection	may be prevented by	immune boosters
+viral infection	may be prevented by	healthy diet
+viral infection	may be prevented by	exercise
+viral infection	may be prevented by	adequate sleep
+viral infection	may be prevented by	avoiding sick people
+viral infection	may be prevented by	disinfecting surfaces
+viral infection	may be diagnosed by	PCR test
+viral infection	may be diagnosed by	rapid antigen test
+viral infection	may be diagnosed by	blood test
+viral infection	may be diagnosed by	antibody test
+viral infection	may be diagnosed by	viral culture
+viral infection	may be diagnosed by	imaging
+viral infection	may be diagnosed by	physical exam
+viral infection	may be diagnosed by	symptom evaluation
+viral infection	may be diagnosed by	medical history
+viral infection	may be diagnosed by	throat swab
+viral infection	may complicate	chronic disease
+viral infection	may complicate	diabetes
+viral infection	may complicate	heart disease
+viral infection	may complicate	lung disease
+viral infection	may complicate	kidney disease
+viral infection	may complicate	liver disease
+viral infection	may complicate	immune deficiency
+viral infection	may complicate	pregnancy
+viral infection	may complicate	old age
+viral infection	may complicate	obesity
+viral infection	may spread via	droplets
+viral infection	may spread via	aerosols
+viral infection	may spread via	surfaces
+viral infection	may spread via	bodily fluids
+viral infection	may spread via	blood
+viral infection	may spread via	sexual contact
+viral infection	may spread via	mother to child
+viral infection	may spread via	organ transplant
+viral infection	may spread via	transfusion
+viral infection	may spread via	animals
+viral infection	may affect	respiratory system
+viral infection	may affect	digestive system
+viral infection	may affect	nervous system
+viral infection	may affect	cardiovascular system
+viral infection	may affect	immune system
+viral infection	may affect	liver
+viral infection	may affect	kidneys
+viral infection	may affect	skin
+viral infection	may affect	eyes
+viral infection	may affect	ears
+viral infection	may resemble	bacterial infection
+viral infection	may resemble	fungal infection
+viral infection	may resemble	parasitic infection
+viral infection	may resemble	allergy
+viral infection	may resemble	autoimmune disease
+viral infection	may resemble	cancer
+viral infection	may resemble	poisoning
+viral infection	may resemble	heat stroke
+viral infection	may resemble	malnutrition
+viral infection	may resemble	dehydration
+viral infection	may increase risk of	secondary infection
+viral infection	may increase risk of	bacterial pneumonia
+viral infection	may increase risk of	fungal infection
+viral infection	may increase risk of	organ failure
+viral infection	may increase risk of	chronic fatigue
+viral infection	may increase risk of	neurological damage
+viral infection	may increase risk of	clotting disorders
+viral infection	may increase risk of	mental health issues
+viral infection	may increase risk of	post-viral syndrome
+viral infection	may increase risk of	disability
+viral infection	may increase risk of	death

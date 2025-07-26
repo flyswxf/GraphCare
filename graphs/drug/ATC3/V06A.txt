@@ -1,0 +1,100 @@
+diet formulations	treats	obesity
+obesity	risk factor	diabetes
+obesity	associated with	hypertension
+diet formulations	includes	low-calorie foods
+low-calorie foods	help with	weight loss
+weight loss	reduces	cardiovascular risks
+diet formulations	contain	high-fiber foods
+high-fiber foods	promote	satiety
+satiety	prevents	overeating
+diet formulations	limit	processed sugars
+processed sugars	contribute	weight gain
+diet formulations	emphasize	lean proteins
+lean proteins	support	muscle maintenance
+muscle maintenance	increases	metabolism
+diet formulations	recommend	portion control
+portion control	manages	calorie intake
+calorie intake	affects	body weight
+diet formulations	encourage	hydration
+hydration	aids	digestion
+digestion	impacts	nutrient absorption
+diet formulations	suggest	meal timing
+meal timing	regulates	blood sugar
+blood sugar	influences	energy levels
+diet formulations	exclude	trans fats
+trans fats	increase	inflammation
+inflammation	worsens	metabolic syndrome
+diet formulations	incorporate	probiotics
+probiotics	improve	gut health
+gut health	affects	weight management
+diet formulations	use	artificial sweeteners
+artificial sweeteners	may affect	gut microbiota
+gut microbiota	plays role	obesity development
+diet formulations	combine with	exercise
+exercise	boosts	calorie expenditure
+calorie expenditure	leads to	fat loss
+diet formulations	monitor	macronutrients
+macronutrients	provide	energy
+energy balance	determines	weight change
+diet formulations	track	micronutrients
+micronutrients	prevent	deficiencies
+deficiencies	cause	metabolic disorders
+diet formulations	consider	food allergies
+food allergies	trigger	inflammation
+inflammation	interferes with	weight loss
+diet formulations	adjust for	age
+age	affects	metabolic rate
+metabolic rate	impacts	weight regulation
+diet formulations	customize for	gender
+gender	influences	fat distribution
+fat distribution	relates to	health risks
+diet formulations	account for	activity level
+activity level	determines	calorie needs
+calorie needs	vary by	individual
+diet formulations	address	emotional eating
+emotional eating	leads to	binge eating
+binge eating	results in	weight gain
+diet formulations	teach	mindful eating
+mindful eating	reduces	overconsumption
+overconsumption	causes	obesity
+diet formulations	recommend	whole foods
+whole foods	contain	nutrients
+nutrients	support	bodily functions
+bodily functions	maintain	health
+diet formulations	avoid	processed foods
+processed foods	lack	fiber
+fiber deficiency	contributes	constipation
+constipation	affects	digestive health
+diet formulations	include	plant-based options
+plant-based options	lower	cholesterol
+cholesterol	affects	heart health
+heart health	relates to	mortality
+diet formulations	suggest	intermittent fasting
+intermittent fasting	induces	ketosis
+ketosis	burns	fat stores
+fat stores	determine	body composition
+diet formulations	replace	saturated fats
+saturated fats	raise	LDL cholesterol
+LDL cholesterol	increases	heart disease risk
+heart disease	common in	obese patients
+diet formulations	modify	eating habits
+eating habits	shape	lifestyle
+lifestyle	influences	weight
+diet formulations	provide	structure
+structure	creates	consistency
+consistency	produces	results
+diet formulations	educate	nutrition knowledge
+nutrition knowledge	empowers	choices
+choices	affect	health outcomes
+diet formulations	integrate with	behavioral therapy
+behavioral therapy	addresses	psychological factors
+psychological factors	impact	eating behaviors
+diet formulations	consider	socioeconomic status
+socioeconomic status	affects	food access
+food access	determines	diet quality
+diet quality	predicts	health status
+diet formulations	adapt for	cultural preferences
+cultural preferences	influence	food choices
+food choices	correlate with	obesity rates
+diet formulations	evolve with	research
+research	improves	treatment efficacy

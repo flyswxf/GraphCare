@@ -1,0 +1,100 @@
+other male genital disorders	include	balanitis
+other male genital disorders	include	phimosis
+other male genital disorders	include	priapism
+other male genital disorders	include	hydrocele
+other male genital disorders	include	varicocele
+other male genital disorders	include	epididymitis
+other male genital disorders	include	Peyronie's disease
+balanitis	is an	inflammation
+balanitis	may cause	pain
+balanitis	is treated with	antifungals
+phimosis	is a	tight foreskin
+phimosis	may require	circumcision
+priapism	is a	prolonged erection
+priapism	may cause	tissue damage
+priapism	is treated with	decompression
+hydrocele	is a	fluid collection
+hydrocele	may require	surgery
+varicocele	is a	vein enlargement
+varicocele	may cause	infertility
+varicocele	is treated with	embolization
+epididymitis	is an	infection
+epididymitis	is caused by	bacteria
+epididymitis	is treated with	antibiotics
+Peyronie's disease	causes	penile curvature
+Peyronie's disease	may require	surgery
+other male genital disorders	are diagnosed with	ultrasound
+other male genital disorders	may lead to	sexual dysfunction
+other male genital disorders	may require	urology consultation
+pain	is managed with	analgesics
+inflammation	is reduced by	NSAIDs
+tight foreskin	may cause	urinary retention
+circumcision	prevents	recurrent infections
+prolonged erection	is a	urological emergency
+tissue damage	may lead to	fibrosis
+decompression	involves	needle aspiration
+fluid collection	may resolve	spontaneously
+surgery	may involve	drainage
+vein enlargement	is detected with	physical exam
+infertility	may be evaluated with	semen analysis
+embolization	blocks	abnormal veins
+infection	may cause	fever
+bacteria	are identified with	culture
+antibiotics	target	bacterial growth
+penile curvature	may cause	pain during intercourse
+surgery	corrects	penile deformity
+ultrasound	visualizes	scrotal structures
+sexual dysfunction	affects	quality of life
+urology consultation	guides	treatment plan
+analgesics	include	acetaminophen
+NSAIDs	reduce	swelling
+urinary retention	may require	catheterization
+recurrent infections	are prevented with	hygiene
+urological emergency	requires	immediate intervention
+fibrosis	may cause	erectile dysfunction
+needle aspiration	relieves	blood buildup
+spontaneous resolution	occurs in	mild cases
+drainage	removes	excess fluid
+physical exam	assesses	scrotal swelling
+semen analysis	evaluates	sperm health
+abnormal veins	disrupt	blood flow
+fever	is a sign of	systemic infection
+culture	identifies	pathogenic organisms
+bacterial growth	is inhibited by	antibiotics
+pain during intercourse	affects	relationships
+penile deformity	may worsen over	time
+scrotal structures	include	testicles
+quality of life	is measured with	questionnaires
+treatment plan	may involve	multidisciplinary care
+acetaminophen	is a	pain reliever
+swelling	is a symptom of	inflammation
+catheterization	relieves	bladder pressure
+hygiene	prevents	bacterial colonization
+immediate intervention	prevents	complications
+erectile dysfunction	is treated with	PDE5 inhibitors
+blood buildup	causes	ischemia
+mild cases	often resolve without	treatment
+excess fluid	may recur after	surgery
+scrotal swelling	may indicate	hernia
+sperm health	affects	fertility
+blood flow	is essential for	erectile function
+systemic infection	requires	hospitalization
+pathogenic organisms	include	E. coli
+antibiotics	are selected based on	sensitivity
+relationships	may suffer due to	sexual issues
+time	may worsen	scarring
+testicles	produce	testosterone
+questionnaires	assess	patient-reported outcomes
+multidisciplinary care	involves	specialists
+pain reliever	alleviates	discomfort
+inflammation	is a response to	injury
+bladder pressure	causes	discomfort
+bacterial colonization	leads to	infection
+complications	may include	chronic pain
+PDE5 inhibitors	improve	blood flow
+ischemia	results from	oxygen deprivation
+treatment	depends on	severity
+hernia	may require	surgical repair
+fertility	is impacted by	sperm count
+erectile function	relies on	vascular health
+hospitalization	is needed for	severe cases

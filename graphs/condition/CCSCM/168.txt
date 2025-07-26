@@ -1,0 +1,100 @@
+inflammatory diseases of female pelvic organs	includes	pelvic inflammatory disease
+inflammatory diseases of female pelvic organs	caused by	bacterial infection
+inflammatory diseases of female pelvic organs	may lead to	infertility
+inflammatory diseases of female pelvic organs	associated with	chronic pelvic pain
+inflammatory diseases of female pelvic organs	risk factor for	ectopic pregnancy
+inflammatory diseases of female pelvic organs	diagnosed via	pelvic exam
+inflammatory diseases of female pelvic organs	diagnosed via	ultrasound
+inflammatory diseases of female pelvic organs	treated with	antibiotics
+inflammatory diseases of female pelvic organs	may cause	tubo-ovarian abscess
+inflammatory diseases of female pelvic organs	linked to	sexually transmitted infections
+Chlamydia trachomatis	causes	inflammatory diseases of female pelvic organs
+Neisseria gonorrhoeae	causes	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increases risk of	hysterectomy
+inflammatory diseases of female pelvic organs	may result in	adhesions
+inflammatory diseases of female pelvic organs	can lead to	Fitz-Hugh-Curtis syndrome
+inflammatory diseases of female pelvic organs	screened for	cervical discharge
+inflammatory diseases of female pelvic organs	managed with	pain relief
+inflammatory diseases of female pelvic organs	requires	hospitalization in severe cases
+inflammatory diseases of female pelvic organs	prevented by	safe sex practices
+inflammatory diseases of female pelvic organs	linked to	multiple sexual partners
+inflammatory diseases of female pelvic organs	associated with	intrauterine device use
+inflammatory diseases of female pelvic organs	may recur	without proper treatment
+inflammatory diseases of female pelvic organs	monitored via	CRP levels
+inflammatory diseases of female pelvic organs	correlated with	elevated ESR
+doxycycline	treats	inflammatory diseases of female pelvic organs
+ceftriaxone	treats	inflammatory diseases of female pelvic organs
+metronidazole	adjunct therapy for	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may mimic	appendicitis
+inflammatory diseases of female pelvic organs	differentiated from	endometriosis
+inflammatory diseases of female pelvic organs	increases risk of	ovarian cancer
+inflammatory diseases of female pelvic organs	complicates	pregnancy
+inflammatory diseases of female pelvic organs	necessitates	partner treatment
+inflammatory diseases of female pelvic organs	may require	surgical drainage
+inflammatory diseases of female pelvic organs	associated with	dyspareunia
+inflammatory diseases of female pelvic organs	leads to	menstrual irregularities
+inflammatory diseases of female pelvic organs	may present with	fever
+inflammatory diseases of female pelvic organs	may present with	lower abdominal tenderness
+inflammatory diseases of female pelvic organs	diagnosed with	laparoscopy
+inflammatory diseases of female pelvic organs	managed by	gynecologist
+inflammatory diseases of female pelvic organs	prevented via	regular screening
+inflammatory diseases of female pelvic organs	increases healthcare costs
+inflammatory diseases of female pelvic organs	reduces	quality of life
+inflammatory diseases of female pelvic organs	linked to	vaginal douching
+inflammatory diseases of female pelvic organs	may cause	septic shock
+inflammatory diseases of female pelvic organs	requires	follow-up testing
+inflammatory diseases of female pelvic organs	correlates with	leukocytosis
+inflammatory diseases of female pelvic organs	may progress to	peritonitis
+inflammatory diseases of female pelvic organs	treated with	intravenous fluids
+inflammatory diseases of female pelvic organs	exacerbated by	delayed treatment
+inflammatory diseases of female pelvic organs	may involve	fallopian tubes
+inflammatory diseases of female pelvic organs	may involve	ovaries
+inflammatory diseases of female pelvic organs	may involve	uterus
+inflammatory diseases of female pelvic organs	may involve	cervix
+inflammatory diseases of female pelvic organs	may trigger	autoimmune response
+inflammatory diseases of female pelvic organs	increases risk of	chronic fatigue
+inflammatory diseases of female pelvic organs	associated with	depression
+inflammatory diseases of female pelvic organs	may require	fertility treatment
+inflammatory diseases of female pelvic organs	complicates	IVF
+inflammatory diseases of female pelvic organs	linked to	preterm birth
+inflammatory diseases of female pelvic organs	monitored with	CBC
+inflammatory diseases of female pelvic organs	may elevate	WBC count
+inflammatory diseases of female pelvic organs	misdiagnosed as	irritable bowel syndrome
+inflammatory diseases of female pelvic organs	necessitates	antibiotic resistance testing
+inflammatory diseases of female pelvic organs	may worsen	with immunosuppression
+inflammatory diseases of female pelvic organs	increases hospitalization duration
+inflammatory diseases of female pelvic organs	associated with	vaginal pH changes
+inflammatory diseases of female pelvic organs	may cause	urinary symptoms
+inflammatory diseases of female pelvic organs	may lead to	sepsis
+inflammatory diseases of female pelvic organs	requires	multidisciplinary care
+inflammatory diseases of female pelvic organs	correlated with	elevated cytokines
+inflammatory diseases of female pelvic organs	may require	imaging follow-up
+inflammatory diseases of female pelvic organs	increases risk of	cardiovascular disease
+inflammatory diseases of female pelvic organs	linked to	hormonal imbalances
+inflammatory diseases of female pelvic organs	managed with	NSAIDs
+inflammatory diseases of female pelvic organs	may cause	anemia
+inflammatory diseases of female pelvic organs	associated with	weight loss
+inflammatory diseases of female pelvic organs	may present with	nausea
+inflammatory diseases of female pelvic organs	may present with	vomiting
+inflammatory diseases of female pelvic organs	may mimic	ovarian torsion
+inflammatory diseases of female pelvic organs	differentiated from	diverticulitis
+inflammatory diseases of female pelvic organs	increases risk of	bowel obstruction
+inflammatory diseases of female pelvic organs	linked to	microbiome disruption
+inflammatory diseases of female pelvic organs	may involve	lymphatic spread
+inflammatory diseases of female pelvic organs	associated with	elevated CA-125
+inflammatory diseases of female pelvic organs	may require	psychological support
+inflammatory diseases of female pelvic organs	complicates	contraceptive use
+inflammatory diseases of female pelvic organs	increases risk of	recurrent infections
+inflammatory diseases of female pelvic organs	linked to	smoking
+inflammatory diseases of female pelvic organs	associated with	alcohol use
+inflammatory diseases of female pelvic organs	may cause	sleep disturbances
+inflammatory diseases of female pelvic organs	increases risk of	autoimmune disorders
+inflammatory diseases of female pelvic organs	complicates	diabetes management
+inflammatory diseases of female pelvic organs	requires	patient education
+inflammatory diseases of female pelvic organs	linked to	socioeconomic factors
+inflammatory diseases of female pelvic organs	associated with	antibiotic allergies
+inflammatory diseases of female pelvic organs	may require	alternative therapies
+inflammatory diseases of female pelvic organs	monitored via	symptom diaries
+inflammatory diseases of female pelvic organs	increases risk of	thromboembolism
+inflammatory diseases of female pelvic organs	linked to	genetic predisposition
+inflammatory diseases of female pelvic organs	requires	long-term follow-up

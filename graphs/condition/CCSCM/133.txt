@@ -1,0 +1,100 @@
+other lower respiratory disease	is a type of	respiratory disease
+other lower respiratory disease	may cause	dyspnea
+other lower respiratory disease	may cause	cough
+other lower respiratory disease	may cause	wheezing
+other lower respiratory disease	may lead to	hypoxia
+other lower respiratory disease	may lead to	respiratory failure
+other lower respiratory disease	is diagnosed by	chest X-ray
+other lower respiratory disease	is diagnosed by	spirometry
+other lower respiratory disease	is treated with	bronchodilators
+other lower respiratory disease	is treated with	corticosteroids
+other lower respiratory disease	is treated with	antibiotics
+other lower respiratory disease	may require	oxygen therapy
+other lower respiratory disease	may require	hospitalization
+other lower respiratory disease	is associated with	smoking
+other lower respiratory disease	is associated with	air pollution
+other lower respiratory disease	is associated with	aging
+other lower respiratory disease	is associated with	COPD
+other lower respiratory disease	is associated with	asthma
+other lower respiratory disease	is associated with	pneumonia
+other lower respiratory disease	may worsen	cardiovascular disease
+other lower respiratory disease	may increase risk of	mortality
+other lower respiratory disease	may increase risk of	readmission
+other lower respiratory disease	may be prevented by	vaccination
+other lower respiratory disease	may be prevented by	smoking cessation
+bronchodilators	are a type of	medication
+corticosteroids	are a type of	anti-inflammatory drug
+antibiotics	are used for	bacterial infection
+oxygen therapy	is a	supportive treatment
+hospitalization	is required for	severe cases
+smoking	is a risk factor for	respiratory disease
+air pollution	is a risk factor for	respiratory disease
+aging	is a risk factor for	respiratory disease
+COPD	is a type of	chronic respiratory disease
+asthma	is a type of	chronic respiratory disease
+pneumonia	is a type of	respiratory infection
+dyspnea	is a symptom of	respiratory disease
+cough	is a symptom of	respiratory disease
+wheezing	is a symptom of	respiratory disease
+hypoxia	is a complication of	respiratory disease
+respiratory failure	is a complication of	respiratory disease
+chest X-ray	is a diagnostic tool for	respiratory disease
+spirometry	is a diagnostic tool for	respiratory disease
+vaccination	prevents	respiratory infection
+smoking cessation	improves	respiratory health
+cardiovascular disease	is worsened by	hypoxia
+mortality	is increased by	respiratory failure
+readmission	is increased by	chronic respiratory disease
+respiratory disease	affects	lung function
+lung function	is measured by	spirometry
+bacterial infection	is treated with	antibiotics
+anti-inflammatory drug	reduces	inflammation
+inflammation	is a feature of	respiratory disease
+severe cases	require	intensive care
+intensive care	is a type of	hospitalization
+chronic respiratory disease	requires	long-term management
+long-term management	includes	medication adherence
+medication adherence	improves	disease control
+disease control	reduces	complications
+complications	increase	healthcare costs
+healthcare costs	are affected by	hospitalization
+respiratory infection	is caused by	pathogens
+pathogens	include	bacteria
+pathogens	include	viruses
+viruses	cause	viral pneumonia
+bacteria	cause	bacterial pneumonia
+viral pneumonia	is a type of	pneumonia
+bacterial pneumonia	is a type of	pneumonia
+pneumonia	may lead to	sepsis
+sepsis	is a life-threatening condition
+life-threatening condition	requires	emergency care
+emergency care	is provided in	hospitals
+hospitals	have	intensive care units
+intensive care units	treat	critical patients
+critical patients	may require	mechanical ventilation
+mechanical ventilation	supports	breathing
+breathing	is impaired by	respiratory disease
+impaired breathing	causes	dyspnea
+dyspnea	is assessed by	Borg scale
+Borg scale	measures	perceived exertion
+perceived exertion	reflects	disease severity
+disease severity	determines	treatment plan
+treatment plan	includes	medication
+medication	has	side effects
+side effects	may include	nausea
+nausea	is a common side effect
+common side effects	are managed with	supportive care
+supportive care	includes	hydration
+hydration	improves	patient comfort
+patient comfort	is important for	recovery
+recovery	depends on	treatment adherence
+treatment adherence	is influenced by	patient education
+patient education	improves	self-management
+self-management	reduces	hospital visits
+hospital visits	are associated with	healthcare utilization
+healthcare utilization	is a metric for	system efficiency
+system efficiency	affects	patient outcomes
+patient outcomes	are measured by	mortality rates
+mortality rates	are influenced by	early intervention
+early intervention	requires	timely diagnosis
+timely diagnosis	depends on	screening programs

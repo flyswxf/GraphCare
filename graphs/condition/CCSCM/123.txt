@@ -1,0 +1,100 @@
+influenza	is a	viral infection
+influenza	causes	fever
+influenza	causes	cough
+influenza	causes	sore throat
+influenza	causes	fatigue
+influenza	causes	body aches
+influenza	may lead to	pneumonia
+influenza	may lead to	hospitalization
+influenza	may lead to	death
+influenza	is transmitted via	respiratory droplets
+influenza	is diagnosed with	rapid antigen test
+influenza	is diagnosed with	PCR test
+influenza	is treated with	antivirals
+oseltamivir	is an	antiviral
+zanamivir	is an	antiviral
+influenza	can be prevented by	vaccination
+influenza vaccine	reduces risk of	infection
+influenza vaccine	is recommended for	elderly
+influenza vaccine	is recommended for	children
+influenza	has subtypes	influenza A
+influenza	has subtypes	influenza B
+influenza A	includes strain	H1N1
+influenza A	includes strain	H3N2
+influenza	peaks during	winter
+influenza	is associated with	school outbreaks
+influenza	increases risk of	bronchitis
+influenza	may exacerbate	asthma
+influenza	may worsen	COPD
+influenza	may trigger	myocarditis
+influenza	may cause	encephalitis
+influenza	has incubation period	1-4 days
+influenza	is contagious during	symptomatic phase
+influenza	requires	supportive care
+hydration	helps manage	influenza
+rest	aids recovery from	influenza
+fever reducers	alleviate symptoms of	influenza
+acetaminophen	is a	fever reducer
+ibuprofen	is a	fever reducer
+influenza	differs from	common cold
+influenza	has higher severity than	common cold
+elderly	have higher mortality from	influenza
+pregnant women	are vulnerable to	influenza
+immunocompromised patients	are vulnerable to	influenza
+influenza	can cause	secondary infections
+bacterial pneumonia	is a complication of	influenza
+antibiotics	treat	bacterial pneumonia
+influenza	is tracked by	CDC
+influenza surveillance	monitors	strain prevalence
+antigenic drift	causes	vaccine mismatch
+antigenic shift	causes	pandemics
+1918 flu pandemic	was caused by	H1N1
+influenza	spreads in	crowded places
+hand washing	prevents spread of	influenza
+face masks	reduce transmission of	influenza
+influenza	can survive on	surfaces
+disinfectants	kill	influenza virus
+elderly	may need	higher dose vaccine
+adjuvanted vaccine	boosts response in	elderly
+influenza	may cause	Guillain-Barré syndrome
+influenza	is reportable in	many countries
+school closures	mitigate spread of	influenza
+influenza	affects	workforce productivity
+influenza	costs	healthcare systems
+rapid tests	have variable sensitivity for	influenza
+chest X-ray	diagnoses	influenza complications
+influenza	may cause	sepsis
+sepsis	requires	ICU admission
+mechanical ventilation	treats	severe influenza
+ECMO	supports	critical influenza cases
+influenza	increases risk of	heart attack
+statin use	may reduce severity of	influenza
+vitamin D deficiency	increases susceptibility to	influenza
+zinc	may shorten duration of	influenza
+elderly	often show atypical symptoms of	influenza
+confusion	can be a sign of	influenza in elderly
+influenza	is a leading cause of	missed work
+influenza	burdens	emergency departments
+telemedicine	can triage	influenza cases
+rapid testing	guides	antiviral prescription
+oseltamivir	works best if started early for	influenza
+influenza	can shed virus before	symptom onset
+healthcare workers	should be vaccinated against	influenza
+influenza vaccination	is required in	some hospitals
+influenza	mutates via	reassortment
+pigs	can host	influenza variants
+birds	can host	influenza variants
+zoonotic transmission	can cause	influenza pandemics
+influenza research	focuses on	universal vaccine
+hemagglutinin	is a target of	influenza vaccines
+neuraminidase inhibitors	block	viral release
+baloxavir	inhibits	viral replication
+influenza	can cause	rhabdomyolysis
+influenza	may lead to	acute respiratory distress syndrome
+corticosteroids	are sometimes used for	severe influenza
+cytokine storm	contributes to	severe influenza
+IL-6 inhibitors	may treat	cytokine storm
+influenza mortality	is tracked via	excess deaths
+flurona	refers to coinfection with	influenza and COVID-19
+influenza vaccination	can be given with	COVID-19 vaccine
+pandemic preparedness	includes	influenza planning

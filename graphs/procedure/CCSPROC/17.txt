@@ -1,0 +1,108 @@
+destruction of retinal lesion	is a	ophthalmic procedure
+destruction of choroidal lesion	is a	ophthalmic procedure
+retinal lesion	located in	retina
+choroidal lesion	located in	choroid
+retina	part of	eye
+choroid	part of	eye
+destruction procedure	treats	retinal lesion
+destruction procedure	treats	choroidal lesion
+laser photocoagulation	can perform	destruction
+cryotherapy	can perform	destruction
+photodynamic therapy	can perform	destruction
+retinal lesion	may cause	vision loss
+choroidal lesion	may cause	vision loss
+diabetic retinopathy	can cause	retinal lesion
+age-related macular degeneration	can cause	choroidal lesion
+retinal tumor	is a type of	retinal lesion
+choroidal melanoma	is a type of	choroidal lesion
+destruction procedure	requires	local anesthesia
+destruction procedure	has risk	retinal detachment
+destruction procedure	has risk	choroidal hemorrhage
+ophthalmologist	performs	destruction procedure
+retina specialist	performs	destruction procedure
+pre-procedure	includes	pupil dilation
+post-procedure	requires	follow-up exam
+destruction procedure	prevents	lesion progression
+laser photocoagulation	uses	thermal energy
+cryotherapy	uses	freezing temperature
+photodynamic therapy	uses	light-activated drug
+retinal lesion	may lead to	macular edema
+choroidal lesion	may lead to	retinal pigment epithelium damage
+destruction outcome	depends on	lesion size
+destruction outcome	depends on	lesion location
+small lesion	has better	treatment outcome
+macular lesion	has worse	visual prognosis
+destruction procedure	may cause	scotoma
+repeated treatments	may be needed	for large lesions
+optical coherence tomography	evaluates	lesion response
+fundus photography	documents	lesion changes
+fluorescein angiography	assesses	lesion vascularity
+indocyanine green angiography	visualizes	choroidal circulation
+visual acuity test	measures	functional outcome
+visual field test	detects	peripheral vision loss
+retinal lesion destruction	alternative to	vitrectomy
+choroidal lesion destruction	alternative to	enucleation
+anti-VEGF therapy	may combine with	destruction
+corticosteroids	may combine with	destruction
+systemic immunosuppression	may accompany	choroidal lesion treatment
+radiation therapy	alternative for	choroidal melanoma
+brachytherapy	used for	choroidal melanoma treatment
+transpupillary thermotherapy	treats	choroidal lesions
+retinal laser	classified as	class 4 laser
+argon laser	commonly used for	retinal photocoagulation
+diode laser	used for	transpupillary thermotherapy
+yellow laser	preferred for	macular treatment
+red laser	penetrates deeper into	choroid
+green laser	commonly used for	panretinal photocoagulation
+retinal lesion destruction	contraindicated in	media opacities
+choroidal lesion destruction	contraindicated in	active intraocular inflammation
+pregnancy	relative contraindication for	photodynamic therapy
+anticoagulants	may need adjustment before	destruction procedure
+glaucoma	may worsen after	panretinal photocoagulation
+cataract	may progress after	repeated laser treatments
+central serous chorioretinopathy	may require	choroidal lesion treatment
+polypoidal choroidal vasculopathy	treated with	photodynamic therapy
+retinal hemangioblastoma	requires	early destruction
+choroidal hemangioma	responds well to	photodynamic therapy
+retinal arterial macroaneurysm	may need	laser treatment
+choroidal neovascularization	indication for	laser photocoagulation
+diabetic macular edema	may require	focal laser
+proliferative diabetic retinopathy	requires	scatter laser
+retinal vein occlusion	may lead to	ischemic lesions
+choroidal rupture	may follow	ocular trauma
+retinitis pigmentosa	may develop	cystic retinal lesions
+best disease	causes	vitelliform lesions
+pattern dystrophy	produces	butterfly-shaped lesions
+acute zonal occult outer retinopathy	presents with	outer retinal lesions
+multiple evanescent white dot syndrome	shows	choroidal lesions
+ocular histoplasmosis	leaves	punched-out lesions
+toxoplasmosis	causes	necrotizing retinochoroiditis
+cytomegalovirus retinitis	requires	laser demarcation
+retinal detachment	may complicate	excessive destruction
+choroidal effusion	may follow	aggressive treatment
+epiretinal membrane	may develop after	laser treatment
+macular hole	may occur after	intense photocoagulation
+photopsia	common symptom after	laser procedure
+metamorphopsia	may persist after	macular treatment
+night blindness	possible after	extensive photocoagulation
+color vision changes	may follow	foveal treatment
+contrast sensitivity	often reduced after	macular laser
+visual rehabilitation	needed after	extensive treatment
+low vision aids	helpful for	permanent vision loss
+genetic testing	recommended for	inherited retinal disorders
+family history	important for	choroidal lesion evaluation
+smoking cessation	advised for	choroidal neovascularization
+blood pressure control	essential for	retinal vascular lesions
+blood sugar control	crucial for	diabetic retinopathy
+lipid management	important for	retinal artery occlusion
+antioxidant supplements	may benefit	age-related macular degeneration
+omega-3 fatty acids	possibly protective for	retinal health
+regular eye exams	necessary after	lesion treatment
+home monitoring	includes	Amsler grid testing
+urgent evaluation	needed for	sudden vision changes
+second opinion	recommended for	choroidal melanoma
+multidisciplinary approach	optimal for	complex cases
+clinical trials	available for	refractory lesions
+telemedicine	facilitates	post-treatment monitoring
+artificial intelligence	assists in	lesion detection
+optical coherence tomography angiography	reveals	lesion vasculature

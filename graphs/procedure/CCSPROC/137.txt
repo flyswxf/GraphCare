@@ -1,0 +1,100 @@
+assisted delivery	is a	medical procedure
+assisted delivery	performed during	childbirth
+assisted delivery	involves	obstetrician
+assisted delivery	may require	anesthesia
+assisted delivery	includes	forceps delivery
+assisted delivery	includes	vacuum extraction
+assisted delivery	alternative to	cesarean section
+assisted delivery	reduces	labor time
+assisted delivery	may cause	perineal tear
+assisted delivery	increases	infection risk
+forceps delivery	is a type of	assisted delivery
+forceps delivery	uses	metal instruments
+forceps delivery	guides	fetal head
+forceps delivery	requires	epidural
+forceps delivery	may cause	bruising
+forceps delivery	prevents	cesarean section
+forceps delivery	needs	experienced doctor
+forceps delivery	risks	nerve damage
+forceps delivery	associated with	urinary incontinence
+forceps delivery	follows	failed pushing
+vacuum extraction	is a type of	assisted delivery
+vacuum extraction	uses	suction cup
+vacuum extraction	pulls	fetal head
+vacuum extraction	less invasive than	forceps
+vacuum extraction	may cause	scalp swelling
+vacuum extraction	preferred for	preterm labor
+vacuum extraction	risks	cephalohematoma
+vacuum extraction	requires	cervical dilation
+vacuum extraction	fails more than	forceps
+vacuum extraction	avoids	maternal trauma
+episiotomy	sometimes precedes	assisted delivery
+episiotomy	enlarges	vaginal opening
+episiotomy	prevents	severe tearing
+episiotomy	heals slower than	natural tear
+episiotomy	increases	postpartum pain
+episiotomy	reduces	fetal distress
+episiotomy	performed with	local anesthetic
+episiotomy	may lead to	dyspareunia
+episiotomy	decreases	pushing time
+episiotomy	controversial in	modern obstetrics
+fetal distress	indicates	assisted delivery
+fetal distress	detected by	fetal monitoring
+fetal distress	caused by	oxygen deprivation
+fetal distress	requires	rapid intervention
+fetal distress	leads to	NICU admission
+fetal distress	correlates with	meconium staining
+fetal distress	worsens with	prolonged labor
+fetal distress	mitigated by	position changes
+fetal distress	monitored via	CTG
+fetal distress	increases	cesarean likelihood
+maternal exhaustion	necessitates	assisted delivery
+maternal exhaustion	results from	prolonged labor
+maternal exhaustion	causes	ineffective pushing
+maternal exhaustion	relieved by	hydration
+maternal exhaustion	managed with	IV fluids
+maternal exhaustion	linked to	epidural use
+maternal exhaustion	prolongs	second stage
+maternal exhaustion	reduces	uterine contractions
+maternal exhaustion	assessed by	midwife
+maternal exhaustion	indicates	labor augmentation
+oxytocin	augments	labor progression
+oxytocin	triggers	uterine contractions
+oxytocin	administered via	IV drip
+oxytocin	overdose causes	uterine rupture
+oxytocin	requires	fetal monitoring
+oxytocin	mimics	natural hormone
+oxytocin	speeds up	cervical dilation
+oxytocin	alternative to	assisted delivery
+oxytocin	contraindicated in	fetal distress
+oxytocin	stored in	pituitary gland
+breech position	complicates	vaginal delivery
+breech position	often requires	cesarean
+breech position	attempted with	assisted delivery
+breech position	types include	frank breech
+breech position	diagnosed via	ultrasound
+breech position	corrected by	ECV
+breech position	risks	cord prolapse
+breech position	causes	delivery injuries
+breech position	managed by	experienced team
+breech position	contraindicates	vacuum extraction
+shoulder dystocia	emergency during	delivery
+shoulder dystocia	obstructs	fetal shoulders
+shoulder dystocia	managed with	McRoberts maneuver
+shoulder dystocia	causes	brachial plexus injury
+shoulder dystocia	predicted by	fetal macrosomia
+shoulder dystocia	requires	suprapubic pressure
+shoulder dystocia	leads to	postpartum hemorrhage
+shoulder dystocia	prevented by	labor induction
+shoulder dystocia	complicates	assisted delivery
+shoulder dystocia	documented as	obstetric emergency
+neonatal resuscitation	follows	difficult delivery
+neonatal resuscitation	performed by	pediatric team
+neonatal resuscitation	uses	APGAR score
+neonatal resuscitation	requires	suction equipment
+neonatal resuscitation	initiates	skin-to-skin contact
+neonatal resuscitation	prioritizes	airway clearance
+neonatal resuscitation	guided by	NRP guidelines
+neonatal resuscitation	improves	survival rates
+neonatal resuscitation	monitors	oxygen saturation
+neonatal resuscitation	prevents	hypoxic damage

@@ -1,0 +1,100 @@
+alcohol-related liver disease	is a	liver disease
+alcohol-related liver disease	caused by	alcohol abuse
+alcohol-related liver disease	may progress to	cirrhosis
+alcohol-related liver disease	may lead to	liver failure
+alcohol-related liver disease	associated with	malnutrition
+alcohol-related liver disease	causes	jaundice
+alcohol-related liver disease	causes	ascites
+alcohol-related liver disease	increases risk of	hepatocellular carcinoma
+alcohol-related liver disease	diagnosed by	liver function tests
+alcohol-related liver disease	requires	abstinence
+alcohol-related liver disease	treated with	corticosteroids
+alcohol-related liver disease	may require	liver transplant
+alcohol-related liver disease	associated with	portal hypertension
+alcohol-related liver disease	causes	hepatic encephalopathy
+alcohol-related liver disease	leads to	coagulation disorders
+alcohol-related liver disease	associated with	esophageal varices
+alcohol-related liver disease	causes	hepatomegaly
+alcohol-related liver disease	results in	elevated bilirubin
+alcohol-related liver disease	correlates with	AST elevation
+alcohol-related liver disease	shows	AST:ALT ratio >2
+alcohol-related liver disease	requires	nutritional support
+alcohol-related liver disease	treated with	vitamin supplementation
+alcohol-related liver disease	complicated by	spontaneous bacterial peritonitis
+alcohol-related liver disease	monitored by	MELD score
+alcohol-related liver disease	associated with	alcoholic hepatitis
+alcohol-related liver disease	progresses through	fatty liver stage
+alcohol-related liver disease	causes	fibrosis
+alcohol-related liver disease	screened by	AUDIT questionnaire
+alcohol-related liver disease	prevented by	alcohol moderation
+alcohol-related liver disease	exacerbated by	acetaminophen
+alcohol-related liver disease	contraindicates	NSAIDs
+alcohol-related liver disease	increases sensitivity to	sedatives
+alcohol-related liver disease	requires	thiamine supplementation
+alcohol-related liver disease	associated with	Wernicke's encephalopathy
+alcohol-related liver disease	causes	hypoalbuminemia
+alcohol-related liver disease	results in	prolonged PT
+alcohol-related liver disease	diagnosed with	liver biopsy
+alcohol-related liver disease	visualized by	abdominal ultrasound
+alcohol-related liver disease	assessed by	FibroScan
+alcohol-related liver disease	correlated with	elevated GGT
+alcohol-related liver disease	managed with	lactulose
+alcohol-related liver disease	treated with	rifaximin
+alcohol-related liver disease	complicated by	hepatorenal syndrome
+alcohol-related liver disease	causes	splenomegaly
+alcohol-related liver disease	associated with	thrombocytopenia
+alcohol-related liver disease	leads to	leukopenia
+alcohol-related liver disease	results in	anemia
+alcohol-related liver disease	correlates with	MCV elevation
+alcohol-related liver disease	screened by	CAGE questionnaire
+alcohol-related liver disease	prevented by	public health policies
+alcohol-related liver disease	increases mortality in	COVID-19
+alcohol-related liver disease	contraindicates	methotrexate
+alcohol-related liver disease	requires	alcohol counseling
+alcohol-related liver disease	managed by	hepatologist
+alcohol-related liver disease	associated with	depression
+alcohol-related liver disease	comorbid with	anxiety disorders
+alcohol-related liver disease	leads to	social dysfunction
+alcohol-related liver disease	causes	economic burden
+alcohol-related liver disease	results in	disability
+alcohol-related liver disease	increases risk of	falls
+alcohol-related liver disease	associated with	traumatic injuries
+alcohol-related liver disease	complicated by	gastrointestinal bleeding
+alcohol-related liver disease	causes	pruritus
+alcohol-related liver disease	leads to	muscle wasting
+alcohol-related liver disease	results in	fatigue
+alcohol-related liver disease	correlates with	sleep disturbances
+alcohol-related liver disease	screened by	AST blood test
+alcohol-related liver disease	prevented by	early intervention
+alcohol-related liver disease	exacerbated by	viral hepatitis
+alcohol-related liver disease	contraindicates	statins
+alcohol-related liver disease	requires	folate supplementation
+alcohol-related liver disease	treated with	pentoxifylline
+alcohol-related liver disease	managed with	beta-blockers
+alcohol-related liver disease	associated with	cardiomyopathy
+alcohol-related liver disease	causes	peripheral neuropathy
+alcohol-related liver disease	leads to	cognitive impairment
+alcohol-related liver disease	results in	decreased quality of life
+alcohol-related liver disease	correlated with	healthcare utilization
+alcohol-related liver disease	diagnosed by	clinical history
+alcohol-related liver disease	visualized by	CT scan
+alcohol-related liver disease	assessed by	Child-Pugh score
+alcohol-related liver disease	monitored with	AFP levels
+alcohol-related liver disease	prevented by	alcohol taxation
+alcohol-related liver disease	increases risk of	infections
+alcohol-related liver disease	contraindicates	tetracyclines
+alcohol-related liver disease	requires	zinc supplementation
+alcohol-related liver disease	treated with	S-adenosylmethionine
+alcohol-related liver disease	managed with	diuretics
+alcohol-related liver disease	associated with	pancreatitis
+alcohol-related liver disease	causes	gynecomastia
+alcohol-related liver disease	leads to	testicular atrophy
+alcohol-related liver disease	results in	hormonal imbalances
+alcohol-related liver disease	correlated with	hospital readmissions
+alcohol-related liver disease	screened by	physical examination
+alcohol-related liver disease	prevented by	public education
+alcohol-related liver disease	exacerbated by	obesity
+alcohol-related liver disease	contraindicates	valproic acid
+alcohol-related liver disease	requires	magnesium supplementation
+alcohol-related liver disease	treated with	colchicine
+alcohol-related liver disease	managed with	palliative care

@@ -1,0 +1,100 @@
+protein kinase inhibitors	are	antineoplastic agents
+protein kinase inhibitors	are	immunomodulating agents
+protein kinase inhibitors	target	protein kinases
+protein kinases	regulate	cell proliferation
+protein kinases	regulate	cell survival
+protein kinases	regulate	cell differentiation
+protein kinase inhibitors	inhibit	cancer growth
+protein kinase inhibitors	used for	solid tumors
+protein kinase inhibitors	used for	hematologic malignancies
+protein kinase inhibitors	can cause	drug resistance
+drug resistance	leads to	treatment failure
+treatment failure	may require	combination therapy
+combination therapy	includes	chemotherapy
+combination therapy	includes	immunotherapy
+immunotherapy	enhances	immune response
+immune response	targets	cancer cells
+protein kinase inhibitors	classified as	small molecules
+small molecules	have	oral bioavailability
+oral bioavailability	affects	dosing schedule
+dosing schedule	influences	patient adherence
+patient adherence	impacts	treatment efficacy
+treatment efficacy	measured by	tumor shrinkage
+tumor shrinkage	evaluated via	imaging
+imaging	includes	CT scans
+imaging	includes	MRI
+protein kinase inhibitors	metabolized by	liver enzymes
+liver enzymes	affected by	drug interactions
+drug interactions	may increase	toxicity
+toxicity	monitored via	blood tests
+blood tests	assess	liver function
+liver function	impacts	drug clearance
+drug clearance	affects	plasma concentration
+plasma concentration	determines	therapeutic effect
+therapeutic effect	correlates with	survival benefit
+survival benefit	measured by	overall survival
+overall survival	a metric in	clinical trials
+clinical trials	test	drug safety
+drug safety	evaluated via	adverse events
+adverse events	include	fatigue
+adverse events	include	diarrhea
+adverse events	include	hypertension
+hypertension	managed with	antihypertensives
+antihypertensives	include	ACE inhibitors
+protein kinase inhibitors	interact with	CYP3A4 inhibitors
+CYP3A4 inhibitors	increase	drug exposure
+drug exposure	affects	toxicity risk
+toxicity risk	mitigated by	dose adjustment
+dose adjustment	guided by	pharmacogenomics
+pharmacogenomics	studies	genetic variations
+genetic variations	influence	drug response
+protein kinase inhibitors	target	EGFR
+EGFR	mutated in	lung cancer
+lung cancer	treated with	tyrosine kinase inhibitors
+tyrosine kinase inhibitors	a subtype of	protein kinase inhibitors
+protein kinase inhibitors	target	BCR-ABL
+BCR-ABL	causes	chronic myeloid leukemia
+chronic myeloid leukemia	managed with	imatinib
+imatinib	a type of	protein kinase inhibitor
+protein kinase inhibitors	target	BRAF
+BRAF	mutated in	melanoma
+melanoma	treated with	vemurafenib
+vemurafenib	a type of	BRAF inhibitor
+protein kinase inhibitors	inhibit	angiogenesis
+angiogenesis	promotes	tumor growth
+tumor growth	dependent on	blood supply
+blood supply	disrupted by	VEGF inhibitors
+VEGF inhibitors	include	bevacizumab
+bevacizumab	used for	colorectal cancer
+protein kinase inhibitors	cross	blood-brain barrier
+blood-brain barrier	limits	drug penetration
+drug penetration	important for	brain tumors
+brain tumors	treated with	targeted therapy
+targeted therapy	includes	protein kinase inhibitors
+protein kinase inhibitors	cause	skin rash
+skin rash	managed with	topical steroids
+topical steroids	reduce	inflammation
+inflammation	a side effect of	immune activation
+immune activation	modulated by	immunomodulating agents
+immunomodulating agents	include	checkpoint inhibitors
+checkpoint inhibitors	enhance	T-cell activity
+T-cell activity	targets	cancer cells
+cancer cells	evade	immune system
+immune system	suppressed by	tumors
+tumors	secrete	immunosuppressive factors
+immunosuppressive factors	blocked by	immunomodulators
+immunomodulators	combined with	kinase inhibitors
+kinase inhibitors	sensitize	tumors to immunotherapy
+immunotherapy	improves	survival rates
+survival rates	influenced by	biomarker status
+biomarker status	assessed via	genetic testing
+genetic testing	identifies	targetable mutations
+targetable mutations	guide	precision medicine
+precision medicine	tailors	treatment plans
+treatment plans	consider	comorbidities
+comorbidities	affect	drug tolerance
+drug tolerance	monitored by	physicians
+physicians	adjust	therapy regimens
+therapy regimens	aim for	remission
+remission	defined as	no detectable disease
+no detectable disease	confirmed by	follow-up tests

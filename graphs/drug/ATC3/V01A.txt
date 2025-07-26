@@ -1,0 +1,112 @@
+allergens	can cause	allergic reactions
+allergens	include	pollen
+allergens	include	dust mites
+allergens	include	pet dander
+allergens	include	mold spores
+allergic reactions	may involve	skin rash
+allergic reactions	may involve	nasal congestion
+allergic reactions	may involve	asthma
+allergic reactions	may lead	anaphylaxis
+anaphylaxis	requires	epinephrine
+pollen	is produced by	plants
+pollen	varies by	season
+dust mites	thrive in	humid environments
+pet dander	comes from	animals
+mold spores	grow in	damp areas
+allergens	can trigger	histamine release
+histamine release	causes	inflammation
+inflammation	leads to	swelling
+inflammation	leads to	redness
+allergens	can be detected by	skin test
+allergens	can be detected by	blood test
+skin test	involves	small punctures
+blood test	measures	IgE antibodies
+IgE antibodies	are produced by	immune system
+immune system	overreacts to	allergens
+allergens	can be managed by	antihistamines
+antihistamines	block	histamine receptors
+allergens	can be managed by	corticosteroids
+corticosteroids	reduce	inflammation
+allergens	can be managed by	immunotherapy
+immunotherapy	involves	gradual exposure
+gradual exposure	builds	tolerance
+tolerance	reduces	allergic reactions
+allergens	may cause	food allergies
+food allergies	involve	immune response
+food allergies	can trigger	hives
+hives	appear as	red welts
+food allergies	can lead	digestive issues
+digestive issues	include	nausea
+digestive issues	include	vomiting
+allergens	can be airborne	particles
+airborne particles	enter	respiratory system
+respiratory system	includes	lungs
+lungs	can develop	bronchitis
+bronchitis	causes	coughing
+allergens	can be ingested	substances
+ingested substances	affect	digestive tract
+digestive tract	includes	stomach
+stomach	can develop	gastritis
+gastritis	causes	abdominal pain
+allergens	can be contacted	materials
+contacted materials	cause	contact dermatitis
+contact dermatitis	results in	skin irritation
+skin irritation	may lead	itching
+itching	can worsen	skin damage
+allergens	can worsen	eczema
+eczema	is a	skin condition
+skin condition	requires	moisturizers
+moisturizers	help	skin barrier
+skin barrier	prevents	allergen entry
+allergens	can affect	eyes
+eyes	may develop	conjunctivitis
+conjunctivitis	causes	redness
+conjunctivitis	causes	tearing
+allergens	can trigger	migraines
+migraines	involve	severe headaches
+severe headaches	can be debilitating
+allergens	can aggravate	sinusitis
+sinusitis	causes	facial pain
+facial pain	may require	pain relievers
+pain relievers	include	NSAIDs
+NSAIDs	reduce	inflammation
+allergens	can be seasonal	variations
+seasonal variations	depend on	climate
+climate	affects	allergen levels
+allergen levels	peak in	spring
+spring	is when	trees pollinate
+allergens	can be perennial	sources
+perennial sources	include	cockroaches
+cockroaches	produce	allergenic proteins
+allergenic proteins	trigger	asthma attacks
+asthma attacks	require	bronchodilators
+bronchodilators	open	airways
+airways	facilitate	breathing
+breathing	is essential for	life
+allergens	can be occupational	hazards
+occupational hazards	affect	workers
+workers	may need	protective gear
+protective gear	prevents	allergen exposure
+allergen exposure	can lead	chronic conditions
+chronic conditions	require	long-term management
+long-term management	includes	regular checkups
+regular checkups	monitor	health status
+health status	can predict	disease progression
+disease progression	may indicate	treatment changes
+treatment changes	involve	medication adjustments
+medication adjustments	aim for	symptom control
+symptom control	improves	quality of life
+quality of life	depends on	allergen avoidance
+allergen avoidance	reduces	flare-ups
+flare-ups	can lead	hospitalizations
+hospitalizations	increase	healthcare costs
+healthcare costs	impact	patients financially
+patients financially	may seek	insurance coverage
+insurance coverage	helps	treatment access
+treatment access	ensures	better outcomes
+better outcomes	result from	early intervention
+early intervention	relies on	allergen awareness
+allergen awareness	promotes	public health
+public health	benefits from	education campaigns
+education campaigns	teach	prevention strategies
+prevention strategies	reduce	allergen impact

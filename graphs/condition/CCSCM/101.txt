@@ -1,0 +1,100 @@
+coronary atherosclerosis	is a	heart disease
+coronary atherosclerosis	causes	myocardial infarction
+coronary atherosclerosis	is caused by	high cholesterol
+coronary atherosclerosis	is treated with	statins
+statin	reduces	LDL cholesterol
+LDL cholesterol	contributes to	plaque formation
+plaque formation	narrows	coronary arteries
+coronary arteries	supply blood to	heart muscle
+heart muscle	requires	oxygen
+oxygen deprivation	causes	angina
+angina	is a symptom of	coronary artery disease
+coronary artery disease	includes	coronary atherosclerosis
+coronary atherosclerosis	increases risk of	heart failure
+heart failure	results from	weakened heart muscle
+weakened heart muscle	reduces	cardiac output
+cardiac output	determines	blood circulation
+blood circulation	delivers	nutrients
+nutrient deficiency	affects	organ function
+organ dysfunction	complicates	heart disease
+heart disease	is managed with	beta blockers
+beta blockers	decrease	heart rate
+reduced heart rate	lowers	oxygen demand
+oxygen demand	increases during	physical activity
+physical activity	improves	cardiovascular health
+cardiovascular health	prevents	atherosclerosis progression
+atherosclerosis progression	leads to	arterial stenosis
+arterial stenosis	requires	angioplasty
+angioplasty	involves	stent placement
+stent placement	maintains	arterial patency
+arterial patency	ensures	blood flow
+impaired blood flow	causes	ischemia
+ischemia	may result in	tissue necrosis
+tissue necrosis	leads to	myocardial scarring
+myocardial scarring	affects	heart function
+heart function	is measured by	ejection fraction
+low ejection fraction	indicates	systolic dysfunction
+systolic dysfunction	characterizes	heart failure
+heart failure	may require	cardiac transplantation
+cardiac transplantation	replaces	diseased heart
+diseased heart	often has	ventricular hypertrophy
+ventricular hypertrophy	develops from	chronic hypertension
+chronic hypertension	damages	arterial endothelium
+arterial endothelium	regulates	vascular tone
+vascular tone	affects	blood pressure
+high blood pressure	accelerates	atherosclerosis
+atherosclerosis	increases	cardiovascular risk
+cardiovascular risk	is assessed by	Framingham score
+Framingham score	considers	cholesterol levels
+cholesterol levels	are influenced by	diet
+Mediterranean diet	reduces	heart disease risk
+heart disease risk	is higher in	smokers
+smoking	damages	vascular endothelium
+vascular endothelium	produces	nitric oxide
+nitric oxide	maintains	vasodilation
+impaired vasodilation	causes	endothelial dysfunction
+endothelial dysfunction	precedes	atherosclerosis
+atherosclerosis	may cause	peripheral artery disease
+peripheral artery disease	manifests as	claudication
+claudication	indicates	arterial insufficiency
+arterial insufficiency	requires	vascular surgery
+vascular surgery	may involve	bypass grafting
+bypass grafting	uses	autologous veins
+autologous veins	are harvested from	legs
+vein harvesting	risks	wound infection
+wound infection	complicates	postoperative recovery
+postoperative recovery	includes	cardiac rehabilitation
+cardiac rehabilitation	improves	functional capacity
+functional capacity	predicts	mortality risk
+mortality risk	is reduced by	aspirin therapy
+aspirin therapy	prevents	platelet aggregation
+platelet aggregation	forms	blood clots
+blood clots	cause	acute coronary syndrome
+acute coronary syndrome	requires	emergency intervention
+emergency intervention	includes	thrombolysis
+thrombolysis	dissolves	arterial thrombi
+arterial thrombi	obstruct	blood vessels
+blood vessel obstruction	results in	infarction
+infarction	damages	myocardium
+myocardium	contains	cardiomyocytes
+cardiomyocyte death	triggers	inflammatory response
+inflammatory response	involves	cytokine release
+cytokine release	exacerbates	tissue damage
+tissue damage	leads to	fibrotic remodeling
+fibrotic remodeling	stiffens	ventricular walls
+stiff ventricles	impair	diastolic function
+diastolic dysfunction	causes	pulmonary congestion
+pulmonary congestion	manifests as	dyspnea
+dyspnea	is relieved by	diuretics
+diuretics	reduce	fluid overload
+fluid overload	worsens	heart failure
+heart failure	may lead to	cardiogenic shock
+cardiogenic shock	requires	inotropic support
+inotropic drugs	enhance	myocardial contractility
+myocardial contractility	determines	stroke volume
+stroke volume	combined with heart rate	equals cardiac output
+cardiac output	maintains	organ perfusion
+organ perfusion	ensures	cellular oxygenation
+cellular oxygenation	prevents	anaerobic metabolism
+anaerobic metabolism	produces	lactic acid
+lactic acidosis	indicates	tissue hypoperfusion

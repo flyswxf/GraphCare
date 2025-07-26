@@ -1,0 +1,100 @@
+hemorrhoid procedures	treat	hemorrhoids
+hemorrhoid procedures	include	rubber band ligation
+hemorrhoid procedures	include	sclerotherapy
+hemorrhoid procedures	include	hemorrhoidectomy
+hemorrhoid procedures	include	laser treatment
+hemorrhoid procedures	include	infrared coagulation
+hemorrhoid procedures	performed by	proctologist
+hemorrhoid procedures	performed in	outpatient setting
+hemorrhoid procedures	require	local anesthesia
+hemorrhoid procedures	may cause	bleeding
+hemorrhoid procedures	may cause	pain
+hemorrhoid procedures	may cause	infection
+hemorrhoid procedures	may require	recovery time
+hemorrhoid procedures	alternative to	conservative treatment
+hemorrhoid procedures	indicated for	grade 3 hemorrhoids
+hemorrhoid procedures	indicated for	grade 4 hemorrhoids
+hemorrhoid procedures	contraindicated in	bleeding disorders
+rubber band ligation	is a	hemorrhoid procedure
+rubber band ligation	cuts off blood supply	hemorrhoid
+rubber band ligation	causes	hemorrhoid necrosis
+rubber band ligation	requires	proctoscope
+rubber band ligation	may cause	discomfort
+sclerotherapy	is a	hemorrhoid procedure
+sclerotherapy	involves	chemical injection
+sclerotherapy	causes	scar tissue formation
+sclerotherapy	reduces	blood flow
+hemorrhoidectomy	is a	surgical procedure
+hemorrhoidectomy	removes	hemorrhoidal tissue
+hemorrhoidectomy	requires	general anesthesia
+hemorrhoidectomy	has longer	recovery period
+hemorrhoidectomy	may cause	urinary retention
+hemorrhoidectomy	may require	hospital stay
+laser treatment	is a	hemorrhoid procedure
+laser treatment	uses	laser energy
+laser treatment	coagulates	blood vessels
+laser treatment	minimizes	bleeding
+infrared coagulation	is a	hemorrhoid procedure
+infrared coagulation	uses	infrared light
+infrared coagulation	causes	tissue coagulation
+infrared coagulation	treats	small hemorrhoids
+hemorrhoids	are	swollen veins
+hemorrhoids	occur in	anus
+hemorrhoids	occur in	rectum
+hemorrhoids	cause	pain
+hemorrhoids	cause	itching
+hemorrhoids	cause	bleeding
+hemorrhoids	classified by	severity grade
+grade 1 hemorrhoids	treated with	dietary changes
+grade 2 hemorrhoids	may require	procedures
+grade 3 hemorrhoids	require	procedures
+grade 4 hemorrhoids	require	surgical intervention
+hemorrhoids	associated with	constipation
+hemorrhoids	associated with	pregnancy
+hemorrhoids	associated with	obesity
+hemorrhoids	associated with	prolonged sitting
+hemorrhoids	diagnosed by	physical examination
+hemorrhoids	diagnosed by	digital rectal exam
+hemorrhoids	diagnosed by	anoscopy
+hemorrhoids	prevented by	high-fiber diet
+hemorrhoids	prevented by	hydration
+hemorrhoids	prevented by	regular exercise
+proctologist	specializes in	anal disorders
+proctologist	performs	anorectal procedures
+proctologist	treats	rectal bleeding
+local anesthesia	numbs	treatment area
+local anesthesia	used in	minor procedures
+general anesthesia	induces	unconsciousness
+general anesthesia	used in	major surgeries
+outpatient setting	allows	same-day discharge
+outpatient setting	reduces	healthcare costs
+postoperative pain	managed with	analgesics
+postoperative pain	affects	recovery
+infection risk	reduced by	antibiotics
+infection risk	increased by	poor hygiene
+bleeding risk	monitored post	procedure
+bleeding risk	higher in	anticoagulant users
+conservative treatment	includes	fiber supplements
+conservative treatment	includes	stool softeners
+conservative treatment	includes	sitz baths
+rubber band ligation	contraindicated in	anticoagulant use
+sclerotherapy	contraindicated in	allergy to sclerosant
+hemorrhoidectomy	has higher	success rate
+hemorrhoidectomy	has higher	complication risk
+laser treatment	offers	precise ablation
+laser treatment	reduces	tissue damage
+infrared coagulation	is	non-invasive
+infrared coagulation	has	minimal side effects
+hemorrhoid procedures	preceded by	bowel preparation
+bowel preparation	involves	fasting
+bowel preparation	involves	laxatives
+hemorrhoid procedures	followed by	wound care
+wound care	includes	keeping area clean
+wound care	includes	pain management
+hemorrhoid procedures	evaluated by	symptom relief
+symptom relief	indicates	successful treatment
+treatment failure	may require	repeat procedure
+hemorrhoid recurrence	prevented by	lifestyle changes
+lifestyle changes	include	healthy diet
+lifestyle changes	include	regular exercise
+lifestyle changes	include	avoiding straining

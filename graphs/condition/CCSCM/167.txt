@@ -1,0 +1,100 @@
+nonmalignant breast conditions	include	fibrocystic changes
+nonmalulent breast conditions	include	mastalgia
+nonmalignant breast conditions	include	fibroadenoma
+nonmalignant breast conditions	include	duct ectasia
+nonmalignant breast conditions	include	breast cysts
+fibrocystic changes	may cause	breast pain
+fibrocystic changes	may cause	lumpiness
+fibroadenoma	is a	benign tumor
+fibroadenoma	commonly occurs in	young women
+mastalgia	refers to	breast pain
+mastalgia	may be	cyclical
+mastalgia	may be	noncyclical
+duct ectasia	involves	mammary ducts
+duct ectasia	may cause	nipple discharge
+breast cysts	contain	fluid
+breast cysts	may require	aspiration
+mammography	detects	nonmalignant breast conditions
+ultrasound	evaluates	breast cysts
+biopsy	confirms	fibroadenoma
+pain relievers	treat	mastalgia
+oral contraceptives	may alleviate	fibrocystic changes
+caffeine reduction	may help	fibrocystic changes
+evening primrose oil	may relieve	mastalgia
+surgery	may remove	large fibroadenomas
+core needle biopsy	diagnoses	nonmalignant breast conditions
+fine needle aspiration	drains	breast cysts
+hormonal fluctuations	influence	fibrocystic changes
+estrogen	affects	nonmalignant breast conditions
+progesterone	affects	nonmalignant breast conditions
+breast self-examination	detects	changes
+clinical breast exam	monitors	nonmalignant breast conditions
+magnetic resonance imaging	evaluates	complex cases
+digital mammography	examines	dense breast tissue
+galactography	visualizes	ductal system
+antibiotics	treat	mammary duct infection
+warm compresses	relieve	mastitis symptoms
+intraductal papilloma	is a	benign growth
+intraductal papilloma	may cause	bloody discharge
+fat necrosis	results from	trauma
+fat necrosis	mimics	malignancy
+radial scar	resembles	cancer
+radial scar	requires	excision
+sclerosing adenosis	involves	glandular tissue
+sclerosing adenosis	may cause	calcifications
+hormone therapy	influences	breast conditions
+selective estrogen receptor modulators	prevent	progression
+tamoxifen	reduces	fibrocystic changes
+raloxifene	decreases	breast density
+breast reduction	alleviates	symptoms
+liposuction	removes	fat necrosis
+genetic testing	assesses	risk factors
+BRCA mutations	increase	cancer worry
+family history	affects	monitoring frequency
+obesity	correlates with	breast pain
+smoking	worsens	duct ectasia
+alcohol consumption	exacerbates	symptoms
+vitamin E	may reduce	mastalgia
+omega-3 fatty acids	may help	inflammation
+acupuncture	relieves	breast pain
+physical activity	decreases	symptoms
+well-fitting bras	support	painful breasts
+stress management	improves	mastalgia
+thyroid disorders	associate with	breast changes
+prolactin levels	affect	lactation-related conditions
+pregnancy	influences	fibroadenoma growth
+menopause	changes	breast tissue
+hormone replacement therapy	impacts	breast density
+breastfeeding	reduces	some benign conditions
+mastitis	requires	antibiotic treatment
+abscess	may complicate	mastitis
+incision and drainage	treats	abscess
+probiotics	prevent	recurrent mastitis
+breast shields	protect	during breastfeeding
+nipple cream	soothes	irritation
+ultrasound-guided biopsy	targets	suspicious areas
+vacuum-assisted biopsy	removes	lesions
+stereotactic biopsy	samples	microcalcifications
+pathology report	confirms	diagnosis
+second opinion	verifies	complex cases
+follow-up imaging	monitors	stability
+short-term follow-up	assesses	probably benign findings
+long-term surveillance	tracks	high-risk patients
+risk assessment models	predict	cancer development
+Gail model	estimates	breast cancer risk
+Claus model	calculates	genetic risk
+benign breast disease	increases	cancer risk
+atypical hyperplasia	elevates	risk significantly
+lobular carcinoma in situ	requires	close monitoring
+risk-reducing medications	prevent	cancer
+prophylactic mastectomy	eliminates	high risk
+breast reconstruction	follows	prophylactic surgery
+psychological support	helps	anxious patients
+support groups	assist	coping
+patient education	improves	self-care
+clinical trials	investigate	new treatments
+researchers	study	benign condition origins
+scientists	explore	prevention strategies
+public health campaigns	promote	breast awareness
+awareness month	increases	education
+early detection	improves	outcomes

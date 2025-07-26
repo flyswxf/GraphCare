@@ -1,0 +1,100 @@
+benign prostatic hypertrophy	treated with	alpha-blockers
+alpha-blockers	include	tamsulosin
+alpha-blockers	include	alfuzosin
+alpha-blockers	include	doxazosin
+alpha-blockers	mechanism	relaxes prostate smooth muscle
+tamsulosin	is a	selective alpha-1 blocker
+alfuzosin	is a	selective alpha-1 blocker
+doxazosin	is a	non-selective alpha-1 blocker
+alpha-blockers	side effects	hypotension
+alpha-blockers	side effects	dizziness
+alpha-blockers	side effects	retrograde ejaculation
+benign prostatic hypertrophy	treated with	5-alpha reductase inhibitors
+5-alpha reductase inhibitors	include	finasteride
+5-alpha reductase inhibitors	include	dutasteride
+finasteride	mechanism	inhibits DHT production
+dutasteride	mechanism	inhibits DHT production
+5-alpha reductase inhibitors	side effects	erectile dysfunction
+5-alpha reductase inhibitors	side effects	decreased libido
+5-alpha reductase inhibitors	side effects	gynecomastia
+5-alpha reductase inhibitors	reduce	prostate size
+benign prostatic hypertrophy	treated with	PDE5 inhibitors
+PDE5 inhibitors	include	tadalafil
+tadalafil	approved for	BPH
+tadalafil	mechanism	increases blood flow
+PDE5 inhibitors	side effects	headache
+PDE5 inhibitors	side effects	flushing
+PDE5 inhibitors	side effects	dyspepsia
+benign prostatic hypertrophy	treated with	anticholinergics
+anticholinergics	include	oxybutynin
+anticholinergics	mechanism	reduces bladder spasms
+anticholinergics	side effects	dry mouth
+anticholinergics	side effects	constipation
+anticholinergics	side effects	urinary retention
+benign prostatic hypertrophy	treated with	combination therapy
+combination therapy	includes	alpha-blockers + 5-alpha reductase inhibitors
+combination therapy	more effective	than monotherapy
+monotherapy	refers to	single drug treatment
+benign prostatic hypertrophy	symptom	nocturia
+nocturia	can be managed	with desmopressin
+desmopressin	is a	vasopressin analog
+desmopressin	reduces	nighttime urination
+benign prostatic hypertrophy	complication	acute urinary retention
+acute urinary retention	treated with	catheterization
+catheterization	can be	temporary or permanent
+acute urinary retention	risk factor	older age
+older age	increases risk	BPH progression
+BPH progression	leads to	surgery
+surgery	includes	TURP
+TURP	stands for	transurethral resection of prostate
+TURP	is a	gold standard surgery
+TURP	complications	bleeding
+TURP	complications	urinary incontinence
+TURP	complications	retrograde ejaculation
+benign prostatic hypertrophy	alternative surgery	laser therapy
+laser therapy	includes	HoLEP
+HoLEP	stands for	holmium laser enucleation of prostate
+HoLEP	advantages	less bleeding
+HoLEP	advantages	shorter recovery
+benign prostatic hypertrophy	alternative surgery	UroLift
+UroLift	mechanism	lifts prostate lobes
+UroLift	preserves	ejaculatory function
+UroLift	disadvantage	not for large prostates
+benign prostatic hypertrophy	risk factor	family history
+family history	increases likelihood	BPH development
+benign prostatic hypertrophy	risk factor	obesity
+obesity	linked to	hormonal changes
+hormonal changes	involve	estrogen-testosterone ratio
+estrogen-testosterone ratio	affects	prostate growth
+benign prostatic hypertrophy	risk factor	diabetes
+diabetes	associated with	metabolic syndrome
+metabolic syndrome	increases inflammation	prostate
+inflammation	contributes to	BPH progression
+benign prostatic hypertrophy	diagnostic test	PSA
+PSA	stands for	prostate-specific antigen
+PSA	elevated in	BPH and prostate cancer
+prostate cancer	must be ruled out	before BPH treatment
+prostate cancer	diagnosed via	biopsy
+biopsy	involves	tissue sampling
+tissue sampling	analyzed by	pathologist
+pathologist	determines	malignancy
+malignancy	requires	oncology referral
+oncology referral	leads to	treatment planning
+treatment planning	may include	radiation therapy
+radiation therapy	side effects	urinary irritation
+urinary irritation	managed with	symptom control
+symptom control	includes	pain medications
+pain medications	include	NSAIDs
+NSAIDs	examples	ibuprofen
+ibuprofen	side effects	gastrointestinal bleeding
+gastrointestinal bleeding	risk factor	peptic ulcer disease
+peptic ulcer disease	caused by	H. pylori
+H. pylori	treated with	antibiotics
+antibiotics	include	amoxicillin
+amoxicillin	side effects	allergic reactions
+allergic reactions	can cause	anaphylaxis
+anaphylaxis	treated with	epinephrine
+epinephrine	mechanism	vasoconstriction
+vasoconstriction	increases	blood pressure
+blood pressure	monitored in	hypertensive patients
+hypertensive patients	may take	beta-blockers

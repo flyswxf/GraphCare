@@ -1,0 +1,100 @@
+repair of obstetric laceration	is a	surgical procedure
+repair of obstetric laceration	treats	perineal tear
+perineal tear	caused by	childbirth
+childbirth	associated with	episiotomy
+episiotomy	increases risk of	severe laceration
+severe laceration	requires	suture repair
+suture repair	uses	absorbable sutures
+absorbable sutures	reduce need for	removal procedure
+removal procedure	prevents	infection
+infection	treated with	antibiotics
+repair of obstetric laceration	performed by	obstetrician
+obstetrician	monitors	postpartum recovery
+postpartum recovery	involves	pain management
+pain management	includes	NSAIDs
+NSAIDs	contraindicated for	breastfeeding mothers
+breastfeeding mothers	need	alternative analgesics
+alternative analgesics	include	acetaminophen
+acetaminophen	has risk of	liver damage
+liver damage	screened by	liver function tests
+liver function tests	detect	elevated enzymes
+obstetric laceration	classified by	degree
+fourth-degree tear	involves	anal sphincter
+anal sphincter injury	leads to	fecal incontinence
+fecal incontinence	assessed by	endoanal ultrasound
+endoanal ultrasound	evaluates	sphincter defects
+sphincter defects	repaired by	overlapping technique
+overlapping technique	improves	continence outcomes
+continence outcomes	measured by	Wexner score
+Wexner score	predicts	quality of life
+quality of life	impacts	postpartum depression
+repair timing	affects	healing process
+immediate repair	prevents	excessive bleeding
+excessive bleeding	causes	anemia
+anemia	treated with	iron supplementation
+iron supplementation	causes	constipation
+constipation	worsens	perineal pain
+perineal pain	managed with	sitz baths
+sitz baths	promote	wound healing
+wound healing	delayed by	infection
+infection	prevented by	perineal hygiene
+obstetric laceration	associated with	instrumental delivery
+forceps delivery	increases risk of	severe tears
+severe tears	require	operative repair
+operative repair	performed under	regional anesthesia
+regional anesthesia	includes	spinal block
+spinal block	may cause	post-dural headache
+post-dural headache	treated with	blood patch
+blood patch	requires	specialized equipment
+specialized equipment	available in	tertiary hospitals
+tertiary hospitals	have	urogynecology specialists
+prolonged second stage	risk factor for	lacerations
+nulliparity	increases risk of	prolonged labor
+prolonged labor	leads to	fetal distress
+fetal distress	indicated by	abnormal CTG
+abnormal CTG	necessitates	emergency delivery
+emergency delivery	increases risk of	trauma
+birth trauma	includes	nerve damage
+nerve damage	causes	perineal numbness
+perineal numbness	affects	sexual function
+sexual function	recovers within	6 months
+repair complications	include	dehiscence
+dehiscence	requires	reoperation
+reoperation	increases risk of	scarring
+scarring	causes	dyspareunia
+dyspareunia	treated with	pelvic floor therapy
+pelvic floor therapy	improves	muscle tone
+muscle tone	prevents	prolapse
+prolapse	indicated by	bulge sensation
+bulge sensation	evaluated by	POP-Q exam
+POP-Q exam	quantifies	descent severity
+maternal age >35	risk factor for	lacerations
+macrosomia	causes	tissue overstretching
+tissue overstretching	results in	deep tears
+deep tears	involve	levator ani
+levator ani injury	leads to	pelvic instability
+pelvic instability	causes	chronic pain
+chronic pain	managed with	multidisciplinary approach
+multidisciplinary approach	includes	physiotherapy
+physiotherapy	teaches	proper lifting techniques
+proper lifting techniques	prevent	re-injury
+Asian ethnicity	higher risk of	severe tears
+genetic factors	influence	collagen quality
+collagen quality	affects	tissue elasticity
+tissue elasticity	reduced in	smokers
+smoking	delays	wound healing
+wound healing	monitored through	REEDA scale
+REEDA scale	assesses	redness
+redness	indicates	inflammation
+inflammation	controlled with	corticosteroids
+corticosteroids	suppress	immune response
+antenatal perineal massage	prevents	severe tears
+warm compresses	reduce	tear severity
+upright positioning	decreases	perineal trauma
+perineal trauma	measured by	tear classification
+midline episiotomy	increases	extension risk
+mediolateral episiotomy	protects	anal sphincter
+suture material choice	affects	tissue reaction
+delayed absorbable sutures	reduce	dehiscence rates
+antibiotic prophylaxis	prevents	surgical site infection
+follow-up schedule	ensures	proper healing

@@ -1,0 +1,101 @@
+maintenance chemotherapy	is a type of	chemotherapy
+radiotherapy	is a type of	cancer treatment
+maintenance chemotherapy	aims to prevent	cancer recurrence
+radiotherapy	uses	ionizing radiation
+maintenance chemotherapy	is used after	initial therapy
+radiotherapy	targets	tumor cells
+maintenance chemotherapy	may include	oral drugs
+radiotherapy	can cause	skin reactions
+maintenance chemotherapy	prolongs	remission period
+radiotherapy	requires	treatment planning
+maintenance chemotherapy	reduces	tumor burden
+radiotherapy	damages	DNA
+maintenance chemotherapy	has lower	toxicity
+radiotherapy	is delivered in	fractions
+maintenance chemotherapy	improves	survival rates
+radiotherapy	requires	immobilization devices
+maintenance chemotherapy	follows	induction chemotherapy
+radiotherapy	uses	linear accelerators
+maintenance chemotherapy	maintains	therapeutic effect
+radiotherapy	causes	localized side effects
+maintenance chemotherapy	delays	disease progression
+radiotherapy	requires	dosimetry calculations
+maintenance chemotherapy	is used for	hematologic malignancies
+radiotherapy	can be	palliative
+maintenance chemotherapy	suppresses	residual disease
+radiotherapy	induces	cellular apoptosis
+maintenance chemotherapy	requires	regular monitoring
+radiotherapy	has	dose constraints
+maintenance chemotherapy	may cause	myelosuppression
+radiotherapy	uses	CT simulation
+maintenance chemotherapy	is administered	long-term
+radiotherapy	requires	quality assurance
+maintenance chemotherapy	preserves	quality of life
+radiotherapy	affects	dividing cells
+maintenance chemotherapy	prevents	metastatic spread
+radiotherapy	may cause	fatigue
+maintenance chemotherapy	is tailored to	patient tolerance
+radiotherapy	requires	image guidance
+maintenance chemotherapy	balances	efficacy and toxicity
+radiotherapy	can damage	healthy tissues
+maintenance chemotherapy	reduces	treatment resistance
+radiotherapy	uses	brachytherapy
+maintenance chemotherapy	requires	blood tests
+radiotherapy	delivers	precise doses
+maintenance chemotherapy	follows	consolidation therapy
+radiotherapy	requires	radiation oncologist
+maintenance chemotherapy	may include	targeted therapy
+radiotherapy	uses	photon beams
+maintenance chemotherapy	prevents	clonal evolution
+radiotherapy	may cause	mucositis
+maintenance chemotherapy	is used for	leukemia
+radiotherapy	treats	solid tumors
+maintenance chemotherapy	modulates	immune system
+radiotherapy	requires	treatment verification
+maintenance chemotherapy	maintains	drug sensitivity
+radiotherapy	uses	electron beams
+maintenance chemotherapy	may cause	neuropathy
+radiotherapy	requires	shielding
+maintenance chemotherapy	follows	surgical resection
+radiotherapy	can be	adjuvant
+maintenance chemotherapy	suppresses	minimal residual disease
+radiotherapy	induces	DNA strand breaks
+maintenance chemotherapy	requires	patient adherence
+radiotherapy	uses	proton therapy
+maintenance chemotherapy	is used for	lymphoma
+radiotherapy	requires	immobilization masks
+maintenance chemotherapy	prevents	drug resistance
+radiotherapy	causes	acute effects
+maintenance chemotherapy	is guided by	biomarkers
+radiotherapy	uses	stereotactic techniques
+maintenance chemotherapy	requires	frequent follow-ups
+radiotherapy	may cause	xerostomia
+maintenance chemotherapy	follows	high-dose therapy
+radiotherapy	treats	head and neck cancers
+maintenance chemotherapy	preserves	organ function
+radiotherapy	requires	dose painting
+maintenance chemotherapy	may include	immunotherapy
+radiotherapy	uses	IMRT
+maintenance chemotherapy	prevents	secondary mutations
+radiotherapy	may cause	cognitive changes
+maintenance chemotherapy	is used for	multiple myeloma
+radiotherapy	treats	breast cancer
+maintenance chemotherapy	modulates	tumor microenvironment
+radiotherapy	requires	respiratory gating
+maintenance chemotherapy	maintains	therapeutic window
+radiotherapy	uses	SBRT
+maintenance chemotherapy	may cause	gastrointestinal issues
+radiotherapy	requires	patient positioning
+maintenance chemotherapy	follows	autologous transplant
+radiotherapy	treats	prostate cancer
+maintenance chemotherapy	prevents	angiogenesis
+radiotherapy	uses	VMAT
+maintenance chemotherapy	requires	toxicity management
+radiotherapy	may cause	lymphedema
+maintenance chemotherapy	is used for	ovarian cancer
+radiotherapy	treats	lung cancer
+maintenance chemotherapy	preserves	hematopoietic function
+radiotherapy	requires	image fusion
+maintenance chemotherapy	balances	treatment intensity
+radiotherapy	uses	deep inspiration breath hold
+ENTITY	RELATIONSHIP	ENTITY

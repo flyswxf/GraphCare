@@ -1,0 +1,100 @@
+cancer of other male genital organs	is a type of	male genital cancer
+cancer of other male genital organs	affects	male reproductive system
+cancer of other male genital organs	may include	penile cancer
+cancer of other male genital organs	may include	scrotal cancer
+cancer of other male genital organs	may include	testicular cancer
+cancer of other male genital organs	may include	epididymal cancer
+cancer of other male genital organs	may include	spermatic cord cancer
+cancer of other male genital organs	requires	biopsy
+cancer of other male genital organs	diagnosed via	imaging
+cancer of other male genital organs	treated with	surgery
+cancer of other male genital organs	treated with	radiation therapy
+cancer of other male genital organs	treated with	chemotherapy
+cancer of other male genital organs	treated with	immunotherapy
+cancer of other male genital organs	may cause	pain
+cancer of other male genital organs	may cause	swelling
+cancer of other male genital organs	may cause	urinary symptoms
+cancer of other male genital organs	may cause	sexual dysfunction
+cancer of other male genital organs	risk factor	HPV infection
+cancer of other male genital organs	risk factor	smoking
+cancer of other male genital organs	risk factor	age
+cancer of other male genital organs	risk factor	family history
+cancer of other male genital organs	monitored via	tumor markers
+cancer of other male genital organs	associated with	lymph node metastasis
+cancer of other male genital organs	may lead to	metastasis
+cancer of other male genital organs	requires	staging
+cancer of other male genital organs	classified by	histology
+cancer of other male genital organs	may require	lymphadenectomy
+cancer of other male genital organs	may require	orchiectomy
+cancer of other male genital organs	may require	penectomy
+cancer of other male genital organs	affects	quality of life
+cancer of other male genital organs	may cause	infertility
+cancer of other male genital organs	may require	hormone therapy
+cancer of other male genital organs	may require	pain management
+cancer of other male genital organs	may require	psychological support
+cancer of other male genital organs	monitored via	follow-up exams
+cancer of other male genital organs	may recur	local recurrence
+cancer of other male genital organs	may recur	distant recurrence
+cancer of other male genital organs	prognosis depends on	stage
+cancer of other male genital organs	prognosis depends on	grade
+cancer of other male genital organs	prognosis depends on	treatment response
+cancer of other male genital organs	may complicate	lymphedema
+cancer of other male genital organs	may complicate	infection
+cancer of other male genital organs	may complicate	erectile dysfunction
+cancer of other male genital organs	prevention includes	HPV vaccination
+cancer of other male genital organs	prevention includes	safe sex
+cancer of other male genital organs	prevention includes	smoking cessation
+cancer of other male genital organs	screening includes	physical exam
+cancer of other male genital organs	screening includes	self-exam
+cancer of other male genital organs	early symptom	skin changes
+cancer of other male genital organs	early symptom	lumps
+cancer of other male genital organs	biomarker	alpha-fetoprotein
+cancer of other male genital organs	biomarker	beta-hCG
+cancer of other male genital organs	biomarker	LDH
+cancer of other male genital organs	imaging modality	ultrasound
+cancer of other male genital organs	imaging modality	CT scan
+cancer of other male genital organs	imaging modality	MRI
+cancer of other male genital organs	imaging modality	PET scan
+cancer of other male genital organs	surgical option	wide local excision
+cancer of other male genital organs	surgical option	Mohs surgery
+cancer of other male genital organs	chemotherapy drug	cisplatin
+cancer of other male genital organs	chemotherapy drug	bleomycin
+cancer of other male genital organs	chemotherapy drug	etoposide
+cancer of other male genital organs	radiation type	external beam
+cancer of other male genital organs	radiation type	brachytherapy
+cancer of other male genital organs	targeted therapy	VEGF inhibitors
+cancer of other male genital organs	targeted therapy	mTOR inhibitors
+cancer of other male genital organs	palliative care	pain control
+cancer of other male genital organs	palliative care	symptom management
+cancer of other male genital organs	rehabilitation	physical therapy
+cancer of other male genital organs	rehabilitation	sexual counseling
+cancer of other male genital organs	research area	molecular profiling
+cancer of other male genital organs	research area	immunotherapy trials
+cancer of other male genital organs	staging system	TNM classification
+cancer of other male genital organs	histological type	squamous cell carcinoma
+cancer of other male genital organs	histological type	adenocarcinoma
+cancer of other male genital organs	histological type	sarcoma
+cancer of other male genital organs	histological type	melanoma
+cancer of other male genital organs	histological type	basal cell carcinoma
+cancer of other male genital organs	rare subtype	Paget disease
+cancer of other male genital organs	rare subtype	Merkel cell carcinoma
+cancer of other male genital organs	diagnostic tool	immunohistochemistry
+cancer of other male genital organs	diagnostic tool	molecular testing
+cancer of other male genital organs	differential diagnosis	benign tumor
+cancer of other male genital organs	differential diagnosis	infection
+cancer of other male genital organs	differential diagnosis	trauma
+cancer of other male genital organs	emergency	paraneoplastic syndrome
+cancer of other male genital organs	emergency	spinal cord compression
+cancer of other male genital organs	complication	deep vein thrombosis
+cancer of other male genital organs	complication	pulmonary embolism
+cancer of other male genital organs	supportive care	nutrition counseling
+cancer of other male genital organs	supportive care	psychosocial support
+cancer of other male genital organs	survivorship	long-term monitoring
+cancer of other male genital organs	survivorship	secondary cancer screening
+cancer of other male genital organs	cost	treatment expenses
+cancer of other male genital organs	cost	lost productivity
+cancer of other male genital organs	epidemiology	incidence rate
+cancer of other male genital organs	epidemiology	mortality rate
+cancer of other male genital organs	epidemiology	risk factors
+cancer of other male genital organs	research	clinical trials
+cancer of other male genital organs	research	precision medicine

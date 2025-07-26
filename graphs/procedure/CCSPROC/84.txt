@@ -1,0 +1,100 @@
+cholecystectomy	is a	surgical procedure
+common duct exploration	is a	surgical procedure
+cholecystectomy	treats	gallstones
+common duct exploration	removes	bile duct stones
+cholecystectomy	involves	gallbladder removal
+common duct exploration	examines	common bile duct
+cholecystectomy	prevents	gallbladder inflammation
+common duct exploration	relieves	biliary obstruction
+cholecystectomy	requires	general anesthesia
+common duct exploration	uses	cholangiography
+cholecystectomy	has risk	bleeding
+common duct exploration	has risk	bile leak
+cholecystectomy	performed via	laparoscopy
+common duct exploration	performed via	open surgery
+cholecystectomy	alternative to	medication therapy
+common duct exploration	alternative to	ERCP
+cholecystectomy	follows	biliary colic
+common duct exploration	follows	abnormal liver tests
+cholecystectomy	prevents	cholecystitis
+common duct exploration	prevents	cholangitis
+cholecystectomy	contraindicated in	cirrhosis
+common duct exploration	contraindicated in	severe pancreatitis
+cholecystectomy	requires	preoperative imaging
+common duct exploration	requires	intraoperative ultrasound
+cholecystectomy	complication	bile duct injury
+common duct exploration	complication	duodenal injury
+cholecystectomy	indication	biliary dyskinesia
+common duct exploration	indication	jaundice
+cholecystectomy	associated with	shorter hospital stay
+common duct exploration	associated with	longer recovery
+cholecystectomy	performed by	general surgeon
+common duct exploration	performed by	hepatobiliary surgeon
+cholecystectomy	preceded by	ultrasound
+common duct exploration	preceded by	MRCP
+cholecystectomy	followed by	liquid diet
+common duct exploration	followed by	T-tube drainage
+cholecystectomy	affects	fat digestion
+common duct exploration	affects	bilirubin levels
+cholecystectomy	contraindicated in	pregnancy
+common duct exploration	contraindicated in	bleeding disorders
+cholecystectomy	uses	trocars
+common duct exploration	uses	biliary stents
+cholecystectomy	monitors	vital signs
+common duct exploration	monitors	bile output
+cholecystectomy	prevents	gallbladder cancer
+common duct exploration	prevents	secondary biliary cirrhosis
+cholecystectomy	requires	postoperative analgesia
+common duct exploration	requires	antibiotic prophylaxis
+cholecystectomy	alternative	percutaneous cholecystostomy
+common duct exploration	alternative	endoscopic sphincterotomy
+cholecystectomy	complication	wound infection
+common duct exploration	complication	retained stones
+cholecystectomy	indication	porcelain gallbladder
+common duct exploration	indication	dilated bile ducts
+cholecystectomy	duration	1-2 hours
+common duct exploration	duration	2-4 hours
+cholecystectomy	requires	fasting
+common duct exploration	requires	bowel preparation
+cholecystectomy	contraindicated in	morbid obesity
+common duct exploration	contraindicated in	bile duct strictures
+cholecystectomy	uses	electrocautery
+common duct exploration	uses	stone retrieval basket
+cholecystectomy	follows	HIDA scan
+common duct exploration	follows	failed ERCP
+cholecystectomy	prevents	recurrent pancreatitis
+common duct exploration	prevents	liver abscess
+cholecystectomy	requires	DVT prophylaxis
+common duct exploration	requires	nasogastric tube
+cholecystectomy	alternative	ursodeoxycholic acid
+common duct exploration	alternative	lithotripsy
+cholecystectomy	complication	shoulder pain
+common duct exploration	complication	pancreatitis
+cholecystectomy	indication	gangrenous gallbladder
+common duct exploration	indication	choledocholithiasis
+cholecystectomy	performed with	intraoperative cholangiogram
+common duct exploration	performed with	fluoroscopy
+cholecystectomy	affects	bowel movements
+common duct exploration	affects	liver enzymes
+cholecystectomy	contraindicated in	severe cardiorespiratory disease
+common duct exploration	contraindicated in	biliary-enteric anastomosis
+cholecystectomy	uses	clip applier
+common duct exploration	uses	Fogarty catheter
+cholecystectomy	monitors	urine output
+common duct exploration	monitors	amylase levels
+cholecystectomy	prevents	gallstone ileus
+common duct exploration	prevents	ascending cholangitis
+cholecystectomy	requires	deep breathing exercises
+common duct exploration	requires	bile culture
+cholecystectomy	alternative	symptomatic management
+common duct exploration	alternative	percutaneous transhepatic cholangiography
+cholecystectomy	complication	incisional hernia
+common duct exploration	complication	duodenal perforation
+cholecystectomy	indication	symptomatic cholelithiasis
+common duct exploration	indication	biliary stricture
+cholecystectomy	duration	outpatient procedure
+common duct exploration	duration	inpatient procedure
+cholecystectomy	requires	physical activity restriction
+common duct exploration	requires	biliary drainage
+cholecystectomy	contraindicated in	uncorrected coagulopathy
+common duct exploration	contraindicated in	Mirizzi syndrome

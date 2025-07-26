@@ -1,0 +1,104 @@
+diagnostic ultrasound	is a	imaging technique
+abdomen	is part of	body
+retroperitoneum	is part of	abdomen
+diagnostic ultrasound	uses	sound waves
+diagnostic ultrasound	is non-invasive	procedure
+diagnostic ultrasound	requires	transducer
+diagnostic ultrasound	produces	images
+liver	can be examined by	diagnostic ultrasound
+pancreas	can be examined by	diagnostic ultrasound
+kidneys	can be examined by	diagnostic ultrasound
+spleen	can be examined by	diagnostic ultrasound
+gallbladder	can be examined by	diagnostic ultrasound
+abdominal aorta	can be examined by	diagnostic ultrasound
+diagnostic ultrasound	can detect	tumors
+diagnostic ultrasound	can detect	cysts
+diagnostic ultrasound	can detect	stones
+diagnostic ultrasound	can detect	inflammation
+diagnostic ultrasound	can detect	fluid accumulation
+diagnostic ultrasound	can measure	organ size
+diagnostic ultrasound	can assess	blood flow
+doppler ultrasound	is a type of	diagnostic ultrasound
+doppler ultrasound	evaluates	vascular system
+abdominal ultrasound	is a type of	diagnostic ultrasound
+abdominal ultrasound	focuses on	abdomen
+retroperitoneal ultrasound	is a type of	diagnostic ultrasound
+retroperitoneal ultrasound	focuses on	retroperitoneum
+diagnostic ultrasound	requires	gel application
+diagnostic ultrasound	performed by	sonographer
+diagnostic ultrasound	interpreted by	radiologist
+diagnostic ultrasound	may require	fasting
+diagnostic ultrasound	may require	full bladder
+diagnostic ultrasound	contraindicated in	open wounds
+diagnostic ultrasound	safer than	CT scan
+diagnostic ultrasound	no radiation	exposure
+diagnostic ultrasound	first-line for	pregnancy
+diagnostic ultrasound	cheaper than	MRI
+diagnostic ultrasound	portable versions exist
+diagnostic ultrasound	used in	emergency rooms
+diagnostic ultrasound	monitors	fetal development
+diagnostic ultrasound	evaluates	liver cirrhosis
+diagnostic ultrasound	assesses	kidney stones
+diagnostic ultrasound	detects	gallstones
+diagnostic ultrasound	screens for	abdominal aneurysms
+diagnostic ultrasound	guides	biopsies
+diagnostic ultrasound	assists in	fluid drainage
+diagnostic ultrasound	differentiates	solid vs cystic masses
+diagnostic ultrasound	measures	prostate size
+diagnostic ultrasound	evaluates	testicular abnormalities
+diagnostic ultrasound	assesses	spleen enlargement
+diagnostic ultrasound	checks for	appendicitis
+diagnostic ultrasound	monitors	transplanted kidneys
+diagnostic ultrasound	tracks	tumor response
+diagnostic ultrasound	evaluates	portal hypertension
+diagnostic ultrasound	assesses	biliary obstruction
+diagnostic ultrasound	checks	pancreatic ducts
+diagnostic ultrasound	measures	bladder volume
+diagnostic ultrasound	detects	hydronephrosis
+diagnostic ultrasound	evaluates	varicoceles
+diagnostic ultrasound	screens for	abdominal trauma
+diagnostic ultrasound	checks	lymph node enlargement
+diagnostic ultrasound	monitors	ascites
+diagnostic ultrasound	evaluates	hernia
+diagnostic ultrasound	detects	intussusception
+diagnostic ultrasound	assesses	pyloric stenosis
+diagnostic ultrasound	checks for	ectopic pregnancy
+diagnostic ultrasound	evaluates	ovarian cysts
+diagnostic ultrasound	monitors	uterine fibroids
+diagnostic ultrasound	detects	testicular torsion
+diagnostic ultrasound	assesses	prostate cancer
+diagnostic ultrasound	checks	adrenal masses
+diagnostic ultrasound	evaluates	mesenteric ischemia
+diagnostic ultrasound	detects	abdominal abscess
+diagnostic ultrasound	monitors	dialysis patients
+diagnostic ultrasound	assesses	vascular stenosis
+diagnostic ultrasound	checks	vena cava
+diagnostic ultrasound	evaluates	Budd-Chiari syndrome
+diagnostic ultrasound	detects	renal artery stenosis
+diagnostic ultrasound	monitors	liver metastasis
+diagnostic ultrasound	assesses	pancreatic pseudocysts
+diagnostic ultrasound	checks	bile duct dilation
+diagnostic ultrasound	evaluates	splenic infarcts
+diagnostic ultrasound	detects	renal cysts
+diagnostic ultrasound	monitors	gallbladder polyps
+diagnostic ultrasound	assesses	hydatid cysts
+diagnostic ultrasound	checks	abdominal wall defects
+diagnostic ultrasound	evaluates	scrotal swellings
+diagnostic ultrasound	detects	retroperitoneal fibrosis
+diagnostic ultrasound	monitors	abdominal aortic stent
+diagnostic ultrasound	assesses	portosystemic shunt
+diagnostic ultrasound	checks	pancreatic calcifications
+diagnostic ultrasound	evaluates	hepatic steatosis
+diagnostic ultrasound	detects	perinephric fluid
+diagnostic ultrasound	monitors	biliary stent
+diagnostic ultrasound	assesses	testicular microlithiasis
+diagnostic ultrasound	checks	umbilical hernia
+diagnostic ultrasound	evaluates	hepatic hemangioma
+diagnostic ultrasound	detects	renal calculi
+diagnostic ultrasound	monitors	post-operative collections
+diagnostic ultrasound	assesses	prosthetic valve
+diagnostic ultrasound	checks	splenic trauma
+diagnostic ultrasound	evaluates	pelvic congestion
+diagnostic ultrasound	detects	biliary sludge
+diagnostic ultrasound	monitors	abdominal sepsis
+diagnostic ultrasound	assesses	retroperitoneal lymph nodes

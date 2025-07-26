@@ -1,0 +1,100 @@
+conversion of cardiac rhythm	is a	medical procedure
+conversion of cardiac rhythm	treats	arrhythmia
+cardioversion	is a type of	conversion of cardiac rhythm
+electrical cardioversion	uses	defibrillator
+chemical cardioversion	uses	antiarrhythmic drugs
+atrial fibrillation	requires	conversion of cardiac rhythm
+ventricular tachycardia	requires	conversion of cardiac rhythm
+cardioversion	restores	sinus rhythm
+defibrillator	delivers	electric shock
+electrical cardioversion	requires	anesthesia
+amiodarone	used in	chemical cardioversion
+flecainide	used in	chemical cardioversion
+propafenone	used in	chemical cardioversion
+cardioversion	prevents	stroke
+cardioversion	reduces	blood clot risk
+transesophageal echocardiography	precedes	cardioversion
+anticoagulation therapy	precedes	cardioversion
+warfarin	used for	anticoagulation therapy
+dabigatran	used for	anticoagulation therapy
+rivaroxaban	used for	anticoagulation therapy
+apixaban	used for	anticoagulation therapy
+cardioversion	has risk of	complications
+thromboembolism	is a risk of	cardioversion
+skin burns	is a risk of	electrical cardioversion
+anesthesia complications	is a risk of	electrical cardioversion
+proarrhythmia	is a risk of	chemical cardioversion
+QT prolongation	is a risk of	chemical cardioversion
+torsades de pointes	is a risk of	chemical cardioversion
+electrolyte imbalance	contraindicates	cardioversion
+digitalis toxicity	contraindicates	cardioversion
+hypokalemia	contraindicates	cardioversion
+hypomagnesemia	contraindicates	cardioversion
+cardioversion	requires	ECG monitoring
+electrocardiogram	diagnoses	arrhythmia
+Holter monitor	detects	arrhythmia
+event monitor	detects	arrhythmia
+implantable loop recorder	detects	arrhythmia
+cardioversion	performed by	cardiologist
+electrophysiologist	specializes in	cardioversion
+emergency department	performs	urgent cardioversion
+intensive care unit	performs	cardioversion
+operating room	performs	cardioversion
+synchronized shock	used in	electrical cardioversion
+unsynchronized shock	used in	defibrillation
+defibrillation	treats	ventricular fibrillation
+cardiopulmonary resuscitation	precedes	defibrillation
+advanced cardiac life support	includes	cardioversion
+basic life support	precedes	advanced cardiac life support
+automated external defibrillator	performs	defibrillation
+biphasic waveform	used in	modern defibrillators
+monophasic waveform	used in	older defibrillators
+joules	measures	defibrillation energy
+sedation	required for	electrical cardioversion
+propofol	used for	sedation
+midazolam	used for	sedation
+etomidate	used for	sedation
+ketamine	used for	sedation
+oxygen saturation	monitored during	cardioversion
+blood pressure	monitored during	cardioversion
+heart rate	monitored during	cardioversion
+capnography	used during	cardioversion
+pulse oximetry	used during	cardioversion
+cardioversion	requires	informed consent
+patient education	precedes	cardioversion
+success rate	measures	cardioversion effectiveness
+age	affects	cardioversion success
+arrhythmia duration	affects	cardioversion success
+left atrial size	affects	cardioversion success
+underlying heart disease	affects	cardioversion success
+hypertension	increases	arrhythmia risk
+coronary artery disease	increases	arrhythmia risk
+heart failure	increases	arrhythmia risk
+valvular heart disease	increases	arrhythmia risk
+cardiomyopathy	increases	arrhythmia risk
+thyroid dysfunction	causes	arrhythmia
+electrolyte abnormalities	cause	arrhythmia
+alcohol	triggers	arrhythmia
+caffeine	triggers	arrhythmia
+stress	triggers	arrhythmia
+sleep apnea	associates with	arrhythmia
+obesity	associates with	arrhythmia
+diabetes mellitus	associates with	arrhythmia
+chronic kidney disease	associates with	arrhythmia
+pulmonary embolism	causes	arrhythmia
+myocardial infarction	causes	arrhythmia
+pericarditis	causes	arrhythmia
+myocarditis	causes	arrhythmia
+post-cardiac surgery	causes	arrhythmia
+congenital heart disease	causes	arrhythmia
+long QT syndrome	causes	arrhythmia
+Brugada syndrome	causes	arrhythmia
+Wolff-Parkinson-White syndrome	causes	arrhythmia
+sick sinus syndrome	causes	arrhythmia
+cardioversion	followed by	antiarrhythmic therapy
+beta blockers	prevent	arrhythmia recurrence
+calcium channel blockers	prevent	arrhythmia recurrence
+implantable cardioverter-defibrillator	prevents	sudden cardiac death
+pacemaker	treats	bradyarrhythmias
+catheter ablation	treats	recurrent arrhythmia
+lifestyle modifications	prevent	arrhythmia recurrence

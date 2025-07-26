@@ -1,0 +1,100 @@
+corticosteroids	have anti-inflammatory properties	immune system
+antiseptics	kill microorganisms	infections
+corticosteroids combinations with antiseptics	treat	skin conditions
+skin conditions	include	eczema
+eczema	characterized by	inflammation
+inflammation	reduced by	corticosteroids
+antiseptics	prevent	infection
+infection	caused by	bacteria
+bacteria	treated with	antiseptics
+corticosteroids	suppress	immune response
+immune response	causes	inflammation
+corticosteroids combinations with antiseptics	used for	wound care
+wound care	prevents	complications
+complications	include	sepsis
+sepsis	treated with	antibiotics
+antibiotics	differ from	antiseptics
+antiseptics	applied	topically
+topical application	avoids	systemic effects
+systemic effects	caused by	oral corticosteroids
+oral corticosteroids	stronger than	topical corticosteroids
+topical corticosteroids	classified by	potency
+potency	determines	treatment duration
+treatment duration	affects	skin atrophy
+skin atrophy	side effect of	corticosteroids
+corticosteroids combinations with antiseptics	contain	hydrocortisone
+hydrocortisone	is a	mild corticosteroid
+mild corticosteroids	suitable for	face
+face skin	more sensitive than	body skin
+body skin	treated with	stronger corticosteroids
+stronger corticosteroids	include	betamethasone
+betamethasone	treats	psoriasis
+psoriasis	is a	chronic skin condition
+chronic skin conditions	require	long-term management
+long-term management	avoids	flare-ups
+flare-ups	triggered by	stress
+stress	affects	immune system
+immune system	modulated by	corticosteroids
+corticosteroids combinations with antiseptics	prevent	secondary infections
+secondary infections	complicate	healing
+healing	promoted by	moist environment
+moist environment	maintained by	dressings
+dressings	changed regularly	hygiene
+hygiene	important for	wound care
+wound care	involves	cleaning
+cleaning	uses	antiseptics
+antiseptics	include	chlorhexidine
+chlorhexidine	effective against	gram-positive bacteria
+gram-positive bacteria	cause	skin infections
+skin infections	treated with	corticosteroids combinations with antiseptics
+corticosteroids combinations with antiseptics	available as	creams
+creams	easier to apply than	ointments
+ointments	more occlusive than	creams
+occlusive formulations	enhance	drug absorption
+drug absorption	affects	efficacy
+efficacy	determines	treatment success
+treatment success	measured by	symptom reduction
+symptom reduction	includes	itching relief
+itching	caused by	histamine
+histamine	released during	allergic reactions
+allergic reactions	suppressed by	corticosteroids
+corticosteroids combinations with antiseptics	contraindicated in	viral infections
+viral infections	include	herpes simplex
+herpes simplex	worsened by	corticosteroids
+corticosteroids	increase	viral replication
+viral replication	leads to	spread
+spread	prevented by	antivirals
+antivirals	differ from	antiseptics
+antiseptics	ineffective against	viruses
+viruses	require	specific treatments
+specific treatments	include	acyclovir
+acyclovir	treats	herpes simplex
+herpes simplex	manifests as	cold sores
+cold sores	located on	lips
+lips	sensitive to	strong corticosteroids
+strong corticosteroids	cause	thinning
+thinning	increases	fragility
+fragility	leads to	tearing
+tearing	results in	pain
+pain	managed with	analgesics
+analgesics	include	paracetamol
+paracetamol	reduces	fever
+fever	symptom of	infection
+infection	indication for	antiseptics
+antiseptics	combined with	corticosteroids
+corticosteroids combinations with antiseptics	prescribed by	dermatologists
+dermatologists	specialize in	skin diseases
+skin diseases	affect	quality of life
+quality of life	improved by	effective treatment
+effective treatment	requires	adherence
+adherence	influenced by	side effects
+side effects	include	burning sensation
+burning sensation	caused by	antiseptics
+antiseptics	contain	alcohol
+alcohol	causes	stinging
+stinging	discourages	use
+use	necessary for	efficacy
+efficacy	demonstrated in	clinical trials
+clinical trials	evaluate	safety
+safety	assessed by	regulatory agencies
+regulatory agencies	approve	corticosteroids combinations with antiseptics

@@ -1,0 +1,100 @@
+peritonitis	is a	inflammation
+intestinal abscess	is a	pus collection
+peritonitis	may cause	sepsis
+intestinal abscess	may cause	peritonitis
+peritonitis	is treated with	antibiotics
+intestinal abscess	is treated with	drainage
+peritonitis	has symptom	abdominal pain
+intestinal abscess	has symptom	fever
+peritonitis	requires	hospitalization
+intestinal abscess	requires	imaging
+peritonitis	can lead to	organ failure
+intestinal abscess	can lead to	perforation
+peritonitis	is diagnosed with	CT scan
+intestinal abscess	is diagnosed with	ultrasound
+peritonitis	associated with	appendicitis
+intestinal abscess	associated with	diverticulitis
+peritonitis	may require	surgery
+intestinal abscess	may require	laparotomy
+peritonitis	has risk factor	immunosuppression
+intestinal abscess	has risk factor	Crohn's disease
+peritonitis	causes	fluid accumulation
+intestinal abscess	causes	localized infection
+peritonitis	managed with	IV fluids
+intestinal abscess	managed with	antibiotics
+peritonitis	results from	bacterial infection
+intestinal abscess	results from	bacterial infection
+peritonitis	affects	peritoneal cavity
+intestinal abscess	affects	intestinal wall
+peritonitis	classified as	primary or secondary
+intestinal abscess	classified as	intra-abdominal
+peritonitis	monitored with	WBC count
+intestinal abscess	monitored with	CRP levels
+peritonitis	leads to	systemic response
+intestinal abscess	leads to	local inflammation
+peritonitis	treated by	general surgeon
+intestinal abscess	treated by	gastroenterologist
+peritonitis	prevented with	infection control
+intestinal abscess	prevented with	early treatment
+peritonitis	causes	hypotension
+intestinal abscess	causes	leukocytosis
+peritonitis	has complication	septic shock
+intestinal abscess	has complication	fistula
+peritonitis	seen in	ICU patients
+intestinal abscess	seen in	post-surgical patients
+peritonitis	related to	peritoneal dialysis
+intestinal abscess	related to	bowel obstruction
+peritonitis	exacerbated by	delayed treatment
+intestinal abscess	exacerbated by	antibiotic resistance
+peritonitis	involves	cytokine release
+intestinal abscess	involves	tissue necrosis
+peritonitis	may follow	trauma
+intestinal abscess	may follow	perforated ulcer
+peritonitis	indicated by	guarding
+intestinal abscess	indicated by	palpable mass
+peritonitis	assessed with	peritoneal lavage
+intestinal abscess	assessed with	MRI
+peritonitis	correlated with	high mortality
+intestinal abscess	correlated with	prolonged recovery
+peritonitis	treated with	broad-spectrum antibiotics
+intestinal abscess	treated with	percutaneous drainage
+peritonitis	results in	ileus
+intestinal abscess	results in	adhesions
+peritonitis	associated with	cirrhosis
+intestinal abscess	associated with	malignancy
+peritonitis	worsened by	comorbidities
+intestinal abscess	worsened by	diabetes
+peritonitis	involves	bacterial translocation
+intestinal abscess	involves	anaerobic bacteria
+peritonitis	linked to	SBP
+intestinal abscess	linked to	appendiceal abscess
+peritonitis	requires	ICU admission
+intestinal abscess	requires	follow-up imaging
+peritonitis	has subtype	tertiary
+intestinal abscess	has subtype	pelvic
+peritonitis	diagnosed via	physical exam
+intestinal abscess	diagnosed via	blood cultures
+peritonitis	treated with	source control
+intestinal abscess	treated with	surgical resection
+peritonitis	prevented by	aseptic technique
+intestinal abscess	prevented by	prompt surgery
+peritonitis	causes	metabolic acidosis
+intestinal abscess	causes	anemia
+peritonitis	leads to	multi-organ dysfunction
+intestinal abscess	leads to	chronic pain
+peritonitis	managed by	critical care team
+intestinal abscess	managed by	infectious disease specialist
+peritonitis	related to	gut microbiome
+intestinal abscess	related to	foreign body
+peritonitis	indicated by	rebound tenderness
+intestinal abscess	indicated by	elevated ESR
+peritonitis	assessed with	lactate levels
+intestinal abscess	assessed with	PET scan
+peritonitis	correlated with	prolonged ICU stay
+intestinal abscess	correlated with	readmission
+peritonitis	treated with	vasopressors
+intestinal abscess	treated with	nutritional support
+peritonitis	results in	abdominal compartment syndrome
+intestinal abscess	results in	stricture formation
+peritonitis	associated with	pancreatitis
+intestinal abscess	associated with	IBD

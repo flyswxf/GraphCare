@@ -1,0 +1,100 @@
+upper GI therapeutic procedures	is a	medical procedure
+upper GI therapeutic procedures	treats	gastrointestinal disorders
+upper GI therapeutic procedures	includes	endoscopic mucosal resection
+upper GI therapeutic procedures	includes	esophageal dilation
+upper GI therapeutic procedures	includes	variceal banding
+upper GI therapeutic procedures	performed using	endoscope
+upper GI therapeutic procedures	requires	sedation
+upper GI therapeutic procedures	has risk	bleeding
+upper GI therapeutic procedures	has risk	perforation
+upper GI therapeutic procedures	followed by	recovery monitoring
+endoscopic mucosal resection	removes	precancerous lesions
+endoscopic mucosal resection	treats	early-stage cancer
+endoscopic mucosal resection	alternative to	surgery
+endoscopic mucosal resection	uses	electrosurgical knife
+endoscopic mucosal resection	requires	pathological examination
+esophageal dilation	treats	esophageal strictures
+esophageal dilation	uses	balloon or bougie
+esophageal dilation	relieves	dysphagia
+esophageal dilation	may cause	chest pain
+esophageal dilation	often requires	repeat procedures
+variceal banding	treats	esophageal varices
+variceal banding	prevents	variceal bleeding
+variceal banding	uses	elastic bands
+variceal banding	requires	follow-up endoscopy
+variceal banding	has complication	ulcer formation
+gastrointestinal disorders	include	GERD
+gastrointestinal disorders	include	peptic ulcers
+gastrointestinal disorders	include	achalasia
+GERD	treated with	proton pump inhibitors
+GERD	may lead to	Barrett's esophagus
+peptic ulcers	caused by	H. pylori
+peptic ulcers	treated with	antibiotics
+achalasia	treated with	pneumatic dilation
+achalasia	causes	esophageal dysmotility
+endoscope	enables	visualization
+endoscope	has part	camera
+endoscope	requires	sterilization
+sedation	uses	propofol
+sedation	monitored by	anesthesiologist
+bleeding	managed with	hemostatic clips
+perforation	requires	surgical repair
+precancerous lesions	include	dysplasia
+early-stage cancer	diagnosed via	biopsy
+electrosurgical knife	cuts	tissue
+pathological examination	determines	malignancy
+esophageal strictures	caused by	chronic inflammation
+dysphagia	symptom of	esophageal obstruction
+chest pain	evaluated with	EKG
+esophageal varices	complication of	portal hypertension
+variceal bleeding	emergency treated with	vasoconstrictors
+elastic bands	induce	thrombosis
+follow-up endoscopy	assesses	treatment efficacy
+ulcer formation	treated with	acid suppression
+Barrett's esophagus	monitored with	surveillance endoscopy
+H. pylori	detected via	urea breath test
+antibiotics	include	clarithromycin
+pneumatic dilation	uses	high-pressure balloon
+esophageal dysmotility	diagnosed via	manometry
+visualization	enhanced by	narrow-band imaging
+camera	transmits	real-time images
+sterilization	prevents	infection transmission
+propofol	administered by	IV
+anesthesiologist	monitors	vital signs
+hemostatic clips	achieve	mechanical hemostasis
+surgical repair	performed by	general surgeon
+dysplasia	graded as	low or high
+biopsy	provides	tissue sample
+tissue	examined by	pathologist
+malignancy	confirmed by	immunohistochemistry
+chronic inflammation	caused by	acid reflux
+esophageal obstruction	evaluated with	barium swallow
+EKG	rules out	cardiac cause
+portal hypertension	caused by	liver cirrhosis
+vasoconstrictors	include	octreotide
+thrombosis	leads to	variceal obliteration
+treatment efficacy	measured by	symptom resolution
+acid suppression	achieved with	H2 blockers
+surveillance endoscopy	detects	progression
+urea breath test	non-invasive	diagnostic tool
+clarithromycin	part of	triple therapy
+high-pressure balloon	stretches	lower esophageal sphincter
+manometry	measures	esophageal pressure
+narrow-band imaging	enhances	vascular patterns
+real-time images	interpreted by	endoscopist
+infection transmission	prevented by	disinfection protocols
+IV	requires	venous access
+vital signs	include	oxygen saturation
+mechanical hemostasis	stops	active bleeding
+general surgeon	performs	laparotomy if needed
+low or high grade	determines	cancer risk
+tissue sample	processed in	histology lab
+pathologist	diagnoses	disease
+immunohistochemistry	identifies	cell markers
+acid reflux	aggravated by	fatty foods
+barium swallow	reveals	stricture location
+cardiac cause	excluded via	troponin levels
+liver cirrhosis	caused by	chronic hepatitis
+octreotide	reduces	splanchnic blood flow
+variceal obliteration	confirmed by	absence of varices
+symptom resolution	indicates	successful treatment

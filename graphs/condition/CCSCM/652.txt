@@ -1,0 +1,100 @@
+attention-deficit	is a	neurodevelopmental disorder
+attention-deficit	has symptom	hyperactivity
+attention-deficit	has symptom	inattention
+attention-deficit	has symptom	impulsivity
+attention-deficit	affects	children
+attention-deficit	affects	adults
+attention-deficit	is diagnosed with	DSM-5 criteria
+attention-deficit	is treated with	stimulants
+methylphenidate	is a	stimulant
+amphetamine	is a	stimulant
+attention-deficit	is treated with	non-stimulants
+atomoxetine	is a	non-stimulant
+attention-deficit	may cause	academic difficulties
+attention-deficit	may cause	social problems
+attention-deficit	may cause	occupational challenges
+attention-deficit	has comorbidity	anxiety
+attention-deficit	has comorbidity	depression
+attention-deficit	has comorbidity	learning disabilities
+attention-deficit	is managed with	behavioral therapy
+attention-deficit	is managed with	parent training
+attention-deficit	is managed with	classroom interventions
+attention-deficit	involves	dopamine dysfunction
+attention-deficit	involves	norepinephrine dysfunction
+prefrontal cortex	is affected by	attention-deficit
+basal ganglia	is affected by	attention-deficit
+attention-deficit	has genetic risk	DRD4 gene
+attention-deficit	has genetic risk	DAT1 gene
+attention-deficit	has environmental risk	prenatal smoking
+attention-deficit	has environmental risk	lead exposure
+attention-deficit	has prevalence	5% in children
+attention-deficit	has gender difference	male predominance
+attention-deficit	may persist into	adulthood
+attention-deficit	is assessed with	Conners scale
+attention-deficit	is assessed with	Vanderbilt scale
+attention-deficit	requires	multidisciplinary approach
+psychiatrist	diagnoses	attention-deficit
+psychologist	diagnoses	attention-deficit
+pediatrician	diagnoses	attention-deficit
+attention-deficit	may improve with	omega-3 supplementation
+attention-deficit	may improve with	exercise
+attention-deficit	may worsen with	sleep deprivation
+attention-deficit	may worsen with	excessive screen time
+attention-deficit	has subtype	inattentive type
+attention-deficit	has subtype	hyperactive-impulsive type
+attention-deficit	has subtype	combined type
+attention-deficit	is associated with	executive dysfunction
+attention-deficit	is associated with	working memory deficits
+attention-deficit	increases risk of	substance abuse
+attention-deficit	increases risk of	traffic accidents
+attention-deficit	increases risk of	obesity
+lisdexamfetamine	treats	attention-deficit
+dexmethylphenidate	treats	attention-deficit
+clonidine	treats	attention-deficit
+guanfacine	treats	attention-deficit
+attention-deficit	requires	individualized treatment
+attention-deficit	has biomarker	theta/beta ratio
+EEG	detects	attention-deficit biomarkers
+fMRI	studies	attention-deficit
+attention-deficit	shows	delayed cortical maturation
+attention-deficit	affects	academic performance
+attention-deficit	affects	peer relationships
+attention-deficit	affects	family dynamics
+attention-deficit	may lead to	school dropout
+attention-deficit	may lead to	unemployment
+attention-deficit	responds to	structured environments
+attention-deficit	benefits from	routine
+attention-deficit	benefits from	clear expectations
+teacher	implements	ADHD accommodations
+employer	provides	ADHD workplace adjustments
+attention-deficit	has alternative treatment	neurofeedback
+attention-deficit	has alternative treatment	mindfulness
+attention-deficit	has alternative treatment	cognitive training
+attention-deficit	is studied in	longitudinal research
+attention-deficit	has twin studies	high heritability
+attention-deficit	has brain differences	reduced volume
+cerebellum	is affected by	attention-deficit
+corpus callosum	is affected by	attention-deficit
+frontostriatal circuit	is impaired in	attention-deficit
+default mode network	is dysregulated in	attention-deficit
+stimulants	increase	dopamine levels
+stimulants	increase	norepinephrine levels
+non-stimulants	modulate	norepinephrine
+behavioral therapy	teaches	coping strategies
+behavioral therapy	improves	organizational skills
+parent training	reduces	family conflict
+school accommodations	include	extended time
+school accommodations	include	quiet testing
+workplace accommodations	include	flexible scheduling
+workplace accommodations	include	task reminders
+attention-deficit	has prognosis	variable outcomes
+early intervention	improves	attention-deficit outcomes
+comprehensive treatment	combines	medication and therapy
+attention-deficit	has economic impact	healthcare costs
+attention-deficit	has economic impact	productivity losses
+attention-deficit	affects	quality of life
+attention-deficit	requires	ongoing monitoring
+medication	needs	dosage adjustments
+treatment	requires	periodic reevaluation
+attention-deficit	has research focus	personalized medicine
+attention-deficit	has research focus	neuroimaging advances

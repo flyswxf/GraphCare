@@ -1,0 +1,100 @@
+nervous system procedure	is a	medical procedure
+therapeutic nervous system procedure	is a type of	nervous system procedure
+nervous system procedure	treats	neurological disorder
+deep brain stimulation	is a type of	therapeutic nervous system procedure
+deep brain stimulation	treats	Parkinson's disease
+deep brain stimulation	involves	electrode implantation
+electrode implantation	requires	neurosurgery
+neurosurgery	performed by	neurosurgeon
+neurosurgeon	specializes in	nervous system
+nervous system	consists of	brain
+nervous system	consists of	spinal cord
+spinal cord stimulation	is a type of	therapeutic nervous system procedure
+spinal cord stimulation	treats	chronic pain
+chronic pain	can be caused by	nerve damage
+nerve damage	may require	nerve repair
+nerve repair	is a type of	therapeutic nervous system procedure
+nerve repair	involves	nerve grafting
+nerve grafting	uses	autograft
+autograft	comes from	patient's own tissue
+nerve decompression	is a type of	therapeutic nervous system procedure
+nerve decompression	treats	carpal tunnel syndrome
+carpal tunnel syndrome	involves	median nerve
+median nerve	is part of	peripheral nervous system
+peripheral nervous system	connects to	central nervous system
+central nervous system	includes	brain
+brain surgery	is a type of	nervous system procedure
+brain surgery	may involve	tumor removal
+tumor removal	requires	imaging guidance
+imaging guidance	uses	MRI
+MRI	provides	brain images
+brain images	help diagnose	neurological conditions
+neurological conditions	may require	medication
+medication	can be	anticonvulsants
+anticonvulsants	treat	epilepsy
+epilepsy	may require	vagus nerve stimulation
+vagus nerve stimulation	is a type of	therapeutic nervous system procedure
+vagus nerve stimulation	involves	device implantation
+device implantation	requires	surgical procedure
+surgical procedure	has risk of	infection
+infection	may require	antibiotics
+antibiotics	prescribed by	physician
+physician	may refer to	neurologist
+neurologist	specializes in	nervous system disorders
+nervous system disorders	include	multiple sclerosis
+multiple sclerosis	may require	plasma exchange
+plasma exchange	is a type of	therapeutic procedure
+plasma exchange	filters	blood
+blood	contains	antibodies
+antibodies	may attack	myelin sheath
+myelin sheath	protects	nerve fibers
+nerve fibers	transmit	nerve impulses
+nerve impulses	disrupted in	neuropathy
+neuropathy	treated with	physical therapy
+physical therapy	improves	nerve function
+nerve function	measured by	nerve conduction study
+nerve conduction study	is a type of	diagnostic procedure
+diagnostic procedure	precedes	treatment planning
+treatment planning	involves	multidisciplinary team
+multidisciplinary team	includes	neurosurgeon
+neurosurgeon	performs	stereotactic surgery
+stereotactic surgery	is a type of	nervous system procedure
+stereotactic surgery	uses	3D imaging
+3D imaging	allows for	precise targeting
+precise targeting	reduces	surgical complications
+surgical complications	may include	bleeding
+bleeding	controlled with	hemostasis
+hemostasis	achieved through	cauterization
+cauterization	uses	electrical current
+electrical current	affects	nerve tissue
+nerve tissue	can regenerate	slowly
+nerve regeneration	enhanced by	growth factors
+growth factors	administered via	injection
+injection	is a type of	medical procedure
+medical procedure	requires	informed consent
+informed consent	explains	procedure risks
+procedure risks	may include	nerve damage
+nerve damage	causes	paresthesia
+paresthesia	characterized by	tingling sensation
+tingling sensation	may indicate	nerve irritation
+nerve irritation	treated with	anti-inflammatory drugs
+anti-inflammatory drugs	reduce	swelling
+swelling	compresses	nerves
+nerve compression	treated with	decompression surgery
+decompression surgery	relieves	pressure
+pressure	causes	pain
+pain	managed with	pain medication
+pain medication	may be	opioids
+opioids	have risk of	addiction
+addiction	treated with	rehabilitation
+rehabilitation	includes	counseling
+counseling	helps with	mental health
+mental health	affected by	chronic pain
+chronic pain	treated with	neuromodulation
+neuromodulation	is a type of	therapeutic nervous system procedure
+neuromodulation	alters	nerve activity
+nerve activity	measured by	EEG
+EEG	detects	brain waves
+brain waves	indicate	neurological function
+neurological function	impaired in	stroke
+stroke	treated with	emergency intervention

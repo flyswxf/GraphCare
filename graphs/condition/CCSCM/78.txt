@@ -1,0 +1,100 @@
+other CNS infection	includes	poliomyelitis
+poliomyelitis	is a	viral infection
+poliomyelitis	affects	spinal cord
+poliomyelitis	may cause	paralysis
+poliomyelitis	is caused by	poliovirus
+poliovirus	is transmitted via	fecal-oral route
+poliomyelitis	has symptom	muscle weakness
+poliomyelitis	can lead to	respiratory failure
+poliomyelitis	is prevented by	vaccination
+IPV	is a vaccine for	poliomyelitis
+OPV	is a vaccine for	poliomyelitis
+poliomyelitis	has complication	post-polio syndrome
+other CNS infection	includes	meningitis
+meningitis	is an	inflammation
+meningitis	affects	meninges
+meningitis	is caused by	bacteria
+meningitis	is caused by	viruses
+bacterial meningitis	is treated with	antibiotics
+viral meningitis	is treated with	supportive care
+meningitis	has symptom	headache
+meningitis	has symptom	fever
+meningitis	can cause	seizures
+meningitis	may lead to	hearing loss
+lumbar puncture	diagnoses	meningitis
+CSF analysis	confirms	meningitis
+other CNS infection	includes	encephalitis
+encephalitis	is an	inflammation
+encephalitis	affects	brain
+encephalitis	is caused by	herpes simplex virus
+encephalitis	has symptom	confusion
+encephalitis	has symptom	seizures
+encephalitis	can cause	coma
+encephalitis	is treated with	antivirals
+acyclovir	treats	encephalitis
+MRI	diagnoses	encephalitis
+other CNS infection	includes	brain abscess
+brain abscess	is a	pus collection
+brain abscess	is caused by	bacteria
+brain abscess	is caused by	fungi
+brain abscess	has symptom	focal deficits
+brain abscess	is treated with	drainage
+brain abscess	is treated with	antibiotics
+CT scan	diagnoses	brain abscess
+other CNS infection	includes	myelitis
+myelitis	is an	inflammation
+myelitis	affects	spinal cord
+myelitis	has symptom	sensory loss
+myelitis	has symptom	bladder dysfunction
+myelitis	is treated with	corticosteroids
+myelitis	may follow	viral infection
+other CNS infection	includes	neurosyphilis
+neurosyphilis	is a	late complication
+neurosyphilis	is caused by	Treponema pallidum
+neurosyphilis	has symptom	dementia
+neurosyphilis	is treated with	penicillin
+VDRL test	diagnoses	neurosyphilis
+other CNS infection	includes	rabies
+rabies	is a	viral infection
+rabies	affects	brain
+rabies	is transmitted by	animal bite
+rabies	has symptom	hydrophobia
+rabies	is fatal if untreated
+rabies vaccine	prevents	rabies
+other CNS infection	includes	tetanus
+tetanus	is a	bacterial infection
+tetanus	is caused by	Clostridium tetani
+tetanus	has symptom	muscle spasms
+tetanus	is prevented by	vaccination
+DTaP vaccine	prevents	tetanus
+tetanus	is treated with	antitoxin
+other CNS infection	includes	prion disease
+Creutzfeldt-Jakob disease	is a	prion disease
+prion disease	causes	neurodegeneration
+prion disease	has symptom	rapid dementia
+prion disease	has no cure
+other CNS infection	includes	Zika infection
+Zika virus	causes	microcephaly
+Zika virus	is transmitted by	mosquitoes
+Zika infection	has symptom	rash
+other CNS infection	includes	Lyme disease
+Lyme disease	is caused by	Borrelia burgdorferi
+Lyme disease	can cause	facial palsy
+Lyme disease	is treated with	doxycycline
+other CNS infection	includes	tuberculous meningitis
+tuberculous meningitis	is caused by	Mycobacterium tuberculosis
+tuberculous meningitis	is treated with	rifampin
+tuberculous meningitis	requires	long-term therapy
+other CNS infection	includes	fungal meningitis
+cryptococcal meningitis	is a	fungal meningitis
+cryptococcal meningitis	is treated with	amphotericin B
+HIV	increases risk of	cryptococcal meningitis
+other CNS infection	includes	viral encephalomyelitis
+West Nile virus	causes	viral encephalomyelitis
+West Nile virus	is transmitted by	mosquitoes
+other CNS infection	includes	progressive multifocal leukoencephalopathy
+PML	is caused by	JC virus
+PML	occurs in	immunosuppressed patients
+natalizumab	increases risk of	PML
+other CNS infection	includes	subacute sclerosing panencephalitis
+SSPE	is a complication of	measles

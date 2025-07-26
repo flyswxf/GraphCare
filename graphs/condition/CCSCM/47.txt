@@ -1,0 +1,100 @@
+other and unspecified benign neoplasm	is a	neoplasm
+other and unspecified benign neoplasm	is classified as	benign tumor
+other and unspecified benign neoplasm	has characteristic	slow growth
+other and unspecified benign neoplasm	does not	metastasize
+other and unspecified benign neoplasm	may occur in	any organ
+other and unspecified benign neoplasm	may compress	surrounding tissue
+other and unspecified benign neoplasm	may require	biopsy
+other and unspecified benign neoplasm	is diagnosed via	imaging
+other and unspecified benign neoplasm	may be monitored with	follow-up scans
+other and unspecified benign neoplasm	has treatment option	surgical removal
+other and unspecified benign neoplasm	may recur after	incomplete excision
+other and unspecified benign neoplasm	has ICD-10 code	D36.9
+other and unspecified benign neoplasm	differs from	malignant neoplasm
+other and unspecified benign neoplasm	may transform into	malignant tumor
+other and unspecified benign neoplasm	has risk factor	genetic predisposition
+other and unspecified benign neoplasm	may be associated with	hormone imbalance
+other and unspecified benign neoplasm	may cause	organ dysfunction
+other and unspecified benign neoplasm	may lead to	pain
+other and unspecified benign neoplasm	may result in	bleeding
+other and unspecified benign neoplasm	may require	histopathological examination
+other and unspecified benign neoplasm	has subtype	lipoma
+other and unspecified benign neoplasm	has subtype	fibroma
+other and unspecified benign neoplasm	has subtype	hemangioma
+other and unspecified benign neoplasm	has subtype	adenoma
+other and unspecified benign neoplasm	has subtype	leiomyoma
+other and unspecified benign neoplasm	may mimic	malignant lesion
+other and unspecified benign neoplasm	may be detected during	routine screening
+other and unspecified benign neoplasm	may be found in	endocrine glands
+other and unspecified benign neoplasm	may affect	connective tissue
+other and unspecified benign neoplasm	may involve	epithelial cells
+other and unspecified benign neoplasm	has management option	observation
+other and unspecified benign neoplasm	may require	multidisciplinary approach
+other and unspecified benign neoplasm	has differential diagnosis	cyst
+other and unspecified benign neoplasm	has differential diagnosis	inflammatory lesion
+other and unspecified benign neoplasm	may be evaluated with	ultrasound
+other and unspecified benign neoplasm	may be evaluated with	MRI
+other and unspecified benign neoplasm	may be evaluated with	CT scan
+other and unspecified benign neoplasm	may have	well-defined borders
+other and unspecified benign neoplasm	may show	homogeneous appearance
+other and unspecified benign neoplasm	may contain	fatty tissue
+other and unspecified benign neoplasm	may contain	fibrous tissue
+other and unspecified benign neoplasm	may contain	vascular tissue
+other and unspecified benign neoplasm	may be associated with	tuberous sclerosis
+other and unspecified benign neoplasm	may be associated with	neurofibromatosis
+other and unspecified benign neoplasm	may be related to	radiation exposure
+other and unspecified benign neoplasm	has prognostic factor	size
+other and unspecified benign neoplasm	has prognostic factor	location
+other and unspecified benign neoplasm	may cause	cosmetic concerns
+other and unspecified benign neoplasm	may lead to	psychological distress
+other and unspecified benign neoplasm	may require	patient education
+other and unspecified benign neoplasm	has research focus	molecular markers
+other and unspecified benign neoplasm	has research focus	growth mechanisms
+other and unspecified benign neoplasm	may be studied via	immunohistochemistry
+other and unspecified benign neoplasm	may have	hormonal receptors
+other and unspecified benign neoplasm	may respond to	hormone therapy
+other and unspecified benign neoplasm	may be managed by	oncologist
+other and unspecified benign neoplasm	may be managed by	surgeon
+other and unspecified benign neoplasm	may be managed by	radiologist
+other and unspecified benign neoplasm	may have	genetic mutations
+other and unspecified benign neoplasm	may be linked to	familial syndromes
+other and unspecified benign neoplasm	has epidemiological factor	age
+other and unspecified benign neoplasm	has epidemiological factor	gender
+other and unspecified benign neoplasm	may be more common in	elderly
+other and unspecified benign neoplasm	may be incidentally found
+other and unspecified benign neoplasm	may require	second opinion
+other and unspecified benign neoplasm	has documentation requirement	tumor size
+other and unspecified benign neoplasm	has documentation requirement	location
+other and unspecified benign neoplasm	has documentation requirement	histology
+other and unspecified benign neoplasm	may have	capsule
+other and unspecified benign neoplasm	may displace	normal tissue
+other and unspecified benign neoplasm	may alter	organ function
+other and unspecified benign neoplasm	may cause	obstruction
+other and unspecified benign neoplasm	may lead to	secondary infection
+other and unspecified benign neoplasm	may require	antibiotic therapy
+other and unspecified benign neoplasm	may be treated with	laser therapy
+other and unspecified benign neoplasm	may be treated with	cryotherapy
+other and unspecified benign neoplasm	may be treated with	radiofrequency ablation
+other and unspecified benign neoplasm	has follow-up protocol	imaging intervals
+other and unspecified benign neoplasm	has follow-up protocol	symptom monitoring
+other and unspecified benign neoplasm	may be subject to	pathological review
+other and unspecified benign neoplasm	may have	atypical features
+other and unspecified benign neoplasm	may require	molecular testing
+other and unspecified benign neoplasm	may be confused with	hamartoma
+other and unspecified benign neoplasm	may be confused with	choristoma
+other and unspecified benign neoplasm	has histological feature	low mitotic rate
+other and unspecified benign neoplasm	has histological feature	cellular uniformity
+other and unspecified benign neoplasm	has histological feature	no necrosis
+other and unspecified benign neoplasm	may be associated with	trauma history
+other and unspecified benign neoplasm	may be associated with	chronic inflammation
+other and unspecified benign neoplasm	may have	hormonal influence
+other and unspecified benign neoplasm	may regress spontaneously
+other and unspecified benign neoplasm	may progress slowly
+other and unspecified benign neoplasm	may require	pain management
+other and unspecified benign neoplasm	may lead to	surgical complications
+other and unspecified benign neoplasm	has recurrence risk	low
+other and unspecified benign neoplasm	has quality indicator	diagnostic accuracy
+other and unspecified benign neoplasm	has quality indicator	appropriate follow-up
+other and unspecified benign neoplasm	has research avenue	targeted therapies
+other and unspecified benign neoplasm	has research avenue	prevention strategies
+other and unspecified benign neoplasm	contributes to	healthcare costs

@@ -1,0 +1,102 @@
+skin graft	is a	surgical procedure
+skin graft	used for	wound coverage
+skin graft	treats	burns
+skin graft	treats	chronic ulcers
+skin graft	requires	donor site
+autograft	is a type of	skin graft
+allograft	is a type of	skin graft
+xenograft	is a type of	skin graft
+skin graft	may cause	infection
+skin graft	may cause	graft rejection
+skin graft	requires	postoperative care
+skin graft	involves	anesthesia
+skin graft	used in	reconstructive surgery
+skin graft	can improve	cosmesis
+skin graft	may lead	scarring
+split-thickness graft	is a type of	skin graft
+full-thickness graft	is a type of	skin graft
+skin graft	depends on	blood supply
+skin graft	may require	revision surgery
+skin graft	has risk	contracture
+skin graft	used after	tumor excision
+skin graft	assists in	trauma recovery
+skin graft	may need	physiotherapy
+skin graft	influenced by	patient age
+skin graft	affected by	comorbidities
+skin graft	requires	sterile technique
+skin graft	involves	wound debridement
+skin graft	may use	skin substitutes
+skin graft	follows	wound assessment
+skin graft	has success rate	healing
+skin graft	may require	skin expander
+skin graft	used for	diabetic foot ulcers
+skin graft	contraindicated in	active infection
+skin graft	contraindicated in	poor vascularization
+mesh graft	is a type of	skin graft
+skin graft	may involve	negative pressure therapy
+skin graft	monitored for	viability
+skin graft	may develop	hematoma
+skin graft	may lead	sensory loss
+skin graft	requires	pain management
+skin graft	has alternative	flap surgery
+skin graft	duration depends on	wound size
+skin graft	affected by	smoking status
+skin graft	may require	immunosuppressants
+skin graft	used in	breast reconstruction
+skin graft	used in	facial reconstruction
+skin graft	may cause	pigmentation changes
+skin graft	assessed by	take percentage
+skin graft	influenced by	nutrition status
+skin graft	may require	tissue engineering
+skin graft	compared with	primary closure
+skin graft	involves	suturing
+skin graft	may need	dressing changes
+skin graft	has complication	seroma
+skin graft	evaluated with	biopsy
+skin graft	may involve	laser therapy
+skin graft	used for	necrotizing fasciitis
+skin graft	requires	antibiotic prophylaxis
+skin graft	may lead	donor site pain
+skin graft	used in	hand surgery
+skin graft	affected by	wound location
+skin graft	may require	compression garment
+skin graft	has outcome	functional recovery
+skin graft	influenced by	surgeon experience
+skin graft	may need	secondary intention healing
+skin graft	used for	pressure sores
+skin graft	contraindicated in	malignancy
+skin graft	involves	hemostasis
+skin graft	may use	fibrin glue
+skin graft	has risk	delayed healing
+skin graft	requires	patient compliance
+skin graft	monitored via	photography
+skin graft	may involve	dermal regeneration template
+skin graft	affected by	immune status
+skin graft	may require	hyperbaric oxygen therapy
+skin graft	used in	abdominal wall reconstruction
+skin graft	contraindicated in	uncontrolled diabetes
+skin graft	compared with	skin flap
+skin graft	involves	tissue matching
+skin graft	may lead	hypertrophic scar
+skin graft	requires	hydration
+skin graft	influenced by	wound etiology
+skin graft	may need	occupational therapy
+skin graft	used for	venous leg ulcers
+skin graft	involves	aseptic technique
+skin graft	assessed by	capillary refill
+skin graft	may require	vacuum-assisted closure
+skin graft	has complication	graft failure
+skin graft	affected by	postoperative mobility
+skin graft	may involve	cultured epithelial autograft
+skin graft	influenced by	preoperative optimization
+skin graft	used in	scalp reconstruction
+skin graft	contraindicated in	radiation damage
+skin graft	compared with	secondary closure
+skin graft	involves	pinch technique
+skin graft	may lead	texture mismatch
+skin graft	requires	follow-up visits
+skin graft	influenced by	graft thickness
+skin graft	may need	scar revision
+skin graft	assessed by	vascularization
+skin graft	may involve	microskin grafting
+skin graft	affected by	local infection

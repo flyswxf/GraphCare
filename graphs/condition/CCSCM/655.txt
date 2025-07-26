@@ -1,0 +1,100 @@
+disorders usually diagnosed in infancy	include	autism spectrum disorder
+disorders usually diagnosed in infancy	include	Down syndrome
+disorders usually diagnosed in infancy	include	cerebral palsy
+disorders usually diagnosed in infancy	include	fragile X syndrome
+disorders usually diagnosed in infancy	include	phenylketonuria
+autism spectrum disorder	affects	social communication
+autism spectrum disorder	involves	restricted interests
+Down syndrome	caused by	trisomy 21
+Down syndrome	associated with	intellectual disability
+cerebral palsy	affects	motor function
+cerebral palsy	caused by	brain damage
+fragile X syndrome	caused by	FMR1 mutation
+phenylketonuria	caused by	PAH deficiency
+phenylketonuria	requires	dietary management
+disorders usually diagnosed in infancy	screened by	newborn screening
+newborn screening	detects	metabolic disorders
+early intervention	improves	developmental outcomes
+speech therapy	helps	language delay
+occupational therapy	assists	motor skills
+physical therapy	improves	mobility
+behavioral therapy	manages	challenging behaviors
+disorders usually diagnosed in infancy	may require	special education
+genetic counseling	advises	recurrence risk
+disorders usually diagnosed in infancy	may lead	developmental delay
+developmental delay	affects	milestones
+intellectual disability	impacts	learning
+Down syndrome	increases risk of	congenital heart defects
+congenital heart defects	may require	surgery
+autism spectrum disorder	associated with	sensory sensitivities
+fragile X syndrome	leads to	attention deficits
+phenylketonuria	causes	intellectual disability if untreated
+newborn screening	includes	hearing test
+hearing loss	affects	language development
+early intervention	provides	family support
+disorders usually diagnosed in infancy	increase need for	multidisciplinary care
+multidisciplinary care	involves	various specialists
+pediatric neurologist	manages	neurological disorders
+geneticist	diagnoses	chromosomal abnormalities
+developmental pediatrician	assesses	developmental progress
+speech-language pathologist	treats	communication disorders
+disorders usually diagnosed in infancy	may coexist with	epilepsy
+epilepsy	treated with	anticonvulsants
+anticonvulsants	control	seizures
+disorders usually diagnosed in infancy	may affect	life expectancy
+life expectancy	depends on	condition severity
+Down syndrome	associated with	hypotonia
+hypotonia	affects	muscle strength
+cerebral palsy	classified by	movement type
+spastic cerebral palsy	involves	muscle stiffness
+dyskinetic cerebral palsy	involves	involuntary movements
+autism spectrum disorder	may include	repetitive behaviors
+stereotypies	are	repetitive movements
+fragile X syndrome	causes	macroorchidism in males
+macroorchidism	is	enlarged testes
+phenylketonuria	detected by	blood test
+Guthrie test	screens for	phenylketonuria
+disorders usually diagnosed in infancy	require	long-term follow-up
+long-term follow-up	monitors	complications
+Down syndrome	increases risk of	Alzheimer's disease
+Alzheimer's disease	involves	cognitive decline
+cerebral palsy	may lead to	orthopedic problems
+orthopedic problems	may require	bracing
+autism spectrum disorder	associated with	sleep disturbances
+sleep disturbances	treated with	melatonin
+fragile X syndrome	linked to	anxiety
+anxiety	managed with	behavioral therapy
+phenylketonuria	diet restricts	phenylalanine
+phenylalanine	is an	amino acid
+disorders usually diagnosed in infancy	impact	family dynamics
+family dynamics	affected by	caregiving demands
+support groups	provide	peer support
+early intervention programs	offer	therapeutic services
+therapeutic services	improve	quality of life
+disorders usually diagnosed in infancy	may involve	genetic testing
+genetic testing	identifies	mutations
+chromosomal microarray	detects	copy number variants
+Down syndrome	diagnosed by	karyotype
+karyotype	shows	chromosomal arrangement
+cerebral palsy	may result from	prematurity
+prematurity	increases risk of	complications
+autism spectrum disorder	has	genetic component
+genetic component	involves	multiple genes
+fragile X syndrome	is	X-linked
+X-linked disorders	affect more	males
+phenylketonuria	is	autosomal recessive
+autosomal recessive disorders	require	two copies
+disorders usually diagnosed in infancy	may qualify for	disability services
+disability services	provide	financial assistance
+individualized education program	addresses	learning needs
+learning needs	vary by	child
+Down syndrome	associated with	distinctive facial features
+distinctive facial features	include	epicanthal folds
+cerebral palsy	may involve	feeding difficulties
+feeding difficulties	may require	gastrostomy
+autism spectrum disorder	may show	regression
+regression	is	loss of skills
+fragile X syndrome	associated with	long face
+long face	is a	physical characteristic
+phenylketonuria	treatment prevents	neurological damage
+neurological damage	affects	brain function

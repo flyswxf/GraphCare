@@ -1,0 +1,100 @@
+nuclear medicine imaging	is a	diagnostic technique
+nuclear medicine imaging	uses	radioactive tracers
+nuclear medicine imaging	produces	functional images
+PET scan	is a type of	nuclear medicine imaging
+SPECT	is a type of	nuclear medicine imaging
+nuclear medicine imaging	detects	metabolic activity
+nuclear medicine imaging	helps diagnose	cancer
+nuclear medicine imaging	evaluates	heart function
+nuclear medicine imaging	assesses	brain disorders
+nuclear medicine imaging	monitors	treatment response
+radioactive tracer	accumulates in	target tissues
+gamma camera	detects	radiation
+radiopharmaceutical	is used in	nuclear imaging
+technetium-99m	is a common	radiopharmaceutical
+FDG	is used for	PET scans
+nuclear imaging	requires	specialized equipment
+nuclear imaging	has	radiation risks
+nuclear imaging	provides	quantitative data
+nuclear imaging	complements	anatomical imaging
+nuclear imaging	measures	physiological processes
+PET-CT	combines	PET and CT
+SPECT-CT	combines	SPECT and CT
+PET-MRI	combines	PET and MRI
+hybrid imaging	improves	diagnostic accuracy
+nuclear cardiology	uses	nuclear imaging
+myocardial perfusion imaging	evaluates	blood flow
+bone scan	detects	bone metastases
+thyroid scan	assesses	thyroid function
+HIDA scan	evaluates	gallbladder
+MUGA scan	measures	heart function
+nuclear imaging	requires	patient preparation
+fasting	is needed for	PET scans
+diabetes	affects	FDG uptake
+renal function	affects	tracer clearance
+radiation dose	depends on	tracer type
+pregnancy	contraindicates	nuclear imaging
+breastfeeding	requires precautions in	nuclear imaging
+allergies	may affect	tracer choice
+claustrophobia	may affect	scan completion
+patient motion	degrades	image quality
+oncologic imaging	uses	PET scans
+Alzheimer's disease	can be evaluated by	PET
+Parkinson's disease	can be assessed with	DAT scan
+infection imaging	uses	labeled leukocytes
+parathyroid imaging	localizes	adenomas
+neuroendocrine tumors	can be detected by	DOTATATE PET
+prostate cancer	can be staged with	PSMA PET
+lymphoma	can be evaluated with	FDG PET
+bone metastases	can be detected by	bone scan
+pulmonary embolism	can be diagnosed with	V/Q scan
+SUV value	quantifies	tracer uptake
+time-activity curve	shows	tracer kinetics
+attenuation correction	improves	image quality
+image reconstruction	creates	final images
+dosimetry	calculates	radiation dose
+quality control	ensures	scanner performance
+radiography	differs from	nuclear imaging
+CT	provides anatomical context for	PET
+MRI	offers better soft tissue contrast than	nuclear imaging
+ultrasound	is radiation-free unlike	nuclear imaging
+nuclear medicine physician	interprets	scans
+medical physicist	oversees	radiation safety
+nuclear technologist	performs	scans
+radiopharmacist	prepares	radiopharmaceuticals
+insurance coverage	varies for	nuclear imaging
+hospital	has	nuclear medicine department
+cyclotron	produces	short-lived isotopes
+radiopharmacy	prepares	patient doses
+lead shielding	protects from	radiation
+radiation badge	monitors	staff exposure
+half-life	determines	imaging window
+positron emission	occurs in	PET tracers
+gamma emission	occurs in	SPECT tracers
+annihilation photons	are detected in	PET
+collimator	shapes	gamma rays in SPECT
+photomultiplier tubes	detect	scintillation
+scintillation crystal	converts	radiation to light
+time-of-flight	improves	PET resolution
+iterative reconstruction	enhances	image quality
+motion correction	reduces	artifacts
+cost	is higher for	PET than SPECT
+availability	varies by	facility
+emerging tracers	expand	applications
+theragnostics	combines	diagnosis and therapy
+radiation safety	is crucial in	nuclear medicine
+ALARA principle	guides	dose minimization
+regulatory agencies	oversee	nuclear medicine
+clinical guidelines	recommend	appropriate use
+research	develops	new applications
+artificial intelligence	assists in	image analysis
+patient anxiety	may require	counseling
+scan duration	varies by	procedure
+contrast agents	may be combined with	nuclear imaging
+metal implants	may cause	artifacts
+obesity	may affect	image quality
+pediatric imaging	requires	dose adjustment
+geriatric patients	may need	special considerations
+emergency imaging	is available for	critical cases
+outpatient imaging	is common for	follow-up
+clinical correlation	is needed for	interpretation

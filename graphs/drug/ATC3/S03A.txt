@@ -1,0 +1,100 @@
+antiinfectives	ophthalmologic and otologic	is a	drug category
+antiinfectives	ophthalmologic and otologic	treats	eye infections
+antiinfectives	ophthalmologic and otologic	treats	ear infections
+eye infections	caused by	bacteria
+eye infections	caused by	viruses
+ear infections	caused by	bacteria
+ear infections	caused by	fungi
+antiinfectives	ophthalmologic and otologic	contains	antibiotics
+antiinfectives	ophthalmologic and otologic	contains	antivirals
+antiinfectives	ophthalmologic and otologic	contains	antifungals
+antibiotics	example	chloramphenicol
+antivirals	example	acyclovir
+antifungals	example	amphotericin B
+chloramphenicol	mechanism	inhibits protein synthesis
+acyclovir	mechanism	inhibits DNA replication
+amphotericin B	mechanism	disrupts cell membrane
+antiinfectives	ophthalmologic and otologic	administered as	eye drops
+antiinfectives	ophthalmologic and otologic	administered as	ear drops
+eye drops	advantage	localized delivery
+ear drops	advantage	targeted treatment
+antiinfectives	ophthalmologic and otologic	contraindicated in	hypersensitivity
+hypersensitivity	may cause	allergic reactions
+allergic reactions	symptoms include	rash
+allergic reactions	symptoms include	swelling
+antiinfectives	ophthalmologic and otologic	interacts with	other topical medications
+other topical medications	example	corticosteroids
+corticosteroids	effect	reduces inflammation
+antiinfectives	ophthalmologic and otologic	requires	prescription
+prescription	issued by	ophthalmologist
+prescription	issued by	otolaryngologist
+ophthalmologist	specializes in	eye disorders
+otolaryngologist	specializes in	ear disorders
+eye disorders	include	conjunctivitis
+ear disorders	include	otitis media
+conjunctivitis	symptoms	redness
+conjunctivitis	symptoms	discharge
+otitis media	symptoms	ear pain
+otitis media	symptoms	hearing loss
+antiinfectives	ophthalmologic and otologic	storage condition	room temperature
+room temperature	range	15-30°C
+antiinfectives	ophthalmologic and otologic	expiration	28 days after opening
+expiration	indicates	reduced efficacy
+antiinfectives	ophthalmologic and otologic	pregnancy category	varies
+pregnancy category	classification	FDA system
+FDA system	evaluates	fetal risk
+antiinfectives	ophthalmologic and otologic	pediatric use	with caution
+pediatric use	considerations	dosage adjustment
+dosage adjustment	based on	body weight
+antiinfectives	ophthalmologic and otologic	geriatric use	monitoring required
+geriatric use	concerns	renal function
+renal function	affects	drug clearance
+antiinfectives	ophthalmologic and otologic	cost	varies
+cost	depends on	brand
+brand	example	brand-name drugs
+brand-name drugs	alternative	generics
+generics	advantage	lower cost
+antiinfectives	ophthalmologic and otologic	overuse leads to	resistance
+resistance	consequence	treatment failure
+treatment failure	requires	alternative therapy
+alternative therapy	may include	systemic antibiotics
+systemic antibiotics	route	oral
+systemic antibiotics	route	intravenous
+antiinfectives	ophthalmologic and otologic	prophylactic use	possible
+prophylactic use	prevents	postoperative infections
+postoperative infections	risk factor	surgery
+surgery	types	cataract
+surgery	types	tympanoplasty
+antiinfectives	ophthalmologic and otologic	formulation	solutions
+antiinfectives	ophthalmologic and otologic	formulation	ointments
+solutions	advantage	easy application
+ointments	advantage	prolonged contact
+antiinfectives	ophthalmologic and otologic	absorption	minimal
+minimal absorption	reduces	systemic effects
+systemic effects	include	toxicity
+toxicity	symptoms	nausea
+toxicity	symptoms	dizziness
+antiinfectives	ophthalmologic and otologic	research focus	new formulations
+new formulations	aim	improved efficacy
+improved efficacy	measures	faster resolution
+faster resolution	benefits	patient satisfaction
+patient satisfaction	indicator	treatment adherence
+treatment adherence	improves	outcomes
+outcomes	measured by	symptom relief
+symptom relief	timeframe	days
+antiinfectives	ophthalmologic and otologic	selection based on	culture results
+culture results	identify	causative organism
+causative organism	determines	drug sensitivity
+drug sensitivity	guides	treatment choice
+treatment choice	considers	patient history
+patient history	includes	allergies
+allergies	contraindication	certain drugs
+certain drugs	example	sulfonamides
+sulfonamides	risk	Stevens-Johnson syndrome
+Stevens-Johnson syndrome	severity	life-threatening
+antiinfectives	ophthalmologic and otologic	packaging	sterile
+sterile packaging	prevents	contamination
+contamination	causes	secondary infections
+secondary infections	complicate	treatment
+treatment	duration	7-14 days
+duration	depends on	infection severity

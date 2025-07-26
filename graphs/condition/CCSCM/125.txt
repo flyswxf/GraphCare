@@ -1,0 +1,100 @@
+acute bronchitis	is a	respiratory condition
+acute bronchitis	affects	bronchi
+acute bronchitis	caused by	viral infection
+acute bronchitis	caused by	bacterial infection
+acute bronchitis	associated with	cough
+acute bronchitis	associated with	sputum production
+acute bronchitis	associated with	wheezing
+acute bronchitis	may lead to	pneumonia
+acute bronchitis	may require	antibiotic treatment
+acute bronchitis	diagnosed via	physical examination
+acute bronchitis	diagnosed via	chest X-ray
+acute bronchitis	treated with	bronchodilators
+acute bronchitis	treated with	expectorants
+acute bronchitis	treated with	NSAIDs
+acute bronchitis	prevented by	vaccination
+acute bronchitis	complication of	influenza
+acute bronchitis	risk factor	smoking
+acute bronchitis	risk factor	air pollution
+acute bronchitis	risk factor	asthma
+acute bronchitis	symptom	fever
+acute bronchitis	symptom	chest discomfort
+acute bronchitis	symptom	fatigue
+acute bronchitis	differs from	chronic bronchitis
+acute bronchitis	duration	short-term
+bronchi	part of	lower respiratory tract
+viral infection	common cause	rhinovirus
+viral infection	common cause	coronavirus
+bacterial infection	common cause	Streptococcus pneumoniae
+bacterial infection	common cause	Haemophilus influenzae
+cough	symptom of	respiratory infection
+sputum production	indicates	inflammation
+wheezing	caused by	airway obstruction
+pneumonia	more severe than	acute bronchitis
+antibiotic treatment	ineffective for	viral infection
+physical examination	includes	auscultation
+chest X-ray	rules out	pneumonia
+bronchodilators	relax	airway muscles
+expectorants	loosen	mucus
+NSAIDs	reduce	inflammation
+vaccination	prevents	influenza
+influenza	viral cause	acute bronchitis
+smoking	damages	cilia
+air pollution	irritates	airways
+asthma	complicates	acute bronchitis
+fever	sign of	infection
+chest discomfort	caused by	coughing
+fatigue	result of	immune response
+chronic bronchitis	part of	COPD
+short-term illness	resolves	spontaneously
+lower respiratory tract	includes	lungs
+rhinovirus	causes	common cold
+coronavirus	includes	SARS-CoV-2
+Streptococcus pneumoniae	causes	pneumonia
+Haemophilus influenzae	requires	culture identification
+respiratory infection	transmitted via	droplets
+inflammation	response to	infection
+airway obstruction	leads to	dyspnea
+pneumonia	confirmed by	imaging
+viral infection	treated with	supportive care
+auscultation	detects	crackles
+pneumonia	shows	consolidation on X-ray
+airway muscles	controlled by	nervous system
+mucus	traps	pathogens
+inflammation	mediated by	cytokines
+influenza	prevented by	annual vaccine
+cilia	remove	debris
+airways	lined with	epithelium
+asthma	characterized by	reversible obstruction
+infection	triggers	immune system
+coughing	reflex	airway clearance
+immune response	involves	white blood cells
+COPD	risk factor	smoking
+spontaneous resolution	typical for	viral bronchitis
+lungs	perform	gas exchange
+common cold	mild form	URI
+SARS-CoV-2	causes	COVID-19
+culture identification	determines	bacterial sensitivity
+droplets	spread via	coughing
+dyspnea	symptom of	respiratory distress
+imaging	includes	CT scan
+supportive care	includes	hydration
+crackles	indicate	fluid in lungs
+consolidation	sign of	alveolar involvement
+nervous system	regulates	bronchial tone
+pathogens	targeted by	immune cells
+cytokines	signal	inflammation
+annual vaccine	updated for	strain changes
+debris	removed by	mucociliary escalator
+epithelium	damaged by	smoke
+reversible obstruction	treated with	beta-agonists
+white blood cells	include	neutrophils
+airway clearance	impaired by	mucus plugs
+gas exchange	occurs in	alveoli
+URI	stands for	upper respiratory infection
+COVID-19	can lead to	ARDS
+bacterial sensitivity	guides	antibiotic choice
+respiratory distress	requires	oxygen therapy
+CT scan	more detailed than	X-ray
+hydration	thins	secretions
+alveolar involvement	severe in	pneumonia

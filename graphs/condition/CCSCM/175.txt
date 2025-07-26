@@ -1,0 +1,100 @@
+other female genital disorders	include	vulvodynia
+other female genital disorders	include	lichen sclerosus
+other female genital disorders	include	vaginal atrophy
+other female genital disorders	include	bartholin cyst
+vulvodynia	causes	chronic pain
+vulvodynia	affects	vulva
+lichen sclerosus	causes	itching
+lichen sclerosus	affects	skin
+vaginal atrophy	caused by	menopause
+vaginal atrophy	results in	dryness
+bartholin cyst	caused by	blocked gland
+bartholin cyst	results in	swelling
+vulvodynia	treated with	lidocaine
+lichen sclerosus	treated with	corticosteroids
+vaginal atrophy	treated with	estrogen
+bartholin cyst	treated with	drainage
+chronic pain	managed with	analgesics
+itching	relieved by	antihistamines
+dryness	relieved by	lubricants
+swelling	reduced by	warm compress
+lidocaine	is a	local anesthetic
+corticosteroids	reduce	inflammation
+estrogen	is a	hormone
+drainage	is a	surgical procedure
+analgesics	include	acetaminophen
+antihistamines	include	diphenhydramine
+lubricants	include	water-based gel
+warm compress	promotes	healing
+vulvodynia	associated with	depression
+lichen sclerosus	associated with	scarring
+vaginal atrophy	associated with	dyspareunia
+bartholin cyst	associated with	infection
+depression	treated with	antidepressants
+scarring	prevented by	early treatment
+dyspareunia	relieved by	pelvic therapy
+infection	treated with	antibiotics
+antidepressants	include	SSRIs
+early treatment	involves	diagnosis
+pelvic therapy	improves	muscle tone
+antibiotics	include	amoxicillin
+SSRIs	are	selective serotonin reuptake inhibitors
+diagnosis	involves	examination
+muscle tone	improved by	exercises
+amoxicillin	treats	bacterial infections
+examination	includes	colposcopy
+exercises	include	kegel
+bacterial infections	caused by	pathogens
+colposcopy	examines	cervix
+kegel	strengthens	pelvic floor
+pathogens	include	staphylococcus
+cervix	is part of	reproductive system
+pelvic floor	supports	bladder
+staphylococcus	causes	skin infections
+reproductive system	includes	uterus
+bladder	stores	urine
+skin infections	treated with	antiseptics
+uterus	houses	fetus
+urine	produced by	kidneys
+antiseptics	include	iodine
+fetus	develops during	pregnancy
+kidneys	filter	blood
+iodine	prevents	infection
+pregnancy	involves	gestation
+blood	carries	oxygen
+infection	prevented by	hygiene
+gestation	lasts	nine months
+oxygen	essential for	cells
+hygiene	includes	washing
+nine months	divided into	trimesters
+cells	make up	tissues
+washing	uses	soap
+trimesters	mark	development stages
+tissues	form	organs
+soap	contains	surfactants
+development stages	include	organogenesis
+organs	perform	functions
+surfactants	remove	dirt
+organogenesis	forms	organ systems
+functions	sustain	life
+dirt	harbors	bacteria
+organ systems	include	endocrine system
+life	depends on	homeostasis
+bacteria	can be	beneficial
+endocrine system	regulates	hormones
+homeostasis	maintained by	feedback loops
+beneficial bacteria	aid	digestion
+hormones	include	estrogen
+feedback loops	involve	sensors
+digestion	breaks down	food
+estrogen	produced by	ovaries
+sensors	detect	changes
+food	provides	nutrients
+ovaries	release	eggs
+changes	trigger	responses
+nutrients	include	vitamins
+eggs	fertilized by	sperm
+responses	restore	balance
+vitamins	support	metabolism
+sperm	produced by	testes
+balance	ensures	health

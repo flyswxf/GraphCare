@@ -1,0 +1,100 @@
+androgens	are	hormones
+androgens	produced in	testes
+androgens	produced in	adrenal glands
+androgens	produced in	ovaries
+androgens	include	testosterone
+androgens	include	dihydrotestosterone
+androgens	include	androstenedione
+androgens	include	dehydroepiandrosterone
+testosterone	is a	sex hormone
+dihydrotestosterone	is a	sex hormone
+androgens	regulate	male characteristics
+androgens	influence	muscle mass
+androgens	influence	bone density
+androgens	affect	libido
+androgens	stimulate	hair growth
+androgens	deepen	voice
+androgens	regulate	sperm production
+androgens	can cause	acne
+androgens	linked to	aggression
+androgens	metabolized in	liver
+androgens	bind to	androgen receptors
+androgen receptors	are	proteins
+androgen receptors	located in	nucleus
+androgens	used for	hormone therapy
+androgens	treat	hypogonadism
+androgens	treat	delayed puberty
+androgens	treat	muscle wasting
+androgens	abused by	athletes
+androgens	can cause	liver damage
+androgens	can cause	cardiovascular disease
+androgens	can cause	infertility
+androgens	interact with	estrogen
+estrogen	derived from	androgens
+androgens	suppressed by	antiandrogens
+antiandrogens	include	flutamide
+antiandrogens	include	bicalutamide
+antiandrogens	treat	prostate cancer
+androgens	elevated in	PCOS
+PCOS	causes	hirsutism
+androgens	measured via	blood test
+androgens	fluctuate with	age
+androgens	peak during	puberty
+androgens	decline with	aging
+androgens	affect	mood
+androgens	influence	cognitive function
+androgens	reduced by	castration
+castration	treats	prostate cancer
+androgens	stimulate	erythropoiesis
+androgens	increase	red blood cells
+androgens	contraindicated in	pregnancy
+androgens	contraindicated in	breast cancer
+androgens	altered by	obesity
+obesity	increases	estrogen
+androgens	synthesized from	cholesterol
+cholesterol	precursor of	steroid hormones
+androgens	secreted by	Leydig cells
+Leydig cells	located in	testes
+androgens	regulate	sebum production
+sebum production	causes	acne
+androgens	affect	fat distribution
+androgens	decrease	body fat
+androgens	increase	muscle strength
+androgens	promote	bone growth
+androgens	close	growth plates
+androgens	antagonized by	spironolactone
+spironolactone	is a	diuretic
+spironolactone	treats	hirsutism
+androgens	elevated in	congenital adrenal hyperplasia
+congenital adrenal hyperplasia	causes	virilization
+androgens	implicated in	androgenetic alopecia
+androgenetic alopecia	causes	hair loss
+androgens	stimulate	prostate growth
+prostate growth	causes	BPH
+BPH	treated with	5-alpha-reductase inhibitors
+5-alpha-reductase inhibitors	include	finasteride
+finasteride	reduces	dihydrotestosterone
+dihydrotestosterone	stimulates	prostate cancer
+androgens	suppressed by	GnRH agonists
+GnRH agonists	include	leuprolide
+leuprolide	treats	prostate cancer
+androgens	involved in	sexual differentiation
+sexual differentiation	occurs in	fetus
+androgens	deficient in	Klinefelter syndrome
+Klinefelter syndrome	causes	infertility
+androgens	elevated in	adrenal tumors
+adrenal tumors	may be	malignant
+androgens	affect	vocal cords
+vocal cords	thicken during	puberty
+androgens	influence	social behavior
+androgens	modulate	immune response
+androgens	higher in	males
+androgens	lower in	females
+androgens	interact with	SHBG
+SHBG	binds	testosterone
+androgens	excreted in	urine
+androgens	measured as	free testosterone
+free testosterone	is active	androgen
+androgens	affect	sleep patterns
+androgens	influence	risk-taking behavior
+androgens	regulate	gene expression

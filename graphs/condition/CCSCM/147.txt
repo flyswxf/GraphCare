@@ -1,0 +1,100 @@
+anal and rectal conditions	include	hemorrhoids
+anal and rectal conditions	include	anal fissure
+anal and rectal conditions	include	anal abscess
+anal and rectal conditions	include	anal fistula
+anal and rectal conditions	include	proctitis
+anal and rectal conditions	include	rectal prolapse
+anal and rectal conditions	include	pruritus ani
+hemorrhoids	may cause	rectal bleeding
+hemorrhoids	may cause	pain
+hemorrhoids	may cause	itching
+hemorrhoids	is treated with	fiber supplements
+hemorrhoids	is treated with	topical creams
+hemorrhoids	may require	hemorrhoidectomy
+anal fissure	may cause	sharp pain
+anal fissure	may cause	bleeding
+anal fissure	is treated with	stool softeners
+anal fissure	is treated with	topical anesthetics
+anal fissure	may require	sphincterotomy
+anal abscess	may cause	fever
+anal abscess	may cause	swelling
+anal abscess	requires	drainage
+anal abscess	may lead to	anal fistula
+anal fistula	requires	fistulotomy
+anal fistula	may recur	after surgery
+proctitis	may cause	diarrhea
+proctitis	may cause	tenesmus
+proctitis	may be caused by	infection
+proctitis	may be caused by	IBD
+proctitis	is treated with	antibiotics
+proctitis	is treated with	anti-inflammatory drugs
+rectal prolapse	may cause	incontinence
+rectal prolapse	may require	surgery
+rectal prolapse	is associated with	constipation
+pruritus ani	may cause	intense itching
+pruritus ani	may be caused by	moisture
+pruritus ani	is treated with	barrier creams
+anal and rectal conditions	are diagnosed by	digital rectal exam
+anal and rectal conditions	are diagnosed by	anoscopy
+anal and rectal conditions	are diagnosed by	sigmoidoscopy
+colonoscopy	may detect	anal and rectal conditions
+high-fiber diet	prevents	anal and rectal conditions
+adequate hydration	prevents	anal and rectal conditions
+straining during bowel movements	exacerbates	anal and rectal conditions
+chronic diarrhea	predisposes to	anal and rectal conditions
+chronic constipation	predisposes to	anal and rectal conditions
+pregnancy	increases risk of	hemorrhoids
+obesity	increases risk of	anal and rectal conditions
+sedentary lifestyle	increases risk of	anal and rectal conditions
+aging	increases risk of	anal and rectal conditions
+hemorrhoids	are classified as	internal hemorrhoids
+hemorrhoids	are classified as	external hemorrhoids
+thrombosed hemorrhoids	require	immediate treatment
+rubber band ligation	treats	hemorrhoids
+sclerotherapy	treats	hemorrhoids
+infrared coagulation	treats	hemorrhoids
+anal fissure	commonly occurs	posterior midline
+chronic anal fissure	may develop	sentinel pile
+botulinum toxin injection	treats	anal fissure
+anal abscess	often caused by	anal gland infection
+anal fistula	connects	anal canal to skin
+seton placement	treats	complex fistula
+proctitis	may be	ulcerative
+proctitis	may be	radiation-induced
+sexually transmitted infections	cause	proctitis
+HSV	causes	proctitis
+gonorrhea	causes	proctitis
+chlamydia	causes	proctitis
+Crohn's disease	causes	perianal fistulas
+ulcerative colitis	causes	proctitis
+rectal prolapse	involves	rectal wall layers
+rectal prolapse	has types	complete prolapse
+rectal prolapse	has types	mucosal prolapse
+rectal prolapse repair	uses	abdominal approach
+rectal prolapse repair	uses	perineal approach
+pruritus ani	may be	idiopathic
+pruritus ani	may be caused by	fungal infection
+pruritus ani	may be caused by	parasitic infection
+pinworms	cause	pruritus ani
+corticosteroid creams	treat	pruritus ani
+anorectal manometry	evaluates	anal sphincter function
+endoanal ultrasound	evaluates	anal sphincter
+MRI	evaluates	complex fistulas
+sitz baths	relieve	anal discomfort
+local anesthetics	relieve	anal pain
+NSAIDs	relieve	anal pain
+opioids	may cause	constipation
+laxatives	prevent	constipation
+biofeedback therapy	treats	fecal incontinence
+pelvic floor exercises	strengthen	anal sphincter
+smoking	increases risk of	anal fistulas
+diabetes	increases risk of	anal infections
+immunosuppression	increases risk of	anal infections
+HIV	increases risk of	anal cancer
+HPV	causes	anal warts
+anal warts	may progress to	anal cancer
+anal Pap smear	screens for	anal dysplasia
+chemoradiation	treats	anal cancer
+abdominoperineal resection	treats	anal cancer
+colostomy	may follow	anal cancer surgery
+anal and rectal conditions	affect	quality of life

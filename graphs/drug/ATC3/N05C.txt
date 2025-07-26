@@ -1,0 +1,100 @@
+hypnotics and sedatives	is a	drug class
+hypnotics and sedatives	treat	insomnia
+hypnotics and sedatives	cause	drowsiness
+hypnotics and sedatives	risk of	dependence
+hypnotics and sedatives	interact with	alcohol
+hypnotics and sedatives	affect	GABA receptors
+benzodiazepines	are a type of	hypnotics and sedatives
+barbiturates	are a type of	hypnotics and sedatives
+Z-drugs	are a type of	hypnotics and sedatives
+hypnotics and sedatives	prescribed for	anxiety
+hypnotics and sedatives	side effect	memory impairment
+hypnotics and sedatives	contraindicated in	pregnancy
+hypnotics and sedatives	metabolized in	liver
+hypnotics and sedatives	excreted via	kidneys
+elderly	sensitive to	hypnotics and sedatives
+hypnotics and sedatives	risk of	falls
+hypnotics and sedatives	can cause	respiratory depression
+hypnotics and sedatives	used in	anesthesia
+hypnotics and sedatives	duration	short-acting
+hypnotics and sedatives	duration	long-acting
+hypnotics and sedatives	overdose risk	death
+hypnotics and sedatives	withdrawal symptom	rebound insomnia
+hypnotics and sedatives	interact with	opioids
+hypnotics and sedatives	monitored by	prescriber
+hypnotics and sedatives	black box warning	dependency
+hypnotics and sedatives	alternative	cognitive behavioral therapy
+hypnotics and sedatives	FDA-approved for	sleep disorders
+hypnotics and sedatives	onset	30 minutes
+hypnotics and sedatives	half-life	varies
+hypnotics and sedatives	mechanism	CNS depression
+hypnotics and sedatives	caution in	liver disease
+hypnotics and sedatives	caution in	kidney disease
+hypnotics and sedatives	tolerance develops	with prolonged use
+hypnotics and sedatives	street name	downers
+hypnotics and sedatives	detection window	urine test
+hypnotics and sedatives	prescribed as	tablets
+hypnotics and sedatives	prescribed as	capsules
+hypnotics and sedatives	prescribed as	injections
+hypnotics and sedatives	brand name	Ambien
+hypnotics and sedatives	brand name	Lunesta
+hypnotics and sedatives	brand name	Sonata
+hypnotics and sedatives	brand name	Halcion
+hypnotics and sedatives	brand name	Restoril
+hypnotics and sedatives	generic name	zolpidem
+hypnotics and sedatives	generic name	eszopiclone
+hypnotics and sedatives	generic name	zaleplon
+hypnotics and sedatives	generic name	triazolam
+hypnotics and sedatives	generic name	temazepam
+hypnotics and sedatives	schedule	controlled substance
+hypnotics and sedatives	DEA schedule	IV
+hypnotics and sedatives	pregnancy category	X
+hypnotics and sedatives	cost	varies
+hypnotics and sedatives	covered by	insurance
+hypnotics and sedatives	off-label use	PTSD
+hypnotics and sedatives	off-label use	muscle spasms
+hypnotics and sedatives	adverse effect	dizziness
+hypnotics and sedatives	adverse effect	headache
+hypnotics and sedatives	adverse effect	confusion
+hypnotics and sedatives	adverse effect	dry mouth
+hypnotics and sedatives	adverse effect	gastrointestinal upset
+hypnotics and sedatives	adverse effect	paradoxical reactions
+hypnotics and sedatives	risk factor	elderly
+hypnotics and sedatives	risk factor	polypharmacy
+hypnotics and sedatives	risk factor	substance abuse history
+hypnotics and sedatives	risk factor	mental health disorders
+hypnotics and sedatives	risk factor	respiratory conditions
+hypnotics and sedatives	monitoring parameter	sleep quality
+hypnotics and sedatives	monitoring parameter	adverse effects
+hypnotics and sedatives	monitoring parameter	dependency signs
+hypnotics and sedatives	monitoring parameter	cognitive function
+hypnotics and sedatives	patient education	avoid driving
+hypnotics and sedatives	patient education	avoid alcohol
+hypnotics and sedatives	patient education	take as prescribed
+hypnotics and sedatives	patient education	report side effects
+hypnotics and sedatives	patient education	gradual tapering
+hypnotics and sedatives	research area	new formulations
+hypnotics and sedatives	research area	reduced side effects
+hypnotics and sedatives	research area	non-habit forming alternatives
+hypnotics and sedatives	research area	personalized dosing
+hypnotics and sedatives	research area	long-term effects
+hypnotics and sedatives	treatment duration	short-term
+hypnotics and sedatives	treatment duration	chronic
+hypnotics and sedatives	discontinuation	gradual
+hypnotics and sedatives	discontinuation	cold turkey
+hypnotics and sedatives	combination therapy	antidepressants
+hypnotics and sedatives	combination therapy	antipsychotics
+hypnotics and sedatives	combination therapy	pain medications
+hypnotics and sedatives	combination therapy	antihistamines
+hypnotics and sedatives	hospital use	pre-operative
+hypnotics and sedatives	hospital use	ICU sedation
+hypnotics and sedatives	hospital use	procedural sedation
+hypnotics and sedatives	pediatric use	limited
+hypnotics and sedatives	geriatric use	cautious
+hypnotics and sedatives	recreational use	abuse potential
+hypnotics and sedatives	recreational use	euphoria
+hypnotics and sedatives	recreational use	polydrug use
+hypnotics and sedatives	legal status	prescription required
+hypnotics and sedatives	legal status	varies by country
+hypnotics and sedatives	public health concern	misuse
+hypnotics and sedatives	public health concern	overdose deaths

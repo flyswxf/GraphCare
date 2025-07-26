@@ -1,0 +1,100 @@
+hemodialysis	is a	kidney treatment
+hemodialysis	used for	renal failure
+hemodialysis	removes	toxins
+hemodialysis	requires	dialysis machine
+hemodialysis	uses	dialyzer
+hemodialysis	involves	blood filtration
+hemodialysis	treats	ESRD
+hemodialysis	needs	vascular access
+hemodialysis	can cause	hypotension
+hemodialysis	requires	anticoagulant
+hemodialysis	has risk	infection
+hemodialysis	affects	electrolyte balance
+hemodialysis	performs	ultrafiltration
+hemodialysis	replaces	kidney function
+hemodialysis	needs	dialysis solution
+hemodialysis	monitors	blood pressure
+hemodialysis	connects to	fistula
+hemodialysis	may require	catheter
+hemodialysis	follows	treatment schedule
+hemodialysis	impacts	quality of life
+hemodialysis	collaborates with	nephrologist
+hemodialysis	involves	blood pump
+hemodialysis	measures	Kt/V
+hemodialysis	adjusts	dry weight
+hemodialysis	prevents	uremia
+hemodialysis	uses	bicarbonate solution
+hemodialysis	may cause	muscle cramps
+hemodialysis	manages	fluid overload
+hemodialysis	screens for	hepatitis
+hemodialysis	requires	sterile technique
+hemodialysis	tracks	urea reduction
+hemodialysis	associates with	anemia
+hemodialysis	supplements with	erythropoietin
+hemodialysis	checks	phosphorus levels
+hemodialysis	restricts	fluid intake
+hemodialysis	monitors	potassium levels
+hemodialysis	controls	acidosis
+hemodialysis	assesses	access flow
+hemodialysis	prevents	clotting
+hemodialysis	educates	patients
+hemodialysis	coordinates with	dietitian
+hemodialysis	records	treatment parameters
+hemodialysis	may lead to	fatigue
+hemodialysis	evaluates	adequacy
+hemodialysis	considers	residual function
+hemodialysis	adjusts	treatment time
+hemodialysis	compares to	peritoneal dialysis
+hemodialysis	precedes	transplantation
+hemodialysis	follows	CKD progression
+hemodialysis	manages	complications
+hemodialysis	uses	reverse osmosis
+hemodialysis	requires	water treatment
+hemodialysis	tests	water quality
+hemodialysis	maintains	equipment
+hemodialysis	oversees	technician
+hemodialysis	documents	sessions
+hemodialysis	reviews	lab results
+hemodialysis	modifies	prescription
+hemodialysis	prevents	disequilibrium
+hemodialysis	monitors	heart rate
+hemodialysis	assesses	weight gain
+hemodialysis	treats	hyperkalemia
+hemodialysis	corrects	alkalosis
+hemodialysis	balances	calcium
+hemodialysis	removes	creatinine
+hemodialysis	calculates	clearance
+hemodialysis	predicts	outcomes
+hemodialysis	supports	elderly patients
+hemodialysis	adapts for	pediatric cases
+hemodialysis	considers	comorbidities
+hemodialysis	interacts with	medications
+hemodialysis	avoids	contrast agents
+hemodialysis	schedules	sessions
+hemodialysis	transports	patients
+hemodialysis	reimburses	insurance
+hemodialysis	follows	guidelines
+hemodialysis	audits	quality
+hemodialysis	trains	staff
+hemodialysis	researches	improvements
+hemodialysis	compares	membranes
+hemodialysis	selects	dialysate
+hemodialysis	prevents	infections
+hemodialysis	sterilizes	equipment
+hemodialysis	isolates	hepatitis patients
+hemodialysis	vaccinates	patients
+hemodialysis	screens	donors
+hemodialysis	prepares	emergencies
+hemodialysis	responds	alarms
+hemodialysis	troubleshoots	machines
+hemodialysis	inventories	supplies
+hemodialysis	orders	consumables
+hemodialysis	disposes	waste
+hemodialysis	conserves	resources
+hemodialysis	innovates	techniques
+hemodialysis	personalizes	treatments
+hemodialysis	benchmarks	outcomes
+hemodialysis	networks	centers
+hemodialysis	complies	regulations
+hemodialysis	advocates	patients
+hemodialysis	improves	survival

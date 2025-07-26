@@ -1,0 +1,100 @@
+antifungals for systemic use	is a	drug class
+antifungals for systemic use	treats	fungal infections
+antifungals for systemic use	includes	azoles
+antifungals for systemic use	includes	polyenes
+antifungals for systemic use	includes	echinocandins
+antifungals for systemic use	includes	allylamines
+azole antifungals	example	fluconazole
+azole antifungals	example	itraconazole
+polyene antifungals	example	amphotericin B
+echinocandin antifungals	example	caspofungin
+allylamine antifungals	example	terbinafine
+fluconazole	treats	candidiasis
+fluconazole	treats	cryptococcal meningitis
+itraconazole	treats	aspergillosis
+amphotericin B	treats	systemic mycoses
+caspofungin	treats	invasive candidiasis
+terbinafine	treats	dermatophytosis
+antifungals for systemic use	mechanism	cell membrane disruption
+antifungals for systemic use	mechanism	ergosterol inhibition
+antifungals for systemic use	mechanism	cell wall synthesis inhibition
+azoles	mechanism	lanosterol demethylase inhibition
+polyenes	mechanism	ergosterol binding
+echinocandins	mechanism	β-glucan synthase inhibition
+allylamines	mechanism	squalene epoxidase inhibition
+antifungals for systemic use	can cause	hepatotoxicity
+antifungals for systemic use	can cause	nephrotoxicity
+antifungals for systemic use	can cause	QT prolongation
+amphotericin B	side effect	infusion reactions
+amphotericin B	side effect	hypokalemia
+azoles	side effect	drug interactions
+fluconazole	side effect	headache
+antifungals for systemic use	contraindicated in	liver disease
+antifungals for systemic use	contraindicated in	pregnancy
+antifungals for systemic use	requires	therapeutic drug monitoring
+itraconazole	administration	oral
+amphotericin B	administration	intravenous
+fluconazole	administration	oral
+fluconazole	administration	intravenous
+antifungals for systemic use	interacts with	CYP3A4 substrates
+azoles	are	CYP inhibitors
+fluconazole	inhibits	CYP2C9
+itraconazole	inhibits	CYP3A4
+antifungals for systemic use	alternative to	topical antifungals
+antifungals for systemic use	used for	immunocompromised patients
+antifungals for systemic use	prevents	fungal sepsis
+candidiasis	risk factor	antibiotic use
+candidiasis	risk factor	diabetes
+aspergillosis	risk factor	neutropenia
+cryptococcal meningitis	risk factor	HIV
+antifungals for systemic use	resistance mechanism	efflux pumps
+antifungals for systemic use	resistance mechanism	target modification
+Candida albicans	can develop	fluconazole resistance
+Aspergillus fumigatus	can develop	azole resistance
+antifungals for systemic use	spectrum	broad
+antifungals for systemic use	spectrum	narrow
+amphotericin B	spectrum	broad
+fluconazole	spectrum	narrow
+echinocandins	spectrum	Candida species
+antifungals for systemic use	cost	varies
+amphotericin B	cost	high
+fluconazole	cost	low
+antifungals for systemic use	research area	new formulations
+antifungals for systemic use	research area	combination therapy
+liposomal amphotericin B	is	formulation
+liposomal amphotericin B	reduces	nephrotoxicity
+antifungals for systemic use	used in	transplant patients
+antifungals for systemic use	used in	oncology patients
+antifungals for systemic use	duration	weeks to months
+antifungals for systemic use	monitoring	liver function tests
+antifungals for systemic use	monitoring	renal function
+fluconazole	dosing	weight-based
+amphotericin B	dosing	cumulative
+antifungals for systemic use	pharmacokinetics	variable
+azoles	pharmacokinetics	affected by gastric pH
+itraconazole	absorption	enhanced by food
+antifungals for systemic use	distribution	tissue penetration
+fluconazole	penetrates	CSF
+voriconazole	is	second-generation azole
+posaconazole	is	second-generation azole
+second-generation azoles	have	broader spectrum
+echinocandins	are	concentration-dependent
+echinocandins	show	post-antifungal effect
+antifungals for systemic use	combination	amphotericin B + flucytosine
+flucytosine	is	antifungal adjuvant
+antifungals for systemic use	breakthrough	fungal infections
+antifungals for systemic use	prophylaxis	high-risk patients
+antifungals for systemic use	empirical therapy	febrile neutropenia
+antifungals for systemic use	guideline	IDSA
+IDSA	publishes	antifungal guidelines
+antifungals for systemic use	stewardship	important
+antifungals for systemic use	overuse	leads to resistance
+antifungals for systemic use	shortage	occurs
+antifungals for systemic use	pregnancy category	varies
+fluconazole	pregnancy category	D
+amphotericin B	pregnancy category	B
+antifungals for systemic use	pediatric use	adjusted dosing
+antifungals for systemic use	geriatric use	caution
+antifungals for systemic use	renal adjustment	required
+antifungals for systemic use	hepatic adjustment	required
+antifungals for systemic use	future	novel targets

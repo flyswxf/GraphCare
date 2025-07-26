@@ -1,0 +1,100 @@
+x-ray contrast media non-iodinated	is a	medical imaging agent
+x-ray contrast media non-iodinated	used for	diagnostic imaging
+x-ray contrast media non-iodinated	alternative to	iodinated contrast media
+x-ray contrast media non-iodinated	preferred for	patients with iodine allergy
+x-ray contrast media non-iodinated	contains	gadolinium
+gadolinium	is a	rare earth metal
+gadolinium based contrast	used in	MRI
+x-ray contrast media non-iodinated	may contain	barium
+barium sulfate	is a	common non-iodinated contrast
+barium sulfate	used for	gastrointestinal imaging
+barium sulfate	contraindicated in	bowel perforation
+x-ray contrast media non-iodinated	has	lower radiodensity
+lower radiodensity	affects	image quality
+x-ray contrast media non-iodinated	requires	higher doses
+higher doses	may increase	risk of toxicity
+x-ray contrast media non-iodinated	safer for	renal impairment
+renal impairment	contraindicates	iodinated contrast
+x-ray contrast media non-iodinated	less likely to cause	contrast-induced nephropathy
+contrast-induced nephropathy	is a	kidney complication
+x-ray contrast media non-iodinated	used in	CT scans
+CT scans	require	contrast enhancement
+x-ray contrast media non-iodinated	administered via	injection
+injection	can cause	local reactions
+local reactions	include	pain at injection site
+x-ray contrast media non-iodinated	has	better safety profile
+better safety profile	reduces	adverse events
+adverse events	may require	medical intervention
+x-ray contrast media non-iodinated	cleared by	renal excretion
+renal excretion	depends on	glomerular filtration rate
+glomerular filtration rate	indicates	kidney function
+x-ray contrast media non-iodinated	compatible with	MRI contrast
+MRI contrast	provides	soft tissue visualization
+x-ray contrast media non-iodinated	less effective for	vascular imaging
+vascular imaging	often requires	iodinated contrast
+x-ray contrast media non-iodinated	useful for	pediatric imaging
+pediatric imaging	requires	lower radiation doses
+x-ray contrast media non-iodinated	approved by	FDA
+FDA approval	ensures	safety standards
+x-ray contrast media non-iodinated	developed by	pharmaceutical companies
+pharmaceutical companies	conduct	clinical trials
+clinical trials	assess	drug efficacy
+x-ray contrast media non-iodinated	has	specific indications
+specific indications	guide	proper use
+x-ray contrast media non-iodinated	contraindicated in	certain conditions
+certain conditions	include	severe allergies
+x-ray contrast media non-iodinated	requires	patient screening
+patient screening	identifies	risk factors
+risk factors	may contraindicate	contrast use
+x-ray contrast media non-iodinated	has	shorter half-life
+shorter half-life	allows	faster elimination
+x-ray contrast media non-iodinated	less likely to cause	thyroid dysfunction
+thyroid dysfunction	is a	iodinated contrast risk
+x-ray contrast media non-iodinated	used in	interventional radiology
+interventional radiology	requires	real-time imaging
+x-ray contrast media non-iodinated	compatible with	digital subtraction angiography
+digital subtraction angiography	visualizes	blood vessels
+x-ray contrast media non-iodinated	may contain	carbon dioxide
+carbon dioxide	is a	gas contrast agent
+gas contrast agents	useful for	vascular studies
+x-ray contrast media non-iodinated	requires	specialized equipment
+specialized equipment	includes	high-pressure injectors
+high-pressure injectors	deliver	precise doses
+x-ray contrast media non-iodinated	has	different viscosity
+different viscosity	affects	injection speed
+x-ray contrast media non-iodinated	may contain	iron oxide
+iron oxide	provides	negative contrast
+negative contrast	highlights	surrounding tissues
+x-ray contrast media non-iodinated	used with	ultrasound guidance
+ultrasound guidance	improves	injection accuracy
+x-ray contrast media non-iodinated	subject to	recalls
+recalls	may occur due to	contamination
+x-ray contrast media non-iodinated	has	storage requirements
+storage requirements	maintain	chemical stability
+x-ray contrast media non-iodinated	interacts with	certain medications
+certain medications	may affect	contrast effectiveness
+x-ray contrast media non-iodinated	monitored by	radiologists
+radiologists	interpret	imaging results
+x-ray contrast media non-iodinated	has	cost considerations
+cost considerations	influence	hospital budgets
+x-ray contrast media non-iodinated	requires	disposal protocols
+disposal protocols	prevent	environmental contamination
+x-ray contrast media non-iodinated	has	patent protection
+patent protection	limits	generic alternatives
+x-ray contrast media non-iodinated	described in	medical literature
+medical literature	provides	usage guidelines
+x-ray contrast media non-iodinated	used in	research studies
+research studies	evaluate	new applications
+x-ray contrast media non-iodinated	may replace	iodine in future
+iodine replacement	could reduce	allergic reactions
+x-ray contrast media non-iodinated	compatible with	artificial intelligence
+artificial intelligence	enhances	image analysis
+x-ray contrast media non-iodinated	used in	emergency medicine
+emergency medicine	requires	rapid diagnosis
+x-ray contrast media non-iodinated	available in	different concentrations
+different concentrations	suit	various procedures
+x-ray contrast media non-iodinated	requires	quality control
+quality control	ensures	batch consistency
+x-ray contrast media non-iodinated	has	international standards
+international standards	facilitate	global use
+x-ray contrast media non-iodinated	represents	imaging innovation

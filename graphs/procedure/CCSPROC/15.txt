@@ -1,0 +1,100 @@
+cataract	treated by	cataract surgery
+cataract surgery	involves	lens replacement
+intraocular lens	used in	cataract surgery
+phacoemulsification	is a type of	cataract surgery
+extracapsular cataract extraction	is a type of	cataract surgery
+intracapsular cataract extraction	is a type of	cataract surgery
+cataract	causes	vision impairment
+cataract	associated with	aging
+diabetes	increases risk of	cataract
+UV exposure	increases risk of	cataract
+smoking	increases risk of	cataract
+corticosteroids	increase risk of	cataract
+cataract surgery	improves	visual acuity
+intraocular lens	corrects	refractive error
+monofocal lens	provides	single focus
+multifocal lens	provides	multiple focuses
+toric lens	corrects	astigmatism
+cataract surgery	may cause	posterior capsule opacification
+YAG laser capsulotomy	treats	posterior capsule opacification
+cataract surgery	requires	preoperative evaluation
+biometry	measures	intraocular lens power
+corneal topography	assesses	corneal shape
+cataract surgery	has risk of	endophthalmitis
+antibiotic prophylaxis	prevents	endophthalmitis
+cataract surgery	may cause	retinal detachment
+cataract surgery	may cause	cystoid macular edema
+NSAID eye drops	prevent	cystoid macular edema
+cataract surgery	requires	postoperative care
+prednisolone eye drops	used after	cataract surgery
+cataract	may lead to	blindness
+congenital cataract	occurs in	newborns
+congenital cataract	may require	early surgery
+trauma	can cause	cataract
+radiation	can cause	cataract
+uveitis	can cause	cataract
+cataract surgery	contraindicated in	active eye infection
+cataract surgery	contraindicated in	severe dry eye
+anesthesia	required for	cataract surgery
+topical anesthesia	commonly used in	cataract surgery
+peribulbar block	alternative for	cataract surgery
+cataract surgery	may affect	intraocular pressure
+glaucoma	complicates	cataract surgery
+pseudoexfoliation syndrome	complicates	cataract surgery
+small pupil	complicates	cataract surgery
+iris hooks	help in	small pupil cataract surgery
+cataract surgery	may worsen	diabetic retinopathy
+cataract surgery	may reveal	macular degeneration
+cataract surgery	increases risk of	floaters
+vitrectomy	may be needed after	cataract surgery
+cataract surgery	affects	contrast sensitivity
+blue light-filtering lens	protects	retina
+accommodating lens	mimics	natural lens
+cataract surgery	may require	glasses after
+premium lens	reduces	glasses dependence
+cataract surgery	has	high success rate
+second eye surgery	usually follows	first eye surgery
+cataract surgery	contraindicated in	unstable retina
+cataract surgery	improves	quality of life
+cataract surgery	reduces	fall risk
+cataract surgery	may improve	cognitive function
+cataract surgery	may affect	color perception
+cataract surgery	may cause	glare
+cataract surgery	may cause	halos
+cataract surgery	may cause	dry eye
+artificial tears	relieve	post-surgery dry eye
+cataract surgery	requires	wound healing
+corneal edema	may occur after	cataract surgery
+cataract surgery	may induce	astigmatism
+limbal relaxing incisions	correct	astigmatism
+cataract surgery	may require	suture
+sutureless cataract surgery	promotes	faster recovery
+cataract surgery	contraindicated in	corneal disease
+cataract surgery	contraindicated in	uncontrolled glaucoma
+cataract surgery	may reveal	optic nerve damage
+cataract surgery	may affect	visual field
+cataract surgery	may cause	photophobia
+sunglasses	recommended after	cataract surgery
+cataract surgery	may affect	night vision
+cataract surgery	may require	laser enhancement
+cataract surgery	contraindicated in	eye inflammation
+cataract surgery	may affect	depth perception
+cataract surgery	may improve	driving ability
+cataract surgery	reduces	disability glare
+cataract surgery	may affect	reading ability
+cataract surgery	may require	vision therapy
+cataract surgery	contraindicated in	pregnancy
+cataract surgery	contraindicated in	bleeding disorders
+cataract surgery	requires	pupil dilation
+mydriatic drops	used for	pupil dilation
+cataract surgery	may affect	tear film
+cataract surgery	may require	anti-inflammatory treatment
+cataract surgery	may affect	corneal sensitivity
+cataract surgery	may reveal	retinal tear
+cataract surgery	may require	retinal treatment
+cataract surgery	may affect	stereopsis
+cataract surgery	may cause	transient blurred vision
+cataract surgery	may require	refraction adjustment
+cataract surgery	may affect	binocular vision
+cataract surgery	may require	surgical revision
+cataract surgery	improves	overall visual function

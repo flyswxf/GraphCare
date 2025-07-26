@@ -1,0 +1,100 @@
+early or threatened labor	is a	pregnancy complication
+early or threatened labor	may lead to	preterm birth
+early or threatened labor	requires	medical attention
+early or threatened labor	may cause	fetal distress
+uterine contractions	are a symptom of	early or threatened labor
+cervical dilation	occurs during	early or threatened labor
+bed rest	is recommended for	early or threatened labor
+tocolytic drugs	treat	early or threatened labor
+magnesium sulfate	is a	tocolytic drug
+nifedipine	is a	tocolytic drug
+terbutaline	is a	tocolytic drug
+early or threatened labor	increases risk of	neonatal complications
+preterm birth	may result in	respiratory distress syndrome
+preterm birth	may cause	developmental delays
+corticosteroids	accelerate fetal lung maturation in	early or threatened labor
+betamethasone	is a	corticosteroid
+dexamethasone	is a	corticosteroid
+fetal fibronectin test	predicts	early or threatened labor
+transvaginal ultrasound	assesses cervical length in	early or threatened labor
+short cervix	is a risk factor for	early or threatened labor
+previous preterm birth	increases risk of	early or threatened labor
+multiple gestation	increases risk of	early or threatened labor
+uterine abnormalities	increase risk of	early or threatened labor
+infection	may trigger	early or threatened labor
+chorioamnionitis	is a risk factor for	early or threatened labor
+bacterial vaginosis	increases risk of	early or threatened labor
+urinary tract infection	increases risk of	early or threatened labor
+smoking	increases risk of	early or threatened labor
+stress	may contribute to	early or threatened labor
+advanced maternal age	increases risk of	early or threatened labor
+African American ethnicity	increases risk of	early or threatened labor
+low socioeconomic status	increases risk of	early or threatened labor
+poor nutrition	increases risk of	early or threatened labor
+dehydration	may trigger	early or threatened labor
+physical exertion	may trigger	early or threatened labor
+progesterone supplementation	prevents	early or threatened labor
+hydroxyprogesterone caproate	is a	progesterone supplement
+vaginal progesterone	reduces risk of	early or threatened labor
+cerclage	prevents preterm birth in	early or threatened labor
+cervical insufficiency	leads to	early or threatened labor
+pregnancy-induced hypertension	increases risk of	early or threatened labor
+preeclampsia	increases risk of	early or threatened labor
+gestational diabetes	increases risk of	early or threatened labor
+placental abruption	causes	early or threatened labor
+placenta previa	increases risk of	early or threatened labor
+polyhydramnios	increases risk of	early or threatened labor
+oligohydramnios	increases risk of	early or threatened labor
+fetal monitoring	is essential during	early or threatened labor
+non-stress test	monitors fetal wellbeing in	early or threatened labor
+biophysical profile	assesses fetal health in	early or threatened labor
+amniocentesis	assesses fetal lung maturity in	early or threatened labor
+neonatal intensive care unit	prepares for	preterm birth
+surfactant therapy	treats respiratory distress in	preterm infants
+oxygen therapy	supports	preterm infants
+continuous positive airway pressure	assists breathing in	preterm infants
+kangaroo care	benefits	preterm infants
+breast milk	is important for	preterm infants
+neonatal sepsis	is a risk for	preterm infants
+intraventricular hemorrhage	is a risk for	preterm infants
+necrotizing enterocolitis	is a risk for	preterm infants
+antenatal corticosteroids	reduce complications of	preterm birth
+antenatal magnesium sulfate	protects fetal brain in	preterm birth
+delayed cord clamping	benefits	preterm infants
+maternal transport	may be needed for	early or threatened labor
+level III hospital	provides care for	preterm birth
+neonatologist	manages care of	preterm infants
+maternal-fetal medicine specialist	manages	high-risk pregnancies
+prenatal care	reduces risk of	early or threatened labor
+folic acid supplementation	prevents pregnancy complications
+iron supplementation	prevents anemia in pregnancy
+calcium supplementation	prevents preeclampsia
+omega-3 fatty acids	may prevent	early or threatened labor
+vaginal microbiome	affects risk of	early or threatened labor
+probiotics	may prevent	early or threatened labor
+group B streptococcus screening	prevents neonatal infection
+antenatal education	prepares for	pregnancy complications
+stress management	reduces risk of	early or threatened labor
+pelvic rest	is advised for	early or threatened labor
+pelvic exam	assesses cervical changes in	early or threatened labor
+home uterine monitoring	detects contractions
+contraction stress test	evaluates fetal wellbeing
+amnioreduction	treats polyhydramnios
+indomethacin	is a tocolytic for	early or threatened labor
+atosiban	is a tocolytic for	early or threatened labor
+ritodrine	is a tocolytic for	early or threatened labor
+tocolytics	have side effects
+magnesium sulfate	may cause respiratory depression
+nifedipine	may cause hypotension
+terbutaline	may cause tachycardia
+antenatal corticosteroids	may affect fetal growth
+neonatal mortality	is higher with	preterm birth
+long-term disability	is a risk of	preterm birth
+cerebral palsy	is a risk of	preterm birth
+learning disabilities	are risks of	preterm birth
+vision problems	are risks of	preterm birth
+hearing problems	are risks of	preterm birth
+preconception counseling	prevents pregnancy complications
+interpregnancy interval	affects pregnancy outcomes
+maternal obesity	increases risk of	early or threatened labor
+assisted reproductive technology	increases risk of	early or threatened labor

@@ -1,0 +1,100 @@
+antipsoriatics for topical use	is a	medication
+antipsoriatics for topical use	treats	psoriasis
+psoriasis	is a	skin condition
+skin condition	affects	epidermis
+epidermis	part of	skin
+antipsoriatics for topical use	contains	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	caused by	immune response
+immune response	involves	white blood cells
+white blood cells	produced in	bone marrow
+antipsoriatics for topical use	includes	vitamin D analogs
+vitamin D analogs	regulate	skin cell growth
+skin cell growth	affects	plaque formation
+plaque formation	symptom of	psoriasis
+antipsoriatics for topical use	may contain	coal tar
+coal tar	reduces	scaling
+scaling	symptom of	psoriasis
+antipsoriatics for topical use	can cause	skin irritation
+skin irritation	may lead	redness
+redness	sign of	inflammation
+antipsoriatics for topical use	applied to	affected area
+affected area	shows	plaques
+plaques	consist of	dead skin cells
+dead skin cells	result from	rapid turnover
+rapid turnover	characteristic of	psoriasis
+antipsoriatics for topical use	requires	prescription
+prescription	written by	dermatologist
+dermatologist	specializes in	skin disorders
+skin disorders	include	eczema
+eczema	differs from	psoriasis
+antipsoriatics for topical use	alternative to	systemic treatment
+systemic treatment	involves	oral medication
+oral medication	affects	entire body
+entire body	includes	internal organs
+internal organs	protected by	immune system
+antipsoriatics for topical use	preferred for	mild psoriasis
+mild psoriasis	affects	small areas
+small areas	easier to	treat
+treat	involves	regular application
+regular application	maintains	symptom control
+symptom control	improves	quality of life
+quality of life	affected by	chronic conditions
+chronic conditions	require	long-term management
+long-term management	includes	medication adherence
+medication adherence	prevents	flare-ups
+flare-ups	triggered by	stress
+stress	affects	immune system
+immune system	linked to	psoriasis severity
+psoriasis severity	measured by	PASI score
+PASI score	evaluates	affected area
+antipsoriatics for topical use	interacts with	other medications
+other medications	include	immunosuppressants
+immunosuppressants	reduce	immune activity
+immune activity	contributes to	psoriasis
+antipsoriatics for topical use	stored at	room temperature
+room temperature	preserves	drug stability
+drug stability	affects	efficacy
+efficacy	determines	treatment success
+treatment success	measured by	symptom reduction
+symptom reduction	improves	patient satisfaction
+patient satisfaction	influenced by	side effects
+side effects	include	burning sensation
+burning sensation	temporary	discomfort
+discomfort	alleviated by	moisturizers
+moisturizers	complement	antipsoriatics
+antipsoriatics for topical use	contraindicated in	infections
+infections	caused by	bacteria
+bacteria	treated with	antibiotics
+antibiotics	differ from	antipsoriatics
+antipsoriatics for topical use	tested in	clinical trials
+clinical trials	assess	safety
+safety	evaluated by	regulatory agencies
+regulatory agencies	include	FDA
+FDA	approves	medications
+medications	classified by	therapeutic class
+therapeutic class	includes	dermatologics
+dermatologics	treat	skin diseases
+skin diseases	vary in	severity
+severity	determines	treatment choice
+treatment choice	considers	patient preference
+patient preference	influenced by	application frequency
+application frequency	affects	compliance
+compliance	impacts	outcomes
+outcomes	measured by	physician assessment
+physician assessment	based on	clinical signs
+clinical signs	include	erythema
+erythema	indicates	inflammation
+inflammation	mitigated by	anti-inflammatory drugs
+anti-inflammatory drugs	category includes	corticosteroids
+corticosteroids	potent	anti-inflammatory agents
+anti-inflammatory agents	reduce	cytokine production
+cytokine production	elevated in	psoriasis
+psoriasis	associated with	genetic factors
+genetic factors	increase	susceptibility
+susceptibility	leads to	earlier onset
+earlier onset	requires	early intervention
+early intervention	utilizes	topical treatments
+topical treatments	first-line for	localized psoriasis
+localized psoriasis	affects	specific body parts
+specific body parts	include	elbows

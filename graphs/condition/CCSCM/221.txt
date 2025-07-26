@@ -1,0 +1,100 @@
+respiratory distress syndrome	is a	lung condition
+respiratory distress syndrome	affects	newborns
+respiratory distress syndrome	caused by	surfactant deficiency
+respiratory distress syndrome	leads to	hypoxia
+respiratory distress syndrome	requires	mechanical ventilation
+respiratory distress syndrome	treated with	exogenous surfactant
+respiratory distress syndrome	associated with	premature birth
+respiratory distress syndrome	may cause	pulmonary hypertension
+respiratory distress syndrome	diagnosed by	chest X-ray
+respiratory distress syndrome	linked to	cesarean delivery
+respiratory distress syndrome	monitored with	blood gas analysis
+respiratory distress syndrome	managed with	CPAP
+respiratory distress syndrome	increases risk of	bronchopulmonary dysplasia
+respiratory distress syndrome	correlated with	low birth weight
+respiratory distress syndrome	prevented by	antenatal corticosteroids
+respiratory distress syndrome	worsens with	infection
+respiratory distress syndrome	involves	alveolar collapse
+respiratory distress syndrome	results in	tachypnea
+respiratory distress syndrome	manifests as	grunting
+respiratory distress syndrome	identified by	retractions
+respiratory distress syndrome	complications include	pneumothorax
+respiratory distress syndrome	treated in	NICU
+respiratory distress syndrome	related to	gestational diabetes
+respiratory distress syndrome	exacerbated by	cold stress
+respiratory distress syndrome	alleviated by	oxygen therapy
+surfactant deficiency	affects	lung compliance
+premature birth	increases risk of	respiratory distress syndrome
+antenatal corticosteroids	promote	lung maturation
+exogenous surfactant	replaces	natural surfactant
+mechanical ventilation	supports	breathing
+CPAP	prevents	alveolar collapse
+hypoxia	leads to	organ damage
+pulmonary hypertension	complicates	respiratory distress syndrome
+bronchopulmonary dysplasia	results from	prolonged ventilation
+chest X-ray	shows	ground-glass appearance
+blood gas analysis	measures	oxygen levels
+grunting	indicates	respiratory effort
+tachypnea	signifies	respiratory distress
+retractions	reflect	labored breathing
+pneumothorax	requires	chest tube
+NICU	provides	specialized care
+gestational diabetes	linked to	macrosomia
+macrosomia	increases risk of	birth trauma
+cold stress	worsens	respiratory function
+oxygen therapy	improves	oxygenation
+natural surfactant	produced by	type II pneumocytes
+lung maturation	enhanced by	glucocorticoids
+alveolar collapse	reduces	gas exchange
+organ damage	caused by	prolonged hypoxia
+ground-glass appearance	typical of	respiratory distress syndrome
+oxygen levels	indicate	respiratory status
+respiratory effort	increases	oxygen demand
+labored breathing	observed in	respiratory distress
+chest tube	relieves	pneumothorax
+specialized care	needed for	premature infants
+birth trauma	may lead to	respiratory issues
+respiratory function	impaired by	cold stress
+oxygenation	monitored by	pulse oximetry
+type II pneumocytes	secrete	surfactant
+glucocorticoids	accelerate	lung development
+gas exchange	compromised by	alveolar collapse
+prolonged hypoxia	results in	acidosis
+respiratory status	assessed by	clinical signs
+oxygen demand	increases during	distress
+respiratory distress	evident by	cyanosis
+pneumothorax	detected by	decreased breath sounds
+premature infants	vulnerable to	infections
+respiratory issues	managed with	supportive care
+pulse oximetry	measures	oxygen saturation
+surfactant	reduces	surface tension
+lung development	influenced by	genetic factors
+acidosis	corrected by	bicarbonate
+clinical signs	include	nasal flaring
+cyanosis	indicates	severe hypoxia
+decreased breath sounds	suggest	pneumothorax
+infections	treated with	antibiotics
+supportive care	includes	temperature regulation
+oxygen saturation	critical for	tissue perfusion
+surface tension	prevents	alveolar collapse
+genetic factors	affect	surfactant production
+bicarbonate	neutralizes	acidosis
+nasal flaring	a sign of	respiratory distress
+severe hypoxia	requires	intubation
+antibiotics	prevent	sepsis
+temperature regulation	avoids	cold stress
+tissue perfusion	ensures	organ function
+alveolar collapse	prevented by	PEEP
+surfactant production	begins in	third trimester
+intubation	secures	airway
+sepsis	a complication of	infection
+cold stress	prevented by	incubator
+organ function	depends on	adequate oxygenation
+PEEP	maintains	alveolar patency
+third trimester	crucial for	lung maturation
+airway	protected by	endotracheal tube
+infection	screened by	blood culture
+incubator	provides	thermal stability
+adequate oxygenation	prevents	brain injury
+alveolar patency	ensures	efficient gas exchange
+blood culture	identifies	pathogens

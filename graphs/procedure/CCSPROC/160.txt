@@ -1,0 +1,100 @@
+other therapeutic procedures on muscles and tendons	is a	medical procedure
+other therapeutic procedures on muscles and tendons	includes	tendon repair
+other therapeutic procedures on muscles and tendons	includes	muscle biopsy
+other therapeutic procedures on muscles and tendons	includes	tenotomy
+other therapeutic procedures on muscles and tendons	includes	fasciotomy
+other therapeutic procedures on muscles and tendons	treats	muscle tears
+other therapeutic procedures on muscles and tendons	treats	tendon injuries
+other therapeutic procedures on muscles and tendons	treats	contractures
+other therapeutic procedures on muscles and tendons	treats	tendinopathy
+other therapeutic procedures on muscles and tendons	treats	muscle stiffness
+tendon repair	fixes	ruptured tendons
+tendon repair	requires	sutures
+tendon repair	may involve	grafts
+tendon repair	followed by	physical therapy
+tendon repair	prevents	re-rupture
+muscle biopsy	diagnoses	myopathies
+muscle biopsy	detects	muscular dystrophy
+muscle biopsy	involves	tissue sampling
+muscle biopsy	guided by	ultrasound
+muscle biopsy	may cause	minor bleeding
+tenotomy	releases	tight tendons
+tenotomy	treats	spasticity
+tenotomy	performed in	cerebral palsy
+tenotomy	improves	joint mobility
+tenotomy	may require	anesthesia
+fasciotomy	relieves	compartment syndrome
+fasciotomy	prevents	tissue necrosis
+fasciotomy	involves	incision
+fasciotomy	requires	post-op monitoring
+fasciotomy	may lead	to scarring
+muscle tears	caused by	trauma
+muscle tears	results in	pain
+muscle tears	requires	rest
+muscle tears	may need	surgery
+muscle tears	affects	mobility
+tendon injuries	common in	athletes
+tendon injuries	leads to	swelling
+tendon injuries	aggravated by	overuse
+tendon injuries	diagnosed with	MRI
+tendon injuries	rehabilitated with	physiotherapy
+contractures	caused by	immobility
+contractures	limits	range of motion
+contractures	treated with	stretching
+contractures	common in	stroke patients
+contractures	may require	surgical release
+tendinopathy	involves	tendon degeneration
+tendinopathy	causes	chronic pain
+tendinopathy	managed with	anti-inflammatories
+tendinopathy	worsened by	repetitive strain
+tendinopathy	may benefit from	PRP therapy
+muscle stiffness	associated with	aging
+muscle stiffness	relieved by	massage
+muscle stiffness	may indicate	neurological disorder
+muscle stiffness	reduced by	hydration
+muscle stiffness	worsened by	inactivity
+ruptured tendons	requires	immobilization
+ruptured tendons	causes	weakness
+ruptured tendons	diagnosed via	ultrasound
+ruptured tendons	recovery involves	gradual loading
+ruptured tendons	may recur	if untreated
+sutures	hold	tissue together
+sutures	can be	absorbable
+sutures	removed after	healing
+sutures	minimize	scarring
+sutures	vary in	material
+grafts	replace	damaged tissue
+grafts	sourced from	autologous tissue
+grafts	may trigger	immune response
+grafts	require	vascularization
+grafts	used in	severe injuries
+physical therapy	restores	function
+physical therapy	involves	exercises
+physical therapy	prevents	atrophy
+physical therapy	guided by	therapist
+physical therapy	improves	strength
+myopathies	affect	muscle fibers
+myopathies	lead to	weakness
+myopathies	diagnosed via	EMG
+myopathies	managed with	medications
+myopathies	may be	genetic
+muscular dystrophy	progressive	muscle wasting
+muscular dystrophy	lacks	effective cure
+muscular dystrophy	supported by	assistive devices
+muscular dystrophy	affects	children
+muscular dystrophy	requires	multidisciplinary care
+tissue sampling	analyzed in	lab
+tissue sampling	confirms	pathology
+tissue sampling	may cause	bruising
+tissue sampling	needs	sterile technique
+tissue sampling	aids	diagnosis
+ultrasound	visualizes	soft tissues
+ultrasound	non-invasive	imaging
+ultrasound	guides	needle placement
+ultrasound	real-time	feedback
+ultrasound	avoids	radiation
+minor bleeding	controlled with	pressure
+minor bleeding	common after	biopsy
+minor bleeding	resolves	spontaneously
+minor bleeding	monitored for	complications
+minor bleeding	rare in	healthy patients

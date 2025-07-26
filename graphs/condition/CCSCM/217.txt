@@ -1,0 +1,100 @@
+other congenital anomalies	include	heart defects
+other congenital anomalies	include	cleft palate
+other congenital anomalies	include	neural tube defects
+other congenital anomalies	include	limb abnormalities
+other congenital anomalies	include	chromosomal abnormalities
+heart defects	may require	surgical intervention
+cleft palate	may require	reconstructive surgery
+neural tube defects	may cause	paralysis
+limb abnormalities	may require	prosthetics
+chromosomal abnormalities	may cause	developmental delays
+other congenital anomalies	may be detected by	prenatal ultrasound
+other congenital anomalies	may be caused by	genetic mutations
+other congenital anomalies	may be caused by	environmental factors
+environmental factors	include	maternal infections
+environmental factors	include	teratogens
+teratogens	include	alcohol
+teratogens	include	certain medications
+other congenital anomalies	may lead to	long-term disability
+long-term disability	may require	physical therapy
+long-term disability	may require	occupational therapy
+other congenital anomalies	may increase risk of	infections
+infections	may require	antibiotics
+other congenital anomalies	may affect	quality of life
+quality of life	may be improved by	early intervention
+early intervention	includes	speech therapy
+early intervention	includes	behavioral therapy
+other congenital anomalies	may be associated with	metabolic disorders
+metabolic disorders	may require	dietary modifications
+dietary modifications	may include	special formulas
+other congenital anomalies	may necessitate	frequent hospitalizations
+frequent hospitalizations	may lead to	financial burden
+financial burden	may be alleviated by	insurance coverage
+other congenital anomalies	may require	multidisciplinary care
+multidisciplinary care	involves	pediatricians
+multidisciplinary care	involves	surgeons
+multidisciplinary care	involves	therapists
+other congenital anomalies	may be more common in	premature births
+premature births	may be caused by	maternal health conditions
+maternal health conditions	include	diabetes
+maternal health conditions	include	hypertension
+other congenital anomalies	may lead to	hearing loss
+hearing loss	may require	hearing aids
+other congenital anomalies	may lead to	vision impairment
+vision impairment	may require	corrective lenses
+other congenital anomalies	may cause	feeding difficulties
+feeding difficulties	may require	feeding tubes
+feeding tubes	may be	temporary
+feeding tubes	may be	permanent
+other congenital anomalies	may be diagnosed via	genetic testing
+genetic testing	may identify	specific syndromes
+specific syndromes	may have	characteristic features
+characteristic features	may aid in	diagnosis
+other congenital anomalies	may be managed with	medications
+medications	may include	anticonvulsants
+anticonvulsants	may treat	seizure disorders
+seizure disorders	may accompany	neural tube defects
+other congenital anomalies	may require	assistive devices
+assistive devices	include	wheelchairs
+assistive devices	include	braces
+other congenital anomalies	may affect	cognitive function
+cognitive function	may be assessed by	neuropsychological testing
+other congenital anomalies	may increase risk of	respiratory problems
+respiratory problems	may require	oxygen therapy
+other congenital anomalies	may necessitate	specialized education
+specialized education	may involve	individualized plans
+individualized plans	may address	learning needs
+other congenital anomalies	may be studied via	epidemiological research
+epidemiological research	may identify	risk factors
+risk factors	may include	advanced maternal age
+advanced maternal age	may increase likelihood of	chromosomal abnormalities
+other congenital anomalies	may be prevented by	folic acid supplementation
+folic acid supplementation	may reduce risk of	neural tube defects
+other congenital anomalies	may be screened for	newborn screening
+newborn screening	may detect	metabolic disorders
+other congenital anomalies	may lead to	growth retardation
+growth retardation	may require	growth hormone therapy
+other congenital anomalies	may cause	organ malformations
+organ malformations	may affect	kidney function
+kidney function	may be monitored by	blood tests
+other congenital anomalies	may result in	chronic pain
+chronic pain	may be managed with	analgesics
+analgesics	may include	opioids
+opioids	may cause	dependency
+other congenital anomalies	may necessitate	palliative care
+palliative care	focuses on	symptom relief
+other congenital anomalies	may be associated with	immune deficiencies
+immune deficiencies	may require	immunoglobulin therapy
+other congenital anomalies	may impact	social development
+social development	may be supported by	peer interactions
+other congenital anomalies	may require	lifelong monitoring
+lifelong monitoring	may involve	regular check-ups
+regular check-ups	may detect	complications
+other congenital anomalies	may be more prevalent in	certain populations
+certain populations	may have	genetic predispositions
+genetic predispositions	may be inherited
+other congenital anomalies	may benefit from	family counseling
+family counseling	may provide	emotional support
+emotional support	may reduce	caregiver stress
+caregiver stress	may be addressed by	respite care
+respite care	offers	temporary relief

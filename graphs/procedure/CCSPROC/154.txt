@@ -1,0 +1,100 @@
+arthroplasty	is a	surgical procedure
+arthroplasty	treats	joint degeneration
+arthroplasty	replaces	damaged joint
+shoulder arthroplasty	is a type of	arthroplasty
+elbow arthroplasty	is a type of	arthroplasty
+ankle arthroplasty	is a type of	arthroplasty
+wrist arthroplasty	is a type of	arthroplasty
+finger arthroplasty	is a type of	arthroplasty
+arthroplasty	requires	prosthesis
+arthroplasty	has risk	infection
+arthroplasty	has risk	blood clots
+arthroplasty	requires	rehabilitation
+arthroplasty	improves	mobility
+arthroplasty	relieves	pain
+shoulder arthroplasty	treats	osteoarthritis
+shoulder arthroplasty	treats	rheumatoid arthritis
+shoulder arthroplasty	treats	rotator cuff tear
+elbow arthroplasty	treats	elbow fracture
+elbow arthroplasty	treats	joint instability
+ankle arthroplasty	treats	post-traumatic arthritis
+wrist arthroplasty	treats	wrist arthritis
+finger arthroplasty	treats	finger deformity
+arthroplasty	requires	preoperative evaluation
+arthroplasty	involves	anesthesia
+arthroplasty	has alternative	joint fusion
+arthroplasty	has alternative	conservative treatment
+shoulder arthroplasty	uses	reverse prosthesis
+shoulder arthroplasty	has complication	nerve injury
+elbow arthroplasty	has complication	implant loosening
+ankle arthroplasty	has longer recovery than	ankle fusion
+wrist arthroplasty	preserves	wrist motion
+finger arthroplasty	improves	hand function
+arthroplasty	requires	postoperative care
+arthroplasty	needs	physical therapy
+arthroplasty	contraindicated for	active infection
+arthroplasty	contraindicated for	severe osteoporosis
+shoulder arthroplasty	has outcome	pain relief
+shoulder arthroplasty	has outcome	improved range of motion
+elbow arthroplasty	restores	elbow function
+ankle arthroplasty	prevents	adjacent joint arthritis
+wrist arthroplasty	alternative to	wrist fusion
+finger arthroplasty	uses	silicone implants
+arthroplasty	influenced by	patient age
+arthroplasty	influenced by	activity level
+arthroplasty	requires	imaging studies
+arthroplasty	follows	failed conservative treatment
+shoulder arthroplasty	more common in	elderly patients
+elbow arthroplasty	treats	rheumatoid arthritis
+ankle arthroplasty	less common than	hip arthroplasty
+wrist arthroplasty	preserves	grip strength
+finger arthroplasty	repairs	joint deformity
+arthroplasty	has risk	prosthetic dislocation
+arthroplasty	has risk	heterotopic ossification
+arthroplasty	requires	anticoagulation therapy
+arthroplasty	follows	joint destruction
+shoulder arthroplasty	contraindicated for	deltoid paralysis
+elbow arthroplasty	uses	linked prosthesis
+ankle arthroplasty	contraindicated for	charcot arthropathy
+wrist arthroplasty	contraindicated for	heavy laborers
+finger arthroplasty	alternative to	arthrodesis
+arthroplasty	requires	sterile technique
+arthroplasty	involves	bone preparation
+arthroplasty	uses	cement fixation
+arthroplasty	uses	press-fit components
+shoulder arthroplasty	treats	avascular necrosis
+elbow arthroplasty	treats	post-traumatic deformity
+ankle arthroplasty	preserves	ankle motion
+wrist arthroplasty	treats	advanced arthritis
+finger arthroplasty	improves	cosmetic appearance
+arthroplasty	has risk	component wear
+arthroplasty	has risk	periprosthetic fracture
+arthroplasty	requires	follow-up visits
+arthroplasty	contraindicated for	neuropathic joint
+shoulder arthroplasty	has revision rate	10% at 10 years
+elbow arthroplasty	has higher complication rate than	shoulder arthroplasty
+ankle arthroplasty	has improved with	newer implants
+wrist arthroplasty	preserves	forearm rotation
+finger arthroplasty	treats	swan-neck deformity
+arthroplasty	benefits	quality of life
+arthroplasty	increases	independence
+arthroplasty	reduces	analgesic use
+shoulder arthroplasty	requires	rotator cuff integrity
+elbow arthroplasty	contraindicated for	infection
+ankle arthroplasty	alternative to	ankle orthosis
+wrist arthroplasty	treats	SLAC wrist
+finger arthroplasty	treats	boutonniere deformity
+arthroplasty	requires	patient education
+arthroplasty	involves	soft tissue balancing
+arthroplasty	considers	bone quality
+shoulder arthroplasty	treats	cuff tear arthropathy
+elbow arthroplasty	treats	distal humerus fracture
+ankle arthroplasty	contraindicated for	severe deformity
+wrist arthroplasty	contraindicated for	young patients
+finger arthroplasty	treats	osteoarthritis
+arthroplasty	improves	activities of daily living
+arthroplasty	requires	multidisciplinary team
+shoulder arthroplasty	treats	failed hemiarthroplasty
+elbow arthroplasty	treats	instability
+ankle arthroplasty	requires	proper alignment
+wrist arthroplasty	treats	scapholunate advanced collapse

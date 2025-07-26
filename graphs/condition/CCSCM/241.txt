@@ -1,0 +1,100 @@
+poisoning by psychotropic agents	may cause	altered mental status
+poisoning by psychotropic agents	may lead to	respiratory depression
+poisoning by psychotropic agents	may result in	cardiac arrhythmia
+poisoning by psychotropic agents	requires	emergency treatment
+poisoning by psychotropic agents	may require	gastric lavage
+activated charcoal	is used for	poisoning by psychotropic agents
+benzodiazepines	are	psychotropic agents
+antidepressants	are	psychotropic agents
+antipsychotics	are	psychotropic agents
+stimulants	are	psychotropic agents
+poisoning by psychotropic agents	may cause	seizures
+poisoning by psychotropic agents	may lead to	coma
+poisoning by psychotropic agents	may require	intubation
+poisoning by psychotropic agents	may cause	hypotension
+poisoning by psychotropic agents	may result in	hyperthermia
+poisoning by psychotropic agents	requires	close monitoring
+poisoning by psychotropic agents	may need	antidote
+flumazenil	is antidote for	benzodiazepine poisoning
+naloxone	is antidote for	opioid poisoning
+poisoning by psychotropic agents	may cause	rhabdomyolysis
+poisoning by psychotropic agents	may lead to	renal failure
+poisoning by psychotropic agents	may require	hemodialysis
+lithium	is a	psychotropic agent
+lithium poisoning	may cause	nephrogenic diabetes insipidus
+lithium poisoning	may lead to	thyroid dysfunction
+serotonin syndrome	may result from	psychotropic agent poisoning
+poisoning by psychotropic agents	may cause	agitation
+poisoning by psychotropic agents	may lead to	delirium
+poisoning by psychotropic agents	may require	sedation
+poisoning by psychotropic agents	may cause	mydriasis
+poisoning by psychotropic agents	may lead to	miosis
+poisoning by psychotropic agents	may result in	ataxia
+poisoning by psychotropic agents	may cause	nystagmus
+poisoning by psychotropic agents	may lead to	hyperreflexia
+poisoning by psychotropic agents	may require	ICU admission
+poisoning by psychotropic agents	may cause	liver damage
+poisoning by psychotropic agents	may lead to	pancreatitis
+poisoning by psychotropic agents	may result in	metabolic acidosis
+poisoning by psychotropic agents	may cause	leukocytosis
+poisoning by psychotropic agents	may lead to	thrombocytopenia
+poisoning by psychotropic agents	may require	blood tests
+toxicology screening	is used for	poisoning diagnosis
+poisoning by psychotropic agents	may cause	QT prolongation
+poisoning by psychotropic agents	may lead to	torsades de pointes
+poisoning by psychotropic agents	may require	magnesium sulfate
+poisoning by psychotropic agents	may cause	bradycardia
+poisoning by psychotropic agents	may lead to	tachycardia
+poisoning by psychotropic agents	may result in	hypertension
+poisoning by psychotropic agents	may cause	pulmonary edema
+poisoning by psychotropic agents	may lead to	aspiration pneumonia
+poisoning by psychotropic agents	may require	mechanical ventilation
+poisoning by psychotropic agents	may cause	urinary retention
+poisoning by psychotropic agents	may lead to	ileus
+poisoning by psychotropic agents	may result in	constipation
+poisoning by psychotropic agents	may cause	diaphoresis
+poisoning by psychotropic agents	may lead to	dry mouth
+poisoning by psychotropic agents	may require	fluid resuscitation
+poisoning by psychotropic agents	may cause	electrolyte imbalance
+poisoning by psychotropic agents	may lead to	hypokalemia
+poisoning by psychotropic agents	may result in	hypernatremia
+poisoning by psychotropic agents	may cause	hypoglycemia
+poisoning by psychotropic agents	may lead to	hyperglycemia
+poisoning by psychotropic agents	may require	glucose administration
+poisoning by psychotropic agents	may cause	muscle rigidity
+poisoning by psychotropic agents	may lead to	dystonia
+poisoning by psychotropic agents	may result in	dyskinesia
+poisoning by psychotropic agents	may cause	tremor
+poisoning by psychotropic agents	may lead to	parkinsonism
+poisoning by psychotropic agents	may require	anticholinergic medication
+poisoning by psychotropic agents	may cause	visual hallucinations
+poisoning by psychotropic agents	may lead to	auditory hallucinations
+poisoning by psychotropic agents	may result in	paranoid ideation
+poisoning by psychotropic agents	may cause	depersonalization
+poisoning by psychotropic agents	may lead to	derealization
+poisoning by psychotropic agents	may require	psychiatric consultation
+poisoning by psychotropic agents	may cause	suicidality
+poisoning by psychotropic agents	may lead to	self-harm
+poisoning by psychotropic agents	may result in	violent behavior
+poisoning by psychotropic agents	may require	physical restraints
+poisoning by psychotropic agents	may cause	insomnia
+poisoning by psychotropic agents	may lead to	hypersomnia
+poisoning by psychotropic agents	may result in	nightmares
+poisoning by psychotropic agents	may cause	sleepwalking
+poisoning by psychotropic agents	may lead to	REM sleep behavior disorder
+poisoning by psychotropic agents	may require	sleep study
+poisoning by psychotropic agents	may cause	appetite loss
+poisoning by psychotropic agents	may lead to	weight loss
+poisoning by psychotropic agents	may result in	increased appetite
+poisoning by psychotropic agents	may cause	weight gain
+poisoning by psychotropic agents	may lead to	metabolic syndrome
+poisoning by psychotropic agents	may require	nutritional support
+poisoning by psychotropic agents	may cause	sexual dysfunction
+poisoning by psychotropic agents	may lead to	amenorrhea
+poisoning by psychotropic agents	may result in	galactorrhea
+poisoning by psychotropic agents	may cause	gynecomastia
+poisoning by psychotropic agents	may lead to	erectile dysfunction
+poisoning by psychotropic agents	may require	endocrinology consultation
+poisoning by psychotropic agents	may cause	photosensitivity
+poisoning by psychotropic agents	may lead to	skin rash
+poisoning by psychotropic agents	may require	dermatology consultation

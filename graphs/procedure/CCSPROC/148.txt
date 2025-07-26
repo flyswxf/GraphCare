@@ -1,0 +1,100 @@
+other fracture and dislocation procedure	is a	surgical procedure
+other fracture and dislocation procedure	treats	bone fracture
+other fracture and dislocation procedure	treats	joint dislocation
+other fracture and dislocation procedure	involves	orthopedic surgery
+other fracture and dislocation procedure	requires	anesthesia
+other fracture and dislocation procedure	performed by	orthopedic surgeon
+other fracture and dislocation procedure	uses	surgical instruments
+other fracture and dislocation procedure	may require	immobilization
+other fracture and dislocation procedure	followed by	physical therapy
+other fracture and dislocation procedure	can cause	postoperative pain
+other fracture and dislocation procedure	risks	infection
+other fracture and dislocation procedure	risks	bleeding
+other fracture and dislocation procedure	risks	nerve damage
+other fracture and dislocation procedure	requires	X-ray
+other fracture and dislocation procedure	requires	preoperative assessment
+bone fracture	caused by	trauma
+bone fracture	classified by	fracture type
+joint dislocation	involves	ligament damage
+joint dislocation	requires	reduction
+orthopedic surgery	specialty of	musculoskeletal system
+anesthesia	types include	general anesthesia
+anesthesia	types include	local anesthesia
+orthopedic surgeon	specializes in	bone disorders
+surgical instruments	include	bone drill
+surgical instruments	include	fixation device
+immobilization	achieved with	cast
+immobilization	achieved with	splint
+physical therapy	improves	mobility
+physical therapy	reduces	stiffness
+postoperative pain	managed with	analgesics
+infection	treated with	antibiotics
+bleeding	controlled with	hemostasis
+nerve damage	may cause	numbness
+X-ray	detects	fracture location
+preoperative assessment	evaluates	patient fitness
+trauma	can be	accidental injury
+fracture type	includes	comminuted fracture
+fracture type	includes	greenstick fracture
+ligament damage	leads to	joint instability
+reduction	types include	closed reduction
+reduction	types include	open reduction
+musculoskeletal system	consists of	bones
+musculoskeletal system	consists of	muscles
+general anesthesia	induces	unconsciousness
+local anesthesia	numbs	specific area
+bone disorders	include	osteoporosis
+bone drill	used for	screw placement
+fixation device	examples are	plates
+fixation device	examples are	screws
+cast	made of	fiberglass
+cast	made of	plaster
+splint	provides	temporary support
+mobility	improves with	exercise
+stiffness	caused by	inactivity
+analgesics	include	NSAIDs
+analgesics	include	opioids
+antibiotics	combat	bacterial infection
+hemostasis	achieved with	pressure
+numbness	may indicate	nerve compression
+fracture location	determines	treatment approach
+patient fitness	assessed via	medical history
+accidental injury	examples are	falls
+accidental injury	examples are	car accidents
+comminuted fracture	involves	multiple fragments
+greenstick fracture	common in	children
+joint instability	leads to	recurrent dislocations
+closed reduction	performed without	incision
+open reduction	requires	surgical exposure
+bones	connected by	joints
+muscles	enable	movement
+unconsciousness	monitored by	anesthesiologist
+specific area	numbed with	lidocaine
+osteoporosis	increases	fracture risk
+screw placement	stabilizes	bone fragments
+plates	secure	bone alignment
+screws	provide	fixation
+fiberglass	lightweight material for	casting
+plaster	traditional material for	casting
+temporary support	used for	initial healing
+exercise	strengthens	muscles
+inactivity	prolongs	recovery time
+NSAIDs	reduce	inflammation
+opioids	relieve	severe pain
+bacterial infection	prevented with	sterile technique
+pressure	applied with	bandage
+nerve compression	treated with	decompression surgery
+treatment approach	may involve	external fixation
+medical history	includes	allergies
+falls	common in	elderly
+car accidents	cause	high-impact injuries
+multiple fragments	require	precise realignment
+children	prone to	growth plate fractures
+recurrent dislocations	may need	reconstructive surgery
+incision	allows	direct access
+surgical exposure	facilitates	visualization
+joints	cushioned by	cartilage
+movement	coordinated by	nervous system
+anesthesiologist	monitors	vital signs
+lidocaine	blocks	nerve signals
+fracture risk	increased by	vitamin D deficiency

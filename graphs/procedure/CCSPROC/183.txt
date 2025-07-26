@@ -1,0 +1,100 @@
+routine chest x-ray	is a	diagnostic test
+routine chest x-ray	uses	ionizing radiation
+routine chest x-ray	evaluates	lung condition
+routine chest x-ray	detects	pneumonia
+routine chest x-ray	identifies	tuberculosis
+routine chest x-ray	reveals	lung nodules
+routine chest x-ray	screens for	lung cancer
+routine chest x-ray	assesses	heart size
+routine chest x-ray	examines	rib fractures
+routine chest x-ray	checks for	pleural effusion
+routine chest x-ray	monitors	COPD progression
+routine chest x-ray	requires	patient cooperation
+routine chest x-ray	performed by	radiologist
+routine chest x-ray	interpreted by	physician
+routine chest x-ray	stored in	PACS system
+routine chest x-ray	preceded by	clinical assessment
+routine chest x-ray	follows	physical examination
+routine chest x-ray	contraindicated in	pregnancy
+routine chest x-ray	alternative to	chest CT
+routine chest x-ray	less sensitive than	chest MRI
+routine chest x-ray	more accessible than	bronchoscopy
+routine chest x-ray	detects	pneumothorax
+routine chest x-ray	evaluates	mediastinal widening
+routine chest x-ray	identifies	cardiomegaly
+routine chest x-ray	reveals	pulmonary edema
+routine chest x-ray	screens for	sarcoidosis
+routine chest x-ray	assesses	diaphragm position
+routine chest x-ray	examines	foreign objects
+routine chest x-ray	checks for	atelectasis
+routine chest x-ray	monitors	treatment response
+routine chest x-ray	requires	radiology technician
+routine chest x-ray	performed in	radiology department
+routine chest x-ray	interpreted using	DICOM viewer
+routine chest x-ray	stored as	digital image
+routine chest x-ray	preceded by	consent process
+routine chest x-ray	follows	medical history review
+routine chest x-ray	contraindicated in	hemodynamic instability
+routine chest x-ray	alternative to	ultrasound
+routine chest x-ray	less detailed than	HRCT
+routine chest x-ray	more affordable than	PET scan
+routine chest x-ray	detects	pleural thickening
+routine chest x-ray	evaluates	aortic dissection
+routine chest x-ray	identifies	hilar lymphadenopathy
+routine chest x-ray	reveals	pulmonary fibrosis
+routine chest x-ray	screens for	occupational lung disease
+routine chest x-ray	assesses	pacemaker position
+routine chest x-ray	examines	chest trauma
+routine chest x-ray	checks for	pulmonary hypertension
+routine chest x-ray	monitors	postoperative complications
+routine chest x-ray	requires	lead shielding
+routine chest x-ray	performed with	upright positioning
+routine chest x-ray	interpreted with	clinical correlation
+routine chest x-ray	stored with	patient metadata
+routine chest x-ray	preceded by	fasting requirement
+routine chest x-ray	follows	infection control protocol
+routine chest x-ray	contraindicated in	pediatric cases
+routine chest x-ray	alternative to	fluoroscopy
+routine chest x-ray	less invasive than	thoracentesis
+routine chest x-ray	more rapid than	sputum culture
+routine chest x-ray	detects	cavitary lesions
+routine chest x-ray	evaluates	chest wall deformities
+routine chest x-ray	identifies	pulmonary metastases
+routine chest x-ray	reveals	tracheal deviation
+routine chest x-ray	screens for	histoplasmosis
+routine chest x-ray	assesses	tube placement
+routine chest x-ray	examines	sternal fractures
+routine chest x-ray	checks for	pericardial effusion
+routine chest x-ray	monitors	lung transplant status
+routine chest x-ray	requires	quality control
+routine chest x-ray	performed using	digital detector
+routine chest x-ray	interpreted with	AI assistance
+routine chest x-ray	stored for	legal requirements
+routine chest x-ray	preceded by	pregnancy test
+routine chest x-ray	follows	ALARA principle
+routine chest x-ray	contraindicated in	contrast allergy
+routine chest x-ray	alternative to	V/Q scan
+routine chest x-ray	less specific than	biopsy
+routine chest x-ray	more widely available than	SPECT
+routine chest x-ray	detects	bronchiectasis
+routine chest x-ray	evaluates	chest infection
+routine chest x-ray	identifies	pleural plaques
+routine chest x-ray	reveals	widened mediastinum
+routine chest x-ray	screens for	asbestosis
+routine chest x-ray	assesses	postoperative pneumothorax
+routine chest x-ray	examines	clavicle fractures
+routine chest x-ray	checks for	hemothorax
+routine chest x-ray	monitors	chemotherapy effects
+routine chest x-ray	requires	proper collimation
+routine chest x-ray	performed with	portable equipment
+routine chest x-ray	interpreted with	CAD software
+routine chest x-ray	stored under	HIPAA compliance
+routine chest x-ray	preceded by	patient identification
+routine chest x-ray	follows	radiation safety protocol
+routine chest x-ray	contraindicated in	recent barium study
+routine chest x-ray	alternative to	thoracic MRI
+routine chest x-ray	less costly than	bronchography
+routine chest x-ray	more frequently used than	thoracoscopy
+routine chest x-ray	detects	pulmonary consolidation
+routine chest x-ray	evaluates	rib abnormalities
+routine chest x-ray	identifies	vertebral fractures

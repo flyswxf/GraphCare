@@ -1,0 +1,100 @@
+antacids	are	medications
+antacids	treat	heartburn
+antacids	neutralize	stomach acid
+antacids	contain	aluminum hydroxide
+antacids	contain	magnesium hydroxide
+antacids	contain	calcium carbonate
+antacids	provide	quick relief
+antacids	used for	indigestion
+antacids	interact with	antibiotics
+antacids	reduce	acid reflux
+antacids	alleviate	upset stomach
+antacids	may cause	constipation
+antacids	may cause	diarrhea
+antacids	affect	nutrient absorption
+antacids	interfere with	iron absorption
+antacids	available as	tablets
+antacids	available as	liquids
+antacids	available as	chewables
+antacids	sold	over-the-counter
+antacids	have	side effects
+side effects	include	nausea
+side effects	include	headache
+antacids	contraindicated in	kidney disease
+antacids	interact with	H2 blockers
+antacids	interact with	proton pump inhibitors
+antacids	differ from	acid reducers
+antacids	work	quickly
+antacids	have	short duration
+antacids	may contain	simethicone
+simethicone	relieves	gas
+antacids	prescribed for	GERD
+GERD	is	chronic condition
+antacids	mask	symptoms
+antacids	don't treat	underlying cause
+antacids	recommended for	occasional use
+frequent use	requires	medical advice
+antacids	affect	stomach pH
+stomach pH	influences	digestion
+antacids	may contain	sodium
+sodium	affects	blood pressure
+antacids	may contain	potassium
+potassium	affects	heart rhythm
+antacids	interact with	digoxin
+digoxin	treats	heart conditions
+antacids	interact with	tetracyclines
+tetracyclines	are	antibiotics
+antacids	interact with	fluoroquinolones
+fluoroquinolones	treat	bacterial infections
+antacids	can cause	rebound acidity
+rebound acidity	worsens	symptoms
+antacids	used during	pregnancy
+pregnancy	increases	heartburn
+antacids	help with	gastritis
+gastritis	involves	stomach inflammation
+antacids	relieve	peptic ulcer pain
+peptic ulcer	caused by	H. pylori
+antacids	part of	ulcer treatment
+antacids	differ from	sucralfate
+sucralfate	coats	stomach lining
+antacids	affect	drug absorption
+drug absorption	occurs in	intestines
+antacids	may contain	bismuth
+bismuth	has	antimicrobial properties
+antacids	used before	endoscopy
+endoscopy	examines	digestive tract
+antacids	prevent	stress ulcers
+stress ulcers	occur in	ICU patients
+antacids	have	buffering capacity
+buffering capacity	determines	effectiveness
+antacids	contain	sodium bicarbonate
+sodium bicarbonate	causes	alkalosis
+alkalosis	affects	body pH
+antacids	interact with	levothyroxine
+levothyroxine	treats	hypothyroidism
+antacids	interact with	antifungal drugs
+antifungal drugs	treat	fungal infections
+antacids	work in	stomach
+stomach	produces	gastric acid
+antacids	don't reduce	acid production
+acid production	regulated by	histamine
+antacids	affect	urine pH
+urine pH	influences	drug excretion
+antacids	may contain	magnesium trisilicate
+magnesium trisilicate	absorbs	toxins
+antacids	help with	Zollinger-Ellison syndrome
+Zollinger-Ellison syndrome	causes	acid hypersecretion
+antacids	used in	emergency medicine
+emergency medicine	treats	overdoses
+antacids	counteract	aspirin toxicity
+aspirin toxicity	causes	metabolic acidosis
+antacids	have	rapid onset
+rapid onset	benefits	acute symptoms
+antacids	contain	alginates
+alginates	form	protective barrier
+antacids	differ from	prokinetics
+prokinetics	enhance	gastric motility
+antacids	researched for	COVID-19
+COVID-19	affects	gastrointestinal system
+antacids	may prevent	viral entry
+viral entry	requires	acidic environment

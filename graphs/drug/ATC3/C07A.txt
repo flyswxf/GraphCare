@@ -1,0 +1,100 @@
+beta blocking agents	is a	drug class
+beta blocking agents	treat	hypertension
+beta blocking agents	treat	angina
+beta blocking agents	treat	arrhythmias
+beta blocking agents	reduce	heart rate
+beta blocking agents	lower	blood pressure
+beta blocking agents	used in	heart failure
+beta blocking agents	prevent	migraines
+beta blocking agents	decrease	myocardial oxygen demand
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	interact with	calcium channel blockers
+beta blocking agents	cause	fatigue
+beta blocking agents	cause	bradycardia
+beta blocking agents	cause	hypotension
+beta blocking agents	may worsen	depression
+beta blocking agents	metabolized in	liver
+beta blocking agents	excreted by	kidneys
+beta blocking agents	include	propranolol
+beta blocking agents	include	metoprolol
+beta blocking agents	include	atenolol
+propranolol	is a	non-selective beta blocker
+metoprolol	is a	beta-1 selective blocker
+atenolol	is a	beta-1 selective blocker
+beta blocking agents	block	beta adrenergic receptors
+beta adrenergic receptors	located in	heart
+beta adrenergic receptors	located in	lungs
+beta blocking agents	reduce	cardiac output
+beta blocking agents	increase	coronary perfusion
+beta blocking agents	prescribed for	post-MI patients
+beta blocking agents	improve	survival rate post-MI
+beta blocking agents	can mask	hypoglycemia symptoms
+beta blocking agents	require	dose adjustment in liver disease
+beta blocking agents	require	dose adjustment in renal disease
+beta blocking agents	can cause	sleep disturbances
+beta blocking agents	may lead	erectile dysfunction
+beta blocking agents	alternative to	ACE inhibitors
+beta blocking agents	combined with	diuretics
+beta blocking agents	avoid in	severe peripheral vascular disease
+beta blocking agents	caution in	diabetes
+beta blocking agents	decrease	renin secretion
+renin secretion	affects	blood pressure regulation
+beta blocking agents	first-line for	essential tremor
+beta blocking agents	used for	stage fright
+beta blocking agents	classified as	cardioselective or non-selective
+cardioselective beta blockers	target	beta-1 receptors
+non-selective beta blockers	target	beta-1 and beta-2 receptors
+beta blocking agents	can reverse	left ventricular hypertrophy
+beta blocking agents	reduce	sudden cardiac death risk
+beta blocking agents	contraindicated in	cardiogenic shock
+beta blocking agents	contraindicated in	severe bradycardia
+beta blocking agents	onset of action	varies by drug
+beta blocking agents	half-life	varies by drug
+propranolol	has	lipophilic properties
+metoprolol	available as	extended-release
+atenolol	primarily excreted	unchanged in urine
+beta blocking agents	can cross	blood-brain barrier
+beta blocking agents	affect	central nervous system
+beta blocking agents	may reduce	anxiety symptoms
+beta blocking agents	require	gradual withdrawal
+abrupt cessation	can cause	rebound hypertension
+beta blocking agents	monitored via	heart rate
+beta blocking agents	monitored via	blood pressure
+beta blocking agents	less effective in	elderly
+beta blocking agents	alternative in	pregnancy hypertension
+beta blocking agents	avoid in	pheochromocytoma without alpha blockade
+beta blocking agents	can exacerbate	Raynaud’s phenomenon
+beta blocking agents	reduce	intraocular pressure
+beta blocking agents	used in	glaucoma treatment
+timolol	is a	ophthalmic beta blocker
+beta blocking agents	can affect	lipid profile
+beta blocking agents	may increase	triglycerides
+beta blocking agents	may decrease	HDL cholesterol
+beta blocking agents	compete with	catecholamines
+beta blocking agents	mechanism	competitive antagonism
+beta blocking agents	derived from	isoproterenol structure
+beta blocking agents	developed in	1960s
+beta blocking agents	pioneered by	James Black
+beta blocking agents	Nobel Prize	1988
+beta blocking agents	first approved	propranolol
+beta blocking agents	now include	third-generation agents
+carvedilol	is a	third-generation beta blocker
+carvedilol	has	vasodilatory properties
+nebivolol	is a	beta-1 selective blocker with NO modulation
+beta blocking agents	differ in	ISA activity
+ISA	stands for	intrinsic sympathomimetic activity
+pindolol	has	ISA properties
+beta blocking agents with ISA	cause	less bradycardia
+beta blocking agents	can be	partial agonists
+beta blocking agents	subject to	hepatic first-pass metabolism
+beta blocking agents	bioavailability	varies widely
+beta blocking agents	protein binding	varies
+beta blocking agents	can displace	other protein-bound drugs
+beta blocking agents	may interact	with digoxin
+beta blocking agents	increase	digoxin toxicity risk
+beta blocking agents	interact with	NSAIDs
+NSAIDs	diminish	antihypertensive effect
+beta blocking agents	caution with	verapamil
+verapamil and beta blockers	risk of	heart block
+beta blocking agents	monitoring includes	ECG
+beta blocking agents	require	baseline renal function tests

@@ -1,0 +1,100 @@
+bone marrow biopsy	is a	medical procedure
+bone marrow biopsy	examines	bone marrow
+bone marrow biopsy	diagnoses	blood disorders
+bone marrow biopsy	detects	leukemia
+bone marrow biopsy	evaluates	anemia
+bone marrow biopsy	assesses	lymphoma
+bone marrow biopsy	requires	local anesthesia
+bone marrow biopsy	uses	biopsy needle
+bone marrow biopsy	collects	marrow sample
+bone marrow biopsy	performed by	hematologist
+bone marrow biopsy	involves	bone puncture
+bone marrow biopsy	checks	platelet count
+bone marrow biopsy	monitors	cancer treatment
+bone marrow biopsy	confirms	myelodysplastic syndrome
+bone marrow biopsy	identifies	metastasis
+bone marrow biopsy	rules out	infections
+bone marrow biopsy	measures	cell production
+bone marrow biopsy	evaluates	immune system
+bone marrow biopsy	performed in	hospital
+bone marrow biopsy	requires	sterile technique
+bone marrow biopsy	may cause	pain
+bone marrow biopsy	risks	bleeding
+bone marrow biopsy	complications	infection
+bone marrow biopsy	contraindicated in	bleeding disorders
+bone marrow biopsy	alternative to	blood tests
+bone marrow biopsy	more invasive than	blood draw
+bone marrow biopsy	analyzes	blast cells
+bone marrow biopsy	detects	multiple myeloma
+bone marrow biopsy	evaluates	chemotherapy response
+bone marrow biopsy	guided by	imaging
+bone marrow biopsy	uses	Jamshidi needle
+bone marrow biopsy	samples	iliac crest
+bone marrow biopsy	preferred site	posterior iliac spine
+bone marrow biopsy	lasts	30 minutes
+bone marrow biopsy	requires	patient consent
+bone marrow biopsy	prepares	pathology report
+bone marrow biopsy	interpreted by	pathologist
+bone marrow biopsy	stained with	Wright-Giemsa
+bone marrow biopsy	reveals	fibrosis
+bone marrow biopsy	diagnoses	aplastic anemia
+bone marrow biopsy	assesses	iron stores
+bone marrow biopsy	detects	storage diseases
+bone marrow biopsy	differentiates	leukemia types
+bone marrow biopsy	evaluates	transplant eligibility
+bone marrow biopsy	contraindicated in	osteoporosis
+bone marrow biopsy	requires	coagulation tests
+bone marrow biopsy	preceded by	physical exam
+bone marrow biopsy	follows	blood tests
+bone marrow biopsy	may require	sedation
+bone marrow biopsy	risks	nerve damage
+bone marrow biopsy	complications	hematoma
+bone marrow biopsy	contraindicated in	pregnancy
+bone marrow biopsy	alternative	bone marrow aspiration
+bone marrow biopsy	combined with	blood smear
+bone marrow biopsy	assesses	megakaryocytes
+bone marrow biopsy	detects	myelofibrosis
+bone marrow biopsy	evaluates	erythroid hyperplasia
+bone marrow biopsy	reveals	dysplasia
+bone marrow biopsy	diagnoses	myeloproliferative disorders
+bone marrow biopsy	monitors	bone marrow transplant
+bone marrow biopsy	checks	engraftment
+bone marrow biopsy	detects	minimal residual disease
+bone marrow biopsy	evaluates	graft-versus-host disease
+bone marrow biopsy	requires	follow-up
+bone marrow biopsy	correlates with	survival rate
+bone marrow biopsy	predicts	disease progression
+bone marrow biopsy	influences	treatment plan
+bone marrow biopsy	guides	drug selection
+bone marrow biopsy	assesses	remission status
+bone marrow biopsy	detects	chromosomal abnormalities
+bone marrow biopsy	performs	cytogenetic analysis
+bone marrow biopsy	includes	flow cytometry
+bone marrow biopsy	tests for	CD markers
+bone marrow biopsy	identifies	clonal populations
+bone marrow biopsy	evaluates	lymphocyte subsets
+bone marrow biopsy	measures	cellularity
+bone marrow biopsy	calculates	myeloid-erythroid ratio
+bone marrow biopsy	detects	hemophagocytosis
+bone marrow biopsy	reveals	granulomas
+bone marrow biopsy	diagnoses	histiocytosis
+bone marrow biopsy	assesses	metastatic carcinoma
+bone marrow biopsy	detects	tuberculosis
+bone marrow biopsy	identifies	fungal infections
+bone marrow biopsy	evaluates	parasitic infections
+bone marrow biopsy	reveals	amyloid deposits
+bone marrow biopsy	diagnoses	Gaucher disease
+bone marrow biopsy	assesses	Niemann-Pick disease
+bone marrow biopsy	detects	lipid storage disorders
+bone marrow biopsy	identifies	hemosiderosis
+bone marrow biopsy	evaluates	vitamin deficiencies
+bone marrow biopsy	reveals	megaloblastic changes
+bone marrow biopsy	diagnoses	copper deficiency
+bone marrow biopsy	assesses	zinc toxicity
+bone marrow biopsy	detects	lead poisoning
+bone marrow biopsy	identifies	drug toxicity
+bone marrow biopsy	evaluates	radiation effects
+bone marrow biopsy	reveals	chemotherapy toxicity
+bone marrow biopsy	diagnoses	pure red cell aplasia
+bone marrow biopsy	assesses	congenital disorders
+bone marrow biopsy	predicts	treatment response

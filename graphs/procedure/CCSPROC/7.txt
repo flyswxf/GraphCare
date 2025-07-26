@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+other diagnostic nervous system procedures	include	lumbar puncture
+other diagnostic nervous system procedures	include	EEG
+other diagnostic nervous system procedures	include	nerve conduction study
+lumbar puncture	measures	cerebrospinal fluid pressure
+lumbar puncture	detects	meningitis
+lumbar puncture	diagnoses	subarachnoid hemorrhage
+EEG	records	brain electrical activity
+EEG	diagnoses	epilepsy
+EEG	detects	brain death
+nerve conduction study	assesses	peripheral nerve function
+nerve conduction study	diagnoses	carpal tunnel syndrome
+nerve conduction study	evaluates	neuropathy
+cerebrospinal fluid	contains	glucose
+cerebrospinal fluid	contains	proteins
+cerebrospinal fluid	transports	neurotransmitters
+meningitis	caused by	bacteria
+meningitis	caused by	viruses
+subarachnoid hemorrhage	results from	aneurysm rupture
+brain electrical activity	reflects	neuronal communication
+epilepsy	characterized by	seizures
+brain death	confirmed by	flat EEG
+peripheral nerve	connects	spinal cord
+peripheral nerve	innervates	muscles
+carpal tunnel syndrome	involves	median nerve
+neuropathy	affects	sensory function
+glucose	provides	energy to brain
+proteins	include	tau protein
+neurotransmitters	regulate	mood
+bacteria	treated with	antibiotics
+viruses	treated with	antiviral drugs
+aneurysm rupture	requires	emergency surgery
+neuronal communication	depends on	synapses
+seizures	controlled by	antiepileptic drugs
+flat EEG	indicates	irreversible damage
+spinal cord	transmits	neural signals
+muscles	respond to	motor commands
+median nerve	controls	hand movement
+sensory function	includes	touch perception
+tau protein	associated with	Alzheimer's disease
+mood	influenced by	serotonin
+antibiotics	target	bacterial cell walls
+antiviral drugs	inhibit	viral replication
+emergency surgery	performed by	neurosurgeons
+synapses	use	chemical messengers
+antiepileptic drugs	stabilize	neuronal membranes
+irreversible damage	leads to	organ donation
+neural signals	propagate via	action potentials
+motor commands	originate in	motor cortex
+hand movement	involves	flexor muscles
+touch perception	mediated by	mechanoreceptors
+Alzheimer's disease	characterized by	amyloid plaques
+serotonin	produced in	raphe nuclei
+bacterial cell walls	contain	peptidoglycan
+viral replication	requires	host cells
+neurosurgeons	perform	craniotomies
+chemical messengers	include	dopamine
+neuronal membranes	maintain	resting potential
+organ donation	saves	transplant recipients
+action potentials	follow	all-or-none principle
+motor cortex	located in	frontal lobe
+flexor muscles	antagonized by	extensor muscles
+mechanoreceptors	detect	pressure changes
+amyloid plaques	consist of	beta-amyloid
+raphe nuclei	project to	limbic system
+peptidoglycan	targeted by	penicillin
+host cells	hijacked by	viruses
+craniotomies	allow access to	brain tissue
+dopamine	regulates	reward system
+resting potential	maintained by	sodium-potassium pump
+transplant recipients	require	immunosuppressants
+all-or-none principle	applies to	neuron firing
+frontal lobe	responsible for	executive functions
+extensor muscles	controlled by	radial nerve
+pressure changes	converted to	neural signals
+beta-amyloid	derived from	APP protein
+limbic system	governs	emotional responses
+penicillin	discovered by	Alexander Fleming
+viruses	evade	immune system
+brain tissue	protected by	blood-brain barrier
+reward system	involves	nucleus accumbens
+sodium-potassium pump	requires	ATP
+immunosuppressants	prevent	organ rejection
+neuron firing	initiates at	axon hillock
+executive functions	include	decision making
+radial nerve	arises from	brachial plexus
+neural signals	processed in	somatosensory cortex
+APP protein	cleaved by	secretases
+emotional responses	modulated by	amygdala
+Alexander Fleming	awarded	Nobel Prize
+immune system	produces	antibodies
+blood-brain barrier	formed by	endothelial cells
+nucleus accumbens	activated by	pleasurable stimuli
+ATP	generated in	mitochondria
+organ rejection	mediated by	T cells
+axon hillock	integrates	synaptic inputs
+decision making	impaired in	prefrontal lesions
+brachial plexus	gives rise to	peripheral nerves
+somatosensory cortex	maps	body regions
+secretases	include	gamma-secretase
+amygdala	connected to	hypothalamus

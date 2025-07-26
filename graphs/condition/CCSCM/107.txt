@@ -1,0 +1,100 @@
+cardiac arrest	is caused by	ventricular fibrillation
+ventricular fibrillation	is a type of	arrhythmia
+cardiac arrest	requires	CPR
+ventricular fibrillation	requires	defibrillation
+defibrillation	restores	normal rhythm
+CPR	maintains	blood circulation
+cardiac arrest	causes	lack of oxygen
+lack of oxygen	damages	brain
+ventricular fibrillation	originates in	ventricles
+ventricles	pump	blood
+cardiac arrest	leads to	unconsciousness
+unconsciousness	indicates	medical emergency
+ventricular fibrillation	is detected by	ECG
+ECG	measures	heart activity
+cardiac arrest	has symptom	no pulse
+no pulse	confirms	cardiac arrest
+ventricular fibrillation	is treated with	antiarrhythmics
+antiarrhythmics	stabilize	heart rhythm
+cardiac arrest	has risk factor	coronary artery disease
+coronary artery disease	narrows	arteries
+ventricular fibrillation	follows	myocardial infarction
+myocardial infarction	damages	heart muscle
+cardiac arrest	has complication	organ failure
+organ failure	results from	hypoxia
+ventricular fibrillation	is prevented by	ICD
+ICD	monitors	heart rhythm
+cardiac arrest	occurs during	electrolyte imbalance
+electrolyte imbalance	affects	heart function
+ventricular fibrillation	worsens with	tachycardia
+tachycardia	increases	heart rate
+cardiac arrest	is associated with	sudden death
+sudden death	occurs without	warning
+ventricular fibrillation	is triggered by	stress
+stress	activates	sympathetic system
+cardiac arrest	has mortality rate	high
+high mortality	indicates	severity
+ventricular fibrillation	is common in	cardiomyopathy
+cardiomyopathy	weakens	heart muscle
+cardiac arrest	requires	emergency response
+emergency response	includes	calling 911
+ventricular fibrillation	is managed by	cardiologist
+cardiologist	specializes in	heart disorders
+cardiac arrest	follows	respiratory arrest
+respiratory arrest	stops	breathing
+ventricular fibrillation	is studied in	electrophysiology
+electrophysiology	analyzes	electrical activity
+cardiac arrest	is worsened by	delay
+delay	reduces	survival chance
+ventricular fibrillation	can recur	after treatment
+recurrence	necessitates	follow-up
+cardiac arrest	is preceded by	chest pain
+chest pain	signals	heart problem
+ventricular fibrillation	is influenced by	genetics
+genetics	predispose to	arrhythmias
+cardiac arrest	is more likely in	elderly
+elderly	have	weaker hearts
+ventricular fibrillation	is aggravated by	ischemia
+ischemia	reduces	blood flow
+cardiac arrest	can result from	drowning
+drowning	causes	hypoxia
+ventricular fibrillation	is linked to	long QT syndrome
+long QT syndrome	prolongs	QT interval
+cardiac arrest	is treated with	epinephrine
+epinephrine	stimulates	heart
+ventricular fibrillation	is inhibited by	beta blockers
+beta blockers	slow	heart rate
+cardiac arrest	is predicted by	low ejection fraction
+low ejection fraction	indicates	weak pumping
+ventricular fibrillation	is seen in	Brugada syndrome
+Brugada syndrome	affects	sodium channels
+cardiac arrest	is prevented by	healthy lifestyle
+healthy lifestyle	reduces	heart risks
+ventricular fibrillation	is exacerbated by	drugs
+drugs	alter	heart rhythm
+cardiac arrest	is fatal without	intervention
+intervention	saves	lives
+ventricular fibrillation	is controlled by	amiodarone
+amiodarone	regulates	heartbeat
+cardiac arrest	is confirmed by	flatline ECG
+flatline ECG	shows	asystole
+ventricular fibrillation	is contrasted with	atrial fibrillation
+atrial fibrillation	occurs in	atria
+cardiac arrest	is documented in	medical records
+medical records	track	patient history
+ventricular fibrillation	is researched in	clinical trials
+clinical trials	test	new treatments
+cardiac arrest	is mitigated by	bystander CPR
+bystander CPR	improves	outcomes
+ventricular fibrillation	is simulated in	labs
+labs	study	heart models
+cardiac arrest	is announced by	collapse
+collapse	alerts	witnesses
+ventricular fibrillation	is visualized with	electrograms
+electrograms	display	electrical signals
+cardiac arrest	is time-sensitive
+time-sensitive	means	urgent
+ventricular fibrillation	is influenced by	potassium levels
+potassium levels	affect	conduction
+cardiac arrest	is addressed in	ACLS protocols
+ACLS protocols	guide	resuscitation

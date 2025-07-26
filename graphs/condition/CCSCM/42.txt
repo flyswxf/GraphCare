@@ -1,0 +1,50 @@
+secondary malignancies	is a	cancer type
+secondary malignancies	caused by	chemotherapy
+secondary malignancies	caused by	radiation therapy
+secondary malignancies	caused by	immunosuppression
+secondary malignancies	associated with	bone marrow transplant
+secondary malignancies	diagnosed via	biopsy
+secondary malignancies	diagnosed via	imaging
+secondary malignancies	treated with	surgery
+secondary malignancies	treated with	targeted therapy
+secondary malignancies	treated with	immunotherapy
+secondary malignancies	monitored via	tumor markers
+secondary malignancies	has symptom	weight loss
+secondary malignancies	has symptom	fatigue
+secondary malignancies	has symptom	pain
+secondary malignancies	may progress to	metastasis
+chemotherapy	increases risk of	secondary malignancies
+radiation therapy	increases risk of	secondary malignancies
+alkylating agents	increase risk of	secondary malignancies
+topoisomerase inhibitors	increase risk of	secondary malignancies
+hematologic malignancies	are common in	secondary malignancies
+solid tumors	occur in	secondary malignancies
+secondary malignancies	differ from	primary malignancies
+secondary malignancies	have longer	latency period
+secondary malignancies	require different	treatment approach
+secondary malignancies	associated with	genetic mutations
+TP53 mutations	linked to	secondary malignancies
+secondary malignancies	affect	survival rate
+secondary malignancies	increase	healthcare costs
+secondary malignancies	require	specialized care
+secondary malignancies	need	long-term monitoring
+secondary malignancies	may recur after	remission
+secondary malignancies	involve	multiple organs
+secondary malignancies	complicate	treatment planning
+secondary malignancies	decrease	quality of life
+secondary malignancies	associated with	chronic inflammation
+secondary malignancies	may originate from	stem cells
+secondary malignancies	linked to	DNA damage
+secondary malignancies	influenced by	patient age
+secondary malignancies	more common in	pediatric patients
+secondary malignancies	affect	treatment outcomes
+secondary malignancies	require	multidisciplinary care
+secondary malignancies	increase	mortality risk
+secondary malignancies	may develop	resistance
+secondary malignancies	challenge	cancer survivorship
+secondary malignancies	necessitate	genetic testing
+secondary malignancies	correlate with	treatment duration
+secondary malignancies	vary by	cancer type
+secondary malignancies	depend on	initial therapy
+secondary malignancies	impact	prognosis
+secondary malignancies	involve	complex pathogenesis

@@ -1,0 +1,100 @@
+antiemetics and antinauseants	are	medications
+antiemetics and antinauseants	treat	nausea
+antiemetics and antinauseants	treat	vomiting
+antiemetics and antinauseants	used for	motion sickness
+antiemetics and antinauseants	used for	chemotherapy-induced nausea
+antiemetics and antinauseants	used for	postoperative nausea
+antiemetics and antinauseants	include	serotonin antagonists
+antiemetics and antinauseants	include	dopamine antagonists
+antiemetics and antinauseants	include	antihistamines
+antiemetics and antinauseants	include	anticholinergics
+antiemetics and antinauseants	include	neurokinin-1 antagonists
+antiemetics and antinauseants	include	cannabinoids
+ondansetron	is a	serotonin antagonist
+metoclopramide	is a	dopamine antagonist
+dimenhydrinate	is a	antihistamine
+scopolamine	is a	anticholinergic
+aprepitant	is a	neurokinin-1 antagonist
+dronabinol	is a	cannabinoid
+serotonin antagonists	block	5-HT3 receptors
+dopamine antagonists	block	D2 receptors
+antihistamines	block	H1 receptors
+anticholinergics	block	muscarinic receptors
+neurokinin-1 antagonists	block	NK1 receptors
+cannabinoids	activate	CB1 receptors
+nausea	is a	symptom
+vomiting	is a	symptom
+motion sickness	caused by	vestibular disturbance
+chemotherapy	causes	nausea
+chemotherapy	causes	vomiting
+postoperative period	can cause	nausea
+postoperative period	can cause	vomiting
+serotonin antagonists	effective for	chemotherapy-induced nausea
+dopamine antagonists	effective for	gastroparesis
+antihistamines	effective for	motion sickness
+anticholinergics	effective for	motion sickness
+neurokinin-1 antagonists	effective for	delayed nausea
+cannabinoids	effective for	refractory nausea
+nausea	may lead to	dehydration
+vomiting	may lead to	dehydration
+nausea	may lead to	malnutrition
+vomiting	may lead to	malnutrition
+dehydration	requires	fluid replacement
+malnutrition	requires	nutritional support
+ondansetron	has side effect	headache
+metoclopramide	has side effect	drowsiness
+dimenhydrinate	has side effect	dry mouth
+scopolamine	has side effect	blurred vision
+aprepitant	has side effect	fatigue
+dronabinol	has side effect	dizziness
+headache	treated with	analgesics
+drowsiness	may require	dose adjustment
+dry mouth	managed with	saliva substitutes
+blurred vision	may require	discontinuation
+fatigue	managed with	rest
+dizziness	may require	fall prevention
+chemotherapy-induced nausea	prevented with	premedication
+postoperative nausea	prevented with	prophylactic antiemetics
+motion sickness	prevented with	pre-travel medication
+premedication	includes	antiemetics
+prophylactic antiemetics	reduce	postoperative complications
+pre-travel medication	improves	travel comfort
+antiemetics	administered via	oral route
+antiemetics	administered via	intravenous route
+antiemetics	administered via	transdermal route
+oral route	convenient for	outpatient use
+intravenous route	fast-acting for	acute nausea
+transdermal route	useful for	motion sickness
+ondansetron	available as	oral tablet
+ondansetron	available as	intravenous solution
+metoclopramide	available as	oral syrup
+metoclopramide	available as	injection
+scopolamine	available as	transdermal patch
+dimenhydrinate	available as	chewable tablet
+aprepitant	available as	capsule
+dronabinol	available as	oral solution
+antiemetics	can interact with	other medications
+ondansetron	interacts with	QT-prolonging drugs
+metoclopramide	interacts with	CNS depressants
+dimenhydrinate	interacts with	alcohol
+scopolamine	interacts with	anticholinergics
+aprepitant	interacts with	CYP3A4 substrates
+dronabinol	interacts with	psychotropic drugs
+QT-prolonging drugs	increase risk of	arrhythmia
+CNS depressants	increase risk of	sedation
+alcohol	increases risk of	drowsiness
+anticholinergics	increase risk of	confusion
+CYP3A4 substrates	affected by	metabolism changes
+psychotropic drugs	may cause	mood changes
+antiemetics	contraindicated in	certain conditions
+ondansetron	contraindicated in	severe liver disease
+metoclopramide	contraindicated in	GI obstruction
+dimenhydrinate	contraindicated in	glaucoma
+scopolamine	contraindicated in	myasthenia gravis
+aprepitant	contraindicated in	severe hepatic impairment
+dronabinol	contraindicated in	psychosis
+severe liver disease	requires	dose adjustment
+GI obstruction	requires	alternative treatment
+glaucoma	worsened by	anticholinergics
+myasthenia gravis	worsened by	anticholinergics
+psychosis	worsened by	cannabinoids

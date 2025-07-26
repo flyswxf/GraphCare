@@ -1,0 +1,100 @@
+pneumonia	is a	lung infection
+pneumonia	may cause	fever
+pneumonia	may cause	cough
+pneumonia	may cause	shortness of breath
+pneumonia	may cause	chest pain
+pneumonia	may cause	fatigue
+pneumonia	has symptom	sputum production
+pneumonia	is diagnosed by	chest X-ray
+pneumonia	is treated with	antibiotics
+pneumonia	can lead to	sepsis
+pneumonia	can lead to	respiratory failure
+pneumonia	is caused by	bacteria
+pneumonia	is caused by	viruses
+pneumonia	is caused by	fungi
+pneumonia	risk factor	smoking
+pneumonia	risk factor	old age
+pneumonia	risk factor	weakened immune system
+pneumonia	prevented by	vaccination
+Streptococcus pneumoniae	causes	pneumonia
+Haemophilus influenzae	causes	pneumonia
+Mycoplasma pneumoniae	causes	pneumonia
+Legionella pneumophila	causes	pneumonia
+Influenza virus	can lead to	pneumonia
+RSV	can lead to	pneumonia
+pneumonia	requires	hospitalization
+pneumonia	complication	pleural effusion
+pneumonia	complication	lung abscess
+pneumonia	complication	empyema
+pneumonia	increases risk of	mortality
+pneumonia	treated with	oxygen therapy
+pneumonia	treated with	fluids
+pneumonia	treated with	antipyretics
+pneumonia	treated with	bronchodilators
+azithromycin	treats	pneumonia
+amoxicillin	treats	pneumonia
+levofloxacin	treats	pneumonia
+ceftriaxone	treats	pneumonia
+pneumonia	has type	community-acquired pneumonia
+pneumonia	has type	hospital-acquired pneumonia
+pneumonia	has type	ventilator-associated pneumonia
+pneumonia	has type	aspiration pneumonia
+pneumonia	has type	walking pneumonia
+pneumococcal vaccine	prevents	pneumonia
+flu vaccine	prevents	pneumonia
+pneumonia	common in	children
+pneumonia	common in	elderly
+pneumonia	diagnosis requires	physical exam
+pneumonia	diagnosis requires	blood tests
+pneumonia	diagnosis requires	sputum culture
+pneumonia	may require	ICU admission
+pneumonia	associated with	COPD
+pneumonia	associated with	asthma
+pneumonia	associated with	diabetes
+pneumonia	associated with	heart failure
+pneumonia	recovery requires	rest
+pneumonia	recovery requires	nutrition
+pneumonia	can recur	reinfection
+pneumonia	severity measured by	CURB-65 score
+pneumonia	complication	ARDS
+pneumonia	complication	bacteremia
+pneumonia	complication	meningitis
+pneumonia	complication	endocarditis
+pneumonia	complication	pericarditis
+pneumonia	complication	septic shock
+pneumonia	treated by	pulmonologist
+pneumonia	treated by	internist
+pneumonia	treated by	infectious disease specialist
+pneumonia	risk factor	alcoholism
+pneumonia	risk factor	malnutrition
+pneumonia	risk factor	chronic lung disease
+pneumonia	risk factor	HIV
+pneumonia	risk factor	cancer
+pneumonia	risk factor	chemotherapy
+pneumonia	prevented by	hand washing
+pneumonia	prevented by	mask wearing
+pneumonia	prevented by	smoking cessation
+pneumonia	diagnosis includes	pulse oximetry
+pneumonia	diagnosis includes	CT scan
+pneumonia	diagnosis includes	bronchoscopy
+pneumonia	differential diagnosis	bronchitis
+pneumonia	differential diagnosis	tuberculosis
+pneumonia	differential diagnosis	pulmonary embolism
+pneumonia	differential diagnosis	lung cancer
+pneumonia	treatment duration	5-7 days
+pneumonia	treatment duration	7-14 days
+pneumonia	prognostic factor	age
+pneumonia	prognostic factor	comorbidities
+pneumonia	prognostic factor	oxygen saturation
+pneumonia	prognostic factor	white blood cell count
+pneumonia	prognostic factor	blood pressure
+pneumonia	complication	renal failure
+pneumonia	complication	liver failure
+pneumonia	complication	delirium
+pneumonia	management includes	chest physiotherapy
+pneumonia	management includes	pain control
+pneumonia	management includes	fever control
+pneumonia	management includes	hydration
+pneumonia	readmission risk	high
+pneumonia	mortality rate	varies
+pneumonia	research includes	antibiotic resistance

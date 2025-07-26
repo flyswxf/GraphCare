@@ -1,0 +1,100 @@
+beta-lactam antibacterials	include	penicillins
+penicillins	are subclass of	beta-lactams
+penicillins	target	bacterial cell wall
+bacterial cell wall synthesis	inhibited by	beta-lactams
+penicillin G	is prototype of	penicillins
+amoxicillin	is derivative of	penicillin
+beta-lactams	contain	beta-lactam ring
+beta-lactam ring	targeted by	beta-lactamases
+beta-lactamases	cause	antibiotic resistance
+clavulanic acid	inhibits	beta-lactamases
+amoxicillin-clavulanate	combines	beta-lactam and inhibitor
+penicillins	treat	streptococcal infections
+streptococcal infections	cause	pharyngitis
+penicillin V	is first-line for	strep throat
+penicillin allergy	contraindicates	cephalosporins
+cephalosporins	share structure with	penicillins
+MRSA	is resistant to	beta-lactams
+vancomycin	treats	MRSA infections
+penicillins	excreted via	kidneys
+renal impairment	requires dose adjustment of	penicillins
+probenecid	delays excretion of	penicillins
+broad-spectrum penicillins	cover	gram-negative bacteria
+piperacillin	is extended-spectrum	penicillin
+Pseudomonas aeruginosa	treated with	piperacillin-tazobactam
+beta-lactams	show time-dependent	killing
+extended infusion	optimizes	beta-lactam efficacy
+penicillins	cross	blood-brain barrier
+penicillin G	treats	neurosyphilis
+benzathine penicillin	provides prolonged	action
+rheumatic fever prophylaxis	uses	benzathine penicillin
+penicillins	disrupt	bacterial peptidoglycan
+peptidoglycan synthesis	blocked by	beta-lactams
+penicillin-binding proteins	are targets of	beta-lactams
+PBP2a	mediates	MRSA resistance
+allergic reactions	are risk of	penicillins
+anaphylaxis	is severe reaction to	penicillins
+skin testing	predicts	penicillin allergy
+cross-reactivity	occurs between	penicillins and cephalosporins
+diarrhea	is common side effect of	broad-spectrum penicillins
+Clostridioides difficile	overgrowth from	antibiotic use
+therapeutic drug monitoring	guides	beta-lactam dosing
+critical illness	alters	beta-lactam pharmacokinetics
+continuous renal replacement therapy	affects	penicillin clearance
+neonates	have immature	penicillin metabolism
+pregnancy	requires caution with	certain penicillins
+ampicillin	treats	Listeria infections
+Enterococcus faecalis	often susceptible to	ampicillin
+penicillin resistance	mediated by	altered PBPs
+Streptococcus pneumoniae	shows increasing	penicillin resistance
+meningitis treatment	requires high-dose	penicillin
+beta-lactams	synergize with	aminoglycosides
+endocarditis treatment	combines	penicillin and gentamicin
+penicillins	are bactericidal	antibiotics
+bactericidal activity	depends on	bacterial growth rate
+prolonged infusion	enhances	beta-lactam effectiveness
+therapeutic failure	may indicate	resistance development
+antibiotic stewardship	reduces	resistance emergence
+de-escalation	follows	culture results
+empiric therapy	often includes	broad-spectrum penicillins
+healthcare-associated infections	may require	anti-pseudomonal penicillins
+neutropenic fever	treated with	piperacillin-tazobactam
+beta-lactams	contraindicated in	true allergy
+desensitization	allows use in	allergic patients
+cross-allergenicity	varies among	beta-lactams
+cephlosporins	have lower cross-reactivity with	penicillins
+antibiotic-associated diarrhea	results from	microbiota disruption
+probiotics	may prevent	antibiotic-associated diarrhea
+hepatotoxicity	is rare side effect of	certain penicillins
+drug-induced liver injury	monitored via	liver enzymes
+neutropenia	may occur with	prolonged penicillin use
+platelet dysfunction	reported with	high-dose penicillins
+renal toxicity	uncommon with	penicillins
+interstitial nephritis	is hypersensitivity reaction to	penicillins
+electrolyte imbalance	can result from	high-dose penicillins
+sodium content	varies among	penicillin formulations
+penicillin G potassium	contains	significant potassium
+drug interactions	minimal with	penicillins
+oral contraceptives	may have reduced efficacy with	penicillins
+methotrexate	toxicity increased by	penicillins
+warfarin	effect potentially enhanced by	broad-spectrum penicillins
+aminoglycosides	inactivated by	penicillin co-administration
+probenecid	increases levels of	penicillins
+uricosuric effect	shared by	high-dose penicillins
+false-positive urine glucose tests	occur with	penicillin use
+Coombs test	may turn positive during	penicillin therapy
+seizure threshold	lowered by	very high penicillin doses
+neurotoxicity	risk with	renal impairment
+penicillin skin testing	requires	major and minor determinants
+negative predictive value	high for	penicillin skin testing
+cephalosporin use	often safe in	penicillin-allergic patients
+carbapenems	show higher cross-reactivity with	penicillins
+monobactams	lack cross-reactivity with	penicillins
+antibiotic rotation	reduces	resistance pressure
+combination therapy	prevents	resistance emergence
+pharmacodynamic monitoring	optimizes	beta-lactam dosing
+therapeutic drug monitoring	valuable for	prolonged infusions
+mutation prevention concentration	guides	dosing strategies
+post-antibiotic effect	minimal for	beta-lactams
+inoculum effect	influences	beta-lactam activity
+biofilm penetration	limited for	penicillins

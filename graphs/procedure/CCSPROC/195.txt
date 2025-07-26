@@ -1,0 +1,100 @@
+diagnostic ultrasound of urinary tract	is a	medical imaging technique
+diagnostic ultrasound of urinary tract	examines	urinary system
+urinary system	includes	kidneys
+urinary system	includes	ureters
+urinary system	includes	bladder
+urinary system	includes	urethra
+diagnostic ultrasound of urinary tract	detects	kidney stones
+diagnostic ultrasound of urinary tract	evaluates	hydronephrosis
+diagnostic ultrasound of urinary tract	identifies	tumors
+diagnostic ultrasound of urinary tract	assesses	bladder volume
+diagnostic ultrasound of urinary tract	measures	post-void residual
+diagnostic ultrasound of urinary tract	diagnoses	urinary retention
+diagnostic ultrasound of urinary tract	screens	congenital abnormalities
+diagnostic ultrasound of urinary tract	monitors	pregnancy complications
+diagnostic ultrasound of urinary tract	differentiates	cystic lesions
+diagnostic ultrasound of urinary tract	evaluates	prostate enlargement
+diagnostic ultrasound of urinary tract	guides	biopsies
+diagnostic ultrasound of urinary tract	requires	transducer
+transducer	emits	ultrasound waves
+ultrasound waves	produce	real-time images
+diagnostic ultrasound of urinary tract	is non-invasive	diagnostic tool
+diagnostic ultrasound of urinary tract	avoids	radiation exposure
+diagnostic ultrasound of urinary tract	precedes	CT scan
+diagnostic ultrasound of urinary tract	complements	urinalysis
+diagnostic ultrasound of urinary tract	follows	physical examination
+diagnostic ultrasound of urinary tract	confirms	urinary obstruction
+diagnostic ultrasound of urinary tract	assesses	renal blood flow
+renal blood flow	indicates	kidney function
+diagnostic ultrasound of urinary tract	detects	ureteral jets
+ureteral jets	signify	ureteral patency
+diagnostic ultrasound of urinary tract	evaluates	bladder wall thickness
+bladder wall thickness	suggests	detrusor hypertrophy
+diagnostic ultrasound of urinary tract	identifies	diverticula
+diverticula	may cause	urinary stasis
+diagnostic ultrasound of urinary tract	screens	vesicoureteral reflux
+vesicoureteral reflux	predisposes	pyelonephritis
+diagnostic ultrasound of urinary tract	monitors	nephrolithiasis
+nephrolithiasis	causes	renal colic
+diagnostic ultrasound of urinary tract	assesses	transplanted kidneys
+transplanted kidneys	require	immunosuppression
+diagnostic ultrasound of urinary tract	detects	perinephric fluid
+perinephric fluid	indicates	urinoma
+diagnostic ultrasound of urinary tract	evaluates	ureterocele
+ureterocele	may obstruct	urine flow
+diagnostic ultrasound of urinary tract	identifies	urethral strictures
+urethral strictures	cause	urinary hesitation
+diagnostic ultrasound of urinary tract	measures	renal dimensions
+renal dimensions	reflect	chronic kidney disease
+diagnostic ultrasound of urinary tract	differentiates	solid masses
+solid masses	require	further evaluation
+diagnostic ultrasound of urinary tract	assesses	bladder tumors
+bladder tumors	may cause	hematuria
+diagnostic ultrasound of urinary tract	screens	polycystic kidney disease
+polycystic kidney disease	leads	renal failure
+diagnostic ultrasound of urinary tract	evaluates	neurogenic bladder
+neurogenic bladder	results	spinal cord injury
+diagnostic ultrasound of urinary tract	detects	emphysematous pyelonephritis
+emphysematous pyelonephritis	requires	urgent treatment
+diagnostic ultrasound of urinary tract	identifies	renal cysts
+renal cysts	are common	benign findings
+diagnostic ultrasound of urinary tract	differentiates	parapelvic cysts
+parapelvic cysts	mimic	hydronephrosis
+diagnostic ultrasound of urinary tract	evaluates	ureteral stones
+ureteral stones	cause	flank pain
+diagnostic ultrasound of urinary tract	assesses	bladder outlet obstruction
+bladder outlet obstruction	leads	urinary hesitancy
+diagnostic ultrasound of urinary tract	screens	posterior urethral valves
+posterior urethral valves	affect	male infants
+diagnostic ultrasound of urinary tract	detects	pyonephrosis
+pyonephrosis	is a	urologic emergency
+diagnostic ultrasound of urinary tract	evaluates	renal abscess
+renal abscess	requires	antibiotic therapy
+diagnostic ultrasound of urinary tract	identifies	ureteral strictures
+ureteral strictures	complicate	urologic surgery
+diagnostic ultrasound of urinary tract	measures	bladder capacity
+bladder capacity	decreases	with age
+diagnostic ultrasound of urinary tract	differentiates	urothelial carcinoma
+urothelial carcinoma	is a	malignant tumor
+diagnostic ultrasound of urinary tract	evaluates	renal artery stenosis
+renal artery stenosis	causes	secondary hypertension
+diagnostic ultrasound of urinary tract	screens	bladder calculi
+bladder calculi	result	urinary stasis
+diagnostic ultrasound of urinary tract	detects	renal vein thrombosis
+renal vein thrombosis	complicates	nephrotic syndrome
+diagnostic ultrasound of urinary tract	assesses	prostatic calcifications
+prostatic calcifications	are common	incidental findings
+diagnostic ultrasound of urinary tract	identifies	ureteropelvic junction obstruction
+ureteropelvic junction obstruction	predisposes	recurrent infections
+diagnostic ultrasound of urinary tract	evaluates	megacalycosis
+megacalycosis	is a	congenital condition
+diagnostic ultrasound of urinary tract	differentiates	xanthogranulomatous pyelonephritis
+xanthogranulomatous pyelonephritis	mimics	renal cell carcinoma
+diagnostic ultrasound of urinary tract	screens	ureteral polyps
+ureteral polyps	are rare	benign tumors
+diagnostic ultrasound of urinary tract	detects	bladder diverticulum
+bladder diverticulum	may harbor	infections
+diagnostic ultrasound of urinary tract	assesses	renal cortical thinning
+renal cortical thinning	indicates	chronic damage
+diagnostic ultrasound of urinary tract	guides	nephrostomy placement
+nephrostomy placement	relieves	urinary obstruction

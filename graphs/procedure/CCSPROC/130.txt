@@ -1,0 +1,100 @@
+hysteroscopy	is a	diagnostic procedure
+colposcopy	is a	diagnostic procedure
+laparoscopy	is a	diagnostic procedure
+hysteroscopy	examines	uterus
+colposcopy	examines	cervix
+laparoscopy	examines	pelvic organs
+pap smear	is a	diagnostic procedure
+pap smear	detects	cervical cancer
+pap smear	requires	cervical cells
+mammography	is a	diagnostic procedure
+mammography	detects	breast cancer
+mammography	uses	x-ray
+transvaginal ultrasound	is a	diagnostic procedure
+transvaginal ultrasound	examines	reproductive organs
+transvaginal ultrasound	uses	sound waves
+endometrial biopsy	is a	diagnostic procedure
+endometrial biopsy	examines	uterine lining
+endometrial biopsy	detects	abnormal cells
+hysterosalpingography	is a	diagnostic procedure
+hysterosalpingography	examines	fallopian tubes
+hysterosalpingography	uses	contrast dye
+pelvic exam	is a	diagnostic procedure
+pelvic exam	assesses	reproductive health
+pelvic exam	includes	visual inspection
+breast biopsy	is a	diagnostic procedure
+breast biopsy	confirms	cancer diagnosis
+breast biopsy	requires	tissue sample
+fertility testing	is a	diagnostic procedure
+fertility testing	evaluates	reproductive function
+fertility testing	includes	hormone tests
+ovarian reserve testing	is a	diagnostic procedure
+ovarian reserve testing	assesses	egg count
+ovarian reserve testing	measures	AMH levels
+salpingoscopy	is a	diagnostic procedure
+salpingoscopy	examines	fallopian tubes
+salpingoscopy	uses	endoscope
+culdocentesis	is a	diagnostic procedure
+culdocentesis	detects	fluid abnormalities
+culdocentesis	involves	needle aspiration
+vaginal culture	is a	diagnostic procedure
+vaginal culture	identifies	infections
+vaginal culture	tests	microorganisms
+cervical biopsy	is a	diagnostic procedure
+cervical biopsy	examines	cervical tissue
+cervical biopsy	detects	precancerous cells
+breast MRI	is a	diagnostic procedure
+breast MRI	provides	detailed images
+breast MRI	uses	magnetic fields
+pelvic ultrasound	is a	diagnostic procedure
+pelvic ultrasound	visualizes	reproductive organs
+pelvic ultrasound	helps diagnose	abnormalities
+falloposcopy	is a	diagnostic procedure
+falloposcopy	inspects	fallopian tubes
+falloposcopy	assesses	tubal patency
+uterine fibroid embolization	is a	diagnostic procedure
+uterine fibroid embolization	evaluates	blood flow
+uterine fibroid embolization	treats	fibroids
+endometrial ablation	is a	diagnostic procedure
+endometrial ablation	examines	uterine lining
+endometrial ablation	treats	heavy bleeding
+ovarian cyst aspiration	is a	diagnostic procedure
+ovarian cyst aspiration	removes	cyst fluid
+ovarian cyst aspiration	analyzes	cyst contents
+cervical cerclage	is a	diagnostic procedure
+cervical cerclage	evaluates	cervical incompetence
+cervical cerclage	prevents	preterm birth
+tubal patency test	is a	diagnostic procedure
+tubal patency test	checks	fallopian tubes
+tubal patency test	uses	dye solution
+vaginal pH test	is a	diagnostic procedure
+vaginal pH test	measures	acidity
+vaginal pH test	detects	infections
+breast ductal lavage	is a	diagnostic procedure
+breast ductal lavage	collects	ductal cells
+breast ductal lavage	assesses	cancer risk
+endometrial scratch	is a	diagnostic procedure
+endometrial scratch	evaluates	implantation
+endometrial scratch	improves	fertility
+myomectomy	is a	diagnostic procedure
+myomectomy	removes	fibroids
+myomectomy	preserves	uterus
+oophorectomy	is a	diagnostic procedure
+oophorectomy	removes	ovaries
+oophorectomy	treats	ovarian cancer
+salpingectomy	is a	diagnostic procedure
+salpingectomy	removes	fallopian tubes
+salpingectomy	prevents	ectopic pregnancy
+uterine artery embolization	is a	diagnostic procedure
+uterine artery embolization	blocks	blood flow
+uterine artery embolization	shrinks	fibroids
+vulvar biopsy	is a	diagnostic procedure
+vulvar biopsy	examines	vulvar tissue
+vulvar biopsy	diagnoses	skin disorders
+breast thermography	is a	diagnostic procedure
+breast thermography	detects	heat patterns
+breast thermography	screens	breast cancer
+cervical dilation	is a	diagnostic procedure
+cervical dilation	assesses	cervical opening
+cervical dilation	prepares	childbirth
+vaginal manometry	is a	diagnostic procedure

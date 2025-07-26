@@ -1,0 +1,100 @@
+cancer chemotherapy	is a	cancer treatment
+cancer chemotherapy	uses	cytotoxic drugs
+cancer chemotherapy	targets	rapidly dividing cells
+cancer chemotherapy	causes	side effects
+cancer chemotherapy	requires	treatment cycles
+cancer chemotherapy	can be	neoadjuvant therapy
+cancer chemotherapy	can be	adjuvant therapy
+cancer chemotherapy	can be	palliative therapy
+chemotherapy drugs	inhibit	cell division
+chemotherapy drugs	damage	DNA
+chemotherapy drugs	interfere with	cell metabolism
+alkylating agents	are a class of	chemotherapy drugs
+antimetabolites	are a class of	chemotherapy drugs
+antitumor antibiotics	are a class of	chemotherapy drugs
+topoisomerase inhibitors	are a class of	chemotherapy drugs
+mitotic inhibitors	are a class of	chemotherapy drugs
+cisplatin	is an	alkylating agent
+5-fluorouracil	is an	antimetabolite
+doxorubicin	is an	antitumor antibiotic
+etoposide	is a	topoisomerase inhibitor
+paclitaxel	is a	mitotic inhibitor
+chemotherapy	can cause	myelosuppression
+chemotherapy	can cause	nausea
+chemotherapy	can cause	hair loss
+chemotherapy	can cause	fatigue
+chemotherapy	can cause	neuropathy
+chemotherapy	can cause	mucositis
+chemotherapy	increases risk of	infection
+chemotherapy	requires	blood monitoring
+chemotherapy	often combined with	radiotherapy
+chemotherapy	often combined with	surgery
+chemotherapy	often combined with	immunotherapy
+chemotherapy	often combined with	targeted therapy
+combination chemotherapy	uses	multiple drugs
+combination chemotherapy	improves	treatment efficacy
+chemotherapy resistance	reduces	treatment effectiveness
+chemotherapy resistance	involves	tumor heterogeneity
+chemotherapy resistance	involves	drug efflux pumps
+chemotherapy resistance	involves	DNA repair mechanisms
+chemotherapy response	predicts	prognosis
+chemotherapy response	assessed by	imaging
+chemotherapy response	assessed by	tumor markers
+chemotherapy regimens	vary by	cancer type
+chemotherapy regimens	vary by	disease stage
+chemotherapy regimens	consider	patient factors
+breast cancer chemotherapy	often includes	anthracyclines
+breast cancer chemotherapy	often includes	taxanes
+colorectal cancer chemotherapy	often includes	fluoropyrimidines
+colorectal cancer chemotherapy	often includes	oxaliplatin
+lung cancer chemotherapy	often includes	platinum drugs
+leukemia chemotherapy	often includes	antimetabolites
+lymphoma chemotherapy	often includes	alkylating agents
+chemotherapy administration	can be	intravenous
+chemotherapy administration	can be	oral
+chemotherapy administration	can be	intrathecal
+chemotherapy administration	can be	intraperitoneal
+chemotherapy administration	requires	vascular access
+central venous catheter	facilitates	chemotherapy delivery
+port-a-cath	facilitates	chemotherapy delivery
+chemotherapy nurses	administer	chemotherapy
+chemotherapy nurses	monitor	side effects
+oncologists	prescribe	chemotherapy
+oncologists	adjust	chemotherapy doses
+chemotherapy dosing	based on	body surface area
+chemotherapy dosing	adjusted for	renal function
+chemotherapy dosing	adjusted for	liver function
+chemotherapy toxicity	affects	dose limitations
+chemotherapy toxicity	requires	supportive care
+supportive care	includes	antiemetics
+supportive care	includes	growth factors
+supportive care	includes	transfusions
+granulocyte colony-stimulating factor	treats	neutropenia
+erythropoietin	treats	anemia
+ondansetron	prevents	chemotherapy-induced nausea
+dexamethasone	reduces	chemotherapy side effects
+chemotherapy education	prepares	patients
+chemotherapy education	covers	side effect management
+chemotherapy consent	documents	risks
+chemotherapy consent	documents	benefits
+chemotherapy protocols	standardize	treatment
+chemotherapy protocols	ensure	safety
+chemotherapy protocols	improve	outcomes
+chemotherapy clinical trials	evaluate	new drugs
+chemotherapy clinical trials	optimize	regimens
+chemotherapy costs	impact	accessibility
+chemotherapy costs	vary by	drug type
+chemotherapy costs	include	supportive medications
+chemotherapy waste	requires	special disposal
+chemotherapy exposure	risks	healthcare workers
+chemotherapy precautions	protect	caregivers
+chemotherapy-induced secondary cancers	are a	long-term risk
+chemotherapy-induced cardiotoxicity	affects	heart function
+chemotherapy-induced infertility	affects	reproductive health
+chemotherapy-induced cognitive impairment	affects	memory
+chemotherapy survivorship	requires	follow-up care
+chemotherapy survivorship	includes	surveillance
+chemotherapy survivorship	addresses	late effects
+chemotherapy response rate	measures	tumor shrinkage
+chemotherapy progression-free survival	measures	disease control
+chemotherapy overall survival	measures	mortality benefit

@@ -1,0 +1,100 @@
+other infections	include	parasitic infections
+parasitic infections	caused by	parasites
+parasites	can cause	malaria
+malaria	transmitted by	mosquitoes
+mosquitoes	carry	Plasmodium
+Plasmodium	causes	malaria
+malaria	treated with	antimalarials
+antimalarials	include	chloroquine
+chloroquine	prevents	malaria
+malaria	may lead to	anemia
+anemia	caused by	hemolysis
+hemolysis	results from	malaria
+malaria	can cause	cerebral malaria
+cerebral malaria	leads to	coma
+coma	requires	intensive care
+parasitic infections	include	schistosomiasis
+schistosomiasis	caused by	Schistosoma
+Schistosoma	infects	humans
+humans	exposed to	contaminated water
+contaminated water	contains	Schistosoma
+schistosomiasis	leads to	liver damage
+liver damage	results in	fibrosis
+fibrosis	may progress to	cirrhosis
+cirrhosis	increases risk of	liver cancer
+schistosomiasis	treated with	praziquantel
+praziquantel	kills	Schistosoma
+parasitic infections	include	giardiasis
+giardiasis	caused by	Giardia
+Giardia	transmitted via	contaminated water
+giardiasis	causes	diarrhea
+diarrhea	leads to	dehydration
+dehydration	treated with	oral rehydration
+giardiasis	treated with	metronidazole
+metronidazole	targets	Giardia
+parasitic infections	include	toxoplasmosis
+toxoplasmosis	caused by	Toxoplasma
+Toxoplasma	carried by	cats
+cats	transmit	Toxoplasma
+toxoplasmosis	dangerous for	pregnant women
+pregnant women	risk	fetal infection
+fetal infection	can cause	birth defects
+birth defects	include	blindness
+toxoplasmosis	treated with	pyrimethamine
+pyrimethamine	combined with	sulfadiazine
+sulfadiazine	treats	toxoplasmosis
+other infections	include	fungal infections
+fungal infections	caused by	fungi
+fungi	can cause	candidiasis
+candidiasis	affects	mucous membranes
+mucous membranes	include	oral thrush
+oral thrush	treated with	antifungals
+antifungals	include	fluconazole
+fluconazole	targets	Candida
+fungal infections	include	aspergillosis
+aspergillosis	caused by	Aspergillus
+Aspergillus	found in	soil
+soil	harbors	Aspergillus
+aspergillosis	affects	lungs
+lungs	damaged by	Aspergillus
+aspergillosis	treated with	voriconazole
+voriconazole	inhibits	fungal growth
+other infections	include	bacterial infections
+bacterial infections	caused by	bacteria
+bacteria	can cause	pneumonia
+pneumonia	affects	lungs
+lungs	inflamed by	pneumonia
+pneumonia	treated with	antibiotics
+antibiotics	include	amoxicillin
+amoxicillin	kills	bacteria
+bacterial infections	include	tuberculosis
+tuberculosis	caused by	Mycobacterium
+Mycobacterium	transmitted via	air
+air	carries	Mycobacterium
+tuberculosis	affects	lungs
+lungs	scarred by	tuberculosis
+tuberculosis	treated with	rifampin
+rifampin	targets	Mycobacterium
+other infections	include	viral infections
+viral infections	caused by	viruses
+viruses	can cause	influenza
+influenza	spreads via	droplets
+droplets	contain	influenza virus
+influenza	causes	fever
+fever	treated with	antipyretics
+antipyretics	include	acetaminophen
+acetaminophen	reduces	fever
+viral infections	include	HIV
+HIV	attacks	immune system
+immune system	weakened by	HIV
+HIV	leads to	AIDS
+AIDS	increases risk of	opportunistic infections
+opportunistic infections	include	Pneumocystis pneumonia
+Pneumocystis pneumonia	caused by	fungus
+fungus	infects	immunocompromised
+immunocompromised	vulnerable to	infections
+HIV	treated with	antiretrovirals
+antiretrovirals	include	tenofovir
+tenofovir	suppresses	HIV
+other infections	prevented by	vaccination
+vaccination	builds	immunity

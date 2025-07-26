@@ -1,0 +1,100 @@
+corticosteroids	is a	drug class
+corticosteroids	contains	glucocorticoids
+corticosteroids	contains	mineralocorticoids
+corticosteroids	treats	inflammation
+corticosteroids	treats	autoimmune disorders
+corticosteroids	administrated via	oral route
+corticosteroids	administrated via	inhalation
+corticosteroids	administrated via	injection
+corticosteroids	has	side effects
+side effects	include	osteoporosis
+side effects	include	weight gain
+side effects	include	hypertension
+side effects	include	diabetes
+side effects	include	mood changes
+corticosteroids	interacts with	NSAIDs
+corticosteroids	interacts with	anticoagulants
+corticosteroids	interacts with	diuretics
+corticosteroids	contraindicated with	infections
+corticosteroids	contraindicated with	ocular herpes
+corticosteroids	contraindicated with	peptic ulcer
+corticosteroids	requires	tapering
+tapering	prevents	adrenal insufficiency
+corticosteroids	used in	asthma treatment
+corticosteroids	used in	rheumatoid arthritis treatment
+corticosteroids	used in	lupus treatment
+corticosteroids	used in	allergic reactions
+corticosteroids	mechanism of action	immunosuppression
+immunosuppression	increases	infection risk
+corticosteroids	affects	cortisol levels
+cortisol	is a	stress hormone
+corticosteroids	monitored via	blood tests
+blood tests	measure	glucose levels
+blood tests	measure	potassium levels
+corticosteroids	combinations include	antibiotics
+corticosteroids	combinations include	antifungals
+corticosteroids	combinations include	local anesthetics
+corticosteroids	combinations include	vitamin D analogs
+corticosteroids	combinations include	bronchodilators
+bronchodilators	treat	COPD
+COPD	is a	lung disease
+corticosteroids	topical forms	creams
+corticosteroids	topical forms	ointments
+corticosteroids	topical forms	lotions
+topical corticosteroids	treat	eczema
+topical corticosteroids	treat	psoriasis
+psoriasis	is a	skin condition
+corticosteroids	inhaled forms	prevent	asthma attacks
+asthma attacks	cause	bronchospasm
+corticosteroids	systemic forms	treat	severe allergies
+severe allergies	may cause	anaphylaxis
+corticosteroids	ophthalmic forms	treat	eye inflammation
+eye inflammation	causes	redness
+corticosteroids	nasal forms	treat	rhinitis
+rhinitis	causes	nasal congestion
+corticosteroids	intra-articular forms	treat	joint inflammation
+joint inflammation	occurs in	arthritis
+corticosteroids	pulse therapy	treats	severe disease flares
+disease flares	require	hospitalization
+corticosteroids	pregnancy category	C
+pregnancy category C	indicates	potential fetal risk
+corticosteroids	lactation risk	moderate
+lactation risk	requires	caution
+corticosteroids	pediatric use	requires	dose adjustment
+dose adjustment	based on	weight
+corticosteroids	geriatric use	increases	fracture risk
+fracture risk	requires	calcium supplementation
+calcium supplementation	prevents	bone loss
+bone loss	leads to	osteoporosis
+corticosteroids	long-term use	causes	adrenal suppression
+adrenal suppression	requires	stress dose steroids
+stress dose steroids	given during	surgery
+surgery	increases	cortisol demand
+corticosteroids	sudden withdrawal	causes	adrenal crisis
+adrenal crisis	is a	medical emergency
+medical emergency	requires	IV hydrocortisone
+IV hydrocortisone	is a	corticosteroid
+corticosteroids	storage	room temperature
+room temperature	preserves	drug stability
+corticosteroids	stability	affected by	moisture
+moisture	degrades	drug potency
+corticosteroids	brand examples	prednisone
+prednisone	is a	glucocorticoid
+corticosteroids	brand examples	dexamethasone
+dexamethasone	treats	cerebral edema
+cerebral edema	is	brain swelling
+corticosteroids	brand examples	hydrocortisone
+hydrocortisone	is a	natural hormone
+natural hormone	produced by	adrenal glands
+adrenal glands	located on	kidneys
+kidneys	filter	blood
+corticosteroids	research	explores	new formulations
+new formulations	aim to	reduce side effects
+side effects reduction	improves	patient compliance
+patient compliance	affects	treatment outcomes
+treatment outcomes	measured by	symptom improvement
+symptom improvement	indicates	drug efficacy
+drug efficacy	determines	prescription patterns
+prescription patterns	influenced by	clinical guidelines
+clinical guidelines	based on	evidence
+evidence	comes from	clinical trials

@@ -1,0 +1,100 @@
+diagnostic procedures on ear	is a	medical examination
+diagnostic procedures on ear	used for	hearing assessment
+diagnostic procedures on ear	detect	ear infections
+otoscopy	is a type of	diagnostic procedures on ear
+audiometry	is a type of	diagnostic procedures on ear
+tympanometry	is a type of	diagnostic procedures on ear
+electronystagmography	is a type of	diagnostic procedures on ear
+otoacoustic emissions	is a type of	diagnostic procedures on ear
+auditory brainstem response	is a type of	diagnostic procedures on ear
+otoscopy	examines	ear canal
+otoscopy	examines	eardrum
+audiometry	measures	hearing sensitivity
+audiometry	detects	hearing loss
+tympanometry	evaluates	middle ear function
+tympanometry	detects	fluid in middle ear
+electronystagmography	assesses	balance disorders
+otoacoustic emissions	tests	cochlear function
+auditory brainstem response	evaluates	neural pathways
+ear infections	can cause	hearing loss
+ear infections	may require	antibiotic treatment
+hearing loss	can lead to	speech delay
+hearing loss	may require	hearing aids
+earwax buildup	can affect	hearing
+earwax buildup	may require	irrigation
+Meniere's disease	diagnosed by	electronystagmography
+Meniere's disease	causes	vertigo
+vertigo	may indicate	inner ear disorder
+tinnitus	evaluated by	audiometry
+tinnitus	may accompany	hearing loss
+acoustic neuroma	detected by	auditory brainstem response
+acoustic neuroma	may cause	unilateral hearing loss
+otitis media	diagnosed by	otoscopy
+otitis media	common in	children
+otitis externa	diagnosed by	otoscopy
+otitis externa	associated with	swimming
+cholesteatoma	detected by	otoscopy
+cholesteatoma	may require	surgery
+eustachian tube dysfunction	evaluated by	tympanometry
+eustachian tube dysfunction	causes	ear fullness
+hearing aids	prescribed after	audiometry
+cochlear implants	considered for	severe hearing loss
+ear protection	prevents	noise-induced hearing loss
+newborn screening	includes	otoacoustic emissions
+presbycusis	diagnosed by	audiometry
+presbycusis	related to	aging
+noise exposure	causes	sensorineural hearing loss
+ototoxic drugs	can cause	hearing damage
+ototoxic drugs	include	certain antibiotics
+ear trauma	may require	imaging studies
+CT scan	used for	temporal bone evaluation
+MRI	used for	inner ear imaging
+vestibular testing	assesses	balance function
+vestibular testing	includes	electronystagmography
+speech audiometry	evaluates	word recognition
+pure tone audiometry	measures	hearing thresholds
+bone conduction testing	differentiates	hearing loss types
+air conduction testing	assesses	overall hearing
+acoustic reflex testing	evaluates	neural pathways
+tympanostomy tubes	treat	recurrent otitis media
+hearing rehabilitation	follows	hearing loss diagnosis
+ear drops	treat	otitis externa
+antibiotics	treat	bacterial ear infections
+antihistamines	may help	eustachian tube dysfunction
+decongestants	may help	eustachian tube dysfunction
+steroids	reduce	inner ear inflammation
+vestibular rehabilitation	treats	balance disorders
+hearing protection devices	prevent	occupational hearing loss
+earplugs	protect	from noise exposure
+ear muffs	protect	from noise exposure
+sudden hearing loss	requires	urgent evaluation
+autoimmune inner ear disease	causes	progressive hearing loss
+otosclerosis	diagnosed by	audiometry
+otosclerosis	may require	surgery
+stapedectomy	treats	otosclerosis
+perforated eardrum	diagnosed by	otoscopy
+perforated eardrum	may heal	spontaneously
+ear syringing	removes	earwax
+microsuction	removes	earwax
+ear candles	not recommended	for wax removal
+swimmer's ear	treated with	antibiotic drops
+barotrauma	affects	eardrum
+earache	common symptom	of ear disorders
+ear drainage	indicates	infection
+hearing screening	recommended for	newborns
+school hearing tests	detect	childhood hearing loss
+occupational hearing tests	monitor	noise exposure
+hearing conservation programs	prevent	workplace hearing loss
+noise-induced hearing loss	preventable with	protection
+genetic testing	identifies	hereditary hearing loss
+congenital hearing loss	detected by	newborn screening
+ear malformations	may affect	hearing
+facial nerve	runs through	ear
+facial nerve palsy	may indicate	ear pathology
+mastoiditis	complication of	untreated otitis media
+mastoiditis	may require	intravenous antibiotics
+labyrinthitis	causes	vertigo and hearing loss
+acoustic trauma	causes	sudden hearing loss
+hearing loss	associated with	social isolation
+hearing loss	increases risk of	dementia
+ear examinations	should be	painless

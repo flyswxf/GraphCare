@@ -1,0 +1,100 @@
+bacterial infection	may cause	fever
+bacterial infection	may cause	inflammation
+bacterial infection	may require	antibiotics
+antibiotics	can treat	bacterial infection
+penicillin	is a	antibiotic
+bacterial infection	may lead to	sepsis
+sepsis	is a complication of	bacterial infection
+bacterial infection	may affect	immune system
+immune system	responds to	bacterial infection
+bacterial infection	may require	hospitalization
+hospitalization	may be needed for	bacterial infection
+bacterial infection	can spread via	blood
+blood culture	can detect	bacterial infection
+bacterial infection	may cause	pain
+pain	is a symptom of	bacterial infection
+bacterial infection	may cause	fatigue
+fatigue	is a symptom of	bacterial infection
+bacterial infection	may cause	chills
+chills	are a symptom of	bacterial infection
+bacterial infection	may cause	swelling
+swelling	is a symptom of	bacterial infection
+bacterial infection	may cause	redness
+redness	is a symptom of	bacterial infection
+bacterial infection	may cause	pus
+pus	indicates	bacterial infection
+bacterial infection	may require	drainage
+drainage	may be needed for	bacterial infection
+bacterial infection	may cause	abscess
+abscess	is caused by	bacterial infection
+bacterial infection	may require	surgery
+surgery	may treat	bacterial infection
+bacterial infection	may affect	wound
+wound	can develop	bacterial infection
+bacterial infection	may require	wound care
+wound care	may prevent	bacterial infection
+bacterial infection	may cause	cellulitis
+cellulitis	is caused by	bacterial infection
+bacterial infection	may affect	skin
+skin	can be infected by	bacteria
+bacterial infection	may cause	rash
+rash	can indicate	bacterial infection
+bacterial infection	may cause	nausea
+nausea	is a symptom of	bacterial infection
+bacterial infection	may cause	vomiting
+vomiting	is a symptom of	bacterial infection
+bacterial infection	may cause	diarrhea
+diarrhea	is a symptom of	bacterial infection
+bacterial infection	may cause	dehydration
+dehydration	can result from	bacterial infection
+bacterial infection	may require	IV fluids
+IV fluids	may treat	dehydration
+bacterial infection	may affect	lungs
+lungs	can develop	pneumonia
+pneumonia	is caused by	bacterial infection
+bacterial infection	may affect	urinary tract
+urinary tract	can develop	UTI
+UTI	is caused by	bacterial infection
+bacterial infection	may affect	kidneys
+kidneys	can develop	pyelonephritis
+pyelonephritis	is caused by	bacterial infection
+bacterial infection	may affect	heart
+heart	can develop	endocarditis
+endocarditis	is caused by	bacterial infection
+bacterial infection	may affect	brain
+brain	can develop	meningitis
+meningitis	is caused by	bacterial infection
+bacterial infection	may affect	blood
+blood	can develop	bacteremia
+bacteremia	is caused by	bacterial infection
+bacterial infection	may affect	bones
+bones	can develop	osteomyelitis
+osteomyelitis	is caused by	bacterial infection
+bacterial infection	may affect	joints
+joints	can develop	septic arthritis
+septic arthritis	is caused by	bacterial infection
+bacterial infection	may require	culture
+culture	can identify	bacteria
+bacterial infection	may require	sensitivity testing
+sensitivity testing	guides	antibiotic choice
+bacterial infection	may require	broad-spectrum antibiotics
+broad-spectrum antibiotics	cover	multiple bacteria
+bacterial infection	may require	narrow-spectrum antibiotics
+narrow-spectrum antibiotics	target	specific bacteria
+bacterial infection	may develop	antibiotic resistance
+antibiotic resistance	complicates	treatment
+bacterial infection	may require	combination therapy
+combination therapy	may treat	resistant infections
+bacterial infection	may require	supportive care
+supportive care	aids	recovery
+bacterial infection	may prolong	recovery time
+recovery time	depends on	infection severity
+bacterial infection	may recur	without treatment
+recurrence	can occur with	incomplete treatment
+bacterial infection	may require	follow-up
+follow-up	ensures	treatment success
+bacterial infection	may complicate	chronic conditions
+chronic conditions	increase risk of	bacterial infection
+bacterial infection	may worsen	diabetes
+diabetes	increases susceptibility to	bacterial infection
+bacterial infection	may increase	mortality risk

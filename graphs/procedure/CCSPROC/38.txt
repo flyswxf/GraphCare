@@ -1,0 +1,100 @@
+bronchoscopy	is a	diagnostic procedure
+bronchoscopy	examines	lung airways
+bronchoscopy	can detect	lung cancer
+bronchoscopy	can diagnose	bronchitis
+bronchoscopy	helps identify	infections
+bronchoscopy	may involve	biopsy
+biopsy	collects	tissue samples
+biopsy	confirms	malignancies
+biopsy	differentiates	benign lesions
+bronchoscopy	uses	flexible scope
+flexible scope	enables	visualization
+visualization	assists in	diagnosis
+bronchoscopy	requires	sedation
+sedation	reduces	patient discomfort
+bronchoscopy	may cause	bleeding
+bleeding	is a	complication
+complication	increases	hospital stay
+hospital stay	affects	recovery
+bronchoscopy	performed by	pulmonologist
+pulmonologist	specializes in	lung diseases
+lung diseases	include	COPD
+COPD	requires	management
+management	involves	medications
+medications	reduce	symptoms
+symptoms	include	shortness of breath
+shortness of breath	affects	quality of life
+quality of life	measured by	surveys
+surveys	assess	patient well-being
+patient well-being	influences	treatment adherence
+treatment adherence	improves	outcomes
+outcomes	determine	prognosis
+prognosis	guides	follow-up
+follow-up	monitors	disease progression
+disease progression	may require	adjusted therapy
+adjusted therapy	prevents	exacerbations
+exacerbations	lead to	hospitalizations
+hospitalizations	increase	healthcare costs
+healthcare costs	impact	insurance coverage
+insurance coverage	affects	access to care
+access to care	influences	early detection
+early detection	improves	survival rates
+survival rates	depend on	stage at diagnosis
+stage at diagnosis	determines	treatment options
+treatment options	include	surgery
+surgery	removes	tumors
+tumors	may be	malignant
+malignant tumors	spread	metastases
+metastases	complicate	treatment
+treatment	involves	chemotherapy
+chemotherapy	targets	cancer cells
+cancer cells	mutate	resistance
+resistance	reduces	drug efficacy
+drug efficacy	measured by	response rates
+response rates	guide	therapy adjustments
+therapy adjustments	aim for	remission
+remission	indicates	disease control
+disease control	enhances	longevity
+longevity	depends on	patient factors
+patient factors	include	comorbidities
+comorbidities	complicate	treatment plans
+treatment plans	require	multidisciplinary teams
+multidisciplinary teams	collaborate on	care strategies
+care strategies	prioritize	patient needs
+patient needs	vary by	demographics
+demographics	influence	risk factors
+risk factors	include	smoking
+smoking	causes	lung damage
+lung damage	leads to	fibrosis
+fibrosis	reduces	lung function
+lung function	tested by	spirometry
+spirometry	measures	airflow
+airflow	indicates	obstruction
+obstruction	characterizes	asthma
+asthma	treated with	inhalers
+inhalers	deliver	bronchodilators
+bronchodilators	relax	airways
+airways	constrict during	attacks
+attacks	triggered by	allergens
+allergens	provoke	immune response
+immune response	causes	inflammation
+inflammation	treated with	steroids
+steroids	suppress	immune activity
+immune activity	protects against	infections
+infections	prevented by	vaccines
+vaccines	reduce	pneumonia risk
+pneumonia	affects	alveoli
+alveoli	exchange	gases
+gases	include	oxygen
+oxygen	essential for	cellular function
+cellular function	impaired by	hypoxia
+hypoxia	treated with	supplemental oxygen
+supplemental oxygen	supports	vital organs
+vital organs	include	brain
+brain	controls	respiration
+respiration	regulated by	brainstem
+brainstem	damaged by	strokes
+strokes	cause	neurological deficits
+neurological deficits	assessed by	imaging
+imaging	includes	CT scans
+CT scans	visualize	lung structures

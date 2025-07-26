@@ -1,0 +1,100 @@
+antiseptics	kill	microorganisms
+disinfectants	kill	microorganisms
+antiseptics	used on	living tissue
+disinfectants	used on	inanimate objects
+antiseptics	prevent	infections
+disinfectants	prevent	disease transmission
+alcohol	is a	antiseptic
+bleach	is a	disinfectant
+hydrogen peroxide	is both	antiseptic and disinfectant
+iodine	is a	antiseptic
+chlorhexidine	is a	antiseptic
+quaternary ammonium compounds	are	disinfectants
+phenolic compounds	are	disinfectants
+antiseptics	have	lower toxicity
+disinfectants	have	higher toxicity
+antiseptics	require	lower concentrations
+disinfectants	require	higher concentrations
+antiseptics	applied as	solutions
+disinfectants	applied as	sprays
+antiseptics	used in	wound care
+disinfectants	used in	surface cleaning
+antiseptics	inhibit	bacterial growth
+disinfectants	destroy	viruses
+povidone-iodine	is a	antiseptic
+triclosan	was a	antiseptic
+formaldehyde	is a	disinfectant
+glutaraldehyde	is a	disinfectant
+peracetic acid	is a	disinfectant
+antiseptics	can cause	skin irritation
+disinfectants	can cause	respiratory irritation
+antiseptics	differ by	spectrum of activity
+disinfectants	differ by	contact time
+alcohol-based sanitizers	contain	antiseptics
+surgical scrubs	contain	antiseptics
+household cleaners	contain	disinfectants
+medical equipment	requires	disinfectants
+antiseptics	prevent	surgical site infections
+disinfectants	prevent	nosocomial infections
+antiseptics	are regulated as	drugs
+disinfectants	are regulated as	pesticides
+antimicrobial resistance	affects	antiseptic efficacy
+biofilms	reduce	disinfectant effectiveness
+chlorine	is a	disinfectant
+silver compounds	are	antiseptics
+essential oils	have	antiseptic properties
+heat	enhances	disinfectant activity
+organic matter	interferes with	disinfectants
+pH level	affects	antiseptic activity
+contact time	determines	disinfectant efficacy
+concentration	determines	antiseptic strength
+antiseptics	are used for	hand hygiene
+disinfectants	are used for	instrument sterilization
+mucus membranes	require	milder antiseptics
+critical items	require	high-level disinfectants
+semi-critical items	require	intermediate-level disinfectants
+non-critical items	require	low-level disinfectants
+sporicidal agents	kill	bacterial spores
+tuberculocidal agents	kill	mycobacteria
+virucidal agents	inactivate	viruses
+fungicidal agents	kill	fungi
+bactericidal agents	kill	bacteria
+antiseptics	can be	bacteriostatic
+disinfectants	are typically	bactericidal
+emerging pathogens	challenge	disinfection protocols
+prions	resist	standard disinfectants
+autoclaving	surpasses	chemical disinfection
+UV light	complements	disinfection
+antiseptic soaps	reduce	bacterial counts
+disinfectant wipes	remove	surface contaminants
+residual activity	prolongs	antiseptic effects
+material compatibility	limits	disinfectant choice
+environmental toxicity	restricts	disinfectant use
+occupational exposure	risks	disinfectant handlers
+chlorine dioxide	is a	disinfectant
+peroxygen compounds	are	disinfectants
+biguanides	are	antiseptics
+antiseptic resistance	emerges	in hospitals
+disinfectant rotation	prevents	resistance
+bioindicators	test	disinfection efficacy
+minimum inhibitory concentration	measures	antiseptic potency
+dilution neutralization	evaluates	disinfectants
+use-dilution test	assesses	disinfectants
+disk diffusion method	tests	antiseptics
+epidemiological studies	validate	disinfection practices
+infection control	relies on	antiseptics and disinfectants
+operating rooms	require	rigorous disinfection
+dental offices	use	intermediate-level disinfectants
+food industry	employs	food-safe disinfectants
+water treatment	uses	chlorine disinfectants
+emergency disinfection	requires	rapid-acting agents
+patient isolation	involves	enhanced disinfection
+outbreak control	depends on	proper disinfection
+antiseptic baths	prevent	neonatal infections
+catheter care	uses	antiseptic solutions
+surgical site preparation	employs	antiseptic paints
+wound irrigation	utilizes	antiseptic fluids
+burn treatment	requires	selective antiseptics
+biocide	is a general term for	antiseptics and disinfectants
+microbial load	determines	antiseptic need
+regulatory agencies	set	disinfectant standards

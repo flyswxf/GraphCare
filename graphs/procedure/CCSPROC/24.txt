@@ -1,0 +1,100 @@
+mastoidectomy	is a	surgical procedure
+mastoidectomy	treats	mastoiditis
+mastoidectomy	removes	infected mastoid air cells
+mastoidectomy	prevents	intracranial complications
+mastoidectomy	requires	general anesthesia
+mastoidectomy	performed by	otolaryngologist
+mastoidectomy	involves	temporal bone
+mastoidectomy	addresses	cholesteatoma
+mastoidectomy	reduces	hearing loss risk
+mastoidectomy	follows	failed antibiotic therapy
+mastoidectomy	has risk	facial nerve injury
+mastoidectomy	may require	tympanoplasty
+mastoidectomy	associated with	otorrhea
+mastoidectomy	treats	chronic otitis media
+mastoidectomy	improves	aeration
+mastoidectomy	uses	surgical drill
+mastoidectomy	requires	postoperative care
+mastoidectomy	prevents	meningitis
+mastoidectomy	classified as	canal-wall-up or canal-wall-down
+mastoidectomy	documented in	operative report
+mastoidectomy	preceded by	CT scan
+mastoidectomy	evaluates	ossicular chain
+mastoidectomy	may involve	ossiculoplasty
+mastoidectomy	monitors	vertigo
+mastoidectomy	assesses	cerebrospinal fluid leak
+mastoidectomy	manages	petrositis
+mastoidectomy	correlates with	antibiotic resistance
+mastoidectomy	influenced by	comorbidities
+mastoidectomy	affected by	patient age
+mastoidectomy	considers	hearing status
+mastoidectomy	examines	tegmen integrity
+mastoidectomy	checks	sigmoid sinus
+mastoidectomy	inspects	dura mater
+mastoidectomy	preserves	cochlea
+mastoidectomy	avoids	labyrinth injury
+mastoidectomy	coordinates with	audiology
+mastoidectomy	plans with	imaging
+mastoidectomy	schedules	follow-up visits
+mastoidectomy	reviews	medical history
+mastoidectomy	screens	allergies
+mastoidectomy	anticipates	bleeding
+mastoidectomy	prepares	blood transfusion
+mastoidectomy	uses	electrocautery
+mastoidectomy	irrigates	surgical site
+mastoidectomy	packs	mastoid cavity
+mastoidectomy	changes	dressings
+mastoidectomy	controls	pain
+mastoidectomy	prescribes	analgesics
+mastoidectomy	recommends	head elevation
+mastoidectomy	advises	activity restriction
+mastoidectomy	warns	infection signs
+mastoidectomy	educates	wound care
+mastoidectomy	suggests	hearing aid
+mastoidectomy	collaborates	infectious disease specialist
+mastoidectomy	consults	neurologist
+mastoidectomy	refers	physical therapy
+mastoidectomy	documents	complications
+mastoidectomy	reports	facial weakness
+mastoidectomy	tracks	recovery progress
+mastoidectomy	measures	audiometry results
+mastoidectomy	analyzes	culture results
+mastoidectomy	adjusts	antibiotic regimen
+mastoidectomy	considers	revision surgery
+mastoidectomy	predicts	hearing outcome
+mastoidectomy	estimates	hospitalization duration
+mastoidectomy	impacts	quality of life
+mastoidectomy	relates	antibiotic prophylaxis
+mastoidectomy	necessitates	sterile technique
+mastoidectomy	follows	surgical checklist
+mastoidectomy	verifies	patient identity
+mastoidectomy	confirms	surgical site
+mastoidectomy	positions	patient
+mastoidectomy	drapes	surgical field
+mastoidectomy	incises	postauricular skin
+mastoidectomy	exposes	mastoid cortex
+mastoidectomy	identifies	landmarks
+mastoidectomy	removes	diseased bone
+mastoidectomy	preserves	vital structures
+mastoidectomy	reconstructs	ear canal
+mastoidectomy	closes	wound
+mastoidectomy	applies	antibiotic ointment
+mastoidectomy	covers	surgical site
+mastoidectomy	monitors	vital signs
+mastoidectomy	assesses	neurological status
+mastoidectomy	detects	complications early
+mastoidectomy	manages	postoperative nausea
+mastoidectomy	prevents	venous thromboembolism
+mastoidectomy	encourages	early ambulation
+mastoidectomy	limits	heavy lifting
+mastoidectomy	avoids	water exposure
+mastoidectomy	schedules	audiology follow-up
+mastoidectomy	provides	discharge instructions
+mastoidectomy	arranges	home health care
+mastoidectomy	coordinates	rehabilitation
+mastoidectomy	improves	middle ear function
+mastoidectomy	resolves	persistent infection
+mastoidectomy	restores	aural health
+mastoidectomy	enhances	patient safety
+mastoidectomy	optimizes	surgical outcomes
+mastoidectomy	advances	otologic care

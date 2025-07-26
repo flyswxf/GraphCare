@@ -1,0 +1,100 @@
+nephritis	is a	kidney inflammation
+nephrosis	is a	kidney disorder
+renal sclerosis	is a	kidney scarring
+nephritis	may cause	proteinuria
+nephrosis	may cause	edema
+renal sclerosis	may lead to	kidney failure
+nephritis	is diagnosed with	urinalysis
+nephrosis	is diagnosed with	kidney biopsy
+renal sclerosis	is diagnosed with	imaging tests
+nephritis	is treated with	antibiotics
+nephrosis	is treated with	diuretics
+renal sclerosis	is managed with	blood pressure control
+nephritis	can progress to	chronic kidney disease
+nephrosis	can progress to	nephrotic syndrome
+renal sclerosis	can progress to	end-stage renal disease
+hypertension	is a risk factor for	nephritis
+diabetes	is a risk factor for	nephrosis
+aging	is a risk factor for	renal sclerosis
+nephritis	may result from	streptococcal infection
+nephrosis	may result from	minimal change disease
+renal sclerosis	may result from	atherosclerosis
+nephritis	affects	glomeruli
+nephrosis	affects	podocytes
+renal sclerosis	affects	renal arteries
+nephritis	causes	hematuria
+nephrosis	causes	hypoalbuminemia
+renal sclerosis	causes	renal ischemia
+nephritis	requires	fluid restriction
+nephrosis	requires	protein restriction
+renal sclerosis	requires	sodium restriction
+nephritis	is associated with	lupus
+nephrosis	is associated with	amyloidosis
+renal sclerosis	is associated with	hypertension
+nephritis	may complicate	pregnancy
+nephrosis	may complicate	thrombosis
+renal sclerosis	may complicate	heart disease
+nephritis	can be	acute or chronic
+nephrosis	can be	primary or secondary
+renal sclerosis	can be	focal or diffuse
+nephritis	responds to	immunosuppressants
+nephrosis	responds to	corticosteroids
+renal sclerosis	responds to	ACE inhibitors
+nephritis	has subtypes	interstitial nephritis
+nephrosis	has subtypes	membranous nephropathy
+renal sclerosis	has subtypes	arteriolar nephrosclerosis
+nephritis	may follow	upper respiratory infection
+nephrosis	may follow	viral illness
+renal sclerosis	may follow	long-term hypertension
+nephritis	increases risk of	electrolyte imbalance
+nephrosis	increases risk of	infection
+renal sclerosis	increases risk of	cardiovascular events
+nephritis	is monitored with	creatinine levels
+nephrosis	is monitored with	albumin levels
+renal sclerosis	is monitored with	GFR
+nephritis	can lead to	hypertension
+nephrosis	can lead to	hyperlipidemia
+renal sclerosis	can lead to	renal atrophy
+nephritis	is more common in	children
+nephrosis	is more common in	adults
+renal sclerosis	is more common in	elderly
+nephritis	may require	dialysis
+nephrosis	may require	plasma exchange
+renal sclerosis	may require	kidney transplant
+nephritis	has symptom	flank pain
+nephrosis	has symptom	foamy urine
+renal sclerosis	has symptom	nocturia
+nephritis	can be caused by	drugs
+nephrosis	can be caused by	toxins
+renal sclerosis	can be caused by	cholesterol emboli
+nephritis	is classified as	glomerulonephritis
+nephrosis	is classified as	nephrotic syndrome
+renal sclerosis	is classified as	nephrosclerosis
+nephritis	may improve with	treatment
+nephrosis	may relapse after	treatment
+renal sclerosis	may progress despite	treatment
+nephritis	can be prevented by	infection control
+nephrosis	can be prevented by	diabetes management
+renal sclerosis	can be prevented by	blood pressure control
+nephritis	has complication	acute renal failure
+nephrosis	has complication	venous thrombosis
+renal sclerosis	has complication	chronic kidney disease
+nephritis	is studied with	immunofluorescence
+nephrosis	is studied with	electron microscopy
+renal sclerosis	is studied with	Doppler ultrasound
+nephritis	correlates with	ASO titers
+nephrosis	correlates with	protein excretion
+renal sclerosis	correlates with	vascular calcification
+nephritis	may require	hospital admission
+nephrosis	may require	dietary changes
+renal sclerosis	may require	lifestyle modifications
+nephritis	has genetic factors	HLA associations
+nephrosis	has genetic factors	NPHS mutations
+renal sclerosis	has genetic factors	APOL1 variants
+nephritis	has biomarker	C3 complement
+nephrosis	has biomarker	urine protein
+renal sclerosis	has biomarker	serum creatinine
+nephritis	affects prognosis	recovery rate
+nephrosis	affects prognosis	remission rate
+renal sclerosis	affects prognosis	survival rate
+kidney biopsy	is gold standard for	nephritis diagnosis

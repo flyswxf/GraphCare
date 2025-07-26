@@ -1,0 +1,100 @@
+calcium supplements	is a	mineral supplement
+calcium supplements	treats	osteoporosis
+calcium supplements	prevents	bone fractures
+calcium supplements	interacts with	vitamin D
+calcium supplements	contraindicated in	hypercalcemia
+calcium supplements	side effect	constipation
+calcium supplements	affects	bone density
+calcium supplements	prescribed for	postmenopausal women
+calcium supplements	interacts with	bisphosphonates
+calcium supplements	dosage form	tablet
+calcium supplements	alternative	dietary calcium
+calcium supplements	monitoring parameter	serum calcium
+calcium supplements	risk factor	kidney stones
+calcium supplements	absorption site	small intestine
+calcium supplements	pharmacokinetics	pH-dependent
+osteoporosis	risk factor	hip fracture
+postmenopausal women	at risk for	bone loss
+vitamin D	enhances	calcium absorption
+hypercalcemia	symptom	confusion
+bisphosphonates	class	osteoporosis drugs
+kidney stones	composition	calcium oxalate
+bone density	measured by	DEXA scan
+dietary calcium	source	dairy products
+constipation	managed with	fiber supplements
+serum calcium	normal range	8.5-10.2 mg/dL
+calcium supplements	decreases risk	colorectal cancer
+calcium supplements	contraindicated in	sarcoidosis
+calcium supplements	alternative form	citrate
+calcium supplements	alternative form	carbonate
+calcium carbonate	requires	stomach acid
+calcium citrate	preferred for	achlorhydria
+calcium supplements	maximum dose	2000 mg/day
+calcium supplements	timing	with meals
+calcium supplements	decreases absorption	iron supplements
+calcium supplements	increases risk	cardiovascular events
+calcium supplements	prescribed with	vitamin K
+vitamin K	role	bone metabolism
+bone metabolism	involves	osteoblasts
+osteoblasts	function	bone formation
+bone formation	marker	osteocalcin
+calcium supplements	affects	parathyroid hormone
+parathyroid hormone	regulates	calcium homeostasis
+calcium homeostasis	involves	kidneys
+kidneys	activate	vitamin D
+activated vitamin D	name	calcitriol
+calcitriol	increases	intestinal calcium absorption
+calcium supplements	interaction	thyroid medication
+thyroid medication	example	levothyroxine
+levothyroxine	absorption decreased by	calcium
+calcium supplements	management	spacing doses
+calcium supplements	contraindicated with	digoxin
+digoxin	risk	cardiac arrhythmia
+cardiac arrhythmia	symptom	palpitations
+palpitations	evaluation	ECG
+ECG	detects	QT interval
+hypercalcemia	prolongs	QT interval
+QT prolongation	risk	torsades de pointes
+calcium supplements	caution in	heart disease
+heart disease	example	coronary artery disease
+coronary artery disease	risk factor	atherosclerosis
+atherosclerosis	involves	calcium deposition
+calcium deposition	occurs in	arterial walls
+arterial walls	contain	smooth muscle
+smooth muscle	regulated by	calcium ions
+calcium ions	role	muscle contraction
+muscle contraction	requires	ATP
+ATP	produced in	mitochondria
+mitochondria	dysfunction linked to	aging
+aging	risk factor	osteoporosis
+calcium supplements	benefit	pregnant women
+pregnant women	need	fetal development
+fetal development	requires	bone mineralization
+bone mineralization	component	hydroxyapatite
+hydroxyapatite	contains	calcium phosphate
+calcium phosphate	ratio	2:1
+calcium supplements	avoid with	tetracyclines
+tetracyclines	class	antibiotics
+antibiotics	side effect	diarrhea
+diarrhea	causes	electrolyte imbalance
+electrolyte imbalance	includes	hypocalcemia
+hypocalcemia	symptom	muscle cramps
+muscle cramps	treatment	calcium gluconate
+calcium gluconate	administration	intravenous
+intravenous	route	emergency use
+emergency use	indication	severe hypocalcemia
+severe hypocalcemia	complication	seizures
+seizures	managed with	benzodiazepines
+benzodiazepines	example	lorazepam
+lorazepam	side effect	sedation
+sedation	risk factor	falls
+falls	consequence	hip fractures
+hip fractures	mortality rate	20%
+mortality rate	reduced by	calcium supplementation
+calcium supplementation	compliance issue	pill burden
+pill burden	solution	combination products
+combination products	example	calcium+vitamin D
+calcium+vitamin D	reduces	fracture risk
+fracture risk	assessment tool	FRAX
+FRAX	considers	age factor
+age factor	correlates	bone loss

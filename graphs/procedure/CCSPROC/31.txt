@@ -1,0 +1,100 @@
+nasal endoscopy	is a	diagnostic procedure
+nasal endoscopy	examines	nasal cavity
+nasal endoscopy	detects	nasal polyps
+nasal endoscopy	evaluates	sinusitis
+laryngoscopy	is a	diagnostic procedure
+laryngoscopy	examines	larynx
+laryngoscopy	detects	vocal cord lesions
+laryngoscopy	evaluates	dysphonia
+pharyngoscopy	is a	diagnostic procedure
+pharyngoscopy	examines	pharynx
+pharyngoscopy	detects	pharyngitis
+pharyngoscopy	evaluates	tonsillitis
+oral biopsy	is a	diagnostic procedure
+oral biopsy	detects	oral cancer
+oral biopsy	evaluates	leukoplakia
+rhinoscopy	is a	diagnostic procedure
+rhinoscopy	examines	nasal passages
+rhinoscopy	detects	deviated septum
+sinus endoscopy	is a	diagnostic procedure
+sinus endoscopy	evaluates	sinus obstruction
+sinus endoscopy	detects	fungal sinusitis
+nasopharyngeal swab	is a	diagnostic test
+nasopharyngeal swab	detects	respiratory viruses
+nasopharyngeal swab	evaluates	COVID-19
+oropharyngeal swab	is a	diagnostic test
+oropharyngeal swab	detects	streptococcal infection
+oropharyngeal swab	evaluates	diphtheria
+saliva test	is a	diagnostic test
+saliva test	detects	HIV
+saliva test	evaluates	hormone levels
+tongue examination	is a	diagnostic procedure
+tongue examination	detects	glossitis
+tongue examination	evaluates	geographic tongue
+palate examination	is a	diagnostic procedure
+palate examination	detects	cleft palate
+palate examination	evaluates	oral thrush
+dental radiography	is a	diagnostic imaging
+dental radiography	detects	dental caries
+dental radiography	evaluates	jaw fractures
+CT scan	is used for	sinus evaluation
+CT scan	detects	nasal tumors
+CT scan	evaluates	chronic rhinosinusitis
+MRI	is used for	soft tissue evaluation
+MRI	detects	nasopharyngeal carcinoma
+MRI	evaluates	TMJ disorders
+ultrasound	is used for	salivary gland evaluation
+ultrasound	detects	sialolithiasis
+ultrasound	evaluates	parotid tumors
+allergy testing	is used for	nasal congestion evaluation
+allergy testing	detects	allergic rhinitis
+allergy testing	evaluates	pollen sensitivity
+smell test	is a	diagnostic test
+smell test	detects	anosmia
+smell test	evaluates	neurological disorders
+taste test	is a	diagnostic test
+taste test	detects	ageusia
+taste test	evaluates	zinc deficiency
+voice analysis	is a	diagnostic procedure
+voice analysis	detects	vocal cord paralysis
+voice analysis	evaluates	laryngeal dysfunction
+flexible fiberoptic laryngoscopy	is a type of	laryngoscopy
+flexible fiberoptic laryngoscopy	evaluates	airway obstruction
+rigid laryngoscopy	is a type of	laryngoscopy
+rigid laryngoscopy	detects	laryngeal cancer
+nasal cytology	is a	diagnostic test
+nasal cytology	detects	eosinophilic inflammation
+nasal cytology	evaluates	allergic rhinitis
+pharyngeal culture	is a	diagnostic test
+pharyngeal culture	detects	bacterial infections
+pharyngeal culture	evaluates	streptococcus
+oral brush biopsy	is a type of	oral biopsy
+oral brush biopsy	detects	precancerous lesions
+incisional biopsy	is a type of	oral biopsy
+incisional biopsy	evaluates	suspicious lesions
+excisional biopsy	is a type of	oral biopsy
+excisional biopsy	removes	small tumors
+salivary gland biopsy	is a	diagnostic procedure
+salivary gland biopsy	detects	Sjögren’s syndrome
+salivary gland biopsy	evaluates	sarcoidosis
+sleep endoscopy	is a	diagnostic procedure
+sleep endoscopy	evaluates	obstructive sleep apnea
+sleep endoscopy	detects	airway collapse
+videofluoroscopy	is a	diagnostic imaging
+videofluoroscopy	evaluates	swallowing disorders
+videofluoroscopy	detects	aspiration
+acoustic rhinometry	is a	diagnostic test
+acoustic rhinometry	measures	nasal airflow
+acoustic rhinometry	evaluates	nasal congestion
+sialendoscopy	is a	diagnostic procedure
+sialendoscopy	examines	salivary ducts
+sialendoscopy	detects	salivary stones
+panendoscopy	is a	diagnostic procedure
+panendoscopy	evaluates	upper airway
+panendoscopy	detects	multiple lesions
+electroglottography	is a	diagnostic test
+electroglottography	measures	vocal fold vibration
+electroglottography	evaluates	voice disorders
+pH monitoring	is used for	GERD evaluation
+pH monitoring	detects	laryngopharyngeal reflux
+pH monitoring	evaluates	acid exposure

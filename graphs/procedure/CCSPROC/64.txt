@@ -1,0 +1,100 @@
+bone marrow transplant	is a	medical procedure
+bone marrow transplant	treats	leukemia
+bone marrow transplant	treats	lymphoma
+bone marrow transplant	treats	aplastic anemia
+bone marrow transplant	treats	sickle cell disease
+bone marrow transplant	requires	donor matching
+bone marrow transplant	involves	stem cells
+bone marrow transplant	has risk	graft-versus-host disease
+bone marrow transplant	requires	chemotherapy
+bone marrow transplant	requires	radiation therapy
+bone marrow transplant	performed by	hematologist
+bone marrow transplant	requires	hospitalization
+bone marrow transplant	has complication	infection
+bone marrow transplant	has complication	organ damage
+bone marrow transplant	follows	conditioning regimen
+bone marrow transplant	requires	immunosuppressants
+bone marrow transplant	alternative to	chemotherapy
+bone marrow transplant	monitored through	blood tests
+bone marrow transplant	requires	HLA typing
+bone marrow transplant	source can be	peripheral blood
+bone marrow transplant	source can be	umbilical cord
+bone marrow transplant	can be	autologous
+bone marrow transplant	can be	allogeneic
+bone marrow transplant	can be	syngeneic
+bone marrow transplant	preceded by	bone marrow biopsy
+bone marrow transplant	requires	sterile environment
+bone marrow transplant	affects	immune system
+bone marrow transplant	requires	recovery period
+bone marrow transplant	may require	blood transfusions
+bone marrow transplant	may cause	bleeding
+bone marrow transplant	may cause	fatigue
+bone marrow transplant	may cause	nausea
+bone marrow transplant	may require	nutritional support
+bone marrow transplant	requires	follow-up care
+bone marrow transplant	may lead to	secondary cancers
+bone marrow transplant	may cause	infertility
+bone marrow transplant	requires	pain management
+bone marrow transplant	may require	platelet transfusions
+bone marrow transplant	may cause	mucositis
+bone marrow transplant	requires	central venous catheter
+bone marrow transplant	related to	hematopoietic stem cells
+bone marrow transplant	alternative to	radiation therapy
+bone marrow transplant	requires	donor screening
+bone marrow transplant	may require	growth factors
+bone marrow transplant	may cause	liver complications
+bone marrow transplant	may cause	lung complications
+bone marrow transplant	may cause	kidney complications
+bone marrow transplant	may cause	heart complications
+bone marrow transplant	may require	antifungal medication
+bone marrow transplant	may require	antiviral medication
+bone marrow transplant	may require	antibacterial medication
+bone marrow transplant	requires	patient isolation
+bone marrow transplant	may cause	hair loss
+bone marrow transplant	may require	psychological support
+bone marrow transplant	may cause	cognitive changes
+bone marrow transplant	may cause	weight loss
+bone marrow transplant	may require	physical therapy
+bone marrow transplant	may cause	skin rashes
+bone marrow transplant	may cause	vision changes
+bone marrow transplant	may cause	hearing changes
+bone marrow transplant	may require	dental evaluation
+bone marrow transplant	may cause	mouth sores
+bone marrow transplant	may require	speech therapy
+bone marrow transplant	may require	occupational therapy
+bone marrow transplant	may cause	nerve damage
+bone marrow transplant	may cause	muscle weakness
+bone marrow transplant	may require	wheelchair
+bone marrow transplant	may require	walking aid
+bone marrow transplant	may require	home care
+bone marrow transplant	may require	medical equipment
+bone marrow transplant	may require	special diet
+bone marrow transplant	may require	vitamin supplements
+bone marrow transplant	may require	mineral supplements
+bone marrow transplant	may require	protein supplements
+bone marrow transplant	may require	fluid restrictions
+bone marrow transplant	may require	salt restrictions
+bone marrow transplant	may require	sugar restrictions
+bone marrow transplant	may require	calorie counting
+bone marrow transplant	may require	weight monitoring
+bone marrow transplant	may require	blood pressure monitoring
+bone marrow transplant	may require	heart rate monitoring
+bone marrow transplant	may require	oxygen monitoring
+bone marrow transplant	may require	temperature monitoring
+bone marrow transplant	may require	pain scale
+bone marrow transplant	may require	symptom diary
+bone marrow transplant	may require	caregiver support
+bone marrow transplant	may require	social worker
+bone marrow transplant	may require	financial assistance
+bone marrow transplant	may require	insurance coordination
+bone marrow transplant	may require	transportation assistance
+bone marrow transplant	may require	lodging assistance
+bone marrow transplant	may require	prescription assistance
+bone marrow transplant	may require	medical leave
+bone marrow transplant	may require	disability services
+bone marrow transplant	may require	peer support
+bone marrow transplant	may require	online resources
+bone marrow transplant	may require	printed materials
+bone marrow transplant	may require	educational videos
+bone marrow transplant	may require	support groups
+bone marrow transplant	may require	counseling

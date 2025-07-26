@@ -1,0 +1,100 @@
+coagulation disorder	may cause	hemorrhage
+hemophilia	is a	coagulation disorder
+vitamin K deficiency	causes	coagulation disorder
+warfarin	treats	coagulation disorder
+heparin	treats	coagulation disorder
+coagulation disorder	requires	blood test
+platelet dysfunction	causes	hemorrhagic disorder
+von Willebrand disease	is a	hemorrhagic disorder
+coagulation disorder	may lead to	thrombosis
+disseminated intravascular coagulation	is a	coagulation disorder
+hemorrhagic disorder	results in	excessive bleeding
+coagulation factor VIII	deficiency causes	hemophilia A
+coagulation factor IX	deficiency causes	hemophilia B
+liver disease	causes	coagulation disorder
+thrombocytopenia	is a	hemorrhagic disorder
+coagulation disorder	increases risk of	bruising
+hemorrhagic disorder	may require	transfusion
+aspirin	exacerbates	hemorrhagic disorder
+coagulation cascade	is disrupted by	coagulation disorder
+fibrinogen	is essential for	coagulation
+prothrombin time	tests for	coagulation disorder
+activated partial thromboplastin time	tests for	coagulation disorder
+coagulation disorder	may lead to	anemia
+hemarthrosis	is a complication of	hemophilia
+coagulation disorder	requires	anticoagulant monitoring
+genetic mutation	causes	hemophilia
+hemorrhagic stroke	is a risk of	hemorrhagic disorder
+coagulation disorder	contraindicates	surgery
+fresh frozen plasma	treats	coagulation disorder
+cryoprecipitate	treats	hemophilia
+desmopressin	treats	von Willebrand disease
+hemorrhagic disorder	may cause	gastrointestinal bleeding
+coagulation disorder	affects	wound healing
+anticoagulant therapy	increases risk of	hemorrhage
+coagulation disorder	is associated with	lupus anticoagulant
+hemorrhagic disorder	may cause	menorrhagia
+coagulation disorder	requires	hematologist consultation
+hemorrhagic disorder	may cause	epistaxis
+coagulation disorder	may lead to	hypovolemic shock
+hemorrhagic disorder	is exacerbated by	trauma
+coagulation disorder	increases risk of	postoperative bleeding
+hemorrhagic disorder	may cause	intracranial hemorrhage
+coagulation disorder	is managed with	factor replacement
+hemorrhagic disorder	requires	bleeding control measures
+coagulation disorder	may cause	hemoptysis
+hemorrhagic disorder	is diagnosed with	clotting tests
+coagulation disorder	may lead to	joint damage
+hemorrhagic disorder	is treated with	antifibrinolytics
+coagulation disorder	increases risk of	spontaneous bleeding
+hemorrhagic disorder	may cause	hematuria
+coagulation disorder	is linked to	vitamin K metabolism
+hemorrhagic disorder	may require	iron supplementation
+coagulation disorder	is affected by	liver function
+hemorrhagic disorder	may cause	petechiae
+coagulation disorder	is exacerbated by	NSAIDs
+hemorrhagic disorder	may lead to	compartment syndrome
+coagulation disorder	requires	genetic counseling
+hemorrhagic disorder	may cause	retinal hemorrhage
+coagulation disorder	is monitored with	INR
+hemorrhagic disorder	may require	surgical intervention
+coagulation disorder	is associated with	antiphospholipid syndrome
+hemorrhagic disorder	may cause	muscle hematoma
+coagulation disorder	increases risk of	placental abruption
+hemorrhagic disorder	is treated with	recombinant factors
+coagulation disorder	may lead to	chronic pain
+hemorrhagic disorder	may cause	adrenal hemorrhage
+coagulation disorder	is worsened by	renal disease
+hemorrhagic disorder	may lead to	hypothermia
+coagulation disorder	requires	emergency protocol
+hemorrhagic disorder	may cause	splenic rupture
+coagulation disorder	is linked to	bone marrow disorders
+hemorrhagic disorder	may require	platelet transfusion
+coagulation disorder	increases risk of	cerebral hemorrhage
+hemorrhagic disorder	may cause	hemoperitoneum
+coagulation disorder	is exacerbated by	alcohol use
+hemorrhagic disorder	may lead to	disseminated intravascular coagulation
+coagulation disorder	requires	multidisciplinary care
+hemorrhagic disorder	may cause	subdural hematoma
+coagulation disorder	is monitored with	thromboelastography
+hemorrhagic disorder	may require	vascular surgery
+coagulation disorder	is associated with	malignancy
+hemorrhagic disorder	may cause	hemothorax
+coagulation disorder	increases risk of	obstetric hemorrhage
+hemorrhagic disorder	is treated with	prothrombin complex concentrate
+coagulation disorder	may lead to	compartment syndrome
+hemorrhagic disorder	may cause	gingival bleeding
+coagulation disorder	is exacerbated by	sepsis
+hemorrhagic disorder	may lead to	multiorgan failure
+coagulation disorder	requires	patient education
+hemorrhagic disorder	may cause	umbilical bleeding
+coagulation disorder	is linked to	autoimmune disease
+hemorrhagic disorder	may require	fibrin sealant
+coagulation disorder	increases risk of	hematoma formation
+hemorrhagic disorder	may cause	retroperitoneal bleeding
+coagulation disorder	is monitored with	bleeding score
+hemorrhagic disorder	may require	embolization
+coagulation disorder	is associated with	chemotherapy
+hemorrhagic disorder	may cause	hemobilia
+coagulation disorder	increases risk of	transfusion reaction
+hemorrhagic disorder	is treated with	tranexamic acid

@@ -1,0 +1,100 @@
+fetopelvic disproportion	is a	labor complication
+fetopelvic disproportion	causes	obstructed labor
+fetopelvic disproportion	may require	cesarean section
+fetopelvic disproportion	associated with	macrosomia
+fetopelvic disproportion	linked to	maternal pelvis size
+fetopelvic disproportion	related to	fetal head size
+obstructed labor	leads to	prolonged labor
+obstructed labor	may cause	uterine rupture
+obstructed labor	increases risk of	fetal distress
+obstructed labor	requires	emergency intervention
+cesarean section	treats	fetopelvic disproportion
+cesarean section	prevents	birth trauma
+cesarean section	has complication	surgical infection
+macrosomia	is a risk factor for	fetopelvic disproportion
+macrosomia	often seen in	gestational diabetes
+maternal pelvis size	affects	birth canal
+maternal pelvis size	measured by	pelvimetry
+fetal head size	determined by	ultrasound
+fetal head size	influenced by	genetics
+prolonged labor	increases risk of	postpartum hemorrhage
+prolonged labor	may lead to	fetal hypoxia
+uterine rupture	is a	obstetric emergency
+uterine rupture	treated with	hysterectomy
+fetal distress	indicated by	abnormal heart rate
+fetal distress	requires	fetal monitoring
+emergency intervention	includes	forceps delivery
+emergency intervention	may involve	vacuum extraction
+birth trauma	can cause	brachial plexus injury
+birth trauma	linked to	cerebral palsy
+surgical infection	prevented by	antibiotics
+surgical infection	causes	postpartum fever
+gestational diabetes	screened by	glucose test
+gestational diabetes	managed with	insulin
+birth canal	consists of	cervix
+birth canal	includes	vagina
+pelvimetry	performed using	X-ray
+pelvimetry	assesses	pelvic adequacy
+ultrasound	measures	fetal parameters
+ultrasound	detects	fetal anomalies
+genetics	influence	fetal growth
+postpartum hemorrhage	treated with	oxytocin
+postpartum hemorrhage	may require	blood transfusion
+fetal hypoxia	leads to	acidosis
+fetal hypoxia	causes	neurological damage
+obstetric emergency	requires	rapid response
+obstetric emergency	involves	multidisciplinary team
+hysterectomy	results in	infertility
+hysterectomy	has risk of	surgical complications
+abnormal heart rate	detected by	cardiotocography
+abnormal heart rate	indicates	fetal compromise
+fetal monitoring	uses	Doppler
+fetal monitoring	records	fetal movements
+forceps delivery	may cause	perineal tear
+forceps delivery	assists	vaginal birth
+vacuum extraction	alternative to	forceps
+vacuum extraction	risks	scalp injury
+brachial plexus injury	affects	arm function
+brachial plexus injury	may recover with	physiotherapy
+cerebral palsy	is a	neurological disorder
+cerebral palsy	requires	lifelong care
+antibiotics	prevent	sepsis
+antibiotics	include	cephalosporins
+postpartum fever	indicates	infection
+postpartum fever	treated with	antipyretics
+glucose test	diagnoses	diabetes
+glucose test	performed during	pregnancy
+insulin	regulates	blood sugar
+insulin	administered via	injection
+cervix	dilates during	labor
+cervix	assessed by	Bishop score
+vagina	stretches during	delivery
+vagina	may sustain	lacerations
+X-ray	exposes to	radiation
+X-ray	contraindicated in	pregnancy
+pelvic adequacy	determines	delivery method
+pelvic adequacy	classified by	Caldwell-Moloy
+fetal parameters	include	biparietal diameter
+fetal parameters	predict	fetal weight
+fetal anomalies	screened by	amniocentesis
+fetal anomalies	include	neural tube defects
+fetal growth	monitored by	growth charts
+fetal growth	affected by	maternal nutrition
+oxytocin	stimulates	uterine contractions
+oxytocin	reduces	bleeding
+blood transfusion	replaces	lost blood
+blood transfusion	risks	allergic reaction
+acidosis	indicates	metabolic imbalance
+acidosis	corrected by	bicarbonate
+neurological damage	manifests as	seizures
+neurological damage	evaluated by	MRI
+rapid response	involves	resuscitation
+rapid response	includes	oxygen therapy
+multidisciplinary team	comprises	obstetricians
+multidisciplinary team	includes	neonatologists
+infertility	may result from	ovarian failure
+infertility	treated with	IVF
+surgical complications	include	adhesions
+surgical complications	may require	reoperation
+cardiotocography	records	uterine activity
+cardiotocography	assesses	fetal wellbeing

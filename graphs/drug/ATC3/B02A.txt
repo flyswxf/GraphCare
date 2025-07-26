@@ -1,0 +1,100 @@
+antifibrinolytics	is a	medication class
+antifibrinolytics	inhibits	fibrinolysis
+antifibrinolytics	treats	bleeding disorders
+antifibrinolytics	includes	tranexamic acid
+antifibrinolytics	includes	aminocaproic acid
+tranexamic acid	prevents	blood clot breakdown
+aminocaproic acid	binds	plasminogen
+antifibrinolytics	used in	surgery
+antifibrinolytics	reduces	blood loss
+antifibrinolytics	contraindicated in	thrombosis
+antifibrinolytics	monitored via	coagulation tests
+antifibrinolytics	interacts with	anticoagulants
+antifibrinolytics	dosage depends on	body weight
+antifibrinolytics	metabolized in	liver
+antifibrinolytics	excreted via	kidneys
+antifibrinolytics	has	half-life
+tranexamic acid	half-life	3 hours
+aminocaproic acid	half-life	2 hours
+antifibrinolytics	administered	intravenously
+antifibrinolytics	alternative administration	orally
+antifibrinolytics	prescription requires	medical supervision
+antifibrinolytics	storage condition	room temperature
+antifibrinolytics	pregnancy category	B
+antifibrinolytics	side effect	nausea
+antifibrinolytics	side effect	diarrhea
+antifibrinolytics	side effect	hypotension
+antifibrinolytics	rare side effect	seizures
+antifibrinolytics	research in	trauma patients
+antifibrinolytics	cost	varies by country
+antifibrinolytics	generic availability	yes
+tranexamic acid	brand name	Cyklokapron
+aminocaproic acid	brand name	Amicar
+antifibrinolytics	mechanism	plasmin inhibition
+plasmin	degrades	fibrin
+fibrin	forms	blood clots
+antifibrinolytics	prevents	fibrin degradation
+antifibrinolytics	used for	menorrhagia
+antifibrinolytics	used for	hemophilia
+antifibrinolytics	used for	dental procedures
+antifibrinolytics	used for	postpartum hemorrhage
+postpartum hemorrhage	treated with	tranexamic acid
+antifibrinolytics	reduces need for	blood transfusion
+blood transfusion	risk includes	infection
+antifibrinolytics	decreases	surgical complications
+antifibrinolytics	contraindicated in	DIC
+DIC	involves	coagulation disorder
+antifibrinolytics	caution in	renal impairment
+renal impairment	affects	drug clearance
+antifibrinolytics	monitored via	renal function
+antifibrinolytics	alternative to	desmopressin
+desmopressin	treats	mild hemophilia
+antifibrinolytics	combined with	factor concentrates
+factor concentrates	treat	hemophilia
+antifibrinolytics	research in	cardiac surgery
+cardiac surgery	risk includes	bleeding
+antifibrinolytics	reduces	reoperation rate
+antifibrinolytics	not recommended for	hematuria
+hematuria	caused by	urinary tract clots
+antifibrinolytics	avoided in	subarachnoid hemorrhage
+subarachnoid hemorrhage	risk includes	vasospasm
+antifibrinolytics	studied in	trauma trials
+CRASH-2 trial	evaluated	tranexamic acid
+CRASH-2 trial	showed	mortality reduction
+antifibrinolytics	timing matters	early administration
+antifibrinolytics	overdose causes	thrombosis
+thrombosis	treated with	anticoagulants
+antifibrinolytics	not for	arterial bleeding
+arterial bleeding	requires	surgical intervention
+antifibrinolytics	effective for	venous bleeding
+antifibrinolytics	mechanism differs from	vitamin K
+vitamin K	required for	coagulation factors
+antifibrinolytics	not for	vitamin K deficiency
+antifibrinolytics	storage requires	light protection
+antifibrinolytics	solution appears	clear
+antifibrinolytics	incompatible with	penicillin
+antifibrinolytics	compatible with	saline
+antifibrinolytics	pediatric use	weight-based
+antifibrinolytics	geriatric use	caution
+geriatric patients	have	renal decline
+antifibrinolytics	peak effect	3 hours
+antifibrinolytics	onset	1 hour
+antifibrinolytics	duration	8 hours
+antifibrinolytics	protein binding	low
+antifibrinolytics	volume of distribution	small
+antifibrinolytics	excretion unchanged	95%
+antifibrinolytics	pH	acidic
+antifibrinolytics	molecular weight	medium
+antifibrinolytics	solubility	water soluble
+antifibrinolytics	synthesis involves	organic chemistry
+antifibrinolytics	patent expired	yes
+antifibrinolytics	manufacturing requires	GMP
+GMP	ensures	quality standards
+antifibrinolytics	supply chain	global
+antifibrinolytics	stockage	hospital pharmacies
+antifibrinolytics	WHO essential medicine	yes
+antifibrinolytics	guidelines in	NICE
+NICE	provides	treatment protocols
+antifibrinolytics	future research	new formulations
+antifibrinolytics	potential use	COVID-19
+antifibrinolytics	meta-analysis shows	efficacy

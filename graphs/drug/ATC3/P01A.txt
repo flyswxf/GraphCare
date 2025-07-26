@@ -1,0 +1,100 @@
+agents against amoebiasis	treat	amoebiasis
+agents against amoebiasis	include	metronidazole
+agents against amoebiasis	include	tinidazole
+agents against amoebiasis	include	paromomycin
+metronidazole	is	antibiotic
+tinidazole	is	antiprotozoal
+paromomycin	is	aminoglycoside
+metronidazole	targets	anaerobic organisms
+tinidazole	has	longer half-life
+paromomycin	acts in	intestinal lumen
+agents against protozoal diseases	treat	giardiasis
+agents against protozoal diseases	treat	trichomoniasis
+metronidazole	treats	bacterial vaginosis
+tinidazole	treats	amebic liver abscess
+paromomycin	treats	cryptosporidiosis
+agents against amoebiasis	act on	Entamoeba histolytica
+metronidazole	inhibits	DNA synthesis
+tinidazole	crosses	blood-brain barrier
+paromomycin	not absorbed	systemically
+agents against protozoal diseases	prevent	disease complications
+amoebiasis	causes	dysentery
+giardiasis	causes	diarrhea
+trichomoniasis	is	sexually transmitted
+metronidazole	causes	metallic taste
+tinidazole	has	fewer doses
+paromomycin	can cause	ototoxicity
+agents against amoebiasis	used in	endemic areas
+metronidazole	interacts with	alcohol
+tinidazole	contraindicated in	pregnancy
+paromomycin	requires	prescription
+agents against protozoal diseases	reduce	transmission
+amoebiasis	leads to	liver abscess
+giardiasis	diagnosed by	stool test
+trichomoniasis	affects	urogenital tract
+metronidazole	available as	oral tablet
+tinidazole	has	similar mechanism
+paromomycin	used for	hepatic coma
+agents against amoebiasis	part of	WHO list
+metronidazole	treats	H. pylori
+tinidazole	metabolized in	liver
+paromomycin	derived from	Streptomyces
+agents against protozoal diseases	prevent	dehydration
+amoebiasis	transmitted via	contaminated water
+giardiasis	common in	children
+trichomoniasis	asymptomatic in	men
+metronidazole	has	IV formulation
+tinidazole	approved for	pediatric use
+paromomycin	alternative for	cryptosporidium
+agents against amoebiasis	require	proper hygiene
+metronidazole	causes	peripheral neuropathy
+tinidazole	more expensive
+paromomycin	used in	combination therapy
+agents against protozoal diseases	impact	public health
+amoebiasis	prevalent in	tropics
+giardiasis	causes	malabsorption
+trichomoniasis	increases	HIV risk
+metronidazole	first-line for	amebiasis
+tinidazole	single-dose option
+paromomycin	poorly absorbed
+agents against amoebiasis	target	trophozoites
+metronidazole	penetrates	abscesses
+tinidazole	better tolerated
+paromomycin	affects	gut flora
+agents against protozoal diseases	reduce	mortality
+amoebiasis	causes	abdominal pain
+giardiasis	treated with	nitazoxanide
+trichomoniasis	diagnosed via	wet mount
+metronidazole	discovered in	1950s
+tinidazole	similar structure
+paromomycin	alternative for	leishmaniasis
+agents against amoebiasis	prevent	outbreaks
+metronidazole	affects	CNS
+tinidazole	fewer side effects
+paromomycin	requires	renal monitoring
+agents against protozoal diseases	improve	quality of life
+amoebiasis	can become	chronic
+giardiasis	causes	weight loss
+trichomoniasis	treated with	secnidazole
+metronidazole	causes	nausea
+tinidazole	treats	asymptomatic carriers
+paromomycin	used for	bowel prep
+agents against amoebiasis	need	compliance
+metronidazole	contraindicated in	CNS disease
+tinidazole	taken with	food
+paromomycin	administered	orally
+agents against protozoal diseases	prevent	spread
+amoebiasis	diagnosed via	serology
+giardiasis	causes	bloating
+trichomoniasis	prevents	condom use
+metronidazole	affects	CYP450
+tinidazole	shorter course
+paromomycin	alternative for	tapeworms
+agents against amoebiasis	reduce	hospitalizations
+metronidazole	causes	dark urine
+tinidazole	treats	both stages
+paromomycin	not for	systemic infection
+agents against protozoal diseases	require	diagnosis
+amoebiasis	prevented by	water treatment
+giardiasis	common in	daycare
+trichomoniasis	causes	vaginitis

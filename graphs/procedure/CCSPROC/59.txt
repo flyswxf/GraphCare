@@ -1,0 +1,100 @@
+procedures on vessels of head and neck	is a	surgical procedure
+procedures on vessels of head and neck	involves	blood vessels
+procedures on vessels of head and neck	treats	vascular disorders
+carotid endarterectomy	is a type of	procedures on vessels of head and neck
+carotid angioplasty	is a type of	procedures on vessels of head and neck
+vertebral artery surgery	is a type of	procedures on vessels of head and neck
+procedures on vessels of head and neck	requires	imaging guidance
+procedures on vessels of head and neck	prevents	stroke
+procedures on vessels of head and neck	manages	aneurysms
+procedures on vessels of head and neck	treats	carotid stenosis
+procedures on vessels of head and neck	addresses	vascular malformations
+procedures on vessels of head and neck	performed by	vascular surgeons
+procedures on vessels of head and neck	requires	preoperative evaluation
+procedures on vessels of head and neck	carries risk of	bleeding
+procedures on vessels of head and neck	may cause	nerve injury
+procedures on vessels of head and neck	requires	post-operative monitoring
+carotid endarterectomy	removes	plaque
+carotid endarterectomy	prevents	ischemic stroke
+carotid angioplasty	uses	stent
+carotid angioplasty	treats	narrowed arteries
+vertebral artery surgery	improves	blood flow
+vertebral artery surgery	treats	vertebrobasilar insufficiency
+procedures on vessels of head and neck	may require	general anesthesia
+procedures on vessels of head and neck	associated with	hypertension
+procedures on vessels of head and neck	contraindicated in	severe comorbidities
+procedures on vessels of head and neck	followed by	antiplatelet therapy
+procedures on vessels of head and neck	necessitates	blood pressure control
+procedures on vessels of head and neck	may lead to	hematoma
+procedures on vessels of head and neck	requires	vascular access
+procedures on vessels of head and neck	uses	Doppler ultrasound
+carotid endarterectomy	indicated for	symptomatic stenosis
+carotid endarterectomy	reduces	stroke risk
+carotid angioplasty	alternative to	endarterectomy
+carotid angioplasty	preferred in	high-risk patients
+vertebral artery surgery	corrects	arterial compression
+vertebral artery surgery	relieves	vertebrobasilar symptoms
+procedures on vessels of head and neck	preceded by	angiography
+procedures on vessels of head and neck	assesses	collateral circulation
+procedures on vessels of head and neck	may involve	bypass grafting
+procedures on vessels of head and neck	contraindicated in	active infection
+procedures on vessels of head and neck	requires	neurological monitoring
+procedures on vessels of head and neck	may affect	cranial nerves
+procedures on vessels of head and neck	followed by	rehabilitation
+procedures on vessels of head and neck	associated with	hyperperfusion syndrome
+procedures on vessels of head and neck	necessitates	follow-up imaging
+carotid endarterectomy	uses	shunt
+carotid endarterectomy	patches	artery
+carotid angioplasty	guided by	fluoroscopy
+carotid angioplasty	prevents	restenosis
+vertebral artery surgery	reconstructs	blood vessels
+vertebral artery surgery	treats	dissections
+procedures on vessels of head and neck	risks	myocardial infarction
+procedures on vessels of head and neck	requires	anticoagulation management
+procedures on vessels of head and neck	benefits	transient ischemic attack patients
+procedures on vessels of head and neck	contraindicated in	complete occlusion
+procedures on vessels of head and neck	preceded by	medical optimization
+procedures on vessels of head and neck	affects	cerebral circulation
+procedures on vessels of head and neck	requires	specialized equipment
+procedures on vessels of head and neck	may cause	dysphagia
+procedures on vessels of head and neck	associated with	cognitive changes
+carotid endarterectomy	performed for	>70% stenosis
+carotid endarterectomy	contraindicated in	unstable plaque
+carotid angioplasty	uses	embolic protection
+carotid angioplasty	monitored with	neurological exams
+vertebral artery surgery	accesses	cervical spine
+vertebral artery surgery	repairs	traumatic injuries
+procedures on vessels of head and neck	preceded by	duplex scanning
+procedures on vessels of head and neck	evaluates	flow velocity
+procedures on vessels of head and neck	may require	intraoperative angiography
+procedures on vessels of head and neck	contraindicated in	contrast allergy
+procedures on vessels of head and neck	requires	blood flow measurement
+procedures on vessels of head and neck	affects	autoregulation
+procedures on vessels of head and neck	uses	microsurgical techniques
+procedures on vessels of head and neck	may cause	hoarseness
+procedures on vessels of head and neck	associated with	baroreceptor dysfunction
+carotid endarterectomy	compared with	medical therapy
+carotid endarterectomy	timing depends on	stroke onset
+carotid angioplasty	complication is	distal embolization
+carotid angioplasty	considers	lesion characteristics
+vertebral artery surgery	approaches	posterior circulation
+vertebral artery surgery	addresses	extrinsic compression
+procedures on vessels of head and neck	preceded by	CT angiography
+procedures on vessels of head and neck	assesses	plaque morphology
+procedures on vessels of head and neck	may involve	endovascular techniques
+procedures on vessels of head and neck	contraindicated in	bleeding disorders
+procedures on vessels of head and neck	requires	hemodynamic stability
+procedures on vessels of head and neck	affects	oxygen delivery
+procedures on vessels of head and neck	uses	temporary clips
+procedures on vessels of head and neck	may cause	Horner's syndrome
+procedures on vessels of head and neck	associated with	reperfusion injury
+carotid endarterectomy	evaluates	contralateral stenosis
+carotid endarterectomy	complication is	cranial nerve palsy
+carotid angioplasty	benefits	elderly patients
+carotid angioplasty	risks	bradycardia
+vertebral artery surgery	reconstructs	ostial lesions
+vertebral artery surgery	prevents	posterior circulation stroke
+procedures on vessels of head and neck	preceded by	MR angiography
+procedures on vessels of head and neck	assesses	circle of Willis
+procedures on vessels of head and neck	may involve	hybrid procedures
+procedures on vessels of head and neck	predicts	functional outcomes

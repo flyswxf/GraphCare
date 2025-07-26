@@ -1,0 +1,100 @@
+decompression peripheral nerve	is a	surgical procedure
+decompression peripheral nerve	treats	nerve compression
+decompression peripheral nerve	relieves	neuropathic pain
+decompression peripheral nerve	improves	nerve function
+decompression peripheral nerve	used for	carpal tunnel syndrome
+decompression peripheral nerve	used for	cubital tunnel syndrome
+decompression peripheral nerve	addresses	entrapment neuropathy
+decompression peripheral nerve	involves	nerve release
+decompression peripheral nerve	requires	local anesthesia
+decompression peripheral nerve	performed by	neurosurgeon
+decompression peripheral nerve	performed by	orthopedic surgeon
+decompression peripheral nerve	performed by	hand surgeon
+decompression peripheral nerve	requires	preoperative evaluation
+decompression peripheral nerve	follows	diagnostic tests
+decompression peripheral nerve	preceded by	electromyography
+decompression peripheral nerve	preceded by	nerve conduction study
+decompression peripheral nerve	reduces	nerve pressure
+decompression peripheral nerve	restores	blood flow
+decompression peripheral nerve	prevents	axonal degeneration
+decompression peripheral nerve	alternative to	conservative treatment
+decompression peripheral nerve	has risk	infection
+decompression peripheral nerve	has risk	nerve damage
+decompression peripheral nerve	has risk	scar formation
+decompression peripheral nerve	requires	postoperative care
+decompression peripheral nerve	followed by	physical therapy
+decompression peripheral nerve	followed by	occupational therapy
+decompression peripheral nerve	improves	grip strength
+decompression peripheral nerve	alleviates	numbness
+decompression peripheral nerve	reduces	tingling sensation
+decompression peripheral nerve	corrects	muscle weakness
+decompression peripheral nerve	involves	transverse carpal ligament
+decompression peripheral nerve	involves	ulnar nerve
+decompression peripheral nerve	involves	median nerve
+decompression peripheral nerve	involves	fibro-osseous tunnel
+decompression peripheral nerve	performed using	microsurgical technique
+decompression peripheral nerve	requires	nerve visualization
+decompression peripheral nerve	has outcome	symptom relief
+decompression peripheral nerve	has outcome	functional recovery
+decompression peripheral nerve	dependent on	surgical skill
+decompression peripheral nerve	influenced by	disease duration
+decompression peripheral nerve	indicated for	failed conservative treatment
+decompression peripheral nerve	contraindicated in	active infection
+decompression peripheral nerve	contraindicated in	severe comorbidities
+decompression peripheral nerve	requires	patient positioning
+decompression peripheral nerve	uses	surgical instruments
+decompression peripheral nerve	uses	retractors
+decompression peripheral nerve	uses	microscopes
+decompression peripheral nerve	involves	skin incision
+decompression peripheral nerve	involves	tissue dissection
+decompression peripheral nerve	preserves	nerve integrity
+decompression peripheral nerve	avoids	vascular injury
+decompression peripheral nerve	monitors	hemostasis
+decompression peripheral nerve	evaluates	decompression adequacy
+decompression peripheral nerve	closed with	sutures
+decompression peripheral nerve	dressed with	sterile bandage
+decompression peripheral nerve	has success rate	85-95%
+decompression peripheral nerve	has recurrence rate	5-15%
+decompression peripheral nerve	affected by	patient compliance
+decompression peripheral nerve	influenced by	postoperative rehabilitation
+decompression peripheral nerve	prevents	permanent nerve damage
+decompression peripheral nerve	alternative to	steroid injection
+decompression peripheral nerve	alternative to	splinting
+decompression peripheral nerve	superior to	medication alone
+decompression peripheral nerve	more effective in	severe cases
+decompression peripheral nerve	cost-effective for	long-term relief
+decompression peripheral nerve	performed in	outpatient setting
+decompression peripheral nerve	requires	preoperative consent
+decompression peripheral nerve	explained through	patient education
+decompression peripheral nerve	documented in	surgical report
+decompression peripheral nerve	coded with	CPT code
+decompression peripheral nerve	reimbursed by	insurance
+decompression peripheral nerve	associated with	sick leave
+decompression peripheral nerve	followed by	wound check
+decompression peripheral nerve	monitored for	complications
+decompression peripheral nerve	benchmarked with	outcome measures
+decompression peripheral nerve	researched in	clinical trials
+decompression peripheral nerve	compared with	endoscopic technique
+decompression peripheral nerve	more invasive than	non-surgical options
+decompression peripheral nerve	less invasive than	major surgery
+decompression peripheral nerve	duration	30-90 minutes
+decompression peripheral nerve	learning curve	moderate
+decompression peripheral nerve	taught in	residency programs
+decompression peripheral nerve	requires	anatomical knowledge
+decompression peripheral nerve	considers	nerve variations
+decompression peripheral nerve	influenced by	surgical approach
+decompression peripheral nerve	affects	quality of life
+decompression peripheral nerve	impacts	work capacity
+decompression peripheral nerve	prevents	disability
+decompression peripheral nerve	reduces	medication dependence
+decompression peripheral nerve	improves	sleep quality
+decompression peripheral nerve	evaluated with	patient questionnaires
+decompression peripheral nerve	correlates with	nerve regeneration
+decompression peripheral nerve	timing affects	outcomes
+decompression peripheral nerve	delayed in	mild cases
+decompression peripheral nerve	urgent in	muscle atrophy
+decompression peripheral nerve	contraindicated in	complete paralysis
+decompression peripheral nerve	follow-up includes	sensory testing
+decompression peripheral nerve	follow-up includes	motor testing
+decompression peripheral nerve	documented with	photographs
+decompression peripheral nerve	reviewed in	case conferences

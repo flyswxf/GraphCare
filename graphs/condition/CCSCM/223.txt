@@ -1,0 +1,100 @@
+birth trauma	may cause	neonatal asphyxia
+birth trauma	may lead to	cerebral palsy
+birth trauma	can result in	brachial plexus injury
+birth trauma	is associated with	shoulder dystocia
+birth trauma	increases risk of	intracranial hemorrhage
+birth trauma	may cause	skull fracture
+birth trauma	can lead to	perinatal depression
+birth trauma	is linked to	postpartum hemorrhage
+birth trauma	may result in	neonatal sepsis
+birth trauma	can cause	clavicle fracture
+birth trauma	is related to	operative vaginal delivery
+birth trauma	may increase	NICU admission
+birth trauma	can lead to	developmental delay
+birth trauma	is a risk factor for	epilepsy
+birth trauma	may cause	facial nerve palsy
+birth trauma	can result in	caput succedaneum
+birth trauma	is associated with	macrosomia
+birth trauma	increases risk of	neonatal mortality
+birth trauma	may lead to	hypoxic-ischemic encephalopathy
+birth trauma	can cause	cephalohematoma
+birth trauma	is linked to	prolonged labor
+birth trauma	may result in	Erb's palsy
+birth trauma	can lead to	maternal trauma
+birth trauma	is related to	instrumental delivery
+birth trauma	may increase	cesarean section rate
+birth trauma	can cause	spinal cord injury
+birth trauma	is associated with	umbilical cord prolapse
+birth trauma	may lead to	neonatal seizures
+birth trauma	can result in	subgaleal hemorrhage
+birth trauma	is linked to	breech presentation
+birth trauma	may cause	retinal hemorrhage
+birth trauma	can lead to	feeding difficulties
+birth trauma	is related to	fetal distress
+birth trauma	may increase	resuscitation need
+birth trauma	can cause	pneumothorax
+birth trauma	is associated with	oligohydramnios
+birth trauma	may result in	hearing loss
+birth trauma	can lead to	visual impairment
+birth trauma	is linked to	prematurity
+birth trauma	may cause	liver rupture
+birth trauma	can result in	adrenal hemorrhage
+birth trauma	is related to	gestational diabetes
+birth trauma	may increase	Apgar score low
+birth trauma	can cause	renal injury
+birth trauma	is associated with	multiple gestation
+birth trauma	may lead to	cognitive impairment
+birth trauma	can result in	motor deficits
+birth trauma	is linked to	preeclampsia
+birth trauma	may cause	splenic rupture
+birth trauma	can lead to	neonatal jaundice
+birth trauma	is related to	maternal obesity
+birth trauma	may increase	ventilator support
+birth trauma	can cause	bowel perforation
+birth trauma	is associated with	placenta previa
+birth trauma	may result in	speech delay
+birth trauma	can lead to	behavioral problems
+birth trauma	is linked to	uterine rupture
+birth trauma	may cause	diaphragmatic paralysis
+birth trauma	can result in	bone fractures
+birth trauma	is related to	induction of labor
+birth trauma	may increase	cerebral edema
+birth trauma	can cause	nerve compression
+birth trauma	is associated with	fetal macrosomia
+birth trauma	may lead to	hydrocephalus
+birth trauma	can result in	learning disabilities
+birth trauma	is linked to	chorioamnionitis
+birth trauma	may cause	Horner's syndrome
+birth trauma	can lead to	respiratory distress
+birth trauma	is related to	vacuum extraction
+birth trauma	may increase	blood transfusion
+birth trauma	can cause	rib fractures
+birth trauma	is associated with	nuchal cord
+birth trauma	may result in	cardiac arrest
+birth trauma	can lead to	muscle weakness
+birth trauma	is linked to	epidural analgesia
+birth trauma	may cause	genital trauma
+birth trauma	can result in	sensory loss
+birth trauma	is related to	oxytocin use
+birth trauma	may increase	infection risk
+birth trauma	can cause	laryngeal injury
+birth trauma	is associated with	polyhydramnios
+birth trauma	may lead to	gait abnormalities
+birth trauma	can result in	swallowing difficulties
+birth trauma	is linked to	forceps delivery
+birth trauma	may cause	anal sphincter injury
+birth trauma	can lead to	temperature instability
+birth trauma	is related to	maternal age
+birth trauma	may increase	phototherapy need
+birth trauma	can cause	nasal septum deviation
+birth trauma	is associated with	rapid labor
+birth trauma	may result in	hypoglycemia
+birth trauma	can lead to	sleep disturbances
+birth trauma	is linked to	amniotic fluid embolism
+birth trauma	may cause	testicular trauma
+birth trauma	can result in	vestibular dysfunction
+birth trauma	is related to	meconium aspiration
+birth trauma	may increase	EEG abnormalities
+birth trauma	can cause	dental trauma
+birth trauma	is associated with	umbilical cord abnormalities
+birth trauma	may lead to	long-term disability

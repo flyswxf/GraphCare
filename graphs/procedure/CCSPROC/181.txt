@@ -1,0 +1,100 @@
+myelogram	is a	diagnostic test
+myelogram	used for	spinal cord imaging
+myelogram	detects	spinal abnormalities
+myelogram	requires	contrast dye
+myelogram	involves	lumbar puncture
+myelogram	evaluates	nerve compression
+myelogram	assesses	spinal stenosis
+myelogram	diagnoses	herniated disc
+myelogram	identifies	spinal tumors
+myelogram	screens	spinal infections
+myelogram	checks	arachnoiditis
+myelogram	performed by	radiologist
+myelogram	uses	fluoroscopy
+myelogram	monitors	CSF flow
+myelogram	contraindicated in	bleeding disorders
+myelogram	contraindicated in	increased ICP
+myelogram	precedes	spinal surgery
+myelogram	alternative to	MRI
+myelogram	risk of	headache
+myelogram	risk of	infection
+myelogram	risk of	allergic reaction
+myelogram	risk of	nerve damage
+myelogram	requires	patient preparation
+myelogram	followed by	post-procedure monitoring
+myelogram	contraindicated in	pregnancy
+myelogram	evaluates	spinal trauma
+myelogram	detects	syringomyelia
+myelogram	assesses	spinal cord cysts
+myelogram	diagnoses	tethered cord
+myelogram	identifies	CSF leaks
+myelogram	screens	metastatic lesions
+myelogram	checks	vascular malformations
+myelogram	performed in	radiology department
+myelogram	uses	X-ray
+myelogram	monitors	postoperative changes
+myelogram	contraindicated in	contrast allergy
+myelogram	contraindicated in	anticoagulation therapy
+myelogram	precedes	radiation therapy
+myelogram	alternative to	CT myelography
+myelogram	risk of	nausea
+myelogram	risk of	vomiting
+myelogram	risk of	seizure
+myelogram	risk of	hematoma
+myelogram	requires	informed consent
+myelogram	followed by	pain management
+myelogram	contraindicated in	local infection
+myelogram	evaluates	degenerative disc disease
+myelogram	detects	spinal fractures
+myelogram	assesses	spinal deformities
+myelogram	diagnoses	cauda equina syndrome
+myelogram	identifies	epidural fibrosis
+myelogram	screens	inflammatory conditions
+myelogram	checks	spinal cord atrophy
+myelogram	performed with	local anesthesia
+myelogram	uses	iodine-based contrast
+myelogram	monitors	treatment response
+myelogram	contraindicated in	severe obesity
+myelogram	contraindicated in	claustrophobia
+myelogram	precedes	chemotherapy
+myelogram	alternative to	ultrasound
+myelogram	risk of	dizziness
+myelogram	risk of	back pain
+myelogram	risk of	meningitis
+myelogram	risk of	nerve irritation
+myelogram	requires	fasting
+myelogram	followed by	bed rest
+myelogram	contraindicated in	kidney disease
+myelogram	evaluates	spinal cord injuries
+myelogram	detects	spinal abscess
+myelogram	assesses	discitis
+myelogram	diagnoses	spinal cord ischemia
+myelogram	identifies	dural tears
+myelogram	screens	congenital anomalies
+myelogram	checks	spinal cord swelling
+myelogram	performed under	sterile conditions
+myelogram	uses	real-time imaging
+myelogram	monitors	disease progression
+myelogram	contraindicated in	uncontrolled diabetes
+myelogram	contraindicated in	heart disease
+myelogram	precedes	physical therapy
+myelogram	alternative to	PET scan
+myelogram	risk of	vasovagal reaction
+myelogram	risk of	urinary retention
+myelogram	risk of	CSF hypotension
+myelogram	risk of	contrast extravasation
+myelogram	requires	hydration
+myelogram	followed by	neurological assessment
+myelogram	contraindicated in	thyroid disorders
+myelogram	evaluates	spinal cord compression
+myelogram	detects	osteomyelitis
+myelogram	assesses	post-surgical adhesions
+myelogram	diagnoses	spinal arteriovenous malformation
+myelogram	identifies	spinal cord herniation
+myelogram	screens	demyelinating diseases
+myelogram	checks	spinal canal narrowing
+myelogram	performed with	sedation
+myelogram	uses	digital imaging
+myelogram	monitors	spinal cord recovery
+myelogram	contraindicated in	multiple myeloma
+myelogram	contraindicated in	severe scoliosis

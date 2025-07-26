@@ -1,0 +1,100 @@
+hormones	regulate	metabolism
+hormones	secreted by	endocrine glands
+endocrine glands	include	pituitary gland
+pituitary gland	produces	growth hormone
+growth hormone	stimulates	cell growth
+hormones	include	insulin
+insulin	produced by	pancreas
+insulin	regulates	blood glucose
+blood glucose	affected by	diabetes
+diabetes	treated with	insulin therapy
+hormones	include	thyroid hormones
+thyroid hormones	produced by	thyroid gland
+thyroid hormones	regulate	metabolic rate
+hypothyroidism	treated with	levothyroxine
+levothyroxine	is a	synthetic thyroid hormone
+hormones	include	cortisol
+cortisol	produced by	adrenal glands
+cortisol	manages	stress response
+chronic stress	leads to	cortisol imbalance
+cortisol imbalance	treated with	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	caused by	immune response
+immune response	regulated by	cytokines
+cytokines	are	signaling molecules
+signaling molecules	include	hormones
+hormones	act on	target cells
+target cells	have	receptors
+receptors	bind to	hormones
+hormone-receptor complex	triggers	cellular response
+cellular response	leads to	physiological changes
+physiological changes	include	growth
+growth	regulated by	growth factors
+growth factors	are	proteins
+proteins	synthesized by	ribosomes
+ribosomes	found in	cells
+cells	communicate via	hormones
+hormones	transported by	bloodstream
+bloodstream	carries	nutrients
+nutrients	include	glucose
+glucose	regulated by	glucagon
+glucagon	produced by	alpha cells
+alpha cells	located in	pancreas
+pancreas	secretes	digestive enzymes
+digestive enzymes	break down	food
+food	provides	energy
+energy	used for	metabolism
+metabolism	influenced by	thyroid hormones
+thyroid hormones	contain	iodine
+iodine	obtained from	diet
+diet	affects	hormone levels
+hormone levels	measured by	blood tests
+blood tests	diagnose	endocrine disorders
+endocrine disorders	include	Addison's disease
+Addison's disease	treated with	hydrocortisone
+hydrocortisone	is a	corticosteroid
+corticosteroids	suppress	immune system
+immune system	protected by	vaccines
+vaccines	stimulate	antibody production
+antibody production	regulated by	cytokines
+cytokines	released by	immune cells
+immune cells	include	T cells
+T cells	activated by	antigens
+antigens	recognized by	antibodies
+antibodies	produced by	B cells
+B cells	mature in	bone marrow
+bone marrow	produces	blood cells
+blood cells	transport	oxygen
+oxygen	required for	cellular respiration
+cellular respiration	generates	ATP
+ATP	fuels	cellular processes
+cellular processes	regulated by	hormones
+hormones	include	estrogen
+estrogen	produced by	ovaries
+estrogen	regulates	menstrual cycle
+menstrual cycle	involves	ovulation
+ovulation	triggered by	luteinizing hormone
+luteinizing hormone	secreted by	pituitary gland
+pituitary gland	controlled by	hypothalamus
+hypothalamus	releases	GnRH
+GnRH	stimulates	gonadotropins
+gonadotropins	include	FSH
+FSH	promotes	follicle development
+follicle development	leads to	estrogen production
+estrogen production	peaks at	ovulation
+ovulation	followed by	progesterone secretion
+progesterone	prepares	endometrium
+endometrium	supports	pregnancy
+pregnancy	maintained by	hCG
+hCG	produced by	placenta
+placenta	forms during	implantation
+implantation	occurs in	uterus
+uterus	lined by	endometrium
+endometrium	sheds during	menstruation
+menstruation	regulated by	hormones
+hormones	include	testosterone
+testosterone	produced by	testes
+testosterone	promotes	muscle growth
+muscle growth	stimulated by	exercise
+exercise	influences	hormone secretion
+hormone secretion	maintains	homeostasis

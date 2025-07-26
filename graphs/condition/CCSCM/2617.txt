@@ -1,0 +1,100 @@
+E codes	classify	adverse drug reactions
+adverse drug reactions	are tracked by	E codes
+pharmacovigilance	uses	E codes
+E codes	are part of	ICD coding system
+medical drugs	can cause	adverse effects
+adverse effects	are categorized in	E codes
+E codes	help identify	drug safety issues
+drug interactions	may lead to	adverse effects
+E codes	assist in	risk assessment
+healthcare providers	report	adverse drug reactions
+E codes	enable	trend analysis
+prescription drugs	are associated with	E codes
+over-the-counter drugs	are associated with	E codes
+E codes	differentiate	medication errors
+medication errors	may result in	adverse effects
+E codes	support	post-market surveillance
+FDA	utilizes	E codes
+WHO	maintains	E codes
+E codes	help prevent	future adverse events
+clinical trials	monitor	adverse effects
+E codes	are used in	pharmacoepidemiology
+drug manufacturers	analyze	E codes
+E codes	contribute to	drug labeling updates
+side effects	are recorded in	E codes
+allergic reactions	are classified in	E codes
+E codes	distinguish	therapeutic failures
+dosage errors	are tracked by	E codes
+E codes	identify	off-label use complications
+drug toxicity	is categorized in	E codes
+E codes	help evaluate	drug combinations
+antibiotics	can cause	adverse effects
+analgesics	can cause	adverse effects
+antidepressants	can cause	adverse effects
+anticoagulants	can cause	adverse effects
+E codes	record	drug-induced liver injury
+E codes	document	drug-induced kidney injury
+E codes	track	cardiovascular adverse events
+E codes	monitor	neurological side effects
+E codes	capture	gastrointestinal reactions
+E codes	classify	dermatological reactions
+E codes	help detect	drug abuse patterns
+E codes	assist in	medication reconciliation
+E codes	support	root cause analysis
+E codes	facilitate	quality improvement
+E codes	are used in	malpractice cases
+E codes	help establish	causality assessment
+E codes	contribute to	drug withdrawal decisions
+E codes	inform	clinical guidelines
+E codes	aid in	patient counseling
+E codes	are integrated in	electronic health records
+E codes	improve	adverse event reporting
+E codes	standardize	adverse effect documentation
+E codes	enhance	data interoperability
+E codes	support	regulatory compliance
+E codes	help identify	high-risk medications
+E codes	track	pediatric adverse reactions
+E codes	monitor	geriatric adverse reactions
+E codes	record	pregnancy-related drug effects
+E codes	document	drug dependence
+E codes	classify	drug withdrawal symptoms
+E codes	identify	drug-drug interactions
+E codes	track	drug-food interactions
+E codes	monitor	drug-alcohol interactions
+E codes	record	anaphylactic reactions
+E codes	document	hypersensitivity reactions
+E codes	classify	idiosyncratic reactions
+E codes	identify	teratogenic effects
+E codes	track	carcinogenic effects
+E codes	monitor	mutagenic effects
+E codes	record	photosensitivity reactions
+E codes	document	ototoxicity
+E codes	classify	neurotoxicity
+E codes	identify	hematologic toxicity
+E codes	track	endocrine disruptions
+E codes	monitor	metabolic disturbances
+E codes	record	electrolyte imbalances
+E codes	document	cognitive impairments
+E codes	classify	psychiatric adverse effects
+E codes	identify	movement disorders
+E codes	track	respiratory depression
+E codes	monitor	hepatic encephalopathy
+E codes	record	serotonin syndrome
+E codes	document	neuroleptic malignant syndrome
+E codes	classify	extrapyramidal symptoms
+E codes	identify	tardive dyskinesia
+E codes	track	QT prolongation
+E codes	monitor	torsades de pointes
+E codes	record	rhabdomyolysis
+E codes	document	Stevens-Johnson syndrome
+E codes	classify	toxic epidermal necrolysis
+E codes	identify	angioedema
+E codes	track	vasculitis
+E codes	monitor	lupus-like syndrome
+E codes	record	pseudomembranous colitis
+E codes	document	C. difficile infection
+E codes	classify	antibiotic-associated diarrhea
+E codes	identify	drug-induced pancreatitis
+E codes	track	drug-induced diabetes
+E codes	monitor	drug-induced thyroid dysfunction
+E codes	record	drug-induced osteoporosis

@@ -1,0 +1,100 @@
+colostomy	is a	surgical procedure
+colostomy	creates	stoma
+colostomy	diverts	feces
+colostomy	treats	bowel obstruction
+colostomy	manages	colorectal cancer
+colostomy	assists	inflammatory bowel disease
+colostomy	helps	diverticulitis
+colostomy	requires	ostomy bag
+colostomy	needs	stoma care
+colostomy	may be	temporary
+colostomy	may be	permanent
+temporary colostomy	allows	bowel healing
+temporary colostomy	precedes	reversal surgery
+permanent colostomy	results from	irreversible damage
+permanent colostomy	follows	cancer resection
+colostomy	can cause	skin irritation
+colostomy	requires	diet adjustment
+colostomy	increases risk	dehydration
+colostomy	may lead	electrolyte imbalance
+colostomy	affects	body image
+colostomy	needs	nursing support
+colostomy	involves	colon
+colostomy	bypasses	rectum
+colostomy	alters	bowel function
+colostomy	prevents	fecal contamination
+colostomy	reduces	infection risk
+colostomy	requires	surgical skill
+colostomy	performed by	colorectal surgeon
+colostomy	uses	surgical instruments
+colostomy	follows	anesthesia
+colostomy	has	postoperative pain
+colostomy	needs	wound care
+colostomy	may have	complications
+colostomy complications	include	stoma necrosis
+colostomy complications	include	parastomal hernia
+colostomy complications	include	prolapse
+colostomy complications	include	stenosis
+colostomy	requires	follow-up care
+colostomy	monitored by	healthcare team
+colostomy	may need	revision
+colostomy reversal	reconnects	bowel
+colostomy reversal	restores	bowel continuity
+colostomy reversal	has	success rate
+colostomy	impacts	quality of life
+colostomy	studied in	clinical research
+colostomy	has	guidelines
+colostomy guidelines	recommend	patient education
+colostomy	uses	medical supplies
+colostomy supplies	include	adhesive
+colostomy supplies	include	barrier ring
+colostomy	taught by	stoma nurse
+stoma nurse	provides	counseling
+stoma nurse	assists	appliance fitting
+colostomy	has	psychosocial aspects
+colostomy patients	join	support groups
+support groups	offer	peer advice
+colostomy	associated with	adaptation period
+colostomy adaptation	involves	lifestyle changes
+colostomy	may require	psychological support
+colostomy	affects	physical activity
+colostomy	allows	return to work
+colostomy	enables	normal diet
+colostomy diet	avoids	gas-producing foods
+colostomy diet	prevents	blockage
+colostomy	increases	fluid needs
+colostomy	relates to	bowel training
+bowel training	establishes	routine
+colostomy	may need	irrigation
+colostomy irrigation	controls	output
+colostomy	has	historical development
+colostomy history	includes	technique evolution
+colostomy	uses	modern techniques
+modern techniques	reduce	complication rates
+colostomy	compared to	ileostomy
+colostomy	differs from	ileostomy
+ileostomy	involves	small intestine
+colostomy	has	location variations
+colostomy variations	include	sigmoid colostomy
+colostomy variations	include	transverse colostomy
+sigmoid colostomy	produces	solid stool
+transverse colostomy	produces	loose stool
+colostomy	may be	loop colostomy
+colostomy	may be	end colostomy
+loop colostomy	allows	easier reversal
+end colostomy	is	permanent
+colostomy	indicated for	trauma
+colostomy	used in	emergency surgery
+emergency colostomy	saves lives
+colostomy	has	mortality data
+colostomy mortality	relates to	underlying condition
+colostomy	has	readmission rates
+colostomy readmission	caused by	complications
+colostomy	requires	preoperative assessment
+preoperative assessment	evaluates	stoma site
+stoma site marking	prevents	placement issues
+colostomy	has	cost implications
+colostomy costs	include	supplies
+colostomy supplies	are	reimbursable
+colostomy	improves	survival
+colostomy	restores	digestive function

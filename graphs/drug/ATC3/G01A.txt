@@ -1,0 +1,107 @@
+antiinfectives and antiseptics	is a	medical class
+antiinfectives and antiseptics	treats	infections
+antiinfectives and antiseptics	prevents	microbial growth
+infections	caused by	microorganisms
+microorganisms	include	bacteria
+microorganisms	include	viruses
+microorganisms	include	fungi
+antiinfectives and antiseptics	excludes	corticosteroids
+corticosteroids	are	anti-inflammatory agents
+antiinfectives	differ from	antiseptics
+antiseptics	applied to	skin
+antiseptics	used for	wound care
+wound care	prevents	infection
+antiinfectives	include	antibiotics
+antibiotics	target	bacteria
+antibiotics	ineffective against	viruses
+antiinfectives	include	antivirals
+antivirals	target	viruses
+antivirals	ineffective against	bacteria
+antiinfectives	include	antifungals
+antifungals	target	fungi
+fungi	cause	fungal infections
+bacteria	cause	bacterial infections
+viruses	cause	viral infections
+antiinfectives	administered via	oral route
+antiinfectives	administered via	intravenous route
+antiinfectives	administered via	topical route
+topical route	used for	skin infections
+oral route	convenient for	outpatient treatment
+intravenous route	used for	severe infections
+severe infections	require	hospitalization
+antiinfectives	have	side effects
+side effects	include	gastrointestinal upset
+gastrointestinal upset	causes	nausea
+side effects	include	allergic reactions
+allergic reactions	may cause	rash
+allergic reactions	may cause	anaphylaxis
+anaphylaxis	is a	medical emergency
+antiinfectives	interact with	other drugs
+drug interactions	affect	efficacy
+drug interactions	increase	toxicity
+antiinfectives	require	proper dosing
+improper dosing	leads to	resistance
+resistance	reduces	treatment options
+resistance	caused by	overuse
+overuse	occurs in	inappropriate prescriptions
+antiinfectives	monitored via	lab tests
+lab tests	measure	drug levels
+lab tests	assess	kidney function
+kidney function	affects	drug clearance
+liver function	affects	drug metabolism
+antiinfectives	contraindicated in	pregnancy
+pregnancy	requires	special precautions
+special precautions	include	risk assessment
+risk assessment	considers	benefit-harm ratio
+benefit-harm ratio	guides	treatment decisions
+antiinfectives	used in	prophylaxis
+prophylaxis	prevents	surgical site infections
+surgical site infections	increase	hospital stay
+hospital stay	increases	healthcare costs
+healthcare costs	affected by	drug choice
+drug choice	based on	guidelines
+guidelines	recommend	first-line agents
+first-line agents	are	cost-effective
+cost-effective treatment	reduces	economic burden
+economic burden	impacts	healthcare systems
+healthcare systems	strive for	efficiency
+efficiency	achieved through	evidence-based practice
+evidence-based practice	relies on	clinical trials
+clinical trials	evaluate	drug safety
+drug safety	ensures	patient well-being
+patient well-being	is a	treatment goal
+treatment goal	includes	symptom relief
+symptom relief	improves	quality of life
+quality of life	measured by	patient surveys
+patient surveys	provide	feedback
+feedback	guides	quality improvement
+quality improvement	enhances	care delivery
+care delivery	involves	multidisciplinary teams
+multidisciplinary teams	include	pharmacists
+pharmacists	advise on	drug selection
+drug selection	considers	local resistance patterns
+local resistance patterns	influence	empiric therapy
+empiric therapy	initiated before	culture results
+culture results	identify	causative organisms
+causative organisms	determine	targeted therapy
+targeted therapy	is more	effective
+effectiveness	measured by	clinical response
+clinical response	assessed by	symptom resolution
+symptom resolution	indicates	treatment success
+treatment success	reduces	complication risks
+complication risks	include	sepsis
+sepsis	is a	life-threatening condition
+life-threatening conditions	require	intensive care
+intensive care	provides	advanced support
+advanced support	includes	mechanical ventilation
+mechanical ventilation	assists	respiratory function
+respiratory function	critical for	oxygen delivery
+oxygen delivery	essential for	organ perfusion
+organ perfusion	maintains	homeostasis
+homeostasis	disrupted by	severe infection
+severe infection	triggers	systemic inflammation
+systemic inflammation	causes	organ dysfunction
+organ dysfunction	leads to	multiple organ failure
+multiple organ failure	has	high mortality
+high mortality	reduced by	early intervention
+early intervention	relies on	rapid diagnosis

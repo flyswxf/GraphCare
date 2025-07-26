@@ -1,0 +1,100 @@
+drugs for functional gastrointestinal disorders	treat	irritable bowel syndrome
+drugs for functional gastrointestinal disorders	treat	functional dyspepsia
+drugs for functional gastrointestinal disorders	include	antispasmodics
+drugs for functional gastrointestinal disorders	include	laxatives
+drugs for functional gastrointestinal disorders	include	antidiarrheals
+drugs for functional gastrointestinal disorders	include	prokinetics
+drugs for functional gastrointestinal disorders	include	antidepressants
+antispasmodics	relieve	abdominal pain
+laxatives	relieve	constipation
+antidiarrheals	relieve	diarrhea
+prokinetics	improve	gastric motility
+antidepressants	modulate	gut-brain axis
+irritable bowel syndrome	has symptom	bloating
+functional dyspepsia	has symptom	early satiety
+abdominal pain	caused by	visceral hypersensitivity
+constipation	caused by	slow transit
+diarrhea	caused by	increased motility
+gut-brain axis	involves	serotonin
+serotonin	regulates	gut function
+drugs for functional gastrointestinal disorders	may cause	dry mouth
+drugs for functional gastrointestinal disorders	may cause	dizziness
+drugs for functional gastrointestinal disorders	may cause	constipation
+drugs for functional gastrointestinal disorders	may cause	diarrhea
+drugs for functional gastrointestinal disorders	interact with	CYP3A4 substrates
+CYP3A4 substrates	include	statins
+statins	used for	hyperlipidemia
+hyperlipidemia	risk factor	cardiovascular disease
+drugs for functional gastrointestinal disorders	contraindicated in	glaucoma
+glaucoma	involves	increased intraocular pressure
+drugs for functional gastrointestinal disorders	require	dose adjustment
+dose adjustment	needed in	renal impairment
+renal impairment	affects	drug clearance
+drug clearance	occurs in	liver
+liver	metabolizes	drugs
+drugs for functional gastrointestinal disorders	have	half-life
+half-life	determines	dosing frequency
+dosing frequency	affects	adherence
+adherence	impacts	treatment efficacy
+treatment efficacy	measured by	symptom relief
+symptom relief	improves	quality of life
+quality of life	assessed by	questionnaires
+questionnaires	include	IBS-SSS
+IBS-SSS	evaluates	irritable bowel syndrome severity
+irritable bowel syndrome	classified into	subtypes
+subtypes	include	IBS-C
+subtypes	include	IBS-D
+subtypes	include	IBS-M
+IBS-C	characterized by	constipation
+IBS-D	characterized by	diarrhea
+IBS-M	characterized by	mixed bowel habits
+drugs for functional gastrointestinal disorders	target	5-HT3 receptors
+5-HT3 receptors	mediate	nausea
+nausea	common in	functional dyspepsia
+drugs for functional gastrointestinal disorders	target	5-HT4 receptors
+5-HT4 receptors	enhance	peristalsis
+peristalsis	moves	food
+food	digested in	small intestine
+small intestine	absorbs	nutrients
+nutrients	provide	energy
+energy	required for	metabolism
+metabolism	involves	enzymes
+enzymes	catalyze	reactions
+reactions	produce	metabolites
+metabolites	excreted by	kidneys
+kidneys	filter	blood
+blood	contains	plasma
+plasma	carries	proteins
+proteins	bind	drugs
+drug binding	affects	bioavailability
+bioavailability	determines	drug concentration
+drug concentration	influences	effect
+effect	monitored by	physicians
+physicians	prescribe	drugs for functional gastrointestinal disorders
+prescriptions	filled at	pharmacies
+pharmacies	dispense	medications
+medications	have	side effects
+side effects	reported by	patients
+patients	experience	symptoms
+symptoms	prompt	doctor visits
+doctor visits	lead to	diagnoses
+diagnoses	guide	treatments
+treatments	aim for	remission
+remission	defined as	symptom absence
+symptom absence	indicates	recovery
+recovery	depends on	adherence
+adherence	influenced by	education
+education	provided by	healthcare providers
+healthcare providers	include	nurses
+nurses	administer	care
+care	improves	outcomes
+outcomes	measured by	metrics
+metrics	include	readmission rates
+readmission rates	reflect	quality of care
+quality of care	enhanced by	guidelines
+guidelines	based on	evidence
+evidence	derived from	studies
+studies	conducted by	researchers
+researchers	publish	papers
+papers	contribute to	knowledge
+knowledge	advances	medicine

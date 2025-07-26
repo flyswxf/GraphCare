@@ -1,0 +1,100 @@
+cesarean section	is a	surgical procedure
+cesarean section	used for	childbirth
+cesarean section	alternative to	vaginal delivery
+cesarean section	performed by	obstetrician
+cesarean section	requires	anesthesia
+cesarean section	involves	abdominal incision
+cesarean section	involves	uterine incision
+cesarean section	may cause	bleeding
+cesarean section	may cause	infection
+cesarean section	may cause	blood clots
+cesarean section	increases risk	postpartum complications
+cesarean section	associated with	longer recovery
+cesarean section	may lead	adhesions
+cesarean section	may affect	future pregnancies
+cesarean section	requires	hospital stay
+cesarean section	monitored by	fetal heart rate
+cesarean section	influenced by	maternal age
+cesarean section	influenced by	fetal distress
+cesarean section	influenced by	breech position
+cesarean section	influenced by	placenta previa
+cesarean section	influenced by	multiple gestation
+cesarean section	influenced by	previous cesarean
+cesarean section	may require	blood transfusion
+cesarean section	may require	antibiotics
+cesarean section	may require	pain management
+cesarean section	associated with	surgical team
+cesarean section	involves	sterile environment
+cesarean section	may lead	wound dehiscence
+cesarean section	may lead	uterine rupture
+cesarean section	may lead	scar tissue
+cesarean section	may affect	breastfeeding initiation
+cesarean section	may increase	neonatal respiratory issues
+cesarean section	may require	neonatal intensive care
+cesarean section	may involve	general anesthesia
+cesarean section	may involve	spinal anesthesia
+cesarean section	may involve	epidural anesthesia
+cesarean section	requires	preoperative assessment
+cesarean section	requires	postoperative care
+cesarean section	may cause	urinary retention
+cesarean section	may cause	ileus
+cesarean section	may cause	allergic reaction
+cesarean section	may cause	nerve damage
+cesarean section	may cause	organ injury
+cesarean section	may cause	maternal mortality
+cesarean section	may cause	neonatal mortality
+cesarean section	influenced by	obesity
+cesarean section	influenced by	diabetes
+cesarean section	influenced by	hypertension
+cesarean section	influenced by	preeclampsia
+cesarean section	influenced by	macrosomia
+cesarean section	influenced by	cephalopelvic disproportion
+cesarean section	influenced by	labor dystocia
+cesarean section	influenced by	maternal request
+cesarean section	influenced by	hospital policy
+cesarean section	influenced by	healthcare access
+cesarean section	influenced by	cultural factors
+cesarean section	may require	surgical instruments
+cesarean section	may require	sutures
+cesarean section	may require	staples
+cesarean section	may require	drainage tube
+cesarean section	may require	compression stockings
+cesarean section	may require	anticoagulants
+cesarean section	may require	intravenous fluids
+cesarean section	may require	oxygen therapy
+cesarean section	may require	uterine massage
+cesarean section	may require	bladder catheter
+cesarean section	may require	fetal monitoring
+cesarean section	may require	neonatal resuscitation
+cesarean section	may require	skin closure
+cesarean section	may require	dressing change
+cesarean section	may require	postoperative analgesia
+cesarean section	may require	thromboprophylaxis
+cesarean section	may require	lactation support
+cesarean section	may require	psychological support
+cesarean section	may require	physical therapy
+cesarean section	may lead	postpartum depression
+cesarean section	may lead	chronic pain
+cesarean section	may lead	infertility
+cesarean section	may lead	abnormal placentation
+cesarean section	may lead	hysterectomy
+cesarean section	may lead	pelvic adhesions
+cesarean section	may lead	bowel obstruction
+cesarean section	may lead	incisional hernia
+cesarean section	may lead	endometritis
+cesarean section	may lead	wound infection
+cesarean section	may lead	sepsis
+cesarean section	may lead	neonatal jaundice
+cesarean section	may lead	low birth weight
+cesarean section	may lead	prematurity
+cesarean section	may lead	bonding difficulties
+cesarean section	may lead	delayed milk production
+cesarean section	may lead	maternal dissatisfaction
+cesarean section	may lead	litigation
+cesarean section	may lead	repeat cesarean
+cesarean section	may lead	vaginal birth after cesarean
+cesarean section	may lead	family planning changes
+cesarean section	may lead	contraceptive use
+cesarean section	may lead	maternal morbidity
+cesarean section	may lead	neonatal morbidity
+cesarean section	may lead	healthcare costs

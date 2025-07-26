@@ -1,0 +1,100 @@
+radiation therapy	is a	cancer treatment
+radiation therapy	uses	ionizing radiation
+radiation therapy	targets	tumor cells
+radiation therapy	can cause	fatigue
+radiation therapy	requires	treatment planning
+radiation therapy	may lead to	skin irritation
+radiation therapy	is performed by	radiation oncologist
+radiation therapy	can reduce	tumor size
+radiation therapy	has side effects	nausea
+radiation therapy	often combined with	chemotherapy
+radiation therapy	increases risk of	secondary cancers
+radiation therapy	involves	imaging guidance
+radiation therapy	duration depends on	treatment protocol
+radiation therapy	requires	radiation shielding
+radiation therapy	may damage	healthy tissues
+radiation therapy	can be	external beam
+radiation therapy	can be	brachytherapy
+external beam radiotherapy	delivers radiation	from outside body
+brachytherapy	places radiation source	inside body
+radiation therapy	effectiveness depends on	tumor stage
+radiation therapy	may require	multiple sessions
+radiation therapy	can cause	hair loss
+radiation therapy	may lead to	swallowing difficulties
+radiation therapy	sometimes used for	pain relief
+radiation therapy	requires	dosimetry calculations
+radiation therapy	can affect	white blood cell count
+radiation therapy	may cause	cognitive changes
+radiation therapy	sometimes precedes	surgery
+radiation therapy	often follows	surgery
+radiation therapy	can be	palliative
+radiation therapy	can be	curative
+palliative radiation	aims to	relieve symptoms
+curative radiation	aims to	eliminate cancer
+radiation therapy	may interact with	certain medications
+radiation therapy	contraindicated in	pregnancy
+radiation therapy	requires	immobilization devices
+radiation therapy	may cause	dry mouth
+radiation therapy	can lead to	fibrosis
+radiation therapy	sometimes causes	lymphedema
+radiation therapy	can affect	fertility
+radiation therapy	may increase	heart disease risk
+radiation therapy	can damage	salivary glands
+radiation therapy	may require	dental evaluation
+radiation therapy	can cause	taste changes
+radiation therapy	may lead to	bowel changes
+radiation therapy	sometimes results in	skin discoloration
+radiation therapy	can affect	bone marrow
+radiation therapy	may cause	vision problems
+radiation therapy	can lead to	memory issues
+radiation therapy	requires	regular blood tests
+radiation therapy	may need	nutritional support
+radiation therapy	can cause	throat soreness
+radiation therapy	may result in	voice changes
+radiation therapy	can affect	thyroid function
+radiation therapy	may lead to	lung inflammation
+radiation therapy	can cause	urinary problems
+radiation therapy	may require	pain management
+radiation therapy	can lead to	dental problems
+radiation therapy	may cause	hearing loss
+radiation therapy	can affect	muscle strength
+radiation therapy	may result in	nerve damage
+radiation therapy	can cause	weight loss
+radiation therapy	may lead to	sleep disturbances
+radiation therapy	can affect	emotional wellbeing
+radiation therapy	may require	psychological support
+radiation therapy	can cause	appetite changes
+radiation therapy	may lead to	dehydration
+radiation therapy	can affect	wound healing
+radiation therapy	may require	skin care
+radiation therapy	can cause	bone pain
+radiation therapy	may lead to	joint stiffness
+radiation therapy	can affect	sexual function
+radiation therapy	may cause	hormonal changes
+radiation therapy	can lead to	blood clots
+radiation therapy	may require	physical therapy
+radiation therapy	can cause	dizziness
+radiation therapy	may lead to	balance problems
+radiation therapy	can affect	kidney function
+radiation therapy	may cause	liver damage
+radiation therapy	can lead to	infection risk
+radiation therapy	may require	antibiotic prophylaxis
+radiation therapy	can cause	allergic reactions
+radiation therapy	may lead to	scar tissue
+radiation therapy	can affect	lymph nodes
+radiation therapy	may cause	edema
+radiation therapy	can lead to	tissue necrosis
+radiation therapy	may require	wound care
+radiation therapy	can cause	photophobia
+radiation therapy	may lead to	temperature sensitivity
+radiation therapy	can affect	taste buds
+radiation therapy	may cause	mouth sores
+radiation therapy	can lead to	dental decay
+radiation therapy	may require	special mouthwash
+radiation therapy	can cause	esophageal stricture
+radiation therapy	may lead to	breathing difficulties
+radiation therapy	can affect	cardiac function
+radiation therapy	may cause	arrhythmias
+radiation therapy	can lead to	vascular changes
+radiation therapy	may require	cardiac monitoring
+radiation therapy	can affect	quality of life

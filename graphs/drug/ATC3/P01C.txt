@@ -1,0 +1,100 @@
+agents against leishmaniasis and trypanosomiasis	are	antiprotozoal drugs
+agents against leishmaniasis and trypanosomiasis	treat	leishmaniasis
+agents against leishmaniasis and trypanosomiasis	treat	trypanosomiasis
+leishmaniasis	caused by	Leishmania parasites
+trypanosomiasis	caused by	Trypanosoma parasites
+antiprotozoal drugs	act on	protozoan infections
+Leishmania parasites	transmitted by	sandflies
+Trypanosoma parasites	transmitted by	tsetse flies
+agents against leishmaniasis and trypanosomiasis	include	pentavalent antimonials
+pentavalent antimonials	example	sodium stibogluconate
+pentavalent antimonials	example	meglumine antimoniate
+agents against leishmaniasis and trypanosomiasis	include	amphotericin B
+amphotericin B	is an	antifungal drug
+amphotericin B	has	antiprotozoal activity
+agents against leishmaniasis and trypanosomiasis	include	miltefosine
+miltefosine	is an	alkylphosphocholine
+miltefosine	used for	visceral leishmaniasis
+agents against leishmaniasis and trypanosomiasis	include	paromomycin
+paromomycin	is an	aminoglycoside antibiotic
+paromomycin	used for	cutaneous leishmaniasis
+agents against leishmaniasis and trypanosomiasis	include	pentamidine
+pentamidine	is an	aromatic diamidine
+pentamidine	used for	early-stage trypanosomiasis
+agents against leishmaniasis and trypanosomiasis	include	eflornithine
+eflornithine	is an	ornithine decarboxylase inhibitor
+eflornithine	used for	late-stage trypanosomiasis
+trypanosomiasis	types include	African sleeping sickness
+trypanosomiasis	types include	Chagas disease
+African sleeping sickness	caused by	Trypanosoma brucei
+Chagas disease	caused by	Trypanosoma cruzi
+Chagas disease	treated with	benznidazole
+Chagas disease	treated with	nifurtimox
+benznidazole	is a	nitroimidazole
+nifurtimox	is a	nitrofuran
+leishmaniasis	types include	cutaneous leishmaniasis
+leishmaniasis	types include	visceral leishmaniasis
+visceral leishmaniasis	affects	internal organs
+cutaneous leishmaniasis	causes	skin ulcers
+agents against leishmaniasis and trypanosomiasis	can have	drug resistance
+drug resistance	leads to	treatment failure
+drug resistance	caused by	genetic mutations
+genetic mutations	occur in	parasite DNA
+treatment failure	requires	alternative therapies
+alternative therapies	include	combination treatments
+combination treatments	may involve	multiple antiprotozoal drugs
+antiprotozoal drugs	can cause	adverse effects
+adverse effects	include	liver toxicity
+adverse effects	include	kidney damage
+adverse effects	include	nausea
+antimonials	can cause	cardiotoxicity
+amphotericin B	can cause	nephrotoxicity
+miltefosine	can cause	vomiting
+paromomycin	can cause	hearing loss
+pentamidine	can cause	hypoglycemia
+eflornithine	can cause	seizures
+benznidazole	can cause	rash
+nifurtimox	can cause	neuropathy
+leishmaniasis	prevalent in	tropical regions
+trypanosomiasis	prevalent in	sub-Saharan Africa
+Chagas disease	prevalent in	Latin America
+tropical regions	have	high disease burden
+sandflies	thrive in	warm climates
+tsetse flies	found in	sub-Saharan Africa
+agents against leishmaniasis and trypanosomiasis	require	proper dosing
+proper dosing	prevents	toxicity
+proper dosing	ensures	efficacy
+drug development	aims for	new antiprotozoals
+new antiprotozoals	target	parasite enzymes
+parasite enzymes	essential for	survival
+drug research	involves	clinical trials
+clinical trials	test	safety
+clinical trials	test	effectiveness
+vaccine development	ongoing for	leishmaniasis
+vaccine development	ongoing for	trypanosomiasis
+vaccines	provide	long-term immunity
+immunity	reduces	disease transmission
+public health	focuses on	vector control
+vector control	includes	insecticide spraying
+vector control	includes	bed nets
+bed nets	prevent	sandfly bites
+bed nets	prevent	tsetse fly bites
+insecticide spraying	reduces	insect populations
+leishmaniasis	can lead	secondary infections
+secondary infections	complicate	treatment
+trypanosomiasis	can cause	neurological damage
+neurological damage	results in	cognitive decline
+African sleeping sickness	symptoms include	sleep disturbances
+Chagas disease	symptoms include	heart problems
+heart problems	may lead	chronic cardiomyopathy
+chronic cardiomyopathy	increases	mortality risk
+mortality risk	reduced by	early treatment
+early treatment	requires	timely diagnosis
+timely diagnosis	relies on	blood tests
+blood tests	detect	parasite DNA
+parasite DNA	confirms	infection
+infection	triggers	immune response
+immune response	involves	antibody production
+antibody production	helps	parasite clearance
+parasite clearance	indicates	successful treatment
+successful treatment	restores	patient health

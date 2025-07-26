@@ -1,0 +1,100 @@
+administrative admission	is a type of	hospital admission
+social admission	is a type of	hospital admission
+administrative admission	occurs due to	non-medical factors
+social admission	occurs due to	social vulnerability
+elderly patients	are associated with	social admission
+homelessness	increases risk of	social admission
+lack of caregivers	leads to	administrative admission
+social admission	may indicate	healthcare system gap
+administrative admission	may involve	paperwork delay
+social admission	correlates with	readmission risk
+social admission	requires	social work intervention
+administrative admission	involves	bureaucratic processes
+nursing home placement	may follow	social admission
+social admission	often lacks	clear medical indication
+administrative admission	may result from	insurance issues
+social admission	associated with	longer hospital stays
+family conflict	can lead to	social admission
+administrative admission	may require	legal guardianship
+social admission	increases	healthcare costs
+community services	can prevent	social admission
+social admission	reflects	societal failure
+administrative admission	may involve	capacity assessment
+polypharmacy	commonly seen in	social admission
+social admission	correlates with	malnutrition risk
+administrative admission	may delay	medical treatment
+social admission	associated with	depression
+caregiver burnout	can cause	social admission
+administrative admission	involves	discharge planning
+social admission	may mask	underlying dementia
+transportation barriers	contribute to	social admission
+social admission	increases risk of	hospital-acquired infections
+administrative admission	may require	interdisciplinary team
+social isolation	is a factor in	social admission
+administrative admission	involves	bed management
+social admission	associated with	functional decline
+housing instability	leads to	social admission
+administrative admission	may result from	referral delays
+social admission	correlates with	mortality risk
+cognitive impairment	is common in	social admission
+administrative admission	requires	resource allocation
+social admission	may involve	temporary shelter
+poverty	is a driver of	social admission
+administrative admission	includes	documentation review
+social admission	associated with	medication non-adherence
+language barriers	complicate	administrative admission
+social admission	may require	guardianship evaluation
+administrative admission	involves	eligibility determination
+social admission	correlates with	frailty
+mental health issues	are common in	social admission
+administrative admission	may involve	insurance verification
+social admission	increases need for	community resources
+abuse victims	may experience	social admission
+administrative admission	requires	case management
+social admission	associated with	pressure ulcers
+health literacy	affects	administrative admission
+social admission	may reveal	elder neglect
+administrative admission	involves	bed availability checks
+social admission	correlates with	polypharmacy
+end-of-life care	may be delayed by	administrative admission
+social admission	requires	comprehensive assessment
+financial constraints	contribute to	social admission
+administrative admission	may involve	prior authorization
+social admission	associated with	dehydration
+immigrant status	affects	administrative admission
+social admission	may indicate	caregiver crisis
+administrative admission	involves	transfer coordination
+social admission	correlates with	inappropriate medication use
+telehealth	could reduce	administrative admission
+social admission	reveals	systemic inequities
+administrative admission	may require	notarized documents
+social admission	associated with	urinary incontinence
+power of attorney	affects	administrative admission
+social admission	may require	protective services
+administrative admission	involves	insurance pre-certification
+social admission	correlates with	vision impairment
+advance directives	influence	administrative admission
+social admission	may reveal	medication errors
+administrative admission	requires	benefits verification
+social admission	associated with	hearing loss
+healthcare proxies	are needed for	administrative admission
+social admission	correlates with	mobility limitations
+Medicaid status	affects	administrative admission
+social admission	may require	adult protective services
+administrative admission	involves	level-of-care determination
+social admission	associated with	sleep disturbances
+healthcare disparities	contribute to	social admission
+administrative admission	may require	financial assessment
+social admission	correlates with	pain management issues
+discharge delays	prolong	administrative admission
+social admission	reveals	unmet social needs
+Medicare coverage	influences	administrative admission
+social admission	associated with	wound care needs
+administrative admission	involves	insurance appeals
+social admission	correlates with	falls risk
+community paramedicine	could prevent	social admission
+administrative admission	requires	authorization paperwork
+social admission	associated with	medication interactions
+health information exchange	facilitates	administrative admission
+social admission	correlates with	emergency department overuse
+administrative admission	involves	bed assignment protocols

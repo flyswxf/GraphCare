@@ -1,0 +1,100 @@
+osteoporosis	is a	bone disease
+osteoporosis	causes	bone fragility
+osteoporosis	increases risk of	fractures
+osteoporosis	is associated with	aging
+osteoporosis	is more common in	postmenopausal women
+osteoporosis	may cause	vertebral fractures
+osteoporosis	may cause	hip fractures
+osteoporosis	may cause	wrist fractures
+osteoporosis	is diagnosed by	DXA scan
+osteoporosis	is indicated by	low bone density
+osteoporosis	is treated with	bisphosphonates
+osteoporosis	is treated with	calcium supplements
+osteoporosis	is treated with	vitamin D
+osteoporosis	is prevented by	weight-bearing exercise
+osteoporosis	is worsened by	smoking
+osteoporosis	is worsened by	alcohol abuse
+osteoporosis	is linked to	glucocorticoid use
+osteoporosis	has complication	chronic pain
+osteoporosis	increases mortality risk	hip fractures
+osteoporosis	requires	fall prevention
+bisphosphonates	include	alendronate
+bisphosphonates	include	risedronate
+bisphosphonates	include	zoledronic acid
+bisphosphonates	work by	inhibiting bone resorption
+bisphosphonates	may cause	esophagitis
+bisphosphonates	require	upright posture after administration
+calcium	is essential for	bone health
+calcium	is absorbed with	vitamin D
+calcium carbonate	requires	stomach acid for absorption
+calcium citrate	is better absorbed than	calcium carbonate
+vitamin D	is synthesized from	sunlight exposure
+vitamin D	enhances	calcium absorption
+vitamin D deficiency	contributes to	osteoporosis
+vertebral fractures	cause	height loss
+vertebral fractures	may lead to	kyphosis
+hip fractures	require	hospitalization
+hip fractures	often need	surgical repair
+hip fractures	increase risk of	deep vein thrombosis
+wrist fractures	are common in	fall injuries
+DXA scan	measures	bone mineral density
+DXA scan	uses	low-dose x-rays
+T-score	indicates	osteoporosis severity
+FRAX score	predicts	fracture risk
+weight-bearing exercise	includes	walking
+weight-bearing exercise	includes	dancing
+weight-bearing exercise	stimulates	bone formation
+resistance training	strengthens	muscles
+resistance training	supports	bones
+smoking	reduces	estrogen levels
+smoking	impairs	bone healing
+alcohol	interferes with	calcium absorption
+alcohol	increases	fall risk
+glucocorticoids	inhibit	osteoblast activity
+glucocorticoids	are used for	inflammation control
+chronic pain	reduces	quality of life
+chronic pain	leads to	mobility issues
+hip fractures	have high	mortality rate
+hip fractures	cause	prolonged immobility
+fall prevention	includes	home safety measures
+fall prevention	includes	vision correction
+alendronate	is taken	weekly
+alendronate	may cause	jaw osteonecrosis
+risedronate	is taken	weekly or monthly
+zoledronic acid	is administered	intravenously
+zoledronic acid	is given	yearly
+teriparatide	stimulates	bone formation
+teriparatide	is a	parathyroid hormone analog
+denosumab	inhibits	RANK ligand
+denosumab	is given	every 6 months
+raloxifene	is a	SERM
+raloxifene	reduces	vertebral fractures
+raloxifene	increases	thromboembolism risk
+estrogen therapy	prevents	bone loss
+estrogen therapy	increases	breast cancer risk
+calcitonin	reduces	bone resorption
+calcitonin	provides	pain relief
+bone mineral density	peaks at	age 30
+bone remodeling	involves	osteoclasts and osteoblasts
+osteoclasts	resorb	bone tissue
+osteoblasts	form	new bone
+parathyroid hormone	regulates	calcium levels
+high parathyroid hormone	causes	bone loss
+calcium	is stored in	bones
+magnesium	supports	bone health
+vitamin K	aids in	bone mineralization
+protein intake	affects	bone strength
+malabsorption syndromes	lead to	osteoporosis
+celiac disease	causes	calcium malabsorption
+hyperthyroidism	accelerates	bone loss
+rheumatoid arthritis	increases	osteoporosis risk
+chronic kidney disease	affects	bone metabolism
+proton pump inhibitors	may increase	fracture risk
+anticonvulsants	may cause	bone loss
+depression	is associated with	low bone density
+sedentary lifestyle	contributes to	bone loss
+obesity	may protect against	osteoporosis
+corticosteroids	are risk factor for	osteoporosis
+fracture liaison services	improve	post-fracture care
+bone markers	monitor	treatment response
+osteoporosis management	requires	multidisciplinary approach

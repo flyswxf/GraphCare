@@ -1,0 +1,100 @@
+blindness	is a	vision defect
+vision defects	include	myopia
+vision defects	include	hyperopia
+vision defects	include	astigmatism
+vision defects	include	color blindness
+diabetes	may cause	blindness
+glaucoma	may cause	blindness
+cataracts	may cause	blindness
+macular degeneration	may cause	blindness
+retinal detachment	may cause	blindness
+stroke	may cause	blindness
+brain tumors	may cause	blindness
+optic neuritis	may cause	blindness
+trauma	may cause	blindness
+infections	may cause	blindness
+genetic disorders	may cause	blindness
+vitamin A deficiency	may cause	blindness
+premature birth	may cause	blindness
+age	is a risk factor for	blindness
+smoking	is a risk factor for	blindness
+hypertension	is a risk factor for	blindness
+eye exams	can detect	vision defects
+visual acuity test	diagnoses	vision defects
+tonometry	measures	eye pressure
+dilated eye exam	evaluates	retina
+ophthalmoscopy	examines	optic nerve
+visual field test	assesses	peripheral vision
+refraction test	determines	eyeglass prescription
+color vision test	identifies	color blindness
+corneal topography	maps	cornea
+optical coherence tomography	images	retina
+eyeglasses	correct	vision defects
+contact lenses	correct	vision defects
+LASIK surgery	corrects	vision defects
+cataract surgery	treats	cataracts
+glaucoma surgery	reduces	eye pressure
+retinal surgery	repairs	retinal detachment
+corneal transplant	replaces	damaged cornea
+vitrectomy	removes	vitreous gel
+anti-VEGF injections	treat	macular degeneration
+eye drops	treat	glaucoma
+artificial tears	relieve	dry eyes
+oral medications	treat	eye infections
+low vision aids	assist	blind patients
+Braille	enables reading for	blind individuals
+guide dogs	assist	blind individuals
+white canes	assist	blind individuals
+screen readers	assist	blind computer users
+audiobooks	provide access for	blind individuals
+vision rehabilitation	improves	quality of life
+orientation training	teaches	mobility skills
+occupational therapy	enhances	daily living skills
+genetic counseling	assesses	hereditary blindness
+prenatal care	prevents	blindness in infants
+newborn screening	detects	congenital eye disorders
+diabetes control	prevents	diabetic retinopathy
+blood pressure control	prevents	vision loss
+smoking cessation	reduces	macular degeneration risk
+UV protection	prevents	eye damage
+safety goggles	prevent	eye injuries
+proper lighting	reduces	eye strain
+computer glasses	reduce	digital eye strain
+20-20-20 rule	prevents	eye fatigue
+nutrition	affects	eye health
+omega-3 fatty acids	support	retinal health
+lutein	protects	macula
+zeaxanthin	protects	macula
+vitamin A	prevents	night blindness
+vitamin C	supports	eye health
+vitamin E	protects	eye cells
+zinc	supports	retinal function
+antioxidants	protect	eye tissues
+regular exercise	benefits	eye health
+adequate sleep	prevents	eye strain
+stress management	benefits	eye health
+regular eye exams	maintain	eye health
+pediatric ophthalmologist	specializes in	children's eye care
+retina specialist	treats	retinal disorders
+cornea specialist	treats	corneal diseases
+neuro-ophthalmologist	treats	vision-brain disorders
+optician	fits	eyeglasses
+optometrist	performs	eye exams
+ophthalmologist	performs	eye surgery
+low vision specialist	assists	visually impaired
+orthoptist	treats	eye movement disorders
+ocularist	creates	prosthetic eyes
+vision insurance	covers	eye care
+Medicare	covers	some eye services
+Medicaid	covers	some eye services
+vision research	advances	eye treatments
+stem cell therapy	may treat	retinal diseases
+gene therapy	may treat	genetic blindness
+bionic eye	restores	partial vision
+artificial intelligence	assists in	eye diagnosis
+telemedicine	expands	eye care access
+community programs	support	blind individuals
+disability benefits	assist	blind individuals
+accessibility laws	protect	blind individuals
+awareness campaigns	educate about	eye health
+global initiatives	combat	preventable blindness

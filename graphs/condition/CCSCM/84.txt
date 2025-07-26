@@ -1,0 +1,100 @@
+headache	is a	symptom
+migraine	is a type of	headache
+headache	may be caused by	stress
+migraine	often involves	aura
+headache	can be	primary
+headache	can be	secondary
+migraine	is associated with	photophobia
+migraine	is associated with	phonophobia
+headache	may indicate	brain tumor
+migraine	has trigger	hormonal changes
+headache	may be treated with	analgesics
+migraine	may be treated with	triptans
+headache	can result from	dehydration
+migraine	is more common in	women
+headache	may be caused by	sinusitis
+migraine	may cause	nausea
+migraine	may cause	vomiting
+headache	can be diagnosed with	CT scan
+headache	can be diagnosed with	MRI
+migraine	has risk factor	family history
+headache	may be caused by	hypertension
+migraine	may be prevented with	beta blockers
+headache	may be caused by	caffeine withdrawal
+migraine	may be triggered by	certain foods
+headache	may indicate	meningitis
+migraine	has phase	prodrome
+migraine	has phase	postdrome
+headache	may be caused by	eye strain
+migraine	may be treated with	ergotamines
+headache	may be caused by	sleep deprivation
+migraine	may be treated with	CGRP inhibitors
+headache	may be caused by	alcohol
+migraine	may be treated with	NSAIDs
+headache	may indicate	stroke
+migraine	may be chronic
+headache	may be caused by	concussion
+migraine	may be episodic
+headache	may be relieved by	rest
+migraine	may be triggered by	weather changes
+headache	may indicate	aneurysm
+migraine	may be associated with	depression
+headache	may be caused by	TMJ disorder
+migraine	may be treated with	anticonvulsants
+headache	may be caused by	carbon monoxide poisoning
+migraine	may be treated with	Botox
+headache	may be caused by	glaucoma
+migraine	may be comorbid with	anxiety
+headache	may be treated with	acupuncture
+migraine	may be triggered by	strong odors
+headache	may indicate	encephalitis
+migraine	may be treated with	nerve blocks
+headache	may be caused by	medication overuse
+migraine	may be treated with	biofeedback
+headache	may be caused by	cervical spondylosis
+migraine	may be triggered by	bright lights
+headache	may be classified as	tension-type
+migraine	may be triggered by	loud noises
+headache	may be treated with	physical therapy
+migraine	may be evaluated with	headache diary
+headache	may be caused by	hypoglycemia
+migraine	may be treated with	magnesium
+headache	may be treated with	ice pack
+migraine	may be treated with	riboflavin
+headache	may be caused by	hangover
+migraine	may be triggered by	skipped meals
+headache	may be treated with	massage
+migraine	may be treated with	relaxation techniques
+headache	may indicate	intracranial pressure
+migraine	may be treated with	transcranial magnetic stimulation
+headache	may be caused by	dental problems
+migraine	may be treated with	cognitive behavioral therapy
+headache	may be treated with	chiropractic care
+migraine	may be triggered by	sleep changes
+headache	may indicate	temporal arteritis
+migraine	may be treated with	onabotulinumtoxinA
+headache	may be caused by	neuralgia
+migraine	may be treated with	dihydroergotamine
+headache	may be treated with	hydration
+migraine	may be triggered by	physical exertion
+headache	may be caused by	infection
+migraine	may be treated with	neuromodulation
+headache	may be treated with	caffeine
+migraine	may be triggered by	barometric pressure
+headache	may indicate	subarachnoid hemorrhage
+migraine	may be treated with	lasmiditan
+headache	may be caused by	allergies
+migraine	may be treated with	gepants
+headache	may be treated with	peppermint oil
+migraine	may be triggered by	stress
+headache	may be caused by	anemia
+migraine	may be treated with	occipital nerve stimulation
+headache	may be treated with	lavender oil
+migraine	may be triggered by	menstrual cycle
+headache	may indicate	trigeminal neuralgia
+migraine	may be treated with	sphenopalatine ganglion block
+headache	may be caused by	TMJ
+migraine	may be treated with	metoclopramide
+headache	may be treated with	ginger
+migraine	may be triggered by	chocolate
+headache	may be caused by	sinus pressure

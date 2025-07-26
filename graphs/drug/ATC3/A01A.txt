@@ -1,0 +1,100 @@
+stomatological preparations	are	medications
+stomatological preparations	used for	oral diseases
+oral diseases	include	gingivitis
+oral diseases	include	periodontitis
+oral diseases	include	oral ulcers
+stomatological preparations	contain	antiseptics
+antiseptics	fight	oral bacteria
+stomatological preparations	contain	anesthetics
+anesthetics	reduce	oral pain
+stomatological preparations	include	mouthwashes
+mouthwashes	contain	chlorhexidine
+chlorhexidine	prevents	plaque
+stomatological preparations	include	oral gels
+oral gels	treat	canker sores
+stomatological preparations	include	dental creams
+dental creams	relieve	tooth sensitivity
+stomatological preparations	interact with	saliva
+saliva	affects	drug absorption
+stomatological preparations	require	proper dosage
+proper dosage	prevents	side effects
+side effects	include	oral irritation
+side effects	include	taste alteration
+stomatological preparations	used by	dentists
+dentists	prescribe	antibiotics
+antibiotics	treat	oral infections
+stomatological preparations	complement	dental procedures
+dental procedures	include	tooth extraction
+tooth extraction	requires	postoperative care
+postoperative care	involves	pain management
+stomatological preparations	aid in	wound healing
+wound healing	requires	anti-inflammatory agents
+anti-inflammatory agents	reduce	swelling
+stomatological preparations	contain	antifungals
+antifungals	treat	oral thrush
+oral thrush	caused by	candida
+stomatological preparations	include	fluoride treatments
+fluoride treatments	prevent	tooth decay
+tooth decay	caused by	bacteria
+bacteria	produce	acids
+acids	erode	tooth enamel
+stomatological preparations	used for	halitosis
+halitosis	caused by	volatile sulfur compounds
+volatile sulfur compounds	produced by	oral microbes
+stomatological preparations	contain	probiotics
+probiotics	balance	oral microbiome
+oral microbiome	affects	systemic health
+stomatological preparations	interact with	medications
+medications	cause	xerostomia
+xerostomia	increases	caries risk
+stomatological preparations	include	saliva substitutes
+saliva substitutes	mimic	natural saliva
+natural saliva	contains	enzymes
+enzymes	aid in	digestion
+stomatological preparations	used for	oral mucositis
+oral mucositis	caused by	chemotherapy
+chemotherapy	suppresses	immune system
+immune system	fights	infections
+stomatological preparations	include	barrier gels
+barrier gels	protect	oral lesions
+oral lesions	cause	discomfort
+stomatological preparations	contain	analgesics
+analgesics	relieve	oral pain
+oral pain	affects	quality of life
+stomatological preparations	used for	teething
+teething	occurs in	infants
+infants	have	developing immune systems
+stomatological preparations	include	teething gels
+teething gels	contain	benzocaine
+benzocaine	numbs	gums
+gums	become	inflamed
+inflammation	results from	irritation
+stomatological preparations	interact with	food
+food	affects	drug efficacy
+stomatological preparations	require	proper storage
+proper storage	maintains	drug stability
+drug stability	ensures	effectiveness
+stomatological preparations	include	whitening agents
+whitening agents	contain	hydrogen peroxide
+hydrogen peroxide	oxidizes	stains
+stains	caused by	chromogens
+stomatological preparations	used for	denture care
+denture care	prevents	stomatitis
+stomatitis	involves	oral inflammation
+stomatological preparations	include	adhesives
+adhesives	improve	denture retention
+denture retention	affects	chewing
+chewing	requires	proper fit
+stomatological preparations	contain	cleaning tablets
+cleaning tablets	remove	biofilm
+biofilm	harbors	pathogens
+stomatological preparations	used for	dry socket
+dry socket	follows	tooth extraction
+tooth extraction	leaves	socket
+socket	requires	clot formation
+clot formation	prevents	alveolar osteitis
+stomatological preparations	include	medicated dressings
+medicated dressings	promote	healing
+healing	involves	tissue regeneration
+tissue regeneration	requires	nutrients
+nutrients	support	cell growth

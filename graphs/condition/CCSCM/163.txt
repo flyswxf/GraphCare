@@ -1,0 +1,20 @@
+genitourinary symptoms	include	urinary frequency
+genitourinary symptoms	include	dysuria
+genitourinary symptoms	may indicate	UTI
+UTI	is diagnosed with	urinalysis
+ill-defined conditions	require	further testing
+hematuria	is a	genitourinary symptom
+prostatitis	causes	genitourinary symptoms
+genitourinary symptoms	may lead to	hospitalization
+pyelonephritis	is a complication of	UTI
+antibiotics	treat	UTI
+ciprofloxacin	is an	antibiotic
+elderly patients	have higher risk of	genitourinary symptoms
+catheter use	increases risk of	UTI
+diabetes	is a risk factor for	genitourinary infections
+kidney stones	cause	genitourinary symptoms
+ultrasound	detects	kidney stones
+pelvic pain	is a	genitourinary symptom
+interstitial cystitis	causes	chronic symptoms
+urinary incontinence	affects	quality of life
+anticholinergics	treat	overactive bladder

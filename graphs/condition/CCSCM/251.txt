@@ -1,0 +1,100 @@
+abdominal pain	is a symptom of	appendicitis
+abdominal pain	is a symptom of	gastritis
+abdominal pain	is a symptom of	peptic ulcer
+abdominal pain	is a symptom of	gastroenteritis
+abdominal pain	is a symptom of	irritable bowel syndrome
+abdominal pain	is a symptom of	gallstones
+abdominal pain	is a symptom of	pancreatitis
+abdominal pain	is a symptom of	diverticulitis
+abdominal pain	is a symptom of	kidney stones
+abdominal pain	is a symptom of	urinary tract infection
+abdominal pain	is a symptom of	ovarian cyst
+abdominal pain	is a symptom of	ectopic pregnancy
+abdominal pain	is a symptom of	endometriosis
+abdominal pain	is a symptom of	Crohn's disease
+abdominal pain	is a symptom of	ulcerative colitis
+abdominal pain	is a symptom of	food poisoning
+abdominal pain	is a symptom of	lactose intolerance
+abdominal pain	is a symptom of	celiac disease
+abdominal pain	is a symptom of	hernia
+abdominal pain	is a symptom of	abdominal aortic aneurysm
+abdominal pain	is a symptom of	hepatitis
+abdominal pain	is a symptom of	cholecystitis
+abdominal pain	is a symptom of	intestinal obstruction
+abdominal pain	is a symptom of	peritonitis
+abdominal pain	is a symptom of	pelvic inflammatory disease
+abdominal pain	is evaluated with	physical examination
+abdominal pain	is evaluated with	blood tests
+abdominal pain	is evaluated with	ultrasound
+abdominal pain	is evaluated with	CT scan
+abdominal pain	is evaluated with	MRI
+abdominal pain	is evaluated with	endoscopy
+abdominal pain	is evaluated with	colonoscopy
+abdominal pain	may require	hospitalization
+abdominal pain	may require	surgery
+abdominal pain	may lead to	dehydration
+abdominal pain	may lead to	malnutrition
+abdominal pain	may lead to	sepsis
+abdominal pain	is managed with	painkillers
+abdominal pain	is managed with	antacids
+abdominal pain	is managed with	antibiotics
+abdominal pain	is managed with	antispasmodics
+abdominal pain	is managed with	proton pump inhibitors
+abdominal pain	is managed with	dietary changes
+abdominal pain	is associated with	nausea
+abdominal pain	is associated with	vomiting
+abdominal pain	is associated with	diarrhea
+abdominal pain	is associated with	constipation
+abdominal pain	is associated with	bloating
+abdominal pain	is associated with	fever
+abdominal pain	is associated with	weight loss
+abdominal pain	is associated with	fatigue
+abdominal pain	is associated with	loss of appetite
+abdominal pain	is associated with	jaundice
+abdominal pain	is associated with	blood in stool
+abdominal pain	is associated with	dark urine
+abdominal pain	is associated with	pale stools
+abdominal pain	is associated with	heartburn
+abdominal pain	is associated with	indigestion
+abdominal pain	is associated with	acid reflux
+abdominal pain	is associated with	dyspepsia
+abdominal pain	is classified as	acute
+abdominal pain	is classified as	chronic
+abdominal pain	is classified as	localized
+abdominal pain	is classified as	diffuse
+abdominal pain	is classified as	colicky
+abdominal pain	is classified as	constant
+abdominal pain	is classified as	crampy
+abdominal pain	is classified as	sharp
+abdominal pain	is classified as	dull
+abdominal pain	is classified as	burning
+abdominal pain	affects	quality of life
+abdominal pain	affects	daily activities
+abdominal pain	affects	sleep
+abdominal pain	affects	mental health
+abdominal pain	affects	work productivity
+abdominal pain	has risk factor	poor diet
+abdominal pain	has risk factor	stress
+abdominal pain	has risk factor	alcohol use
+abdominal pain	has risk factor	smoking
+abdominal pain	has risk factor	family history
+abdominal pain	has risk factor	older age
+abdominal pain	has risk factor	obesity
+abdominal pain	has risk factor	sedentary lifestyle
+abdominal pain	has risk factor	medication use
+abdominal pain	has risk factor	previous surgery
+abdominal pain	is prevented by	healthy diet
+abdominal pain	is prevented by	regular exercise
+abdominal pain	is prevented by	stress management
+abdominal pain	is prevented by	hydration
+abdominal pain	is prevented by	smoking cessation
+abdominal pain	is prevented by	moderate alcohol consumption
+abdominal pain	is prevented by	regular check-ups
+abdominal pain	is prevented by	vaccination
+abdominal pain	is prevented by	food safety
+abdominal pain	is prevented by	probiotics
+abdominal pain	is researched in	gastroenterology
+abdominal pain	is researched in	pain management
+abdominal pain	is researched in	public health
+abdominal pain	is researched in	pharmacology
+abdominal pain	is researched in	alternative medicine

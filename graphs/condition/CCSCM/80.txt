@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+multiple sclerosis	is a	neurological disorder
+multiple sclerosis	affects	central nervous system
+multiple sclerosis	involves	demyelination
+multiple sclerosis	has subtype	relapsing-remitting MS
+multiple sclerosis	has subtype	primary progressive MS
+multiple sclerosis	has subtype	secondary progressive MS
+multiple sclerosis	has subtype	progressive relapsing MS
+demyelination	causes	nerve damage
+autoimmune response	attacks	myelin sheath
+inflammation	occurs in	multiple sclerosis
+axons	are damaged in	multiple sclerosis
+oligodendrocytes	are affected in	multiple sclerosis
+multiple sclerosis	causes	fatigue
+multiple sclerosis	causes	vision problems
+multiple sclerosis	causes	muscle weakness
+multiple sclerosis	causes	coordination issues
+multiple sclerosis	causes	cognitive impairment
+multiple sclerosis	causes	bladder dysfunction
+multiple sclerosis	causes	sensory disturbances
+MRI	detects	multiple sclerosis lesions
+lumbar puncture	analyzes	cerebrospinal fluid
+evoked potentials	measure	nerve conduction
+McDonald criteria	diagnose	multiple sclerosis
+oligoclonal bands	indicate	multiple sclerosis
+interferon beta	treats	multiple sclerosis
+glatiramer acetate	treats	multiple sclerosis
+natalizumab	treats	multiple sclerosis
+fingolimod	treats	multiple sclerosis
+ocrelizumab	treats	multiple sclerosis
+dimethyl fumarate	treats	multiple sclerosis
+teriflunomide	treats	multiple sclerosis
+alemtuzumab	treats	multiple sclerosis
+interferon beta	modulates	immune system
+natalizumab	blocks	immune cell migration
+fingolimod	retains	lymphocytes in lymph nodes
+ocrelizumab	depletes	B cells
+dimethyl fumarate	reduces	inflammation
+multiple sclerosis	leads to	mobility impairment
+multiple sclerosis	increases risk of	depression
+multiple sclerosis	may cause	spasticity
+multiple sclerosis	may lead to	paralysis
+multiple sclerosis	associates with	pain
+multiple sclerosis	differs from	neuromyelitis optica
+multiple sclerosis	differs from	Guillain-Barré syndrome
+multiple sclerosis	shares features with	transverse myelitis
+multiple sclerosis	relates to	optic neuritis
+multiple sclerosis	is more common in	women
+multiple sclerosis	typically onset in	young adults
+northern latitudes	have higher	multiple sclerosis prevalence
+vitamin D deficiency	links to	multiple sclerosis
+HLA-DRB1 gene	associates with	multiple sclerosis
+family history	increases risk of	multiple sclerosis
+monozygotic twins	share	multiple sclerosis risk
+smoking	exacerbates	multiple sclerosis
+Epstein-Barr virus	links to	multiple sclerosis
+obesity	may worsen	multiple sclerosis
+interferon beta	may cause	flu-like symptoms
+natalizumab	increases risk of	PML
+fingolimod	may cause	bradycardia
+steroids	may lead to	osteoporosis
+baclofen	treats	spasticity
+amantadine	helps with	fatigue
+antidepressants	manage	depression
+anticholinergics	help	bladder dysfunction
+physical therapy	improves	mobility
+occupational therapy	enhances	daily functioning
+speech therapy	assists with	communication issues
+cognitive rehabilitation	helps	memory problems
+neurofilament light chain	indicates	axonal damage
+MRI lesions	show	disease activity
+gadolinium enhancement	reveals	active inflammation
+plaques	characterize	multiple sclerosis
+axonal loss	correlates with	disability
+remyelination	occurs in	early stages
+T cells	mediate	immune attack
+microglia	contribute to	inflammation
+astrocytes	form	glial scars
+cytokines	drive	inflammation
+blood-brain barrier	becomes permeable
+autoantibodies	target	myelin proteins
+early treatment	improves	long-term outcomes
+brain atrophy	predicts	disability progression
+spinal cord lesions	associate with	motor impairment
+stem cell therapy	investigated for	multiple sclerosis
+BTK inhibitors	target	B cell activity
+remyelination strategies	aim to	repair damage
+multiple sclerosis	coexists with	migraine
+multiple sclerosis	associates with	sleep disorders
+multiple sclerosis	relates to	autoimmune thyroid disease
+multiple sclerosis	affects	work ability
+multiple sclerosis	impacts	quality of life
+multiple sclerosis	requires	long-term care
+Dawson's fingers	appear on	MRI
+black holes	indicate	axonal loss
+spinal cord atrophy	measures	disease progression
+CXCL13	reflects	intrathecal inflammation
+IgG index	measures	antibody production
+chitinase 3-like 1	correlates with	neurodegeneration
+pregnancy	affects	multiple sclerosis course
+pediatric multiple sclerosis	differs from	adult-onset

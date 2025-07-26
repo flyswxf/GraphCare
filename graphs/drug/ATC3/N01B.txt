@@ -1,0 +1,100 @@
+local anesthetics	is a	anesthetic
+local anesthetics	block	nerve conduction
+local anesthetics	used for	regional anesthesia
+local anesthetics	include	lidocaine
+local anesthetics	include	bupivacaine
+local anesthetics	mechanism	sodium channel blockade
+local anesthetics	duration	varies
+local anesthetics	metabolized in	liver
+local anesthetics	excreted by	kidneys
+local anesthetics	contraindicated in	allergies
+lidocaine	is a	amide anesthetic
+bupivacaine	is a	long-acting anesthetic
+prilocaine	can cause	methemoglobinemia
+local anesthetics	interact with	epinephrine
+epinephrine	prolongs	anesthetic effect
+local anesthetics	dosage depends on	procedure type
+spinal anesthesia	uses	hyperbaric solutions
+local anesthetics	toxicity affects	CNS
+CNS toxicity	symptoms include	seizures
+local anesthetics	cardiotoxicity	possible
+bupivacaine	high risk of	cardiac arrest
+lipid emulsion	treats	local anesthetic toxicity
+local anesthetics	absorption rate varies by	tissue type
+mucous membranes	absorb	topical anesthetics
+EMLA cream	contains	lidocaine-prilocaine
+local anesthetics	pH affects	onset time
+carbonated solutions	speed up	onset
+local anesthetics	pregnancy category	B
+local anesthetics	cross	placenta
+epidural anesthesia	requires	precise dosage
+local anesthetics	additive effect with	opioids
+nerve block	duration depends on	anesthetic choice
+diabetics	higher risk of	anesthetic failure
+elderly patients	more sensitive to	anesthetics
+local anesthetics	impair	wound healing
+tumescent anesthesia	uses	diluted lidocaine
+local anesthetics	contraindicated in	infection sites
+methemoglobinemia	treated with	methylene blue
+prilocaine	metabolizes to	o-toluidine
+o-toluidine	causes	methemoglobinemia
+articaine	contains	thiophene ring
+local anesthetics	stability affected by	pH
+vasoconstrictors	reduce	systemic absorption
+local anesthetics	impair	neutrophil function
+ropivacaine	less cardiotoxic than	bupivacaine
+local anesthetics	affect	cardiac sodium channels
+QRS prolongation	sign of	toxicity
+local anesthetics	inhibit	action potentials
+voltage-gated channels	target of	anesthetics
+local anesthetics	bind to	inner pore
+tetracaine	is a	ester anesthetic
+ester anesthetics	metabolized by	plasma cholinesterase
+chloroprocaine	short-acting	ester anesthetic
+local anesthetics	partition coefficient affects	potency
+pKa value	determines	onset speed
+ionized form	blocks	sodium channels
+local anesthetics	exist in	equilibrium states
+membrane permeability	affects	diffusion
+myelinated fibers	blocked first
+C-fibers	more sensitive than	A-fibers
+dental procedures	commonly use	articaine
+ophthalmic anesthesia	uses	tetracaine
+local anesthetics	alter	membrane fluidity
+inflammatory states	reduce	efficacy
+acidosis	increases	ionized fraction
+hyperkalemia	exacerbates	cardiotoxicity
+local anesthetics	suppress	cardiac pacemakers
+bupivacaine	binds tightly to	sodium channels
+lidocaine	treats	ventricular arrhythmias
+amiodarone	interacts with	local anesthetics
+local anesthetics	accumulate in	adipose tissue
+obese patients	higher risk of	toxicity
+pregnancy	increases sensitivity to	anesthetics
+local anesthetics	inhibit	platelet aggregation
+neuraxial anesthesia	requires	sterile technique
+local anesthetics	degrade in	alkaline solutions
+prilocaine	maximum dose	400mg
+lidocaine	maximum dose	300mg without epinephrine
+toxicity treatment includes	airway management
+lipid rescue therapy	dose	1.5ml/kg
+local anesthetics	affect	mitochondrial function
+neurotoxicity	possible with	high concentrations
+cauda equina syndrome	rare complication
+transient neurologic symptoms	associated with	lidocaine
+allergic reactions	more common with	ester anesthetics
+prilocaine	avoided in	infants
+EMLA	not for use on	broken skin
+local anesthetics	contraindicated in	porphyria
+malignant hyperthermia	not triggered by
+local anesthetics	suppress	cough reflex
+topical anesthetics	useful for	IV insertion
+tetracaine	used for	spinal anesthesia
+prilocaine	metabolized by	CYP450
+drug interactions	possible with	beta-blockers
+local anesthetics	displace	protein-bound drugs
+hypoalbuminemia	increases	free fraction
+geriatric patients	require	dose adjustment
+pediatric dosing	weight-based
+local anesthetics	absorption reduced by	vasoconstriction
+epinephrine concentration	typically 1:200,000

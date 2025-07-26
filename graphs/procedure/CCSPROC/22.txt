@@ -1,0 +1,110 @@
+tympanoplasty	is a	ear surgery
+tympanoplasty	repairs	tympanic membrane
+tympanoplasty	treats	chronic otitis media
+tympanoplasty	improves	hearing loss
+tympanoplasty	requires	general anesthesia
+tympanoplasty	uses	temporalis fascia
+tympanoplasty	may involve	ossiculoplasty
+tympanoplasty	has approach	postauricular incision
+tympanoplasty	requires	microsurgical techniques
+tympanoplasty	uses	cartilage graft
+tympanoplasty	indicated for	tympanic perforation
+tympanoplasty	addresses	cholesteatoma
+tympanoplasty	corrects	conductive hearing loss
+tympanoplasty	manages	tympanosclerosis
+tympanoplasty	treats	traumatic eardrum rupture
+tympanoplasty	risk includes	graft failure
+tympanoplasty	may cause	taste disturbance
+tympanoplasty	complication is	facial nerve injury
+tympanoplasty	associated with	vertigo
+tympanoplasty	may lead	tinnitus
+tympanoplasty	requires	preoperative antibiotics
+tympanoplasty	followed by	analgesic therapy
+tympanoplasty	needs	postoperative ear drops
+tympanoplasty	contraindicates	NSAIDs
+tympanoplasty	interacts with	anticoagulants
+tympanoplasty	success depends on	eustachian function
+tympanoplasty	outcome relates to	perforation size
+tympanoplasty	affected by	smoking status
+tympanoplasty	influenced by	surgeon experience
+tympanoplasty	correlates with	preoperative hearing
+tympanoplasty	alternative to	watchful waiting
+tympanoplasty	versus	paper patch myringoplasty
+tympanoplasty	compares with	laser-assisted repair
+tympanoplasty	contrasts	fat graft myringoplasty
+tympanoplasty	alternative is	permanent hearing aid
+tympanoplasty	involves	middle ear
+tympanoplasty	reconstructs	ossicular chain
+tympanoplasty	preserves	chorda tympani
+tympanoplasty	accesses	epitympanum
+tympanoplasty	avoids	inner ear
+tympanoplasty	requires	head elevation
+tympanoplasty	prohibits	nose blowing
+tympanoplasty	needs	water precautions
+tympanoplasty	advises	sneeze control
+tympanoplasty	recommends	follow-up audiometry
+tympanoplasty	delayed in	active infection
+tympanoplasty	modified for	children
+tympanoplasty	cautiously in	elderly patients
+tympanoplasty	individualized for	bilateral cases
+tympanoplasty	contraindicated in	inner ear malformations
+tympanoplasty	includes	underlay technique
+tympanoplasty	performs	overlay method
+tympanoplasty	utilizes	endoscopic approach
+tympanoplasty	classifies as	type I-V
+tympanoplasty	distinguishes	cartilage vs fascia
+tympanoplasty	uses	operating microscope
+tympanoplasty	requires	microinstruments
+tympanoplasty	employs	suction irrigation
+tympanoplasty	needs	tympanostomy tubes
+tympanoplasty	utilizes	fibrin glue
+tympanoplasty	removes	granulation tissue
+tympanoplasty	excises	retraction pockets
+tympanoplasty	eliminates	infected material
+tympanoplasty	addresses	atelectatic ear
+tympanoplasty	corrects	adhesive otitis
+tympanoplasty	evaluates with	pure tone audiogram
+tympanoplasty	assesses via	tympanogram
+tympanoplasty	monitors for	graft vascularization
+tympanoplasty	checks	speech discrimination
+tympanoplasty	confirms	air-bone gap closure
+tympanoplasty	costs vary by	technique
+tympanoplasty	reimbursed under	DRG codes
+tympanoplasty	affected by	hospital setting
+tympanoplasty	influenced by	graft material cost
+tympanoplasty	compares in	cost-effectiveness
+tympanoplasty	studies	tissue engineering
+tympanoplasty	researches	bioactive materials
+tympanoplasty	explores	stem cell applications
+tympanoplasty	investigates	3D printing
+tympanoplasty	examines	robotic assistance
+tympanoplasty	taught in	otology fellowship
+tympanoplasty	requires	temporal bone lab
+tympanoplasty	evaluated via	surgical simulators
+tympanoplasty	benchmarks	competency standards
+tympanoplasty	documents	learning curve
+tympanoplasty	prevalent in	developing countries
+tympanoplasty	associated with	poverty
+tympanoplasty	correlates	water exposure
+tympanoplasty	links to	recurrent infections
+tympanoplasty	reduced by	vaccination programs
+tympanoplasty	involves	audiologist consultation
+tympanoplasty	coordinates with	anesthesiologists
+tympanoplasty	collaborates with	infectious disease
+tympanoplasty	refers to	speech therapists
+tympanoplasty	consults	neurologists
+tympanoplasty	measures	graft take rate
+tympanoplasty	tracks	hearing improvement
+tympanoplasty	monitors	complication rates
+tympanoplasty	evaluates	patient satisfaction
+tympanoplasty	audits	revision rates
+tympanoplasty	evolved from	myringoplasty
+tympanoplasty	advanced by	microscope introduction
+tympanoplasty	improved with	synthetic materials
+tympanoplasty	transformed by	endoscopic era
+tympanoplasty	refined via	evidence-based protocols
+tympanoplasty	incorporates	laser ablation
+tympanoplasty	applies	piezoelectric surgery
+tympanoplasty	utilizes	intraoperative imaging
+tympanoplasty	employs	cartilage shield
+tympanoplasty	implements	fibrin sealant

@@ -1,0 +1,100 @@
+cancer of other GI organs	includes	peritoneal cancer
+peritoneal cancer	is a type of	abdominal cancer
+peritoneal cancer	originates in	peritoneum
+peritoneum	is a	serous membrane
+peritoneum	lines	abdominal cavity
+peritoneal cancer	may cause	ascites
+ascites	is treated with	diuretics
+furosemide	is a	diuretic
+peritoneal cancer	may metastasize to	liver
+liver metastasis	requires	chemotherapy
+oxaliplatin	is used for	peritoneal cancer
+peritoneal cancer	is diagnosed with	biopsy
+biopsy	may require	laparoscopy
+laparoscopy	is a	minimally invasive procedure
+peritoneal cancer	has symptom	abdominal pain
+abdominal pain	may be treated with	analgesics
+morphine	is an	analgesic
+peritoneal cancer	may lead to	bowel obstruction
+bowel obstruction	requires	surgical intervention
+peritoneal cancer	is associated with	poor prognosis
+poor prognosis	may indicate	palliative care
+palliative care	involves	pain management
+peritoneal cancer	has risk factor	genetic mutation
+BRCA mutation	increases risk of	peritoneal cancer
+peritoneal cancer	may be secondary to	ovarian cancer
+ovarian cancer	shares treatment with	peritoneal cancer
+carboplatin	treats	ovarian cancer
+peritoneal cancer	may cause	weight loss
+weight loss	may require	nutritional support
+TPN	provides	nutritional support
+peritoneal cancer	is staged with	CT scan
+CT scan	uses	contrast dye
+iodine	is in	contrast dye
+peritoneal cancer	may spread to	lymph nodes
+lymph node metastasis	indicates	advanced stage
+advanced stage cancer	requires	aggressive treatment
+peritoneal cancer	has subtype	mesothelioma
+mesothelioma	is linked to	asbestos exposure
+asbestos exposure	causes	pleural plaques
+peritoneal cancer	may recur after	treatment
+recurrence	requires	second-line therapy
+irinotecan	is a	second-line therapy
+peritoneal cancer	affects	quality of life
+quality of life	may improve with	counseling
+peritoneal cancer	has biomarker	CA-125
+CA-125	is monitored for	treatment response
+rising CA-125	indicates	disease progression
+peritoneal cancer	may cause	fatigue
+fatigue	may be treated with	stimulants
+methylphenidate	is a	stimulant
+peritoneal cancer	may lead to	cachexia
+cachexia	involves	muscle wasting
+peritoneal cancer	may require	HIPEC
+HIPEC	is a	heated chemotherapy
+mitomycin C	is used in	HIPEC
+peritoneal cancer	has differential diagnosis	tuberculosis
+tuberculosis	is diagnosed with	PCR test
+peritoneal cancer	may cause	anemia
+anemia	may require	blood transfusion
+packed RBCs	are used for	blood transfusion
+peritoneal cancer	may increase	D-dimer
+elevated D-dimer	suggests	thrombosis risk
+thrombosis	is prevented with	anticoagulants
+heparin	is an	anticoagulant
+peritoneal cancer	may affect	platelet count
+thrombocytopenia	requires	platelet transfusion
+peritoneal cancer	may cause	nausea
+nausea	is treated with	antiemetics
+ondansetron	is an	antiemetic
+peritoneal cancer	may lead to	depression
+depression	may be treated with	SSRIs
+fluoxetine	is a	SSRI
+peritoneal cancer	has research focus	immunotherapy
+pembrolizumab	is an	immunotherapy drug
+peritoneal cancer	may require	debulking surgery
+debulking surgery	aims for	cytoreduction
+peritoneal cancer	has complication	fistula
+fistula	may require	surgical repair
+peritoneal cancer	may cause	electrolyte imbalance
+electrolyte imbalance	requires	IV fluids
+normal saline	is an	IV fluid
+peritoneal cancer	may increase	inflammatory markers
+CRP	is an	inflammatory marker
+peritoneal cancer	may affect	kidney function
+acute kidney injury	requires	dialysis
+peritoneal cancer	has genetic link	Lynch syndrome
+Lynch syndrome	increases risk of	colorectal cancer
+peritoneal cancer	may cause	venous thrombosis
+venous thrombosis	is treated with	warfarin
+peritoneal cancer	may lead to	sepsis
+sepsis	requires	antibiotics
+vancomycin	is an	antibiotic
+peritoneal cancer	has radiological feature	omental caking
+omental caking	is seen on	ultrasound
+peritoneal cancer	may require	pain catheter
+epidural catheter	manages	severe pain
+peritoneal cancer	may cause	hormonal imbalance
+hormonal imbalance	may require	endocrine therapy
+letrozole	is an	endocrine therapy
+peritoneal cancer	has research area	targeted therapy

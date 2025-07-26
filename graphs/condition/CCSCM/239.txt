@@ -1,0 +1,100 @@
+superficial injury	is a	wound
+contusion	is a	bruise
+superficial injury	affects	skin
+contusion	involves	capillary damage
+superficial injury	caused by	trauma
+contusion	caused by	blunt force
+superficial injury	may lead to	infection
+contusion	may cause	pain
+superficial injury	may result in	scarring
+contusion	may progress to	hematoma
+superficial injury	treated with	cleaning
+contusion	treated with	cold compress
+superficial injury	prevented by	protective gear
+contusion	prevented by	padding
+superficial injury	diagnosed by	visual inspection
+contusion	diagnosed by	palpation
+superficial injury	may require	tetanus shot
+contusion	may require	imaging
+antibiotics	prevent infection in	superficial injury
+NSAIDs	reduce pain in	contusion
+superficial injury	heals by	primary intention
+contusion	heals by	absorption
+superficial injury	common in	athletes
+contusion	common in	elderly
+superficial injury	risk factor for	delayed healing
+contusion	risk factor for	compartment syndrome
+superficial injury	may involve	abrasion
+contusion	may involve	muscle
+superficial injury	classified by	depth
+contusion	classified by	severity
+superficial injury	may co-occur with	laceration
+contusion	may co-occur with	fracture
+superficial injury	documented using	ICD code
+contusion	documented using	severity scale
+superficial injury	managed with	wound care
+contusion	managed with	RICE protocol
+superficial injury	may complicate with	cellulitis
+contusion	may complicate with	myositis ossificans
+superficial injury	associated with	falls
+contusion	associated with	sports injuries
+superficial injury	contraindicates	certain anticoagulants
+contusion	contraindicates	massage therapy
+superficial injury	monitored for	signs of infection
+contusion	monitored for	swelling
+superficial injury	may require	debridement
+contusion	may require	aspiration
+superficial injury	affects	epidermis
+contusion	affects	subcutaneous tissue
+superficial injury	may follow	surgical procedure
+contusion	may follow	physical assault
+superficial injury	prevalent in	children
+contusion	prevalent in	contact sports
+superficial injury	evaluated with	wound scoring
+contusion	evaluated with	ultrasound
+superficial injury	treatment includes	dressing
+contusion	treatment includes	elevation
+superficial injury	may indicate	neglect
+contusion	may indicate	abuse
+superficial injury	aggravated by	friction
+contusion	aggravated by	pressure
+superficial injury	reduced by	moisturizing
+contusion	reduced by	compression
+superficial injury	documented in	trauma registry
+contusion	documented in	injury report
+superficial injury	may accompany	burn
+contusion	may accompany	sprain
+superficial injury	assessed using	Bates-Jensen scale
+contusion	assessed using	ecchymosis scale
+superficial injury	contraindication for	certain adhesives
+contusion	contraindication for	heat therapy
+superficial injury	research includes	wound healing
+contusion	research includes	platelet therapy
+superficial injury	may require	referral
+contusion	may require	specialist
+superficial injury	affects	quality of life
+contusion	affects	mobility
+superficial injury	may recur in	same location
+contusion	may recur in	vulnerable individuals
+superficial injury	education includes	wound care
+contusion	education includes	injury prevention
+superficial injury	may impact	mental health
+contusion	may impact	sleep
+superficial injury	associated with	certain occupations
+contusion	associated with	anticoagulant use
+superficial injury	may mimic	deep injury
+contusion	may mimic	hematoma
+superficial injury	differential diagnosis includes	dermatitis
+contusion	differential diagnosis includes	deep vein thrombosis
+superficial injury	management includes	pain control
+contusion	management includes	activity modification
+superficial injury	may lead to	chronic wound
+contusion	may lead to	fibrosis
+superficial injury	research focuses on	biofilms
+contusion	research focuses on	cryotherapy
+superficial injury	prevention includes	skin protection
+contusion	prevention includes	padding
+superficial injury	may complicate	diabetes
+contusion	may complicate	hemophilia
+superficial injury	prognosis depends on	care
+contusion	prognosis depends on	severity

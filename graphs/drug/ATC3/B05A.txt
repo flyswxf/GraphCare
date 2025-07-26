@@ -1,0 +1,100 @@
+blood	is a	bodily fluid
+blood	contains	red blood cells
+blood	contains	white blood cells
+blood	contains	platelets
+blood	contains	plasma
+red blood cells	carry	oxygen
+white blood cells	fight	infection
+platelets	control	bleeding
+plasma	carries	nutrients
+plasma	carries	hormones
+blood transfusion	uses	donated blood
+blood donation	provides	blood products
+whole blood	can be separated	components
+packed red cells	treat	anemia
+platelet concentrate	treat	thrombocytopenia
+fresh frozen plasma	treat	clotting disorders
+cryoprecipitate	contains	clotting factors
+blood products	require	compatibility testing
+ABO system	determines	blood type
+Rh factor	affects	transfusion compatibility
+blood bank	stores	blood products
+crossmatching	ensures	safe transfusion
+blood transfusion	can cause	reactions
+hemolytic reaction	results from	incompatible blood
+febrile reaction	caused by	white cell antibodies
+allergic reaction	caused by	plasma proteins
+transfusion	can transmit	infections
+hepatitis B	can spread	blood transfusion
+HIV	can spread	blood transfusion
+blood screening	reduces	infection risk
+autologous transfusion	uses	patient's own blood
+blood substitutes	mimic	blood functions
+hemoglobin-based oxygen carriers	are	blood substitutes
+blood loss	leads to	hypovolemia
+hemorrhage	requires	blood replacement
+surgery	often needs	blood products
+trauma patients	frequently need	transfusions
+leukemia treatment	requires	platelet transfusions
+hemophilia	requires	clotting factors
+thalassemia	requires	regular transfusions
+sickle cell disease	may need	exchange transfusion
+blood conservation	reduces	transfusion needs
+erythropoietin	stimulates	red cell production
+iron supplements	support	hemoglobin production
+blood viscosity	affects	circulation
+anemia	decreases	oxygen delivery
+polycythemia	increases	blood thickness
+blood doping	artificially increases	red cell count
+blood pressure	depends on	blood volume
+hemostasis	stops	bleeding
+coagulation cascade	leads to	clot formation
+anticoagulants	prevent	clotting
+heparin	is an	anticoagulant
+warfarin	affects	vitamin K cycle
+blood thinners	increase	bleeding risk
+hemostasis tests	monitor	clotting function
+prothrombin time	measures	extrinsic pathway
+activated partial thromboplastin time	measures	intrinsic pathway
+blood cultures	detect	bloodstream infections
+complete blood count	assesses	blood components
+hematocrit	measures	red cell volume
+hemoglobin level	indicates	oxygen capacity
+blood smear	examines	cell morphology
+bone marrow	produces	blood cells
+hematopoiesis	is	blood cell formation
+stem cells	differentiate into	blood cells
+cord blood	contains	hematopoietic stem cells
+blood disorders	affect	hematopoiesis
+leukemia	involves	abnormal white cells
+lymphoma	affects	lymphatic system
+multiple myeloma	involves	plasma cells
+blood cancers	often require	chemotherapy
+blood vessels	transport	blood
+arteries	carry	oxygenated blood
+veins	carry	deoxygenated blood
+capillaries	allow	nutrient exchange
+blood flow	delivers	oxygen to tissues
+microcirculation	involves	smallest blood vessels
+blood-brain barrier	protects	central nervous system
+blood clot	can cause	thrombosis
+deep vein thrombosis	risks	pulmonary embolism
+disseminated intravascular coagulation	disrupts	clotting balance
+sepsis	involves	systemic inflammation
+blood poisoning	refers to	bacteremia
+blood urea nitrogen	reflects	kidney function
+creatinine level	indicates	renal filtration
+blood glucose	measures	sugar level
+blood gases	assess	respiratory function
+blood pH	indicates	acid-base balance
+blood tests	aid in	diagnosis
+phlebotomy	is	blood collection
+venipuncture	accesses	veins
+blood typing	determines	donor compatibility
+universal donor	has	O negative blood
+universal recipient	has	AB positive blood
+blood storage	affects	cell viability
+blood component therapy	allows	targeted treatment
+massive transfusion protocol	manages	severe hemorrhage
+blood product shortages	impact	healthcare
+artificial blood	is under	development

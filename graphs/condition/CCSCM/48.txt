@@ -1,0 +1,100 @@
+thyroid disorders	include	hypothyroidism
+thyroid disorders	include	hyperthyroidism
+thyroid disorders	include	goiter
+thyroid disorders	include	thyroid nodules
+thyroid disorders	include	thyroid cancer
+hypothyroidism	is caused by	Hashimoto's thyroiditis
+hyperthyroidism	is caused by	Graves' disease
+thyroid	produces	thyroid hormones
+thyroid hormones	regulate	metabolism
+TSH test	diagnoses	thyroid disorders
+thyroid disorders	may cause	fatigue
+thyroid disorders	may cause	weight changes
+thyroid disorders	may cause	temperature sensitivity
+thyroid disorders	may cause	mood changes
+thyroid disorders	may cause	hair loss
+hypothyroidism	is treated with	levothyroxine
+hyperthyroidism	is treated with	methimazole
+hyperthyroidism	is treated with	radioactive iodine
+Graves' disease	causes	bulging eyes
+thyroid	requires	iodine
+iodine deficiency	causes	goiter
+thyroid cancer	is treated with	surgery
+thyroid cancer	is treated with	radiation therapy
+thyroid nodules	may be	benign
+thyroid nodules	may be	malignant
+fine needle aspiration	diagnoses	thyroid nodules
+pregnancy	affects	thyroid function
+thyroid disorders	are more common in	women
+Hashimoto's thyroiditis	is an	autoimmune disorder
+Graves' disease	is an	autoimmune disorder
+thyroid hormones	include	T3
+thyroid hormones	include	T4
+thyroid	is located in	neck
+thyroid	is part of	endocrine system
+hypothyroidism	causes	bradycardia
+hyperthyroidism	causes	tachycardia
+thyroid disorders	may cause	menstrual irregularities
+thyroid disorders	may cause	infertility
+thyroid storm	is a complication of	hyperthyroidism
+myxedema coma	is a complication of	hypothyroidism
+thyroidectomy	treats	thyroid cancer
+thyroidectomy	treats	goiter
+thyroid disorders	require	lifelong medication
+thyroid function tests	monitor	treatment
+levothyroxine	replaces	thyroid hormone
+amiodarone	affects	thyroid function
+lithium	affects	thyroid function
+thyroid disorders	increase risk of	cardiovascular disease
+hypothyroidism	increases	cholesterol levels
+hyperthyroidism	causes	weight loss
+hypothyroidism	causes	weight gain
+thyroid disorders	may cause	depression
+thyroid disorders	may cause	anxiety
+thyroid ultrasound	evaluates	thyroid structure
+radioactive iodine uptake test	evaluates	thyroid function
+thyroid disorders	may cause	muscle weakness
+thyroid disorders	may cause	constipation
+thyroid disorders	may cause	diarrhea
+thyroid disorders	may cause	dry skin
+thyroid disorders	may cause	sweating
+neonates	are screened for	hypothyroidism
+congenital hypothyroidism	causes	developmental delays
+thyroid cancer	has types	papillary carcinoma
+thyroid cancer	has types	follicular carcinoma
+thyroid cancer	has types	medullary carcinoma
+thyroid cancer	has types	anaplastic carcinoma
+family history	increases risk of	thyroid disorders
+radiation exposure	increases risk of	thyroid cancer
+thyroid disorders	may cause	hoarseness
+thyroid disorders	may cause	swallowing difficulties
+thyroid disorders	may cause	neck swelling
+thyroid hormone resistance	is a rare	thyroid disorder
+subacute thyroiditis	causes	thyroid pain
+postpartum thyroiditis	occurs after	pregnancy
+thyroid disorders	affect	bone density
+hyperthyroidism	increases risk of	osteoporosis
+thyroid hormones	affect	brain development
+hypothyroidism	in pregnancy	affects fetal brain
+thyroid antibodies	indicate	autoimmune thyroiditis
+thyroglobulin	is a marker for	thyroid cancer
+calcitonin	is a marker for	medullary carcinoma
+thyroid disorders	may cause	carpal tunnel syndrome
+thyroid disorders	may cause	peripheral neuropathy
+beta blockers	treat symptoms of	hyperthyroidism
+glucocorticoids	treat	thyroid storm
+selenium deficiency	affects	thyroid function
+zinc deficiency	affects	thyroid function
+iron deficiency	affects	thyroid function
+vitamin D deficiency	affects	thyroid function
+smoking	increases risk of	Graves' disease
+stress	exacerbates	thyroid disorders
+aging	increases risk of	thyroid disorders
+Down syndrome	increases risk of	thyroid disorders
+Turner syndrome	increases risk of	thyroid disorders
+type 1 diabetes	increases risk of	thyroid disorders
+celiac disease	increases risk of	thyroid disorders
+thyroid disorders	may cause	sleep disturbances
+thyroid disorders	may cause	memory problems
+thyroid disorders	may cause	high blood pressure
+thyroid disorders	require	regular monitoring

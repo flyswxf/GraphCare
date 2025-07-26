@@ -1,0 +1,100 @@
+other acquired deformities	is a	musculoskeletal disorder
+other acquired deformities	may result from	trauma
+other acquired deformities	may result from	infection
+other acquired deformities	may result from	tumor
+other acquired deformities	may result from	surgery
+other acquired deformities	may cause	chronic pain
+other acquired deformities	may cause	mobility impairment
+other acquired deformities	may require	physical therapy
+other acquired deformities	may require	orthopedic surgery
+other acquired deformities	may require	prosthetics
+other acquired deformities	may lead to	disability
+other acquired deformities	associated with	osteoarthritis
+other acquired deformities	associated with	rheumatoid arthritis
+other acquired deformities	may require	pain management
+other acquired deformities	may require	assistive devices
+other acquired deformities	may affect	posture
+other acquired deformities	may affect	gait
+other acquired deformities	may lead to	joint stiffness
+other acquired deformities	may lead to	muscle atrophy
+other acquired deformities	may require	bracing
+other acquired deformities	may require	casting
+other acquired deformities	may require	splinting
+other acquired deformities	may be evaluated with	X-ray
+other acquired deformities	may be evaluated with	MRI
+other acquired deformities	may be evaluated with	CT scan
+other acquired deformities	may be caused by	osteoporosis
+other acquired deformities	may be caused by	Paget's disease
+other acquired deformities	may be caused by	rickets
+other acquired deformities	may be caused by	poliomyelitis
+other acquired deformities	may be caused by	cerebral palsy
+other acquired deformities	may be caused by	stroke
+other acquired deformities	may be caused by	burns
+other acquired deformities	may be caused by	nerve damage
+other acquired deformities	may be caused by	spinal cord injury
+other acquired deformities	may be caused by	prolonged immobility
+other acquired deformities	may be treated with	NSAIDs
+other acquired deformities	may be treated with	corticosteroids
+other acquired deformities	may be treated with	opioids
+other acquired deformities	may be treated with	muscle relaxants
+other acquired deformities	may be treated with	bisphosphonates
+other acquired deformities	may be treated with	vitamin D supplements
+other acquired deformities	may be treated with	calcium supplements
+other acquired deformities	may be treated with	joint injections
+other acquired deformities	may be treated with	electrical stimulation
+other acquired deformities	may be treated with	acupuncture
+other acquired deformities	may be treated with	massage therapy
+other acquired deformities	may be treated with	chiropractic care
+other acquired deformities	may be treated with	occupational therapy
+other acquired deformities	may be treated with	hydrotherapy
+other acquired deformities	may be treated with	cryotherapy
+other acquired deformities	may be treated with	heat therapy
+other acquired deformities	may be treated with	ultrasound therapy
+other acquired deformities	may be treated with	traction
+other acquired deformities	may be treated with	external fixation
+other acquired deformities	may be treated with	internal fixation
+other acquired deformities	may be treated with	arthroplasty
+other acquired deformities	may be treated with	osteotomy
+other acquired deformities	may be treated with	tendon transfer
+other acquired deformities	may be treated with	joint fusion
+other acquired deformities	may be treated with	limb lengthening
+other acquired deformities	may be treated with	limb reconstruction
+other acquired deformities	may be treated with	corrective shoes
+other acquired deformities	may be treated with	orthotic devices
+other acquired deformities	may be treated with	wheelchair
+other acquired deformities	may be treated with	walker
+other acquired deformities	may be treated with	cane
+other acquired deformities	may be treated with	crutches
+other acquired deformities	may be treated with	knee brace
+other acquired deformities	may be treated with	ankle brace
+other acquired deformities	may be treated with	back brace
+other acquired deformities	may be treated with	neck brace
+other acquired deformities	may be treated with	wrist brace
+other acquired deformities	may be treated with	elbow brace
+other acquired deformities	may be treated with	shoulder brace
+other acquired deformities	may be treated with	hip brace
+other acquired deformities	may be treated with	finger splint
+other acquired deformities	may be treated with	toe splint
+other acquired deformities	may be treated with	spinal orthosis
+other acquired deformities	may be treated with	cranial orthosis
+other acquired deformities	may be treated with	custom orthotics
+other acquired deformities	may be treated with	shock-absorbing shoes
+other acquired deformities	may be treated with	compression garments
+other acquired deformities	may be treated with	posture corrector
+other acquired deformities	may be treated with	TENS unit
+other acquired deformities	may be treated with	cold laser therapy
+other acquired deformities	may be treated with	platelet-rich plasma therapy
+other acquired deformities	may be treated with	stem cell therapy
+other acquired deformities	may be treated with	gene therapy
+other acquired deformities	may be treated with	robotic rehabilitation
+other acquired deformities	may be treated with	virtual reality therapy
+other acquired deformities	may be treated with	biofeedback
+other acquired deformities	may be treated with	cognitive behavioral therapy
+other acquired deformities	may be treated with	meditation
+other acquired deformities	may be treated with	yoga
+other acquired deformities	may be treated with	tai chi
+other acquired deformities	may be treated with	aquatic therapy
+other acquired deformities	may be treated with	hippotherapy
+other acquired deformities	may be treated with	art therapy
+other acquired deformities	may be treated with	music therapy
+other acquired deformities	may be treated with	pet therapy

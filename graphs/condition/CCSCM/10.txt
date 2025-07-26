@@ -1,0 +1,182 @@
+immunizations	prevent	infectious disease
+infectious disease	is diagnosed by	screening
+screening	detects	pathogen
+pathogen	causes	infection
+immunizations	include	vaccine
+vaccine	targets	pathogen
+vaccine	induces	immunity
+immunity	reduces	disease risk
+infectious disease	may lead to	sepsis
+sepsis	increases	mortality risk
+mortality risk	is predicted by	disease severity
+disease severity	is assessed by	clinical score
+clinical score	includes	vital signs
+vital signs	indicate	health status
+health status	affects	treatment outcome
+treatment outcome	is predicted by	comorbidity
+comorbidity	increases	readmission risk
+readmission risk	is reduced by	follow-up care
+follow-up care	includes	screening
+screening	is part of	preventive care
+preventive care	reduces	hospitalization
+hospitalization	increases	healthcare cost
+healthcare cost	is predicted by	disease duration
+disease duration	is influenced by	immune response
+immune response	is enhanced by	vaccine
+vaccine	is administered via	injection
+injection	is a	medical procedure
+medical procedure	requires	informed consent
+informed consent	is part of	patient care
+patient care	includes	health education
+health education	improves	vaccine adherence
+vaccine adherence	reduces	outbreak risk
+outbreak risk	is mitigated by	herd immunity
+herd immunity	is achieved by	mass immunization
+mass immunization	is organized by	public health
+public health	monitors	disease incidence
+disease incidence	is tracked by	surveillance system
+surveillance system	uses	data analytics
+data analytics	predicts	epidemic spread
+epidemic spread	increases	community risk
+community risk	is managed by	vaccination campaign
+vaccination campaign	includes	risk assessment
+risk assessment	is based on	demographic data
+demographic data	informs	targeted screening
+targeted screening	improves	early detection
+early detection	increases	cure rate
+cure rate	is predicted by	treatment timing
+treatment timing	is influenced by	access to care
+access to care	depends on	healthcare system
+healthcare system	includes	primary care
+primary care	provides	routine screening
+routine screening	identifies	asymptomatic cases
+asymptomatic cases	may lead to	transmission
+transmission	increases	outbreak risk
+outbreak risk	is reduced by	isolation protocol
+isolation protocol	is part of	infection control
+infection control	is guided by	clinical guideline
+clinical guideline	is updated by	medical research
+medical research	improves	screening accuracy
+screening accuracy	affects	false negative rate
+false negative rate	influences	diagnostic confidence
+diagnostic confidence	impacts	treatment decision
+treatment decision	is based on	disease classification
+disease classification	uses	diagnostic criteria
+diagnostic criteria	include	symptom profile
+symptom profile	is recorded by	electronic health record
+electronic health record	supports	predictive analytics
+predictive analytics	predicts	mortality
+mortality	is influenced by	disease progression
+disease progression	is monitored by	follow-up test
+follow-up test	detects	recurrence
+recurrence	increases	readmission probability
+readmission probability	is predicted by	prior hospitalization
+prior hospitalization	is recorded in	medical history
+medical history	is used for	risk stratification
+risk stratification	supports	personalized care
+personalized care	includes	tailored screening
+tailored screening	improves	disease management
+disease management	reduces	complication risk
+complication risk	is predicted by	comorbidity
+comorbidity	is identified by	comorbidity index
+comorbidity index	is used for	mortality prediction
+mortality prediction	guides	resource allocation
+resource allocation	is part of	hospital planning
+hospital planning	considers	disease burden
+disease burden	is measured by	incidence rate
+incidence rate	is tracked by	epidemiological study
+epidemiological study	informs	public health policy
+public health policy	shapes	immunization strategy
+immunization strategy	is evaluated by	coverage rate
+coverage rate	affects	population immunity
+population immunity	reduces	outbreak risk
+outbreak risk	is predicted by	transmission rate
+transmission rate	is influenced by	contact tracing
+contact tracing	is part of	outbreak response
+outbreak response	includes	mass screening
+mass screening	improves	early detection
+early detection	reduces	hospitalization rate
+hospitalization rate	is predicted by	disease severity
+disease severity	is assessed by	clinical score
+clinical score	includes	laboratory results
+laboratory results	detect	pathogen presence
+pathogen presence	indicates	active infection
+active infection	increases	treatment complexity
+treatment complexity	is predicted by	disease stage
+disease stage	is determined by	diagnostic imaging
+diagnostic imaging	is part of	screening
+screening	is scheduled by	preventive care plan
+preventive care plan	is part of	health maintenance
+health maintenance	includes	regular immunization
+regular immunization	prevents	disease recurrence
+disease recurrence	increases	long-term risk
+long-term risk	is predicted by	chronic condition
+chronic condition	may lead to	disability
+disability	increases	healthcare utilization
+healthcare utilization	is predicted by	disease frequency
+disease frequency	is tracked by	surveillance system
+surveillance system	supports	outbreak prediction
+outbreak prediction	informs	emergency preparedness
+emergency preparedness	is part of	public health
+public health	implements	immunization program
+immunization program	includes	vaccine distribution
+vaccine distribution	is managed by	supply chain
+supply chain	ensures	vaccine availability
+vaccine availability	improves	immunization coverage
+immunization coverage	reduces	community risk
+community risk	is mitigated by	herd immunity
+herd immunity	is achieved by	high vaccine adherence
+vaccine adherence	is influenced by	health literacy
+health literacy	is improved by	patient education
+patient education	is part of	health promotion
+health promotion	increases	preventive care uptake
+preventive care uptake	reduces	disease burden
+disease burden	is predicted by	incidence and prevalence
+incidence and prevalence	is measured by	population data
+population data	is collected by	health registry
+health registry	supports	predictive modeling
+predictive modeling	predicts	readmission
+readmission	is reduced by	care coordination
+care coordination	includes	post-discharge screening
+post-discharge screening	detects	residual infection
+residual infection	increases	complication risk
+complication risk	is predicted by	comorbidity
+comorbidity	is managed by	multidisciplinary team
+multidisciplinary team	includes	infectious disease specialist
+infectious disease specialist	recommends	appropriate screening
+appropriate screening	detects	early infection
+early infection	is treated with	antimicrobial therapy
+antimicrobial therapy	is prescribed based on	pathogen type
+pathogen type	is identified by	molecular testing
+molecular testing	is part of	advanced screening
+advanced screening	improves	diagnostic precision
+diagnostic precision	increases	treatment success
+treatment success	reduces	mortality
+mortality	is predicted by	disease resistance
+disease resistance	is influenced by	immune status
+immune status	is assessed by	immunization history
+immunization history	is recorded in	medical record
+medical record	is used for	risk prediction
+risk prediction	supports	early intervention
+early intervention	reduces	disease progression
+disease progression	is predicted by	biomarker levels
+biomarker levels	are measured by	lab test
+lab test	is part of	routine screening
+routine screening	is scheduled by	primary care provider
+primary care provider	manages	preventive care
+preventive care	includes	health screening
+health screening	reduces	undiagnosed cases
+undiagnosed cases	increase	transmission risk
+transmission risk	is reduced by	contact tracing
+contact tracing	is part of	outbreak management
+outbreak management	includes	quarantine measure
+quarantine measure	reduces	community spread
+community spread	is predicted by	mobility data
+mobility data	is analyzed by	data science
+data science	supports	predictive analytics
+predictive analytics	predicts	hospital capacity
+hospital capacity	is managed by	resource planning
+resource planning	is part of	healthcare administration
+healthcare administration	ensures	screening availability
+screening availability	increases	early detection
+early detection	reduces	mortality risk

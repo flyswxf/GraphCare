@@ -1,0 +1,100 @@
+antimycotics for systemic use	is a	drug class
+antimycotics for systemic use	treats	fungal infections
+antimycotics for systemic use	includes	azoles
+antimycotics for systemic use	includes	polyenes
+antimycotics for systemic use	includes	echinocandins
+antimycotics for systemic use	includes	allylamines
+azoles	subclass of	antimycotics for systemic use
+polyenes	subclass of	antimycotics for systemic use
+echinocandins	subclass of	antimycotics for systemic use
+allylamines	subclass of	antimycotics for systemic use
+azoles	example	fluconazole
+azoles	example	itraconazole
+azoles	example	voriconazole
+polyenes	example	amphotericin B
+echinocandins	example	caspofungin
+echinocandins	example	micafungin
+allylamines	example	terbinafine
+fluconazole	treats	candidiasis
+itraconazole	treats	aspergillosis
+voriconazole	treats	invasive fungal infections
+amphotericin B	treats	systemic mycoses
+caspofungin	treats	Candida infections
+micafungin	treats	esophageal candidiasis
+terbinafine	treats	dermatophyte infections
+antimycotics for systemic use	mechanism	inhibits ergosterol synthesis
+azoles	mechanism	inhibits CYP450
+polyenes	mechanism	binds ergosterol
+echinocandins	mechanism	inhibits glucan synthesis
+allylamines	mechanism	inhibits squalene epoxidase
+antimycotics for systemic use	side effects	liver toxicity
+antimycotics for systemic use	side effects	kidney damage
+antimycotics for systemic use	side effects	allergic reactions
+azoles	side effects	QT prolongation
+polyenes	side effects	nephrotoxicity
+echinocandins	side effects	histamine release
+allylamines	side effects	gastrointestinal distress
+fluconazole	interacts with	warfarin
+itraconazole	interacts with	cyclosporine
+voriconazole	interacts with	rifampin
+amphotericin B	interacts with	aminoglycosides
+caspofungin	interacts with	cyclosporine
+terbinafine	interacts with	caffeine
+antimycotics for systemic use	contraindicated in	liver disease
+antimycotics for systemic use	contraindicated in	pregnancy
+azoles	contraindicated in	heart conditions
+polyenes	contraindicated in	kidney impairment
+echinocandins	contraindicated in	allergy
+allylamines	contraindicated in	liver dysfunction
+antimycotics for systemic use	administration route	intravenous
+antimycotics for systemic use	administration route	oral
+amphotericin B	administration route	IV only
+echinocandins	administration route	IV only
+terbinafine	administration route	oral
+fluconazole	administration route	oral or IV
+antimycotics for systemic use	monitoring parameter	liver function
+antimycotics for systemic use	monitoring parameter	kidney function
+antimycotics for systemic use	monitoring parameter	drug levels
+voriconazole	monitoring parameter	visual changes
+amphotericin B	monitoring parameter	electrolytes
+antimycotics for systemic use	resistance mechanism	efflux pumps
+antimycotics for systemic use	resistance mechanism	target modification
+Candida	develops resistance to	azoles
+Aspergillus	develops resistance to	echinocandins
+dermatophytes	develops resistance to	allylamines
+antimycotics for systemic use	spectrum	broad
+antimycotics for systemic use	spectrum	narrow
+amphotericin B	spectrum	broad
+terbinafine	spectrum	narrow
+antimycotics for systemic use	research focus	new formulations
+antimycotics for systemic use	research focus	combination therapy
+antimycotics for systemic use	research focus	resistance reversal
+liposomal amphotericin B	reduces	toxicity
+antimycotics for systemic use	cost factor	high
+echinocandins	cost factor	highest
+azoles	cost factor	moderate
+antimycotics for systemic use	therapeutic index	narrow
+antimycotics for systemic use	therapeutic index	wide
+amphotericin B	therapeutic index	narrow
+fluconazole	therapeutic index	wide
+antimycotics for systemic use	duration	long-term
+antimycotics for systemic use	duration	short-term
+antimycotics for systemic use	prophylaxis use	immunocompromised
+fluconazole	prophylaxis use	transplant patients
+antimycotics for systemic use	pregnancy category	D
+fluconazole	pregnancy category	D
+terbinafine	pregnancy category	B
+antimycotics for systemic use	pediatric use	caution
+antimycotics for systemic use	geriatric use	caution
+antimycotics for systemic use	black box warning	hepatotoxicity
+voriconazole	black box warning	photosensitivity
+antimycotics for systemic use	storage requirement	room temperature
+amphotericin B	storage requirement	refrigeration
+antimycotics for systemic use	brand examples	Diflucan
+antimycotics for systemic use	brand examples	Vfend
+antimycotics for systemic use	brand examples	Cancidas
+antimycotics for systemic use	generic availability	yes
+antimycotics for systemic use	FDA approval	required
+antimycotics for systemic use	off-label use	common
+antimycotics for systemic use	combination therapy	amphotericin B + flucytosine
+antimycotics for systemic use	treatment duration	weeks to months

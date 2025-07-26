@@ -1,0 +1,100 @@
+aminoglycoside antibacterials	is a	class of antibiotics
+aminoglycoside antibacterials	target	bacterial ribosomes
+aminoglycoside antibacterials	effective against	Gram-negative bacteria
+aminoglycoside antibacterials	includes	gentamicin
+aminoglycoside antibacterials	includes	amikacin
+aminoglycoside antibacterials	includes	tobramycin
+aminoglycoside antibacterials	mechanism	protein synthesis inhibition
+aminoglycoside antibacterials	can cause	ototoxicity
+aminoglycoside antibacterials	can cause	nephrotoxicity
+aminoglycoside antibacterials	require	therapeutic drug monitoring
+gentamicin	treats	Pseudomonas infections
+gentamicin	used for	endocarditis prophylaxis
+amikacin	used for	multidrug-resistant tuberculosis
+tobramycin	preferred for	cystic fibrosis
+ototoxicity	manifests as	hearing loss
+nephrotoxicity	leads to	acute kidney injury
+therapeutic drug monitoring	measures	serum levels
+aminoglycoside antibacterials	synergize with	beta-lactams
+aminoglycoside antibacterials	contraindicated in	myasthenia gravis
+aminoglycoside antibacterials	poorly absorbed	from GI tract
+aminoglycoside antibacterials	administered	intravenously
+aminoglycoside antibacterials	administered	intramuscularly
+aminoglycoside antibacterials	not effective	against anaerobes
+aminoglycoside antibacterials	resistance caused by	modifying enzymes
+aminoglycoside antibacterials	resistance caused by	ribosomal mutations
+gentamicin	combined with	ampicillin
+amikacin	effective against	aminoglycoside-resistant strains
+tobramycin	available as	inhalation solution
+ototoxicity	risk increased by	loop diuretics
+nephrotoxicity	risk increased by	vancomycin
+therapeutic drug monitoring	adjusts	dosing intervals
+protein synthesis inhibition	blocks	translation
+Pseudomonas infections	common in	burn patients
+endocarditis prophylaxis	for	dental procedures
+multidrug-resistant tuberculosis	requires	prolonged therapy
+cystic fibrosis	characterized by	thick mucus
+hearing loss	assessed by	audiometry
+acute kidney injury	monitored by	creatinine levels
+serum levels	peak after	30-60 minutes
+beta-lactams	include	penicillins
+beta-lactams	include	cephalosporins
+myasthenia gravis	worsens with	neuromuscular blockade
+GI tract absorption	affected by	food
+intravenous administration	requires	venous access
+intramuscular administration	may cause	injection pain
+anaerobes	found in	abscesses
+modifying enzymes	include	acetyltransferases
+ribosomal mutations	alter	binding sites
+ampicillin	covers	Enterococcus
+aminoglycoside-resistant strains	prevalent in	hospitals
+inhalation solution	reduces	systemic toxicity
+loop diuretics	include	furosemide
+vancomycin	monitors	trough levels
+dosing intervals	based on	renal function
+translation	produces	bacterial proteins
+burn patients	susceptible to	sepsis
+dental procedures	risk for	bacteremia
+prolonged therapy	increases	side effects
+thick mucus	harbors	bacteria
+audiometry	detects	high-frequency loss
+creatinine levels	indicate	GFR
+30-60 minutes	is	post-dose timing
+penicillins	target	cell wall
+cephalosporins	classified by	generations
+neuromuscular blockade	affects	acetylcholine
+food	decreases	drug absorption
+venous access	maintained by	catheters
+injection pain	alleviated by	local anesthetics
+abscesses	require	surgical drainage
+acetyltransferases	modify	amino groups
+binding sites	located on	30S subunit
+Enterococcus	causes	urinary infections
+hospitals	have	infection control
+systemic toxicity	affects	cochlea
+furosemide	causes	electrolyte imbalance
+trough levels	drawn before	next dose
+renal function	declines with	age
+bacterial proteins	essential for	survival
+sepsis	treated with	broad-spectrum antibiotics
+bacteremia	leads to	systemic infection
+side effects	managed by	dose reduction
+bacteria	cause	chronic inflammation
+high-frequency loss	progresses to	deafness
+GFR	estimates	kidney function
+post-dose timing	crucial for	efficacy
+cell wall	disrupted by	beta-lactams
+generations	determine	spectrum
+acetylcholine	mediates	nerve signals
+drug absorption	varies by	formulation
+catheters	risk for	infection
+local anesthetics	block	pain signals
+surgical drainage	removes	pus
+amino groups	present in	aminoglycosides
+30S subunit	part of	ribosome
+urinary infections	diagnosed by	culture
+infection control	includes	hand hygiene
+cochlea	contains	hair cells
+electrolyte imbalance	causes	arrhythmias
+next dose	determined by	pharmacokinetics
+age	increases	medication risks

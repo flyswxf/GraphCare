@@ -1,0 +1,100 @@
+previous c-section	increases risk of	uterine rupture
+previous c-section	may require	repeat c-section
+previous c-section	associated with	placenta accreta
+previous c-section	increases risk of	postpartum hemorrhage
+previous c-section	may cause	adhesions
+previous c-section	delays	labor progression
+previous c-section	requires	careful monitoring
+previous c-section	increases risk of	hysterectomy
+previous c-section	may lead to	blood transfusion
+previous c-section	associated with	endometritis
+previous c-section	increases risk of	thromboembolism
+previous c-section	may require	longer hospital stay
+previous c-section	increases cost of	delivery
+previous c-section	reduces chances of	VBAC
+previous c-section	requires	surgical expertise
+previous c-section	increases risk of	bladder injury
+previous c-section	may cause	chronic pelvic pain
+previous c-section	associated with	infertility
+previous c-section	increases risk of	preterm birth
+previous c-section	may affect	future pregnancies
+previous c-section	requires	preoperative evaluation
+previous c-section	increases risk of	infection
+previous c-section	may cause	wound complications
+previous c-section	associated with	longer recovery
+previous c-section	increases need for	pain management
+previous c-section	requires	antibiotic prophylaxis
+previous c-section	increases risk of	anesthesia complications
+previous c-section	may lead to	ICU admission
+previous c-section	associated with	maternal morbidity
+previous c-section	increases risk of	neonatal complications
+previous c-section	may require	blood pressure monitoring
+previous c-section	increases risk of	preeclampsia
+previous c-section	may cause	uterine dehiscence
+previous c-section	associated with	gestational diabetes
+previous c-section	increases risk of	fetal distress
+previous c-section	may lead to	NICU admission
+previous c-section	requires	thromboprophylaxis
+previous c-section	increases risk of	surgical complications
+previous c-section	may cause	bowel injury
+previous c-section	associated with	longer operating time
+previous c-section	increases risk of	transfusion reactions
+previous c-section	may require	vertical incision
+previous c-section	increases risk of	wound dehiscence
+previous c-section	associated with	chronic pain
+previous c-section	increases risk of	psychological distress
+previous c-section	may lead to	breastfeeding difficulties
+previous c-section	requires	postoperative care
+previous c-section	increases risk of	readmission
+previous c-section	may cause	scar complications
+previous c-section	associated with	decreased fertility
+previous c-section	increases risk of	ectopic pregnancy
+previous c-section	may require	imaging studies
+previous c-section	associated with	abnormal placentation
+previous c-section	increases risk of	stillbirth
+previous c-section	may lead to	maternal death
+previous c-section	requires	counseling
+previous c-section	increases risk of	venous thromboembolism
+previous c-section	may cause	nerve injury
+previous c-section	associated with	longer second stage
+previous c-section	increases risk of	shoulder dystocia
+previous c-section	may require	vacuum extraction
+previous c-section	increases risk of	forceps delivery
+previous c-section	associated with	meconium aspiration
+previous c-section	increases risk of	neonatal sepsis
+previous c-section	may lead to	respiratory distress
+previous c-section	requires	neonatal resuscitation
+previous c-section	increases risk of	jaundice
+previous c-section	may cause	feeding difficulties
+previous c-section	associated with	bonding issues
+previous c-section	increases risk of	postpartum depression
+previous c-section	may require	lactation support
+previous c-section	increases risk of	wound infection
+previous c-section	associated with	hematoma formation
+previous c-section	increases risk of	sepsis
+previous c-section	may lead to	organ failure
+previous c-section	requires	fluid management
+previous c-section	increases risk of	electrolyte imbalance
+previous c-section	may cause	ileus
+previous c-section	associated with	constipation
+previous c-section	increases risk of	urinary retention
+previous c-section	may require	catheterization
+previous c-section	increases risk of	UTI
+previous c-section	associated with	pelvic organ prolapse
+previous c-section	increases risk of	sexual dysfunction
+previous c-section	may lead to	relationship stress
+previous c-section	requires	follow-up care
+previous c-section	increases risk of	readmission
+previous c-section	may cause	chronic fatigue
+previous c-section	associated with	sleep disturbances
+previous c-section	increases risk of	anxiety
+previous c-section	may require	mental health support
+previous c-section	increases risk of	PTSD
+previous c-section	associated with	body image issues
+previous c-section	increases risk of	medication dependence
+previous c-section	may lead to	opioid use
+previous c-section	requires	pain management plan
+previous c-section	increases risk of	chronic opioid use
+previous c-section	associated with	substance abuse
+previous c-section	increases risk of	suicide
+previous c-section	requires	multidisciplinary care

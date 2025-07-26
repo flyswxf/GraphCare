@@ -1,0 +1,100 @@
+other systemic drugs for obstructive airway diseases	classified under	ATC
+other systemic drugs for obstructive airway diseases	part of	respiratory system drugs
+other systemic drugs for obstructive airway diseases	treat	asthma
+other systemic drugs for obstructive airway diseases	treat	COPD
+other systemic drugs for obstructive airway diseases	include	corticosteroids
+other systemic drugs for obstructive airway diseases	include	leukotriene modifiers
+other systemic drugs for obstructive airway diseases	include	methylxanthines
+other systemic drugs for obstructive airway diseases	include	monoclonal antibodies
+corticosteroids	reduce	airway inflammation
+leukotriene modifiers	block	leukotriene effects
+methylxanthines	relax	bronchial smooth muscle
+monoclonal antibodies	target	IgE
+monoclonal antibodies	target	IL-5
+asthma	characterized by	reversible airway obstruction
+COPD	characterized by	irreversible airflow limitation
+corticosteroids	can cause	adrenal suppression
+corticosteroids	can cause	osteoporosis
+leukotriene modifiers	can cause	mood changes
+methylxanthines	can cause	arrhythmias
+methylxanthines	interact with	ciprofloxacin
+monoclonal antibodies	administered via	injection
+COPD	risk factor	smoking
+asthma	risk factor	allergies
+asthma	symptom	wheezing
+COPD	symptom	dyspnea
+airway obstruction	leads to	hypoxia
+hypoxia	may result in	cyanosis
+bronchial smooth muscle contraction	causes	bronchospasm
+corticosteroids	suppress	immune response
+leukotriene modifiers	prevent	bronchoconstriction
+methylxanthines	inhibit	phosphodiesterase
+monoclonal antibodies	reduce	eosinophilic inflammation
+IgE	mediates	allergic reactions
+IL-5	promotes	eosinophil activation
+airway inflammation	contributes to	mucus hypersecretion
+mucus hypersecretion	worsens	airway obstruction
+inhaled corticosteroids	preferred over	systemic corticosteroids
+systemic corticosteroids	reserved for	severe exacerbations
+leukotriene modifiers	alternative to	inhaled corticosteroids
+methylxanthines	less commonly used	due to toxicity
+monoclonal antibodies	indicated for	severe asthma
+asthma	managed with	stepwise therapy
+COPD	managed with	bronchodilators
+bronchodilators	improve	FEV1
+FEV1	measures	lung function
+airway obstruction	assessed via	spirometry
+spirometry	differentiates	asthma and COPD
+corticosteroids	require	tapering
+leukotriene modifiers	taken	orally
+methylxanthines	have	narrow therapeutic index
+monoclonal antibodies	require	prior testing
+IgE levels	measured before	omalizumab use
+IL-5 inhibitors	reduce	exacerbations
+exacerbations	lead to	hospitalizations
+hospitalizations	increase	healthcare costs
+corticosteroids	increase	blood glucose
+leukotriene modifiers	may worsen	Churg-Strauss syndrome
+methylxanthines	metabolized by	CYP1A2
+CYP1A2	inhibited by	fluvoxamine
+monoclonal antibodies	contraindicated in	certain infections
+omalizumab	associated with	anaphylaxis
+mepolizumab	targets	IL-5 receptor
+reslizumab	also targets	IL-5
+asthma	classified by	severity
+COPD	staged by	GOLD criteria
+GOLD criteria	use	symptom burden
+symptom burden	affects	quality of life
+quality of life	measured by	questionnaires
+questionnaires	include	CAT score
+CAT score	assesses	COPD impact
+bronchodilators	include	beta-agonists
+beta-agonists	stimulate	beta-2 receptors
+beta-2 receptors	mediate	bronchodilation
+bronchodilation	improves	airflow
+airflow	measured by	peak expiratory flow
+peak expiratory flow	monitors	asthma control
+asthma control	prevents	exacerbations
+exacerbations	require	rescue medications
+rescue medications	include	SABA
+SABA	provides	rapid relief
+rapid relief	reduces	symptoms
+symptoms	include	chest tightness
+chest tightness	alleviated by	bronchodilators
+bronchodilators	combined with	corticosteroids
+combination therapy	enhances	efficacy
+efficacy	measured by	symptom reduction
+symptom reduction	improves	adherence
+adherence	critical for	chronic conditions
+chronic conditions	require	long-term management
+long-term management	prevents	complications
+complications	include	respiratory failure
+respiratory failure	treated with	mechanical ventilation
+mechanical ventilation	supports	oxygenation
+oxygenation	monitored by	pulse oximetry
+pulse oximetry	detects	hypoxemia
+hypoxemia	corrected with	supplemental oxygen
+supplemental oxygen	improves	survival
+survival	depends on	disease severity
+disease severity	assessed by	clinical evaluation
+clinical evaluation	guides	treatment choice

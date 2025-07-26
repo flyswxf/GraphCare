@@ -1,0 +1,100 @@
+nonspecific chest pain	may indicate	myocardial infarction
+nonspecific chest pain	may indicate	angina
+nonspecific chest pain	may indicate	pulmonary embolism
+nonspecific chest pain	may indicate	pneumonia
+nonspecific chest pain	may indicate	GERD
+nonspecific chest pain	may indicate	costochondritis
+nonspecific chest pain	may indicate	panic attack
+nonspecific chest pain	may indicate	pericarditis
+nonspecific chest pain	may indicate	aortic dissection
+nonspecific chest pain	may indicate	pneumothorax
+nonspecific chest pain	may indicate	esophageal spasm
+nonspecific chest pain	may indicate	peptic ulcer
+nonspecific chest pain	may indicate	gallstones
+nonspecific chest pain	may indicate	musculoskeletal injury
+nonspecific chest pain	may indicate	anxiety disorder
+nonspecific chest pain	requires	medical evaluation
+nonspecific chest pain	requires	ECG
+nonspecific chest pain	requires	chest X-ray
+nonspecific chest pain	requires	blood tests
+nonspecific chest pain	requires	cardiac enzymes
+nonspecific chest pain	may require	CT scan
+nonspecific chest pain	may require	stress test
+nonspecific chest pain	may require	echocardiogram
+nonspecific chest pain	may lead to	hospitalization
+nonspecific chest pain	may lead to	cardiac workup
+nonspecific chest pain	may lead to	specialist referral
+nonspecific chest pain	may lead to	anxiety
+nonspecific chest pain	may lead to	unnecessary testing
+nonspecific chest pain	associated with	smoking
+nonspecific chest pain	associated with	hypertension
+nonspecific chest pain	associated with	diabetes
+nonspecific chest pain	associated with	obesity
+nonspecific chest pain	associated with	hyperlipidemia
+nonspecific chest pain	associated with	family history
+nonspecific chest pain	associated with	older age
+nonspecific chest pain	associated with	stress
+nonspecific chest pain	associated with	poor sleep
+nonspecific chest pain	associated with	sedentary lifestyle
+nonspecific chest pain	treated with	analgesics
+nonspecific chest pain	treated with	antacids
+nonspecific chest pain	treated with	anxiolytics
+nonspecific chest pain	treated with	nitroglycerin
+nonspecific chest pain	treated with	proton pump inhibitors
+nonspecific chest pain	treated with	beta blockers
+nonspecific chest pain	treated with	calcium channel blockers
+nonspecific chest pain	treated with	antiplatelet therapy
+nonspecific chest pain	treated with	statins
+nonspecific chest pain	treated with	lifestyle modification
+nonspecific chest pain	differential diagnosis	acute coronary syndrome
+nonspecific chest pain	differential diagnosis	gastroesophageal disease
+nonspecific chest pain	differential diagnosis	pulmonary disorder
+nonspecific chest pain	differential diagnosis	musculoskeletal disorder
+nonspecific chest pain	differential diagnosis	psychological disorder
+nonspecific chest pain	differential diagnosis	thoracic aortic disorder
+nonspecific chest pain	differential diagnosis	infectious disease
+nonspecific chest pain	differential diagnosis	trauma
+nonspecific chest pain	differential diagnosis	malignancy
+nonspecific chest pain	risk factor	tobacco use
+nonspecific chest pain	risk factor	alcohol consumption
+nonspecific chest pain	risk factor	cocaine use
+nonspecific chest pain	risk factor	high cholesterol
+nonspecific chest pain	risk factor	physical inactivity
+nonspecific chest pain	risk factor	poor diet
+nonspecific chest pain	risk factor	chronic stress
+nonspecific chest pain	risk factor	male gender
+nonspecific chest pain	risk factor	postmenopausal status
+nonspecific chest pain	risk factor	chronic kidney disease
+nonspecific chest pain	risk factor	obstructive sleep apnea
+nonspecific chest pain	risk factor	rheumatoid arthritis
+nonspecific chest pain	risk factor	HIV infection
+nonspecific chest pain	causes concern for	life-threatening condition
+nonspecific chest pain	causes concern for	cardiovascular emergency
+nonspecific chest pain	causes concern for	pulmonary emergency
+nonspecific chest pain	causes concern for	missed diagnosis
+nonspecific chest pain	causes concern for	malpractice claim
+nonspecific chest pain	causes concern for	patient anxiety
+nonspecific chest pain	causes concern for	unnecessary intervention
+nonspecific chest pain	causes concern for	increased healthcare costs
+nonspecific chest pain	leads to	repeat visits
+nonspecific chest pain	leads to	diagnostic uncertainty
+nonspecific chest pain	leads to	provider frustration
+nonspecific chest pain	leads to	patient dissatisfaction
+nonspecific chest pain	leads to	polypharmacy
+nonspecific chest pain	leads to	medication side effects
+nonspecific chest pain	leads to	work absenteeism
+nonspecific chest pain	leads to	quality of life reduction
+nonspecific chest pain	managed by	primary care physician
+nonspecific chest pain	managed by	cardiologist
+nonspecific chest pain	managed by	gastroenterologist
+nonspecific chest pain	managed by	pulmonologist
+nonspecific chest pain	managed by	emergency physician
+nonspecific chest pain	managed by	psychiatrist
+nonspecific chest pain	managed by	pain specialist
+nonspecific chest pain	managed by	physical therapist
+nonspecific chest pain	follow-up includes	symptom diary
+nonspecific chest pain	follow-up includes	periodic reassessment
+nonspecific chest pain	follow-up includes	risk factor modification
+nonspecific chest pain	follow-up includes	medication review
+nonspecific chest pain	follow-up includes	patient education
+nonspecific chest pain	prognosis depends on	underlying cause

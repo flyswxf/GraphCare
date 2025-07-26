@@ -1,0 +1,100 @@
+intracranial injury	is a	head trauma
+intracranial injury	may cause	brain swelling
+intracranial injury	may lead to	increased intracranial pressure
+intracranial injury	can result in	coma
+intracranial injury	is diagnosed with	CT scan
+intracranial injury	is treated with	neurosurgery
+intracranial injury	requires	hospitalization
+intracranial injury	may cause	seizures
+intracranial injury	can lead to	cognitive impairment
+intracranial injury	is associated with	skull fracture
+intracranial injury	may result in	hemorrhage
+intracranial injury	can cause	motor dysfunction
+intracranial injury	is monitored with	intracranial pressure monitor
+intracranial injury	may require	mechanical ventilation
+intracranial injury	is a risk factor for	stroke
+intracranial injury	can lead to	memory loss
+intracranial injury	is evaluated with	Glasgow Coma Scale
+intracranial injury	may cause	speech impairment
+intracranial injury	is treated with	mannitol
+intracranial injury	can result in	hydrocephalus
+intracranial injury	may require	craniotomy
+intracranial injury	is associated with	concussion
+intracranial injury	can cause	vision problems
+intracranial injury	may lead to	personality changes
+intracranial injury	is treated with	hypertonic saline
+intracranial injury	can result in	brain herniation
+intracranial injury	may require	intracranial catheter
+intracranial injury	is a cause of	disability
+intracranial injury	can lead to	chronic pain
+intracranial injury	is diagnosed with	MRI
+intracranial injury	may cause	balance issues
+intracranial injury	is treated with	anticonvulsants
+intracranial injury	can result in	paralysis
+intracranial injury	may lead to	depression
+intracranial injury	is managed with	sedation
+intracranial injury	can cause	sensory loss
+intracranial injury	is associated with	subdural hematoma
+intracranial injury	may require	decompressive surgery
+intracranial injury	can lead to	autonomic dysfunction
+intracranial injury	is treated with	corticosteroids
+intracranial injury	may cause	hearing loss
+intracranial injury	can result in	post-traumatic epilepsy
+intracranial injury	is diagnosed with	X-ray
+intracranial injury	may lead to	sleep disorders
+intracranial injury	is treated with	pain medication
+intracranial injury	can cause	dizziness
+intracranial injury	is associated with	epidural hematoma
+intracranial injury	may require	ICP monitoring
+intracranial injury	can lead to	mood swings
+intracranial injury	is treated with	diuretics
+intracranial injury	may cause	fatigue
+intracranial injury	can result in	attention deficits
+intracranial injury	is diagnosed with	angiography
+intracranial injury	may lead to	anxiety
+intracranial injury	is treated with	barbiturates
+intracranial injury	can cause	nausea
+intracranial injury	is associated with	cerebral contusion
+intracranial injury	may require	ventilator support
+intracranial injury	can lead to	irritability
+intracranial injury	is treated with	anti-inflammatory drugs
+intracranial injury	may cause	vomiting
+intracranial injury	can result in	executive dysfunction
+intracranial injury	is diagnosed with	EEG
+intracranial injury	may lead to	PTSD
+intracranial injury	is treated with	anticoagulants
+intracranial injury	can cause	headache
+intracranial injury	is associated with	diffuse axonal injury
+intracranial injury	may require	tracheostomy
+intracranial injury	can lead to	impulsivity
+intracranial injury	is treated with	vasopressors
+intracranial injury	may cause	confusion
+intracranial injury	can result in	language deficits
+intracranial injury	is diagnosed with	PET scan
+intracranial injury	may lead to	social withdrawal
+intracranial injury	is treated with	osmotic therapy
+intracranial injury	can cause	photophobia
+intracranial injury	is associated with	subarachnoid hemorrhage
+intracranial injury	may require	feeding tube
+intracranial injury	can lead to	apathy
+intracranial injury	is treated with	neuroprotective agents
+intracranial injury	may cause	tinnitus
+intracranial injury	can result in	spatial disorientation
+intracranial injury	is diagnosed with	ultrasound
+intracranial injury	may lead to	substance abuse
+intracranial injury	is treated with	hypothermia therapy
+intracranial injury	can cause	anosmia
+intracranial injury	is associated with	intraventricular hemorrhage
+intracranial injury	may require	CSF drainage
+intracranial injury	can lead to	emotional lability
+intracranial injury	is treated with	NMDA antagonists
+intracranial injury	may cause	diplopia
+intracranial injury	can result in	processing speed deficits
+intracranial injury	is diagnosed with	lumbar puncture
+intracranial injury	may lead to	aggression
+intracranial injury	is treated with	beta blockers
+intracranial injury	can cause	dysphagia
+intracranial injury	is associated with	coup-contrecoup injury
+intracranial injury	may require	rehabilitation
+intracranial injury	can lead to	anosognosia
+intracranial injury	is treated with	calcium channel blockers

@@ -1,0 +1,100 @@
+non-imaging nuclear medicine probe or assay	is a	diagnostic tool
+non-imaging nuclear medicine probe or assay	detects	biochemical changes
+non-imaging nuclear medicine probe or assay	measures	metabolic activity
+non-imaging nuclear medicine probe or assay	used for	disease diagnosis
+non-imaging nuclear medicine probe or assay	evaluates	organ function
+non-imaging nuclear medicine probe or assay	involves	radiotracers
+non-imaging nuclear medicine probe or assay	assesses	receptor binding
+non-imaging nuclear medicine probe or assay	monitors	drug effects
+non-imaging nuclear medicine probe or assay	identifies	molecular targets
+non-imaging nuclear medicine probe or assay	differentiates	benign vs malignant
+non-imaging nuclear medicine probe or assay	correlates with	disease progression
+non-imaging nuclear medicine probe or assay	predicts	treatment response
+non-imaging nuclear medicine probe or assay	guides	therapy decisions
+non-imaging nuclear medicine probe or assay	complements	imaging techniques
+non-imaging nuclear medicine probe or assay	requires	specialized equipment
+non-imaging nuclear medicine probe or assay	analyzes	biological samples
+non-imaging nuclear medicine probe or assay	detects	enzyme activity
+non-imaging nuclear medicine probe or assay	quantifies	biomarkers
+non-imaging nuclear medicine probe or assay	studies	pharmacokinetics
+non-imaging nuclear medicine probe or assay	evaluates	drug-receptor interactions
+non-imaging nuclear medicine probe or assay	measures	blood flow
+non-imaging nuclear medicine probe or assay	assesses	tissue viability
+non-imaging nuclear medicine probe or assay	detects	infection
+non-imaging nuclear medicine probe or assay	identifies	inflammation
+non-imaging nuclear medicine probe or assay	differentiates	tumor types
+non-imaging nuclear medicine probe or assay	monitors	therapeutic efficacy
+non-imaging nuclear medicine probe or assay	predicts	patient outcomes
+non-imaging nuclear medicine probe or assay	aids	early diagnosis
+non-imaging nuclear medicine probe or assay	supports	personalized medicine
+non-imaging nuclear medicine probe or assay	requires	radioactive labeling
+non-imaging nuclear medicine probe or assay	analyzes	body fluids
+non-imaging nuclear medicine probe or assay	detects	genetic mutations
+non-imaging nuclear medicine probe or assay	evaluates	immune response
+non-imaging nuclear medicine probe or assay	measures	cell proliferation
+non-imaging nuclear medicine probe or assay	studies	drug metabolism
+non-imaging nuclear medicine probe or assay	assesses	angiogenesis
+non-imaging nuclear medicine probe or assay	detects	hypoxia
+non-imaging nuclear medicine probe or assay	identifies	apoptosis
+non-imaging nuclear medicine probe or assay	differentiates	active vs inactive disease
+non-imaging nuclear medicine probe or assay	monitors	recurrence
+non-imaging nuclear medicine probe or assay	predicts	survival rates
+non-imaging nuclear medicine probe or assay	guides	surgical planning
+non-imaging nuclear medicine probe or assay	complements	pathology
+non-imaging nuclear medicine probe or assay	requires	strict protocols
+non-imaging nuclear medicine probe or assay	analyzes	protein expression
+non-imaging nuclear medicine probe or assay	detects	circulating tumor cells
+non-imaging nuclear medicine probe or assay	evaluates	mitochondrial function
+non-imaging nuclear medicine probe or assay	measures	neurotransmitter levels
+non-imaging nuclear medicine probe or assay	studies	hormone activity
+non-imaging nuclear medicine probe or assay	assesses	oxidative stress
+non-imaging nuclear medicine probe or assay	detects	viral load
+non-imaging nuclear medicine probe or assay	identifies	bacterial infections
+non-imaging nuclear medicine probe or assay	differentiates	viral vs bacterial
+non-imaging nuclear medicine probe or assay	monitors	treatment adherence
+non-imaging nuclear medicine probe or assay	predicts	complications
+non-imaging nuclear medicine probe or assay	guides	radiation therapy
+non-imaging nuclear medicine probe or assay	complements	genomic testing
+non-imaging nuclear medicine probe or assay	requires	trained personnel
+non-imaging nuclear medicine probe or assay	analyzes	drug concentrations
+non-imaging nuclear medicine probe or assay	detects	resistant strains
+non-imaging nuclear medicine probe or assay	evaluates	bone metabolism
+non-imaging nuclear medicine probe or assay	measures	oxygen consumption
+non-imaging nuclear medicine probe or assay	studies	drug toxicity
+non-imaging nuclear medicine probe or assay	assesses	cardiac function
+non-imaging nuclear medicine probe or assay	detects	amyloid plaques
+non-imaging nuclear medicine probe or assay	identifies	neurodegenerative markers
+non-imaging nuclear medicine probe or assay	differentiates	dementia types
+non-imaging nuclear medicine probe or assay	monitors	disease remission
+non-imaging nuclear medicine probe or assay	predicts	transplant rejection
+non-imaging nuclear medicine probe or assay	guides	chemotherapy
+non-imaging nuclear medicine probe or assay	complements	immunohistochemistry
+non-imaging nuclear medicine probe or assay	requires	quality control
+non-imaging nuclear medicine probe or assay	analyzes	metabolic pathways
+non-imaging nuclear medicine probe or assay	detects	drug interactions
+non-imaging nuclear medicine probe or assay	evaluates	liver function
+non-imaging nuclear medicine probe or assay	measures	kidney filtration
+non-imaging nuclear medicine probe or assay	studies	endocrine disorders
+non-imaging nuclear medicine probe or assay	assesses	pulmonary function
+non-imaging nuclear medicine probe or assay	detects	myocardial ischemia
+non-imaging nuclear medicine probe or assay	identifies	arrhythmias
+non-imaging nuclear medicine probe or assay	differentiates	seizure types
+non-imaging nuclear medicine probe or assay	monitors	anticoagulant therapy
+non-imaging nuclear medicine probe or assay	predicts	bleeding risk
+non-imaging nuclear medicine probe or assay	guides	immunotherapy
+non-imaging nuclear medicine probe or assay	complements	flow cytometry
+non-imaging nuclear medicine probe or assay	requires	regulatory approval
+non-imaging nuclear medicine probe or assay	analyzes	tumor heterogeneity
+non-imaging nuclear medicine probe or assay	detects	minimal residual disease
+non-imaging nuclear medicine probe or assay	evaluates	stem cell activity
+non-imaging nuclear medicine probe or assay	measures	cytokine levels
+non-imaging nuclear medicine probe or assay	studies	autoimmune diseases
+non-imaging nuclear medicine probe or assay	assesses	graft viability
+non-imaging nuclear medicine probe or assay	detects	vascular inflammation
+non-imaging nuclear medicine probe or assay	identifies	thrombosis
+non-imaging nuclear medicine probe or assay	differentiates	acute vs chronic
+non-imaging nuclear medicine probe or assay	monitors	vaccine response
+non-imaging nuclear medicine probe or assay	predicts	infection risk
+non-imaging nuclear medicine probe or assay	guides	antibiotic selection
+non-imaging nuclear medicine probe or assay	complements	PCR testing
+non-imaging nuclear medicine probe or assay	requires	patient preparation

@@ -1,0 +1,100 @@
+endoscopy	is a	medical procedure
+endoscopic biopsy	is a type of	endoscopy
+endoscopy	used for	diagnosis
+endoscopic biopsy	used for	tissue sampling
+urinary tract endoscopy	is a type of	endoscopy
+cystoscopy	is a type of	urinary tract endoscopy
+ureteroscopy	is a type of	urinary tract endoscopy
+cystoscopy	examines	bladder
+ureteroscopy	examines	ureter
+endoscopic biopsy	can detect	tumors
+endoscopic biopsy	can detect	infections
+endoscopic biopsy	can detect	inflammation
+urinary tract endoscopy	requires	anesthesia
+urinary tract endoscopy	may cause	bleeding
+urinary tract endoscopy	may cause	infection
+cystoscopy	uses	cystoscope
+ureteroscopy	uses	ureteroscope
+urinary tract endoscopy	assists in	stone removal
+urinary tract endoscopy	assists in	stent placement
+endoscopic biopsy	confirms	cancer
+cystoscopy	diagnoses	bladder cancer
+ureteroscopy	diagnoses	kidney stones
+urinary tract endoscopy	requires	sterile technique
+endoscopic biopsy	requires	pathology analysis
+urinary tract endoscopy	performed by	urologist
+cystoscopy	evaluates	hematuria
+ureteroscopy	evaluates	ureteral obstruction
+endoscopic biopsy	guides	treatment plan
+urinary tract endoscopy	contraindicated in	severe UTI
+endoscopic biopsy	may require	follow-up procedure
+cystoscopy	detects	polyps
+ureteroscopy	detects	strictures
+urinary tract endoscopy	involves	contrast imaging
+endoscopic biopsy	classifies	tumor grade
+cystoscopy	monitors	bladder tumors
+ureteroscopy	removes	small stones
+endoscopic biopsy	differentiates	benign and malignant lesions
+urinary tract endoscopy	assesses	urinary obstruction
+cystoscopy	screens for	bladder abnormalities
+ureteroscopy	treats	ureteropelvic junction obstruction
+endoscopic biopsy	confirms	interstitial cystitis
+urinary tract endoscopy	evaluates	fistula
+cystoscopy	diagnoses	urethral stricture
+ureteroscopy	diagnoses	ureteral tumors
+endoscopic biopsy	aids in	immunotherapy eligibility
+urinary tract endoscopy	contraindicated in	pregnancy
+cystoscopy	requires	preoperative antibiotics
+ureteroscopy	requires	fluoroscopy
+endoscopic biopsy	correlates with	prognosis
+urinary tract endoscopy	improves	diagnostic accuracy
+cystoscopy	detects	diverticula
+ureteroscopy	treats	ureteral strictures
+endoscopic biopsy	confirms	tuberculosis
+urinary tract endoscopy	evaluates	post-surgical complications
+cystoscopy	assists in	Botox injection
+ureteroscopy	assists in	laser lithotripsy
+endoscopic biopsy	detects	squamous metaplasia
+urinary tract endoscopy	contraindicated in	coagulopathy
+cystoscopy	diagnoses	cystitis
+ureteroscopy	diagnoses	pyelonephritis
+endoscopic biopsy	supports	clinical trials
+urinary tract endoscopy	reduces	invasive surgery need
+cystoscopy	evaluates	neurogenic bladder
+ureteroscopy	evaluates	ureterocele
+endoscopic biopsy	aids in	targeted therapy
+urinary tract endoscopy	may require	hospitalization
+cystoscopy	checks	ureteral orifice
+ureteroscopy	checks	renal pelvis
+endoscopic biopsy	assesses	treatment response
+urinary tract endoscopy	contraindicated in	contrast allergy
+cystoscopy	detects	bladder stones
+ureteroscopy	detects	upper tract abnormalities
+endoscopic biopsy	predicts	recurrence risk
+urinary tract endoscopy	improves	patient outcomes
+cystoscopy	differentiates	overactive bladder
+ureteroscopy	differentiates	extrinsic compression
+endoscopic biopsy	confirms	amyloidosis
+urinary tract endoscopy	contraindicated in	unstable patients
+cystoscopy	assesses	post-TURBT status
+ureteroscopy	assesses	post-kidney transplant
+endoscopic biopsy	classifies	histological subtype
+urinary tract endoscopy	reduces	misdiagnosis
+cystoscopy	detects	foreign bodies
+ureteroscopy	detects	urothelial thickening
+endoscopic biopsy	supports	precision medicine
+urinary tract endoscopy	contraindicated in	urethral injury
+cystoscopy	evaluates	vesicoureteral reflux
+ureteroscopy	evaluates	duplicated ureter
+endoscopic biopsy	correlates with	survival rate
+urinary tract endoscopy	requires	informed consent
+cystoscopy	detects	bladder neck obstruction
+ureteroscopy	detects	calyceal diverticulum
+endoscopic biopsy	confirms	schistosomiasis
+urinary tract endoscopy	contraindicated in	recent radiation
+cystoscopy	monitors	intravesical therapy
+ureteroscopy	monitors	ureteral stent
+endoscopic biopsy	predicts	chemotherapy response
+urinary tract endoscopy	reduces	unnecessary surgery
+cystoscopy	detects	urethral caruncle
+ureteroscopy	detects	renal papillary necrosis

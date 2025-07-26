@@ -1,0 +1,100 @@
+syncope	is a	symptom
+syncope	may cause	falls
+syncope	may lead to	injury
+syncope	is caused by	hypotension
+syncope	is associated with	dehydration
+syncope	may indicate	arrhythmia
+syncope	is evaluated by	ECG
+syncope	is related to	vasovagal response
+syncope	may result from	blood loss
+syncope	is managed with	fluid intake
+syncope	is linked to	heart disease
+syncope	may require	hospitalization
+syncope	is differentiated from	seizure
+syncope	is common in	elderly
+syncope	is triggered by	stress
+syncope	may follow	coughing
+syncope	is assessed with	tilt test
+syncope	is associated with	diabetes
+syncope	may accompany	anemia
+syncope	is prevented by	salt intake
+syncope	is influenced by	medication
+syncope	is worsened by	heat
+syncope	is documented in	medical history
+syncope	is reported to	physician
+syncope	is monitored with	blood pressure
+syncope	is treated with	midodrine
+syncope	is a risk for	accidents
+syncope	is reduced by	compression stockings
+syncope	is studied in	neurology
+syncope	is explained by	cerebral hypoperfusion
+syncope	is classified as	reflex
+syncope	is subtyped into	cardiogenic
+syncope	is differentiated by	duration
+syncope	is preceded by	dizziness
+syncope	is followed by	confusion
+syncope	is associated with	Parkinson’s disease
+syncope	is evaluated with	Holter monitor
+syncope	is correlated with	bradycardia
+syncope	is managed by	cardiologist
+syncope	is a concern in	pregnancy
+syncope	is exacerbated by	standing
+syncope	is linked to	autonomic dysfunction
+syncope	is prevented with	lifestyle changes
+syncope	is a reason for	driver restriction
+syncope	is investigated with	echocardiogram
+syncope	is related to	carotid sinus
+syncope	is influenced by	caffeine
+syncope	is addressed by	patient education
+syncope	is reported in	emergency department
+syncope	is distinguished from	vertigo
+syncope	is associated with	electrolyte imbalance
+syncope	is worsened by	alcohol
+syncope	is a sign of	pulmonary embolism
+syncope	is evaluated by	stress test
+syncope	is linked to	aortic stenosis
+syncope	is managed with	fludrocortisone
+syncope	is prevented by	hydration
+syncope	is correlated with	orthostatic hypotension
+syncope	is treated with	pacemaker
+syncope	is studied with	electroencephalogram
+syncope	is differentiated from	stroke
+syncope	is associated with	hypoglycemia
+syncope	is influenced by	beta blockers
+syncope	is addressed in	clinical guidelines
+syncope	is reported in	medical literature
+syncope	is prevented by	avoiding triggers
+syncope	is evaluated with	blood tests
+syncope	is linked to	mitral valve prolapse
+syncope	is managed by	neurologist
+syncope	is treated with	intravenous fluids
+syncope	is associated with	anxiety
+syncope	is a risk factor for	fractures
+syncope	is related to	vasodilation
+syncope	is influenced by	diuretics
+syncope	is addressed with	salt tablets
+syncope	is documented in	electronic records
+syncope	is reported by	eyewitnesses
+syncope	is evaluated with	MRI
+syncope	is linked to	long QT syndrome
+syncope	is managed with	physical counterpressure
+syncope	is treated with	epinephrine
+syncope	is associated with	hyperventilation
+syncope	is prevented by	slow position changes
+syncope	is evaluated with	CT scan
+syncope	is linked to	subclavian steal
+syncope	is managed with	beta agonists
+syncope	is treated with	atropine
+syncope	is associated with	migraine
+syncope	is influenced by	antidepressants
+syncope	is addressed with	biofeedback
+syncope	is reported in	clinical trials
+syncope	is evaluated with	event recorder
+syncope	is linked to	hypertrophic cardiomyopathy
+syncope	is managed with	dietary changes
+syncope	is treated with	isoproterenol
+syncope	is associated with	sepsis
+syncope	is prevented by	regular meals
+syncope	is evaluated with	carotid massage
+syncope	is linked to	pheochromocytoma
+syncope	is managed with	reassurance

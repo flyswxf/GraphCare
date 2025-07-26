@@ -1,0 +1,100 @@
+gastroduodenal ulcer	is a	peptic ulcer
+gastroduodenal ulcer	occurs in	stomach
+gastroduodenal ulcer	occurs in	duodenum
+gastroduodenal ulcer	caused by	H. pylori infection
+gastroduodenal ulcer	caused by	NSAID use
+gastroduodenal ulcer	caused by	excessive acid production
+gastroduodenal ulcer	causes	epigastric pain
+gastroduodenal ulcer	causes	bloating
+gastroduodenal ulcer	causes	nausea
+gastroduodenal ulcer	may lead to	perforation
+gastroduodenal ulcer	may lead to	obstruction
+gastroduodenal ulcer	diagnosed by	endoscopy
+gastroduodenal ulcer	diagnosed by	barium study
+gastroduodenal ulcer	treated with	proton pump inhibitors
+gastroduodenal ulcer	treated with	H2 blockers
+gastroduodenal ulcer	treated with	antibiotics
+gastroduodenal ulcer	requires	antacid therapy
+gastroduodenal ulcer	managed by	lifestyle changes
+gastroduodenal ulcer	associated with	smoking
+gastroduodenal ulcer	associated with	alcohol use
+gastroduodenal ulcer	associated with	stress
+gastroduodenal ulcer	prevented by	H. pylori eradication
+gastroduodenal ulcer	prevented by	NSAID avoidance
+proton pump inhibitor	reduces	gastric acid
+H2 blocker	reduces	gastric acid
+H. pylori	detected by	urea breath test
+H. pylori	detected by	stool antigen test
+H. pylori	treated with	clarithromycin
+H. pylori	treated with	amoxicillin
+H. pylori	treated with	metronidazole
+omeprazole	is a	proton pump inhibitor
+ranitidine	is a	H2 blocker
+endoscopy	visualizes	ulcer crater
+endoscopy	allows for	biopsy
+barium study	shows	ulcer niche
+epigastric pain	worsens with	fasting
+epigastric pain	relieved by	food
+perforation	causes	peritonitis
+perforation	requires	surgery
+obstruction	causes	vomiting
+obstruction	requires	nasogastric tube
+misoprostol	prevents	NSAID ulcers
+sucralfate	protects	gastric mucosa
+gastroduodenal ulcer	increases risk of	gastric cancer
+chronic gastritis	precedes	gastroduodenal ulcer
+Zollinger-Ellison syndrome	causes	refractory ulcers
+gastrinoma	causes	Zollinger-Ellison syndrome
+gastrin	stimulates	acid secretion
+parietal cells	produce	gastric acid
+chief cells	produce	pepsinogen
+pepsinogen	converts to	pepsin
+pepsin	digests	proteins
+mucous layer	protects	stomach lining
+prostaglandins	maintain	mucosal integrity
+NSAIDs	inhibit	prostaglandins
+COX-1	produces	protective prostaglandins
+COX-2	produces	inflammatory prostaglandins
+selective COX-2 inhibitors	spare	COX-1
+celecoxib	is a	COX-2 inhibitor
+gastroduodenal ulcer	contraindicates	anticoagulants
+gastroduodenal ulcer	requires	smoking cessation
+gastroduodenal ulcer	improves with	stress reduction
+gastroduodenal ulcer	monitored by	repeat endoscopy
+healing	confirmed by	endoscopic evaluation
+refractory ulcer	suggests	malignancy
+biopsy	rules out	cancer
+gastric ulcer	has higher	cancer risk
+duodenal ulcer	rarely becomes	malignant
+gastroduodenal ulcer	associated with	blood type O
+gastroduodenal ulcer	associated with	familial tendency
+gastroduodenal ulcer	uncommon in	children
+elderly	have higher	complication rates
+corticosteroids	increase	ulcer risk
+bisphosphonates	increase	ulcer risk
+iron supplements	may aggravate	ulcers
+potassium supplements	may aggravate	ulcers
+gastroduodenal ulcer	causes	iron deficiency anemia
+chronic blood loss	leads to	anemia
+hematemesis	indicates	bleeding ulcer
+melena	indicates	bleeding ulcer
+hemoglobin drop	suggests	ulcer bleeding
+blood transfusion	needed for	severe bleeding
+endoscopic therapy	controls	bleeding
+epinephrine injection	stops	ulcer bleeding
+hemoclip	closes	bleeding vessel
+thermal coagulation	stops	bleeding
+angiography	locates	bleeding source
+embolization	controls	refractory bleeding
+surgery	required for	uncontrolled bleeding
+vagotomy	reduces	acid secretion
+pyloroplasty	improves	gastric emptying
+antrectomy	removes	gastrin-producing cells
+Billroth I	reconstructs	GI continuity
+Billroth II	reconstructs	GI continuity
+gastroduodenal ulcer	recurrence prevented by	maintenance therapy
+nocturnal acid breakthrough	requires	adjusted dosing
+gastroduodenal ulcer	associated with	COPD
+gastroduodenal ulcer	associated with	cirrhosis
+gastroduodenal ulcer	associated with	renal failure
+gastroduodenal ulcer	monitored by	symptom assessment

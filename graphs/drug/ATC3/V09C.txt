@@ -1,0 +1,100 @@
+renal system diagnostic radiopharmaceuticals	is a	diagnostic agent
+renal system diagnostic radiopharmaceuticals	used for	kidney imaging
+renal system diagnostic radiopharmaceuticals	contains	radionuclides
+renal system diagnostic radiopharmaceuticals	evaluates	glomerular filtration rate
+renal system diagnostic radiopharmaceuticals	assesses	renal blood flow
+renal system diagnostic radiopharmaceuticals	detects	kidney dysfunction
+renal system diagnostic radiopharmaceuticals	helps diagnose	renal artery stenosis
+renal system diagnostic radiopharmaceuticals	measures	renal function
+renal system diagnostic radiopharmaceuticals	requires	gamma camera
+renal system diagnostic radiopharmaceuticals	involves	nuclear medicine
+renal system diagnostic radiopharmaceuticals	uses	technetium-99m
+technetium-99m	is a	radioisotope
+technetium-99m	has	short half-life
+renal system diagnostic radiopharmaceuticals	includes	DTPA
+DTPA	is a	chelating agent
+DTPA	binds	technetium-99m
+DTPA	used in	renal scintigraphy
+renal scintigraphy	is a	imaging technique
+renal scintigraphy	visualizes	kidney structure
+renal scintigraphy	detects	urinary obstruction
+urinary obstruction	can cause	hydronephrosis
+hydronephrosis	involves	kidney swelling
+hydronephrosis	caused by	kidney stones
+kidney stones	are	mineral deposits
+kidney stones	cause	severe pain
+renal system diagnostic radiopharmaceuticals	helps evaluate	renal transplants
+renal transplants	require	donor kidneys
+donor kidneys	must match	recipient blood type
+renal system diagnostic radiopharmaceuticals	monitors	post-transplant function
+post-transplant function	indicates	graft survival
+graft survival	depends on	immunosuppression
+immunosuppression	prevents	organ rejection
+organ rejection	involves	immune response
+immune response	attacks	foreign tissue
+renal system diagnostic radiopharmaceuticals	detects	renal tumors
+renal tumors	can be	malignant
+malignant tumors	may require	nephrectomy
+nephrectomy	is a	kidney removal
+nephrectomy	performed for	cancer treatment
+renal system diagnostic radiopharmaceuticals	assesses	renal cortical function
+renal cortical function	reflects	nephron health
+nephrons	are	kidney functional units
+nephrons	filter	blood
+blood filtration	produces	urine
+urine	contains	waste products
+renal system diagnostic radiopharmaceuticals	evaluates	renal perfusion
+renal perfusion	depends on	blood pressure
+blood pressure	regulated by	renin-angiotensin system
+renin-angiotensin system	affects	sodium balance
+sodium balance	influences	fluid retention
+renal system diagnostic radiopharmaceuticals	uses	MAG3
+MAG3	is a	radiopharmaceutical compound
+MAG3	excreted by	renal tubules
+renal tubules	are part of	nephron
+MAG3	preferred for	pediatric patients
+pediatric patients	have	smaller kidneys
+smaller kidneys	require	lower doses
+renal system diagnostic radiopharmaceuticals	contraindicated in	pregnancy
+pregnancy	involves	fetal development
+fetal development	sensitive to	radiation
+radiation	can cause	birth defects
+renal system diagnostic radiopharmaceuticals	requires	patient preparation
+patient preparation	includes	hydration
+hydration	improves	image quality
+image quality	affects	diagnostic accuracy
+renal system diagnostic radiopharmaceuticals	compares	kidney function
+kidney function	measured by	clearance rates
+clearance rates	indicate	filtration efficiency
+filtration efficiency	reduced in	chronic kidney disease
+chronic kidney disease	leads to	renal failure
+renal failure	requires	dialysis
+dialysis	replaces	kidney function
+renal system diagnostic radiopharmaceuticals	helps plan	surgical interventions
+surgical interventions	aim to	preserve kidney function
+preserve kidney function	prevents	dialysis need
+renal system diagnostic radiopharmaceuticals	detects	vesicoureteral reflux
+vesicoureteral reflux	involves	urine backflow
+urine backflow	causes	urinary infections
+urinary infections	treated with	antibiotics
+antibiotics	kill	bacteria
+bacteria	cause	inflammation
+inflammation	leads to	scarring
+scarring	damages	kidney tissue
+renal system diagnostic radiopharmaceuticals	monitors	treatment response
+treatment response	evaluated by	imaging changes
+imaging changes	reflect	disease progression
+disease progression	may require	therapy adjustment
+therapy adjustment	involves	dose modification
+dose modification	based on	patient weight
+patient weight	affects	drug distribution
+renal system diagnostic radiopharmaceuticals	uses	DMSA
+DMSA	binds to	renal cortex
+renal cortex	contains	glomeruli
+glomeruli	filter	plasma
+plasma	contains	proteins
+proteins	maintain	osmotic pressure
+osmotic pressure	regulates	fluid balance
+fluid balance	essential for	homeostasis
+homeostasis	maintains	body functions
+body functions	depend on	kidney health

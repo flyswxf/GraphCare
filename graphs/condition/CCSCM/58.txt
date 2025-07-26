@@ -1,0 +1,100 @@
+malnutrition	is a	nutritional disorder
+vitamin deficiency	is a	nutritional disorder
+obesity	is a	metabolic disorder
+diabetes mellitus	is a	metabolic disorder
+hypothyroidism	is an	endocrine disorder
+hyperthyroidism	is an	endocrine disorder
+iron deficiency	is a	nutritional disorder
+metabolic syndrome	is a	metabolic disorder
+gout	is a	metabolic disorder
+Cushing's syndrome	is an	endocrine disorder
+Addison's disease	is an	endocrine disorder
+rickets	is a	nutritional disorder
+osteoporosis	is related to	calcium deficiency
+phenylketonuria	is a	metabolic disorder
+hypoglycemia	is a	metabolic disorder
+hyperglycemia	is a	metabolic disorder
+goiter	is caused by	iodine deficiency
+ketoacidosis	is a complication of	diabetes mellitus
+insulin resistance	is related to	metabolic syndrome
+hyperlipidemia	is a	metabolic disorder
+hypocalcemia	is a	metabolic disorder
+hypercalcemia	is a	metabolic disorder
+beriberi	is caused by	thiamine deficiency
+scurvy	is caused by	vitamin C deficiency
+pellagra	is caused by	niacin deficiency
+anemia	is related to	iron deficiency
+parathyroid disorders	are	endocrine disorders
+acromegaly	is an	endocrine disorder
+growth hormone deficiency	is an	endocrine disorder
+adrenal insufficiency	is an	endocrine disorder
+thyroid cancer	is a complication of	thyroid disorders
+diabetes insipidus	is an	endocrine disorder
+polycystic ovary syndrome	is related to	insulin resistance
+galactosemia	is a	metabolic disorder
+homocystinuria	is a	metabolic disorder
+maple syrup urine disease	is a	metabolic disorder
+fatty liver disease	is associated with	metabolic syndrome
+Wilson's disease	is a	metabolic disorder
+hemochromatosis	is a	metabolic disorder
+hyperparathyroidism	is an	endocrine disorder
+hypoparathyroidism	is an	endocrine disorder
+dehydration	is a complication of	diabetes insipidus
+hypomagnesemia	is a	metabolic disorder
+hypermagnesemia	is a	metabolic disorder
+hypernatremia	is a	metabolic disorder
+hyponatremia	is a	metabolic disorder
+hyperkalemia	is a	metabolic disorder
+hypokalemia	is a	metabolic disorder
+osteomalacia	is caused by	vitamin D deficiency
+kwashiorkor	is a	protein-energy malnutrition
+marasmus	is a	protein-energy malnutrition
+cachexia	is associated with	chronic illness
+hypervitaminosis A	is a	nutritional disorder
+hypervitaminosis D	is a	nutritional disorder
+hypervitaminosis E	is a	nutritional disorder
+hypervitaminosis K	is a	nutritional disorder
+hypophosphatemia	is a	metabolic disorder
+hyperphosphatemia	is a	metabolic disorder
+celiac disease	is related to	malabsorption
+lactose intolerance	is related to	malabsorption
+short bowel syndrome	is related to	malabsorption
+insulin	treats	diabetes mellitus
+metformin	treats	type 2 diabetes
+levothyroxine	treats	hypothyroidism
+methimazole	treats	hyperthyroidism
+hydrocortisone	treats	adrenal insufficiency
+calcium supplements	treat	hypocalcemia
+vitamin D supplements	treat	vitamin D deficiency
+iron supplements	treat	iron deficiency
+folic acid	treats	folate deficiency
+thyroidectomy	is a treatment for	hyperthyroidism
+bariatric surgery	treats	obesity
+dietary modifications	manage	metabolic disorders
+exercise	improves	insulin sensitivity
+weight loss	reduces	metabolic syndrome risk
+glucose monitoring	is used in	diabetes management
+HbA1c test	measures	long-term glucose control
+thyroid function tests	diagnose	thyroid disorders
+cortisol test	diagnoses	adrenal disorders
+bone density scan	assesses	osteoporosis risk
+liver function tests	assess	metabolic disorders
+lipid profile	assesses	cardiovascular risk
+electrolyte panel	detects	metabolic imbalances
+fasting blood sugar	diagnoses	diabetes
+oral glucose tolerance test	diagnoses	diabetes
+ketones	indicate	diabetic ketoacidosis
+autoantibodies	are markers of	autoimmune endocrine disorders
+parathyroid hormone test	diagnoses	parathyroid disorders
+growth hormone test	diagnoses	growth disorders
+prolactin test	diagnoses	pituitary disorders
+aldosterone test	diagnoses	adrenal disorders
+pituitary MRI	detects	pituitary tumors
+thyroid ultrasound	assesses	thyroid nodules
+adrenal CT scan	detects	adrenal tumors
+bone scan	detects	metabolic bone disease
+genetic testing	diagnoses	inherited metabolic disorders
+dietitian	provides guidance for	nutritional disorders
+endocrinologist	specializes in	endocrine disorders
+metabolic specialist	manages	metabolic disorders
+nutritional counseling	supports	dietary management

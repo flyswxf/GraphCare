@@ -1,0 +1,100 @@
+immunostimulants	are	drugs
+immunostimulants	stimulate	immune system
+immunostimulants	treat	infections
+immunostimulants	used for	cancer immunotherapy
+immunostimulants	may cause	fever
+immunostimulants	interact with	immunosuppressants
+immunostimulants	enhance	vaccine response
+immunostimulants	include	interferons
+interferons	are	cytokines
+immunostimulants	include	interleukins
+immunostimulants	include	colony-stimulating factors
+colony-stimulating factors	stimulate	white blood cell production
+immunostimulants	used in	HIV therapy
+immunostimulants	may cause	fatigue
+immunostimulants	may cause	muscle pain
+immunostimulants	prescribed for	chronic hepatitis
+immunostimulants	can	reduce viral load
+immunostimulants	may increase	antibody production
+immunostimulants	used in	autoimmune diseases
+immunostimulants	can	modulate immune response
+immunostimulants	include	BCG vaccine
+BCG vaccine	prevents	tuberculosis
+immunostimulants	include	imiquimod
+imiquimod	treats	genital warts
+imiquimod	treats	basal cell carcinoma
+immunostimulants	include	levamisole
+levamisole	treats	parasitic infections
+immunostimulants	may cause	nausea
+immunostimulants	may cause	headache
+immunostimulants	may cause	rash
+immunostimulants	contraindicated in	organ transplant recipients
+immunostimulants	contraindicated in	severe allergies
+immunostimulants	require	medical supervision
+immunostimulants	can	increase infection resistance
+immunostimulants	studied for	Alzheimer's disease
+immunostimulants	studied for	multiple sclerosis
+immunostimulants	can	boost macrophage activity
+macrophages	are	immune cells
+immunostimulants	can	activate T cells
+T cells	are	lymphocytes
+immunostimulants	can	increase cytokine production
+cytokines	regulate	immune responses
+immunostimulants	include	thymosin alpha-1
+thymosin alpha-1	enhances	T cell function
+immunostimulants	include	pidotimod
+pidotimod	modulates	immune response
+immunostimulants	include	isoprinosine
+isoprinosine	has	antiviral properties
+immunostimulants	include	poly ICLC
+poly ICLC	activates	toll-like receptors
+toll-like receptors	recognize	pathogens
+immunostimulants	include	resiquimod
+resiquimod	is a	TLR7/8 agonist
+immunostimulants	include	glucans
+glucans	enhance	phagocytosis
+immunostimulants	include	echinacea
+echinacea	is a	herbal remedy
+immunostimulants	include	astragalus
+astragalus	boosts	immunity
+immunostimulants	include	ginseng
+ginseng	has	immunomodulatory effects
+immunostimulants	include	zinc
+zinc	supports	immune function
+immunostimulants	include	vitamin C
+vitamin C	enhances	immune defense
+immunostimulants	include	vitamin D
+vitamin D	regulates	immune system
+immunostimulants	include	probiotics
+probiotics	improve	gut immunity
+immunostimulants	may	reduce chemotherapy side effects
+immunostimulants	combined with	antibiotics
+immunostimulants	studied for	COVID-19
+immunostimulants	can	reduce inflammation
+immunostimulants	may	prevent recurrence
+immunostimulants	can	shorten illness duration
+immunostimulants	require	dosage adjustment
+immunostimulants	monitored with	blood tests
+immunostimulants	can	cause liver toxicity
+immunostimulants	can	affect kidney function
+immunostimulants	not recommended during	pregnancy
+immunostimulants	interact with	corticosteroids
+immunostimulants	interact with	chemotherapy drugs
+immunostimulants	may	increase autoimmune risk
+immunostimulants	can	mask infections
+immunostimulants	vary in	efficacy
+immunostimulants	classified as	biologics
+immunostimulants	include	monoclonal antibodies
+monoclonal antibodies	target	specific antigens
+immunostimulants	include	checkpoint inhibitors
+checkpoint inhibitors	treat	cancers
+immunostimulants	include	CAR-T cell therapy
+CAR-T cell therapy	modifies	T cells
+immunostimulants	include	cancer vaccines
+cancer vaccines	train	immune system
+immunostimulants	studied for	neurodegenerative diseases
+immunostimulants	can	cross blood-brain barrier
+immunostimulants	may	delay disease progression
+immunostimulants	require	personalized treatment
+immunostimulants	cost	varies widely
+immunostimulants	subject to	ongoing research

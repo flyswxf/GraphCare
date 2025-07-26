@@ -1,0 +1,110 @@
+selective calcium channel blockers with direct cardiac effects	is a	medication class
+selective calcium channel blockers with direct cardiac effects	treats	hypertension
+selective calcium channel blockers with direct cardiac effects	treats	angina
+selective calcium channel blockers with direct cardiac effects	treats	arrhythmias
+selective calcium channel blockers with direct cardiac effects	mechanism	L-type calcium channel inhibition
+L-type calcium channel inhibition	reduces	myocardial contractility
+L-type calcium channel inhibition	slows	AV node conduction
+selective calcium channel blockers with direct cardiac effects	includes	verapamil
+selective calcium channel blockers with direct cardiac effects	includes	diltiazem
+verapamil	is a	phenylalkylamine
+diltiazem	is a	benzothiazepine
+verapamil	used for	supraventricular tachycardia
+diltiazem	used for	atrial fibrillation
+selective calcium channel blockers with direct cardiac effects	contraindicated in	heart failure
+selective calcium channel blockers with direct cardiac effects	contraindicated in	bradycardia
+selective calcium channel blockers with direct cardiac effects	interacts with	beta blockers
+beta blockers	increase risk of	AV block
+selective calcium channel blockers with direct cardiac effects	interacts with	digoxin
+digoxin	increases risk of	toxicity
+selective calcium channel blockers with direct cardiac effects	side effects	hypotension
+selective calcium channel blockers with direct cardiac effects	side effects	dizziness
+selective calcium channel blockers with direct cardiac effects	side effects	constipation
+constipation	managed with	laxatives
+verapamil	metabolized by	CYP3A4
+diltiazem	metabolized by	CYP3A4
+CYP3A4	inhibited by	grapefruit juice
+grapefruit juice	increases	drug levels
+selective calcium channel blockers with direct cardiac effects	monitoring required	blood pressure
+selective calcium channel blockers with direct cardiac effects	monitoring required	heart rate
+selective calcium channel blockers with direct cardiac effects	alternative	dihydropyridines
+dihydropyridines	example	amlodipine
+dihydropyridines	primarily affects	vasculature
+amlodipine	treats	hypertension
+amlodipine	side effects	peripheral edema
+selective calcium channel blockers with direct cardiac effects	pharmacokinetics	hepatic metabolism
+selective calcium channel blockers with direct cardiac effects	pharmacokinetics	renal excretion
+verapamil	half-life	2-8 hours
+diltiazem	half-life	3-4.5 hours
+verapamil	protein binding	90%
+diltiazem	protein binding	80%
+selective calcium channel blockers with direct cardiac effects	pregnancy category	C
+pregnancy category C	indicates	risk cannot be ruled out
+selective calcium channel blockers with direct cardiac effects	overdose symptoms	severe hypotension
+severe hypotension	treated with	calcium gluconate
+selective calcium channel blockers with direct cardiac effects	research area	cardioprotection
+cardioprotection	involves	ischemia-reperfusion injury
+selective calcium channel blockers with direct cardiac effects	cost	varies by brand
+selective calcium channel blockers with direct cardiac effects	generic available	yes
+verapamil	brand name	Calan
+diltiazem	brand name	Cardizem
+selective calcium channel blockers with direct cardiac effects	administration	oral
+selective calcium channel blockers with direct cardiac effects	administration	intravenous
+intravenous	used for	acute arrhythmias
+oral	used for	chronic conditions
+selective calcium channel blockers with direct cardiac effects	onset of action	rapid IV
+selective calcium channel blockers with direct cardiac effects	onset of action	slower oral
+rapid IV	requires	monitoring
+selective calcium channel blockers with direct cardiac effects	patient education	avoid grapefruit
+selective calcium channel blockers with direct cardiac effects	patient education	rise slowly
+rise slowly	prevents	orthostatic hypotension
+selective calcium channel blockers with direct cardiac effects	storage	room temperature
+selective calcium channel blockers with direct cardiac effects	storage	away from moisture
+selective calcium channel blockers with direct cardiac effects	mechanism	vasodilation
+vasodilation	reduces	afterload
+afterload	affects	cardiac output
+selective calcium channel blockers with direct cardiac effects	affects	coronary arteries
+coronary arteries	supply	heart muscle
+selective calcium channel blockers with direct cardiac effects	research	new derivatives
+new derivatives	aim for	fewer side effects
+selective calcium channel blockers with direct cardiac effects	comparison	beta blockers
+beta blockers	mechanism	beta-adrenergic blockade
+beta-adrenergic blockade	reduces	heart rate
+selective calcium channel blockers with direct cardiac effects	comparison	ACE inhibitors
+ACE inhibitors	mechanism	renin-angiotensin system inhibition
+selective calcium channel blockers with direct cardiac effects	synergistic with	diuretics
+diuretics	reduce	fluid retention
+fluid retention	worsens	hypertension
+selective calcium channel blockers with direct cardiac effects	contraindicated in	Wolff-Parkinson-White syndrome
+Wolff-Parkinson-White syndrome	risk of	rapid conduction
+selective calcium channel blockers with direct cardiac effects	ECG effect	PR prolongation
+PR prolongation	indicates	AV node slowing
+selective calcium channel blockers with direct cardiac effects	withdrawal	taper dose
+taper dose	prevents	rebound tachycardia
+selective calcium channel blockers with direct cardiac effects	geriatric use	caution
+geriatric use	risk of	falls
+falls	linked to	hypotension
+selective calcium channel blockers with direct cardiac effects	pediatric use	limited data
+pediatric use	requires	specialist consult
+selective calcium channel blockers with direct cardiac effects	black box warning	none
+black box warning	indicates	severe risk
+selective calcium channel blockers with direct cardiac effects	adherence	important
+adherence	improves	outcomes
+outcomes	measured by	blood pressure control
+selective calcium channel blockers with direct cardiac effects	cost-effectiveness	high
+cost-effectiveness	impacts	healthcare budgets
+selective calcium channel blockers with direct cardiac effects	guidelines	JNC 8
+JNC 8	recommends	for hypertension
+selective calcium channel blockers with direct cardiac effects	guidelines	ESC
+ESC	recommends	for angina
+selective calcium channel blockers with direct cardiac effects	future	personalized dosing
+personalized dosing	based on	pharmacogenomics
+pharmacogenomics	studies	CYP3A4 variants
+CYP3A4 variants	affect	drug metabolism
+selective calcium channel blockers with direct cardiac effects	drug holiday	not recommended
+drug holiday	risks	rebound effects
+selective calcium channel blockers with direct cardiac effects	natural alternative	magnesium
+magnesium	has	calcium-blocking properties
+selective calcium channel blockers with direct cardiac effects	toxicity	bradycardia
+bradycardia	treated with	atropine
+atropine	mechanism	muscarinic blockade

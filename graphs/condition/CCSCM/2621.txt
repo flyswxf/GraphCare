@@ -1,0 +1,100 @@
+E codes	classify	place of occurrence
+place of occurrence	is coded by	E codes
+E codes	are part of	ICD coding system
+ICD coding system	includes	E codes
+E codes	are used for	injury classification
+injury classification	utilizes	E codes
+E codes	specify	accident locations
+accident locations	are documented with	E codes
+E codes	identify	work-related injuries
+work-related injuries	are tagged with	E codes
+E codes	track	home accidents
+home accidents	are recorded with	E codes
+E codes	monitor	traffic accidents
+traffic accidents	are classified with	E codes
+E codes	categorize	sports injuries
+sports injuries	are marked with	E codes
+E codes	document	school incidents
+school incidents	are labeled with	E codes
+E codes	record	public place accidents
+public place accidents	are noted with	E codes
+E codes	distinguish	industrial accidents
+industrial accidents	are identified with	E codes
+E codes	separate	recreational accidents
+recreational accidents	are cataloged with	E codes
+E codes	differentiate	transport accidents
+transport accidents	are sorted with	E codes
+E codes	classify	pedestrian accidents
+pedestrian accidents	are indexed with	E codes
+E codes	organize	cycling accidents
+cycling accidents	are filed with	E codes
+E codes	group	water transport accidents
+water transport accidents	are registered with	E codes
+E codes	arrange	air transport accidents
+air transport accidents	are logged with	E codes
+E codes	sort	railway accidents
+railway accidents	are tracked with	E codes
+E codes	catalog	farming accidents
+farming accidents	are reported with	E codes
+E codes	index	construction accidents
+construction accidents	are mapped with	E codes
+E codes	register	mining accidents
+mining accidents	are charted with	E codes
+E codes	note	manufacturing accidents
+manufacturing accidents	are listed with	E codes
+E codes	mark	service industry accidents
+service industry accidents	are coded with	E codes
+E codes	tag	retail accidents
+retail accidents	are assigned with	E codes
+E codes	designate	healthcare facility accidents
+healthcare facility accidents	are denoted with	E codes
+E codes	identify	nursing home accidents
+nursing home accidents	are stamped with	E codes
+E codes	recognize	residential institution accidents
+residential institution accidents	are labeled with	E codes
+E codes	classify	prison accidents
+prison accidents	are marked with	E codes
+E codes	categorize	military accidents
+military accidents	are recorded with	E codes
+E codes	document	police accidents
+police accidents	are noted with	E codes
+E codes	track	firefighter accidents
+firefighter accidents	are registered with	E codes
+E codes	monitor	volunteer accidents
+volunteer accidents	are logged with	E codes
+E codes	record	tourist accidents
+tourist accidents	are indexed with	E codes
+E codes	specify	hotel accidents
+hotel accidents	are filed with	E codes
+E codes	differentiate	restaurant accidents
+restaurant accidents	are sorted with	E codes
+E codes	organize	bar accidents
+bar accidents	are grouped with	E codes
+E codes	classify	nightclub accidents
+nightclub accidents	are arranged with	E codes
+E codes	catalog	theater accidents
+theater accidents	are registered with	E codes
+E codes	index	stadium accidents
+stadium accidents	are noted with	E codes
+E codes	mark	park accidents
+park accidents	are logged with	E codes
+E codes	tag	playground accidents
+playground accidents	are tracked with	E codes
+E codes	designate	beach accidents
+beach accidents	are recorded with	E codes
+E codes	identify	mountain accidents
+mountain accidents	are coded with	E codes
+E codes	recognize	forest accidents
+forest accidents	are marked with	E codes
+E codes	classify	desert accidents
+desert accidents	are labeled with	E codes
+E codes	categorize	urban accidents
+urban accidents	are documented with	E codes
+E codes	document	rural accidents
+rural accidents	are indexed with	E codes
+E codes	track	suburban accidents
+suburban accidents	are filed with	E codes
+E codes	monitor	highway accidents
+highway accidents	are sorted with	E codes
+E codes	record	street accidents
+street accidents	are grouped with	E codes

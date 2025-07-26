@@ -1,0 +1,100 @@
+drugs affecting bone structure and mineralization	include	bisphosphonates
+bisphosphonates	treat	osteoporosis
+osteoporosis	is a	bone disease
+bone disease	can lead to	fractures
+fractures	increase	mortality risk
+mortality risk	depends on	age
+age	affects	bone density
+bone density	measured by	DEXA scan
+DEXA scan	uses	X-rays
+X-rays	expose patients to	radiation
+radiation	can cause	side effects
+side effects	may include	nausea
+bisphosphonates	can cause	jaw osteonecrosis
+jaw osteonecrosis	is a	serious condition
+serious condition	requires	surgery
+surgery	has risks	complications
+complications	include	infections
+infections	treated with	antibiotics
+antibiotics	can interact with	other drugs
+other drugs	may affect	bone healing
+bone healing	influenced by	nutrition
+nutrition	includes	calcium intake
+calcium intake	supports	bone health
+bone health	depends on	vitamin D
+vitamin D	produced from	sunlight exposure
+sunlight exposure	linked to	skin cancer risk
+skin cancer risk	reduced by	sunscreen
+sunscreen	blocks	UV radiation
+UV radiation	necessary for	vitamin D synthesis
+vitamin D deficiency	causes	rickets
+rickets	affects	children
+children	need	proper nutrition
+proper nutrition	prevents	stunted growth
+stunted growth	linked to	malnutrition
+malnutrition	common in	developing countries
+developing countries	face	healthcare challenges
+healthcare challenges	include	drug shortages
+drug shortages	affect	treatment adherence
+treatment adherence	influences	recovery rate
+recovery rate	depends on	patient compliance
+patient compliance	affected by	side effects
+side effects	lead to	discontinuation
+discontinuation	increases	fracture risk
+fracture risk	higher in	elderly
+elderly	often take	multiple medications
+multiple medications	increase	drug interactions
+drug interactions	affect	drug efficacy
+drug efficacy	determines	treatment success
+treatment success	measured by	bone density improvement
+bone density improvement	prevents	vertebral fractures
+vertebral fractures	cause	chronic pain
+chronic pain	managed with	analgesics
+analgesics	include	NSAIDs
+NSAIDs	may cause	gastrointestinal bleeding
+gastrointestinal bleeding	requires	hospitalization
+hospitalization	increases	healthcare costs
+healthcare costs	burden	insurance systems
+insurance systems	vary by	country
+country	influences	drug availability
+drug availability	affects	patient outcomes
+patient outcomes	tracked by	electronic health records
+electronic health records	store	medical history
+medical history	includes	comorbidities
+comorbidities	complicate	treatment plans
+treatment plans	adjusted by	physicians
+physicians	prescribe	calcium supplements
+calcium supplements	help	bone remodeling
+bone remodeling	involves	osteoblasts
+osteoblasts	build	new bone
+new bone	replaces	old bone
+old bone	removed by	osteoclasts
+osteoclasts	inhibited by	bisphosphonates
+bisphosphonates	reduce	bone resorption
+bone resorption	leads to	bone loss
+bone loss	accelerates	aging
+aging	associated with	hormonal changes
+hormonal changes	include	menopause
+menopause	causes	estrogen decline
+estrogen decline	increases	osteoporosis risk
+osteoporosis risk	mitigated by	HRT
+HRT	stands for	hormone replacement therapy
+hormone replacement therapy	has	side effects
+side effects	include	blood clots
+blood clots	can cause	strokes
+strokes	lead to	disability
+disability	affects	quality of life
+quality of life	measured by	surveys
+surveys	assess	patient satisfaction
+patient satisfaction	influenced by	treatment effectiveness
+treatment effectiveness	varies by	drug type
+drug type	includes	monoclonal antibodies
+monoclonal antibodies	target	RANKL
+RANKL	regulates	osteoclast activity
+osteoclast activity	crucial for	bone turnover
+bone turnover	affects	fracture healing
+fracture healing	requires	immobilization
+immobilization	leads to	muscle atrophy
+muscle atrophy	reduces	mobility
+mobility	improves with	physical therapy
+physical therapy	enhances	bone strength

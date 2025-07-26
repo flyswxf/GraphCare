@@ -1,0 +1,100 @@
+intrauterine hypoxia	leads to	birth asphyxia
+birth asphyxia	causes	neonatal encephalopathy
+neonatal encephalopathy	may result in	cerebral palsy
+cerebral palsy	requires	long-term rehabilitation
+intrauterine hypoxia	is caused by	placental insufficiency
+placental insufficiency	results from	preeclampsia
+preeclampsia	is managed with	magnesium sulfate
+magnesium sulfate	prevents	eclampsia
+birth asphyxia	requires	neonatal resuscitation
+neonatal resuscitation	involves	positive pressure ventilation
+positive pressure ventilation	uses	neonatal ventilator
+intrauterine hypoxia	is detected by	fetal heart monitoring
+fetal heart monitoring	shows	non-reassuring patterns
+non-reassuring patterns	indicate	emergency cesarean
+emergency cesarean	prevents	perinatal mortality
+perinatal mortality	is reduced by	antenatal care
+antenatal care	includes	ultrasound screening
+ultrasound screening	detects	fetal growth restriction
+fetal growth restriction	increases risk of	intrauterine hypoxia
+birth asphyxia	causes	metabolic acidosis
+metabolic acidosis	is treated with	sodium bicarbonate
+sodium bicarbonate	corrects	blood pH imbalance
+blood pH imbalance	affects	organ function
+intrauterine hypoxia	increases risk of	neurodevelopmental disorders
+neurodevelopmental disorders	include	learning disabilities
+learning disabilities	require	special education
+birth asphyxia	may cause	seizures
+seizures	are treated with	phenobarbital
+phenobarbital	is an	anticonvulsant
+intrauterine hypoxia	results from	umbilical cord compression
+umbilical cord compression	occurs during	labor
+labor	is monitored by	cardiotocography
+cardiotocography	records	fetal heart rate
+fetal heart rate	indicates	fetal distress
+fetal distress	necessitates	oxygen therapy
+oxygen therapy	improves	fetal oxygenation
+intrauterine hypoxia	is associated with	meconium aspiration
+meconium aspiration	causes	respiratory distress
+respiratory distress	requires	mechanical ventilation
+mechanical ventilation	supports	lung function
+birth asphyxia	leads to	hypoxic-ischemic encephalopathy
+hypoxic-ischemic encephalopathy	is treated with	therapeutic hypothermia
+therapeutic hypothermia	prevents	brain damage
+brain damage	affects	cognitive development
+intrauterine hypoxia	is prevented by	maternal oxygen administration
+maternal oxygen administration	increases	fetal oxygen supply
+fetal oxygen supply	depends on	maternal hemoglobin
+maternal hemoglobin	is increased by	iron supplementation
+iron supplementation	prevents	maternal anemia
+maternal anemia	contributes to	fetal hypoxia
+birth asphyxia	increases risk of	neonatal death
+neonatal death	is reduced by	skilled birth attendance
+skilled birth attendance	includes	midwifery care
+midwifery care	improves	birth outcomes
+intrauterine hypoxia	is exacerbated by	maternal smoking
+maternal smoking	causes	vasoconstriction
+vasoconstriction	reduces	placental blood flow
+placental blood flow	is essential for	fetal oxygenation
+fetal oxygenation	maintains	cellular metabolism
+birth asphyxia	results in	multiorgan dysfunction
+multiorgan dysfunction	affects	kidney function
+kidney function	is monitored by	creatinine levels
+creatinine levels	indicate	renal impairment
+intrauterine hypoxia	is associated with	preterm birth
+preterm birth	increases risk of	respiratory distress syndrome
+respiratory distress syndrome	is treated with	surfactant therapy
+surfactant therapy	improves	lung compliance
+lung compliance	is essential for	gas exchange
+birth asphyxia	may lead to	visual impairments
+visual impairments	are assessed by	ophthalmologic examination
+ophthalmologic examination	detects	retinal damage
+retinal damage	results from	oxygen toxicity
+intrauterine hypoxia	is worsened by	maternal diabetes
+maternal diabetes	causes	macrosomia
+macrosomia	increases risk of	birth trauma
+birth trauma	includes	brachial plexus injury
+brachial plexus injury	requires	physical therapy
+birth asphyxia	contributes to	hearing loss
+hearing loss	is diagnosed by	auditory brainstem response
+auditory brainstem response	evaluates	neural pathways
+intrauterine hypoxia	is mitigated by	antenatal corticosteroids
+antenatal corticosteroids	accelerate	lung maturation
+lung maturation	prevents	neonatal respiratory failure
+neonatal respiratory failure	requires	ECMO
+ECMO	provides	cardiopulmonary support
+birth asphyxia	is predicted by	Apgar score
+Apgar score	assesses	neonatal viability
+neonatal viability	determines	NICU admission
+NICU admission	provides	intensive care
+intrauterine hypoxia	is influenced by	maternal hypertension
+maternal hypertension	reduces	uteroplacental perfusion
+uteroplacental perfusion	delivers	nutrients to fetus
+nutrients to fetus	support	fetal growth
+birth asphyxia	causes	cardiac dysfunction
+cardiac dysfunction	is managed with	inotropic support
+inotropic support	improves	myocardial contractility
+myocardial contractility	maintains	circulation
+intrauterine hypoxia	is screened by	Doppler ultrasound
+Doppler ultrasound	measures	umbilical artery flow
+umbilical artery flow	indicates	fetal wellbeing

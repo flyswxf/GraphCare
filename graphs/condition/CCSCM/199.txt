@@ -1,0 +1,100 @@
+chronic ulcer of skin	is a	wound
+chronic ulcer of skin	may cause	infection
+chronic ulcer of skin	may lead to	amputation
+chronic ulcer of skin	is associated with	diabetes
+chronic ulcer of skin	is associated with	poor circulation
+chronic ulcer of skin	is treated with	wound care
+chronic ulcer of skin	is treated with	antibiotics
+chronic ulcer of skin	may require	debridement
+chronic ulcer of skin	is diagnosed by	visual inspection
+chronic ulcer of skin	is diagnosed by	biopsy
+chronic ulcer of skin	can result in	sepsis
+chronic ulcer of skin	is linked to	venous insufficiency
+chronic ulcer of skin	is linked to	arterial insufficiency
+chronic ulcer of skin	is managed with	compression therapy
+chronic ulcer of skin	is aggravated by	pressure
+chronic ulcer of skin	is prevented by	proper footwear
+chronic ulcer of skin	is monitored by	ulcer size measurement
+chronic ulcer of skin	may require	skin graft
+chronic ulcer of skin	is complicated by	osteomyelitis
+chronic ulcer of skin	is evaluated with	Doppler ultrasound
+chronic ulcer of skin	is associated with	neuropathy
+chronic ulcer of skin	is treated with	topical antiseptics
+chronic ulcer of skin	is treated with	hydrogel dressings
+chronic ulcer of skin	is treated with	alginate dressings
+chronic ulcer of skin	is treated with	negative pressure therapy
+chronic ulcer of skin	is associated with	immobility
+chronic ulcer of skin	is linked to	malnutrition
+chronic ulcer of skin	is prevented by	regular repositioning
+chronic ulcer of skin	is assessed by	wound scoring systems
+chronic ulcer of skin	may lead to	cellulitis
+chronic ulcer of skin	is associated with	smoking
+chronic ulcer of skin	is associated with	obesity
+chronic ulcer of skin	is managed by	multidisciplinary team
+chronic ulcer of skin	is treated with	growth factors
+chronic ulcer of skin	is treated with	hyperbaric oxygen therapy
+chronic ulcer of skin	is evaluated by	wound culture
+chronic ulcer of skin	is linked to	hypertension
+chronic ulcer of skin	is associated with	aging
+chronic ulcer of skin	is prevented by	blood sugar control
+chronic ulcer of skin	is treated with	silver dressings
+chronic ulcer of skin	is treated with	collagen dressings
+chronic ulcer of skin	is complicated by	gangrene
+chronic ulcer of skin	may require	vascular surgery
+chronic ulcer of skin	is associated with	rheumatoid arthritis
+chronic ulcer of skin	is linked to	lymphedema
+chronic ulcer of skin	is managed with	pain control
+chronic ulcer of skin	is evaluated by	ankle-brachial index
+chronic ulcer of skin	is treated with	maggot therapy
+chronic ulcer of skin	is associated with	sickle cell disease
+chronic ulcer of skin	is linked to	chronic kidney disease
+chronic ulcer of skin	is prevented by	smoking cessation
+chronic ulcer of skin	is treated with	honey dressings
+chronic ulcer of skin	is treated with	electrical stimulation
+chronic ulcer of skin	is complicated by	deep vein thrombosis
+chronic ulcer of skin	may require	amputation surgery
+chronic ulcer of skin	is associated with	peripheral artery disease
+chronic ulcer of skin	is linked to	autoimmune diseases
+chronic ulcer of skin	is managed with	nutritional support
+chronic ulcer of skin	is evaluated by	magnetic resonance imaging
+chronic ulcer of skin	is treated with	skin substitutes
+chronic ulcer of skin	is associated with	prolonged hospitalization
+chronic ulcer of skin	is linked to	steroid use
+chronic ulcer of skin	is prevented by	pressure relief devices
+chronic ulcer of skin	is treated with	platelet-rich plasma
+chronic ulcer of skin	is treated with	laser therapy
+chronic ulcer of skin	is complicated by	bacteremia
+chronic ulcer of skin	may require	flap reconstruction
+chronic ulcer of skin	is associated with	spinal cord injury
+chronic ulcer of skin	is linked to	radiation therapy
+chronic ulcer of skin	is managed with	psychological support
+chronic ulcer of skin	is evaluated by	tissue biopsy
+chronic ulcer of skin	is treated with	amniotic membrane grafts
+chronic ulcer of skin	is associated with	chemotherapy
+chronic ulcer of skin	is linked to	liver disease
+chronic ulcer of skin	is prevented by	regular foot exams
+chronic ulcer of skin	is treated with	ozone therapy
+chronic ulcer of skin	is treated with	ultrasound therapy
+chronic ulcer of skin	is complicated by	necrotizing fasciitis
+chronic ulcer of skin	may require	wound vac therapy
+chronic ulcer of skin	is associated with	prolonged bed rest
+chronic ulcer of skin	is linked to	immunosuppression
+chronic ulcer of skin	is managed with	physical therapy
+chronic ulcer of skin	is evaluated by	transcutaneous oximetry
+chronic ulcer of skin	is treated with	stem cell therapy
+chronic ulcer of skin	is associated with	vasculitis
+chronic ulcer of skin	is linked to	genetic disorders
+chronic ulcer of skin	is prevented by	adequate hydration
+chronic ulcer of skin	is treated with	cold plasma therapy
+chronic ulcer of skin	is treated with	photodynamic therapy
+chronic ulcer of skin	is complicated by	septic arthritis
+chronic ulcer of skin	may require	tendon exposure
+chronic ulcer of skin	is associated with	chronic inflammation
+chronic ulcer of skin	is linked to	hematologic disorders
+chronic ulcer of skin	is managed with	occupational therapy
+chronic ulcer of skin	is evaluated by	bacterial swab
+chronic ulcer of skin	is treated with	autologous grafts
+chronic ulcer of skin	is associated with	trauma
+chronic ulcer of skin	is linked to	metabolic disorders
+chronic ulcer of skin	is prevented by	proper nutrition
+chronic ulcer of skin	is treated with	bioengineered skin

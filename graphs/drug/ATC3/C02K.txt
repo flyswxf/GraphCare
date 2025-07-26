@@ -1,0 +1,100 @@
+other antihypertensives	belong to	ATC class
+other antihypertensives	are	cardiovascular drugs
+other antihypertensives	treat	hypertension
+hypertension	is	chronic condition
+other antihypertensives	include	vasodilators
+vasodilators	act on	blood vessels
+blood vessels	affected by	nitric oxide
+other antihypertensives	include	alpha blockers
+alpha blockers	target	adrenergic receptors
+adrenergic receptors	regulate	blood pressure
+other antihypertensives	include	central agonists
+central agonists	act on	brain stem
+brain stem	controls	autonomic functions
+other antihypertensives	may cause	hypotension
+hypotension	leads to	dizziness
+other antihypertensives	interact with	diuretics
+diuretics	reduce	fluid volume
+fluid volume	affects	blood pressure
+other antihypertensives	contraindicated in	pregnancy
+pregnancy	requires	careful medication
+other antihypertensives	metabolized in	liver
+liver	contains	cytochrome enzymes
+cytochrome enzymes	affect	drug metabolism
+other antihypertensives	excreted via	kidneys
+kidneys	regulate	electrolyte balance
+other antihypertensives	may cause	dry mouth
+dry mouth	affects	oral health
+other antihypertensives	require	dose titration
+dose titration	prevents	adverse effects
+other antihypertensives	monitored through	blood tests
+blood tests	measure	creatinine levels
+creatinine levels	indicate	kidney function
+other antihypertensives	have	black box warnings
+black box warnings	indicate	serious risks
+other antihypertensives	may cause	sexual dysfunction
+sexual dysfunction	affects	quality of life
+other antihypertensives	interact with	NSAIDs
+NSAIDs	increase	blood pressure
+other antihypertensives	compete with	ACE inhibitors
+ACE inhibitors	prevent	angiotensin conversion
+angiotensin	causes	vasoconstriction
+other antihypertensives	alternative to	beta blockers
+beta blockers	reduce	heart rate
+heart rate	influences	cardiac output
+other antihypertensives	prescribed for	resistant hypertension
+resistant hypertension	requires	combination therapy
+combination therapy	increases	treatment efficacy
+other antihypertensives	have	generic versions
+generic versions	reduce	healthcare costs
+healthcare costs	affect	medication adherence
+other antihypertensives	stored at	room temperature
+room temperature	preserves	drug stability
+other antihypertensives	dispensed in	blister packs
+blister packs	ensure	dose accuracy
+other antihypertensives	may cause	fatigue
+fatigue	impacts	daily activities
+other antihypertensives	require	regular monitoring
+regular monitoring	detects	side effects
+side effects	necessitate	dose adjustment
+other antihypertensives	contraindicated with	MAOIs
+MAOIs	interact with	tyramine
+tyramine	found in	aged foods
+other antihypertensives	have	teratogenic effects
+teratogenic effects	harm	fetus
+other antihypertensives	may cause	depression
+depression	requires	psychiatric evaluation
+other antihypertensives	affect	baroreceptor reflex
+baroreceptor reflex	regulates	blood pressure
+other antihypertensives	may cause	nasal congestion
+nasal congestion	relieved by	decongestants
+other antihypertensives	interact with	grapefruit juice
+grapefruit juice	inhibits	CYP3A4
+CYP3A4	metabolizes	many drugs
+other antihypertensives	prescribed for	hypertensive crisis
+hypertensive crisis	requires	immediate treatment
+other antihypertensives	have	narrow therapeutic index
+narrow therapeutic index	needs	careful dosing
+other antihypertensives	may cause	electrolyte imbalance
+electrolyte imbalance	leads to	arrhythmias
+other antihypertensives	require	baseline ECG
+baseline ECG	detects	cardiac abnormalities
+other antihypertensives	prescribed with	lifestyle changes
+lifestyle changes	include	diet modification
+diet modification	reduces	sodium intake
+other antihypertensives	may cause	orthostatic hypotension
+orthostatic hypotension	causes	falls
+falls	lead to	fractures
+other antihypertensives	have	patient assistance programs
+patient assistance programs	help	low-income patients
+other antihypertensives	prescribed by	cardiologists
+cardiologists	specialize in	heart diseases
+other antihypertensives	may cause	lupus-like syndrome
+lupus-like syndrome	resembles	autoimmune disease
+other antihypertensives	require	informed consent
+informed consent	explains	treatment risks
+other antihypertensives	reviewed in	clinical trials
+clinical trials	evaluate	drug safety
+other antihypertensives	may cause	peripheral edema
+peripheral edema	treated with	diuretics
+other antihypertensives	have	specific administration times

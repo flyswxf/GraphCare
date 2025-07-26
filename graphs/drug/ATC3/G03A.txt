@@ -1,0 +1,100 @@
+hormonal contraceptives	is a	medication
+hormonal contraceptives	used for	contraception
+hormonal contraceptives	contains	synthetic hormones
+synthetic hormones	mimic	natural hormones
+natural hormones	include	estrogen
+natural hormones	include	progesterone
+hormonal contraceptives	inhibits	ovulation
+ovulation	is part of	menstrual cycle
+menstrual cycle	regulated by	hormones
+hormonal contraceptives	thickens	cervical mucus
+cervical mucus	prevents	sperm entry
+sperm entry	leads to	fertilization
+fertilization	results in	pregnancy
+hormonal contraceptives	thins	endometrium
+endometrium	supports	implantation
+implantation	necessary for	pregnancy
+hormonal contraceptives	types include	oral contraceptives
+oral contraceptives	taken as	daily pill
+daily pill	requires	consistency
+consistency	affects	effectiveness
+effectiveness	measured by	Pearl Index
+Pearl Index	quantifies	contraceptive failure
+contraceptive failure	leads to	unintended pregnancy
+hormonal contraceptives	types include	contraceptive patch
+contraceptive patch	applied to	skin
+skin	absorbs	hormones
+hormones	enter	bloodstream
+bloodstream	distributes	medication
+hormonal contraceptives	types include	vaginal ring
+vaginal ring	releases	hormones
+hormones	act locally	reproductive system
+reproductive system	includes	ovaries
+ovaries	produce	eggs
+eggs	fertilized by	sperm
+hormonal contraceptives	types include	injectable contraceptives
+injectable contraceptives	administered	intramuscularly
+intramuscular injection	delivers	sustained release
+sustained release	maintains	hormone levels
+hormone levels	suppress	ovulation
+hormonal contraceptives	types include	implant
+implant	inserted under	skin
+skin	heals around	implant
+implant	provides	long-term contraception
+long-term contraception	reduces	user error
+user error	contributes to	contraceptive failure
+hormonal contraceptives	prevents	ovarian cysts
+ovarian cysts	cause	pelvic pain
+pelvic pain	treated with	analgesics
+analgesics	include	NSAIDs
+NSAIDs	reduce	inflammation
+hormonal contraceptives	reduces	menstrual cramps
+menstrual cramps	caused by	prostaglandins
+prostaglandins	stimulate	uterine contractions
+uterine contractions	expel	menstrual blood
+hormonal contraceptives	regulates	menstrual cycle
+menstrual cycle	involves	hormonal fluctuations
+hormonal fluctuations	affect	mood
+mood	influenced by	serotonin
+serotonin	regulates	emotional state
+hormonal contraceptives	may cause	weight gain
+weight gain	linked to	fluid retention
+fluid retention	caused by	estrogen
+estrogen	increases	aldosterone
+aldosterone	promotes	sodium retention
+sodium retention	leads to	water retention
+hormonal contraceptives	may cause	breast tenderness
+breast tenderness	results from	hormonal changes
+hormonal changes	stimulate	breast tissue
+breast tissue	sensitive to	progesterone
+progesterone	prepares	mammary glands
+mammary glands	produce	milk
+hormonal contraceptives	may cause	nausea
+nausea	alleviated by	food intake
+food intake	slows	gastric emptying
+gastric emptying	affects	drug absorption
+hormonal contraceptives	may cause	headaches
+headaches	treated with	pain relievers
+pain relievers	include	acetaminophen
+acetaminophen	reduces	pain signals
+hormonal contraceptives	increases risk	blood clots
+blood clots	form in	veins
+veins	carry	deoxygenated blood
+deoxygenated blood	returns to	heart
+heart	pumps blood to	lungs
+lungs	oxygenate	blood
+blood clots	may cause	deep vein thrombosis
+deep vein thrombosis	leads to	pulmonary embolism
+pulmonary embolism	blocks	pulmonary artery
+pulmonary artery	supplies	lungs
+hormonal contraceptives	contraindicated in	smokers
+smokers	have higher risk	cardiovascular disease
+cardiovascular disease	includes	heart attack
+heart attack	caused by	blocked arteries
+blocked arteries	result from	atherosclerosis
+atherosclerosis	involves	plaque buildup
+plaque buildup	narrows	blood vessels
+hormonal contraceptives	interacts with	antibiotics
+antibiotics	reduce	gut bacteria
+gut bacteria	metabolize	hormones
+hormones	excreted via	bile

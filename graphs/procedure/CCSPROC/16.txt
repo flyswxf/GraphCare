@@ -1,0 +1,100 @@
+repair of retinal tear	is a	surgical procedure
+repair of retinal tear	treats	retinal detachment
+retinal detachment	is caused by	retinal tear
+retinal tear	caused by	vitreous traction
+vitreous traction	occurs in	posterior vitreous detachment
+posterior vitreous detachment	related to	aging
+retinal detachment	requires	urgent treatment
+repair of retinal tear	prevents	vision loss
+vision loss	measured by	visual acuity
+visual acuity	assessed by	eye exam
+eye exam	includes	fundoscopy
+fundoscopy	detects	retinal abnormalities
+retinal abnormalities	include	retinal tears
+retinal tears	lead to	retinal detachment
+retinal detachment	classified as	rhegmatogenous
+rhegmatogenous detachment	most common type	retinal detachment
+repair of retinal tear	performed by	vitreoretinal surgeon
+vitreoretinal surgeon	specializes in	retinal diseases
+retinal diseases	include	diabetic retinopathy
+diabetic retinopathy	causes	vision impairment
+vision impairment	affects	quality of life
+quality of life	measured by	questionnaires
+repair of retinal tear	involves	laser photocoagulation
+laser photocoagulation	creates	scar tissue
+scar tissue	seals	retinal tear
+retinal tear	located in	peripheral retina
+peripheral retina	examined with	scleral depression
+scleral depression	requires	specialized equipment
+specialized equipment	includes	indirect ophthalmoscope
+indirect ophthalmoscope	provides	wide-field view
+wide-field view	helps detect	retinal breaks
+retinal breaks	include	retinal tears
+repair of retinal tear	alternative to	pneumatic retinopexy
+pneumatic retinopexy	uses	gas bubble
+gas bubble	pushes	retina
+retina	reattaches to	retinal pigment epithelium
+retinal pigment epithelium	nourishes	photoreceptors
+photoreceptors	convert	light to signals
+light to signals	transmitted via	optic nerve
+optic nerve	carries	visual information
+visual information	processed in	visual cortex
+visual cortex	located in	occipital lobe
+repair of retinal tear	may require	vitrectomy
+vitrectomy	removes	vitreous humor
+vitreous humor	replaced by	saline solution
+saline solution	maintains	intraocular pressure
+intraocular pressure	measured by	tonometry
+tonometry	important for	glaucoma screening
+glaucoma	damages	optic nerve
+optic nerve damage	causes	vision loss
+vision loss	prevented by	early detection
+early detection	achieved through	regular eye exams
+regular eye exams	recommended for	high-risk patients
+high-risk patients	include	myopes
+myopes	have	elongated eyeballs
+elongated eyeballs	predispose to	retinal thinning
+retinal thinning	increases risk	retinal tears
+retinal tears	may occur after	eye trauma
+eye trauma	includes	blunt injury
+blunt injury	causes	sudden vision changes
+sudden vision changes	require	emergency care
+emergency care	provided in	ophthalmology department
+ophthalmology department	staffed by	eye specialists
+eye specialists	include	ophthalmologists
+ophthalmologists	perform	retinal surgeries
+retinal surgeries	require	operating microscope
+operating microscope	provides	magnification
+magnification	enables	precise maneuvers
+precise maneuvers	necessary for	delicate tissues
+delicate tissues	include	retinal layers
+retinal layers	consist of	neural retina
+neural retina	contains	ganglion cells
+ganglion cells	form	optic nerve fibers
+repair of retinal tear	may involve	cryotherapy
+cryotherapy	uses	freezing probe
+freezing probe	creates	adhesion
+adhesion	secures	retina
+retina	composed of	sensory tissue
+sensory tissue	processes	visual stimuli
+visual stimuli	interpreted by	brain
+brain	coordinates	visual perception
+visual perception	affected by	retinal damage
+retinal damage	assessed with	OCT
+OCT	provides	cross-sectional images
+cross-sectional images	show	retinal layers
+retinal layers	evaluated for	abnormalities
+abnormalities	include	subretinal fluid
+subretinal fluid	characteristic of	detachment
+detachment	treated with	surgical intervention
+surgical intervention	requires	anesthesia
+anesthesia	ensures	patient comfort
+patient comfort	important for	cooperation
+cooperation	necessary for	successful surgery
+successful surgery	restores	vision
+vision	depends on	retinal integrity
+retinal integrity	maintained by	prompt treatment
+prompt treatment	reduces	complications
+complications	include	proliferative vitreoretinopathy
+proliferative vitreoretinopathy	causes	retinal scarring
+retinal scarring	leads to	visual impairment

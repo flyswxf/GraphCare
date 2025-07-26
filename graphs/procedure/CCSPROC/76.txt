@@ -1,0 +1,100 @@
+colonoscopy	is a	medical procedure
+biopsy	is a	medical procedure
+colonoscopy	used for	diagnosis
+colonoscopy	used for	screening
+colonoscopy	examines	colon
+colonoscopy	examines	rectum
+colonoscopy	can detect	polyps
+colonoscopy	can detect	colorectal cancer
+colonoscopy	can detect	inflammation
+colonoscopy	can detect	ulcers
+colonoscopy	requires	bowel preparation
+colonoscopy	may cause	bleeding
+colonoscopy	may cause	perforation
+colonoscopy	may require	sedation
+colonoscopy	performed by	gastroenterologist
+biopsy	collects	tissue sample
+biopsy	used for	histopathology
+biopsy	can confirm	cancer
+biopsy	can identify	infection
+biopsy	can diagnose	celiac disease
+biopsy	may cause	minor bleeding
+colonoscopy biopsy	is a type of	biopsy
+colonoscopy biopsy	performed during	colonoscopy
+colonoscopy biopsy	analyzes	intestinal mucosa
+colonoscopy biopsy	evaluates	dysplasia
+colonoscopy	follows	positive stool test
+colonoscopy	recommended for	over 50
+colonoscopy	screens for	colon polyps
+colonoscopy	removes	precancerous lesions
+colonoscopy	uses	flexible tube
+colonoscopy	includes	camera
+colonoscopy	may find	diverticulosis
+colonoscopy	assesses	bowel diseases
+colonoscopy	monitors	inflammatory bowel disease
+colonoscopy	checks	ulcerative colitis
+colonoscopy	evaluates	Crohn's disease
+colonoscopy	measures	disease severity
+colonoscopy	guides	treatment plan
+colonoscopy	precedes	surgery
+colonoscopy	requires	consent form
+colonoscopy	needs	recovery time
+colonoscopy	involves	risk assessment
+colonoscopy	contraindicated in	pregnancy
+colonoscopy	avoided in	bowel obstruction
+colonoscopy	delayed in	acute illness
+colonoscopy	rescheduled after	anticoagulants
+colonoscopy	preceded by	liquid diet
+colonoscopy	requires	clear liquids
+colonoscopy	follows	laxatives
+colonoscopy	uses	air insufflation
+colonoscopy	may need	position changes
+colonoscopy	records	findings
+colonoscopy	produces	images
+colonoscopy	generates	report
+colonoscopy	determines	follow-up
+colonoscopy	indicates	repeat interval
+colonoscopy	reduces	cancer mortality
+colonoscopy	prevents	advanced cancer
+colonoscopy	detects	early stage cancer
+colonoscopy	identifies	high-risk patients
+colonoscopy	leads to	early intervention
+biopsy	determines	tumor grade
+biopsy	assesses	malignancy
+biopsy	detects	Helicobacter pylori
+biopsy	examines	cellular changes
+biopsy	reveals	metaplasia
+biopsy	shows	dysplasia
+biopsy	confirms	adenoma
+biopsy	distinguishes	benign from malignant
+biopsy	guides	chemotherapy
+biopsy	informs	prognosis
+biopsy	supports	precision medicine
+biopsy	enables	molecular testing
+biopsy	stores	tissue samples
+biopsy	requires	pathology lab
+biopsy	involves	staining techniques
+biopsy	uses	microscope
+biopsy	performed by	pathologist
+biopsy	processed as	slides
+biopsy	interpreted by	specialist
+colonoscopy biopsy	targets	suspicious areas
+colonoscopy biopsy	collects	multiple samples
+colonoscopy biopsy	evaluates	margin status
+colonoscopy biopsy	checks	lymph nodes
+colonoscopy biopsy	measures	tumor depth
+colonoscopy biopsy	analyzes	genetic markers
+colonoscopy biopsy	tests	drug sensitivity
+colonoscopy biopsy	correlates with	imaging
+colonoscopy biopsy	contributes to	staging
+colonoscopy biopsy	assists in	surveillance
+colonoscopy biopsy	monitors	treatment response
+colonoscopy biopsy	detects	recurrence
+colonoscopy biopsy	confirms	remission
+colonoscopy biopsy	verifies	healing
+colonoscopy biopsy	evaluates	graft status
+colonoscopy biopsy	assesses	transplant rejection
+colonoscopy biopsy	documents	findings
+colonoscopy biopsy	becomes	medical record
+colonoscopy biopsy	supports	insurance claims
+colonoscopy biopsy	influences	patient management

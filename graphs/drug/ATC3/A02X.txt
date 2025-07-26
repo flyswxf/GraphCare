@@ -1,0 +1,100 @@
+other drugs for acid-related disorders	classified under	ATC system
+other drugs for acid-related disorders	include	antacids
+other drugs for acid-related disorders	include	H2 antagonists
+other drugs for acid-related disorders	include	proton pump inhibitors
+antacids	neutralize	stomach acid
+H2 antagonists	reduce	acid secretion
+proton pump inhibitors	block	acid production
+antacids	contain	aluminum hydroxide
+antacids	contain	magnesium hydroxide
+H2 antagonists	include	ranitidine
+H2 antagonists	include	famotidine
+proton pump inhibitors	include	omeprazole
+proton pump inhibitors	include	esomeprazole
+ranitidine	treats	peptic ulcers
+famotidine	treats	GERD
+omeprazole	treats	Zollinger-Ellison syndrome
+esomeprazole	prevents	NSAID ulcers
+aluminum hydroxide	causes	constipation
+magnesium hydroxide	causes	diarrhea
+proton pump inhibitors	risk	osteoporosis
+H2 antagonists	interact with	warfarin
+proton pump inhibitors	interact with	clopidogrel
+antacids	interfere with	tetracycline absorption
+peptic ulcers	caused by	H. pylori
+GERD	results from	acid reflux
+Zollinger-Ellison syndrome	involves	gastrinoma
+H. pylori	treated with	antibiotic therapy
+antibiotic therapy	includes	clarithromycin
+antibiotic therapy	includes	amoxicillin
+acid-related disorders	require	pH monitoring
+pH monitoring	uses	Bravo capsule
+proton pump inhibitors	approved for	children
+H2 antagonists	available as	OTC drugs
+antacids	provide	rapid relief
+proton pump inhibitors	require	prescription
+acid-related disorders	diagnosed via	endoscopy
+endoscopy	detects	esophageal damage
+esophageal damage	leads to	Barrett's esophagus
+Barrett's esophagus	increases risk	esophageal cancer
+proton pump inhibitors	prevent	ulcer recurrence
+H2 antagonists	less effective than	PPIs
+antacids	contain	calcium carbonate
+calcium carbonate	causes	rebound acidity
+rebound acidity	worsens	GERD symptoms
+GERD symptoms	include	heartburn
+heartburn	relieved by	acid suppression
+acid suppression	achieved with	medication
+medication	categorized in	ATC code A02B
+ATC code A02B	covers	antiulcer drugs
+antiulcer drugs	subdivided into	classes
+classes	include	potassium-competitive acid blockers
+potassium-competitive acid blockers	newer than	PPIs
+newer drugs	show	faster onset
+faster onset	benefits	acute cases
+acute cases	require	hospital treatment
+hospital treatment	involves	IV formulations
+IV formulations	used for	bleeding ulcers
+bleeding ulcers	detected by	melena
+melena	indicates	upper GI bleed
+upper GI bleed	managed with	endoscopic therapy
+endoscopic therapy	includes	clipping
+clipping	stops	vessel bleeding
+vessel bleeding	caused by	ulcer erosion
+ulcer erosion	results from	acid imbalance
+acid imbalance	measured by	pH testing
+pH testing	performed with	nasogastric tube
+nasogastric tube	allows	gastric sampling
+gastric sampling	checks for	occult blood
+occult blood	suggests	mucosal injury
+mucosal injury	repaired by	cytoprotective agents
+cytoprotective agents	include	sucralfate
+sucralfate	forms	protective coating
+protective coating	prevents	acid contact
+acid contact	damages	epithelial cells
+epithelial cells	regenerate via	proliferation
+proliferation	stimulated by	growth factors
+growth factors	enhanced by	prostaglandins
+prostaglandins	inhibited by	NSAIDs
+NSAIDs	cause	drug-induced ulcers
+drug-induced ulcers	prevented by	misoprostol
+misoprostol	is a	prostaglandin analog
+prostaglandin analog	reduces	ulcer risk
+ulcer risk	increased by	smoking
+smoking	delays	ulcer healing
+ulcer healing	assessed by	follow-up endoscopy
+follow-up endoscopy	confirms	mucosal healing
+mucosal healing	indicates	treatment success
+treatment success	measured by	symptom resolution
+symptom resolution	improves	quality of life
+quality of life	affected by	chronic GERD
+chronic GERD	leads to	sleep disturbances
+sleep disturbances	caused by	nighttime reflux
+nighttime reflux	managed with	bedtime dosing
+bedtime dosing	involves	H2 antagonists
+H2 antagonists	preferred for	nocturnal acid
+nocturnal acid	controlled by	histamine blockade
+histamine blockade	more effective at	night
+night	shows	circadian acid patterns
+circadian acid patterns	influence	drug timing
+drug timing	optimizes	therapeutic effect

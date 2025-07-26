@@ -1,0 +1,100 @@
+open wounds of extremities	may lead to	infection
+open wounds of extremities	requires	wound cleaning
+open wounds of extremities	may need	sutures
+open wounds of extremities	can cause	pain
+open wounds of extremities	risks	sepsis
+open wounds of extremities	requires	tetanus prophylaxis
+open wounds of extremities	may lead to	cellulitis
+open wounds of extremities	can result in	scarring
+open wounds of extremities	may require	antibiotics
+open wounds of extremities	affects	mobility
+open wounds of extremities	may cause	swelling
+open wounds of extremities	can lead to	necrosis
+open wounds of extremities	requires	dressing
+open wounds of extremities	may need	debridement
+open wounds of extremities	risks	osteomyelitis
+open wounds of extremities	may require	imaging
+open wounds of extremities	can cause	bleeding
+open wounds of extremities	may lead to	compartment syndrome
+open wounds of extremities	requires	assessment
+open wounds of extremities	may need	surgery
+wound cleaning	uses	saline solution
+sutures	help	wound closure
+infection	treated with	antibiotics
+pain	managed with	analgesics
+sepsis	requires	hospitalization
+tetanus prophylaxis	includes	vaccination
+cellulitis	treated with	antibiotics
+scarring	can lead to	contractures
+antibiotics	include	cephalexin
+mobility	affected by	physical therapy
+swelling	reduced by	elevation
+necrosis	may require	amputation
+dressing	includes	gauze
+debridement	removes	dead tissue
+osteomyelitis	diagnosed with	MRI
+imaging	includes	X-ray
+bleeding	controlled by	pressure
+compartment syndrome	treated with	fasciotomy
+assessment	includes	wound measurement
+surgery	may involve	skin grafting
+saline solution	contains	sodium chloride
+wound closure	promotes	healing
+antibiotics	can cause	diarrhea
+analgesics	include	ibuprofen
+hospitalization	requires	monitoring
+vaccination	prevents	tetanus
+cephalexin	is a	cephalosporin
+physical therapy	improves	function
+elevation	reduces	edema
+amputation	affects	prosthesis use
+gauze	absorbs	exudate
+dead tissue	harbors	bacteria
+MRI	provides	detailed images
+X-ray	detects	fractures
+pressure	stops	hemorrhage
+fasciotomy	relieves	pressure
+wound measurement	tracks	progress
+skin grafting	covers	defects
+sodium chloride	is	isotonic
+healing	requires	nutrition
+diarrhea	managed with	probiotics
+ibuprofen	reduces	inflammation
+monitoring	includes	vital signs
+tetanus	caused by	Clostridium tetani
+cephalosporin	is a	beta-lactam
+function	improved by	rehabilitation
+edema	indicates	inflammation
+prosthesis	restores	mobility
+exudate	contains	inflammatory cells
+bacteria	cause	infection
+detailed images	show	soft tissue
+fractures	require	immobilization
+hemorrhage	risks	hypovolemia
+pressure	damages	nerves
+progress	indicates	healing
+defects	covered by	flaps
+isotonic solution	matches	plasma
+nutrition	includes	protein
+probiotics	contain	Lactobacillus
+inflammation	causes	pain
+vital signs	include	blood pressure
+Clostridium tetani	produces	neurotoxin
+beta-lactam	inhibits	cell wall synthesis
+rehabilitation	improves	quality of life
+inflammation	marked by	redness
+mobility	aided by	assistive devices
+inflammatory cells	include	neutrophils
+infection	triggers	immune response
+soft tissue	includes	muscles
+immobilization	uses	casts
+hypovolemia	treated with	fluids
+nerves	control	sensation
+healing	involves	collagen deposition
+flaps	provide	vascular supply
+plasma	contains	proteins
+protein	supports	tissue repair
+Lactobacillus	promotes	gut health
+pain	assessed with	scales
+blood pressure	indicates	circulation
+neurotoxin	causes	muscle spasms

@@ -1,0 +1,100 @@
+liver biopsy	is a	medical procedure
+liver biopsy	subtype of	biopsy
+liver biopsy	examines	liver tissue
+liver biopsy	diagnoses	liver diseases
+liver biopsy	requires	sterile technique
+percutaneous biopsy	is a type of	liver biopsy
+transjugular biopsy	is a type of	liver biopsy
+laparoscopic biopsy	is a type of	liver biopsy
+fine-needle aspiration	alternative to	liver biopsy
+image-guided biopsy	technique for	liver biopsy
+liver biopsy	detects	cirrhosis
+liver biopsy	identifies	hepatitis
+liver biopsy	confirms	fatty liver disease
+liver biopsy	evaluates	liver cancer
+liver biopsy	assesses	fibrosis stage
+liver biopsy	differentiates	autoimmune hepatitis
+liver biopsy	reveals	iron overload
+liver biopsy	determines	necroinflammation
+liver biopsy	measures	steatosis grade
+liver biopsy	verifies	drug-induced injury
+liver biopsy	samples	hepatocytes
+liver biopsy	examines	portal tracts
+liver biopsy	assesses	bile ducts
+liver biopsy	evaluates	sinusoids
+liver biopsy	inspects	Kupffer cells
+liver biopsy	requires	coagulation tests
+liver biopsy	needs	patient consent
+liver biopsy	checks	platelet count
+liver biopsy	verifies	INR levels
+liver biopsy	contraindicated in	ascites
+liver biopsy	may cause	bleeding
+liver biopsy	risk of	pneumothorax
+liver biopsy	associated with	pain
+liver biopsy	complication	infection
+liver biopsy	rare complication	bile leak
+liver biopsy	may lead to	hemobilia
+liver biopsy	potential for	vasovagal reaction
+liver biopsy	risk factor	hematoma
+liver biopsy	concern	organ perforation
+liver biopsy	mortality risk	0.01%
+ultrasound	guides	liver biopsy
+CT scan	assists	liver biopsy
+fluoroscopy	used for	transjugular biopsy
+MRI	alternative guidance for	liver biopsy
+real-time imaging	improves safety of	liver biopsy
+biopsy specimen	sent to	pathology lab
+tissue sample	processed for	histology
+liver tissue	stained with	H&E
+biopsy core	examined under	microscope
+specimen	may undergo	special stains
+FibroScan	alternative to	liver biopsy
+elastography	non-invasive alternative to	liver biopsy
+biomarkers	may replace	liver biopsy
+liquid biopsy	emerging alternative to	liver biopsy
+imaging techniques	supplement	liver biopsy
+anticoagulants	contraindicated before	liver biopsy
+NSAIDs	avoided prior to	liver biopsy
+local anesthetic	used during	liver biopsy
+sedation	optional for	liver biopsy
+vitamin K	given for	coagulopathy correction
+post-biopsy	requires	monitoring
+vital signs	checked after	liver biopsy
+bed rest	recommended post	liver biopsy
+pain medication	prescribed after	liver biopsy
+complications	monitored for	24 hours
+METAVIR score	derived from	liver biopsy
+Ishak score	calculated using	liver biopsy
+NAFLD activity score	based on	liver biopsy
+fibrosis staging	determined by	liver biopsy
+grading system	applies to	biopsy findings
+pediatric patients	require special consideration for	liver biopsy
+obese patients	challenging for	liver biopsy
+pregnant women	rarely undergo	liver biopsy
+elderly patients	higher risk for	biopsy complications
+transplant recipients	frequently need	liver biopsy
+biopsy tissue	analyzed for	genetic markers
+molecular profiling	possible with	liver biopsy
+tumor mutations	detected via	liver biopsy
+gene expression	studied using	biopsy samples
+proteomic analysis	performed on	liver tissue
+sample size	crucial for	accurate diagnosis
+core length	determines	biopsy adequacy
+fragmented samples	reduce	diagnostic yield
+pathologist expertise	affects	interpretation
+specimen handling	impacts	results
+liver biopsy	has	procedure cost
+hospitalization	sometimes required for	liver biopsy
+insurance coverage	needed for	liver biopsy
+outpatient setting	possible for	liver biopsy
+cost-effectiveness	compared to	non-invasive tests
+clinical trials	often require	liver biopsy
+drug development	utilizes	biopsy data
+biomarker discovery	depends on	liver tissue
+mechanistic studies	benefit from	biopsy samples
+longitudinal studies	track changes via	repeat biopsies
+needle design	affects	biopsy quality
+automated devices	improve	biopsy consistency
+robotic systems	emerging for	liver biopsy
+artificial intelligence	assists in	biopsy interpretation
+digital pathology	enhances	biopsy analysis

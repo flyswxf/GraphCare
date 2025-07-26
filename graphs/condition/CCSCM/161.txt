@@ -1,0 +1,100 @@
+other diseases of kidney and ureters	includes	hydronephrosis
+other diseases of kidney and ureters	includes	ureteral stricture
+other diseases of kidney and ureters	includes	nephrocalcinosis
+other diseases of kidney and ureters	includes	ureteropelvic junction obstruction
+other diseases of kidney and ureters	includes	renal cyst
+other diseases of kidney and ureters	includes	ureteral diverticulum
+hydronephrosis	causes	kidney swelling
+hydronephrosis	may lead to	kidney damage
+ureteral stricture	causes	urinary obstruction
+ureteral stricture	may require	ureteral stent
+nephrocalcinosis	involves	calcium deposits
+nephrocalcinosis	associated with	hypercalcemia
+ureteropelvic junction obstruction	causes	urine backup
+ureteropelvic junction obstruction	treated with	pyeloplasty
+renal cyst	may be	simple or complex
+renal cyst	can cause	flank pain
+ureteral diverticulum	may lead to	urinary stasis
+ureteral diverticulum	associated with	urinary tract infections
+kidney damage	leads to	chronic kidney disease
+chronic kidney disease	requires	dialysis
+urinary obstruction	causes	hydroureter
+urinary obstruction	may result in	kidney stones
+ureteral stent	relieves	blockage
+ureteral stent	may cause	discomfort
+calcium deposits	linked to	high calcium intake
+hypercalcemia	caused by	hyperparathyroidism
+urine backup	increases	infection risk
+pyeloplasty	repairs	ureteral blockage
+simple renal cyst	usually	benign
+complex renal cyst	may require	biopsy
+flank pain	treated with	analgesics
+urinary stasis	promotes	bacterial growth
+urinary tract infections	treated with	antibiotics
+chronic kidney disease	leads to	hypertension
+dialysis	replaces	kidney function
+hydroureter	seen in	ultrasound
+kidney stones	cause	renal colic
+kidney stones	treated with	lithotripsy
+discomfort from stent	managed with	pain relief
+high calcium intake	linked to	dietary habits
+hyperparathyroidism	causes	bone resorption
+infection risk	reduced by	early treatment
+ureteral blockage	diagnosed with	CT scan
+benign cyst	monitored with	imaging
+biopsy	confirms	malignancy
+analgesics	include	NSAIDs
+bacterial growth	leads to	pyelonephritis
+antibiotics	target	bacteria
+hypertension	managed with	antihypertensives
+kidney function	measured by	GFR
+ultrasound	detects	fluid buildup
+renal colic	causes	severe pain
+lithotripsy	breaks down	stones
+pain relief	includes	opioids
+dietary habits	affect	urine composition
+bone resorption	leads to	osteoporosis
+early treatment	prevents	complications
+CT scan	provides	detailed images
+imaging	includes	MRI
+malignancy	requires	oncologist
+NSAIDs	reduce	inflammation
+pyelonephritis	causes	fever
+bacteria	identified by	urine culture
+antihypertensives	lower	blood pressure
+GFR	indicates	kidney health
+fluid buildup	leads to	swelling
+severe pain	managed with	hospitalization
+stones	composed of	calcium oxalate
+opioids	risk	dependency
+urine composition	affects	stone formation
+osteoporosis	increases	fracture risk
+complications	include	sepsis
+detailed images	aid	diagnosis
+MRI	used for	soft tissue
+oncologist	treats	cancer
+inflammation	marked by	redness
+fever	treated with	antipyretics
+urine culture	identifies	pathogens
+blood pressure	monitored with	sphygmomanometer
+kidney health	declines with	age
+swelling	reduces with	diuretics
+hospitalization	ensures	close monitoring
+calcium oxalate	forms	crystals
+dependency	managed with	therapy
+stone formation	prevented by	hydration
+fracture risk	reduced by	calcium supplements
+sepsis	treated with	IV antibiotics
+diagnosis	confirmed by	lab tests
+soft tissue	evaluated with	contrast
+cancer	staged with	biopsy
+redness	indicates	inflammation
+antipyretics	lower	body temperature
+pathogens	include	E. coli
+sphygmomanometer	measures	blood pressure
+age	increases	disease susceptibility
+diuretics	promote	urine output
+close monitoring	prevents	deterioration
+crystals	aggregate into	stones
+therapy	includes	counseling
+hydration	dilutes	urine

@@ -1,0 +1,100 @@
+ligation of fallopian tubes	is a	sterilization procedure
+occlusion of fallopian tubes	is a	sterilization procedure
+ligation of fallopian tubes	prevents	pregnancy
+occlusion of fallopian tubes	prevents	pregnancy
+ligation of fallopian tubes	involves	surgical intervention
+occlusion of fallopian tubes	involves	medical device
+ligation of fallopian tubes	performed via	laparoscopy
+occlusion of fallopian tubes	performed via	hysteroscopy
+tubal ligation	synonym for	ligation of fallopian tubes
+fallopian tube occlusion	synonym for	occlusion of fallopian tubes
+ligation of fallopian tubes	requires	anesthesia
+occlusion of fallopian tubes	requires	local anesthesia
+ligation of fallopian tubes	carries risk	surgical complications
+occlusion of fallopian tubes	carries risk	device migration
+ligation of fallopian tubes	affects	fertility
+occlusion of fallopian tubes	affects	fertility
+reversal surgery	possible after	ligation of fallopian tubes
+reversal surgery	difficult after	occlusion of fallopian tubes
+ligation of fallopian tubes	alternative to	vasectomy
+occlusion of fallopian tubes	alternative to	tubal ligation
+ligation of fallopian tubes	has complication	ectopic pregnancy
+occlusion of fallopian tubes	has complication	pelvic pain
+ligation of fallopian tubes	has complication	infection
+occlusion of fallopian tubes	has complication	perforation
+ligation of fallopian tubes	has recovery time	weeks
+occlusion of fallopian tubes	has recovery time	days
+ligation of fallopian tubes	used in	postpartum sterilization
+occlusion of fallopian tubes	used in	outpatient setting
+ligation of fallopian tubes	requires	preoperative evaluation
+occlusion of fallopian tubes	requires	imaging confirmation
+fallopian tubes	part of	female reproductive system
+fallopian tubes	transport	eggs
+ligation of fallopian tubes	blocks	egg passage
+occlusion of fallopian tubes	blocks	sperm passage
+hysterectomy	alternative to	ligation of fallopian tubes
+hormonal IUD	alternative to	occlusion of fallopian tubes
+ligation of fallopian tubes	affects	menstrual cycle
+occlusion of fallopian tubes	does not affect	menstrual cycle
+ligation of fallopian tubes	irreversible in	most cases
+occlusion of fallopian tubes	potentially reversible in	some cases
+Essure	is a device for	occlusion of fallopian tubes
+Filshie clip	is a device for	ligation of fallopian tubes
+Essure	has risk	nickel allergy
+Filshie clip	has risk	tubal damage
+ligation of fallopian tubes	requires	surgical skills
+occlusion of fallopian tubes	requires	specialized training
+ligation of fallopian tubes	commonly used in	developing countries
+occlusion of fallopian tubes	commonly used in	developed countries
+ligation of fallopian tubes	has contraindication	active pelvic infection
+occlusion of fallopian tubes	has contraindication	uterine abnormalities
+ligation of fallopian tubes	increases risk	regret
+occlusion of fallopian tubes	increases risk	device failure
+fallopian tubes	connected to	uterus
+fallopian tubes	connected to	ovaries
+ligation of fallopian tubes	sometimes performed during	C-section
+occlusion of fallopian tubes	sometimes performed after	childbirth
+ligation of fallopian tubes	involves	cutting fallopian tubes
+occlusion of fallopian tubes	involves	sealing fallopian tubes
+ligation of fallopian tubes	has lower risk	hormone-related side effects
+occlusion of fallopian tubes	has lower risk	surgical complications
+ligation of fallopian tubes	preferred for	immediate sterilization
+occlusion of fallopian tubes	preferred for	minimally invasive approach
+ligation of fallopian tubes	has higher efficacy	long-term
+occlusion of fallopian tubes	has variable efficacy	long-term
+fallopian tube recanalization	treatment for	sterilization regret
+fallopian tube recanalization	less effective for	occlusion complications
+ligation of fallopian tubes	associated with	lower cancer risk
+occlusion of fallopian tubes	associated with	no cancer risk change
+salpingectomy	alternative to	ligation of fallopian tubes
+salpingectomy	reduces risk	ovarian cancer
+ligation of fallopian tubes	does not protect	STIs
+occlusion of fallopian tubes	does not protect	STIs
+ligation of fallopian tubes	covered by	insurance
+occlusion of fallopian tubes	sometimes covered by	insurance
+ligation of fallopian tubes	has CPT code
+occlusion of fallopian tubes	has unique CPT code
+ligation of fallopian tubes	has ICD-10 code
+occlusion of fallopian tubes	has ICD-10 code
+ligation of fallopian tubes	involves	sutures
+occlusion of fallopian tubes	involves	microinserts
+ligation of fallopian tubes	can be	bilateral
+occlusion of fallopian tubes	can be	unilateral
+ligation of fallopian tubes	sometimes fails
+occlusion of fallopian tubes	sometimes fails
+ligation of fallopian tubes	requires	postoperative follow-up
+occlusion of fallopian tubes	requires	imaging follow-up
+ligation of fallopian tubes	reduces need	contraception
+occlusion of fallopian tubes	reduces need	contraception
+ligation of fallopian tubes	has higher success rate
+occlusion of fallopian tubes	has lower success rate
+ligation of fallopian tubes	performed by	gynecologist
+occlusion of fallopian tubes	performed by	interventional radiologist
+ligation of fallopian tubes	has long-term data
+occlusion of fallopian tubes	has limited long-term data
+ligation of fallopian tubes	involves	abdominal incision
+occlusion of fallopian tubes	involves	vaginal approach
+ligation of fallopian tubes	sometimes combined with	endometrial ablation
+occlusion of fallopian tubes	sometimes combined with	hysteroscopic surgery
+ligation of fallopian tubes	has been used	for decades
+occlusion of fallopian tubes	newer than	ligation of fallopian tubes

@@ -1,0 +1,100 @@
+cardiac pacemaker	treats	bradycardia
+cardiac pacemaker	prevents	cardiac arrest
+cardioverter defibrillator	treats	ventricular fibrillation
+cardioverter defibrillator	prevents	sudden cardiac death
+pacemaker implantation	requires	surgical procedure
+pacemaker lead	connects to	heart muscle
+battery depletion	causes	pacemaker replacement
+device malfunction	requires	pacemaker revision
+infection	may lead to	device removal
+anticoagulation	needed for	pacemaker surgery
+pacemaker	has component	pulse generator
+lead fracture	causes	device malfunction
+pneumothorax	risk of	pacemaker insertion
+pocket hematoma	complication of	device implantation
+device infection	requires	antibiotic therapy
+MRI	contraindicated for	conventional pacemakers
+MRI-conditional pacemaker	allows for	MRI scanning
+pacemaker clinic	monitors	device function
+remote monitoring	tracks	device performance
+electrophysiologist	performs	device implantation
+cardiac surgeon	assists with	complex cases
+local anesthesia	used for	pacemaker procedures
+conscious sedation	option for	anxious patients
+axillary vein	access site for	lead insertion
+subclavian vein	alternative access for	lead placement
+sterile technique	prevents	surgical site infection
+antibiotic prophylaxis	reduces	infection risk
+pocket erosion	requires	device removal
+lead dislodgement	causes	device malfunction
+threshold testing	verifies	lead stability
+programming changes	adjust	pacing parameters
+rate-responsive pacing	improves	exercise tolerance
+atrioventricular delay	optimizes	cardiac output
+heart failure	indication for	biventricular pacing
+cardiac resynchronization therapy	improves	ejection fraction
+defibrillation threshold testing	assesses	ICD function
+shock therapy	terminates	ventricular tachycardia
+anti-tachycardia pacing	treats	ventricular arrhythmias
+electrogram	records	cardiac rhythms
+device interrogation	evaluates	system integrity
+battery longevity	determines	replacement interval
+lead extraction	requires	specialized tools
+laser sheath	assists with	lead removal
+superior vena cava	location of	lead passage
+tricuspid valve	crossed by	ventricular lead
+right ventricular apex	common site for	lead placement
+septal positioning	alternative for	ventricular lead
+His-bundle pacing	preserves	normal conduction
+left bundle branch pacing	emerging option for	physiological pacing
+pericardial effusion	risk of	lead perforation
+cardiac tamponade	emergency from	myocardial perforation
+twiddler's syndrome	causes	lead displacement
+venous stenosis	complication of	long-term leads
+contrast venography	evaluates	venous patency
+balloon angioplasty	treats	venous obstruction
+antimicrobial pouch	reduces	infection risk
+antibiotic envelope	prevents	device infection
+allergic reaction	possible to	device materials
+device recall	requires	close monitoring
+lead advisory	indicates	increased failure risk
+electromagnetic interference	affects	device function
+cell phones	potential source of	device interference
+metal detectors	generally safe for	device patients
+theft detectors	may affect	device function
+radiation therapy	requires	device protection
+electrocautery	risk for	device malfunction
+lithotripsy	contraindicated for	abdominal devices
+diathermy	absolutely contraindicated for	device patients
+air travel	generally safe for	device patients
+driving restrictions	apply to	ICD patients
+physical activity	encouraged for	pacemaker patients
+contact sports	avoided by	device patients
+swimming	permitted for	healed device sites
+weight lifting	may risk	lead dislodgement
+radiation exposure	monitored for	device patients
+pregnancy	requires special care for	device patients
+geriatric patients	special considerations for	device therapy
+pediatric patients	unique needs for	device implantation
+congenital heart disease	complicates	lead placement
+single-chamber pacing	suitable for	atrial fibrillation
+dual-chamber pacing	maintains	AV synchrony
+rate drop response	prevents	vasovagal syncope
+sleep function	adjusts	nighttime pacing
+mode switching	manages	atrial arrhythmias
+leadless pacemaker	eliminates	pocket infection
+subcutaneous ICD	avoids	transvenous leads
+wearable cardioverter	alternative to	ICD implantation
+genetic testing	identifies	inherited arrhythmias
+sarcoidosis	indication for	ICD therapy
+hypertrophic cardiomyopathy	high-risk for	sudden death
+Brugada syndrome	requires	ICD protection
+long QT syndrome	benefits from	beta-blockers
+arrhythmogenic right ventricular dysplasia	managed with	ICD
+cardiac amyloidosis	consideration for	pacemaker
+Chagas disease	leads to	conduction abnormalities
+Lyme carditis	may require	temporary pacing
+device registry	tracks	long-term outcomes
+clinical trials	evaluate	new technologies
+patient education	improves	device compliance
+shared decision making	important for	device selection

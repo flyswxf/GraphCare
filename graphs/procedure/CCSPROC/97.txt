@@ -1,0 +1,100 @@
+colonoscopy	is a	gastrointestinal diagnostic procedure
+colonoscopy	detects	colorectal cancer
+colonoscopy	requires	bowel preparation
+sigmoidoscopy	is a type of	colonoscopy
+sigmoidoscopy	examines	lower colon
+capsule endoscopy	uses	wireless camera
+capsule endoscopy	diagnoses	small intestine disorders
+endoscopic ultrasound	combines	ultrasound technology
+endoscopic ultrasound	evaluates	digestive tract layers
+ERCP	diagnoses	bile duct disorders
+ERCP	treats	gallstones
+ERCP	requires	contrast dye
+upper endoscopy	examines	esophagus
+upper endoscopy	detects	GERD
+upper endoscopy	biopsies	stomach tissue
+virtual colonoscopy	uses	CT scan
+virtual colonoscopy	alternative to	traditional colonoscopy
+enteroscopy	visualizes	small intestine
+deep enteroscopy	reaches	distal small bowel
+balloon-assisted enteroscopy	uses	overtube
+pH monitoring	measures	stomach acidity
+pH monitoring	diagnoses	acid reflux
+breath test	detects	H. pylori
+breath test	diagnoses	SIBO
+hydrogen breath test	measures	carbohydrate malabsorption
+lactose breath test	diagnoses	lactose intolerance
+fecal immunochemical test	screens	colorectal cancer
+FIT	detects	occult blood
+stool DNA test	identifies	genetic mutations
+secretin stimulation test	evaluates	pancreatic function
+gastric emptying study	measures	digestion speed
+gastric emptying study	diagnoses	gastroparesis
+barium swallow	visualizes	upper GI tract
+barium enema	examines	large intestine
+small bowel follow-through	tracks	barium movement
+defecography	assesses	rectal function
+anorectal manometry	measures	sphincter strength
+anorectal manometry	diagnoses	fecal incontinence
+esophageal manometry	evaluates	swallowing function
+esophageal manometry	detects	achalasia
+video capsule endoscopy	transmits	intestinal images
+video capsule endoscopy	contraindicated for	strictures
+endoscopic mucosal resection	removes	precancerous lesions
+endoscopic submucosal dissection	treats	early cancers
+confocal laser endomicroscopy	provides	microscopic views
+narrow band imaging	enhances	vascular patterns
+chromoendoscopy	uses	dye spraying
+chromoendoscopy	improves	polyp detection
+endocytoscopy	enables	cellular-level imaging
+autofluorescence imaging	differentiates	abnormal tissue
+infrared imaging	visualizes	submucosal vessels
+magnification endoscopy	enlarges	mucosal details
+wireless motility capsule	measures	transit time
+SmartPill	records	pH changes
+functional lumen imaging probe	assesses	esophageal lining
+endoscopic retrograde cholangioscopy	examines	bile ducts
+peroral cholangioscopy	allows	direct visualization
+spyglass cholangioscopy	provides	single-operator control
+endoscopic nasogastric tube placement	assists	feeding
+PEG tube insertion	enables	long-term nutrition
+liver biopsy	diagnoses	hepatic diseases
+transjugular liver biopsy	avoids	peritoneal cavity
+percutaneous liver biopsy	requires	local anesthesia
+EUS-guided liver biopsy	minimizes	complications
+paracentesis	removes	ascitic fluid
+paracentesis	analyzes	peritoneal fluid
+endoscopic hemostasis	controls	GI bleeding
+endoscopic hemostasis	uses	clips
+endoscopic hemostasis	applies	thermal therapy
+endoscopic variceal ligation	treats	esophageal varices
+endoscopic sclerotherapy	injects	sclerosing agents
+endoscopic balloon dilation	widens	strictures
+stent placement	relieves	obstructions
+biliary stenting	bypasses	blocked ducts
+esophageal stenting	maintains	lumen patency
+endoscopic suturing	closes	perforations
+overstitch device	enables	endoscopic sewing
+endoscopic fundoplication	treats	GERD
+transoral incisionless fundoplication	avoids	surgery
+peroral endoscopic myotomy	relieves	achalasia
+Z-line imaging	identifies	Barrett's esophagus
+confocal microscopy	detects	dysplasia
+optical coherence tomography	provides	cross-sectional views
+laser-induced fluorescence	differentiates	tumor margins
+Raman spectroscopy	analyzes	molecular composition
+elastic scattering spectroscopy	characterizes	tissue
+multispectral imaging	captures	multiple wavelengths
+hyperspectral imaging	generates	spectral signatures
+terahertz imaging	penetrates	superficial layers
+photoacoustic imaging	combines	light and sound
+fluorescence lifetime imaging	measures	molecular interactions
+diffuse reflectance spectroscopy	assesses	tissue oxygenation
+spatial frequency domain imaging	quantifies	optical properties
+polarized light imaging	reveals	collagen structure
+optical biopsy	eliminates	tissue removal
+endoscopic tattooing	marks	lesion locations
+carbon dioxide insufflation	reduces	post-procedure pain
+water immersion technique	improves	mucosal visualization
+dynamic contrast enhancement	evaluates	perfusion
+artificial intelligence	assists	lesion detection

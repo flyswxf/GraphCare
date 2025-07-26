@@ -1,0 +1,100 @@
+anti-acne preparations for topical use	is a	medication
+anti-acne preparations for topical use	treats	acne
+acne	caused by	clogged pores
+clogged pores	caused by	excess sebum
+excess sebum	produced by	sebaceous glands
+sebaceous glands	activated by	hormones
+hormones	include	androgens
+androgens	stimulate	sebum production
+acne	associated with	Propionibacterium acnes
+Propionibacterium acnes	causes	inflammation
+inflammation	leads to	red pimples
+red pimples	a symptom of	acne
+anti-acne preparations for topical use	contains	benzoyl peroxide
+benzoyl peroxide	kills	bacteria
+bacteria	includes	Propionibacterium acnes
+benzoyl peroxide	reduces	inflammation
+inflammation	causes	swelling
+swelling	a sign of	acne
+anti-acne preparations for topical use	contains	salicylic acid
+salicylic acid	exfoliates	skin
+skin	composed of	keratinocytes
+keratinocytes	shed in	exfoliation
+exfoliation	prevents	clogged pores
+salicylic acid	reduces	oiliness
+oiliness	caused by	sebum
+anti-acne preparations for topical use	contains	retinoids
+retinoids	derived from	vitamin A
+vitamin A	regulates	skin cell turnover
+skin cell turnover	affects	acne
+retinoids	unclog	pores
+pores	blocked by	dead skin cells
+dead skin cells	mix with	sebum
+anti-acne preparations for topical use	contains	antibiotics
+antibiotics	fight	bacterial infections
+bacterial infections	worsen	acne
+antibiotics	reduce	inflammation
+inflammation	causes	pain
+pain	a symptom of	severe acne
+anti-acne preparations for topical use	requires	doctor prescription
+doctor prescription	based on	acne severity
+acne severity	classified as	mild
+mild acne	treated with	OTC products
+OTC products	include	benzoyl peroxide
+acne severity	classified as	moderate
+moderate acne	treated with	retinoids
+acne severity	classified as	severe
+severe acne	treated with	oral medication
+oral medication	includes	isotretinoin
+isotretinoin	reduces	sebum production
+sebum production	linked to	hormonal changes
+hormonal changes	common in	puberty
+puberty	increases	androgen levels
+androgen levels	affect	acne development
+anti-acne preparations for topical use	interacts with	moisturizers
+moisturizers	prevent	skin dryness
+skin dryness	caused by	acne treatments
+acne treatments	include	retinoids
+moisturizers	contain	hyaluronic acid
+hyaluronic acid	hydrates	skin
+anti-acne preparations for topical use	contraindicated in	pregnancy
+pregnancy	increases	hormone levels
+hormone levels	affect	acne
+retinoids	unsafe during	pregnancy
+pregnancy	requires	doctor consultation
+doctor consultation	assesses	treatment safety
+anti-acne preparations for topical use	causes	skin irritation
+skin irritation	includes	redness
+redness	a side effect of	benzoyl peroxide
+skin irritation	includes	peeling
+peeling	caused by	retinoids
+anti-acne preparations for topical use	improves	skin texture
+skin texture	affected by	acne scars
+acne scars	caused by	severe acne
+severe acne	leads to	hyperpigmentation
+hyperpigmentation	treated with	lightening creams
+lightening creams	contain	niacinamide
+niacinamide	reduces	dark spots
+dark spots	caused by	acne lesions
+anti-acne preparations for topical use	requires	consistent use
+consistent use	prevents	acne recurrence
+acne recurrence	influenced by	diet
+diet	includes	high-glycemic foods
+high-glycemic foods	worsen	acne
+diet	includes	dairy products
+dairy products	may trigger	acne
+anti-acne preparations for topical use	applied to	clean skin
+clean skin	achieved with	gentle cleansers
+gentle cleansers	remove	dirt
+dirt	clogs	pores
+anti-acne preparations for topical use	works best at	night
+night	optimal for	skin repair
+skin repair	enhanced by	retinoids
+retinoids	degrade in	sunlight
+sunlight	contains	UV rays
+UV rays	damage	skin
+anti-acne preparations for topical use	should avoid	sun exposure
+sun exposure	increases	irritation risk
+irritation risk	minimized with	sunscreen
+sunscreen	protects against	UV damage
+UV damage	causes	premature aging

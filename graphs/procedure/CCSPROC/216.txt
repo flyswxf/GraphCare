@@ -1,0 +1,100 @@
+respiratory intubation	is a	medical procedure
+mechanical ventilation	is a	life support technique
+respiratory intubation	enables	mechanical ventilation
+mechanical ventilation	treats	respiratory failure
+respiratory intubation	requires	sedation
+mechanical ventilation	requires	ventilator
+ventilator	delivers	oxygen
+oxygen	supports	cellular respiration
+respiratory failure	caused by	pneumonia
+pneumonia	treated with	antibiotics
+respiratory intubation	performed in	ICU
+ICU	has	critical care team
+critical care team	includes	intensivists
+intensivists	prescribe	ventilator settings
+ventilator settings	include	PEEP
+PEEP	prevents	alveolar collapse
+alveolar collapse	causes	hypoxemia
+hypoxemia	leads to	organ failure
+organ failure	increases	mortality risk
+mechanical ventilation	causes	ventilator-induced lung injury
+ventilator-induced lung injury	requires	protective ventilation
+protective ventilation	uses	low tidal volumes
+low tidal volumes	reduce	barotrauma
+barotrauma	causes	pneumothorax
+pneumothorax	treated with	chest tube
+respiratory intubation	requires	endotracheal tube
+endotracheal tube	has	cuff
+cuff	prevents	aspiration
+aspiration	causes	pneumonia
+mechanical ventilation	associated with	ventilator-associated pneumonia
+ventilator-associated pneumonia	increases	ICU stay
+prolonged ICU stay	raises	healthcare costs
+respiratory intubation	can lead to	laryngeal injury
+laryngeal injury	causes	voice changes
+voice changes	assessed by	speech therapy
+speech therapy	helps	post-extubation recovery
+mechanical ventilation	requires	arterial blood gas monitoring
+arterial blood gas	measures	oxygenation
+oxygenation	determines	ventilator adjustments
+respiratory intubation	contraindicated in	severe facial trauma
+severe facial trauma	may require	tracheostomy
+tracheostomy	alternative to	prolonged intubation
+prolonged intubation	increases	infection risk
+infection risk	reduced by	sterile technique
+sterile technique	includes	hand hygiene
+hand hygiene	prevents	nosocomial infections
+mechanical ventilation	can cause	diaphragm dysfunction
+diaphragm dysfunction	leads to	weaning failure
+weaning failure	prolongs	ventilator dependence
+ventilator dependence	requires	rehabilitation
+rehabilitation	improves	respiratory muscle strength
+respiratory muscle strength	assessed by	spirometry
+spirometry	measures	lung function
+lung function	affected by	chronic obstructive pulmonary disease
+chronic obstructive pulmonary disease	exacerbation requires	non-invasive ventilation
+non-invasive ventilation	alternative to	intubation
+respiratory intubation	requires	rapid sequence induction
+rapid sequence induction	uses	neuromuscular blockers
+neuromuscular blockers	cause	paralysis
+paralysis	requires	continuous monitoring
+continuous monitoring	includes	pulse oximetry
+pulse oximetry	measures	oxygen saturation
+oxygen saturation	indicates	respiratory status
+respiratory status	deteriorates in	ARDS
+ARDS	managed with	prone positioning
+prone positioning	improves	oxygenation
+mechanical ventilation	can induce	ventilator dyssynchrony
+ventilator dyssynchrony	causes	patient discomfort
+patient discomfort	requires	sedation adjustment
+sedation adjustment	aims for	RASS score
+RASS score	guides	analgesia
+analgesia	reduces	pain
+pain	increases	sympathetic response
+sympathetic response	elevates	blood pressure
+blood pressure	monitored via	arterial line
+arterial line	allows	blood sampling
+respiratory intubation	complications include	esophageal intubation
+esophageal intubation	detected by	capnography
+capnography	confirms	tracheal placement
+mechanical ventilation	modes include	pressure control
+pressure control	maintains	airway pressure
+airway pressure	affects	cardiac output
+cardiac output	determines	tissue perfusion
+tissue perfusion	impacts	organ function
+organ function	assessed by	lab tests
+lab tests	include	lactate levels
+lactate levels	indicate	tissue hypoxia
+tissue hypoxia	corrected by	oxygen therapy
+oxygen therapy	delivered via	nasal cannula
+nasal cannula	used for	oxygen supplementation
+respiratory intubation	requires	preoxygenation
+preoxygenation	increases	oxygen reserves
+oxygen reserves	prolong	safe apnea time
+safe apnea time	crucial for	emergency intubation
+emergency intubation	performed in	cardiac arrest
+cardiac arrest	managed with	CPR
+CPR	includes	chest compressions
+chest compressions	maintain	circulation
+circulation	delivers	oxygenated blood
+oxygenated blood	sustains	vital organs

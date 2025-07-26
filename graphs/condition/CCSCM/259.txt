@@ -1,0 +1,50 @@
+residual codes	are part of	ICD classification
+residual codes	represent	unspecified conditions
+residual codes	may lead to	diagnostic uncertainty
+residual codes	require	clinical clarification
+unclassified codes	are a subset of	residual codes
+unclassified codes	indicate	incomplete diagnosis
+unclassified codes	may affect	billing accuracy
+unclassified codes	correlate with	lower reimbursement
+unclassified codes	increase	administrative workload
+unclassified codes	delay	treatment planning
+unclassified codes	necessitate	further testing
+unclassified codes	reduce	data quality
+unclassified codes	complicate	epidemiological studies
+unclassified codes	are mitigated by	physician education
+unclassified codes	are addressed in	coding guidelines
+ICD-10	includes	residual codes
+ICD-11	revises	residual code usage
+electronic health records	flag	unclassified codes
+clinical documentation	reduces	unclassified codes
+healthcare analytics	exclude	unclassified codes
+unclassified codes	lower	predictive model accuracy
+unclassified codes	increase	hospital readmissions
+unclassified codes	correlate with	longer hospital stays
+unclassified codes	are associated with	higher costs
+unclassified codes	trigger	audit flags
+coding specialists	review	unclassified codes
+unclassified codes	require	manual intervention
+natural language processing	helps classify	unclassified codes
+machine learning	predicts	correct codes
+unclassified codes	affect	quality metrics
+unclassified codes	impact	risk adjustment
+unclassified codes	skew	performance benchmarks
+unclassified codes	complicate	population health management
+unclassified codes	hinder	comparative effectiveness research
+unclassified codes	reduce	care coordination
+unclassified codes	delay	prior authorization
+unclassified codes	increase	claim denials
+unclassified codes	require	physician queries
+clinical decision support	suggests alternatives for	unclassified codes
+unclassified codes	are more common in	emergency departments
+unclassified codes	occur frequently with	rare diseases
+unclassified codes	are prevalent in	outpatient settings
+unclassified codes	correlate with	diagnostic complexity
+unclassified codes	link to	comorbidities
+unclassified codes	appear in	transitional care
+unclassified codes	complicate	care transitions
+unclassified codes	affect	mortality prediction
+unclassified codes	reduce	risk stratification accuracy
+unclassified codes	influence	resource allocation
+unclassified codes	vary by	hospital type

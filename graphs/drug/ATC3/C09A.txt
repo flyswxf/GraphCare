@@ -1,0 +1,100 @@
+ace inhibitors	are	antihypertensive drugs
+ace inhibitors	treat	hypertension
+ace inhibitors	treat	heart failure
+ace inhibitors	prevent	diabetic nephropathy
+ace inhibitors	reduce	proteinuria
+ace inhibitors	may cause	dry cough
+ace inhibitors	contraindicated in	pregnancy
+ace inhibitors	interact with	potassium supplements
+ace inhibitors	increase	bradykinin levels
+ace inhibitors	lower	blood pressure
+hypertension	is risk factor for	stroke
+hypertension	causes	cardiovascular disease
+heart failure	requires	medication management
+diabetic nephropathy	leads to	kidney failure
+proteinuria	indicates	kidney damage
+dry cough	may require	drug discontinuation
+pregnancy	contraindicates	ACE inhibitors
+potassium supplements	risk	hyperkalemia
+bradykinin	causes	vasodilation
+blood pressure	measured by	sphygmomanometer
+ace inhibitors	include	lisinopril
+ace inhibitors	include	enalapril
+ace inhibitors	include	ramipril
+lisinopril	is	prodrug
+enalapril	metabolized to	enalaprilat
+ramipril	prevents	myocardial infarction
+prodrug	requires	activation
+enalaprilat	is	active metabolite
+myocardial infarction	causes	heart damage
+ace inhibitors	compete with	ARBs
+ARBs	alternative to	ace inhibitors
+ARBs	avoid	cough side effect
+cough side effect	mediated by	bradykinin
+bradykinin	broken down by	ACE
+ACE	stands for	angiotensin-converting enzyme
+angiotensin-converting enzyme	converts	angiotensin I
+angiotensin I	converts to	angiotensin II
+angiotensin II	causes	vasoconstriction
+vasoconstriction	increases	blood pressure
+ace inhibitors	block	angiotensin II formation
+angiotensin II	stimulates	aldosterone release
+aldosterone	promotes	sodium retention
+sodium retention	increases	fluid volume
+fluid volume	affects	blood pressure
+ace inhibitors	decrease	aldosterone levels
+aldosterone levels	influence	potassium excretion
+potassium excretion	affects	serum potassium
+serum potassium	monitored during	ACE inhibitor therapy
+ACE inhibitor therapy	requires	renal function tests
+renal function tests	measure	creatinine levels
+creatinine levels	indicate	kidney function
+kidney function	affects	drug clearance
+drug clearance	determines	dosage
+dosage	adjusted for	elderly patients
+elderly patients	have	increased sensitivity
+increased sensitivity	requires	lower doses
+lower doses	reduce	adverse effects
+adverse effects	include	hypotension
+hypotension	causes	dizziness
+dizziness	increases	fall risk
+fall risk	concerns	geriatric patients
+geriatric patients	need	careful monitoring
+careful monitoring	includes	blood tests
+blood tests	check for	electrolyte imbalances
+electrolyte imbalances	involve	sodium
+electrolyte imbalances	involve	potassium
+potassium imbalances	cause	arrhythmias
+arrhythmias	require	ECG monitoring
+ECG monitoring	detects	QT prolongation
+QT prolongation	risks	torsades de pointes
+torsades de pointes	is	life-threatening
+life-threatening arrhythmias	need	hospitalization
+hospitalization	increases	healthcare costs
+healthcare costs	affected by	medication adherence
+medication adherence	improves	outcomes
+outcomes	measured by	mortality rates
+mortality rates	higher in	non-adherent patients
+non-adherent patients	have	more complications
+complications	include	stroke
+complications	include	heart attack
+heart attack	treated with	emergency care
+emergency care	involves	revascularization
+revascularization	includes	stenting
+stenting	requires	antiplatelet therapy
+antiplatelet therapy	combines with	ACE inhibitors
+ACE inhibitors	improve	post-MI survival
+post-MI survival	depends on	ejection fraction
+ejection fraction	measured by	echocardiogram
+echocardiogram	assesses	cardiac function
+cardiac function	predicts	readmission risk
+readmission risk	reduced by	guideline therapy
+guideline therapy	includes	beta blockers
+beta blockers	complement	ACE inhibitors
+ACE inhibitors	part of	standard regimen
+standard regimen	follows	clinical guidelines
+clinical guidelines	based on	randomized trials
+randomized trials	establish	efficacy
+efficacy	compared to	placebo
+placebo	controls for	bias
+bias	affects	study validity

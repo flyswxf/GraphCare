@@ -1,0 +1,100 @@
+diagnostic ultrasound	is a	medical imaging technique
+gastrointestinal tract	contains	stomach
+gastrointestinal tract	contains	intestines
+diagnostic ultrasound	uses	sound waves
+diagnostic ultrasound	is non-invasive	procedure
+gastrointestinal ultrasound	evaluates	bowel obstruction
+gastrointestinal ultrasound	detects	appendicitis
+gastrointestinal ultrasound	assesses	gallstones
+gastrointestinal ultrasound	examines	liver
+gastrointestinal ultrasound	visualizes	pancreas
+ultrasound technologist	performs	diagnostic ultrasound
+radiologist	interprets	ultrasound results
+gastroenterologist	orders	gastrointestinal ultrasound
+abdominal pain	may require	gastrointestinal ultrasound
+gastrointestinal bleeding	may require	gastrointestinal ultrasound
+diagnostic ultrasound	is safer than	CT scan
+diagnostic ultrasound	has no	radiation
+endoscopic ultrasound	combines	endoscopy
+endoscopic ultrasound	provides higher resolution	images
+gastrointestinal ultrasound	can diagnose	Crohn's disease
+gastrointestinal ultrasound	identifies	tumors
+gastrointestinal ultrasound	detects	abscesses
+gastrointestinal ultrasound	evaluates	lymph nodes
+gastrointestinal ultrasound	measures	intestinal wall thickness
+gastrointestinal ultrasound	assesses	blood flow
+Doppler ultrasound	measures	blood velocity
+Doppler ultrasound	detects	ischemia
+contrast-enhanced ultrasound	improves	detection
+contrast-enhanced ultrasound	uses	microbubbles
+fasting	is required for	gastrointestinal ultrasound
+bowel preparation	may be needed for	gastrointestinal ultrasound
+transabdominal ultrasound	uses external	transducer
+endorectal ultrasound	evaluates	rectum
+endoscopic ultrasound	biopsies	lesions
+gastrointestinal ultrasound	monitors	treatment response
+gastrointestinal ultrasound	follows up	surgeries
+gastrointestinal ultrasound	screens for	cancers
+gastrointestinal ultrasound	detects	metastases
+gastrointestinal ultrasound	evaluates	trauma
+gastrointestinal ultrasound	assesses	inflammation
+gallbladder ultrasound	detects	cholecystitis
+liver ultrasound	evaluates	cirrhosis
+liver ultrasound	detects	fatty liver
+pancreatic ultrasound	assesses	pancreatitis
+spleen ultrasound	evaluates	enlargement
+intestinal ultrasound	detects	intussusception
+intestinal ultrasound	identifies	hernias
+intestinal ultrasound	evaluates	motility
+gastric ultrasound	assesses	emptying
+gastric ultrasound	detects	pyloric stenosis
+esophageal ultrasound	evaluates	motility disorders
+ultrasound gel	improves	image quality
+patient position	affects	ultrasound images
+obesity	reduces	ultrasound accuracy
+bowel gas	interferes with	ultrasound
+gastrointestinal ultrasound	is cheaper than	MRI
+gastrointestinal ultrasound	is faster than	CT
+portable ultrasound	enables	bedside exams
+pediatric patients	undergo	gastrointestinal ultrasound
+pregnant patients	prefer	ultrasound
+gastrointestinal ultrasound	guides	biopsies
+gastrointestinal ultrasound	assists	drainage procedures
+gastrointestinal ultrasound	monitors	abscess drainage
+gastrointestinal ultrasound	evaluates	stents
+gastrointestinal ultrasound	checks for	leaks
+postoperative patients	need	ultrasound
+gastrointestinal ultrasound	detects	fistulas
+gastrointestinal ultrasound	identifies	strictures
+gastrointestinal ultrasound	evaluates	transplants
+gastrointestinal ultrasound	assesses	rejection
+chronic diarrhea	may require	ultrasound
+weight loss	may require	ultrasound
+jaundice	may require	ultrasound
+liver function tests	correlate with	ultrasound
+tumor markers	correlate with	ultrasound
+inflammatory markers	correlate with	ultrasound
+gastrointestinal ultrasound	complements	endoscopy
+gastrointestinal ultrasound	supplements	colonoscopy
+ultrasound findings	guide	treatment plans
+ultrasound images	are stored in	PACS
+ultrasound report	includes	measurements
+ultrasound report	documents	abnormalities
+follow-up ultrasound	monitors	progression
+serial ultrasounds	track	disease course
+emergency departments	use	gastrointestinal ultrasound
+intensive care units	use	gastrointestinal ultrasound
+outpatient clinics	perform	gastrointestinal ultrasound
+ambulatory centers	offer	gastrointestinal ultrasound
+rural areas	rely on	portable ultrasound
+developing countries	depend on	ultrasound
+ultrasound training	requires	certification
+ultrasound accreditation	ensures	quality
+AI algorithms	assist in	ultrasound interpretation
+telemedicine	enables	remote interpretation
+3D ultrasound	provides	volumetric imaging
+contrast agents	enhance	ultrasound sensitivity
+elastography	measures	tissue stiffness
+ultrasound research	improves	techniques
+new transducers	increase	resolution
+gastrointestinal ultrasound	remains essential	diagnostic tool

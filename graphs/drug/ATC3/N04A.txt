@@ -1,0 +1,100 @@
+anticholinergic agents	is a	drug class
+anticholinergic agents	blocks	acetylcholine
+acetylcholine	is a	neurotransmitter
+anticholinergic agents	affects	parasympathetic nervous system
+parasympathetic nervous system	regulates	rest and digest functions
+anticholinergic agents	treats	overactive bladder
+anticholinergic agents	treats	Parkinson's disease
+anticholinergic agents	treats	chronic obstructive pulmonary disease
+anticholinergic agents	treats	asthma
+anticholinergic agents	treats	motion sickness
+anticholinergic agents	treats	gastrointestinal disorders
+anticholinergic agents	causes	dry mouth
+anticholinergic agents	causes	blurred vision
+anticholinergic agents	causes	constipation
+anticholinergic agents	causes	urinary retention
+anticholinergic agents	causes	cognitive impairment
+anticholinergic agents	contraindicated in	glaucoma
+glaucoma	is a	eye disease
+anticholinergic agents	contraindicated in	benign prostatic hyperplasia
+benign prostatic hyperplasia	is a	prostate condition
+anticholinergic agents	interacts with	antihistamines
+antihistamines	treats	allergies
+anticholinergic agents	interacts with	tricyclic antidepressants
+tricyclic antidepressants	treats	depression
+anticholinergic agents	interacts with	antipsychotics
+antipsychotics	treats	schizophrenia
+anticholinergic agents	includes	atropine
+atropine	used in	bradycardia
+bradycardia	is a	heart condition
+anticholinergic agents	includes	scopolamine
+scopolamine	treats	nausea
+anticholinergic agents	includes	ipratropium
+ipratropium	treats	COPD
+anticholinergic agents	includes	oxybutynin
+oxybutynin	treats	urinary incontinence
+urinary incontinence	is a	bladder disorder
+anticholinergic agents	includes	tolterodine
+tolterodine	reduces	bladder spasms
+anticholinergic agents	includes	benztropine
+benztropine	treats	Parkinson's symptoms
+Parkinson's disease	involves	dopamine deficiency
+anticholinergic agents	increases risk of	heat stroke
+heat stroke	is a	medical emergency
+anticholinergic agents	reduces	sweating
+sweating	regulates	body temperature
+anticholinergic agents	may worsen	dementia
+dementia	is a	cognitive disorder
+anticholinergic agents	used in	preanesthesia
+preanesthesia	prepares for	surgery
+anticholinergic agents	inhibits	salivation
+salivation	aids in	digestion
+anticholinergic agents	affects	heart rate
+heart rate	controlled by	autonomic nervous system
+anticholinergic agents	dilates	pupils
+pupils	part of	eye
+anticholinergic agents	reduces	respiratory secretions
+respiratory secretions	can cause	airway obstruction
+anticholinergic agents	used in	poisoning treatment
+poisoning treatment	involves	toxin removal
+anticholinergic agents	antagonizes	muscarinic receptors
+muscarinic receptors	binds	acetylcholine
+anticholinergic agents	competes with	acetylcholine
+acetylcholine	activates	muscle contraction
+anticholinergic agents	impairs	memory
+memory	involves	hippocampus
+anticholinergic agents	induces	sedation
+sedation	reduces	anxiety
+anticholinergic agents	contraindicated in	myasthenia gravis
+myasthenia gravis	is a	neuromuscular disorder
+anticholinergic agents	used in	irritable bowel syndrome
+irritable bowel syndrome	affects	colon
+anticholinergic agents	alleviates	abdominal cramps
+abdominal cramps	caused by	muscle spasms
+anticholinergic agents	may cause	dizziness
+dizziness	associated with	balance issues
+anticholinergic agents	increases	intraocular pressure
+intraocular pressure	affects	optic nerve
+anticholinergic agents	reduces	bronchoconstriction
+bronchoconstriction	occurs in	asthma
+anticholinergic agents	may lead to	delirium
+delirium	is a	mental confusion
+anticholinergic agents	used in	palliative care
+palliative care	improves	quality of life
+anticholinergic agents	counteracts	cholinergic toxicity
+cholinergic toxicity	caused by	pesticide exposure
+anticholinergic agents	reduces	nausea
+nausea	precedes	vomiting
+anticholinergic agents	interferes with	thermoregulation
+thermoregulation	maintains	body heat
+anticholinergic agents	used in	ophthalmology
+ophthalmology	studies	eye diseases
+anticholinergic agents	enhances	pupil dilation
+pupil dilation	needed for	eye exams
+anticholinergic agents	contraindicated in	tachycardia
+tachycardia	is a	rapid heart rate
+anticholinergic agents	may cause	hallucinations
+hallucinations	involve	sensory perception
+anticholinergic agents	prescribed for	drooling
+drooling	caused by	excessive saliva
+anticholinergic agents	monitored in	elderly patients

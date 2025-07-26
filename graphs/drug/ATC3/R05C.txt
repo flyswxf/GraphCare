@@ -1,0 +1,100 @@
+expectorants	treat	mucus buildup
+expectorants	aid in	cough relief
+expectorants	exclude	cough suppressants
+expectorants	promote	mucus clearance
+expectorants	used for	respiratory conditions
+respiratory conditions	include	bronchitis
+respiratory conditions	include	COPD
+COPD	is a	chronic lung disease
+chronic lung disease	requires	long-term management
+long-term management	involves	medication adherence
+expectorants	contain	guaifenesin
+guaifenesin	is a	mucolytic agent
+mucolytic agent	thins	mucus
+thinned mucus	eases	expectoration
+expectorants	contraindicated with	certain medications
+certain medications	include	opioids
+opioids	suppress	cough reflex
+cough reflex	protects	airways
+airways	can be	obstructed
+obstructed airways	cause	breathing difficulty
+breathing difficulty	requires	medical intervention
+medical intervention	may involve	bronchodilators
+bronchodilators	relax	bronchial muscles
+bronchial muscles	surround	airways
+expectorants	prescribed for	productive cough
+productive cough	expels	phlegm
+phlegm	contains	pathogens
+pathogens	cause	infections
+infections	lead to	inflammation
+inflammation	triggers	immune response
+immune response	involves	white blood cells
+white blood cells	fight	infection
+expectorants	interact with	antihistamines
+antihistamines	dry	mucus membranes
+dried mucus membranes	worsen	congestion
+congestion	affects	sinus drainage
+sinus drainage	prevents	sinusitis
+sinusitis	causes	facial pain
+facial pain	treated with	analgesics
+analgesics	reduce	discomfort
+expectorants	found in	OTC medications
+OTC medications	available without	prescription
+prescription drugs	require	doctor approval
+doctor approval	based on	diagnosis
+diagnosis	involves	physical exam
+physical exam	assesses	symptoms
+symptoms	guide	treatment plan
+treatment plan	includes	dosage instructions
+dosage instructions	prevent	overdose
+overdose	leads to	toxicity
+toxicity	requires	emergency care
+emergency care	stabilizes	patient
+patient	monitored for	side effects
+side effects	may include	dizziness
+dizziness	increases	fall risk
+fall risk	higher in	elderly
+elderly	more susceptible	to drug interactions
+drug interactions	affect	metabolism
+metabolism	influenced by	liver function
+liver function	impacted by	disease
+disease	can be	acute or chronic
+chronic disease	managed with	lifestyle changes
+lifestyle changes	include	hydration
+hydration	helps	mucus thinning
+mucus thinning	facilitated by	expectorants
+expectorants	not recommended for	dry cough
+dry cough	caused by	irritation
+irritation	results from	allergens
+allergens	trigger	histamine release
+histamine release	causes	allergy symptoms
+allergy symptoms	treated with	antihistamines
+antihistamines	counteract	histamine effects
+expectorants	sometimes combined	with decongestants
+decongestants	reduce	nasal swelling
+nasal swelling	blocks	nasal passages
+nasal passages	important for	breathing
+breathing	essential for	oxygen exchange
+oxygen exchange	occurs in	lungs
+lungs	damaged by	smoking
+smoking	increases	mucus production
+mucus production	countered by	expectorants
+expectorants	work best with	adequate fluids
+adequate fluids	maintain	hydration
+hydration	supports	immune function
+immune function	weakened by	stress
+stress	exacerbates	respiratory issues
+respiratory issues	require	prompt treatment
+prompt treatment	prevents	complications
+complications	may lead to	hospitalization
+hospitalization	increases	healthcare costs
+healthcare costs	influenced by	medication prices
+medication prices	vary by	brand or generic
+generic drugs	are	cost-effective
+cost-effective options	preferred by	insurers
+insurers	cover	prescribed medications
+prescribed medications	require	pharmacy visit
+pharmacy visit	allows for	pharmacist consultation
+pharmacist consultation	ensures	safe usage
+safe usage	minimizes	adverse effects
+adverse effects	reported to	healthcare provider

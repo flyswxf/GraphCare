@@ -1,0 +1,100 @@
+urine test drugs	detects	drug metabolites
+urine test drugs	used for	drug screening
+drug screening	helps in	substance abuse diagnosis
+substance abuse diagnosis	may require	medical intervention
+medical intervention	can involve	rehabilitation
+urine test drugs	has	detection window
+detection window	varies by	drug type
+drug type	includes	opioids
+opioids	can cause	addiction
+addiction	increases risk of	overdose
+urine test drugs	screens for	cannabinoids
+cannabinoids	include	THC
+THC	affects	cognitive function
+cognitive function	impaired by	chronic use
+urine test drugs	tests for	amphetamines
+amphetamines	used in	ADHD treatment
+ADHD treatment	may require	prescription drugs
+prescription drugs	can be	misused
+misused drugs	lead to	legal consequences
+legal consequences	may include	probation
+urine test drugs	detects	cocaine
+cocaine	classified as	stimulant
+stimulant	increases	heart rate
+increased heart rate	can cause	cardiovascular risk
+cardiovascular risk	linked to	hypertension
+hypertension	managed with	antihypertensive drugs
+urine test drugs	checks for	benzodiazepines
+benzodiazepines	prescribed for	anxiety disorders
+anxiety disorders	treated with	therapy
+therapy	includes	cognitive behavioral therapy
+urine test drugs	identifies	barbiturates
+barbiturates	used as	sedatives
+sedatives	can lead to	respiratory depression
+respiratory depression	requires	medical monitoring
+medical monitoring	involves	vital sign checks
+urine test drugs	screens for	PCP
+PCP	causes	hallucinations
+hallucinations	associated with	psychotic episodes
+psychotic episodes	treated with	antipsychotics
+antipsychotics	may have	side effects
+side effects	include	weight gain
+weight gain	linked to	metabolic syndrome
+metabolic syndrome	increases risk of	diabetes
+diabetes	managed with	insulin therapy
+urine test drugs	detects	MDMA
+MDMA	classified as	recreational drug
+recreational drug	increases	serotonin levels
+serotonin levels	affect	mood regulation
+mood regulation	disrupted in	depression
+depression	treated with	antidepressants
+antidepressants	may interact with	other medications
+other medications	include	MAO inhibitors
+MAO inhibitors	require	dietary restrictions
+dietary restrictions	avoid	tyramine-rich foods
+tyramine-rich foods	include	aged cheese
+urine test drugs	used in	workplace testing
+workplace testing	enforces	drug-free policies
+drug-free policies	aim to	improve safety
+improved safety	reduces	workplace accidents
+workplace accidents	result in	compensation claims
+urine test drugs	performed in	clinical labs
+clinical labs	require	trained technicians
+trained technicians	follow	standard protocols
+standard protocols	ensure	result accuracy
+result accuracy	critical for	legal cases
+legal cases	involve	forensic evidence
+forensic evidence	supports	criminal investigations
+criminal investigations	may lead to	prosecutions
+urine test drugs	has	false positives
+false positives	caused by	cross-reactivity
+cross-reactivity	occurs with	certain medications
+certain medications	include	ibuprofen
+ibuprofen	used for	pain relief
+pain relief	needed in	chronic conditions
+chronic conditions	include	arthritis
+arthritis	managed with	anti-inflammatory drugs
+anti-inflammatory drugs	can cause	gastrointestinal issues
+gastrointestinal issues	treated with	proton pump inhibitors
+proton pump inhibitors	reduce	stomach acid
+stomach acid	essential for	digestion
+urine test drugs	has	cutoff levels
+cutoff levels	determine	positive result
+positive result	triggers	confirmatory testing
+confirmatory testing	uses	GC-MS
+GC-MS	provides	high accuracy
+high accuracy	needed for	medical decisions
+medical decisions	affect	patient care
+patient care	involves	multidisciplinary teams
+multidisciplinary teams	include	nurses
+nurses	administer	medications
+medications	prescribed by	doctors
+doctors	follow	clinical guidelines
+clinical guidelines	based on	research evidence
+research evidence	derived from	clinical trials
+clinical trials	require	ethical approval
+ethical approval	granted by	review boards
+review boards	ensure	participant safety
+participant safety	monitored by	study coordinators
+study coordinators	oversee	data collection
+data collection	used for	statistical analysis

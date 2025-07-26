@@ -1,0 +1,100 @@
+short gestation	increases risk of	low birth weight
+short gestation	increases risk of	fetal growth retardation
+low birth weight	is associated with	fetal growth retardation
+maternal smoking	causes	short gestation
+maternal malnutrition	causes	fetal growth retardation
+preeclampsia	causes	fetal growth retardation
+placental insufficiency	causes	low birth weight
+preterm birth	results in	short gestation
+neonatal intensive care	is required for	low birth weight infants
+kangaroo mother care	benefits	low birth weight infants
+intrauterine growth restriction	leads to	fetal growth retardation
+antenatal corticosteroids	prevent	short gestation complications
+magnesium sulfate	prevents	neurological complications in preterm birth
+surfactant therapy	treats	respiratory distress in preterm infants
+gestational diabetes	increases risk of	fetal growth abnormalities
+maternal hypertension	contributes to	fetal growth retardation
+zinc deficiency	is linked to	fetal growth retardation
+multiple gestation	increases risk of	preterm birth
+cervical cerclage	prevents	preterm birth
+amniotic fluid abnormalities	indicate	fetal growth problems
+doppler ultrasound	assesses	fetal growth
+non-stress test	monitors	fetal wellbeing
+betamethasone	accelerates	fetal lung maturation
+low birth weight	increases risk of	neonatal mortality
+fetal growth retardation	predicts	developmental delays
+iron supplementation	prevents	fetal growth retardation
+folate deficiency	contributes to	fetal growth problems
+neonatal sepsis	is more common in	preterm infants
+retinopathy of prematurity	affects	preterm infants
+bronchopulmonary dysplasia	occurs in	preterm infants
+necrotizing enterocolitis	threatens	preterm infants
+kangaroo care	improves	preterm infant outcomes
+breast milk	benefits	preterm infants
+human milk fortifier	enhances	preterm infant nutrition
+continuous positive airway pressure	supports	preterm infant breathing
+antenatal care	reduces	preterm birth risk
+chorioamnionitis	triggers	preterm labor
+fetal fibronectin test	predicts	preterm birth
+cervical length measurement	assesses	preterm birth risk
+progesterone supplementation	prevents	recurrent preterm birth
+neonatal hypoglycemia	affects	growth restricted infants
+polycythemia	occurs in	growth restricted neonates
+hypothermia	threatens	low birth weight infants
+total parenteral nutrition	supports	very low birth weight infants
+developmental follow-up	monitors	preterm infant outcomes
+early intervention	improves	preterm infant development
+cerebral palsy	is more common in	preterm infants
+learning disabilities	affect	preterm children
+attention deficits	occur in	preterm children
+autism spectrum disorder	is more prevalent in	preterm children
+neonatal jaundice	is more severe in	preterm infants
+phototherapy	treats	neonatal jaundice
+exchange transfusion	treats	severe neonatal jaundice
+neonatal seizures	threaten	growth restricted infants
+hypoxic-ischemic encephalopathy	affects	growth restricted neonates
+therapeutic hypothermia	treats	neonatal encephalopathy
+intraventricular hemorrhage	occurs in	preterm infants
+periventricular leukomalacia	affects	preterm infants
+neonatal meningitis	threatens	preterm infants
+antibiotic therapy	treats	neonatal infections
+respiratory syncytial virus	threatens	preterm infants
+palivizumab	prevents	RSV infection
+vaccination	protects	preterm infants
+maternal stress	contributes to	preterm birth
+maternal age	influences	preterm birth risk
+assisted reproductive technology	increases	multiple gestation
+in vitro fertilization	increases	preterm birth risk
+uterine abnormalities	cause	fetal growth restriction
+maternal infection	triggers	preterm labor
+group B streptococcus	threatens	preterm infants
+antenatal antibiotics	prevent	neonatal sepsis
+maternal obesity	increases	pregnancy complications
+gestational weight gain	affects	fetal growth
+maternal diabetes	causes	fetal macrosomia
+insulin therapy	manages	gestational diabetes
+fetal monitoring	assesses	growth restriction
+biophysical profile	evaluates	fetal wellbeing
+umbilical artery doppler	assesses	placental function
+fetal echocardiography	detects	cardiac anomalies
+neonatal screening	identifies	metabolic disorders
+hearing screening	detects	neonatal hearing loss
+newborn resuscitation	supports	compromised neonates
+oxygen therapy	treats	neonatal respiratory distress
+mechanical ventilation	supports	preterm infant breathing
+inhaled nitric oxide	treats	persistent pulmonary hypertension
+neonatal abstinence syndrome	affects	drug-exposed infants
+methadone	treats	neonatal abstinence syndrome
+maternal opioid use	causes	neonatal withdrawal
+neonatal neuroimaging	detects	brain abnormalities
+magnetic resonance imaging	evaluates	neonatal brain
+cranial ultrasound	screens	preterm infant brains
+early childhood education	benefits	preterm children
+speech therapy	helps	preterm children
+occupational therapy	supports	preterm children
+physical therapy	assists	preterm children
+nutritional counseling	benefits	preterm children
+parental education	improves	preterm infant care
+neonatal transport	transfers	high-risk infants
+neonatal surgery	treats	congenital anomalies
+follow-up clinics	monitor	NICU graduates

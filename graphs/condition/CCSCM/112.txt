@@ -1,0 +1,100 @@
+transient cerebral ischemia	is a	cerebrovascular disorder
+transient cerebral ischemia	may cause	temporary neurological deficit
+transient cerebral ischemia	is risk factor for	stroke
+transient cerebral ischemia	associated with	atherosclerosis
+transient cerebral ischemia	linked to	hypertension
+transient cerebral ischemia	related to	carotid artery stenosis
+transient cerebral ischemia	may lead to	cognitive impairment
+transient cerebral ischemia	diagnosed by	MRI
+transient cerebral ischemia	diagnosed by	CT scan
+transient cerebral ischemia	managed with	antiplatelet therapy
+aspirin	is used for	transient cerebral ischemia
+clopidogrel	is used for	transient cerebral ischemia
+transient cerebral ischemia	prevented by	blood pressure control
+transient cerebral ischemia	associated with	diabetes mellitus
+transient cerebral ischemia	linked to	hyperlipidemia
+transient cerebral ischemia	may cause	visual disturbances
+transient cerebral ischemia	may cause	speech difficulties
+transient cerebral ischemia	may cause	limb weakness
+transient cerebral ischemia	evaluated with	carotid ultrasound
+transient cerebral ischemia	related to	atrial fibrillation
+warfarin	is used for	transient cerebral ischemia
+transient cerebral ischemia	managed with	statins
+atorvastatin	is used for	transient cerebral ischemia
+transient cerebral ischemia	requires	lifestyle modification
+smoking cessation	reduces risk of	transient cerebral ischemia
+transient cerebral ischemia	may recur	without treatment
+transient cerebral ischemia	monitored by	neurologist
+transient cerebral ischemia	associated with	obesity
+transient cerebral ischemia	linked to	sedentary lifestyle
+transient cerebral ischemia	may lead to	vascular dementia
+transient cerebral ischemia	differs from	stroke
+transient cerebral ischemia	symptom duration	less than 24 hours
+transient cerebral ischemia	may affect	memory
+transient cerebral ischemia	related to	heart disease
+transient cerebral ischemia	managed with	anticoagulants
+transient cerebral ischemia	associated with	aging
+transient cerebral ischemia	may cause	dizziness
+transient cerebral ischemia	may cause	balance problems
+transient cerebral ischemia	evaluated with	echocardiogram
+transient cerebral ischemia	linked to	high cholesterol
+transient cerebral ischemia	prevented by	exercise
+transient cerebral ischemia	associated with	sleep apnea
+transient cerebral ischemia	may require	carotid endarterectomy
+transient cerebral ischemia	may require	stenting
+transient cerebral ischemia	related to	family history
+transient cerebral ischemia	may cause	headache
+transient cerebral ischemia	diagnosed by	clinical history
+transient cerebral ischemia	managed with	blood thinners
+transient cerebral ischemia	linked to	alcohol abuse
+transient cerebral ischemia	associated with	stress
+transient cerebral ischemia	may cause	confusion
+transient cerebral ischemia	evaluated with	blood tests
+transient cerebral ischemia	related to	inflammation
+transient cerebral ischemia	managed with	diet changes
+transient cerebral ischemia	prevented by	weight loss
+transient cerebral ischemia	linked to	metabolic syndrome
+transient cerebral ischemia	associated with	kidney disease
+transient cerebral ischemia	may cause	numbness
+transient cerebral ischemia	may cause	tingling
+transient cerebral ischemia	evaluated with	EEG
+transient cerebral ischemia	related to	blood clotting disorders
+transient cerebral ischemia	managed with	beta blockers
+transient cerebral ischemia	linked to	hormonal changes
+transient cerebral ischemia	associated with	migraines
+transient cerebral ischemia	may cause	fatigue
+transient cerebral ischemia	evaluated with	angiogram
+transient cerebral ischemia	related to	vascular malformations
+transient cerebral ischemia	managed with	ACE inhibitors
+transient cerebral ischemia	linked to	dehydration
+transient cerebral ischemia	associated with	anemia
+transient cerebral ischemia	may cause	hearing loss
+transient cerebral ischemia	evaluated with	Doppler ultrasound
+transient cerebral ischemia	related to	autoimmune diseases
+transient cerebral ischemia	managed with	calcium channel blockers
+transient cerebral ischemia	linked to	infections
+transient cerebral ischemia	associated with	depression
+transient cerebral ischemia	may cause	personality changes
+transient cerebral ischemia	evaluated with	PET scan
+transient cerebral ischemia	related to	vitamin deficiencies
+transient cerebral ischemia	managed with	diuretics
+transient cerebral ischemia	linked to	environmental factors
+transient cerebral ischemia	associated with	trauma
+transient cerebral ischemia	may cause	seizure
+transient cerebral ischemia	evaluated with	lumbar puncture
+transient cerebral ischemia	related to	genetic factors
+transient cerebral ischemia	managed with	nitrates
+transient cerebral ischemia	linked to	medication side effects
+transient cerebral ischemia	associated with	tumor
+transient cerebral ischemia	may cause	vision loss
+transient cerebral ischemia	evaluated with	Holter monitor
+transient cerebral ischemia	related to	electrolyte imbalance
+transient cerebral ischemia	managed with	vasodilators
+transient cerebral ischemia	linked to	air pollution
+transient cerebral ischemia	associated with	seizures
+transient cerebral ischemia	may cause	aphasia
+transient cerebral ischemia	evaluated with	SPECT scan
+transient cerebral ischemia	related to	heavy metal exposure
+transient cerebral ischemia	managed with	anti-inflammatory drugs
+transient cerebral ischemia	linked to	radiation exposure
+transient cerebral ischemia	associated with	chronic pain

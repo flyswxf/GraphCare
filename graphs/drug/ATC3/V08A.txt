@@ -1,0 +1,100 @@
+x-ray contrast media	iodinated	is a	contrast agent
+x-ray contrast media	iodinated	contains	iodine
+x-ray contrast media	iodinated	used for	imaging
+x-ray contrast media	iodinated	enhances	x-ray visibility
+x-ray contrast media	iodinated	administered via	injection
+x-ray contrast media	iodinated	used in	CT scans
+x-ray contrast media	iodinated	can cause	allergic reactions
+allergic reactions	may include	anaphylaxis
+x-ray contrast media	iodinated	requires	patient screening
+patient screening	involves	kidney function tests
+x-ray contrast media	iodinated	contraindicated in	renal failure
+x-ray contrast media	iodinated	classified as	high-osmolar
+x-ray contrast media	iodinated	classified as	low-osmolar
+low-osmolar agents	have fewer	side effects
+x-ray contrast media	iodinated	excreted by	kidneys
+x-ray contrast media	iodinated	may induce	nephropathy
+nephropathy	increases	hospitalization risk
+x-ray contrast media	iodinated	interacts with	metformin
+metformin	requires	temporary discontinuation
+x-ray contrast media	iodinated	used in	angiography
+angiography	diagnoses	vascular diseases
+x-ray contrast media	iodinated	helps detect	tumors
+tumors	may require	biopsy
+x-ray contrast media	iodinated	contraindicated in	hyperthyroidism
+hyperthyroidism	increases	iodine sensitivity
+x-ray contrast media	iodinated	avoids	breastfeeding
+x-ray contrast media	iodinated	requires	hydration
+hydration	reduces	nephrotoxicity risk
+x-ray contrast media	iodinated	monitored via	vital signs
+vital signs	include	blood pressure
+x-ray contrast media	iodinated	causes	warmth sensation
+x-ray contrast media	iodinated	may trigger	vomiting
+vomiting	managed with	antiemetics
+x-ray contrast media	iodinated	contraindicated in	multiple myeloma
+multiple myeloma	increases	renal failure risk
+x-ray contrast media	iodinated	used in	urography
+urography	evaluates	urinary tract
+x-ray contrast media	iodinated	avoids	pregnancy
+pregnancy	requires	alternative imaging
+x-ray contrast media	iodinated	alternative to	MRI contrast
+MRI contrast	uses	gadolinium
+x-ray contrast media	iodinated	stored at	room temperature
+x-ray contrast media	iodinated	has	expiration date
+expired contrast	increases	adverse effects
+x-ray contrast media	iodinated	requires	consent form
+consent form	explains	risks
+x-ray contrast media	iodinated	causes	metallic taste
+metallic taste	is a	common side effect
+x-ray contrast media	iodinated	contraindicated in	asthma
+asthma	increases	bronchospasm risk
+x-ray contrast media	iodinated	used in	myelography
+myelography	visualizes	spinal cord
+x-ray contrast media	iodinated	avoided in	congestive heart failure
+congestive heart failure	exacerbates	fluid overload
+x-ray contrast media	iodinated	dosage based on	weight
+overdosage	causes	toxicity
+x-ray contrast media	iodinated	contraindicated in	pheochromocytoma
+pheochromocytoma	risks	hypertensive crisis
+x-ray contrast media	iodinated	premedication with	corticosteroids
+corticosteroids	reduce	allergic reactions
+x-ray contrast media	iodinated	used in	hysterosalpingography
+hysterosalpingography	assesses	fallopian tubes
+x-ray contrast media	iodinated	contraindicated in	sickle cell disease
+sickle cell disease	risks	vaso-occlusive crisis
+x-ray contrast media	iodinated	alternatives include	barium sulfate
+barium sulfate	used for	GI imaging
+x-ray contrast media	iodinated	precaution in	elderly
+elderly	have higher	complication rates
+x-ray contrast media	iodinated	precaution in	diabetes
+diabetes	increases	nephropathy risk
+x-ray contrast media	iodinated	used in	arthrography
+arthrography	evaluates	joint disorders
+x-ray contrast media	iodinated	may cause	thyroid dysfunction
+thyroid dysfunction	monitored via	TSH levels
+x-ray contrast media	iodinated	compatible with	saline
+saline	used for	dilution
+x-ray contrast media	iodinated	incompatible with	heparin
+heparin	causes	precipitation
+x-ray contrast media	iodinated	brand names include	iohexol
+iohexol	is a	nonionic agent
+x-ray contrast media	iodinated	brand names include	diatrizoate
+diatrizoate	is a	ionic agent
+x-ray contrast media	iodinated	research focuses on	lower toxicity
+lower toxicity	improves	patient safety
+x-ray contrast media	iodinated	costs vary by	formulation
+cost	affects	healthcare budgets
+x-ray contrast media	iodinated	disposal follows	hazardous waste rules
+hazardous waste	requires	special handling
+x-ray contrast media	iodinated	may extravasate during	injection
+extravasation	causes	tissue damage
+x-ray contrast media	iodinated	contraindicated in	G6PD deficiency
+G6PD deficiency	risks	hemolysis
+x-ray contrast media	iodinated	related to	fluoroscopy
+fluoroscopy	provides	real-time imaging
+x-ray contrast media	iodinated	used in	ERCP
+ERCP	visualizes	bile ducts
+x-ray contrast media	iodinated	shortens	half-life in dialysis
+dialysis	removes	contrast agents
+x-ray contrast media	iodinated	development involves	clinical trials
+clinical trials	ensure	efficacy and safety

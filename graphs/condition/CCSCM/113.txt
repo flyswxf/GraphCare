@@ -1,0 +1,100 @@
+late effects of cerebrovascular disease	include	hemiparesis
+late effects of cerebrovascular disease	include	dysphagia
+late effects of cerebrovascular disease	include	aphasia
+late effects of cerebrovascular disease	include	cognitive impairment
+late effects of cerebrovascular disease	include	depression
+hemiparesis	requires	physical therapy
+dysphagia	requires	speech therapy
+aphasia	requires	language therapy
+cognitive impairment	may lead	dementia
+depression	is treated with	antidepressants
+late effects of cerebrovascular disease	increase risk	falls
+falls	may cause	fractures
+late effects of cerebrovascular disease	reduce	mobility
+reduced mobility	increases risk	pressure ulcers
+pressure ulcers	require	wound care
+late effects of cerebrovascular disease	may cause	epilepsy
+epilepsy	is treated with	anticonvulsants
+late effects of cerebrovascular disease	affect	quality of life
+quality of life	is measured by	questionnaires
+late effects of cerebrovascular disease	require	caregiver support
+caregiver support	reduces	caregiver burden
+late effects of cerebrovascular disease	increase	healthcare costs
+late effects of cerebrovascular disease	may lead	institutionalization
+institutionalization	occurs in	nursing homes
+late effects of cerebrovascular disease	correlate with	mortality
+mortality	is predicted by	comorbidity index
+late effects of cerebrovascular disease	worsen with	age
+age	is a risk factor	cerebrovascular disease
+late effects of cerebrovascular disease	are prevented by	rehabilitation
+rehabilitation	improves	functional outcomes
+late effects of cerebrovascular disease	may include	spasticity
+spasticity	is treated with	muscle relaxants
+late effects of cerebrovascular disease	may cause	urinary incontinence
+urinary incontinence	is managed with	catheters
+late effects of cerebrovascular disease	may lead	malnutrition
+malnutrition	is addressed by	dietary modifications
+late effects of cerebrovascular disease	increase risk	pneumonia
+pneumonia	is treated with	antibiotics
+late effects of cerebrovascular disease	may cause	chronic pain
+chronic pain	is managed with	analgesics
+late effects of cerebrovascular disease	affect	sleep patterns
+sleep disturbances	are treated with	sedatives
+late effects of cerebrovascular disease	may lead	social isolation
+social isolation	affects	mental health
+late effects of cerebrovascular disease	increase risk	deep vein thrombosis
+deep vein thrombosis	is prevented by	anticoagulants
+late effects of cerebrovascular disease	may cause	vision problems
+vision problems	require	ophthalmologic evaluation
+late effects of cerebrovascular disease	may lead	hearing loss
+hearing loss	is managed with	hearing aids
+late effects of cerebrovascular disease	increase risk	cardiovascular events
+cardiovascular events	are prevented by	statins
+late effects of cerebrovascular disease	may cause	fatigue
+fatigue	is managed with	energy conservation
+late effects of cerebrovascular disease	increase risk	osteoporosis
+osteoporosis	is treated with	bisphosphonates
+late effects of cerebrovascular disease	may lead	contractures
+contractures	are prevented by	stretching exercises
+late effects of cerebrovascular disease	may cause	dysarthria
+dysarthria	is treated with	speech therapy
+late effects of cerebrovascular disease	increase risk	infections
+infections	are treated with	antimicrobials
+late effects of cerebrovascular disease	may lead	swallowing difficulties
+swallowing difficulties	require	modified diets
+late effects of cerebrovascular disease	may cause	bowel incontinence
+bowel incontinence	is managed with	laxatives
+late effects of cerebrovascular disease	increase risk	delirium
+delirium	is managed with	antipsychotics
+late effects of cerebrovascular disease	may lead	personality changes
+personality changes	affect	family dynamics
+late effects of cerebrovascular disease	increase risk	seizures
+seizures	are treated with	antiepileptics
+late effects of cerebrovascular disease	may cause	dizziness
+dizziness	is managed with	vestibular rehabilitation
+late effects of cerebrovascular disease	increase risk	dehydration
+dehydration	is prevented by	fluid management
+late effects of cerebrovascular disease	may lead	anxiety
+anxiety	is treated with	anxiolytics
+late effects of cerebrovascular disease	increase risk	constipation
+constipation	is treated with	stool softeners
+late effects of cerebrovascular disease	may cause	emotional lability
+emotional lability	is managed with	mood stabilizers
+late effects of cerebrovascular disease	increase risk	pressure injuries
+pressure injuries	require	specialized mattresses
+late effects of cerebrovascular disease	may lead	dysphonia
+dysphonia	is treated with	voice therapy
+late effects of cerebrovascular disease	increase risk	autonomic dysfunction
+autonomic dysfunction	affects	blood pressure
+late effects of cerebrovascular disease	may cause	sensory deficits
+sensory deficits	require	sensory re-education
+late effects of cerebrovascular disease	increase risk	aspiration
+aspiration	is prevented by	thickened liquids
+late effects of cerebrovascular disease	may lead	apraxia
+apraxia	is treated with	occupational therapy
+late effects of cerebrovascular disease	increase risk	sleep apnea
+sleep apnea	is treated with	CPAP
+late effects of cerebrovascular disease	may cause	anosognosia
+anosognosia	affects	treatment adherence
+late effects of cerebrovascular disease	increase risk	caregiver stress
+caregiver stress	is managed with	respite care

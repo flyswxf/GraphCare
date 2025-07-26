@@ -1,0 +1,100 @@
+cardiac dysrhythmias	is a	heart condition
+cardiac dysrhythmias	may cause	palpitations
+cardiac dysrhythmias	may cause	dizziness
+cardiac dysrhythmias	may cause	syncope
+cardiac dysrhythmias	may cause	chest pain
+cardiac dysrhythmias	may cause	heart failure
+cardiac dysrhythmias	may cause	stroke
+cardiac dysrhythmias	is diagnosed with	electrocardiogram
+cardiac dysrhythmias	is diagnosed with	Holter monitor
+cardiac dysrhythmias	is treated with	antiarrhythmic drugs
+cardiac dysrhythmias	is treated with	beta blockers
+cardiac dysrhythmias	is treated with	calcium channel blockers
+cardiac dysrhythmias	is treated with	catheter ablation
+cardiac dysrhythmias	is treated with	pacemaker
+cardiac dysrhythmias	is treated with	defibrillator
+atrial fibrillation	is a type of	cardiac dysrhythmias
+ventricular tachycardia	is a type of	cardiac dysrhythmias
+bradycardia	is a type of	cardiac dysrhythmias
+tachycardia	is a type of	cardiac dysrhythmias
+premature ventricular contractions	is a type of	cardiac dysrhythmias
+cardiac dysrhythmias	may result from	electrolyte imbalance
+cardiac dysrhythmias	may result from	myocardial infarction
+cardiac dysrhythmias	may result from	heart valve disease
+cardiac dysrhythmias	may result from	cardiomyopathy
+cardiac dysrhythmias	may result from	congenital heart defects
+cardiac dysrhythmias	may result from	hyperthyroidism
+cardiac dysrhythmias	may result from	hypertension
+cardiac dysrhythmias	may result from	diabetes
+cardiac dysrhythmias	may result from	sleep apnea
+cardiac dysrhythmias	may result from	alcohol abuse
+cardiac dysrhythmias	may result from	caffeine
+cardiac dysrhythmias	may result from	stress
+amiodarone	treats	cardiac dysrhythmias
+flecainide	treats	cardiac dysrhythmias
+sotalol	treats	cardiac dysrhythmias
+metoprolol	treats	cardiac dysrhythmias
+propranolol	treats	cardiac dysrhythmias
+diltiazem	treats	cardiac dysrhythmias
+verapamil	treats	cardiac dysrhythmias
+digoxin	treats	cardiac dysrhythmias
+adenosine	treats	cardiac dysrhythmias
+cardiac dysrhythmias	increases risk of	thromboembolism
+cardiac dysrhythmias	increases risk of	sudden cardiac death
+cardiac dysrhythmias	requires monitoring of	blood pressure
+cardiac dysrhythmias	requires monitoring of	heart rate
+cardiac dysrhythmias	requires monitoring of	oxygen saturation
+cardiac dysrhythmias	may require	anticoagulation therapy
+warfarin	prevents complications of	cardiac dysrhythmias
+dabigatran	prevents complications of	cardiac dysrhythmias
+rivaroxaban	prevents complications of	cardiac dysrhythmias
+apixaban	prevents complications of	cardiac dysrhythmias
+cardiac dysrhythmias	contraindicates	epinephrine
+cardiac dysrhythmias	contraindicates	theophylline
+cardiac dysrhythmias	contraindicates	decongestants
+cardiac dysrhythmias	contraindicates	stimulants
+cardiac dysrhythmias	requires avoidance of	smoking
+cardiac dysrhythmias	requires avoidance of	excessive alcohol
+cardiac dysrhythmias	requires management of	stress
+cardiac dysrhythmias	may improve with	weight loss
+cardiac dysrhythmias	may improve with	exercise
+cardiac dysrhythmias	may improve with	diet modification
+cardiac dysrhythmias	may require	cardioversion
+cardiac dysrhythmias	may require	cardiac surgery
+cardiac dysrhythmias	may require	implantable device
+cardiac dysrhythmias	may lead to	hospitalization
+cardiac dysrhythmias	may lead to	emergency care
+cardiac dysrhythmias	increases healthcare costs
+cardiac dysrhythmias	reduces quality of life
+cardiac dysrhythmias	affects daily activities
+cardiac dysrhythmias	may cause anxiety
+cardiac dysrhythmias	may cause depression
+cardiac dysrhythmias	requires patient education
+cardiac dysrhythmias	requires family education
+cardiac dysrhythmias	needs regular follow-up
+cardiac dysrhythmias	may recur
+cardiac dysrhythmias	may progress
+cardiac dysrhythmias	has genetic factors
+cardiac dysrhythmias	has age risk factors
+cardiac dysrhythmias	has gender differences
+cardiac dysrhythmias	is researched in	cardiology
+cardiac dysrhythmias	is studied in	electrophysiology
+cardiac dysrhythmias	has clinical guidelines
+cardiac dysrhythmias	has treatment algorithms
+cardiac dysrhythmias	uses CHA₂DS₂-VASc score
+cardiac dysrhythmias	uses HAS-BLED score
+cardiac dysrhythmias	may complicate	pregnancy
+cardiac dysrhythmias	may complicate	surgery
+cardiac dysrhythmias	may complicate	anesthesia
+cardiac dysrhythmias	affects driving ability
+cardiac dysrhythmias	affects work capacity
+cardiac dysrhythmias	may require	disability accommodations
+cardiac dysrhythmias	has patient support groups
+cardiac dysrhythmias	has awareness campaigns
+cardiac dysrhythmias	has public health importance
+cardiac dysrhythmias	has mortality data
+cardiac dysrhythmias	has prevalence rates
+cardiac dysrhythmias	has incidence rates
+cardiac dysrhythmias	has economic impact
+cardiac dysrhythmias	requires multidisciplinary care
+cardiac dysrhythmias	is a focus of	precision medicine

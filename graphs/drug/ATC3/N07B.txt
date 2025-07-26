@@ -1,0 +1,100 @@
+drugs	treat	addictive disorders
+addictive disorders	include	substance abuse
+substance abuse	involves	opioids
+opioids	treated by	methadone
+methadone	is a	opioid agonist
+opioid agonist	reduces	withdrawal symptoms
+withdrawal symptoms	cause	cravings
+cravings	lead to	relapse
+relapse	prevented by	naltrexone
+naltrexone	blocks	opioid receptors
+opioid receptors	bind to	endorphins
+endorphins	regulate	pain perception
+pain perception	altered by	addiction
+addiction	treated with	behavioral therapy
+behavioral therapy	combined with	medication
+medication	includes	buprenorphine
+buprenorphine	is a	partial agonist
+partial agonist	has	ceiling effect
+ceiling effect	reduces	overdose risk
+overdose risk	mitigated by	naloxone
+naloxone	reverses	opioid overdose
+opioid overdose	causes	respiratory depression
+respiratory depression	treated with	oxygen therapy
+oxygen therapy	supports	vital functions
+vital functions	monitored in	rehabilitation
+rehabilitation	includes	counseling
+counseling	addresses	psychological dependence
+psychological dependence	linked to	dopamine
+dopamine	released by	reward system
+reward system	hijacked by	addiction
+addiction	classified as	chronic disease
+chronic disease	managed with	long-term treatment
+long-term treatment	includes	follow-up care
+follow-up care	reduces	recurrence
+recurrence	prevented by	support groups
+support groups	provide	peer encouragement
+peer encouragement	improves	adherence
+adherence	measured by	prescription refills
+prescription refills	tracked in	electronic records
+electronic records	used for	outcome analysis
+outcome analysis	evaluates	treatment efficacy
+treatment efficacy	depends on	patient compliance
+patient compliance	affected by	side effects
+side effects	include	nausea
+nausea	managed with	antiemetics
+antiemetics	prescribed with	buprenorphine
+buprenorphine	administered as	sublingual tablet
+sublingual tablet	absorbed via	oral mucosa
+oral mucosa	bypasses	first-pass metabolism
+first-pass metabolism	affects	drug bioavailability
+drug bioavailability	determines	dosing regimen
+dosing regimen	adjusted for	liver function
+liver function	impaired by	alcoholism
+alcoholism	treated with	disulfiram
+disulfiram	causes	aversive reaction
+aversive reaction	deters	alcohol consumption
+alcohol consumption	leads to	liver cirrhosis
+liver cirrhosis	requires	transplantation
+transplantation	preceded by	abstinence
+abstinence	supported by	acamprosate
+acamprosate	stabilizes	neurotransmitter balance
+neurotransmitter balance	disrupted by	withdrawal
+withdrawal	managed with	benzodiazepines
+benzodiazepines	risk	dependency
+dependency	avoided with	tapering
+tapering	supervised by	clinicians
+clinicians	follow	treatment guidelines
+treatment guidelines	based on	clinical trials
+clinical trials	test	new medications
+new medications	target	glutamate receptors
+glutamate receptors	involved in	craving pathways
+craving pathways	modulated by	topiramate
+topiramate	used for	alcohol dependence
+alcohol dependence	comorbid with	depression
+depression	treated with	antidepressants
+antidepressants	interact with	MAO inhibitors
+MAO inhibitors	contraindicate	tyramine-rich foods
+tyramine-rich foods	trigger	hypertensive crisis
+hypertensive crisis	treated with	phentolamine
+phentolamine	is a	vasodilator
+vasodilator	lowers	blood pressure
+blood pressure	monitored during	detoxification
+detoxification	conducted in	inpatient facilities
+inpatient facilities	provide	24/7 monitoring
+24/7 monitoring	ensures	patient safety
+patient safety	prioritized in	harm reduction
+harm reduction	includes	needle exchange
+needle exchange	prevents	HIV transmission
+HIV transmission	risk factor for	intravenous drug use
+intravenous drug use	treated with	supervised injection
+supervised injection	reduces	fatal overdose
+fatal overdose	prevented by	education
+education	covers	risk awareness
+risk awareness	improves	decision-making
+decision-making	influenced by	cognitive therapy
+cognitive therapy	corrects	maladaptive thoughts
+maladaptive thoughts	underlie	addictive behavior
+addictive behavior	modified by	contingency management
+contingency management	uses	positive reinforcement
+positive reinforcement	strengthens	recovery efforts

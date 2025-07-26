@@ -1,0 +1,116 @@
+cardiac stimulants excl. cardiac glycosides	is a	drug class
+cardiac stimulants excl. cardiac glycosides	includes	β-adrenergic agonists
+β-adrenergic agonists	activate	β1-adrenergic receptors
+β1-adrenergic receptors	increase	heart rate
+β1-adrenergic receptors	enhance	myocardial contractility
+cardiac stimulants excl. cardiac glycosides	includes	dopamine
+dopamine	acts on	dopamine receptors
+dopamine	stimulates	cardiac output
+cardiac stimulants excl. cardiac glycosides	includes	dobutamine
+dobutamine	is a	synthetic catecholamine
+dobutamine	primarily activates	β1 receptors
+cardiac stimulants excl. cardiac glycosides	used for	acute heart failure
+acute heart failure	may cause	hypotension
+hypotension	requires	vasopressor support
+cardiac stimulants excl. cardiac glycosides	contraindicated in	ventricular tachycardia
+ventricular tachycardia	may lead to	cardiac arrest
+cardiac stimulants excl. cardiac glycosides	increases	myocardial oxygen demand
+increased myocardial oxygen demand	may cause	myocardial ischemia
+myocardial ischemia	can progress to	myocardial infarction
+cardiac stimulants excl. cardiac glycosides	monitored via	electrocardiogram
+electrocardiogram	detects	arrhythmias
+cardiac stimulants excl. cardiac glycosides	interacts with	MAO inhibitors
+MAO inhibitors	may potentiate	hypertensive crisis
+cardiac stimulants excl. cardiac glycosides	requires	dose titration
+dose titration	prevents	adverse effects
+cardiac stimulants excl. cardiac glycosides	administered via	intravenous infusion
+intravenous infusion	allows for	rapid onset
+cardiac stimulants excl. cardiac glycosides	metabolized by	liver enzymes
+liver enzymes	may be affected by	drug interactions
+cardiac stimulants excl. cardiac glycosides	excreted via	kidneys
+kidney dysfunction	may require	dose adjustment
+cardiac stimulants excl. cardiac glycosides	alternative to	cardiac glycosides
+cardiac glycosides	have different	mechanism of action
+cardiac stimulants excl. cardiac glycosides	used in	cardiogenic shock
+cardiogenic shock	characterized by	low cardiac output
+low cardiac output	leads to	organ hypoperfusion
+cardiac stimulants excl. cardiac glycosides	may cause	palpitations
+palpitations	may indicate	arrhythmia
+cardiac stimulants excl. cardiac glycosides	contraindicated in	hypertrophic cardiomyopathy
+hypertrophic cardiomyopathy	increases risk of	sudden death
+cardiac stimulants excl. cardiac glycosides	requires	hemodynamic monitoring
+hemodynamic monitoring	includes	arterial line
+cardiac stimulants excl. cardiac glycosides	may worsen	pulmonary hypertension
+pulmonary hypertension	increases	right ventricular afterload
+cardiac stimulants excl. cardiac glycosides	shortens	hospital stay
+shorter hospital stay	reduces	healthcare costs
+cardiac stimulants excl. cardiac glycosides	interacts with	tricyclic antidepressants
+tricyclic antidepressants	prolong	QT interval
+prolonged QT interval	predisposes to	torsades de pointes
+cardiac stimulants excl. cardiac glycosides	alternative to	phosphodiesterase inhibitors
+phosphodiesterase inhibitors	have different	side effect profile
+cardiac stimulants excl. cardiac glycosides	used with	vasodilators
+vasodilators	reduce	afterload
+afterload reduction	improves	cardiac output
+cardiac stimulants excl. cardiac glycosides	contraindicated in	pheochromocytoma
+pheochromocytoma	causes	catecholamine excess
+cardiac stimulants excl. cardiac glycosides	requires	continuous ECG monitoring
+continuous ECG monitoring	detects	ST-segment changes
+cardiac stimulants excl. cardiac glycosides	may cause	anxiety
+anxiety	may manifest as	restlessness
+cardiac stimulants excl. cardiac glycosides	used in	postoperative care
+postoperative care	focuses on	hemodynamic stability
+cardiac stimulants excl. cardiac glycosides	metabolized via	COMT
+COMT inhibitors	may prolong	drug effect
+cardiac stimulants excl. cardiac glycosides	affects	blood pressure
+blood pressure changes	may require	adjustment
+cardiac stimulants excl. cardiac glycosides	alternative for	digoxin intolerance
+digoxin intolerance	characterized by	nausea
+cardiac stimulants excl. cardiac glycosides	may induce	tachycardia
+tachycardia	may precipitate	myocardial ischemia
+cardiac stimulants excl. cardiac glycosides	used in	septic shock
+septic shock	associated with	vasodilation
+cardiac stimulants excl. cardiac glycosides	requires	fluid resuscitation
+fluid resuscitation	maintains	intravascular volume
+cardiac stimulants excl. cardiac glycosides	interacts with	beta blockers
+beta blockers	antagonize	adrenergic effects
+cardiac stimulants excl. cardiac glycosides	may cause	tremors
+tremors	are a	neurological side effect
+cardiac stimulants excl. cardiac glycosides	alternative to	levosimendan
+levosimendan	has different	calcium sensitizing mechanism
+cardiac stimulants excl. cardiac glycosides	used in	cardiac surgery
+cardiac surgery	requires	hemodynamic support
+cardiac stimulants excl. cardiac glycosides	excreted as	metabolites
+metabolites	may have	active properties
+cardiac stimulants excl. cardiac glycosides	contraindicated in	coronary artery spasm
+coronary artery spasm	reduces	myocardial perfusion
+cardiac stimulants excl. cardiac glycosides	may increase	blood sugar
+increased blood sugar	affects	diabetic patients
+cardiac stimulants excl. cardiac glycosides	used with	diuretics
+diuretics	reduce	fluid overload
+cardiac stimulants excl. cardiac glycosides	alternative in	beta blocker overdose
+beta blocker overdose	causes	bradycardia
+cardiac stimulants excl. cardiac glycosides	requires	electrolyte monitoring
+electrolyte imbalance	affects	drug response
+cardiac stimulants excl. cardiac glycosides	may cause	headache
+headache	may indicate	hypertension
+cardiac stimulants excl. cardiac glycosides	used in	trauma patients
+trauma patients	may experience	hemorrhagic shock
+cardiac stimulants excl. cardiac glycosides	interacts with	cocaine
+cocaine	potentiates	sympathomimetic effects
+cardiac stimulants excl. cardiac glycosides	alternative for	chronotropic incompetence
+chronotropic incompetence	limits	heart rate response
+cardiac stimulants excl. cardiac glycosides	may reduce	mortality
+reduced mortality	improves	patient outcomes
+cardiac stimulants excl. cardiac glycosides	requires	ICU setting
+ICU setting	provides	close monitoring
+cardiac stimulants excl. cardiac glycosides	metabolized to	inactive compounds
+inactive compounds	are	excreted renally
+cardiac stimulants excl. cardiac glycosides	contraindicated in	aortic stenosis
+aortic stenosis	limits	cardiac output
+cardiac stimulants excl. cardiac glycosides	may cause	sweating
+sweating	is a	autonomic response
+cardiac stimulants excl. cardiac glycosides	alternative to	mechanical circulatory support
+mechanical circulatory support	includes	ECMO
+cardiac stimulants excl. cardiac glycosides	used in	drug-induced hypotension
+drug-induced hypotension	may result from	anesthesia

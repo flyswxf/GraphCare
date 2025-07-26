@@ -1,0 +1,100 @@
+multiple myeloma	is a	blood cancer
+multiple myeloma	affects	plasma cells
+multiple myeloma	produces	abnormal proteins
+multiple myeloma	may cause	bone pain
+multiple myeloma	may cause	anemia
+multiple myeloma	may cause	kidney damage
+multiple myeloma	may cause	hypercalcemia
+multiple myeloma	increases risk	infections
+multiple myeloma	is diagnosed with	blood tests
+multiple myeloma	is diagnosed with	bone marrow biopsy
+multiple myeloma	is diagnosed with	imaging
+multiple myeloma	shows	M protein
+multiple myeloma	is treated with	chemotherapy
+multiple myeloma	is treated with	immunotherapy
+multiple myeloma	is treated with	stem cell transplant
+multiple myeloma	is treated with	proteasome inhibitors
+multiple myeloma	is treated with	corticosteroids
+multiple myeloma	is treated with	monoclonal antibodies
+bortezomib	is a	proteasome inhibitor
+lenalidomide	is a	immunomodulatory drug
+daratumumab	is a	monoclonal antibody
+dexamethasone	is a	corticosteroid
+multiple myeloma	has symptom	fatigue
+multiple myeloma	has symptom	weight loss
+multiple myeloma	has symptom	frequent infections
+multiple myeloma	leads to	bone lesions
+multiple myeloma	causes	osteoporosis
+multiple myeloma	results in	pathological fractures
+multiple myeloma	is associated with	monoclonal gammopathy
+multiple myeloma	may progress from	MGUS
+MGUS	is a precursor of	multiple myeloma
+multiple myeloma	requires	supportive care
+multiple myeloma	needs	pain management
+multiple myeloma	benefits from	bisphosphonates
+zoledronic acid	is a	bisphosphonate
+pamidronate	is a	bisphosphonate
+multiple myeloma	has complication	spinal cord compression
+multiple myeloma	causes	renal failure
+multiple myeloma	increases	serum creatinine
+multiple myeloma	decreases	hemoglobin
+multiple myeloma	shows	Bence Jones protein
+multiple myeloma	is monitored with	serum protein electrophoresis
+multiple myeloma	is staged with	Durie-Salmon system
+multiple myeloma	is staged with	ISS
+multiple myeloma	has genetic marker	TP53 deletion
+multiple myeloma	has genetic marker	1q amplification
+multiple myeloma	involves	cytogenetic abnormalities
+multiple myeloma	has poor prognosis with	high-risk cytogenetics
+multiple myeloma	responds to	CAR-T therapy
+multiple myeloma	is researched for	new targeted therapies
+multiple myeloma	has subtype	light chain myeloma
+multiple myeloma	has variant	non-secretory myeloma
+multiple myeloma	differs from	Waldenström macroglobulinemia
+multiple myeloma	differs from	AL amyloidosis
+multiple myeloma	requires	hydration therapy
+multiple myeloma	may need	plasmapheresis
+multiple myeloma	shows	Rouleaux formation
+multiple myeloma	elevates	ESR
+multiple myeloma	causes	lytic bone lesions
+multiple myeloma	appears on	X-ray
+multiple myeloma	is detected by	MRI
+multiple myeloma	is evaluated with	PET-CT
+multiple myeloma	has marker	beta-2 microglobulin
+multiple myeloma	has marker	albumin
+multiple myeloma	risk increases with	age
+multiple myeloma	is more common in	African Americans
+multiple myeloma	has risk factor	obesity
+multiple myeloma	has risk factor	radiation exposure
+multiple myeloma	has risk factor	family history
+multiple myeloma	has comorbidity	peripheral neuropathy
+multiple myeloma	causes	hyperviscosity syndrome
+multiple myeloma	requires	thromboprophylaxis
+multiple myeloma	needs	vaccination
+multiple myeloma	contraindicates	live vaccines
+multiple myeloma	benefits from	physical therapy
+multiple myeloma	requires	nutritional support
+multiple myeloma	leads to	calcium imbalance
+multiple myeloma	causes	neurological symptoms
+multiple myeloma	is treated by	hematologist
+multiple myeloma	is researched in	clinical trials
+multiple myeloma	has target	CD38
+multiple myeloma	has target	SLAMF7
+multiple myeloma	expresses	BCMA
+multiple myeloma	uses	maintenance therapy
+multiple myeloma	relapses after	treatment
+multiple myeloma	develops	drug resistance
+multiple myeloma	shows	clonal evolution
+multiple myeloma	has scoring system	R-ISS
+multiple myeloma	measures	minimal residual disease
+multiple myeloma	correlates with	survival rates
+multiple myeloma	reduces	quality of life
+multiple myeloma	requires	palliative care
+multiple myeloma	increases	healthcare costs
+multiple myeloma	affects	mental health
+multiple myeloma	needs	patient education
+multiple myeloma	benefits from	support groups
+multiple myeloma	is studied in	molecular biology
+multiple myeloma	involves	bone marrow microenvironment
+multiple myeloma	interacts with	immune system
+multiple myeloma	remains	incurable

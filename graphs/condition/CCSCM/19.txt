@@ -1,0 +1,100 @@
+cancer of bronchus	is a type of	lung cancer
+lung cancer	is classified as	non-small cell lung cancer
+lung cancer	is classified as	small cell lung cancer
+non-small cell lung cancer	includes	adenocarcinoma
+non-small cell lung cancer	includes	squamous cell carcinoma
+non-small cell lung cancer	includes	large cell carcinoma
+small cell lung cancer	has subtype	oat cell carcinoma
+lung cancer	main cause is	smoking
+lung cancer	associated with	asbestos exposure
+lung cancer	associated with	radon exposure
+lung cancer	associated with	air pollution
+lung cancer	may cause	hemoptysis
+lung cancer	may cause	dyspnea
+lung cancer	may cause	weight loss
+lung cancer	may cause	chest pain
+lung cancer	may metastasize to	brain
+lung cancer	may metastasize to	bones
+lung cancer	may metastasize to	liver
+lung cancer	may metastasize to	adrenal glands
+lung cancer	diagnosed via	chest X-ray
+lung cancer	diagnosed via	CT scan
+lung cancer	diagnosed via	bronchoscopy
+lung cancer	diagnosed via	biopsy
+lung cancer	treated with	surgery
+lung cancer	treated with	chemotherapy
+lung cancer	treated with	radiation therapy
+lung cancer	treated with	immunotherapy
+lung cancer	treated with	targeted therapy
+pembrolizumab	is a	immunotherapy drug
+erlotinib	is a	targeted therapy drug
+cisplatin	is a	chemotherapy drug
+carboplatin	is a	chemotherapy drug
+pemetrexed	is a	chemotherapy drug
+lung cancer	has biomarker	EGFR mutation
+lung cancer	has biomarker	ALK rearrangement
+lung cancer	has biomarker	ROS1 rearrangement
+lung cancer	has biomarker	PD-L1 expression
+EGFR mutation	indicates response to	EGFR inhibitors
+ALK rearrangement	indicates response to	ALK inhibitors
+ROS1 rearrangement	indicates response to	ROS1 inhibitors
+PD-L1 expression	indicates response to	immunotherapy
+lung cancer	requires	staging
+lung cancer staging	uses	TNM system
+TNM system	evaluates	tumor size
+TNM system	evaluates	lymph nodes
+TNM system	evaluates	metastasis
+early-stage lung cancer	treated with	lobectomy
+advanced lung cancer	treated with	palliative care
+lung cancer	may lead to	pleural effusion
+lung cancer	may lead to	superior vena cava syndrome
+lung cancer	may lead to	paraneoplastic syndromes
+paraneoplastic syndromes	include	hypercalcemia
+paraneoplastic syndromes	include	Cushing syndrome
+paraneoplastic syndromes	include	SIADH
+lung cancer	risk factor is	COPD
+lung cancer	risk factor is	pulmonary fibrosis
+lung cancer	risk factor is	family history
+lung cancer	prevented by	smoking cessation
+lung cancer	screened via	low-dose CT
+lung cancer screening	recommended for	heavy smokers
+lung cancer	has complication	pneumonia
+lung cancer	has complication	atelectasis
+lung cancer	associated with	cachexia
+lung cancer	requires	pain management
+lung cancer pain	treated with	opioids
+morphine	is an	opioid
+oxycodone	is an	opioid
+fentanyl	is an	opioid
+lung cancer	monitored via	tumor markers
+CEA	is a	tumor marker
+CYFRA 21-1	is a	tumor marker
+NSE	is a	tumor marker
+lung cancer	may require	oxygen therapy
+lung cancer	may require	thoracentesis
+lung cancer	may cause	clubbing
+lung cancer	associated with	thrombocytosis
+lung cancer	associated with	anemia
+lung cancer	associated with	leukocytosis
+lung cancer treatment	side effect is	neutropenia
+lung cancer treatment	side effect is	nausea
+lung cancer treatment	side effect is	fatigue
+lung cancer treatment	side effect is	alopecia
+lung cancer	prognosis depends on	stage
+lung cancer	prognosis depends on	performance status
+lung cancer	prognosis depends on	molecular profile
+early-stage lung cancer	has better	prognosis
+metastatic lung cancer	has poor	prognosis
+lung cancer	research involves	liquid biopsy
+liquid biopsy	detects	circulating tumor DNA
+lung cancer	research involves	CAR-T therapy
+lung cancer	research involves	cancer vaccines
+lung cancer	may recur as	local recurrence
+lung cancer	may recur as	distant recurrence
+lung cancer survivors	need	follow-up care
+lung cancer survivors	at risk for	second primary
+lung cancer	has genetic link	TP53 mutation
+lung cancer	has genetic link	KRAS mutation
+lung cancer	has genetic link	BRAF mutation
+KRAS mutation	associated with	smoking history
+BRAF mutation	indicates response to	BRAF inhibitors

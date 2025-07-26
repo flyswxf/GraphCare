@@ -1,0 +1,62 @@
+核医学骨成像	is a	医学影像技术
+核医学骨成像	uses	放射性示踪剂
+核医学骨成像	evaluates	骨代谢活性
+核医学骨成像	detects	骨病变
+骨扫描	is a type of	核医学骨成像
+SPECT	is a type of	核医学骨成像
+PET骨显像	is a type of	核医学骨成像
+锝-99m MDP	is a tracer for	骨扫描
+氟-18钠	is a tracer for	PET骨显像
+核医学骨成像	diagnoses	骨转移癌
+核医学骨成像	detects	骨髓炎
+核医学骨成像	evaluates	骨折愈合
+核医学骨成像	monitors	骨质疏松治疗
+核医学骨成像	assesses	人工关节松动
+骨转移癌	shows increased uptake in	核医学骨成像
+佩吉特病	shows characteristic pattern in	核医学骨成像
+缺血性骨坏死	shows cold spot in	核医学骨成像
+骨髓炎	shows hot spot in	核医学骨成像
+脊柱	is evaluated by	核医学骨成像
+骨盆	is evaluated by	核医学骨成像
+长骨	is evaluated by	核医学骨成像
+关节	is evaluated by	核医学骨成像
+双膦酸盐治疗	affects results of	核医学骨成像
+化疗	affects results of	核医学骨成像
+放射治疗	affects results of	核医学骨成像
+糖皮质激素	affects results of	核医学骨成像
+核医学骨成像	more sensitive than	X光
+核医学骨成像	less specific than	MRI
+核医学骨成像	complements	CT扫描
+核医学骨成像	provides functional information unlike	普通X光
+核医学骨成像	requires	静脉注射
+核医学骨成像	involves	等待期
+核医学骨成像	needs	伽马相机
+核医学骨成像	produces	全身图像
+核医学骨成像	carries risk of	辐射暴露
+放射性示踪剂	may cause	过敏反应
+妊娠	is contraindication for	核医学骨成像
+哺乳期	requires precaution for	核医学骨成像
+骨扫描结果	predicts	前列腺癌预后
+SUV值	indicates	肿瘤侵袭性
+骨显像改善	correlates with	治疗响应
+多发性热区	suggests	晚期疾病
+SPECT/CT	combines	核医学骨成像与CT
+PET/MRI	combines	核医学骨成像与MRI
+新型示踪剂	improves accuracy of	核医学骨成像
+定量分析	enhances	核医学骨成像
+核医学骨成像	has higher cost than	X光
+医疗保险	covers	核医学骨成像
+住院患者	often requires	核医学骨成像
+门诊患者	can receive	核医学骨成像
+核医学医师	interprets	核医学骨成像
+放射技师	performs	核医学骨成像
+物理师	calibrates	核医学设备
+护士	administers	放射性药物
+伽马相机	requires regular	质量控制检测
+放射性药物	needs	质量控制
+图像采集	follows	标准化协议
+报告生成	includes	定量指标
+人工智能	assists in analyzing	核医学骨成像
+深度学习	improves detection of	骨转移
+放射基因组学	links	骨显像特征与基因表达
+纳米技术	may enhance	核医学骨成像

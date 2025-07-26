@@ -1,0 +1,100 @@
+urologicals	is a	drug class
+urologicals	treats	urinary disorders
+urologicals	includes	alpha blockers
+urologicals	includes	5-alpha reductase inhibitors
+urologicals	includes	antispasmodics
+urologicals	includes	diuretics
+urologicals	includes	phosphodiesterase inhibitors
+alpha blockers	treat	benign prostatic hyperplasia
+alpha blockers	treat	hypertension
+alpha blockers	include	tamsulosin
+alpha blockers	include	terazosin
+alpha blockers	side effects	dizziness
+5-alpha reductase inhibitors	treat	prostate enlargement
+5-alpha reductase inhibitors	include	finasteride
+5-alpha reductase inhibitors	include	dutasteride
+5-alpha reductase inhibitors	side effects	erectile dysfunction
+antispasmodics	treat	overactive bladder
+antispasmodics	include	oxybutynin
+antispasmodics	include	tolterodine
+antispasmodics	side effects	dry mouth
+diuretics	treat	edema
+diuretics	include	furosemide
+diuretics	include	hydrochlorothiazide
+diuretics	side effects	electrolyte imbalance
+phosphodiesterase inhibitors	treat	erectile dysfunction
+phosphodiesterase inhibitors	include	sildenafil
+phosphodiesterase inhibitors	include	tadalafil
+phosphodiesterase inhibitors	side effects	headache
+urinary disorders	include	urinary tract infections
+urinary disorders	include	kidney stones
+urinary disorders	include	incontinence
+urinary tract infections	caused by	bacteria
+urinary tract infections	symptoms	painful urination
+kidney stones	symptoms	severe pain
+kidney stones	treatment	lithotripsy
+incontinence	types	stress incontinence
+incontinence	types	urge incontinence
+tamsulosin	mechanism	alpha-1 adrenergic antagonist
+terazosin	mechanism	alpha-1 adrenergic antagonist
+finasteride	mechanism	5-alpha reductase inhibition
+dutasteride	mechanism	5-alpha reductase inhibition
+oxybutynin	mechanism	anticholinergic
+tolterodine	mechanism	anticholinergic
+furosemide	mechanism	loop diuretic
+hydrochlorothiazide	mechanism	thiazide diuretic
+sildenafil	mechanism	PDE5 inhibitor
+tadalafil	mechanism	PDE5 inhibitor
+bacteria	common	E. coli
+painful urination	symptom of	cystitis
+lithotripsy	uses	shock waves
+stress incontinence	caused by	weak pelvic muscles
+urge incontinence	caused by	overactive bladder
+alpha-1 adrenergic antagonist	effects	smooth muscle relaxation
+anticholinergic	effects	reduces bladder spasms
+loop diuretic	effects	increased urine output
+thiazide diuretic	effects	reduced blood pressure
+PDE5 inhibitor	effects	increased blood flow
+E. coli	found in	intestines
+cystitis	inflammation of	bladder
+shock waves	break down	kidney stones
+weak pelvic muscles	caused by	childbirth
+overactive bladder	symptoms	frequent urination
+smooth muscle relaxation	helps with	urine flow
+reduces bladder spasms	improves	incontinence
+increased urine output	reduces	fluid retention
+reduced blood pressure	prevents	heart disease
+increased blood flow	treats	erectile dysfunction
+intestines	part of	digestive system
+bladder	part of	urinary system
+childbirth	risk factor	pelvic floor dysfunction
+frequent urination	disrupts	sleep
+urine flow	obstructed by	prostate enlargement
+fluid retention	symptom of	heart failure
+heart disease	risk factor	high cholesterol
+erectile dysfunction	risk factor	diabetes
+digestive system	includes	stomach
+urinary system	includes	kidneys
+pelvic floor dysfunction	treated with	physical therapy
+sleep disruption	caused by	nocturia
+prostate enlargement	common in	older men
+heart failure	treated with	ACE inhibitors
+high cholesterol	treated with	statins
+diabetes	managed with	insulin
+stomach	produces	gastric acid
+kidneys	filter	blood
+physical therapy	improves	muscle strength
+nocturia	symptom of	diabetes insipidus
+older men	risk for	prostate cancer
+ACE inhibitors	side effects	cough
+statins	side effects	muscle pain
+insulin	regulates	blood sugar
+gastric acid	neutralized by	antacids
+blood	carries	oxygen
+muscle strength	important for	mobility
+diabetes insipidus	caused by	ADH deficiency
+prostate cancer	screened with	PSA test
+cough	side effect of	hypertension drugs
+muscle pain	symptom of	rhabdomyolysis
+blood sugar	monitored with	glucometer
+antacids	treat	heartburn

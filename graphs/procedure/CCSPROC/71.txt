@@ -1,0 +1,100 @@
+gastrostomy	is a	surgical procedure
+gastrostomy	creates	artificial opening
+gastrostomy	performed on	stomach
+gastrostomy	allows for	feeding
+gastrostomy	used for	malnutrition
+gastrostomy	treats	dysphagia
+gastrostomy	alternative to	nasogastric tube
+gastrostomy	requires	anesthesia
+gastrostomy	has types	temporary gastrostomy
+gastrostomy	has types	permanent gastrostomy
+temporary gastrostomy	lasts	short-term
+permanent gastrostomy	lasts	long-term
+temporary gastrostomy	used for	acute conditions
+permanent gastrostomy	used for	chronic conditions
+gastrostomy	prevents	aspiration
+gastrostomy tube	delivers	nutrients
+gastrostomy tube	requires	maintenance
+gastrostomy	complications include	infection
+gastrostomy	complications include	leakage
+gastrostomy	complications include	tube dislodgement
+gastrostomy	performed by	surgeon
+gastrostomy	requires	imaging guidance
+gastrostomy	postoperative care involves	wound care
+gastrostomy patient	needs	nutritional monitoring
+gastrostomy	indicated for	neurological disorders
+gastrostomy	indicated for	head trauma
+gastrostomy	contraindicated in	peritonitis
+gastrostomy	contraindicated in	bowel obstruction
+PEG	is a type of	gastrostomy
+surgical gastrostomy	is a type of	gastrostomy
+PEG	performed using	endoscope
+PEG	preferred for	long-term use
+surgical gastrostomy	preferred for	anatomical abnormalities
+gastrostomy	associated with	GERD
+gastrostomy	may cause	dumping syndrome
+gastrostomy	requires	caregiver training
+gastrostomy	improves	quality of life
+gastrostomy	reduces	hospitalization
+gastrostomy	increases	survival rate
+gastrostomy	alternative to	parenteral nutrition
+gastrostomy feeding	requires	formula
+gastrostomy feeding	avoids	oral intake
+gastrostomy	may lead	weight gain
+gastrostomy	prevents	dehydration
+gastrostomy	used in	cancer patients
+gastrostomy	used in	stroke patients
+gastrostomy	used in	ALS patients
+gastrostomy	used in	cerebral palsy
+gastrostomy	requires	follow-up
+gastrostomy	may require	tube replacement
+gastrostomy site	needs	cleaning
+gastrostomy	contraindicated in	coagulopathy
+gastrostomy	preoperative evaluation includes	nutritional status
+gastrostomy	preoperative evaluation includes	abdominal exam
+gastrostomy	consent involves	risks discussion
+gastrostomy	complications include	bleeding
+gastrostomy	complications include	granulation tissue
+gastrostomy	complications include	tube occlusion
+gastrostomy	complications include	peristomal infection
+gastrostomy	follow-up includes	weight monitoring
+gastrostomy	follow-up includes	blood tests
+gastrostomy	follow-up includes	tube assessment
+temporary gastrostomy	removed after	recovery
+permanent gastrostomy	remains for	lifetime
+gastrostomy	alternative to	jejunostomy
+gastrostomy	similar to	gastrojejunostomy
+gastrostomy	requires	enteral nutrition
+gastrostomy	contraindicated in	gastric varices
+gastrostomy	contraindicated in	ascites
+gastrostomy	preoperative preparation includes	NPO
+gastrostomy	preoperative preparation includes	antibiotics
+gastrostomy	performed under	sedation
+gastrostomy	performed under	local anesthesia
+gastrostomy	performed under	general anesthesia
+gastrostomy	technique involves	puncture
+gastrostomy	technique involves	suturing
+gastrostomy	requires	dressing
+gastrostomy	may cause	pain
+gastrostomy	may cause	nausea
+gastrostomy	may cause	vomiting
+gastrostomy	risk increases with	diabetes
+gastrostomy	risk increases with	immunosuppression
+gastrostomy	risk increases with	advanced age
+gastrostomy	contraindicated in	gastric cancer
+gastrostomy	contraindicated in	gastric outlet obstruction
+gastrostomy	contraindicated in	peritoneal carcinomatosis
+gastrostomy	contraindicated in	severe gastroparesis
+gastrostomy	may improve	nutritional markers
+gastrostomy	may improve	albumin levels
+gastrostomy	may require	dietitian consultation
+gastrostomy	may require	speech therapy
+gastrostomy	may require	swallowing evaluation
+gastrostomy	may lead	improved immunity
+gastrostomy	may lead	wound complications
+gastrostomy	may lead	electrolyte imbalance
+gastrostomy	may lead	refeeding syndrome
+gastrostomy	requires	flow rate regulation
+gastrostomy	requires	head elevation
+gastrostomy	contraindicated in	short bowel syndrome
+gastrostomy	contraindicated in	intestinal failure

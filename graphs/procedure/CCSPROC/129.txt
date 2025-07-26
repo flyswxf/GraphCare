@@ -1,0 +1,100 @@
+repair of cystocele and rectocele	is a	surgical procedure
+obliteration of vaginal vault	is a	surgical procedure
+repair of cystocele and rectocele	treats	cystocele
+repair of cystocele and rectocele	treats	rectocele
+obliteration of vaginal vault	treats	vaginal prolapse
+cystocele	is a	pelvic organ prolapse
+rectocele	is a	pelvic organ prolapse
+vaginal vault prolapse	is a	pelvic organ prolapse
+pelvic organ prolapse	affects	pelvic floor
+pelvic floor	contains	muscles
+pelvic floor	contains	connective tissue
+pelvic organ prolapse	caused by	childbirth
+pelvic organ prolapse	caused by	aging
+pelvic organ prolapse	caused by	obesity
+pelvic organ prolapse	symptom	urinary incontinence
+pelvic organ prolapse	symptom	constipation
+pelvic organ prolapse	symptom	pelvic pressure
+repair of cystocele and rectocele	uses	sutures
+obliteration of vaginal vault	uses	mesh
+surgical mesh	is a	medical device
+surgical mesh	complication	infection
+surgical mesh	complication	erosion
+surgical procedure	requires	anesthesia
+general anesthesia	is a	anesthesia type
+regional anesthesia	is a	anesthesia type
+surgical procedure	risk	bleeding
+surgical procedure	risk	infection
+surgical procedure	requires	hospital stay
+hospital stay	involves	postoperative care
+postoperative care	includes	pain management
+pain management	uses	analgesics
+analgesics	include	opioids
+opioids	side effect	constipation
+opioids	side effect	nausea
+postoperative care	includes	wound care
+wound care	prevents	infection
+surgical procedure	requires	preoperative evaluation
+preoperative evaluation	includes	medical history
+preoperative evaluation	includes	physical exam
+physical exam	assesses	cardiovascular health
+cardiovascular health	affects	surgical risk
+surgical risk	increases with	hypertension
+hypertension	is a	chronic condition
+chronic condition	requires	long-term management
+long-term management	includes	medication
+medication	example	beta blockers
+beta blockers	treat	hypertension
+beta blockers	side effect	bradycardia
+bradycardia	is a	heart condition
+heart condition	increases	surgical risk
+repair of cystocele and rectocele	alternative	pessary
+pessary	is a	non-surgical treatment
+non-surgical treatment	option for	mild prolapse
+mild prolapse	may progress to	severe prolapse
+severe prolapse	requires	surgery
+surgery	improves	quality of life
+quality of life	affected by	symptoms
+symptoms	include	discomfort
+discomfort	leads to	activity limitation
+activity limitation	affects	mental health
+mental health	relates to	depression
+depression	treated with	antidepressants
+antidepressants	example	SSRIs
+SSRIs	side effect	insomnia
+insomnia	affects	recovery
+recovery	requires	rest
+rest	promotes	healing
+healing	involves	tissue repair
+tissue repair	requires	nutrients
+nutrients	include	protein
+protein	found in	diet
+diet	affects	recovery speed
+recovery speed	depends on	age
+age	affects	healing capacity
+healing capacity	reduced by	smoking
+smoking	is a	risk factor
+risk factor	increases	complications
+complications	include	wound dehiscence
+wound dehiscence	requires	reoperation
+reoperation	increases	healthcare costs
+healthcare costs	affected by	insurance
+insurance	covers	procedures
+procedures	coded with	ICD codes
+ICD codes	used for	billing
+billing	involves	documentation
+documentation	requires	electronic records
+electronic records	store	patient data
+patient data	includes	allergies
+allergies	affect	medication choice
+medication choice	considers	side effects
+side effects	monitored by	healthcare provider
+healthcare provider	includes	surgeon
+surgeon	specializes in	gynecology
+gynecology	deals with	female health
+female health	includes	reproductive system
+reproductive system	affected by	hormones
+hormones	example	estrogen
+estrogen	decreases with	menopause
+menopause	increases risk	prolapse
+prolapse	treated by	repair of cystocele and rectocele

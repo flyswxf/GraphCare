@@ -1,0 +1,100 @@
+ob-related trauma	affects	perineum
+ob-related trauma	affects	vulva
+perineum	is part of	pelvic floor
+vulva	is part of	female genitalia
+childbirth	causes	ob-related trauma
+ob-related trauma	may lead to	perineal tear
+perineal tear	classified as	first-degree tear
+perineal tear	classified as	second-degree tear
+perineal tear	classified as	third-degree tear
+perineal tear	classified as	fourth-degree tear
+third-degree tear	involves	anal sphincter
+fourth-degree tear	extends to	rectal mucosa
+ob-related trauma	may cause	hematoma
+hematoma	requires	drainage
+episiotomy	increases risk of	ob-related trauma
+episiotomy	prevents	severe tear
+pain	is a symptom of	ob-related trauma
+swelling	is a symptom of	ob-related trauma
+infection	is a complication of	ob-related trauma
+antibiotics	treat	infection
+sutures	repair	perineal tear
+absorbable sutures	used for	perineal repair
+non-absorbable sutures	used for	severe tears
+ice packs	reduce	swelling
+sitz baths	promote	healing
+NSAIDs	relieve	pain
+acetaminophen	relieves	pain
+opioids	prescribed for	severe pain
+pelvic floor exercises	improve	recovery
+physical therapy	aids	pelvic floor rehabilitation
+ob-related trauma	increases risk of	incontinence
+incontinence	classified as	urinary incontinence
+incontinence	classified as	fecal incontinence
+pelvic organ prolapse	associated with	severe trauma
+surgical repair	treats	pelvic organ prolapse
+ob-related trauma	may lead to	dyspareunia
+dyspareunia	affects	sexual function
+counselling	helps	psychological impact
+postpartum depression	linked to	trauma recovery
+antidepressants	treat	postpartum depression
+obstetrician	manages	ob-related trauma
+midwife	assists in	trauma prevention
+perineal massage	reduces	tear risk
+prenatal care	reduces	birth trauma
+forceps delivery	increases	trauma risk
+vacuum extraction	increases	trauma risk
+cesarean section	avoids	perineal trauma
+cesarean section	has	surgical risks
+ob-related trauma	may cause	bleeding
+blood transfusion	treats	severe bleeding
+anemia	results from	blood loss
+iron supplements	treat	anemia
+ob-related trauma	delays	ambulation
+early mobilization	prevents	thrombosis
+anticoagulants	prevent	thrombosis
+ob-related trauma	affects	breastfeeding
+lactation consultant	supports	breastfeeding
+pain medication	impacts	breastfeeding safety
+ob-related trauma	prolongs	hospital stay
+home care	assists	postpartum recovery
+follow-up visits	monitor	healing
+scar tissue	forms after	perineal repair
+scar tissue	may cause	discomfort
+topical estrogen	helps	vulvar healing
+hormonal changes	affect	wound recovery
+diabetes	delays	wound healing
+hypertension	increases	bleeding risk
+obesity	complicates	perineal repair
+smoking	impairs	tissue healing
+nutrition	influences	recovery speed
+protein	supports	tissue repair
+vitamin C	aids	collagen formation
+zinc	promotes	wound healing
+hydration	prevents	constipation
+constipation	worsens	perineal pain
+stool softeners	prevent	straining
+fiber	improves	bowel movement
+probiotics	support	gut health
+infection	indicated by	fever
+pus	indicates	wound infection
+redness	indicates	inflammation
+antibiotic ointment	prevents	infection
+silver sulfadiazine	treats	wound infection
+debridement	removes	necrotic tissue
+hyperbaric oxygen	aids	chronic wounds
+negative pressure therapy	enhances	healing
+ob-related trauma	may recur in	subsequent deliveries
+elective cesarean	considered for	previous trauma
+genetic factors	influence	tissue elasticity
+collagen disorders	increase	tear risk
+Ehlers-Danlos syndrome	linked to	severe tears
+preterm birth	increases	trauma severity
+neonatal size	affects	tear likelihood
+epidural	reduces	pushing force
+perineal protection techniques	reduce	injury
+warm compresses	ease	perineal pain
+TENS unit	alleviates	pain
+acupuncture	helps	pain management
+support groups	provide	emotional relief
+postpartum care	ensures	full recovery

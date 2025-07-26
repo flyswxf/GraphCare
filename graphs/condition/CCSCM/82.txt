@@ -1,0 +1,100 @@
+paralysis	is a	neurological condition
+paralysis	may result from	stroke
+paralysis	may result from	spinal cord injury
+paralysis	may result from	multiple sclerosis
+paralysis	may result from	traumatic brain injury
+paralysis	may result from	Guillain-Barré syndrome
+paralysis	may result from	ALS
+paralysis	may result from	polio
+paralysis	may result from	botulism
+paralysis	may result from	cerebral palsy
+paralysis	may cause	mobility impairment
+paralysis	may cause	muscle atrophy
+paralysis	may cause	pressure sores
+paralysis	may cause	respiratory distress
+paralysis	may cause	bladder dysfunction
+paralysis	may cause	bowel dysfunction
+paralysis	may require	wheelchair
+paralysis	may require	physical therapy
+paralysis	may require	occupational therapy
+paralysis	may require	ventilator
+paralysis	may require	catheter
+paralysis	may be treated with	baclofen
+paralysis	may be treated with	tizanidine
+paralysis	may be treated with	botulinum toxin
+paralysis	may be treated with	stem cell therapy
+paralysis	may be treated with	nerve transfer surgery
+stroke	may cause	hemiplegia
+spinal cord injury	may cause	paraplegia
+spinal cord injury	may cause	quadriplegia
+multiple sclerosis	may cause	monoplegia
+brain tumor	may cause	paralysis
+myasthenia gravis	may cause	paralysis
+paralysis	may lead to	depression
+paralysis	may lead to	anxiety
+paralysis	may lead to	social isolation
+paralysis	may lead to	decreased bone density
+paralysis	may lead to	deep vein thrombosis
+paralysis	may lead to	pneumonia
+paralysis	may lead to	contractures
+paralysis	may lead to	autonomic dysreflexia
+paralysis	may be evaluated with	EMG
+paralysis	may be evaluated with	MRI
+paralysis	may be evaluated with	nerve conduction study
+paralysis	may be evaluated with	CT scan
+paralysis	may be evaluated with	lumbar puncture
+physical therapy	may improve	mobility
+occupational therapy	may improve	daily living
+wheelchair	assists with	mobility
+ventilator	assists with	breathing
+catheter	assists with	bladder emptying
+baclofen	reduces	spasticity
+tizanidine	reduces	muscle spasms
+botulinum toxin	reduces	muscle stiffness
+stem cell therapy	may regenerate	nerve cells
+nerve transfer surgery	may restore	movement
+hemiplegia	affects	one side
+paraplegia	affects	lower body
+quadriplegia	affects	all limbs
+monoplegia	affects	one limb
+paralysis	may be temporary or	permanent
+paralysis	may be flaccid or	spastic
+flaccid paralysis	involves	weak muscles
+spastic paralysis	involves	stiff muscles
+paralysis	may involve	sensory loss
+paralysis	may involve	reflex loss
+paralysis	may require	home modifications
+paralysis	may require	caregiver support
+paralysis	may require	psychological counseling
+paralysis	may require	adaptive equipment
+paralysis	may require	speech therapy
+speech therapy	assists with	communication
+adaptive equipment	assists with	independence
+caregiver support	assists with	daily tasks
+home modifications	improve	accessibility
+psychological counseling	improves	mental health
+paralysis	may be caused by	toxin exposure
+paralysis	may be caused by	genetic disorders
+paralysis	may be caused by	infections
+paralysis	may be caused by	vascular disorders
+paralysis	may be caused by	metabolic disorders
+toxin exposure	may damage	nerves
+genetic disorders	may affect	muscle function
+infections	may inflame	nervous system
+vascular disorders	may impair	blood flow
+metabolic disorders	may disrupt	nerve signals
+paralysis	may be managed with	pain medications
+paralysis	may be managed with	antispasmodics
+paralysis	may be managed with	anticoagulants
+paralysis	may be managed with	laxatives
+paralysis	may be managed with	stool softeners
+pain medications	relieve	discomfort
+antispasmodics	relieve	muscle cramps
+anticoagulants	prevent	blood clots
+laxatives	prevent	constipation
+stool softeners	prevent	bowel obstruction
+paralysis	may be researched with	clinical trials
+paralysis	may be researched with	animal studies
+clinical trials	test	new treatments
+animal studies	investigate	nerve regeneration
+paralysis	has varying	recovery outcomes

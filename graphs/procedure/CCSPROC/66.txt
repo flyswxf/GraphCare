@@ -1,0 +1,100 @@
+spleen procedure	involves	spleen
+spleen procedure	is a	surgical intervention
+splenectomy	is a type of	spleen procedure
+splenectomy	removes	spleen
+splenectomy	treats	hypersplenism
+splenectomy	treats	splenic trauma
+splenectomy	prevents	splenic rupture
+partial splenectomy	preserves	spleen function
+partial splenectomy	is a type of	spleen procedure
+laparoscopic splenectomy	uses	minimally invasive technique
+laparoscopic splenectomy	reduces	recovery time
+laparoscopic splenectomy	is a type of	splenectomy
+open splenectomy	requires	larger incision
+open splenectomy	is a type of	splenectomy
+spleen biopsy	diagnoses	splenic lesions
+spleen biopsy	is a type of	spleen procedure
+spleen biopsy	involves	tissue sampling
+spleen embolization	controls	splenic bleeding
+spleen embolization	is a type of	spleen procedure
+spleen embolization	preserves	spleen tissue
+splenic abscess drainage	treats	splenic abscess
+splenic abscess drainage	is a type of	spleen procedure
+splenic cyst fenestration	drains	splenic cyst
+splenic cyst fenestration	is a type of	spleen procedure
+spleen procedure	requires	anesthesia
+spleen procedure	has risk	bleeding
+spleen procedure	has risk	infection
+spleen procedure	requires	preoperative imaging
+spleen procedure	may require	blood transfusion
+splenectomy	increases risk	infection
+splenectomy	necessitates	vaccinations
+splenectomy	may cause	thrombocytosis
+spleen procedure	follows	trauma assessment
+spleen procedure	may involve	general surgeon
+spleen procedure	may involve	interventional radiologist
+spleen procedure	may require	hospital stay
+spleen procedure	has outcome	pain relief
+spleen procedure	has outcome	improved function
+spleen procedure	has outcome	disease resolution
+spleen procedure	monitored with	vital signs
+spleen procedure	requires	postoperative care
+spleen procedure	may require	pain management
+spleen procedure	may lead	complications
+spleen procedure	assessed with	imaging studies
+spleen procedure	may need	follow-up
+spleen procedure	influenced by	patient age
+spleen procedure	influenced by	comorbidities
+splenectomy	increases risk	sepsis
+splenectomy	requires	antibiotic prophylaxis
+splenectomy	may cause	overwhelming infection
+splenectomy	affects	immune system
+splenectomy	alters	blood filtration
+splenectomy	changes	platelet count
+splenectomy	necessitates	pneumococcal vaccine
+splenectomy	necessitates	meningococcal vaccine
+splenectomy	necessitates	Haemophilus vaccine
+splenectomy	may require	lifelong monitoring
+splenectomy	may cause	portal vein thrombosis
+splenectomy	associated with	pancreatic injury
+splenectomy	associated with	gastric injury
+splenectomy	may lead	atelectasis
+splenectomy	may lead	pleural effusion
+splenectomy	may lead	subphrenic abscess
+splenectomy	may cause	wound infection
+splenectomy	may cause	deep vein thrombosis
+spleen embolization	reduces	splenic function
+spleen embolization	may cause	post-embolization syndrome
+spleen embolization	requires	angiography
+spleen embolization	uses	embolic agents
+spleen embolization	may need	repeat procedure
+spleen embolization	preserves	immune function
+spleen embolization	alternative to	splenectomy
+spleen procedure	may involve	hematologist
+spleen procedure	may involve	oncologist
+spleen procedure	treats	hematologic disorders
+spleen procedure	treats	lymphoid malignancies
+spleen procedure	treats	metabolic disorders
+spleen procedure	treats	storage diseases
+spleen procedure	treats	autoimmune diseases
+spleen procedure	treats	infectious diseases
+spleen procedure	treats	vascular disorders
+spleen procedure	treats	congenital anomalies
+spleen procedure	treats	cystic diseases
+spleen procedure	treats	neoplastic diseases
+spleen procedure	treats	traumatic injuries
+spleen procedure	may involve	blood tests
+spleen procedure	may involve	coagulation tests
+spleen procedure	may involve	liver function tests
+spleen procedure	may involve	renal function tests
+spleen procedure	may involve	platelet count
+spleen procedure	may involve	white blood cell count
+spleen procedure	may involve	red blood cell count
+spleen procedure	may involve	hemoglobin level
+spleen procedure	may involve	hematocrit level
+spleen procedure	may involve	imaging modalities
+spleen procedure	may involve	ultrasound
+spleen procedure	may involve	CT scan
+spleen procedure	may involve	MRI
+spleen procedure	may involve	PET scan
+spleen procedure	may involve	scintigraphy

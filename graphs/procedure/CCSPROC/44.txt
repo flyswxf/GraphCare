@@ -1,0 +1,100 @@
+CABG	is a	cardiac surgery
+CABG	treats	coronary artery disease
+CABG	uses	blood vessel grafts
+CABG	alleviates	angina
+CABG	prevents	myocardial infarction
+CABG	requires	general anesthesia
+CABG	performed by	cardiac surgeon
+CABG	involves	sternotomy
+CABG	may cause	bleeding
+CABG	has risk of	infection
+CABG	follows	coronary angiography
+CABG	alternative to	stenting
+CABG	improves	cardiac output
+CABG	requires	postoperative monitoring
+CABG	may lead to	arrhythmia
+CABG	needs	cardiopulmonary bypass
+CABG	prolongs	survival
+CABG	indicated for	multivessel disease
+CABG	more effective than	medication
+CABG	requires	ICU stay
+CABG	uses	internal thoracic artery
+CABG	uses	saphenous vein
+CABG	may cause	stroke
+CABG	has complication	renal failure
+CABG	followed by	rehabilitation
+CABG	reduces	mortality
+CABG	treats	left main disease
+CABG	contraindicated in	severe COPD
+CABG	preceded by	echocardiogram
+CABG	may require	blood transfusion
+CABG	associated with	cognitive decline
+CABG	duration	3-6 hours
+CABG	requires	anticoagulation
+CABG	uses	radial artery
+CABG	manages	chronic ischemia
+CABG	superior to	PCI
+CABG	requires	preoperative evaluation
+CABG	may cause	pleural effusion
+CABG	has risk	mediastinitis
+CABG	treats	diabetic patients
+CABG	increases	quality of life
+CABG	uses	endoscopic harvesting
+CABG	avoids	multiple stents
+CABG	preferred for	diffuse disease
+CABG	has alternative	OPCAB
+CABG	requires	chest tube
+CABG	may lead to	depression
+CABG	followed by	statin therapy
+CABG	benefits	elderly patients
+CABG	needs	pain management
+CABG	uses	graft patency test
+CABG	correlated with	weight gain
+CABG	requires	beta blocker
+CABG	prevents	ventricular remodeling
+CABG	uses	intraoperative TEE
+CABG	may cause	phrenic nerve injury
+CABG	has risk	graft failure
+CABG	treats	unstable angina
+CABG	better for	low EF
+CABG	requires	antiplatelet therapy
+CABG	uses	cell saver
+CABG	may lead to	sternal dehiscence
+CABG	followed by	cardiac rehab
+CABG	improves	exercise tolerance
+CABG	uses	arterial grafts
+CABG	prevents	sudden death
+CABG	requires	glycemic control
+CABG	may cause	pericarditis
+CABG	has complication	pneumonia
+CABG	treats	chronic total occlusion
+CABG	superior in	long-term outcomes
+CABG	uses	minimally invasive technique
+CABG	avoids	drug-eluting stents
+CABG	preferred for	complex lesions
+CABG	has risk	atrial fibrillation
+CABG	requires	postoperative imaging
+CABG	may lead to	wound infection
+CABG	followed by	lifestyle modification
+CABG	benefits	women
+CABG	needs	respiratory therapy
+CABG	uses	off-pump technique
+CABG	correlated with	sleep disturbance
+CABG	requires	ACE inhibitor
+CABG	prevents	heart failure
+CABG	uses	intra-aortic balloon pump
+CABG	may cause	delirium
+CABG	has risk	pulmonary embolism
+CABG	treats	ischemic cardiomyopathy
+CABG	better for	multivessel CAD
+CABG	requires	diuretic therapy
+CABG	uses	bilateral ITA grafts
+CABG	may lead to	gastrointestinal bleeding
+CABG	followed by	smoking cessation
+CABG	improves	ejection fraction
+CABG	uses	hybrid revascularization
+CABG	prevents	repeat revascularization
+CABG	requires	nutritional support
+CABG	may cause	acute kidney injury
+CABG	has complication	stroke
+CABG	treats	refractory angina

@@ -1,0 +1,100 @@
+tuberculosis	is a	bacterial infection
+tuberculosis	is caused by	Mycobacterium tuberculosis
+tuberculosis	primarily affects	lungs
+tuberculosis	can spread to	lymph nodes
+tuberculosis	can spread to	bones
+tuberculosis	can cause	fever
+tuberculosis	can cause	weight loss
+tuberculosis	can cause	night sweats
+tuberculosis	can cause	cough
+tuberculosis	can lead to	hemoptysis
+tuberculosis	is diagnosed with	sputum test
+tuberculosis	is diagnosed with	chest X-ray
+tuberculosis	is diagnosed with	tuberculin skin test
+tuberculosis	is diagnosed with	interferon-gamma release assay
+tuberculosis	is treated with	antibiotics
+tuberculosis	is treated with	isoniazid
+tuberculosis	is treated with	rifampin
+tuberculosis	is treated with	ethambutol
+tuberculosis	is treated with	pyrazinamide
+tuberculosis	requires	multidrug therapy
+tuberculosis	has a risk factor	HIV infection
+tuberculosis	has a risk factor	diabetes
+tuberculosis	has a risk factor	malnutrition
+tuberculosis	has a risk factor	smoking
+tuberculosis	has a risk factor	crowded living conditions
+tuberculosis	can progress to	miliary tuberculosis
+tuberculosis	can progress to	extrapulmonary tuberculosis
+tuberculosis	can result in	drug resistance
+tuberculosis	can result in	MDR-TB
+tuberculosis	can result in	XDR-TB
+tuberculosis	is prevented by	BCG vaccine
+tuberculosis	is prevented by	infection control
+tuberculosis	is prevented by	early detection
+tuberculosis	is associated with	poverty
+tuberculosis	is associated with	immunosuppression
+tuberculosis	has a complication	respiratory failure
+tuberculosis	has a complication	pleural effusion
+tuberculosis	has a complication	meningitis
+tuberculosis	has a complication	adrenal insufficiency
+tuberculosis	has a complication	death
+Mycobacterium tuberculosis	is transmitted via	airborne droplets
+Mycobacterium tuberculosis	can survive in	macrophages
+Mycobacterium tuberculosis	has a characteristic	acid-fast staining
+isoniazid	inhibits	mycolic acid synthesis
+rifampin	inhibits	RNA polymerase
+pyrazinamide	targets	acidic environment
+ethambutol	inhibits	cell wall synthesis
+MDR-TB	is resistant to	isoniazid
+MDR-TB	is resistant to	rifampin
+XDR-TB	is resistant to	fluoroquinolones
+XDR-TB	is resistant to	injectable drugs
+BCG vaccine	provides	partial protection
+BCG vaccine	is derived from	Mycobacterium bovis
+latent tuberculosis	can reactivate to	active tuberculosis
+latent tuberculosis	is treated with	isoniazid
+latent tuberculosis	is treated with	rifampin
+active tuberculosis	requires	isolation
+active tuberculosis	is monitored with	sputum culture
+HIV infection	increases susceptibility to	tuberculosis
+HIV infection	complicates treatment of	tuberculosis
+diabetes	increases risk of	tuberculosis
+malnutrition	impairs immunity against	tuberculosis
+smoking	damages lungs for	tuberculosis
+crowded living conditions	facilitate spread of	tuberculosis
+poverty	limits access to	tuberculosis treatment
+immunosuppression	reactivates	latent tuberculosis
+respiratory failure	may require	mechanical ventilation
+pleural effusion	may require	thoracentesis
+meningitis	has high mortality in	tuberculosis
+adrenal insufficiency	requires	steroid replacement
+hemoptysis	may indicate	cavitary tuberculosis
+cavitary tuberculosis	is visible on	chest X-ray
+sputum test	detects	acid-fast bacilli
+chest X-ray	shows	infiltrates
+tuberculin skin test	measures	delayed hypersensitivity
+interferon-gamma release assay	detects	T-cell response
+multidrug therapy	prevents	drug resistance
+drug resistance	necessitates	second-line drugs
+second-line drugs	include	fluoroquinolones
+second-line drugs	include	aminoglycosides
+infection control	involves	negative pressure rooms
+infection control	requires	N95 masks
+early detection	reduces	transmission
+miliary tuberculosis	involves	widespread dissemination
+extrapulmonary tuberculosis	affects	kidneys
+extrapulmonary tuberculosis	affects	spine
+extrapulmonary tuberculosis	affects	brain
+extrapulmonary tuberculosis	is diagnosed with	biopsy
+cough	persists for	weeks
+night sweats	disturb	sleep
+fever	is often	low-grade
+weight loss	is unexplained
+Mycobacterium tuberculosis	has a slow	growth rate
+Mycobacterium tuberculosis	can enter	dormant state
+directly observed therapy	ensures	medication adherence
+medication adherence	is critical for	cure
+treatment duration	typically lasts	6 months
+treatment failure	may require	regimen change
+contact tracing	identifies	exposed individuals
+public health	monitors	tuberculosis outbreaks

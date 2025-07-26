@@ -1,0 +1,100 @@
+other gastrointestinal disorders	include	irritable bowel syndrome
+other gastrointestinal disorders	include	gastroparesis
+other gastrointestinal disorders	include	celiac disease
+other gastrointestinal disorders	include	diverticulitis
+other gastrointestinal disorders	include	gastroenteritis
+irritable bowel syndrome	causes	abdominal pain
+irritable bowel syndrome	affects	bowel habits
+irritable bowel syndrome	may lead to	bloating
+gastroparesis	involves	delayed gastric emptying
+gastroparesis	causes	nausea
+gastroparesis	may result from	diabetes
+celiac disease	triggered by	gluten
+celiac disease	damages	small intestine
+celiac disease	leads to	malabsorption
+diverticulitis	involves	inflamed diverticula
+diverticulitis	causes	lower abdominal pain
+diverticulitis	may require	antibiotics
+gastroenteritis	caused by	viral infection
+gastroenteritis	causes	diarrhea
+gastroenteritis	leads to	dehydration
+other gastrointestinal disorders	may require	endoscopy
+other gastrointestinal disorders	may require	colonoscopy
+endoscopy	examines	upper GI tract
+colonoscopy	examines	colon
+other gastrointestinal disorders	treated with	antacids
+antacids	neutralize	stomach acid
+other gastrointestinal disorders	treated with	proton pump inhibitors
+proton pump inhibitors	reduce	acid production
+other gastrointestinal disorders	treated with	antispasmodics
+antispasmodics	relieve	muscle spasms
+other gastrointestinal disorders	may cause	weight loss
+other gastrointestinal disorders	may cause	fatigue
+other gastrointestinal disorders	may cause	anemia
+anemia	results from	iron deficiency
+anemia	causes	weakness
+other gastrointestinal disorders	associated with	stress
+stress	exacerbates	symptoms
+other gastrointestinal disorders	may lead to	hospitalization
+hospitalization	requires	IV fluids
+IV fluids	prevent	dehydration
+other gastrointestinal disorders	diagnosed via	stool tests
+stool tests	detect	infections
+stool tests	identify	blood
+other gastrointestinal disorders	may require	dietary changes
+dietary changes	include	high-fiber diet
+high-fiber diet	improves	digestion
+other gastrointestinal disorders	may require	low-FODMAP diet
+low-FODMAP diet	reduces	bloating
+other gastrointestinal disorders	linked to	gut microbiota
+gut microbiota	influences	immune system
+other gastrointestinal disorders	may involve	food intolerances
+food intolerances	cause	discomfort
+lactose intolerance	is a	food intolerance
+lactose intolerance	causes	diarrhea
+other gastrointestinal disorders	may lead to	malnutrition
+malnutrition	results from	poor absorption
+malnutrition	causes	deficiencies
+other gastrointestinal disorders	treated with	probiotics
+probiotics	support	gut health
+other gastrointestinal disorders	may require	surgery
+surgery	removes	damaged tissue
+other gastrointestinal disorders	monitored via	imaging
+imaging	includes	CT scans
+CT scans	detect	abnormalities
+other gastrointestinal disorders	may cause	bleeding
+bleeding	requires	intervention
+other gastrointestinal disorders	associated with	chronic pain
+chronic pain	managed with	analgesics
+analgesics	relieve	pain
+other gastrointestinal disorders	may affect	quality of life
+quality of life	measured via	surveys
+other gastrointestinal disorders	may coexist	depression
+depression	worsens	symptoms
+other gastrointestinal disorders	researched via	clinical trials
+clinical trials	test	new treatments
+other gastrointestinal disorders	may involve	genetic factors
+genetic factors	increase	susceptibility
+other gastrointestinal disorders	may trigger	immune responses
+immune responses	cause	inflammation
+inflammation	leads to	tissue damage
+other gastrointestinal disorders	may require	lifestyle modifications
+lifestyle modifications	include	exercise
+exercise	improves	motility
+other gastrointestinal disorders	may cause	vomiting
+vomiting	leads to	electrolyte imbalance
+electrolyte imbalance	corrected with	supplements
+other gastrointestinal disorders	may affect	children
+children	require	pediatric care
+pediatric care	involves	specialists
+other gastrointestinal disorders	may result from	infections
+infections	treated with	antimicrobials
+antimicrobials	target	pathogens
+other gastrointestinal disorders	may involve	motility disorders
+motility disorders	affect	peristalsis
+peristalsis	moves	food
+other gastrointestinal disorders	may lead to	complications
+complications	include	perforation
+perforation	requires	emergency care
+emergency care	involves	stabilization
+stabilization	prevents	deterioration

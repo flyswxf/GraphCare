@@ -1,0 +1,100 @@
+injection	is a	medical procedure
+aspiration	is a	medical procedure
+muscle injection	is a type of	injection
+tendon injection	is a type of	injection
+bursa injection	is a type of	injection
+joint injection	is a type of	injection
+soft tissue injection	is a type of	injection
+muscle aspiration	is a type of	aspiration
+joint aspiration	is a type of	aspiration
+bursa aspiration	is a type of	aspiration
+injection	uses	syringe
+aspiration	uses	needle
+joint injection	treats	arthritis
+bursa injection	treats	bursitis
+tendon injection	treats	tendonitis
+injection	delivers	corticosteroids
+injection	delivers	local anesthetic
+injection	delivers	hyaluronic acid
+aspiration	removes	fluid
+joint aspiration	diagnoses	infection
+injection	requires	sterilization
+aspiration	requires	aseptic technique
+muscle injection	targets	trigger points
+injection	relieves	pain
+aspiration	relieves	pressure
+joint injection	improves	mobility
+injection	may cause	bleeding
+aspiration	may cause	bruising
+injection	requires	anatomical knowledge
+aspiration	requires	imaging guidance
+ultrasound	guides	injection
+fluoroscopy	guides	joint injection
+injection	prevents	surgery
+corticosteroid injection	reduces	inflammation
+hyaluronic acid injection	lubricates	joint
+platelet-rich plasma injection	promotes	healing
+dry needling	is similar to	muscle injection
+injection	contraindicated in	infection
+aspiration	contraindicated in	coagulation disorder
+injection	follows	informed consent
+aspiration	follows	skin preparation
+injection	requires	post-procedure monitoring
+aspiration	requires	fluid analysis
+joint aspiration	evaluates	crystal arthropathy
+bursa aspiration	diagnoses	septic bursitis
+injection	treats	rotator cuff tendinopathy
+epidural injection	is a type of	spinal injection
+facet joint injection	treats	back pain
+sacroiliac joint injection	relieves	pelvic pain
+injection	manages	chronic pain
+aspiration	aids in	diagnosis
+injection	carries risk of	nerve damage
+aspiration	carries risk of	infection
+steroid injection	may cause	skin discoloration
+local anesthetic injection	provides	temporary relief
+injection	performed by	rheumatologist
+aspiration	performed by	orthopedic surgeon
+injection	requires	anatomical landmark identification
+aspiration	requires	proper positioning
+injection	treats	osteoarthritis
+aspiration	differentiates	inflammatory arthritis
+knee injection	improves	function
+shoulder injection	reduces	stiffness
+hip injection	alleviates	discomfort
+injection	postpones	joint replacement
+aspiration	confirms	hemarthrosis
+injection	requires	sterile gloves
+aspiration	requires	specimen container
+injection	follows	aseptic protocol
+aspiration	follows	safety protocol
+injection	treats	epicondylitis
+aspiration	evaluates	joint effusion
+injection	manages	inflammatory conditions
+aspiration	assists in	culture collection
+injection	considers	medication allergies
+aspiration	considers	coagulation status
+injection	documents	procedure details
+aspiration	documents	fluid characteristics
+injection	requires	patient cooperation
+aspiration	requires	patient immobilization
+intra-articular injection	targets	synovium
+periarticular injection	surrounds	joint
+injection	utilizes	small gauge needle
+aspiration	utilizes	large bore needle
+injection	follows	pain management protocol
+aspiration	follows	infection control protocol
+injection	treats	adhesive capsulitis
+aspiration	diagnoses	gout
+injection	considers	medication interactions
+aspiration	considers	local anatomy
+injection	benefits	elderly patients
+aspiration	benefits	athletes
+injection	requires	follow-up
+aspiration	requires	laboratory testing
+injection	treats	plantar fasciitis
+aspiration	diagnoses	pseudogout
+injection	alternates with	physical therapy
+aspiration	precedes	antibiotic therapy
+injection	complements	conservative treatment
+aspiration	complements	diagnostic workup

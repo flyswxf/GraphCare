@@ -1,0 +1,100 @@
+fracture of upper limb	is a	bone injury
+fracture of upper limb	affects	humerus
+fracture of upper limb	affects	radius
+fracture of upper limb	affects	ulna
+fracture of upper limb	may cause	pain
+fracture of upper limb	may cause	swelling
+fracture of upper limb	may cause	deformity
+fracture of upper limb	may cause	limited mobility
+fracture of upper limb	requires	X-ray
+fracture of upper limb	requires	immobilization
+fracture of upper limb	treated with	cast
+fracture of upper limb	treated with	splint
+fracture of upper limb	may require	surgery
+fracture of upper limb	may lead to	nonunion
+fracture of upper limb	may lead to	malunion
+fracture of upper limb	may lead to	infection
+fracture of upper limb	may lead to	nerve damage
+fracture of upper limb	may lead to	compartment syndrome
+fracture of upper limb	associated with	osteoporosis
+fracture of upper limb	associated with	trauma
+fracture of upper limb	associated with	fall
+fracture of upper limb	associated with	sports injury
+fracture of upper limb	requires	analgesia
+fracture of upper limb	treated with	NSAIDs
+fracture of upper limb	treated with	opioids
+fracture of upper limb	requires	physical therapy
+fracture of upper limb	may lead to	chronic pain
+fracture of upper limb	may lead to	disability
+fracture of upper limb	increases risk of	venous thromboembolism
+fracture of upper limb	may require	blood tests
+humerus fracture	is a type of	fracture of upper limb
+radius fracture	is a type of	fracture of upper limb
+ulna fracture	is a type of	fracture of upper limb
+clavicle fracture	is a type of	fracture of upper limb
+scaphoid fracture	is a type of	fracture of upper limb
+ORIF	is a treatment for	fracture of upper limb
+closed reduction	is a treatment for	fracture of upper limb
+open fracture	is a complication of	fracture of upper limb
+compartment syndrome	is a complication of	fracture of upper limb
+nerve palsy	is a complication of	fracture of upper limb
+fracture of upper limb	may require	hospital admission
+fracture of upper limb	may require	orthopedic consultation
+fracture of upper limb	increases risk of	pneumonia
+fracture of upper limb	increases risk of	pressure ulcers
+fracture of upper limb	may affect	activities of daily living
+fracture of upper limb	may require	occupational therapy
+fracture of upper limb	may lead to	depression
+fracture of upper limb	may lead to	anxiety
+elderly patients	are at risk for	fracture of upper limb
+osteoporosis	increases risk of	fracture of upper limb
+vitamin D deficiency	increases risk of	fracture of upper limb
+calcium deficiency	increases risk of	fracture of upper limb
+fracture of upper limb	may require	vitamin D supplementation
+fracture of upper limb	may require	calcium supplementation
+smoking	delays healing of	fracture of upper limb
+diabetes	delays healing of	fracture of upper limb
+steroid use	increases risk of	fracture of upper limb
+fracture of upper limb	may require	DVT prophylaxis
+fracture of upper limb	may require	anticoagulation
+fracture of upper limb	may lead to	complex regional pain syndrome
+fracture of upper limb	may require	pain management specialist
+fracture of upper limb	may lead to	secondary osteoarthritis
+fracture of upper limb	may require	follow-up imaging
+fracture of upper limb	may require	repeat X-ray
+fracture of upper limb	may require	CT scan
+fracture of upper limb	may require	MRI
+fracture of upper limb	may lead to	stiffness
+fracture of upper limb	may lead to	muscle atrophy
+fracture of upper limb	may lead to	contracture
+fracture of upper limb	may require	range of motion exercises
+fracture of upper limb	may require	strengthening exercises
+fracture of upper limb	may require	assistive devices
+fracture of upper limb	may require	sling
+fracture of upper limb	may require	brace
+fracture of upper limb	may lead to	work absence
+fracture of upper limb	may lead to	financial burden
+fracture of upper limb	may require	social support
+fracture of upper limb	may require	home modifications
+fracture of upper limb	may lead to	decreased quality of life
+fracture of upper limb	may require	psychological support
+fracture of upper limb	may lead to	sleep disturbance
+fracture of upper limb	may lead to	weight gain
+fracture of upper limb	may lead to	constipation
+fracture of upper limb	may require	stool softeners
+fracture of upper limb	may require	nutritional support
+fracture of upper limb	may require	bone stimulator
+fracture of upper limb	may require	bone graft
+fracture of upper limb	may lead to	heterotopic ossification
+fracture of upper limb	may lead to	myositis ossificans
+fracture of upper limb	may require	EMG
+fracture of upper limb	may require	nerve conduction study
+fracture of upper limb	may lead to	reflex sympathetic dystrophy
+fracture of upper limb	may lead to	frozen shoulder
+fracture of upper limb	may lead to	tendonitis
+fracture of upper limb	may lead to	carpal tunnel syndrome
+fracture of upper limb	may lead to	cubital tunnel syndrome
+fracture of upper limb	may lead to	radial tunnel syndrome
+fracture of upper limb	may lead to	ulnar neuropathy
+fracture of upper limb	may lead to	vascular injury
+fracture of upper limb	may require	vascular surgery

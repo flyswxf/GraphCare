@@ -1,0 +1,20 @@
+enteral nutrition	is a	nutritional support
+parenteral nutrition	is a	nutritional support
+enteral nutrition	administered via	gastrointestinal tract
+parenteral nutrition	administered via	intravenous route
+enteral nutrition	used for	malnutrition
+parenteral nutrition	used for	intestinal failure
+nasogastric tube	enables	enteral nutrition
+PICC line	enables	parenteral nutrition
+enteral nutrition	prevents	gut atrophy
+parenteral nutrition	risks	liver disease
+enteral formulas	contain	macronutrients
+TPN solutions	contain	amino acids
+enteral nutrition	preferred over	parenteral nutrition
+short bowel syndrome	requires	parenteral nutrition
+critical illness	may need	enteral nutrition
+home parenteral nutrition	improves	quality of life
+refeeding syndrome	complication of	nutritional support
+nutrition support team	manages	parenteral nutrition
+bioelectrical impedance	monitors	nutritional status
+prebiotics	added to	enteral formulas

@@ -1,0 +1,100 @@
+mammography	is a	medical imaging
+mammography	used for	breast cancer screening
+mammography	detects	breast tumors
+mammography	requires	x-ray machine
+mammography	performed by	radiologist
+mammography	recommended for	women over 40
+mammography	can identify	microcalcifications
+mammography	helps diagnose	ductal carcinoma
+mammography	alternative to	breast MRI
+mammography	less sensitive than	breast MRI
+mammography	uses	compression
+mammography	produces	mammograms
+mammogram	is a	x-ray image
+mammogram	analyzed by	radiologist
+mammogram	shows	breast tissue
+digital mammography	is a type of	mammography
+3D mammography	is a type of	mammography
+3D mammography	also called	tomosynthesis
+tomosynthesis	provides	3D images
+tomosynthesis	reduces	false positives
+mammography	screens for	lobular carcinoma
+mammography	may miss	dense breast tissue
+dense breast tissue	requires	supplemental screening
+mammography	preceded by	clinical breast exam
+mammography	follows	breast self-exam
+mammography	covered by	health insurance
+mammography	has	false negatives
+mammography	has	false positives
+mammography	requires	follow-up testing
+mammography	leads to	biopsy
+biopsy	confirms	cancer diagnosis
+mammography	reduces	mortality rate
+mammography	detects	early stage cancer
+early detection	improves	survival rate
+mammography	requires	breast compression
+breast compression	improves	image quality
+mammography	uses	low-dose radiation
+low-dose radiation	has	minimal risk
+mammography	contraindicated for	pregnancy
+mammography	performed in	imaging center
+imaging center	has	radiologic technologist
+mammography	compares with	previous scans
+mammography	tracks	tumor growth
+mammography	evaluates	treatment response
+mammography	may cause	discomfort
+mammography	recommended annually	for screening
+mammography	detects	benign tumors
+benign tumors	require	monitoring
+mammography	identifies	architectural distortions
+mammography	evaluates	nipple discharge
+mammography	assesses	breast pain
+mammography	examines	breast lumps
+mammography	differentiates	cysts from tumors
+mammography	guides	needle biopsy
+mammography	assists in	preoperative planning
+mammography	locates	tumor margins
+mammography	monitors	high-risk patients
+high-risk patients	need	more frequent screening
+mammography	evaluates	breast implants
+breast implants	may obscure	breast tissue
+mammography	follows	breast surgery
+mammography	checks for	recurrence
+mammography	part of	diagnostic workup
+mammography	combined with	ultrasound
+mammography	preceded by	risk assessment
+mammography	results in	BIRADS score
+BIRADS score	indicates	cancer likelihood
+mammography	requires	patient preparation
+patient preparation	includes	avoiding deodorant
+mammography	performed on	upright machine
+mammography	captures	craniocaudal view
+mammography	captures	mediolateral view
+mammography	documents	breast density
+breast density	affects	cancer risk
+mammography	may trigger	additional views
+additional views	clarify	abnormalities
+mammography	compares	left and right breasts
+mammography	detects	asymmetries
+mammography	identifies	spiculated masses
+spiculated masses	suggest	malignancy
+mammography	evaluates	lymph nodes
+mammography	checks for	metastases
+mammography	contraindicated in	breastfeeding
+mammography	less effective in	young women
+mammography	more effective in	postmenopausal women
+mammography	benefits outweigh	risks
+mammography	reduces	advanced cancer
+mammography	part of	preventive care
+mammography	detects	DCIS
+DCIS	is a	precancerous condition
+mammography	enables	early intervention
+mammography	supported by	guidelines
+mammography	varies by	country
+mammography	quality controlled by	accreditation
+mammography	improved by	AI
+AI	assists in	image interpretation
+mammography	faces	patient barriers
+mammography	requires	patient education
+mammography	limited by	access issues
+mammography	saves	lives

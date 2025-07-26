@@ -1,0 +1,100 @@
+magnetic resonance imaging contrast media	is a	diagnostic agent
+magnetic resonance imaging contrast media	enhances	MRI images
+magnetic resonance imaging contrast media	contains	gadolinium
+gadolinium	is a	rare earth metal
+gadolinium	has	paramagnetic properties
+paramagnetic properties	improve	image contrast
+magnetic resonance imaging contrast media	administered via	intravenous injection
+intravenous injection	requires	sterile technique
+magnetic resonance imaging contrast media	excreted by	kidneys
+kidneys	filter	contrast media
+magnetic resonance imaging contrast media	contraindicated in	renal impairment
+renal impairment	increases risk of	nephrogenic systemic fibrosis
+nephrogenic systemic fibrosis	causes	skin thickening
+magnetic resonance imaging contrast media	used for	tumor detection
+tumor detection	aids in	cancer diagnosis
+magnetic resonance imaging contrast media	visualizes	blood vessels
+blood vessels	reveal	vascular abnormalities
+magnetic resonance imaging contrast media	helps diagnose	multiple sclerosis
+multiple sclerosis	involves	demyelination
+demyelination	affects	nerve conduction
+magnetic resonance imaging contrast media	classifies into	linear and macrocyclic
+macrocyclic agents	have	higher stability
+higher stability	reduces	gadolinium release
+linear agents	associated with	higher toxicity
+higher toxicity	leads to	adverse effects
+adverse effects	include	allergic reactions
+allergic reactions	may cause	anaphylaxis
+anaphylaxis	requires	emergency treatment
+magnetic resonance imaging contrast media	has	half-life
+half-life	determines	duration of effect
+magnetic resonance imaging contrast media	interacts with	MRI magnetic field
+MRI magnetic field	aligns	proton spins
+proton spins	produce	signal
+signal	generates	images
+magnetic resonance imaging contrast media	shortens	T1 relaxation time
+T1 relaxation time	affects	image brightness
+magnetic resonance imaging contrast media	influences	T2 relaxation time
+T2 relaxation time	determines	image contrast
+magnetic resonance imaging contrast media	used in	brain MRI
+brain MRI	detects	strokes
+strokes	result from	ischemia
+ischemia	causes	cell death
+magnetic resonance imaging contrast media	aids in	liver imaging
+liver imaging	identifies	tumors
+tumors	may be	malignant
+malignant tumors	require	biopsy
+biopsy	confirms	diagnosis
+magnetic resonance imaging contrast media	evaluates	myocardial perfusion
+myocardial perfusion	assesses	heart function
+heart function	indicates	cardiac health
+magnetic resonance imaging contrast media	contraindicated in	pregnancy
+pregnancy	risks	fetal harm
+fetal harm	includes	developmental issues
+magnetic resonance imaging contrast media	requires	patient screening
+patient screening	checks	allergies
+allergies	may contraindicate	contrast use
+magnetic resonance imaging contrast media	has	osmolarity
+osmolarity	affects	tolerability
+tolerability	influences	patient comfort
+patient comfort	improves	cooperation
+magnetic resonance imaging contrast media	sometimes causes	nephrotoxicity
+nephrotoxicity	damages	kidney function
+kidney function	measured by	creatinine levels
+creatinine levels	indicate	renal health
+magnetic resonance imaging contrast media	used for	angiography
+angiography	visualizes	arterial blockages
+arterial blockages	lead to	ischemia
+magnetic resonance imaging contrast media	assists in	breast MRI
+breast MRI	screens for	cancer
+cancer	treated with	chemotherapy
+chemotherapy	has	side effects
+magnetic resonance imaging contrast media	requires	informed consent
+informed consent	explains	risks
+risks	include	contrast retention
+contrast retention	occurs in	brain tissue
+brain tissue	may show	hyperintensity
+hyperintensity	appears on	T1-weighted images
+T1-weighted images	highlight	anatomical details
+magnetic resonance imaging contrast media	comes in	different formulations
+different formulations	suit	specific needs
+specific needs	depend on	diagnosis
+diagnosis	guides	treatment
+treatment	improves	outcomes
+outcomes	measure	success
+magnetic resonance imaging contrast media	may cause	headaches
+headaches	treated with	analgesics
+analgesics	relieve	pain
+pain	affects	quality of life
+magnetic resonance imaging contrast media	has	viscosity
+viscosity	influences	injection speed
+injection speed	affects	patient safety
+patient safety	ensures	minimal complications
+magnetic resonance imaging contrast media	stored at	room temperature
+room temperature	maintains	stability
+stability	preserves	efficacy
+efficacy	determines	diagnostic accuracy
+diagnostic accuracy	impacts	patient care
+patient care	involves	multidisciplinary teams
+multidisciplinary teams	include	radiologists
+radiologists	interpret	MRI results

@@ -1,0 +1,100 @@
+gastrointestinal hemorrhage	is a	bleeding disorder
+gastrointestinal hemorrhage	may cause	anemia
+gastrointestinal hemorrhage	may cause	hypovolemic shock
+gastrointestinal hemorrhage	is diagnosed by	endoscopy
+gastrointestinal hemorrhage	is treated with	proton pump inhibitors
+gastrointestinal hemorrhage	is treated with	blood transfusion
+gastrointestinal hemorrhage	may require	surgery
+gastrointestinal hemorrhage	has symptom	hematemesis
+gastrointestinal hemorrhage	has symptom	melena
+gastrointestinal hemorrhage	has symptom	hematochezia
+peptic ulcer	is a cause of	gastrointestinal hemorrhage
+esophageal varices	is a cause of	gastrointestinal hemorrhage
+diverticulosis	is a cause of	gastrointestinal hemorrhage
+angiodysplasia	is a cause of	gastrointestinal hemorrhage
+gastritis	is a cause of	gastrointestinal hemorrhage
+colorectal cancer	is a cause of	gastrointestinal hemorrhage
+NSAIDs	may cause	gastrointestinal hemorrhage
+anticoagulants	may cause	gastrointestinal hemorrhage
+liver cirrhosis	may cause	gastrointestinal hemorrhage
+portal hypertension	may cause	gastrointestinal hemorrhage
+hematocrit	is a test for	gastrointestinal hemorrhage
+hemoglobin	is a test for	gastrointestinal hemorrhage
+coagulation panel	is a test for	gastrointestinal hemorrhage
+CT angiography	is a test for	gastrointestinal hemorrhage
+nuclear scintigraphy	is a test for	gastrointestinal hemorrhage
+nasogastric tube	is used for	gastrointestinal hemorrhage
+fluid resuscitation	is a treatment for	gastrointestinal hemorrhage
+vasopressors	is a treatment for	gastrointestinal hemorrhage
+octreotide	is a treatment for	gastrointestinal hemorrhage
+endoscopic hemostasis	is a treatment for	gastrointestinal hemorrhage
+band ligation	is a treatment for	gastrointestinal hemorrhage
+sclerotherapy	is a treatment for	gastrointestinal hemorrhage
+clip application	is a treatment for	gastrointestinal hemorrhage
+thermal coagulation	is a treatment for	gastrointestinal hemorrhage
+embolization	is a treatment for	gastrointestinal hemorrhage
+red blood cells	is transfused for	gastrointestinal hemorrhage
+fresh frozen plasma	is transfused for	gastrointestinal hemorrhage
+platelets	is transfused for	gastrointestinal hemorrhage
+iron supplementation	is a treatment for	gastrointestinal hemorrhage
+vitamin K	is a treatment for	gastrointestinal hemorrhage
+Helicobacter pylori	is a cause of	gastrointestinal hemorrhage
+Mallory-Weiss tear	is a cause of	gastrointestinal hemorrhage
+Dieulafoy lesion	is a cause of	gastrointestinal hemorrhage
+aortoenteric fistula	is a cause of	gastrointestinal hemorrhage
+hemorrhoids	is a cause of	gastrointestinal hemorrhage
+anal fissure	is a cause of	gastrointestinal hemorrhage
+inflammatory bowel disease	is a cause of	gastrointestinal hemorrhage
+colon polyps	is a cause of	gastrointestinal hemorrhage
+Meckel diverticulum	is a cause of	gastrointestinal hemorrhage
+radiation proctitis	is a cause of	gastrointestinal hemorrhage
+liver failure	may worsen	gastrointestinal hemorrhage
+renal failure	may worsen	gastrointestinal hemorrhage
+thrombocytopenia	may worsen	gastrointestinal hemorrhage
+coagulopathy	may worsen	gastrointestinal hemorrhage
+sepsis	may worsen	gastrointestinal hemorrhage
+hypotension	is a complication of	gastrointestinal hemorrhage
+tachycardia	is a complication of	gastrointestinal hemorrhage
+organ failure	is a complication of	gastrointestinal hemorrhage
+death	is a complication of	gastrointestinal hemorrhage
+rebleeding	is a complication of	gastrointestinal hemorrhage
+blood urea nitrogen	is elevated in	gastrointestinal hemorrhage
+creatinine	is elevated in	gastrointestinal hemorrhage
+lactate	is elevated in	gastrointestinal hemorrhage
+international normalized ratio	is prolonged in	gastrointestinal hemorrhage
+activated partial thromboplastin time	is prolonged in	gastrointestinal hemorrhage
+prothrombin time	is prolonged in	gastrointestinal hemorrhage
+albumin	is decreased in	gastrointestinal hemorrhage
+sodium	is abnormal in	gastrointestinal hemorrhage
+potassium	is abnormal in	gastrointestinal hemorrhage
+calcium	is abnormal in	gastrointestinal hemorrhage
+elderly	are at risk for	gastrointestinal hemorrhage
+alcoholics	are at risk for	gastrointestinal hemorrhage
+smokers	are at risk for	gastrointestinal hemorrhage
+obese patients	are at risk for	gastrointestinal hemorrhage
+critically ill	are at risk for	gastrointestinal hemorrhage
+ICU patients	are at risk for	gastrointestinal hemorrhage
+post-operative patients	are at risk for	gastrointestinal hemorrhage
+transplant patients	are at risk for	gastrointestinal hemorrhage
+cancer patients	are at risk for	gastrointestinal hemorrhage
+pregnant women	are at risk for	gastrointestinal hemorrhage
+aspirin	increases risk of	gastrointestinal hemorrhage
+warfarin	increases risk of	gastrointestinal hemorrhage
+clopidogrel	increases risk of	gastrointestinal hemorrhage
+steroids	increases risk of	gastrointestinal hemorrhage
+SSRIs	increases risk of	gastrointestinal hemorrhage
+NSAIDs	increases risk of	gastrointestinal hemorrhage
+alcohol	increases risk of	gastrointestinal hemorrhage
+tobacco	increases risk of	gastrointestinal hemorrhage
+spicy food	increases risk of	gastrointestinal hemorrhage
+stress	increases risk of	gastrointestinal hemorrhage
+proton pump inhibitors	decreases risk of	gastrointestinal hemorrhage
+H2 blockers	decreases risk of	gastrointestinal hemorrhage
+sucralfate	decreases risk of	gastrointestinal hemorrhage
+misoprostol	decreases risk of	gastrointestinal hemorrhage
+antacids	decreases risk of	gastrointestinal hemorrhage
+vitamin C	decreases risk of	gastrointestinal hemorrhage
+fiber	decreases risk of	gastrointestinal hemorrhage
+probiotics	decreases risk of	gastrointestinal hemorrhage
+exercise	decreases risk of	gastrointestinal hemorrhage
+weight loss	decreases risk of	gastrointestinal hemorrhage

@@ -1,0 +1,100 @@
+melanomas of skin	is a	skin cancer
+melanomas of skin	originates from	melanocytes
+melanomas of skin	may cause	metastasis
+melanomas of skin	is diagnosed via	biopsy
+melanomas of skin	is associated with	UV exposure
+melanomas of skin	has symptom	irregular moles
+melanomas of skin	may lead to	lymph node involvement
+melanomas of skin	is staged using	Breslow thickness
+melanomas of skin	is treated with	surgical excision
+melanomas of skin	may require	sentinel lymph node biopsy
+melanomas of skin	has subtype	nodular melanoma
+melanomas of skin	has subtype	superficial spreading melanoma
+melanomas of skin	has subtype	lentigo maligna melanoma
+melanomas of skin	has subtype	acral lentiginous melanoma
+melanomas of skin	is monitored via	dermoscopy
+melanomas of skin	may recur as	local recurrence
+melanomas of skin	may spread to	liver
+melanomas of skin	may spread to	lungs
+melanomas of skin	may spread to	brain
+melanomas of skin	is linked to	BRAF mutation
+melanomas of skin	is linked to	NRAS mutation
+melanomas of skin	has risk factor	fair skin
+melanomas of skin	has risk factor	family history
+melanomas of skin	has risk factor	multiple nevi
+melanomas of skin	may be detected via	ABCDE criteria
+melanomas of skin	is treated with	immunotherapy
+melanomas of skin	is treated with	targeted therapy
+melanomas of skin	is treated with	chemotherapy
+melanomas of skin	is treated with	radiation therapy
+melanomas of skin	may respond to	PD-1 inhibitors
+melanomas of skin	may respond to	CTLA-4 inhibitors
+melanomas of skin	may respond to	BRAF inhibitors
+melanomas of skin	may respond to	MEK inhibitors
+melanomas of skin	has prognostic factor	ulceration
+melanomas of skin	has prognostic factor	mitotic rate
+melanomas of skin	has prognostic factor	tumor thickness
+melanomas of skin	may mimic	benign nevus
+melanomas of skin	is differentiated via	histopathology
+melanomas of skin	may require	wide local excision
+melanomas of skin	may lead to	lymphedema
+melanomas of skin	may cause	paraneoplastic syndrome
+melanomas of skin	is screened via	total body photography
+melanomas of skin	is associated with	dysplastic nevus syndrome
+melanomas of skin	has biomarker	S100 protein
+melanomas of skin	has biomarker	HMB-45
+melanomas of skin	has biomarker	Melan-A
+melanomas of skin	may be prevented by	sunscreen use
+melanomas of skin	may be prevented by	UV protection
+melanomas of skin	has genetic risk	CDKN2A mutation
+melanomas of skin	has genetic risk	MC1R mutation
+melanomas of skin	may present with	pruritus
+melanomas of skin	may present with	bleeding
+melanomas of skin	may present with	color variation
+melanomas of skin	is classified by	Clark level
+melanomas of skin	may require	Mohs surgery
+melanomas of skin	may be studied via	gene expression profiling
+melanomas of skin	has differential diagnosis	basal cell carcinoma
+melanomas of skin	has differential diagnosis	squamous cell carcinoma
+melanomas of skin	has differential diagnosis	seborrheic keratosis
+melanomas of skin	may be evaluated via	PET scan
+melanomas of skin	may be evaluated via	CT scan
+melanomas of skin	may be evaluated via	MRI
+melanomas of skin	may metastasize to	bones
+melanomas of skin	may metastasize to	adrenal glands
+melanomas of skin	may cause	hypercalcemia
+melanomas of skin	may cause	anemia
+melanomas of skin	may cause	weight loss
+melanomas of skin	may require	limb perfusion therapy
+melanomas of skin	may be treated with	talimogene laherparepvec
+melanomas of skin	has research focus	tumor microenvironment
+melanomas of skin	has research focus	neoantigens
+melanomas of skin	has research focus	adoptive cell therapy
+melanomas of skin	may involve	CDKN2A deletion
+melanomas of skin	may involve	PTEN loss
+melanomas of skin	may involve	TERT promoter mutation
+melanomas of skin	may be studied via	liquid biopsy
+melanomas of skin	may be studied via	circulating tumor DNA
+melanomas of skin	may be targeted by	KIT inhibitors
+melanomas of skin	may have resistance to	vemurafenib
+melanomas of skin	may have resistance to	dabrafenib
+melanomas of skin	may be treated with	combination therapy
+melanomas of skin	may be treated with	ipilimumab
+melanomas of skin	may be treated with	nivolumab
+melanomas of skin	may be treated with	pembrolizumab
+melanomas of skin	may be treated with	trametinib
+melanomas of skin	may be treated with	cobimetinib
+melanomas of skin	may be treated with	dabrafenib
+melanomas of skin	may be treated with	encorafenib
+melanomas of skin	may require	adjuvant therapy
+melanomas of skin	may require	neoadjuvant therapy
+melanomas of skin	may be managed by	multidisciplinary team
+melanomas of skin	has clinical trial focus	bispecific antibodies
+melanomas of skin	has clinical trial focus	oncolytic viruses
+melanomas of skin	has clinical trial focus	cancer vaccines
+melanomas of skin	may be influenced by	immune checkpoint molecules
+melanomas of skin	may be influenced by	tumor mutational burden
+melanomas of skin	may be stratified by	AJCC staging
+melanomas of skin	may have complication	immunotherapy toxicity
+melanomas of skin	may have complication	targeted therapy resistance
+melanomas of skin	has survival rate	stage-dependent

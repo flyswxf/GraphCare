@@ -7,9 +7,9 @@ baselines.py
 .ipynb_checkpoints
 /resources/openai.key
 /resources/ecnu.key
-/graphs/condition
-/graphs/drug
-/graphs/procedure
+# /graphs/condition
+# /graphs/drug
+# /graphs/procedure
 __pycache__
 .output
 .neptune

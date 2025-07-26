@@ -1,0 +1,100 @@
+systemic lupus erythematosus	is a	connective tissue disorder
+connective tissue disorders	include	systemic lupus erythematosus
+systemic lupus erythematosus	shares features with	rheumatoid arthritis
+systemic lupus erythematosus	overlaps with	Sjögren's syndrome
+connective tissue disorders	may cause	joint pain
+systemic lupus erythematosus	may cause	skin rash
+connective tissue disorders	may lead to	organ damage
+systemic lupus erythematosus	affects	kidneys
+connective tissue disorders	involve	autoantibodies
+systemic lupus erythematosus	is diagnosed with	ANA test
+connective tissue disorders	require	immunosuppression
+systemic lupus erythematosus	is treated with	hydroxychloroquine
+connective tissue disorders	may include	scleroderma
+systemic lupus erythematosus	has symptom	fatigue
+connective tissue disorders	affect	collagen
+systemic lupus erythematosus	may cause	pleuritis
+connective tissue disorders	can involve	lungs
+systemic lupus erythematosus	is associated with	photosensitivity
+connective tissue disorders	may present with	Raynaud's phenomenon
+systemic lupus erythematosus	may lead to	anemia
+connective tissue disorders	increase risk of	pulmonary hypertension
+systemic lupus erythematosus	can cause	pericarditis
+connective tissue disorders	may require	physical therapy
+systemic lupus erythematosus	is monitored with	complement levels
+connective tissue disorders	may affect	heart valves
+systemic lupus erythematosus	has complication	lupus nephritis
+connective tissue disorders	can cause	muscle weakness
+systemic lupus erythematosus	is more common in	women
+connective tissue disorders	may involve	gastrointestinal tract
+systemic lupus erythematosus	can trigger	blood clots
+connective tissue disorders	include	mixed connective tissue disease
+systemic lupus erythematosus	may cause	hair loss
+connective tissue disorders	can lead to	fibrosis
+systemic lupus erythematosus	is linked to	genetic factors
+connective tissue disorders	may require	biologics
+systemic lupus erythematosus	can affect	nervous system
+connective tissue disorders	may cause	dry eyes
+systemic lupus erythematosus	is associated with	antiphospholipid syndrome
+connective tissue disorders	can involve	blood vessels
+systemic lupus erythematosus	may lead to	thrombocytopenia
+connective tissue disorders	include	dermatomyositis
+systemic lupus erythematosus	can cause	mouth ulcers
+connective tissue disorders	may affect	pregnancy outcomes
+systemic lupus erythematosus	is treated with	corticosteroids
+connective tissue disorders	can cause	joint deformities
+systemic lupus erythematosus	may require	dialysis
+connective tissue disorders	include	polymyositis
+systemic lupus erythematosus	can lead to	cognitive dysfunction
+connective tissue disorders	may cause	swallowing difficulties
+systemic lupus erythematosus	is associated with	complement deficiency
+connective tissue disorders	can affect	skin elasticity
+systemic lupus erythematosus	may cause	vasculitis
+connective tissue disorders	include	undifferentiated connective tissue disease
+systemic lupus erythematosus	can lead to	osteoporosis
+connective tissue disorders	may require	occupational therapy
+systemic lupus erythematosus	is diagnosed with	SLICC criteria
+connective tissue disorders	can cause	interstitial lung disease
+systemic lupus erythematosus	may affect	liver
+connective tissue disorders	include	overlap syndromes
+systemic lupus erythematosus	can cause	lymphadenopathy
+connective tissue disorders	may lead to	pulmonary fibrosis
+systemic lupus erythematosus	is associated with	HLA-DR3
+connective tissue disorders	can affect	tendon sheaths
+systemic lupus erythematosus	may cause	seizures
+connective tissue disorders	include	eosinophilic fasciitis
+systemic lupus erythematosus	can lead to	myocarditis
+connective tissue disorders	may cause	sicca symptoms
+systemic lupus erythematosus	is treated with	belimumab
+connective tissue disorders	can affect	cartilage
+systemic lupus erythematosus	may require	plasma exchange
+connective tissue disorders	include	relapsing polychondritis
+systemic lupus erythematosus	can cause	retinal vasculitis
+connective tissue disorders	may lead to	restrictive lung disease
+systemic lupus erythematosus	is associated with	anti-dsDNA antibodies
+connective tissue disorders	can affect	periodontal tissue
+systemic lupus erythematosus	may cause	psychosis
+connective tissue disorders	include	IgG4-related disease
+systemic lupus erythematosus	can lead to	avascular necrosis
+connective tissue disorders	may cause	calcinosis
+systemic lupus erythematosus	is treated with	methotrexate
+connective tissue disorders	can affect	fascia
+systemic lupus erythematosus	may require	bone marrow transplant
+connective tissue disorders	include	Behçet's disease
+systemic lupus erythematosus	can cause	transverse myelitis
+connective tissue disorders	may lead to	esophageal dysmotility
+systemic lupus erythematosus	is associated with	anti-Smith antibodies
+connective tissue disorders	can affect	synovium
+systemic lupus erythematosus	may cause	pancreatitis
+connective tissue disorders	include	granulomatosis with polyangiitis
+systemic lupus erythematosus	can lead to	proteinuria
+connective tissue disorders	may cause	trigeminal neuralgia
+systemic lupus erythematosus	is treated with	azathioprine
+connective tissue disorders	can affect	vocal cords
+systemic lupus erythematosus	may require	kidney transplant
+connective tissue disorders	include	microscopic polyangiitis
+systemic lupus erythematosus	can cause	aseptic meningitis
+connective tissue disorders	may lead to	digital ulcers
+systemic lupus erythematosus	is associated with	anti-Ro antibodies
+connective tissue disorders	can affect	temporomandibular joint
+systemic lupus erythematosus	may cause	autoimmune hemolytic anemia

@@ -1,0 +1,100 @@
+E codes: natural/environment	classify	natural disasters
+E codes: natural/environment	include	earthquakes
+E codes: natural/environment	include	floods
+E codes: natural/environment	include	hurricanes
+E codes: natural/environment	include	tornadoes
+E codes: natural/environment	include	wildfires
+E codes: natural/environment	include	extreme heat
+E codes: natural/environment	include	avalanches
+E codes: natural/environment	include	lightning strikes
+E codes: natural/environment	include	volcanic eruptions
+earthquakes	can cause	injuries
+floods	can cause	drownings
+hurricanes	can cause	trauma
+tornadoes	can cause	fractures
+wildfires	can cause	burns
+extreme heat	can cause	heatstroke
+avalanches	can cause	asphyxiation
+lightning strikes	can cause	cardiac arrest
+volcanic eruptions	can cause	respiratory distress
+injuries	may require	hospitalization
+drownings	may require	CPR
+trauma	may require	surgery
+fractures	may require	immobilization
+burns	may require	skin grafts
+heatstroke	may require	IV fluids
+asphyxiation	may require	oxygen therapy
+cardiac arrest	may require	defibrillation
+respiratory distress	may require	ventilator
+hospitalization	increases risk of	infection
+CPR	can prevent	brain damage
+surgery	can lead to	complications
+immobilization	can cause	blood clots
+skin grafts	can prevent	sepsis
+IV fluids	can treat	dehydration
+oxygen therapy	can improve	hypoxia
+defibrillation	can restore	normal heart rhythm
+ventilator	can support	breathing
+infection	can lead to	sepsis
+brain damage	can result in	disability
+complications	can prolong	recovery
+blood clots	can cause	pulmonary embolism
+sepsis	can lead to	organ failure
+dehydration	can cause	electrolyte imbalance
+hypoxia	can result in	cognitive impairment
+normal heart rhythm	ensures	proper circulation
+breathing	is essential for	oxygen delivery
+disability	may require	rehabilitation
+recovery	can involve	physical therapy
+pulmonary embolism	can be fatal
+organ failure	may necessitate	transplantation
+electrolyte imbalance	can cause	arrhythmias
+cognitive impairment	can affect	daily living
+proper circulation	maintains	tissue perfusion
+oxygen delivery	supports	cellular function
+rehabilitation	can improve	mobility
+physical therapy	can restore	strength
+arrhythmias	can be treated with	beta-blockers
+daily living	may require	assistive devices
+tissue perfusion	prevents	necrosis
+cellular function	depends on	ATP production
+mobility	enhances	quality of life
+strength	prevents	falls
+beta-blockers	reduce	heart rate
+assistive devices	include	wheelchairs
+necrosis	can lead to	gangrene
+ATP production	requires	glucose
+quality of life	depends on	independence
+falls	can cause	hip fractures
+heart rate	is regulated by	autonomic nervous system
+wheelchairs	provide	mobility assistance
+gangrene	may require	amputation
+glucose	is metabolized in	mitochondria
+independence	improves	mental health
+hip fractures	are common in	elderly
+autonomic nervous system	controls	involuntary functions
+mobility assistance	enhances	accessibility
+amputation	can result in	phantom pain
+mitochondria	produce	energy
+mental health	affects	well-being
+elderly	are at risk for	osteoporosis
+involuntary functions	include	digestion
+accessibility	promotes	social participation
+phantom pain	can be treated with	neuromodulation
+energy	is needed for	muscle contraction
+well-being	includes	emotional stability
+osteoporosis	weakens	bones
+digestion	breaks down	nutrients
+social participation	reduces	loneliness
+neuromodulation	alters	nerve activity
+muscle contraction	enables	movement
+emotional stability	supports	resilience
+bones	protect	internal organs
+nutrients	are absorbed in	intestines
+loneliness	can worsen	depression
+nerve activity	transmits	signals
+movement	is coordinated by	cerebellum
+resilience	helps cope with	stress
+internal organs	perform	vital functions
+intestines	contain	gut microbiota
+depression	can be treated with	antidepressants

@@ -1,0 +1,100 @@
+conduction disorders	affect	heart rhythm
+conduction disorders	include	heart block
+conduction disorders	include	bundle branch block
+conduction disorders	include	sick sinus syndrome
+conduction disorders	may cause	bradycardia
+conduction disorders	may cause	syncope
+conduction disorders	may cause	fatigue
+conduction disorders	may require	pacemaker
+conduction disorders	diagnosed with	electrocardiogram
+conduction disorders	diagnosed with	Holter monitor
+conduction disorders	associated with	myocardial infarction
+conduction disorders	associated with	cardiomyopathy
+conduction disorders	associated with	electrolyte imbalance
+conduction disorders	associated with	hypertension
+conduction disorders	associated with	aging
+conduction disorders	treated with	atropine
+conduction disorders	treated with	beta blockers
+conduction disorders	treated with	calcium channel blockers
+conduction disorders	treated with	digoxin
+conduction disorders	monitored by	cardiologist
+heart block	is a	conduction disorder
+heart block	classified as	first-degree
+heart block	classified as	second-degree
+heart block	classified as	third-degree
+first-degree heart block	involves	PR prolongation
+second-degree heart block	includes	Mobitz type I
+second-degree heart block	includes	Mobitz type II
+third-degree heart block	is	complete heart block
+bundle branch block	affects	His-Purkinje system
+bundle branch block	includes	left bundle branch block
+bundle branch block	includes	right bundle branch block
+left bundle branch block	may indicate	cardiomyopathy
+right bundle branch block	may be	benign
+sick sinus syndrome	involves	sinus node dysfunction
+sick sinus syndrome	may cause	tachycardia
+sick sinus syndrome	may cause	bradycardia-tachycardia syndrome
+electrocardiogram	detects	conduction abnormalities
+Holter monitor	records	heart rhythm
+pacemaker	treats	bradycardia
+pacemaker	consists of	pulse generator
+pacemaker	consists of	leads
+atropine	increases	heart rate
+beta blockers	slow	heart rate
+calcium channel blockers	affect	AV node conduction
+digoxin	increases	myocardial contractility
+digoxin	slows	AV node conduction
+cardiologist	specializes in	heart conditions
+myocardial infarction	may damage	conduction system
+cardiomyopathy	may disrupt	electrical pathways
+electrolyte imbalance	affects	cardiac conduction
+hyperkalemia	can cause	conduction delays
+hypokalemia	can cause	arrhythmias
+hypertension	may lead	ventricular hypertrophy
+ventricular hypertrophy	may cause	conduction abnormalities
+aging	increases risk	conduction disorders
+syncope	may result from	bradycardia
+fatigue	may result from	low cardiac output
+low cardiac output	may occur in	heart block
+AV node	is part of	conduction system
+His bundle	is part of	conduction system
+Purkinje fibers	are part of	conduction system
+sinus node	is part of	conduction system
+sinus node	generates	electrical impulses
+AV node	delays	impulse conduction
+His bundle	transmits	impulses to ventricles
+Purkinje fibers	distribute	impulses in ventricles
+Wolff-Parkinson-White syndrome	involves	accessory pathway
+Wolff-Parkinson-White syndrome	may cause	supraventricular tachycardia
+Lown-Ganong-Levine syndrome	involves	accelerated conduction
+Lown-Ganong-Levine syndrome	may cause	arrhythmias
+Brugada syndrome	involves	sodium channel dysfunction
+Brugada syndrome	may cause	ventricular arrhythmias
+long QT syndrome	involves	prolonged repolarization
+long QT syndrome	may cause	torsades de pointes
+torsades de pointes	is a	ventricular tachycardia
+ventricular tachycardia	may lead to	cardiac arrest
+cardiac arrest	requires	defibrillation
+defibrillator	treats	life-threatening arrhythmias
+implantable cardioverter-defibrillator	prevents	sudden cardiac death
+electrophysiology study	assesses	conduction pathways
+electrophysiology study	identifies	arrhythmia mechanisms
+catheter ablation	treats	abnormal pathways
+catheter ablation	uses	radiofrequency energy
+radiofrequency energy	destroys	abnormal tissue
+antiarrhythmic drugs	manage	conduction disorders
+amiodarone	is an	antiarrhythmic drug
+amiodarone	affects	potassium channels
+flecainide	is an	antiarrhythmic drug
+flecainide	blocks	sodium channels
+sotalol	is an	antiarrhythmic drug
+sotalol	blocks	beta receptors
+adenosine	treats	supraventricular tachycardia
+adenosine	blocks	AV node conduction
+isoproterenol	increases	heart rate
+isoproterenol	is a	beta agonist
+lidocaine	treats	ventricular arrhythmias
+lidocaine	blocks	sodium channels
+magnesium sulfate	treats	torsades de pointes
+magnesium sulfate	stabilizes	myocardial membranes
+conduction disorders	increase risk	stroke

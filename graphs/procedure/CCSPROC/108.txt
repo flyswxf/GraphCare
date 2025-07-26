@@ -1,0 +1,100 @@
+indwelling catheter	is a	medical device
+indwelling catheter	used for	urine drainage
+indwelling catheter	inserted into	bladder
+indwelling catheter	causes risk of	urinary tract infection
+indwelling catheter	requires	sterile technique
+indwelling catheter	can cause	bladder spasms
+indwelling catheter	may lead to	catheter-associated UTI
+indwelling catheter	has alternative	intermittent catheterization
+indwelling catheter	requires	regular maintenance
+indwelling catheter	can cause	urethral trauma
+indwelling catheter	has component	balloon
+indwelling catheter	measured in	French size
+indwelling catheter	made of	silicone
+indwelling catheter	has type	Foley catheter
+indwelling catheter	contraindicated in	urethral injury
+indwelling catheter	requires	securement device
+indwelling catheter	can cause	blockage
+indwelling catheter	needs	regular flushing
+indwelling catheter	associated with	encrustation
+indwelling catheter	requires	drainage bag
+indwelling catheter	has risk of	bladder stone formation
+indwelling catheter	can lead to	pyelonephritis
+indwelling catheter	contraindicated in	prostatic obstruction
+indwelling catheter	requires	insertion training
+indwelling catheter	has complication	leakage
+indwelling catheter	requires	catheter care protocol
+indwelling catheter	can cause	autonomic dysreflexia
+indwelling catheter	alternative to	suprapubic catheter
+indwelling catheter	indicated for	urinary retention
+indwelling catheter	contraindicated in	active UTI
+indwelling catheter	requires	patient education
+indwelling catheter	can cause	hematuria
+indwelling catheter	requires	documentation
+indwelling catheter	associated with	biofilm formation
+indwelling catheter	can lead to	septicemia
+indwelling catheter	alternative to	condom catheter
+indwelling catheter	requires	hand hygiene
+indwelling catheter	can cause	urethral stricture
+indwelling catheter	requires	aseptic insertion
+indwelling catheter	associated with	increased mortality
+indwelling catheter	can lead to	prostatitis
+indwelling catheter	alternative to	intermittent self-catheterization
+indwelling catheter	requires	daily inspection
+indwelling catheter	can cause	allergic reaction
+indwelling catheter	requires	removal protocol
+indwelling catheter	associated with	longer hospital stay
+indwelling catheter	can lead to	epididymitis
+indwelling catheter	alternative to	external catheter
+indwelling catheter	requires	proper positioning
+indwelling catheter	can cause	mechanical trauma
+indwelling catheter	requires	infection control
+indwelling catheter	associated with	antibiotic resistance
+indwelling catheter	can lead to	renal dysfunction
+indwelling catheter	alternative to	voiding trial
+indwelling catheter	requires	output monitoring
+indwelling catheter	can cause	tissue necrosis
+indwelling catheter	requires	anchoring
+indwelling catheter	associated with	readmission
+indwelling catheter	can lead to	urosepsis
+indwelling catheter	alternative to	behavioral interventions
+indwelling catheter	requires	patency check
+indwelling catheter	can cause	discomfort
+indwelling catheter	requires	irrigation
+indwelling catheter	associated with	multidrug-resistant organisms
+indwelling catheter	can lead to	bacteremia
+indwelling catheter	alternative to	medication therapy
+indwelling catheter	requires	securement
+indwelling catheter	can cause	pressure injury
+indwelling catheter	requires	regular assessment
+indwelling catheter	associated with	delirium
+indwelling catheter	can lead to	cystitis
+indwelling catheter	alternative to	pelvic floor exercises
+indwelling catheter	requires	connection check
+indwelling catheter	can cause	bladder neck erosion
+indwelling catheter	requires	gravity drainage
+indwelling catheter	associated with	nursing home admission
+indwelling catheter	can lead to	urethritis
+indwelling catheter	alternative to	timed voiding
+indwelling catheter	requires	closed system
+indwelling catheter	can cause	fistula formation
+indwelling catheter	requires	prevention protocol
+indwelling catheter	associated with	functional decline
+indwelling catheter	can lead to	chronic inflammation
+indwelling catheter	alternative to	alpha blockers
+indwelling catheter	requires	flow maintenance
+indwelling catheter	can cause	sphincter damage
+indwelling catheter	requires	tubing management
+indwelling catheter	associated with	mobility limitation
+indwelling catheter	can lead to	stone formation
+indwelling catheter	alternative to	cholinergic drugs
+indwelling catheter	requires	bag emptying
+indwelling catheter	can cause	urethral swelling
+indwelling catheter	requires	positioning check
+indwelling catheter	associated with	quality of life decrease
+indwelling catheter	can lead to	hydronephrosis
+indwelling catheter	alternative to	anticholinergic drugs
+indwelling catheter	requires	collection system
+indwelling catheter	can cause	skin breakdown
+indwelling catheter	requires	duration monitoring
+indwelling catheter	associated with	healthcare cost increase

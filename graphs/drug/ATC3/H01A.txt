@@ -1,0 +1,100 @@
+anterior pituitary lobe hormones	secreted by	anterior pituitary
+anterior pituitary lobe hormones	regulate	growth
+anterior pituitary lobe hormones	regulate	metabolism
+anterior pituitary lobe hormones	regulate	reproduction
+anterior pituitary lobe hormones	regulate	stress response
+growth hormone	is a	anterior pituitary lobe hormone
+prolactin	is a	anterior pituitary lobe hormone
+thyroid-stimulating hormone	is a	anterior pituitary lobe hormone
+adrenocorticotropic hormone	is a	anterior pituitary lobe hormone
+follicle-stimulating hormone	is a	anterior pituitary lobe hormone
+luteinizing hormone	is a	anterior pituitary lobe hormone
+growth hormone	stimulates	bone growth
+growth hormone	increases	muscle mass
+growth hormone	promotes	protein synthesis
+growth hormone	enhances	fat metabolism
+growth hormone deficiency	causes	short stature
+growth hormone excess	causes	acromegaly
+prolactin	stimulates	milk production
+prolactin	inhibits	ovulation
+prolactin	affects	libido
+prolactinoma	causes	hyperprolactinemia
+thyroid-stimulating hormone	stimulates	thyroid gland
+thyroid-stimulating hormone	regulates	thyroxine production
+thyroid-stimulating hormone	affects	metabolic rate
+thyroid-stimulating hormone deficiency	causes	hypothyroidism
+thyroid-stimulating hormone excess	causes	hyperthyroidism
+adrenocorticotropic hormone	stimulates	adrenal cortex
+adrenocorticotropic hormone	regulates	cortisol secretion
+adrenocorticotropic hormone	affects	stress response
+adrenocorticotropic hormone deficiency	causes	adrenal insufficiency
+adrenocorticotropic hormone excess	causes	Cushing's syndrome
+follicle-stimulating hormone	stimulates	follicle development
+follicle-stimulating hormone	regulates	spermatogenesis
+follicle-stimulating hormone	affects	estrogen production
+follicle-stimulating hormone deficiency	causes	infertility
+follicle-stimulating hormone excess	indicates	menopause
+luteinizing hormone	triggers	ovulation
+luteinizing hormone	stimulates	testosterone production
+luteinizing hormone	affects	progesterone production
+luteinizing hormone deficiency	causes	hypogonadism
+luteinizing hormone excess	indicates	polycystic ovary syndrome
+somatostatin	inhibits	growth hormone
+dopamine	inhibits	prolactin
+corticotropin-releasing hormone	stimulates	adrenocorticotropic hormone
+thyrotropin-releasing hormone	stimulates	thyroid-stimulating hormone
+gonadotropin-releasing hormone	stimulates	follicle-stimulating hormone
+gonadotropin-releasing hormone	stimulates	luteinizing hormone
+growth hormone	has analogue	somatropin
+somatropin	treats	growth hormone deficiency
+somatropin	used in	Turner syndrome
+somatropin	may cause	insulin resistance
+prolactin	has analogue	cabergoline
+cabergoline	treats	hyperprolactinemia
+cabergoline	may cause	nausea
+thyroid-stimulating hormone	has analogue	thyrotropin alfa
+thyrotropin alfa	used in	thyroid cancer monitoring
+thyrotropin alfa	may cause	headache
+adrenocorticotropic hormone	has analogue	cosyntropin
+cosyntropin	diagnoses	adrenal insufficiency
+cosyntropin	may cause	allergic reactions
+follicle-stimulating hormone	has analogue	follitropin
+follitropin	treats	infertility
+follitropin	used in	IVF
+follitropin	may cause	ovarian hyperstimulation
+luteinizing hormone	has analogue	lutropin
+lutropin	treats	hypogonadism
+lutropin	used in	fertility treatments
+lutropin	may cause	injection site reactions
+human menopausal gonadotropin	contains	follicle-stimulating hormone
+human menopausal gonadotropin	contains	luteinizing hormone
+human chorionic gonadotropin	mimics	luteinizing hormone
+human chorionic gonadotropin	used in	infertility treatments
+human chorionic gonadotropin	may cause	ovarian cysts
+octreotide	mimics	somatostatin
+octreotide	treats	acromegaly
+octreotide	may cause	gallstones
+bromocriptine	mimics	dopamine
+bromocriptine	treats	prolactinoma
+bromocriptine	may cause	hypotension
+anterior pituitary lobe hormones	measured by	blood tests
+pituitary adenoma	affects	anterior pituitary lobe hormones
+pituitary surgery	affects	anterior pituitary lobe hormones
+head trauma	may damage	anterior pituitary
+Sheehan's syndrome	causes	anterior pituitary failure
+empty sella syndrome	affects	anterior pituitary
+hypothalamic disorders	affect	anterior pituitary lobe hormones
+anterior pituitary lobe hormones	follow	circadian rhythm
+stress	increases	adrenocorticotropic hormone
+sleep	increases	growth hormone
+breastfeeding	increases	prolactin
+fasting	increases	growth hormone
+estrogen	feedback inhibits	follicle-stimulating hormone
+testosterone	feedback inhibits	luteinizing hormone
+cortisol	feedback inhibits	adrenocorticotropic hormone
+thyroxine	feedback inhibits	thyroid-stimulating hormone
+anterior pituitary lobe hormones	interact with	hypothalamus
+anterior pituitary lobe hormones	transported via	portal system
+anterior pituitary lobe hormones	have	pulsatile secretion
+anterior pituitary lobe hormones	have	feedback mechanisms
+anterior pituitary lobe hormones	are	peptide hormones

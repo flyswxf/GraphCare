@@ -1,0 +1,100 @@
+cataract	is a	eye condition
+cataract	affects	lens
+cataract	causes	vision impairment
+cataract	may lead to	blindness
+cataract	is treated with	surgery
+phacoemulsification	is a	cataract surgery
+intraocular lens	replaces	cataract
+cataract	is caused by	aging
+cataract	is associated with	diabetes
+cataract	may result from	trauma
+cataract	is linked to	UV exposure
+cataract	is common in	elderly
+cataract	may require	eyeglasses
+cataract	is diagnosed by	slit-lamp exam
+ophthalmologist	treats	cataract
+cataract	increases risk of	falls
+cataract	reduces	contrast sensitivity
+cataract	causes	glare sensitivity
+cataract	may coexist with	glaucoma
+cataract	is classified as	nuclear
+cataract	is classified as	cortical
+cataract	is classified as	posterior subcapsular
+congenital cataract	occurs in	newborns
+cataract	may follow	steroid use
+cataract	is prevented by	sunglasses
+cataract	has symptom	blurred vision
+cataract	has symptom	faded colors
+cataract	has symptom	double vision
+cataract	has symptom	halos
+cataract	may worsen	night vision
+cataract surgery	improves	visual acuity
+cataract surgery	uses	local anesthesia
+cataract surgery	has complication	retinal detachment
+cataract surgery	has complication	endophthalmitis
+cataract surgery	may require	YAG laser
+cataract	is studied in	ophthalmology
+cataract	has risk factor	smoking
+cataract	has risk factor	alcohol
+cataract	has risk factor	hypertension
+cataract	has risk factor	obesity
+cataract	may relate to	oxidative stress
+cataract	may involve	protein aggregation
+cataract	affects	quality of life
+cataract	increases	healthcare costs
+cataract	is prevalent in	developing countries
+cataract	may recur after	surgery
+cataract	is managed by	optometrist
+cataract	may precede	macular degeneration
+cataract	may mask	retinal disease
+cataract	delays	light transmission
+cataract	scatters	light
+cataract	reduces	visual field
+cataract	may require	brighter lighting
+cataract	complicates	driving
+cataract	may necessitate	low-vision aids
+cataract	is researched in	clinical trials
+cataract	may be	bilateral
+cataract	progresses	slowly
+cataract	severity	varies
+cataract	is evaluated by	visual acuity test
+cataract	may accompany	dry eye
+cataract	may follow	radiation therapy
+cataract	may relate to	genetic factors
+cataract	is common in	Down syndrome
+cataract	is monitored by	eye exam
+cataract	may require	pre-surgical evaluation
+cataract surgery	has success rate	high
+cataract surgery	uses	viscoelastic
+cataract surgery	removes	cloudy lens
+cataract surgery	implants	artificial lens
+cataract	may recur as	secondary cataract
+cataract	is influenced by	nutrition
+cataract	may be delayed by	antioxidants
+cataract	is aggravated by	dehydration
+cataract	may follow	eye injury
+cataract	may be	traumatic
+cataract	may be	drug-induced
+cataract	may complicate	other eye surgeries
+cataract	is documented in	medical records
+cataract	is assessed by	glare testing
+cataract	may affect	color perception
+cataract	may cause	monocular diplopia
+cataract	is listed in	ICD-10
+cataract	is reimbursed by	insurance
+cataract	may require	pre-authorization
+cataract	has differential diagnosis	vitreous opacity
+cataract	may mimic	corneal edema
+cataract	is excluded by	pinhole test
+cataract	may coexist with	astigmatism
+cataract	may require	toric lens
+cataract	may need	multifocal lens
+cataract	is discussed in	patient education
+cataract	has postoperative care	eye drops
+cataract	may require	follow-up visits
+cataract	is mentioned in	clinical guidelines
+cataract	is prioritized by	visual need
+cataract	is more common in	females
+cataract	has hereditary forms
+cataract	is prevented by	vitamin C
+cataract	is prevented by	vitamin E

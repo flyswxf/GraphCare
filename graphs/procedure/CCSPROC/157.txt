@@ -1,0 +1,100 @@
+amputation of lower extremity	is a	surgical procedure
+amputation of lower extremity	treats	severe trauma
+amputation of lower extremity	treats	peripheral artery disease
+amputation of lower extremity	treats	diabetic foot ulcer
+amputation of lower extremity	prevents	sepsis
+amputation of lower extremity	requires	postoperative rehabilitation
+amputation of lower extremity	causes	phantom limb pain
+amputation of lower extremity	increases risk of	depression
+amputation of lower extremity	may lead to	mobility impairment
+amputation of lower extremity	managed by	prosthetics
+amputation of lower extremity	involves	wound care
+amputation of lower extremity	performed by	vascular surgeon
+amputation of lower extremity	performed by	orthopedic surgeon
+amputation of lower extremity	requires	anesthesia
+amputation of lower extremity	classified as	major surgery
+amputation of lower extremity	may require	blood transfusion
+amputation of lower extremity	follows	vascular assessment
+amputation of lower extremity	preceded by	imaging studies
+amputation of lower extremity	involves	pain management
+amputation of lower extremity	affects	gait
+amputation of lower extremity	increases risk of	deep vein thrombosis
+amputation of lower extremity	monitored for	infection
+amputation of lower extremity	may require	revision surgery
+amputation of lower extremity	associated with	cardiovascular disease
+amputation of lower extremity	common in	elderly patients
+amputation of lower extremity	linked to	smoking history
+amputation of lower extremity	higher prevalence in	males
+amputation of lower extremity	requires	physical therapy
+amputation of lower extremity	necessitates	occupational therapy
+amputation of lower extremity	impacts	quality of life
+amputation of lower extremity	increases risk of	falls
+amputation of lower extremity	may cause	chronic pain
+amputation of lower extremity	requires	psychological support
+amputation of lower extremity	associated with	hypertension
+amputation of lower extremity	associated with	hyperlipidemia
+amputation of lower extremity	complication	stump necrosis
+amputation of lower extremity	complication	hematoma
+amputation of lower extremity	complication	contractures
+amputation of lower extremity	involves	nerve transection
+amputation of lower extremity	involves	muscle reattachment
+amputation of lower extremity	may require	skin grafting
+amputation of lower extremity	uses	tourniquet
+amputation of lower extremity	follows	informed consent
+amputation of lower extremity	documented in	operative report
+amputation of lower extremity	requires	postoperative monitoring
+amputation of lower extremity	may involve	arterial ligation
+amputation of lower extremity	may involve	venous ligation
+amputation of lower extremity	indication	osteomyelitis
+amputation of lower extremity	indication	gangrene
+amputation of lower extremity	indication	malignancy
+amputation of lower extremity	contraindication	uncontrolled infection
+amputation of lower extremity	contraindication	poor surgical candidacy
+amputation of lower extremity	preoperative step	blood tests
+amputation of lower extremity	preoperative step	ECG
+amputation of lower extremity	postoperative care	dressing changes
+amputation of lower extremity	postoperative care	stump elevation
+amputation of lower extremity	rehabilitation goal	independent mobility
+amputation of lower extremity	rehabilitation goal	activities of daily living
+amputation of lower extremity	prosthetic fitting	residual limb shaping
+amputation of lower extremity	prosthetic fitting	socket design
+amputation of lower extremity	prosthetic component	foot module
+amputation of lower extremity	prosthetic component	knee joint
+amputation of lower extremity	long-term risk	osteoarthritis
+amputation of lower extremity	long-term risk	contralateral amputation
+amputation of lower extremity	mortality predictor	cardiovascular events
+amputation of lower extremity	readmission risk	wound complications
+amputation of lower extremity	readmission risk	infection
+amputation of lower extremity	cost factor	prosthetic devices
+amputation of lower extremity	cost factor	rehabilitation services
+amputation of lower extremity	social impact	employment challenges
+amputation of lower extremity	social impact	body image issues
+amputation of lower extremity	research focus	nerve regeneration
+amputation of lower extremity	research focus	osseointegration
+amputation of lower extremity	alternative treatment	limb salvage surgery
+amputation of lower extremity	alternative treatment	angioplasty
+amputation of lower extremity	hospital stay	acute care
+amputation of lower extremity	hospital stay	inpatient rehab
+amputation of lower extremity	pain medication	opioids
+amputation of lower extremity	pain medication	NSAIDs
+amputation of lower extremity	adjuvant therapy	gabapentin
+amputation of lower extremity	adjuvant therapy	antidepressants
+amputation of lower extremity	surgical technique	guillotine amputation
+amputation of lower extremity	surgical technique	flap closure
+amputation of lower extremity	vascular consideration	collateral circulation
+amputation of lower extremity	vascular consideration	pulse examination
+amputation of lower extremity	nutritional need	protein supplementation
+amputation of lower extremity	nutritional need	vitamin supplementation
+amputation of lower extremity	comorbid condition	renal disease
+amputation of lower extremity	comorbid condition	obesity
+amputation of lower extremity	preventive measure	foot care education
+amputation of lower extremity	preventive measure	glycemic control
+amputation of lower extremity	emergency indication	necrotizing fasciitis
+amputation of lower extremity	emergency indication	compartment syndrome
+amputation of lower extremity	surgical team	anesthesiologist
+amputation of lower extremity	surgical team	surgical nurse
+amputation of lower extremity	discharge planning	home modifications
+amputation of lower extremity	discharge planning	outpatient follow-up
+amputation of lower extremity	assistive device	wheelchair
+amputation of lower extremity	assistive device	walker
+amputation of lower extremity	survivorship issue	peer support groups

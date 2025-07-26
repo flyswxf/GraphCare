@@ -1,0 +1,100 @@
+anti-parathyroid agents	are	drugs
+anti-parathyroid agents	treat	hyperparathyroidism
+anti-parathyroid agents	inhibit	parathyroid hormone
+parathyroid hormone	regulates	calcium levels
+hyperparathyroidism	causes	hypercalcemia
+hypercalcemia	leads to	kidney stones
+anti-parathyroid agents	include	calcimimetics
+calcimimetics	target	calcium-sensing receptors
+calcium-sensing receptors	modulate	PTH secretion
+anti-parathyroid agents	used for	secondary hyperparathyroidism
+secondary hyperparathyroidism	associated with	chronic kidney disease
+chronic kidney disease	requires	dialysis
+anti-parathyroid agents	reduce	bone resorption
+bone resorption	releases	calcium
+hyperparathyroidism	increases	fracture risk
+fracture risk	assessed by	bone density scan
+anti-parathyroid agents	contraindicated in	hypocalcemia
+hypocalcemia	causes	muscle cramps
+anti-parathyroid agents	monitored via	serum calcium
+serum calcium	measured in	blood tests
+anti-parathyroid agents	interact with	vitamin D analogs
+vitamin D analogs	enhance	calcium absorption
+calcium absorption	occurs in	intestines
+anti-parathyroid agents	compete with	bisphosphonates
+bisphosphonates	treat	osteoporosis
+osteoporosis	characterized by	porous bones
+anti-parathyroid agents	may cause	hypophosphatemia
+hypophosphatemia	results in	weakness
+anti-parathyroid agents	prescribed with	dietary modifications
+dietary modifications	limit	phosphorus intake
+phosphorus intake	affects	bone health
+anti-parathyroid agents	metabolized in	liver
+liver	processes	medications
+anti-parathyroid agents	excreted via	kidneys
+kidneys	filter	blood
+anti-parathyroid agents	require	dosage adjustment in renal impairment
+renal impairment	complicates	drug clearance
+anti-parathyroid agents	alternative to	parathyroidectomy
+parathyroidectomy	removes	parathyroid glands
+parathyroid glands	secrete	PTH
+anti-parathyroid agents	suppress	PTH overproduction
+PTH overproduction	stimulates	osteoclast activity
+osteoclast activity	degrades	bone tissue
+anti-parathyroid agents	stabilize	bone mineral density
+bone mineral density	predicts	fracture susceptibility
+anti-parathyroid agents	contraindicated with	certain diuretics
+certain diuretics	increase	calcium excretion
+calcium excretion	influences	electrolyte balance
+anti-parathyroid agents	alleviate	bone pain
+bone pain	common in	Paget's disease
+Paget's disease	involves	abnormal bone remodeling
+abnormal bone remodeling	leads to	deformities
+anti-parathyroid agents	mitigate	vascular calcification
+vascular calcification	raises	cardiovascular risk
+cardiovascular risk	assessed by	lipid profile
+anti-parathyroid agents	require	regular monitoring
+regular monitoring	includes	PTH assays
+PTH assays	measure	hormone levels
+hormone levels	indicate	disease progression
+anti-parathyroid agents	improve	quality of life
+quality of life	impacted by	chronic symptoms
+chronic symptoms	include	fatigue
+anti-parathyroid agents	adjunct to	calcium supplements
+calcium supplements	prevent	deficiencies
+deficiencies	cause	tetany
+tetany	manifests as	muscle spasms
+anti-parathyroid agents	prescribed by	endocrinologists
+endocrinologists	specialize in	hormone disorders
+hormone disorders	affect	metabolism
+anti-parathyroid agents	studied in	clinical trials
+clinical trials	evaluate	efficacy
+efficacy	determines	treatment success
+anti-parathyroid agents	compared to	placebo
+placebo	controls	study bias
+study bias	distorts	results
+anti-parathyroid agents	have	half-life
+half-life	dictates	dosing frequency
+dosing frequency	impacts	adherence
+adherence	improves	outcomes
+anti-parathyroid agents	vary in	potency
+potency	influences	therapeutic effect
+therapeutic effect	alleviates	symptoms
+symptoms	guide	diagnosis
+diagnosis	confirmed by	lab tests
+lab tests	detect	abnormalities
+abnormalities	prompt	interventions
+interventions	aim for	normalization
+normalization	restores	homeostasis
+homeostasis	maintains	health
+health	depends on	balanced physiology
+balanced physiology	requires	coordinated systems
+coordinated systems	involve	feedback loops
+feedback loops	regulate	hormone secretion
+hormone secretion	disrupted in	endocrine diseases
+endocrine diseases	managed by	specialists
+specialists	collaborate with	primary care
+primary care	coordinates	patient care
+patient care	prioritizes	safety
+safety	ensured by	evidence-based practice
+evidence-based practice	relies on	research

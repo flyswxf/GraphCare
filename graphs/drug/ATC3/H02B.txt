@@ -1,0 +1,100 @@
+corticosteroids	is a	anti-inflammatory drug
+corticosteroids	suppresses	immune system
+corticosteroids	treats	autoimmune diseases
+corticosteroids	contains	glucocorticoids
+glucocorticoids	regulates	metabolism
+glucocorticoids	affects	glucose levels
+glucocorticoids	binds to	glucocorticoid receptor
+glucocorticoid receptor	modulates	gene expression
+corticosteroids	may cause	osteoporosis
+osteoporosis	increases risk of	fractures
+corticosteroids	can lead to	weight gain
+weight gain	associated with	metabolic syndrome
+corticosteroids	increases risk of	infections
+infections	may require	antibiotics
+corticosteroids	affects	cortisol levels
+cortisol	is a	stress hormone
+cortisol	regulates	blood pressure
+corticosteroids	used for	asthma
+asthma	involves	airway inflammation
+airway inflammation	causes	breathing difficulty
+corticosteroids	treats	rheumatoid arthritis
+rheumatoid arthritis	is an	autoimmune disorder
+autoimmune disorder	involves	immune dysregulation
+corticosteroids	may cause	hyperglycemia
+hyperglycemia	leads to	diabetes
+corticosteroids	requires	dose tapering
+dose tapering	prevents	adrenal insufficiency
+adrenal insufficiency	causes	fatigue
+corticosteroids	interacts with	NSAIDs
+NSAIDs	increases risk of	gastrointestinal bleeding
+corticosteroids	contraindicated in	active infections
+active infections	may require	hospitalization
+corticosteroids	monitored through	blood tests
+blood tests	measure	electrolyte levels
+electrolyte imbalance	causes	muscle weakness
+corticosteroids	affects	wound healing
+wound healing	requires	collagen production
+corticosteroids	may cause	mood changes
+mood changes	includes	depression
+depression	treated with	antidepressants
+corticosteroids	used in	organ transplantation
+organ transplantation	requires	immunosuppression
+immunosuppression	increases risk of	malignancies
+corticosteroids	treats	lupus
+lupus	affects	multiple organs
+multiple organ involvement	requires	multidisciplinary care
+corticosteroids	may cause	Cushing's syndrome
+Cushing's syndrome	characterized by	moon face
+moon face	is a	physical sign
+corticosteroids	administered as	oral tablets
+oral tablets	absorbed in	gastrointestinal tract
+gastrointestinal tract	affected by	drug interactions
+corticosteroids	available as	injectable forms
+injectable forms	used for	acute conditions
+acute conditions	require	rapid onset
+corticosteroids	metabolized in	liver
+liver dysfunction	alters	drug metabolism
+drug metabolism	affects	therapeutic efficacy
+corticosteroids	excreted through	kidneys
+kidney function	monitored via	creatinine levels
+creatinine levels	indicates	renal health
+corticosteroids	contraindicated in	peptic ulcer
+peptic ulcer	treated with	proton pump inhibitors
+proton pump inhibitors	reduces	stomach acid
+stomach acid	aids in	digestion
+corticosteroids	may cause	glaucoma
+glaucoma	damages	optic nerve
+optic nerve damage	leads to	vision loss
+corticosteroids	affects	bone marrow
+bone marrow	produces	blood cells
+blood cell production	essential for	immunity
+corticosteroids	used in	chemotherapy regimens
+chemotherapy regimens	treats	cancers
+cancers	characterized by	uncontrolled cell growth
+uncontrolled cell growth	leads to	tumor formation
+corticosteroids	reduces	chemotherapy side effects
+chemotherapy side effects	includes	nausea
+nausea	managed with	antiemetics
+antiemetics	blocks	vomiting reflex
+corticosteroids	targets	inflammatory pathways
+inflammatory pathways	involves	cytokines
+cytokines	mediates	immune response
+immune response	protects against	pathogens
+pathogens	causes	infectious diseases
+infectious diseases	treated with	antimicrobials
+antimicrobials	includes	antibiotics
+antibiotics	targets	bacterial infections
+bacterial infections	diagnosed via	cultures
+cultures	identifies	pathogenic organisms
+corticosteroids	may cause	hypertension
+hypertension	managed with	antihypertensives
+antihypertensives	lowers	blood pressure
+blood pressure	measured by	sphygmomanometer
+sphygmomanometer	uses	inflatable cuff
+inflatable cuff	applies	pressure
+corticosteroids	affects	lipid metabolism
+lipid metabolism	regulates	cholesterol levels
+cholesterol levels	associated with	cardiovascular risk
+cardiovascular risk	reduced by	statins
+statins	inhibits	HMG-CoA reductase

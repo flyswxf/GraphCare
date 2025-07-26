@@ -1,0 +1,105 @@
+antipropulsives	is a	drug class
+antipropulsives	treats	diarrhea
+diarrhea	caused by	infections
+diarrhea	caused by	irritable bowel syndrome
+antipropulsives	mechanism	slows intestinal motility
+intestinal motility	regulated by	nervous system
+antipropulsives	includes	loperamide
+loperamide	is a	opioid receptor agonist
+opioid receptor agonist	affects	gastrointestinal tract
+antipropulsives	contraindicated in	bacterial diarrhea
+bacterial diarrhea	requires	antibiotics
+antipropulsives	side effects	constipation
+constipation	managed by	laxatives
+antipropulsives	interacts with	CYP3A4 inhibitors
+CYP3A4 inhibitors	includes	grapefruit juice
+antipropulsives	pharmacokinetics	hepatic metabolism
+hepatic metabolism	affected by	liver disease
+antipropulsives	excretion	biliary
+biliary excretion	impaired by	cholestasis
+antipropulsives	dosage	weight-dependent
+weight-dependent dosing	adjusted for	pediatric patients
+antipropulsives	toxicity	central nervous system depression
+central nervous system depression	symptom	drowsiness
+antipropulsives	overdose	treated with naloxone
+naloxone	is a	opioid antagonist
+antipropulsives	brand names	Imodium
+Imodium	contains	loperamide
+antipropulsives	alternatives	adsorbents
+adsorbents	includes	bismuth subsalicylate
+bismuth subsalicylate	side effect	black stools
+antipropulsives	used in	travelers' diarrhea
+travelers' diarrhea	prevention	hygiene
+hygiene	includes	hand washing
+antipropulsives	prescription	over-the-counter
+over-the-counter drugs	regulated by	FDA
+FDA	evaluates	drug safety
+antipropulsives	research	new formulations
+new formulations	aim	reduced side effects
+antipropulsives	mechanism similarity	opioids
+opioids	risk	addiction
+addiction	treated by	rehabilitation
+antipropulsives	monitoring	bowel sounds
+bowel sounds	absent in	ileus
+ileus	managed by	bowel rest
+antipropulsives	contraindicated in	ulcerative colitis
+ulcerative colitis	treated by	aminosalicylates
+aminosalicylates	example	mesalamine
+antipropulsives	used with caution	elderly
+elderly patients	risk	polypharmacy
+polypharmacy	leads to	drug interactions
+antipropulsives	storage	room temperature
+room temperature	defined as	20-25°C
+antipropulsives	stability	moisture-sensitive
+moisture-sensitive drugs	stored in	desiccants
+antipropulsives	formulation	tablets
+tablets	administration	oral
+oral drugs	absorbed in	small intestine
+small intestine	affected by	pH levels
+antipropulsives	absorption	delayed by food
+food-drug interactions	studied in	pharmacokinetics
+antipropulsives	pregnancy category	C
+pregnancy category C	indicates	risk not ruled out
+risk assessment	based on	animal studies
+antipropulsives	lactation	caution advised
+lactation	affected by	drug excretion in milk
+drug excretion in milk	impacts	breastfeeding infants
+antipropulsives	pediatric use	approved
+pediatric use	adjusted by	body weight
+body weight	measured in	kilograms
+antipropulsives	geriatric use	monitoring required
+geriatric use	considerations	renal function
+renal function	declines with	age
+antipropulsives	cost	varies by brand
+drug cost	influenced by	insurance coverage
+insurance coverage	depends on	formulary
+antipropulsives	generic availability	yes
+generic drugs	compared to	brand-name drugs
+brand-name drugs	often	more expensive
+antipropulsives	synthesis	organic chemistry
+organic chemistry	involves	carbon compounds
+carbon compounds	basis	pharmaceuticals
+antipropulsives	patent expiration	varies
+patent expiration	allows	generic competition
+generic competition	reduces	drug prices
+antipropulsives	clinical trials	phase III completed
+clinical trials	phases	I-IV
+phase III trials	assess	efficacy
+efficacy	compared to	placebo
+placebo	effect	psychological
+psychological factors	influence	drug response
+antipropulsives	patient education	important
+patient education	includes	dosage instructions
+dosage instructions	prevent	misuse
+misuse	leads to	adverse effects
+adverse effects	reported to	healthcare providers
+healthcare providers	include	physicians
+physicians	prescribe	antipropulsives
+antipropulsives	guidelines	AGA recommendations
+AGA	stands for	American Gastroenterological Association
+American Gastroenterological Association	publishes	treatment guidelines
+treatment guidelines	based on	evidence
+evidence	derived from	randomized controlled trials
+randomized controlled trials	gold standard	research
+research	advances	medical knowledge
+medical knowledge	improves	patient outcomes

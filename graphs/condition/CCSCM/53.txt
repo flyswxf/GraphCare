@@ -1,0 +1,100 @@
+disorders of lipid metabolism	include	hypercholesterolemia
+disorders of lipid metabolism	include	hypertriglyceridemia
+disorders of lipid metabolism	include	familial hypercholesterolemia
+disorders of lipid metabolism	may cause	atherosclerosis
+disorders of lipid metabolism	may cause	coronary artery disease
+disorders of lipid metabolism	may cause	stroke
+disorders of lipid metabolism	may cause	pancreatitis
+disorders of lipid metabolism	may cause	xanthomas
+LDL cholesterol	is elevated in	disorders of lipid metabolism
+HDL cholesterol	is decreased in	disorders of lipid metabolism
+triglycerides	are elevated in	disorders of lipid metabolism
+statins	treat	disorders of lipid metabolism
+fibrates	treat	disorders of lipid metabolism
+ezetimibe	treats	disorders of lipid metabolism
+PCSK9 inhibitors	treat	disorders of lipid metabolism
+niacin	treats	disorders of lipid metabolism
+omega-3 fatty acids	treat	disorders of lipid metabolism
+disorders of lipid metabolism	require	lipid panel testing
+disorders of lipid metabolism	are associated with	obesity
+disorders of lipid metabolism	are associated with	diabetes mellitus
+disorders of lipid metabolism	are associated with	metabolic syndrome
+disorders of lipid metabolism	are associated with	hypothyroidism
+disorders of lipid metabolism	are associated with	nephrotic syndrome
+disorders of lipid metabolism	are associated with	alcohol abuse
+disorders of lipid metabolism	are associated with	liver disease
+disorders of lipid metabolism	are associated with	chronic kidney disease
+disorders of lipid metabolism	are associated with	polycystic ovary syndrome
+disorders of lipid metabolism	are associated with	Cushing's syndrome
+disorders of lipid metabolism	are associated with	pregnancy
+disorders of lipid metabolism	are associated with	HIV infection
+disorders of lipid metabolism	are associated with	lipodystrophy
+disorders of lipid metabolism	are associated with	certain medications
+disorders of lipid metabolism	increase risk of	myocardial infarction
+disorders of lipid metabolism	increase risk of	peripheral artery disease
+disorders of lipid metabolism	increase risk of	aortic aneurysm
+disorders of lipid metabolism	increase risk of	sudden cardiac death
+disorders of lipid metabolism	increase risk of	ischemic stroke
+disorders of lipid metabolism	increase risk of	transient ischemic attack
+disorders of lipid metabolism	increase risk of	carotid stenosis
+disorders of lipid metabolism	increase risk of	erectile dysfunction
+dietary changes	manage	disorders of lipid metabolism
+physical activity	manages	disorders of lipid metabolism
+weight loss	improves	disorders of lipid metabolism
+smoking cessation	improves	disorders of lipid metabolism
+alcohol moderation	improves	disorders of lipid metabolism
+LDL apheresis	treats	severe disorders of lipid metabolism
+bariatric surgery	may improve	disorders of lipid metabolism
+liver transplantation	may treat	severe disorders of lipid metabolism
+disorders of lipid metabolism	have genetic predisposition
+LDL receptor mutations	cause	familial hypercholesterolemia
+ApoB mutations	cause	familial hypercholesterolemia
+PCSK9 mutations	cause	familial hypercholesterolemia
+LPL deficiency	causes	hypertriglyceridemia
+ApoCII deficiency	causes	hypertriglyceridemia
+ApoE mutations	cause	dysbetalipoproteinemia
+ABCG5/8 mutations	cause	sitosterolemia
+disorders of lipid metabolism	require	long-term management
+disorders of lipid metabolism	have variable severity
+disorders of lipid metabolism	may be asymptomatic
+disorders of lipid metabolism	may present with	arcus cornealis
+disorders of lipid metabolism	may present with	tendon xanthomas
+disorders of lipid metabolism	may present with	xanthelasma
+disorders of lipid metabolism	may present with	abdominal pain
+disorders of lipid metabolism	may present with	hepatosplenomegaly
+disorders of lipid metabolism	may present with	lipemia retinalis
+disorders of lipid metabolism	may present with	eruptive xanthomas
+disorders of lipid metabolism	may present with	memory impairment
+disorders of lipid metabolism	may present with	peripheral neuropathy
+disorders of lipid metabolism	may present with	dementia
+disorders of lipid metabolism	may complicate	diabetes management
+disorders of lipid metabolism	may complicate	hypertension management
+disorders of lipid metabolism	may complicate	chronic kidney disease management
+disorders of lipid metabolism	increase healthcare costs
+disorders of lipid metabolism	reduce quality of life
+disorders of lipid metabolism	increase mortality risk
+disorders of lipid metabolism	increase hospitalizations
+disorders of lipid metabolism	require	multidisciplinary care
+disorders of lipid metabolism	need	patient education
+disorders of lipid metabolism	need	family screening
+disorders of lipid metabolism	have	variable treatment response
+disorders of lipid metabolism	may require	combination therapy
+disorders of lipid metabolism	may cause	medication side effects
+disorders of lipid metabolism	may lead to	non-adherence
+disorders of lipid metabolism	are common in	developed countries
+disorders of lipid metabolism	are increasing in	developing countries
+disorders of lipid metabolism	affect	all age groups
+disorders of lipid metabolism	are more common in	men
+disorders of lipid metabolism	increase after	menopause
+disorders of lipid metabolism	fluctuate with	hormonal changes
+disorders of lipid metabolism	may worsen with	stress
+disorders of lipid metabolism	may improve with	meditation
+disorders of lipid metabolism	are influenced by	gut microbiome
+disorders of lipid metabolism	may benefit from	probiotics
+disorders of lipid metabolism	may benefit from	plant sterols
+disorders of lipid metabolism	may benefit from	dietary fiber
+disorders of lipid metabolism	may benefit from	Mediterranean diet
+disorders of lipid metabolism	may benefit from	DASH diet
+disorders of lipid metabolism	are monitored with	regular blood tests
+disorders of lipid metabolism	have treatment guidelines
+disorders of lipid metabolism	are research focus

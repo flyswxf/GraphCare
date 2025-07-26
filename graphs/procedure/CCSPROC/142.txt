@@ -1,0 +1,100 @@
+partial excision bone	is a	surgical procedure
+partial excision bone	treats	bone tumor
+partial excision bone	treats	osteomyelitis
+partial excision bone	treats	bone cyst
+partial excision bone	part of	orthopedic surgery
+partial excision bone	requires	anesthesia
+partial excision bone	may cause	bleeding
+partial excision bone	may cause	infection
+partial excision bone	may require	bone graft
+partial excision bone	followed by	physical therapy
+partial excision bone	uses	surgical saw
+partial excision bone	uses	bone chisel
+partial excision bone	monitored by	X-ray
+partial excision bone	monitored by	CT scan
+partial excision bone	alternative to	complete excision
+bone tumor	may require	partial excision bone
+osteomyelitis	may require	partial excision bone
+bone cyst	may require	partial excision bone
+orthopedic surgeon	performs	partial excision bone
+anesthesia	required for	partial excision bone
+bleeding	potential complication of	partial excision bone
+infection	potential complication of	partial excision bone
+bone graft	may follow	partial excision bone
+physical therapy	rehabilitation after	partial excision bone
+surgical saw	tool for	partial excision bone
+bone chisel	tool for	partial excision bone
+X-ray	diagnostic tool for	partial excision bone
+CT scan	diagnostic tool for	partial excision bone
+complete excision	alternative to	partial excision bone
+partial excision bone	preserves	healthy bone
+partial excision bone	reduces	recurrence risk
+partial excision bone	affects	bone strength
+bone strength	impacted by	partial excision bone
+recurrence risk	reduced by	partial excision bone
+healthy bone	preserved by	partial excision bone
+partial excision bone	may lead to	fracture
+fracture	potential complication of	partial excision bone
+partial excision bone	requires	postoperative care
+postoperative care	necessary after	partial excision bone
+partial excision bone	may involve	internal fixation
+internal fixation	may accompany	partial excision bone
+partial excision bone	performed in	hospital
+hospital	setting for	partial excision bone
+partial excision bone	may require	blood transfusion
+blood transfusion	potential need after	partial excision bone
+partial excision bone	contraindicated in	osteoporosis
+osteoporosis	contraindication for	partial excision bone
+partial excision bone	contraindicated in	coagulation disorders
+coagulation disorders	contraindication for	partial excision bone
+partial excision bone	may be	outpatient procedure
+outpatient procedure	possible for	partial excision bone
+partial excision bone	may require	hospitalization
+hospitalization	possible after	partial excision bone
+partial excision bone	involves	sterile technique
+sterile technique	used in	partial excision bone
+partial excision bone	requires	preoperative imaging
+preoperative imaging	necessary for	partial excision bone
+partial excision bone	may involve	biopsy
+biopsy	may accompany	partial excision bone
+partial excision bone	treats	benign bone lesion
+benign bone lesion	treated by	partial excision bone
+partial excision bone	treats	malignant bone lesion
+malignant bone lesion	treated by	partial excision bone
+partial excision bone	may require	radiation therapy
+radiation therapy	may follow	partial excision bone
+partial excision bone	may require	chemotherapy
+chemotherapy	may follow	partial excision bone
+partial excision bone	may involve	soft tissue excision
+soft tissue excision	may accompany	partial excision bone
+partial excision bone	may involve	joint resection
+joint resection	may accompany	partial excision bone
+partial excision bone	affects	mobility
+mobility	impacted by	partial excision bone
+partial excision bone	may cause	nerve damage
+nerve damage	potential complication of	partial excision bone
+partial excision bone	may cause	vascular injury
+vascular injury	potential complication of	partial excision bone
+partial excision bone	may require	pain management
+pain management	necessary after	partial excision bone
+partial excision bone	may involve	bone cement
+bone cement	may be used in	partial excision bone
+partial excision bone	may involve	prosthesis
+prosthesis	may be used in	partial excision bone
+partial excision bone	may require	rehabilitation
+rehabilitation	necessary after	partial excision bone
+partial excision bone	may involve	arthrodesis
+arthrodesis	may accompany	partial excision bone
+partial excision bone	may involve	arthroplasty
+arthroplasty	may accompany	partial excision bone
+partial excision bone	may require	bracing
+bracing	may follow	partial excision bone
+partial excision bone	may require	cast
+cast	may follow	partial excision bone
+partial excision bone	may require	splint
+splint	may follow	partial excision bone
+partial excision bone	may involve	bone screws
+bone screws	may be used in	partial excision bone
+partial excision bone	may involve	plates
+plates	may be used in	partial excision bone
+partial excision bone	may involve	rods

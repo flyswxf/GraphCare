@@ -1,0 +1,20 @@
+high-ceiling diuretics	is a	loop diuretics
+high-ceiling diuretics	act on	ascending loop of Henle
+high-ceiling diuretics	inhibit	Na-K-2Cl symporter
+high-ceiling diuretics	cause	potent diuresis
+high-ceiling diuretics	treat	edema
+edema	caused by	heart failure
+heart failure	requires	diuretic therapy
+high-ceiling diuretics	include	furosemide
+furosemide	has	rapid onset
+high-ceiling diuretics	cause	hypokalemia
+hypokalemia	leads to	arrhythmia
+high-ceiling diuretics	require	potassium monitoring
+high-ceiling diuretics	interact with	aminoglycosides
+aminoglycosides	increase	ototoxicity risk
+high-ceiling diuretics	contraindicated in	sulfa allergy
+high-ceiling diuretics	used in	acute pulmonary edema
+acute pulmonary edema	causes	respiratory distress
+high-ceiling diuretics	promote	sodium excretion
+sodium excretion	affects	blood pressure
+high-ceiling diuretics	reduce	vascular congestion

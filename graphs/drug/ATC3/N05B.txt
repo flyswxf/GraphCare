@@ -1,0 +1,100 @@
+anxiolytics	is a	drug class
+anxiolytics	treats	anxiety disorders
+anxiolytics	includes	benzodiazepines
+anxiolytics	includes	buspirone
+anxiolytics	includes	barbiturates
+benzodiazepines	example	diazepam
+benzodiazepines	example	lorazepam
+benzodiazepines	mechanism	GABA enhancement
+GABA enhancement	causes	sedation
+sedation	can lead	dependence
+dependence	requires	tapering
+tapering	prevents	withdrawal symptoms
+withdrawal symptoms	include	seizures
+benzodiazepines	risk	respiratory depression
+respiratory depression	contraindicates	COPD
+COPD	is	lung disease
+benzodiazepines	interacts	alcohol
+alcohol	potentiates	CNS depression
+CNS depression	causes	coma
+buspirone	is	non-benzodiazepine
+buspirone	acts on	serotonin receptors
+serotonin receptors	regulate	mood
+mood	affects	depression
+depression	comorbidity	anxiety
+buspirone	has	delayed onset
+delayed onset	limits	acute anxiety
+acute anxiety	requires	rapid relief
+rapid relief	provided by	benzodiazepines
+barbiturates	are	older anxiolytics
+barbiturates	have	narrow therapeutic index
+narrow therapeutic index	increases	overdose risk
+overdose risk	requires	monitoring
+monitoring	involves	blood tests
+blood tests	measure	drug levels
+anxiolytics	prescribed by	psychiatrists
+psychiatrists	diagnose	mental disorders
+mental disorders	include	GAD
+GAD	stands for	generalized anxiety disorder
+generalized anxiety disorder	features	excessive worry
+excessive worry	impairs	daily functioning
+daily functioning	involves	work performance
+work performance	affected by	panic attacks
+panic attacks	treated with	short-acting anxiolytics
+short-acting anxiolytics	example	alprazolam
+alprazolam	has	high abuse potential
+abuse potential	monitored by	DEA
+DEA	regulates	controlled substances
+controlled substances	include	Schedule IV drugs
+Schedule IV drugs	include	clonazepam
+clonazepam	treats	panic disorder
+panic disorder	characterized by	recurrent attacks
+recurrent attacks	may require	long-term medication
+long-term medication	risks	tolerance
+tolerance	necessitates	dose escalation
+dose escalation	increases	side effects
+side effects	include	cognitive impairment
+cognitive impairment	affects	memory
+memory	important for	learning
+learning	impaired by	anterograde amnesia
+anterograde amnesia	caused by	benzodiazepines
+benzodiazepines	contraindicated in	elderly
+elderly	at risk for	falls
+falls	may cause	hip fractures
+hip fractures	increase	mortality
+mortality	predicted by	frailty
+frailty	associated with	polypharmacy
+polypharmacy	common in	geriatrics
+geriatrics	manages	multiple conditions
+multiple conditions	require	drug interactions check
+drug interactions check	prevents	adverse events
+adverse events	reported to	FDA
+FDA	approves	new drugs
+new drugs	undergo	clinical trials
+clinical trials	test	efficacy
+efficacy	measured by	symptom reduction
+symptom reduction	evaluated using	HAM-A
+HAM-A	is	anxiety rating scale
+anxiety rating scale	assesses	severity
+severity	determines	treatment choice
+treatment choice	considers	patient history
+patient history	includes	substance abuse
+substance abuse	contraindicates	certain anxiolytics
+certain anxiolytics	preferred for	pregnant women
+pregnant women	cautioned about	teratogenicity
+teratogenicity	risk with	first-trimester use
+first-trimester use	affects	fetal development
+fetal development	sensitive to	CNS drugs
+CNS drugs	cross	placenta
+placenta	transfers	nutrients
+nutrients	essential for	growth
+growth	monitored by	ultrasound
+ultrasound	performed by	radiologists
+radiologists	use	imaging techniques
+imaging techniques	diagnose	abnormalities
+abnormalities	may include	neural tube defects
+neural tube defects	prevented by	folic acid
+folic acid	is	vitamin B9
+vitamin B9	found in	leafy greens
+leafy greens	part of	healthy diet
+healthy diet	supports	mental health

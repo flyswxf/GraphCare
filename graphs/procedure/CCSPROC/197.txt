@@ -1,0 +1,100 @@
+diagnostic ultrasound	is a	imaging technique
+diagnostic ultrasound	uses	sound waves
+diagnostic ultrasound	non-invasive	procedure
+diagnostic ultrasound	used for	pregnancy monitoring
+diagnostic ultrasound	detects	fetal abnormalities
+diagnostic ultrasound	evaluates	heart function
+diagnostic ultrasound	assesses	blood flow
+diagnostic ultrasound	diagnoses	gallstones
+diagnostic ultrasound	examines	liver disease
+diagnostic ultrasound	screens	thyroid nodules
+diagnostic ultrasound	identifies	tumors
+diagnostic ultrasound	guides	biopsies
+diagnostic ultrasound	monitors	kidney function
+diagnostic ultrasound	visualizes	muscle tears
+diagnostic ultrasound	checks	joint inflammation
+diagnostic ultrasound	helps diagnose	appendicitis
+diagnostic ultrasound	detects	blood clots
+diagnostic ultrasound	evaluates	ovarian cysts
+diagnostic ultrasound	assesses	prostate health
+diagnostic ultrasound	screens	breast lumps
+diagnostic ultrasound	measures	organ size
+diagnostic ultrasound	checks	heart valve function
+diagnostic ultrasound	diagnoses	ectopic pregnancy
+diagnostic ultrasound	monitors	tumor response
+diagnostic ultrasound	evaluates	vascular conditions
+diagnostic ultrasound	detects	congenital defects
+diagnostic ultrasound	examines	spleen abnormalities
+diagnostic ultrasound	assesses	pancreatic disease
+diagnostic ultrasound	identifies	abscesses
+diagnostic ultrasound	helps diagnose	carpal tunnel syndrome
+diagnostic ultrasound	evaluates	tendon injuries
+diagnostic ultrasound	checks	fluid accumulation
+diagnostic ultrasound	monitors	fetal growth
+diagnostic ultrasound	diagnoses	testicular torsion
+diagnostic ultrasound	screens	abdominal aortic aneurysm
+diagnostic ultrasound	detects	kidney stones
+diagnostic ultrasound	assesses	bladder function
+diagnostic ultrasound	examines	lymph nodes
+diagnostic ultrasound	identifies	nerve compression
+diagnostic ultrasound	helps diagnose	deep vein thrombosis
+diagnostic ultrasound	evaluates	pleural effusion
+diagnostic ultrasound	checks	bone fractures
+diagnostic ultrasound	monitors	treatment progress
+diagnostic ultrasound	diagnoses	rotator cuff injury
+diagnostic ultrasound	screens	pelvic inflammatory disease
+diagnostic ultrasound	detects	uterine fibroids
+diagnostic ultrasound	assesses	testicular masses
+diagnostic ultrasound	examines	soft tissue injuries
+diagnostic ultrasound	identifies	foreign objects
+diagnostic ultrasound	helps diagnose	Morton's neuroma
+diagnostic ultrasound	evaluates	nerve entrapment
+diagnostic ultrasound	checks	muscle herniation
+diagnostic ultrasound	monitors	liver cirrhosis
+diagnostic ultrasound	diagnoses	bile duct obstruction
+diagnostic ultrasound	screens	varicoceles
+diagnostic ultrasound	detects	hydronephrosis
+diagnostic ultrasound	assesses	salivary gland disorders
+diagnostic ultrasound	examines	hernia defects
+diagnostic ultrasound	identifies	vascular malformations
+diagnostic ultrasound	helps diagnose	plantar fasciitis
+diagnostic ultrasound	evaluates	nerve tumors
+diagnostic ultrasound	checks	tendon tears
+diagnostic ultrasound	monitors	chemotherapy response
+diagnostic ultrasound	diagnoses	muscle hematoma
+diagnostic ultrasound	screens	testicular cancer
+diagnostic ultrasound	detects	breast cancer
+diagnostic ultrasound	assesses	nerve damage
+diagnostic ultrasound	examines	cartilage damage
+diagnostic ultrasound	identifies	ganglion cysts
+diagnostic ultrasound	helps diagnose	bursitis
+diagnostic ultrasound	evaluates	nerve inflammation
+diagnostic ultrasound	checks	ligament injuries
+diagnostic ultrasound	monitors	rheumatoid arthritis
+diagnostic ultrasound	diagnoses	meniscal tears
+diagnostic ultrasound	screens	ovarian cancer
+diagnostic ultrasound	detects	liver metastases
+diagnostic ultrasound	assesses	muscle atrophy
+diagnostic ultrasound	examines	nerve entrapment
+diagnostic ultrasound	identifies	lipomas
+diagnostic ultrasound	helps diagnose	tendonitis
+diagnostic ultrasound	evaluates	muscle strains
+diagnostic ultrasound	checks	joint effusion
+diagnostic ultrasound	monitors	lymphoma progression
+diagnostic ultrasound	diagnoses	nerve compression
+diagnostic ultrasound	screens	prostate cancer
+diagnostic ultrasound	detects	pancreatic cancer
+diagnostic ultrasound	assesses	muscle tears
+diagnostic ultrasound	examines	rotator cuff tears
+diagnostic ultrasound	identifies	Baker's cysts
+diagnostic ultrasound	helps diagnose	epicondylitis
+diagnostic ultrasound	evaluates	muscle contusions
+diagnostic ultrasound	checks	tendon ruptures
+diagnostic ultrasound	monitors	soft tissue sarcoma
+diagnostic ultrasound	diagnoses	nerve tumors
+diagnostic ultrasound	screens	thyroid cancer
+diagnostic ultrasound	detects	muscle fibrosis
+diagnostic ultrasound	assesses	nerve injuries
+diagnostic ultrasound	examines	tendon inflammation
+diagnostic ultrasound	identifies	muscle hernias
+diagnostic ultrasound	helps diagnose	nerve entrapment

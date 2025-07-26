@@ -1,0 +1,100 @@
+immune sera systemic antiinfectives	is a	medication class
+immune sera systemic antiinfectives	contains	antibodies
+antibodies	target	pathogens
+immune sera systemic antiinfectives	treats	infections
+infections	caused by	bacteria
+infections	caused by	viruses
+infections	caused by	toxins
+immune sera systemic antiinfectives	derived from	human donors
+immune sera systemic antiinfectives	derived from	animal donors
+human donors	provide	convalescent plasma
+animal donors	provide	hyperimmune sera
+immune sera systemic antiinfectives	administered via	injection
+injection	can be	intravenous
+injection	can be	intramuscular
+immune sera systemic antiinfectives	used for	passive immunity
+passive immunity	provides	rapid protection
+rapid protection	lasts	weeks to months
+immune sera systemic antiinfectives	prevents	disease progression
+disease progression	leads to	complications
+complications	may require	hospitalization
+immune sera systemic antiinfectives	counteracts	toxins
+toxins	produced by	Clostridium botulinum
+toxins	produced by	Corynebacterium diphtheriae
+immune sera systemic antiinfectives	neutralizes	venom
+venom	injected by	snakes
+venom	injected by	spiders
+immune sera systemic antiinfectives	treats	rabies exposure
+rabies exposure	transmitted by	animal bites
+immune sera systemic antiinfectives	prevents	tetanus
+tetanus	caused by	Clostridium tetani
+immune sera systemic antiinfectives	may cause	allergic reactions
+allergic reactions	can lead to	anaphylaxis
+anaphylaxis	treated with	epinephrine
+immune sera systemic antiinfectives	requires	refrigeration
+refrigeration	maintains	potency
+potency	measured in	international units
+immune sera systemic antiinfectives	has	expiration date
+expiration date	affects	efficacy
+immune sera systemic antiinfectives	interacts with	live vaccines
+live vaccines	contain	attenuated pathogens
+immune sera systemic antiinfectives	contraindicated in	IgA deficiency
+IgA deficiency	increases	allergy risk
+immune sera systemic antiinfectives	monitored for	serum sickness
+serum sickness	causes	fever
+serum sickness	causes	rash
+immune sera systemic antiinfectives	used in	immunocompromised patients
+immunocompromised patients	have	weakened immunity
+weakened immunity	increases	infection susceptibility
+immune sera systemic antiinfectives	alternative to	antibiotics
+antibiotics	target	bacterial infections
+immune sera systemic antiinfectives	alternative to	antivirals
+antivirals	target	viral infections
+immune sera systemic antiinfectives	often paired with	vaccination
+vaccination	provides	active immunity
+active immunity	lasts	years to lifetime
+immune sera systemic antiinfectives	sourced from	blood products
+blood products	screened for	pathogens
+pathogens	include	HIV
+pathogens	include	hepatitis B
+pathogens	include	hepatitis C
+immune sera systemic antiinfectives	requires	prescription
+prescription	written by	physician
+physician	considers	patient history
+patient history	includes	allergies
+immune sera systemic antiinfectives	dosed by	weight
+weight	affects	pharmacokinetics
+pharmacokinetics	determines	drug concentration
+drug concentration	influences	efficacy
+immune sera systemic antiinfectives	used in	emergency settings
+emergency settings	require	rapid action
+immune sera systemic antiinfectives	stored in	hospitals
+hospitals	have	pharmacies
+pharmacies	dispense	medications
+immune sera systemic antiinfectives	costs	higher than vaccines
+cost	impacts	accessibility
+accessibility	varies by	country
+country	regulates	biologics
+biologics	include	immune sera
+immune sera systemic antiinfectives	has	brand names
+brand names	differ by	manufacturer
+manufacturer	follows	GMP guidelines
+GMP guidelines	ensure	quality
+immune sera systemic antiinfectives	tested in	clinical trials
+clinical trials	assess	safety
+clinical trials	assess	efficacy
+immune sera systemic antiinfectives	approved by	FDA
+FDA	regulates	drugs
+drugs	classified by	schedule
+immune sera systemic antiinfectives	has	side effects
+side effects	include	fever
+side effects	include	chills
+side effects	include	headache
+immune sera systemic antiinfectives	contraindicated in	hypersensitivity
+hypersensitivity	triggers	immune response
+immune response	involves	histamine release
+histamine release	causes	swelling
+swelling	affects	breathing
+immune sera systemic antiinfectives	used for	post-exposure prophylaxis
+post-exposure prophylaxis	prevents	disease
+disease	impacts	public health

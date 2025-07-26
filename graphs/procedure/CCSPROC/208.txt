@@ -1,0 +1,100 @@
+nuclear medicine imaging of pulmonary	is a	diagnostic technique
+nuclear medicine imaging of pulmonary	uses	radioactive tracers
+nuclear medicine imaging of pulmonary	evaluates	lung function
+nuclear medicine imaging of pulmonary	detects	pulmonary embolism
+nuclear medicine imaging of pulmonary	assesses	ventilation
+nuclear medicine imaging of pulmonary	measures	perfusion
+nuclear medicine imaging of pulmonary	helps diagnose	chronic obstructive pulmonary disease
+nuclear medicine imaging of pulmonary	identifies	lung cancer
+nuclear medicine imaging of pulmonary	monitors	treatment response
+nuclear medicine imaging of pulmonary	requires	gamma camera
+nuclear medicine imaging of pulmonary	involves	patient preparation
+nuclear medicine imaging of pulmonary	uses	technetium-99m
+nuclear medicine imaging of pulmonary	can cause	radiation exposure
+nuclear medicine imaging of pulmonary	contraindicated in	pregnancy
+nuclear medicine imaging of pulmonary	performed by	radiologist
+nuclear medicine imaging of pulmonary	requires	informed consent
+nuclear medicine imaging of pulmonary	has alternative	CT angiography
+nuclear medicine imaging of pulmonary	more sensitive than	chest X-ray
+nuclear medicine imaging of pulmonary	evaluates	pulmonary hypertension
+nuclear medicine imaging of pulmonary	detects	pulmonary fibrosis
+nuclear medicine imaging of pulmonary	assesses	right ventricular function
+nuclear medicine imaging of pulmonary	helps plan	lung surgery
+nuclear medicine imaging of pulmonary	measures	lung shunt fraction
+nuclear medicine imaging of pulmonary	uses	aerosolized radiopharmaceuticals
+nuclear medicine imaging of pulmonary	evaluates	bronchiectasis
+nuclear medicine imaging of pulmonary	detects	pulmonary infection
+nuclear medicine imaging of pulmonary	assesses	asthma severity
+nuclear medicine imaging of pulmonary	monitors	disease progression
+nuclear medicine imaging of pulmonary	requires	intravenous injection
+nuclear medicine imaging of pulmonary	uses	xenon-133
+nuclear medicine imaging of pulmonary	contraindicated in	breastfeeding
+nuclear medicine imaging of pulmonary	performed in	nuclear medicine department
+nuclear medicine imaging of pulmonary	requires	fasting
+nuclear medicine imaging of pulmonary	has risk	allergic reaction
+nuclear medicine imaging of pulmonary	more specific than	V/Q scan
+nuclear medicine imaging of pulmonary	evaluates	pulmonary vasculitis
+nuclear medicine imaging of pulmonary	detects	pulmonary artery stenosis
+nuclear medicine imaging of pulmonary	assesses	lung transplant rejection
+nuclear medicine imaging of pulmonary	helps diagnose	sarcoidosis
+nuclear medicine imaging of pulmonary	measures	alveolar-capillary permeability
+nuclear medicine imaging of pulmonary	uses	krypton-81m
+nuclear medicine imaging of pulmonary	evaluates	cystic fibrosis
+nuclear medicine imaging of pulmonary	detects	pulmonary edema
+nuclear medicine imaging of pulmonary	assesses	pulmonary thromboembolism
+nuclear medicine imaging of pulmonary	monitors	radiation pneumonitis
+nuclear medicine imaging of pulmonary	requires	patient history
+nuclear medicine imaging of pulmonary	uses	gallium-67
+nuclear medicine imaging of pulmonary	contraindicated in	renal impairment
+nuclear medicine imaging of pulmonary	performed with	SPECT
+nuclear medicine imaging of pulmonary	requires	pregnancy test
+nuclear medicine imaging of pulmonary	has advantage	functional assessment
+nuclear medicine imaging of pulmonary	less invasive than	pulmonary angiography
+nuclear medicine imaging of pulmonary	evaluates	pulmonary metastases
+nuclear medicine imaging of pulmonary	detects	lung ventilation defects
+nuclear medicine imaging of pulmonary	assesses	drug toxicity
+nuclear medicine imaging of pulmonary	helps diagnose	pneumoconiosis
+nuclear medicine imaging of pulmonary	measures	pulmonary blood volume
+nuclear medicine imaging of pulmonary	uses	iodine-123
+nuclear medicine imaging of pulmonary	evaluates	congenital lung disease
+nuclear medicine imaging of pulmonary	detects	pulmonary hemorrhage
+nuclear medicine imaging of pulmonary	assesses	lung resection feasibility
+nuclear medicine imaging of pulmonary	monitors	chemotherapy response
+nuclear medicine imaging of pulmonary	requires	allergy screening
+nuclear medicine imaging of pulmonary	uses	fluorine-18
+nuclear medicine imaging of pulmonary	contraindicated in	severe claustrophobia
+nuclear medicine imaging of pulmonary	performed with	PET
+nuclear medicine imaging of pulmonary	requires	hydration
+nuclear medicine imaging of pulmonary	has limitation	low spatial resolution
+nuclear medicine imaging of pulmonary	complementary to	pulmonary function tests
+nuclear medicine imaging of pulmonary	evaluates	pulmonary arteriovenous malformation
+nuclear medicine imaging of pulmonary	detects	pulmonary sequestration
+nuclear medicine imaging of pulmonary	assesses	right-to-left shunt
+nuclear medicine imaging of pulmonary	helps diagnose	hypersensitivity pneumonitis
+nuclear medicine imaging of pulmonary	measures	mucociliary clearance
+nuclear medicine imaging of pulmonary	uses	indium-111
+nuclear medicine imaging of pulmonary	evaluates	pulmonary Langerhans cell histiocytosis
+nuclear medicine imaging of pulmonary	detects	airway obstruction
+nuclear medicine imaging of pulmonary	assesses	therapeutic effectiveness
+nuclear medicine imaging of pulmonary	monitors	infection resolution
+nuclear medicine imaging of pulmonary	requires	radiation safety precautions
+nuclear medicine imaging of pulmonary	uses	carbon-11
+nuclear medicine imaging of pulmonary	contraindicated in	pediatric patients
+nuclear medicine imaging of pulmonary	performed with	hybrid imaging
+nuclear medicine imaging of pulmonary	requires	medication review
+nuclear medicine imaging of pulmonary	has application	research studies
+nuclear medicine imaging of pulmonary	alternative to	MRI
+nuclear medicine imaging of pulmonary	evaluates	post-COVID lung damage
+nuclear medicine imaging of pulmonary	detects	tumor recurrence
+nuclear medicine imaging of pulmonary	assesses	radiation therapy planning
+nuclear medicine imaging of pulmonary	helps diagnose	amyloidosis
+nuclear medicine imaging of pulmonary	measures	pulmonary endothelial function
+nuclear medicine imaging of pulmonary	uses	oxygen-15
+nuclear medicine imaging of pulmonary	evaluates	occupational lung disease
+nuclear medicine imaging of pulmonary	detects	pulmonary infarction
+nuclear medicine imaging of pulmonary	assesses	exercise tolerance
+nuclear medicine imaging of pulmonary	monitors	immunotherapy response
+nuclear medicine imaging of pulmonary	requires	radiation dose optimization
+nuclear medicine imaging of pulmonary	uses	rubidium-82
+nuclear medicine imaging of pulmonary	contraindicated in	severe asthma
+nuclear medicine imaging of pulmonary	performed with	quantitative analysis

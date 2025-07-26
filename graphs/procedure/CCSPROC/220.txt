@@ -1,0 +1,100 @@
+ophthalmologic diagnosis	is a	medical diagnosis
+otologic diagnosis	is a	medical diagnosis
+ophthalmologic treatment	is a	medical treatment
+otologic treatment	is a	medical treatment
+ophthalmologic diagnosis	involves	eye examination
+otologic diagnosis	involves	ear examination
+ophthalmologic treatment	includes	eye surgery
+otologic treatment	includes	ear surgery
+ophthalmologic diagnosis	requires	ophthalmoscope
+otologic diagnosis	requires	otoscope
+ophthalmologic treatment	uses	eye drops
+otologic treatment	uses	ear drops
+ophthalmologic diagnosis	detects	glaucoma
+ophthalmologic diagnosis	detects	cataracts
+otologic diagnosis	detects	otitis media
+otologic diagnosis	detects	hearing loss
+ophthalmologic treatment	addresses	myopia
+ophthalmologic treatment	addresses	hyperopia
+otologic treatment	addresses	tinnitus
+otologic treatment	addresses	vertigo
+eye examination	uses	slit lamp
+ear examination	uses	tuning fork
+eye surgery	includes	LASIK
+ear surgery	includes	tympanoplasty
+ophthalmoscope	is a	diagnostic tool
+otoscope	is a	diagnostic tool
+eye drops	contain	antibiotics
+ear drops	contain	antifungals
+glaucoma	is a	eye disease
+cataracts	are a	eye disorder
+otitis media	is a	ear infection
+hearing loss	is a	auditory disorder
+myopia	is a	refractive error
+hyperopia	is a	refractive error
+tinnitus	is a	auditory symptom
+vertigo	is a	balance disorder
+slit lamp	examines	cornea
+tuning fork	tests	hearing
+LASIK	corrects	refractive errors
+tympanoplasty	repairs	eardrum
+diagnostic tool	is used by	doctor
+antibiotics	treat	infections
+antifungals	treat	fungal infections
+eye disease	affects	vision
+eye disorder	requires	treatment
+ear infection	causes	pain
+auditory disorder	affects	hearing
+refractive error	causes	blurry vision
+auditory symptom	indicates	ear problem
+balance disorder	causes	dizziness
+cornea	is part of	eye
+hearing	is a	sense
+refractive errors	are measured by	autorefractor
+eardrum	vibrates with	sound
+doctor	specializes in	ophthalmology
+doctor	specializes in	otology
+infections	are caused by	bacteria
+fungal infections	are caused by	fungi
+vision	relies on	retina
+treatment	improves	condition
+pain	is relieved by	medication
+hearing	involves	cochlea
+blurry vision	is corrected by	glasses
+ear problem	requires	diagnosis
+dizziness	is evaluated by	vestibular test
+eye	contains	lens
+sense	is processed by	brain
+autorefractor	measures	prescription
+sound	enters through	ear canal
+ophthalmology	studies	eye diseases
+otology	studies	ear disorders
+bacteria	are killed by	antibiotics
+fungi	are killed by	antifungals
+retina	converts	light to signals
+condition	is documented in	medical record
+medication	is prescribed by	physician
+cochlea	transmits	sound signals
+glasses	correct	vision problems
+diagnosis	leads to	treatment plan
+vestibular test	assesses	balance
+lens	focuses	light
+brain	interprets	sensory input
+prescription	determines	corrective lenses
+ear canal	leads to	middle ear
+eye diseases	are treated by	ophthalmologist
+ear disorders	are treated by	otologist
+antibiotics	are selected by	culture test
+antifungals	are selected by	microscopy
+light to signals	forms	visual perception
+medical record	contains	patient history
+physician	consults	medical guidelines
+sound signals	are processed by	auditory cortex
+vision problems	affect	daily activities
+treatment plan	includes	follow-up
+balance	is controlled by	inner ear
+corrective lenses	improve	visual acuity
+middle ear	contains	ossicles
+ophthalmologist	performs	eye exams
+otologist	performs	hearing tests
+patient history	influences	treatment choice

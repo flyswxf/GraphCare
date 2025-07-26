@@ -1,0 +1,101 @@
+other operations on ovary	is a	surgical procedure
+other operations on ovary	performed on	ovary
+oophorectomy	is a type of	other operations on ovary
+cystectomy	is a type of	other operations on ovary
+ovarian drilling	is a type of	other operations on ovary
+oophorectomy	treats	ovarian cancer
+oophorectomy	prevents	ovarian torsion
+cystectomy	removes	ovarian cysts
+ovarian drilling	induces	ovulation
+other operations on ovary	requires	anesthesia
+other operations on ovary	has risk	bleeding
+other operations on ovary	may cause	infertility
+oophorectomy	leads to	menopause
+oophorectomy	reduces	estrogen levels
+oophorectomy	increases risk	osteoporosis
+cystectomy	preserves	ovarian function
+ovarian drilling	helps	PCOS
+other operations on ovary	performed by	gynecologist
+other operations on ovary	needs	preoperative assessment
+other operations on ovary	followed by	postoperative care
+oophorectomy	sometimes combined with	hysterectomy
+oophorectomy	prevents	BRCA mutations
+other operations on ovary	uses	laparoscopy
+other operations on ovary	uses	laparotomy
+ovarian cystectomy	preserves	fertility
+oophorectomy	prevents	ovarian tumors
+other operations on ovary	may require	hospital stay
+other operations on ovary	has complication	infection
+other operations on ovary	needs	surgical consent
+oophorectomy	reduces risk	breast cancer
+ovarian drilling	improves	menstrual regularity
+other operations on ovary	requires	postoperative monitoring
+other operations on ovary	may lead to	adhesions
+other operations on ovary	sometimes needs	blood transfusion
+oophorectomy	increases risk	cardiovascular disease
+cystectomy	treats	endometrioma
+other operations on ovary	documented in	operative report
+other operations on ovary	follows	surgical protocol
+other operations on ovary	uses	electrocautery
+other operations on ovary	considers	patient age
+oophorectomy	affects	hormone production
+oophorectomy	requires	hormone replacement therapy
+other operations on ovary	needs	follow-up visits
+other operations on ovary	may cause	chronic pain
+other operations on ovary	evaluates	surgical outcomes
+other operations on ovary	records	operative time
+other operations on ovary	monitors	vital signs
+oophorectomy	sometimes performed	prophylactically
+oophorectomy	reduces risk	peritoneal cancer
+cystectomy	examines	cyst pathology
+ovarian drilling	uses	laser technology
+other operations on ovary	assesses	surgical risks
+other operations on ovary	requires	sterile technique
+other operations on ovary	follows	aseptic protocol
+other operations on ovary	uses	surgical instruments
+other operations on ovary	documents	blood loss
+other operations on ovary	considers	comorbidities
+other operations on ovary	may require	ICU admission
+other operations on ovary	prevents	cyst recurrence
+other operations on ovary	manages	postoperative pain
+other operations on ovary	checks	surgical site
+other operations on ovary	evaluates	recovery progress
+other operations on ovary	recommends	activity restrictions
+other operations on ovary	advises	wound care
+other operations on ovary	screens	complications
+other operations on ovary	uses	imaging guidance
+other operations on ovary	follows	clinical guidelines
+other operations on ovary	coordinates	multidisciplinary team
+other operations on ovary	trains	surgical staff
+other operations on ovary	updates	medical records
+other operations on ovary	complies	hospital policies
+other operations on ovary	reduces	morbidity rates
+other operations on ovary	improves	quality of life
+other operations on ovary	addresses	patient concerns
+other operations on ovary	provides	informed consent
+other operations on ovary	educates	postoperative instructions
+other operations on ovary	schedules	follow-up tests
+other operations on ovary	monitors	hormone levels
+other operations on ovary	tracks	recovery milestones
+other operations on ovary	prevents	surgical site infections
+other operations on ovary	manages	postoperative nausea
+other operations on ovary	controls	intraoperative bleeding
+other operations on ovary	preserves	pelvic anatomy
+other operations on ovary	minimizes	tissue trauma
+other operations on ovary	utilizes	minimally invasive techniques
+other operations on ovary	considers	fertility preservation
+other operations on ovary	evaluates	ovarian reserve
+other operations on ovary	predicts	surgical success
+other operations on ovary	classifies	procedure complexity
+other operations on ovary	determines	surgical approach
+other operations on ovary	calculates	anesthesia duration
+other operations on ovary	prevents	organ damage
+other operations on ovary	maintains	hemostasis
+other operations on ovary	reduces	recovery time
+other operations on ovary	improves	surgical outcomes
+other operations on ovary	standardizes	operative techniques
+other operations on ovary	researches	new methodologies
+other operations on ovary	publishes	clinical results
+other operations on ovary	trains	resident surgeons
+other operations on ovary	audits	complication rates
+other operations on ovary	optimizes	patient selection

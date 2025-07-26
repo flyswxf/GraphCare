@@ -1,0 +1,60 @@
+vitamin B12	is a	water-soluble vitamin
+folic acid	is a	B vitamin
+vitamin B12	essential for	red blood cell formation
+folic acid	necessary for	DNA synthesis
+vitamin B12	found in	animal products
+folic acid	found in	leafy greens
+vitamin B12	deficiency causes	pernicious anemia
+folic acid	deficiency causes	megaloblastic anemia
+vitamin B12	requires	intrinsic factor
+folic acid	helps prevent	neural tube defects
+vitamin B12	metabolizes	homocysteine
+folic acid	metabolizes	homocysteine
+vitamin B12	stored in	liver
+folic acid	absorbed in	small intestine
+vitamin B12	interacts with	folate metabolism
+folic acid	interacts with	vitamin B12 metabolism
+vitamin B12	treats	B12 deficiency anemia
+folic acid	treats	folate deficiency anemia
+vitamin B12	may mask	folate deficiency
+folic acid	may mask	B12 deficiency
+vitamin B12	measured by	serum B12 test
+folic acid	measured by	serum folate test
+vitamin B12	requires	adequate stomach acid
+folic acid	requires	conversion to active form
+vitamin B12	supports	neurological function
+folic acid	supports	cell division
+vitamin B12	prevents	nerve damage
+folic acid	prevents	birth defects
+vitamin B12	available as	injection
+folic acid	available as	oral supplement
+vitamin B12	cofactor for	methionine synthase
+folic acid	precursor for	tetrahydrofolate
+vitamin B12	recycled via	enterohepatic circulation
+folic acid	affected by	MTHFR gene
+vitamin B12	binds to	transcobalamin
+folic acid	converted by	dihydrofolate reductase
+vitamin B12	maintains	myelin sheath
+folic acid	required for	purine synthesis
+vitamin B12	involved in	energy production
+folic acid	involved in	amino acid metabolism
+vitamin B12	absorption decreases with	aging
+folic acid	absorption decreases with	malabsorption
+vitamin B12	interacts with	proton pump inhibitors
+folic acid	interacts with	methotrexate
+vitamin B12	high doses can	lower homocysteine
+folic acid	high doses can	mask B12 deficiency
+vitamin B12	recommended intake	2.4 mcg/day
+folic acid	recommended intake	400 mcg/day
+vitamin B12	deficiency risk in	vegetarians
+folic acid	deficiency risk in	alcoholics
+vitamin B12	absorption requires	R-protein
+folic acid	absorption requires	conjugate enzyme
+vitamin B12	synthetic form is	cyanocobalamin
+folic acid	synthetic form is	pteroylglutamic acid
+vitamin B12	activates	folate
+folic acid	requires	vitamin B12 for activation
+vitamin B12	prevents	hyperhomocysteinemia
+folic acid	prevents	hyperhomocysteinemia
+vitamin B12	levels affected by	kidney function
+folic acid	levels affected by	liver function

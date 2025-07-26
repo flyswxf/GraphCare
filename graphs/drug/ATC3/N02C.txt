@@ -1,0 +1,100 @@
+antimigraine preparations	is a	medication class
+antimigraine preparations	treat	migraine
+migraine	is a	neurological disorder
+migraine	symptom	headache
+headache	can cause	nausea
+nausea	may lead to	vomiting
+migraine	may trigger	photophobia
+photophobia	involves	light sensitivity
+migraine	associated with	aura
+aura	symptom	visual disturbance
+antimigraine preparations	include	triptans
+triptans	target	serotonin receptors
+serotonin receptors	regulate	vasoconstriction
+vasoconstriction	reduces	migraine pain
+triptans	example	sumatriptan
+sumatriptan	route	oral
+oral administration	requires	swallowing
+sumatriptan	alternative route	nasal spray
+nasal spray	benefits	faster absorption
+antimigraine preparations	include	ergotamines
+ergotamines	derived from	ergot fungus
+ergot fungus	source	rye mold
+ergotamines	mechanism	vasoconstrictor
+vasoconstrictor	affects	blood vessels
+blood vessels	consist of	arteries
+arteries	carry	oxygenated blood
+ergotamines	example	dihydroergotamine
+dihydroergotamine	administered via	injection
+injection	method	intramuscular
+antimigraine preparations	include	NSAIDs
+NSAIDs	reduce	inflammation
+inflammation	linked to	pain
+NSAIDs	example	ibuprofen
+ibuprofen	inhibits	COX enzymes
+COX enzymes	produce	prostaglandins
+prostaglandins	mediate	pain response
+antimigraine preparations	include	beta-blockers
+beta-blockers	treat	hypertension
+hypertension	risk factor	stroke
+beta-blockers	example	propranolol
+propranolol	reduces	heart rate
+heart rate	controlled by	vagus nerve
+antimigraine preparations	include	anticonvulsants
+anticonvulsants	prevent	seizures
+seizures	caused by	neuronal hyperactivity
+anticonvulsants	example	topiramate
+topiramate	mechanism	GABA enhancement
+GABA	is a	inhibitory neurotransmitter
+antimigraine preparations	include	calcium channel blockers
+calcium channel blockers	relax	blood vessels
+blood vessels	composed of	smooth muscle
+calcium channel blockers	example	verapamil
+verapamil	used for	angina
+angina	symptom	chest pain
+antimigraine preparations	include	CGRP inhibitors
+CGRP inhibitors	block	calcitonin gene-related peptide
+calcitonin gene-related peptide	involved	migraine pathogenesis
+CGRP inhibitors	example	erenumab
+erenumab	administration	subcutaneous
+subcutaneous injection	requires	needle
+antimigraine preparations	interact with	caffeine
+caffeine	enhances	drug absorption
+caffeine	found in	coffee
+coffee	contains	antioxidants
+antimigraine preparations	contraindicated in	pregnancy
+pregnancy	involves	fetal development
+fetal development	requires	nutrients
+antimigraine preparations	side effect	dizziness
+dizziness	may cause	falls
+falls	risk factor	fractures
+antimigraine preparations	side effect	fatigue
+fatigue	symptom	tiredness
+tiredness	affects	concentration
+antimigraine preparations	metabolized by	liver
+liver	produces	enzymes
+enzymes	facilitate	drug breakdown
+antimigraine preparations	excreted via	kidneys
+kidneys	filter	blood
+blood	contains	plasma
+antimigraine preparations	require	prescription
+prescription	written by	physician
+physician	specializes in	neurology
+neurology	studies	nervous system
+nervous system	includes	brain
+brain	controls	cognition
+antimigraine preparations	influenced by	genetics
+genetics	determine	drug response
+drug response	varies by	individual
+individual	possesses	DNA
+DNA	encodes	proteins
+antimigraine preparations	research field	pharmacology
+pharmacology	studies	drug interactions
+drug interactions	affect	efficacy
+efficacy	measured by	clinical trials
+clinical trials	involve	patients
+patients	receive	treatments
+treatments	aim for	symptom relief
+symptom relief	improves	quality of life
+quality of life	depends on	health
+health	influenced by	lifestyle

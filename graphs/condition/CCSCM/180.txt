@@ -1,0 +1,100 @@
+ectopic pregnancy	is a	pregnancy complication
+ectopic pregnancy	occurs in	fallopian tube
+ectopic pregnancy	may cause	abdominal pain
+ectopic pregnancy	may cause	vaginal bleeding
+ectopic pregnancy	requires	medical intervention
+ectopic pregnancy	is diagnosed with	ultrasound
+ectopic pregnancy	is diagnosed with	hCG test
+ectopic pregnancy	may lead to	rupture
+rupture	may cause	internal bleeding
+internal bleeding	requires	emergency surgery
+ectopic pregnancy	is treated with	methotrexate
+methotrexate	is a	chemotherapy drug
+methotrexate	stops cell growth	trophoblasts
+ectopic pregnancy	may require	salpingectomy
+salpingectomy	is a	surgical procedure
+salpingectomy	removes	fallopian tube
+ectopic pregnancy	increases risk of	infertility
+infertility	may require	IVF
+IVF	bypasses	fallopian tubes
+ectopic pregnancy	has risk factor	pelvic inflammatory disease
+pelvic inflammatory disease	is caused by	infection
+infection	may be	chlamydia
+chlamydia	is a	sexually transmitted infection
+ectopic pregnancy	has risk factor	smoking
+smoking	damages	cilia
+cilia	help move	fertilized egg
+ectopic pregnancy	has risk factor	previous ectopic pregnancy
+previous ectopic pregnancy	increases chance of	recurrence
+ectopic pregnancy	has risk factor	tubal surgery
+tubal surgery	may cause	scarring
+scarring	may block	fallopian tube
+ectopic pregnancy	has symptom	shoulder pain
+shoulder pain	indicates	internal bleeding
+ectopic pregnancy	has symptom	dizziness
+dizziness	suggests	blood loss
+ectopic pregnancy	may mimic	miscarriage
+miscarriage	involves	uterine bleeding
+uterine bleeding	differs from	ectopic bleeding
+ectopic pregnancy	requires	differential diagnosis
+differential diagnosis	rules out	appendicitis
+appendicitis	causes	right lower quadrant pain
+ectopic pregnancy	can be	life-threatening
+life-threatening condition	requires	hospitalization
+hospitalization	involves	close monitoring
+ectopic pregnancy	affects	future fertility
+future fertility	depends on	tube preservation
+tube preservation	may involve	salpingostomy
+salpingostomy	removes	ectopic tissue
+salpingostomy	preserves	fallopian tube
+ectopic pregnancy	may recur in	remaining tube
+remaining tube	may have	existing damage
+existing damage	increases risk of	repeat ectopic
+ectopic pregnancy	has association	IUD use
+IUD use	prevents	intrauterine pregnancy
+intrauterine pregnancy	is normal	pregnancy
+ectopic pregnancy	is abnormal	implantation
+implantation	normally occurs	uterus
+uterus	is designed for	pregnancy
+fallopian tube	is not designed for	pregnancy
+ectopic pregnancy	causes	tubal stretching
+tubal stretching	leads to	pain
+pain	is a	warning sign
+warning sign	prompts	medical attention
+medical attention	prevents	complications
+complications	include	hemorrhagic shock
+hemorrhagic shock	results from	blood loss
+blood loss	requires	transfusion
+transfusion	replaces	blood volume
+ectopic pregnancy	has mortality risk
+mortality risk	depends on	early detection
+early detection	requires	awareness
+awareness	comes from	patient education
+patient education	covers	risk factors
+risk factors	should prompt	early testing
+early testing	involves	hCG monitoring
+hCG monitoring	tracks	pregnancy hormones
+pregnancy hormones	rise abnormally in	ectopic
+abnormal rise	indicates	problem
+problem	requires	investigation
+investigation	uses	transvaginal ultrasound
+transvaginal ultrasound	visualizes	fallopian tubes
+visualization	confirms	ectopic location
+ectopic location	determines	treatment
+treatment	may be	medical
+medical treatment	avoids	surgery
+surgery	is necessary for	rupture
+rupture	causes	acute abdomen
+acute abdomen	is a	surgical emergency
+surgical emergency	demands	rapid response
+rapid response	saves lives
+ectopic pregnancy	affects	mental health
+mental health	may require	counseling
+counseling	helps with	pregnancy loss
+pregnancy loss	is traumatic
+trauma	affects	future pregnancies
+future pregnancies	need	early monitoring
+early monitoring	detects	problems
+problems	can be	managed
+management	improves	outcomes
+outcomes	depend on	timely care

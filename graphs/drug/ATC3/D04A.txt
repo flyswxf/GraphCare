@@ -1,0 +1,100 @@
+antipruritics	include	antihistamines
+antipruritics	include	anesthetics
+antipruritics	treat	pruritus
+antihistamines	block	histamine receptors
+histamine receptors	mediate	itching
+antihistamines	are	H1 antagonists
+antihistamines	can cause	drowsiness
+anesthetics	numb	skin
+anesthetics	inhibit	nerve signals
+local anesthetics	include	lidocaine
+lidocaine	is	sodium channel blocker
+topical anesthetics	relieve	localized itching
+antipruritics	may contain	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	causes	itching
+antipruritics	include	menthol
+menthol	provides	cooling sensation
+cooling sensation	reduces	itch perception
+antipruritics	include	capsaicin
+capsaicin	depletes	substance P
+substance P	transmits	itch signals
+antihistamines	interact with	CNS depressants
+CNS depressants	enhance	sedative effects
+sedation	is	side effect
+antihistamines	are contraindicated in	glaucoma
+glaucoma	involves	increased intraocular pressure
+antihistamines	may worsen	urinary retention
+urinary retention	is complication of	BPH
+BPH	affects	prostate gland
+first-generation antihistamines	cross	blood-brain barrier
+blood-brain barrier	protects	CNS
+second-generation antihistamines	are less sedating
+second-generation antihistamines	include	loratadine
+loratadine	is	long-acting
+long-acting drugs	require	less frequent dosing
+anesthetics	can cause	allergic reactions
+allergic reactions	may manifest as	contact dermatitis
+contact dermatitis	presents with	skin rash
+antipruritics	are used for	eczema
+eczema	is characterized by	dry skin
+dry skin	predisposes to	itching
+antipruritics	help with	insect bites
+insect bites	trigger	histamine release
+histamine release	causes	local swelling
+local swelling	contributes to	pruritus
+antipruritics	are applied	topically
+topical application	minimizes	systemic effects
+systemic effects	include	organ toxicity
+organ toxicity	affects	liver function
+liver function	impacts	drug metabolism
+antipruritics	interact with	MAO inhibitors
+MAO inhibitors	are	antidepressants
+antidepressants	modulate	neurotransmitter levels
+neurotransmitters	regulate	itch sensation
+serotonin	influences	itch pathways
+itch pathways	involve	spinal cord
+spinal cord	transmits	sensory signals
+sensory signals	reach	brain
+brain	interprets	itch sensation
+chronic pruritus	requires	multidisciplinary approach
+multidisciplinary approach	includes	dermatologists
+dermatologists	specialize in	skin conditions
+skin conditions	often cause	itching
+itching	leads to	scratching
+scratching	causes	skin damage
+skin damage	increases	infection risk
+infection risk	requires	antibiotics
+antibiotics	treat	bacterial infections
+bacterial infections	complicate	wound healing
+wound healing	is delayed by	scratching
+antipruritics	prevent	scratch-itch cycle
+scratch-itch cycle	exacerbates	skin lesions
+skin lesions	are hallmark of	atopic dermatitis
+atopic dermatitis	has genetic predisposition
+genetic predisposition	involves	filaggrin mutations
+filaggrin mutations	impair	skin barrier
+impaired skin barrier	allows	allergen penetration
+allergen penetration	triggers	immune response
+immune response	releases	pruritogenic cytokines
+pruritogenic cytokines	activate	itch neurons
+itch neurons	transmit	itch signals
+antipruritics	target	pruritogenic mediators
+pruritogenic mediators	include	interleukin-31
+interleukin-31	is	cytokine
+cytokines	regulate	immune responses
+immune responses	can become	dysregulated
+dysregulated immunity	occurs in	autoimmune diseases
+autoimmune diseases	often feature	chronic itching
+chronic itching	reduces	quality of life
+quality of life	is measured by	questionnaires
+questionnaires	assess	symptom severity
+symptom severity	guides	treatment selection
+treatment selection	considers	comorbidities
+comorbidities	influence	drug choice
+drug choice	depends on	mechanism of action
+mechanism of action	determines	efficacy
+efficacy	is evaluated in	clinical trials
+clinical trials	establish	safety profiles
+safety profiles	inform	prescribing guidelines
+prescribing guidelines	recommend	first-line therapies

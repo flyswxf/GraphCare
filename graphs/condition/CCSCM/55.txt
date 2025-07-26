@@ -1,0 +1,100 @@
+fluid and electrolyte disorders	is a	metabolic condition
+fluid and electrolyte disorders	may cause	dehydration
+fluid and electrolyte disorders	may cause	hyponatremia
+fluid and electrolyte disorders	may cause	hypernatremia
+fluid and electrolyte disorders	may cause	hypokalemia
+fluid and electrolyte disorders	may cause	hyperkalemia
+fluid and electrolyte disorders	may cause	hypocalcemia
+fluid and electrolyte disorders	may cause	hypercalcemia
+fluid and electrolyte disorders	may cause	arrhythmia
+fluid and electrolyte disorders	may cause	muscle weakness
+fluid and electrolyte disorders	may cause	confusion
+fluid and electrolyte disorders	may cause	seizures
+fluid and electrolyte disorders	is diagnosed with	blood test
+fluid and electrolyte disorders	is diagnosed with	urine test
+fluid and electrolyte disorders	is treated with	intravenous fluids
+fluid and electrolyte disorders	is treated with	oral rehydration
+fluid and electrolyte disorders	is treated with	electrolyte replacement
+fluid and electrolyte disorders	is associated with	kidney disease
+fluid and electrolyte disorders	is associated with	heart failure
+fluid and electrolyte disorders	is associated with	liver cirrhosis
+fluid and electrolyte disorders	is associated with	diabetes insipidus
+fluid and electrolyte disorders	is associated with	SIADH
+fluid and electrolyte disorders	is associated with	diuretic use
+fluid and electrolyte disorders	is associated with	vomiting
+fluid and electrolyte disorders	is associated with	diarrhea
+hyponatremia	is a type of	electrolyte imbalance
+hypernatremia	is a type of	electrolyte imbalance
+hypokalemia	is a type of	electrolyte imbalance
+hyperkalemia	is a type of	electrolyte imbalance
+hypocalcemia	is a type of	electrolyte imbalance
+hypercalcemia	is a type of	electrolyte imbalance
+intravenous fluids	contain	sodium chloride
+intravenous fluids	contain	potassium chloride
+intravenous fluids	contain	dextrose
+oral rehydration	uses	oral rehydration salts
+oral rehydration salts	contain	sodium
+oral rehydration salts	contain	potassium
+oral rehydration salts	contain	glucose
+electrolyte replacement	involves	potassium supplements
+electrolyte replacement	involves	calcium supplements
+electrolyte replacement	involves	magnesium supplements
+kidney disease	may cause	fluid retention
+kidney disease	may cause	electrolyte imbalance
+heart failure	may cause	fluid overload
+heart failure	may cause	hyponatremia
+liver cirrhosis	may cause	ascites
+liver cirrhosis	may cause	hyponatremia
+diabetes insipidus	may cause	hypernatremia
+SIADH	may cause	hyponatremia
+diuretic use	may cause	hypokalemia
+vomiting	may cause	metabolic alkalosis
+diarrhea	may cause	metabolic acidosis
+sodium chloride	regulates	blood pressure
+potassium chloride	regulates	muscle function
+calcium	regulates	bone health
+magnesium	regulates	nerve function
+dehydration	may lead to	hypotension
+dehydration	may lead to	tachycardia
+arrhythmia	may result from	hypokalemia
+arrhythmia	may result from	hyperkalemia
+muscle weakness	may result from	hypokalemia
+muscle weakness	may result from	hypocalcemia
+confusion	may result from	hyponatremia
+confusion	may result from	hypernatremia
+seizures	may result from	severe hyponatremia
+seizures	may result from	severe hypocalcemia
+blood test	measures	sodium levels
+blood test	measures	potassium levels
+blood test	measures	calcium levels
+blood test	measures	magnesium levels
+urine test	measures	urine osmolality
+urine test	measures	urine sodium
+intravenous fluids	are administered via	IV catheter
+oral rehydration	is recommended for	mild dehydration
+electrolyte replacement	is crucial for	cardiac patients
+kidney disease	requires	fluid restriction
+heart failure	requires	diuretic therapy
+liver cirrhosis	requires	albumin infusion
+diabetes insipidus	is treated with	desmopressin
+SIADH	is treated with	fluid restriction
+diuretic use	requires	electrolyte monitoring
+vomiting	may require	antiemetics
+diarrhea	may require	antidiarrheals
+hypotension	may require	vasopressors
+tachycardia	may require	beta blockers
+metabolic alkalosis	may require	acid infusion
+metabolic acidosis	may require	bicarbonate
+hyponatremia	is managed with	hypertonic saline
+hypernatremia	is managed with	hypotonic fluids
+hypokalemia	is managed with	potassium infusion
+hyperkalemia	is managed with	calcium gluconate
+hypocalcemia	is managed with	calcium infusion
+hypercalcemia	is managed with	hydration
+bone health	depends on	calcium levels
+nerve function	depends on	magnesium levels
+blood pressure	is affected by	sodium levels
+muscle function	is affected by	potassium levels
+cardiac patients	need careful	fluid management
+elderly patients	are prone to	electrolyte disorders
+critical care	involves frequent	electrolyte monitoring

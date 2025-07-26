@@ -1,0 +1,100 @@
+upper gastrointestinal x-ray	is a	diagnostic test
+upper gastrointestinal x-ray	examines	esophagus
+upper gastrointestinal x-ray	examines	stomach
+upper gastrointestinal x-ray	examines	duodenum
+upper gastrointestinal x-ray	uses	barium contrast
+upper gastrointestinal x-ray	detects	ulcers
+upper gastrointestinal x-ray	detects	tumors
+upper gastrointestinal x-ray	detects	inflammation
+upper gastrointestinal x-ray	detects	strictures
+upper gastrointestinal x-ray	evaluates	swallowing disorders
+upper gastrointestinal x-ray	alternative to	endoscopy
+upper gastrointestinal x-ray	requires	fasting
+upper gastrointestinal x-ray	may cause	constipation
+upper gastrointestinal x-ray	uses	fluoroscopy
+upper gastrointestinal x-ray	performed by	radiologist
+upper gastrointestinal x-ray	requires	patient preparation
+upper gastrointestinal x-ray	contraindicated in	bowel perforation
+barium contrast	may cause	allergic reaction
+barium contrast	contraindicated in	intestinal obstruction
+esophagus	part of	digestive system
+stomach	produces	gastric acid
+duodenum	connects to	jejunum
+ulcers	caused by	H. pylori
+ulcers	treated with	antibiotics
+tumors	may require	biopsy
+inflammation	treated with	anti-inflammatory drugs
+strictures	may require	dilation
+swallowing disorders	evaluated with	videofluoroscopy
+endoscopy	provides	tissue samples
+fasting	prevents	aspiration
+fluoroscopy	produces	real-time images
+radiologist	interprets	imaging results
+patient preparation	includes	medication adjustment
+bowel perforation	requires	emergency surgery
+allergic reaction	treated with	antihistamines
+intestinal obstruction	causes	vomiting
+digestive system	includes	small intestine
+gastric acid	neutralized by	antacids
+jejunum	absorbs	nutrients
+H. pylori	diagnosed with	breath test
+antibiotics	prescribed for	bacterial infections
+biopsy	confirms	cancer diagnosis
+anti-inflammatory drugs	include	corticosteroids
+dilation	performed with	balloon catheter
+videofluoroscopy	assesses	swallowing function
+tissue samples	analyzed by	pathologist
+aspiration	leads to	pneumonia
+real-time images	guide	interventions
+imaging results	inform	treatment plan
+medication adjustment	includes	stopping NSAIDs
+emergency surgery	repairs	perforated organs
+antihistamines	relieve	itching
+vomiting	causes	dehydration
+small intestine	completes	digestion
+antacids	neutralize	stomach acid
+nutrients	absorbed into	bloodstream
+breath test	detects	urease activity
+bacterial infections	treated with	antimicrobials
+cancer diagnosis	requires	staging
+corticosteroids	suppress	immune response
+balloon catheter	expands	narrowed areas
+swallowing function	affected by	neurological disorders
+pathologist	identifies	abnormal cells
+pneumonia	treated with	antibiotics
+interventions	include	stent placement
+treatment plan	developed by	gastroenterologist
+NSAIDs	cause	gastric irritation
+perforated organs	lead to	peritonitis
+itching	symptom of	histamine release
+dehydration	corrected with	fluid replacement
+digestion	breaks down	food particles
+stomach acid	protects against	pathogens
+bloodstream	transports	oxygen
+urease activity	indicates	H. pylori presence
+antimicrobials	target	microorganisms
+staging	determines	prognosis
+immune response	involves	white blood cells
+narrowed areas	cause	dysphagia
+neurological disorders	include	stroke
+abnormal cells	indicate	malignancy
+antibiotics	kill	bacteria
+stent placement	relieves	obstructions
+gastroenterologist	specializes in	digestive diseases
+gastric irritation	causes	pain
+peritonitis	treated with	broad-spectrum antibiotics
+histamine release	triggered by	allergens
+fluid replacement	prevents	electrolyte imbalance
+food particles	converted to	energy
+pathogens	destroyed by	immune system
+oxygen	carried by	hemoglobin
+H. pylori presence	confirmed by	stool test
+microorganisms	include	bacteria
+prognosis	depends on	disease stage
+white blood cells	fight	infection
+dysphagia	managed with	dietary changes
+stroke	affects	brain function
+malignancy	treated with	chemotherapy
+bacteria	classified by	Gram stain
+obstructions	cause	abdominal pain
+digestive diseases	diagnosed with	imaging tests

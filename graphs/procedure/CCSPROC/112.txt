@@ -1,0 +1,100 @@
+urinary tract procedure	includes	catheterization
+catheterization	treats	urinary retention
+urinary retention	caused by	prostate enlargement
+prostate enlargement	treated by	transurethral resection
+transurethral resection	is a	surgical procedure
+surgical procedure	requires	anesthesia
+anesthesia	administered by	anesthesiologist
+anesthesiologist	monitors	vital signs
+vital signs	include	blood pressure
+blood pressure	affected by	fluid balance
+urinary tract procedure	includes	ureteral stent placement
+ureteral stent	relieves	kidney obstruction
+kidney obstruction	caused by	kidney stones
+kidney stones	treated by	lithotripsy
+lithotripsy	uses	shock waves
+shock waves	require	imaging guidance
+imaging guidance	uses	ultrasound
+ultrasound	performed by	radiologist
+radiologist	interprets	medical images
+medical images	stored in	PACS system
+urinary tract procedure	includes	nephrostomy
+nephrostomy	drains	kidney
+kidney	produces	urine
+urine	analyzed by	urinalysis
+urinalysis	detects	urinary infection
+urinary infection	treated by	antibiotics
+antibiotics	prescribed by	physician
+physician	consults	medical guidelines
+medical guidelines	published by	medical association
+medical association	certifies	specialists
+urinary tract procedure	includes	bladder instillation
+bladder instillation	treats	interstitial cystitis
+interstitial cystitis	causes	pelvic pain
+pelvic pain	managed by	pain medication
+pain medication	includes	NSAIDs
+NSAIDs	may cause	stomach irritation
+stomach irritation	prevented by	proton pump inhibitors
+proton pump inhibitors	prescribed for	GERD
+GERD	aggravated by	certain foods
+certain foods	include	acidic beverages
+urinary tract procedure	includes	urethral dilation
+urethral dilation	treats	urethral stricture
+urethral stricture	caused by	scar tissue
+scar tissue	results from	infection
+infection	prevented by	hygiene practices
+hygiene practices	include	hand washing
+hand washing	reduces	bacterial transmission
+bacterial transmission	causes	healthcare infections
+healthcare infections	monitored by	infection control
+infection control	implements	sterilization protocols
+urinary tract procedure	includes	suprapubic cystostomy
+suprapubic cystostomy	alternative to	urethral catheter
+urethral catheter	risks	urinary infection
+urinary infection	diagnosed by	urine culture
+urine culture	identifies	bacteria
+bacteria	tested for	antibiotic sensitivity
+antibiotic sensitivity	guides	treatment choice
+treatment choice	considers	patient allergies
+patient allergies	documented in	medical record
+medical record	accessed through	EHR system
+urinary tract procedure	includes	prostate massage
+prostate massage	relieves	prostatitis
+prostatitis	causes	urinary symptoms
+urinary symptoms	include	frequent urination
+frequent urination	affects	sleep quality
+sleep quality	impacts	daytime function
+daytime function	measured by	productivity
+productivity	influenced by	health status
+health status	assessed by	physical exam
+physical exam	includes	vital signs
+urinary tract procedure	includes	bladder training
+bladder training	manages	overactive bladder
+overactive bladder	treated by	anticholinergics
+anticholinergics	may cause	dry mouth
+dry mouth	relieved by	saliva substitutes
+saliva substitutes	contain	moisturizing agents
+moisturizing agents	include	xylitol
+xylitol	prevents	dental caries
+dental caries	treated by	dental fillings
+dental fillings	use	composite material
+urinary tract procedure	includes	percutaneous nephrolithotomy
+percutaneous nephrolithotomy	removes	large kidney stones
+large kidney stones	detected by	CT scan
+CT scan	uses	radiation
+radiation	minimized by	low-dose protocols
+low-dose protocols	developed by	medical physicists
+medical physicists	work in	radiology departments
+radiology departments	equipped with	imaging machines
+imaging machines	require	regular maintenance
+regular maintenance	performed by	biomedical engineers
+urinary tract procedure	includes	urinary diversion
+urinary diversion	performed for	bladder cancer
+bladder cancer	diagnosed by	cystoscopy
+cystoscopy	uses	flexible scope
+flexible scope	sterilized by	autoclave
+autoclave	kills	microorganisms
+microorganisms	include	bacteria and viruses
+bacteria and viruses	studied by	microbiologists
+microbiologists	work in	laboratories
+laboratories	follow	quality control standards

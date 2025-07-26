@@ -1,0 +1,100 @@
+varicose vein stripping	is a	surgical procedure
+varicose vein stripping	treats	varicose veins
+varicose vein stripping	performed on	lower limb
+varicose vein	is a	venous disorder
+varicose vein	causes	venous insufficiency
+venous insufficiency	leads to	edema
+edema	symptom of	chronic venous disease
+chronic venous disease	requires	compression therapy
+compression therapy	prevents	ulcer formation
+venous ulcer	complication of	varicose veins
+varicose vein stripping	alternative to	sclerotherapy
+sclerotherapy	uses	chemical injection
+chemical injection	causes	vein collapse
+vein collapse	results in	blood flow redirection
+blood flow redirection	improves	circulation
+poor circulation	risk factor for	deep vein thrombosis
+deep vein thrombosis	treated with	anticoagulants
+anticoagulants	prevent	clot formation
+clot formation	causes	pulmonary embolism
+pulmonary embolism	leads to	respiratory distress
+respiratory distress	requires	oxygen therapy
+varicose vein stripping	involves	general anesthesia
+general anesthesia	requires	preoperative assessment
+preoperative assessment	includes	blood tests
+blood tests	detect	coagulation disorders
+coagulation disorders	contraindicate	surgery
+varicose vein stripping	contraindicated in	pregnancy
+pregnancy	increases	venous pressure
+venous pressure	exacerbates	varicose veins
+varicose vein stripping	requires	postoperative compression
+postoperative compression	reduces	bruising
+bruising	side effect of	vein removal
+vein removal	leads to	hematoma formation
+hematoma formation	risks	infection
+infection	treated with	antibiotics
+antibiotics	prevent	wound complications
+wound complications	delay	healing process
+healing process	requires	proper nutrition
+proper nutrition	includes	vitamin C
+vitamin C	promotes	collagen formation
+collagen formation	essential for	tissue repair
+tissue repair	prevents	scarring
+scarring	cosmetic concern after	surgery
+varicose vein stripping	performed by	vascular surgeon
+vascular surgeon	specializes in	vein disorders
+vein disorders	include	spider veins
+spider veins	treated with	laser therapy
+laser therapy	alternative to	surgery
+surgery	requires	hospital admission
+hospital admission	increases	healthcare costs
+healthcare costs	factor in	treatment choice
+treatment choice	depends on	disease severity
+disease severity	assessed by	venous duplex
+venous duplex	evaluates	valve function
+valve dysfunction	primary cause of	varicose veins
+varicose veins	hereditary in	some patients
+hereditary factors	influence	disease progression
+disease progression	monitored by	phlebologist
+phlebologist	expert in	venous diseases
+venous diseases	include	thrombophlebitis
+thrombophlebitis	treated with	anti-inflammatories
+anti-inflammatories	reduce	vein inflammation
+vein inflammation	causes	pain
+pain	managed with	analgesics
+analgesics	include	NSAIDs
+NSAIDs	contraindicated in	kidney disease
+kidney disease	complicates	medication use
+medication use	requires	dosage adjustment
+dosage adjustment	based on	renal function
+renal function	assessed by	creatinine levels
+creatinine levels	indicator of	kidney health
+kidney health	affects	drug clearance
+drug clearance	important for	anesthesia safety
+anesthesia safety	ensured by	preoperative evaluation
+preoperative evaluation	includes	ECG
+ECG	detects	cardiac abnormalities
+cardiac abnormalities	increase	surgical risks
+surgical risks	include	bleeding
+bleeding	controlled with	hemostasis
+hemostasis	achieved by	electrocautery
+electrocautery	prevents	blood loss
+blood loss	leads to	transfusion need
+transfusion need	assessed by	hemoglobin levels
+hemoglobin levels	indicate	anemia
+anemia	contraindication for	elective surgery
+elective surgery	scheduled after	condition optimization
+condition optimization	includes	iron supplementation
+iron supplementation	treats	iron deficiency
+iron deficiency	common in	menstruating women
+menstruating women	prone to	varicose veins
+varicose veins	worsened by	prolonged standing
+prolonged standing	occupational hazard for	nurses
+nurses	require	compression stockings
+compression stockings	first-line treatment for	mild cases
+mild cases	may not need	surgery
+surgery	considered for	severe symptoms
+severe symptoms	include	skin changes
+skin changes	precede	venous ulcers
+venous ulcers	require	wound care
+wound care	prevents	cellulitis

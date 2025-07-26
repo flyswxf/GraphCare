@@ -1,0 +1,100 @@
+arthroplasty knee	is a	surgical procedure
+arthroplasty knee	treats	osteoarthritis
+arthroplasty knee	treats	rheumatoid arthritis
+arthroplasty knee	treats	knee deformity
+arthroplasty knee	involves	prosthesis implantation
+total knee arthroplasty	is a type of	arthroplasty knee
+unicompartmental arthroplasty	is a type of	arthroplasty knee
+arthroplasty knee	requires	preoperative evaluation
+arthroplasty knee	has risk	infection
+arthroplasty knee	has risk	blood clot
+arthroplasty knee	requires	postoperative rehabilitation
+arthroplasty knee	improves	joint function
+arthroplasty knee	reduces	joint pain
+arthroplasty knee	uses	metal components
+arthroplasty knee	uses	polyethylene insert
+cemented fixation	is a method of	prosthesis fixation
+cementless fixation	is a method of	prosthesis fixation
+arthroplasty knee	requires	antibiotic prophylaxis
+arthroplasty knee	contraindicated in	active infection
+arthroplasty knee	contraindicated in	severe osteoporosis
+anesthesia	required for	arthroplasty knee
+general anesthesia	is an option for	arthroplasty knee
+spinal anesthesia	is an option for	arthroplasty knee
+arthroplasty knee	affects	quality of life
+arthroplasty knee	has complication	prosthetic loosening
+arthroplasty knee	has complication	periprosthetic fracture
+arthroplasty knee	has complication	patellar instability
+arthroplasty knee	requires	physical therapy
+arthroplasty knee	has outcome measure	knee society score
+arthroplasty knee	has outcome measure	oxford knee score
+arthroplasty knee	alternative to	knee fusion
+arthroplasty knee	alternative to	conservative treatment
+arthroplasty knee	more effective than	arthroscopic debridement
+arthroplasty knee	performed by	orthopedic surgeon
+computer navigation	assists in	arthroplasty knee
+robotic assistance	assists in	arthroplasty knee
+arthroplasty knee	requires	postoperative analgesia
+arthroplasty knee	uses	tourniquet
+arthroplasty knee	involves	bone resection
+arthroplasty knee	preserves	posterior cruciate ligament
+arthroplasty knee	sacrifices	posterior cruciate ligament
+arthroplasty knee	requires	blood management
+arthroplasty knee	may need	blood transfusion
+arthroplasty knee	increases risk	deep vein thrombosis
+arthroplasty knee	increases risk	pulmonary embolism
+arthroplasty knee	requires	thromboprophylaxis
+low molecular weight heparin	used for	thromboprophylaxis
+aspirin	used for	thromboprophylaxis
+warfarin	used for	thromboprophylaxis
+arthroplasty knee	has survival rate	15 years
+younger patients	have higher risk	revision surgery
+obesity	increases risk	prosthetic failure
+diabetes mellitus	increases risk	infection
+smoking	delays	wound healing
+arthroplasty knee	requires	follow-up visits
+radiographs	used for	postoperative assessment
+arthroplasty knee	may need	revision surgery
+aseptic loosening	is reason for	revision surgery
+prosthetic joint infection	is reason for	revision surgery
+two-stage revision	treatment for	prosthetic joint infection
+arthroplasty knee	contraindicated in	neuropathic joint
+arthroplasty knee	contraindicated in	extensor mechanism deficiency
+arthroplasty knee	improves	walking ability
+arthroplasty knee	reduces	analgesic use
+high-flexion design	improves	range of motion
+gender-specific design	accommodates	anatomical differences
+arthroplasty knee	uses	polymethylmethacrylate cement
+antibiotic-loaded cement	reduces risk	infection
+drains	used after	arthroplasty knee
+continuous passive motion	aids	recovery
+arthroplasty knee	requires	gait training
+quadriceps strengthening	important for	recovery
+home exercise program	part of	rehabilitation
+outpatient therapy	part of	rehabilitation
+arthroplasty knee	may cause	knee stiffness
+manipulation under anesthesia	treats	knee stiffness
+arthroplasty knee	may cause	heterotopic ossification
+arthroplasty knee	may cause	nerve injury
+peroneal nerve	at risk during	arthroplasty knee
+arthroplasty knee	affects	proprioception
+minimally invasive approach	reduces	tissue trauma
+standard approach	provides better	exposure
+arthroplasty knee	requires	preoperative optimization
+cardiac evaluation	needed for	high-risk patients
+dental clearance	reduces risk	hematogenous seeding
+urinary tract infection	increases risk	prosthetic infection
+methicillin-resistant staphylococcus aureus	causes	prosthetic infection
+biofilm formation	complicates	infection treatment
+arthroplasty knee	contraindicated in	vascular insufficiency
+arthroplasty knee	contraindicated in	knee instability
+patellar resurfacing	optional in	arthroplasty knee
+arthroplasty knee	changes	joint line
+arthroplasty knee	alters	biomechanics
+patient satisfaction	measures	success rate
+hospital volume	affects	outcomes
+surgeon experience	affects	outcomes
+enhanced recovery protocol	shortens	hospital stay
+multimodal analgesia	reduces	opioid use
+tele-rehabilitation	option for	follow-up
+arthroplasty knee	considered when	severe disability

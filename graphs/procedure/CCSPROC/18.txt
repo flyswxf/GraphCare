@@ -1,0 +1,100 @@
+diagnostic procedures on eye	is a	medical examination
+diagnostic procedures on eye	include	visual acuity test
+diagnostic procedures on eye	include	tonometry
+diagnostic procedures on eye	include	slit lamp examination
+diagnostic procedures on eye	include	fundoscopy
+visual acuity test	measures	vision clarity
+tonometry	measures	intraocular pressure
+slit lamp examination	evaluates	anterior eye segment
+fundoscopy	examines	retina
+intraocular pressure	indicates	glaucoma risk
+retina examination	detects	macular degeneration
+retina examination	detects	diabetic retinopathy
+visual field test	assesses	peripheral vision
+corneal topography	maps	corneal surface
+optical coherence tomography	produces	retinal cross-sections
+fluorescein angiography	visualizes	retinal blood flow
+pachymetry	measures	corneal thickness
+electroretinography	records	retinal electrical activity
+schirmer test	evaluates	tear production
+keratometry	measures	corneal curvature
+glaucoma	requires	intraocular pressure monitoring
+macular degeneration	causes	central vision loss
+diabetic retinopathy	results from	diabetes
+cataracts	detected by	slit lamp examination
+conjunctivitis	diagnosed through	eye surface examination
+retinal detachment	identified by	fundoscopy
+dry eye syndrome	confirmed by	schirmer test
+corneal abrasion	diagnosed with	fluorescein staining
+uveitis	detected through	anterior chamber evaluation
+strabismus	assessed by	cover test
+amblyopia	screened via	pediatric vision assessment
+color blindness	tested by	ishihara plates
+optic neuritis	diagnosed with	visual evoked potential
+blepharitis	identified through	eyelid margin examination
+keratoconus	detected by	corneal topography
+retinitis pigmentosa	diagnosed via	electroretinography
+eye trauma	evaluated with	orbital imaging
+vitreous hemorrhage	observed through	fundoscopy
+ocular melanoma	detected by	ultrasound biomicroscopy
+eye examination	precedes	refractive surgery
+contact lens fitting	requires	corneal measurements
+vision screening	identifies	refractive errors
+refractive errors	corrected by	eyeglasses
+myopia	diagnosed through	refraction test
+hyperopia	confirmed by	retinoscopy
+astigmatism	detected via	keratometry
+presbyopia	assessed during	near vision test
+orthokeratology	monitored with	corneal topography
+corneal transplant	preceded by	endothelial cell count
+eye pressure	regulated by	aqueous humor dynamics
+tear film	evaluated through	tear breakup time
+ocular surface disease	diagnosed with	lissamine green staining
+eyelid disorders	assessed via	eyelid function tests
+ocular alignment	measured by	hirschberg test
+nystagmus	evaluated through	eye movement recording
+pupillary reflexes	tested using	light response
+accommodation	assessed via	near point test
+binocular vision	evaluated through	stereopsis tests
+ocular motility	examined with	duction testing
+convergence insufficiency	diagnosed by	near point convergence
+low vision	assessed through	functional vision tests
+night blindness	screened via	dark adaptation
+visual processing	evaluated with	contrast sensitivity
+eye health	monitored through	regular examinations
+pediatric eye exam	includes	red reflex test
+newborn screening	checks for	congenital cataracts
+premature infants	screened for	retinopathy of prematurity
+aging eyes	require	comprehensive dilated exams
+diabetes patients	need	annual retinal exams
+hypertension	detected through	retinal vascular changes
+multiple sclerosis	associated with	optic nerve abnormalities
+autoimmune diseases	may cause	uveitis
+thyroid disorders	can lead	proptosis
+eye cancer	diagnosed via	biopsy
+orbital tumors	detected by	MRI scanning
+eye infections	identified through	microbial cultures
+allergic conjunctivitis	diagnosed by	eosinophil count
+corneal ulcers	confirmed via	culture sensitivity
+ocular herpes	detected through	PCR testing
+eye floaters	evaluated with	dilated fundus exam
+retinal tears	diagnosed by	scleral depression
+macular holes	identified via	OCT imaging
+epiretinal membrane	detected through	retinal imaging
+vitreous detachment	observed by	slit lamp exam
+optic nerve damage	assessed via	visual field
+glaucoma progression	monitored with	optic nerve imaging
+cataract surgery	preceded by	biometry measurements
+LASIK	requires	corneal thickness assessment
+ocular medications	monitored for	side effects
+eye drops	can cause	allergic reactions
+contact lenses	require	fitting evaluations
+visual rehabilitation	involves	low vision aids
+eye prosthetics	fitted by	ocularists
+occupational hazards	screened for	protective eyewear needs
+sports injuries	prevented by	safety goggles
+computer vision syndrome	assessed via	ergonomic evaluation
+blue light exposure	measured by	digital device usage
+nutritional deficiencies	detected through	retinal signs
+genetic eye diseases	diagnosed via	genetic testing
+telemedicine	enables	remote eye consultations

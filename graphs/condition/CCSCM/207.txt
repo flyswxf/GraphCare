@@ -1,0 +1,100 @@
+pathological fracture	caused by	osteoporosis
+pathological fracture	caused by	bone metastasis
+pathological fracture	caused by	primary bone cancer
+pathological fracture	caused by	osteomyelitis
+pathological fracture	caused by	Paget's disease
+pathological fracture	diagnosed with	X-ray
+pathological fracture	diagnosed with	CT scan
+pathological fracture	diagnosed with	MRI
+pathological fracture	treated with	internal fixation
+pathological fracture	treated with	external fixation
+pathological fracture	treated with	bisphosphonates
+pathological fracture	treated with	radiation therapy
+pathological fracture	treated with	chemotherapy
+pathological fracture	requires	pain management
+pathological fracture	may lead to	immobility
+pathological fracture	may lead to	pneumonia
+pathological fracture	may lead to	deep vein thrombosis
+pathological fracture	may lead to	pulmonary embolism
+pathological fracture	associated with	hypercalcemia
+pathological fracture	associated with	anemia
+pathological fracture	prevented by	bone density screening
+pathological fracture	prevented by	vitamin D supplementation
+pathological fracture	prevented by	calcium supplementation
+pathological fracture	prevented by	weight-bearing exercise
+pathological fracture	risk factor	advanced age
+pathological fracture	risk factor	female gender
+pathological fracture	risk factor	corticosteroid use
+pathological fracture	risk factor	smoking
+pathological fracture	risk factor	alcohol abuse
+osteoporosis	treated with	denosumab
+osteoporosis	treated with	teriparatide
+osteoporosis	treated with	hormone therapy
+osteoporosis	diagnosed with	DEXA scan
+bone metastasis	originates from	breast cancer
+bone metastasis	originates from	prostate cancer
+bone metastasis	originates from	lung cancer
+bone metastasis	originates from	renal cell carcinoma
+bone metastasis	symptom	bone pain
+bone metastasis	treated with	zoledronic acid
+bone metastasis	treated with	denosumab
+bone metastasis	complication	spinal cord compression
+primary bone cancer	includes	osteosarcoma
+primary bone cancer	includes	Ewing sarcoma
+primary bone cancer	includes	chondrosarcoma
+osteosarcoma	treated with	surgical resection
+osteosarcoma	treated with	cisplatin
+Ewing sarcoma	treated with	vincristine
+osteomyelitis	caused by	bacterial infection
+osteomyelitis	treated with	antibiotics
+osteomyelitis	complication	septicemia
+Paget's disease	symptom	bone deformity
+Paget's disease	complication	hearing loss
+Paget's disease	treated with	calcitonin
+internal fixation	uses	intramedullary nail
+internal fixation	uses	plate and screws
+external fixation	uses	metal frame
+bisphosphonates	include	alendronate
+bisphosphonates	include	ibandronate
+bisphosphonates	side effect	osteonecrosis of jaw
+radiation therapy	side effect	fatigue
+radiation therapy	side effect	skin irritation
+chemotherapy	side effect	neutropenia
+chemotherapy	side effect	hair loss
+pain management	uses	opioids
+pain management	uses	NSAIDs
+immobility	complication	pressure ulcers
+pneumonia	treated with	antibiotics
+deep vein thrombosis	treated with	anticoagulants
+pulmonary embolism	diagnosed with	CT angiography
+hypercalcemia	treated with	hydration
+hypercalcemia	treated with	loop diuretics
+anemia	treated with	iron supplements
+anemia	treated with	erythropoietin
+bone density screening	uses	T-score
+vitamin D supplementation	prevents	rickets
+calcium supplementation	source	dairy products
+weight-bearing exercise	includes	walking
+corticosteroid use	side effect	immunosuppression
+denosumab	mechanism	RANKL inhibitor
+teriparatide	mechanism	PTH analog
+DEXA scan	measures	bone mineral density
+breast cancer	metastasizes to	bones
+prostate cancer	metastasizes to	spine
+lung cancer	metastasizes to	ribs
+renal cell carcinoma	metastasizes to	femur
+bone pain	treated with	radiotherapy
+zoledronic acid	administered	intravenously
+spinal cord compression	symptom	weakness
+osteosarcoma	common in	adolescents
+Ewing sarcoma	common in	children
+bacterial infection	treated with	culture
+antibiotics	include	vancomycin
+septicemia	complication	septic shock
+bone deformity	corrected with	osteotomy
+hearing loss	treated with	hearing aids
+calcitonin	source	salmon
+intramedullary nail	inserted in	femur
+plate and screws	made of	titanium
+metal frame	adjusted	externally
+alendronate	taken	weekly

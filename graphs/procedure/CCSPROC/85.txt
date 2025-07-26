@@ -1,0 +1,100 @@
+inguinal and femoral hernia repair	is a	surgical procedure
+inguinal and femoral hernia repair	treats	hernia
+inguinal hernia	is a type of	hernia
+femoral hernia	is a type of	hernia
+hernia	involves	abdominal wall
+hernia repair	requires	anesthesia
+general anesthesia	used in	hernia repair
+local anesthesia	alternative for	hernia repair
+hernia repair	has approach	open surgery
+hernia repair	has approach	laparoscopic surgery
+laparoscopic surgery	requires	smaller incisions
+open surgery	requires	larger incision
+mesh	used in	hernia repair
+synthetic mesh	is a type of	mesh
+biological mesh	is a type of	mesh
+mesh	reduces	recurrence
+hernia repair	has complication	infection
+hernia repair	has complication	bleeding
+hernia repair	has complication	chronic pain
+chronic pain	affects	recovery
+recovery	requires	postoperative care
+postoperative care	includes	wound care
+postoperative care	includes	pain management
+pain management	involves	analgesics
+opioids	are a type of	analgesics
+NSAIDs	are a type of	analgesics
+hernia repair	requires	preoperative evaluation
+preoperative evaluation	includes	medical history
+preoperative evaluation	includes	physical examination
+physical examination	detects	hernia size
+hernia size	affects	surgical approach
+large hernia	may require	open repair
+small hernia	may allow	laparoscopic repair
+hernia repair	has risk factor	obesity
+hernia repair	has risk factor	smoking
+smoking	increases	surgical risks
+obesity	increases	surgical risks
+hernia repair	requires	hospital stay
+hospital stay	depends on	procedure type
+laparoscopic repair	allows	shorter stay
+open repair	may require	longer stay
+hernia repair	affects	physical activity
+physical activity	restricted during	recovery
+recovery period	varies by	procedure
+recovery	monitored by	follow-up visits
+follow-up visits	assess	wound healing
+wound healing	affected by	patient health
+diabetes	impacts	wound healing
+elderly patients	have higher	complication rates
+hernia repair	has alternative	watchful waiting
+watchful waiting	monitors	hernia progression
+hernia progression	may lead to	strangulation
+strangulation	requires	emergency surgery
+emergency surgery	has higher	mortality risk
+elective surgery	has lower	complication rate
+hernia repair	performed by	general surgeon
+general surgeon	specializes in	abdominal surgery
+surgical skill	affects	outcomes
+surgical experience	reduces	complications
+hernia repair	uses	sutures
+non-absorbable sutures	provide	long-term support
+absorbable sutures	used for	tissue approximation
+tissue approximation	promotes	healing
+hernia location	determines	repair technique
+direct inguinal hernia	involves	Hesselbach's triangle
+indirect inguinal hernia	involves	inguinal canal
+femoral hernia	occurs in	femoral canal
+femoral hernia	more common in	women
+inguinal hernia	more common in	men
+hernia prevalence	increases with	age
+aging	weakens	abdominal muscles
+abdominal muscles	prevent	hernia formation
+heavy lifting	contributes to	hernia development
+chronic cough	increases	intra-abdominal pressure
+intra-abdominal pressure	causes	hernia
+hernia repair	may require	bowel resection
+bowel resection	needed for	strangulated hernia
+bowel obstruction	complication of	hernia
+bowel obstruction	requires	urgent treatment
+hernia recurrence	affects	quality of life
+quality of life	improves after	successful repair
+patient satisfaction	measures	surgical success
+surgical success	depends on	multiple factors
+patient compliance	affects	recovery
+rehabilitation	includes	gradual activity
+physical therapy	aids	recovery
+nutrition	supports	healing
+protein intake	promotes	tissue repair
+vitamin C	aids	collagen formation
+collagen	strengthens	repair site
+surgeon volume	correlates with	better outcomes
+high-volume centers	have lower	complication rates
+surgical training	improves	technique
+simulation training	enhances	surgical skills
+robotic surgery	alternative for	hernia repair
+robotic surgery	offers	precision
+precision	reduces	tissue trauma
+tissue trauma	affects	recovery time
+minimally invasive techniques	reduce	hospital costs
+cost-effectiveness	considered in	procedure selection

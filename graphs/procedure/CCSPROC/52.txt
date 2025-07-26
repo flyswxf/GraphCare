@@ -1,0 +1,100 @@
+aortic resection	is a	surgical procedure
+aortic resection	treats	aortic aneurysm
+aortic resection	treats	aortic dissection
+aortic resection	requires	general anesthesia
+aortic resection	involves	blood vessel repair
+aortic replacement	is a	surgical procedure
+aortic replacement	uses	prosthetic graft
+aortic replacement	treats	aortic stenosis
+aortic replacement	treats	aortic regurgitation
+aortic anastomosis	is a	surgical technique
+aortic anastomosis	connects	blood vessels
+aortic anastomosis	restores	blood flow
+aortic resection	may require	cardiopulmonary bypass
+aortic resection	has risk	bleeding
+aortic resection	has risk	infection
+aortic replacement	has risk	thrombosis
+aortic replacement	has risk	graft rejection
+aortic anastomosis	has risk	leakage
+aortic anastomosis	has risk	stenosis
+aortic resection	follows	diagnostic imaging
+aortic replacement	requires	preoperative assessment
+aortic anastomosis	requires	surgical precision
+aortic resection	performed by	cardiovascular surgeon
+aortic replacement	performed by	cardiac surgeon
+aortic anastomosis	performed by	vascular surgeon
+aortic resection	may lead to	hospital stay
+aortic replacement	may lead to	ICU admission
+aortic anastomosis	may lead to	follow-up scans
+aortic resection	associated with	hypertension
+aortic replacement	associated with	anticoagulation therapy
+aortic anastomosis	associated with	wound care
+aortic resection	contraindicated in	severe comorbidities
+aortic replacement	contraindicated in	active infection
+aortic anastomosis	contraindicated in	poor vascular health
+aortic resection	preceded by	CT angiography
+aortic replacement	preceded by	echocardiogram
+aortic anastomosis	preceded by	vascular mapping
+aortic resection	followed by	pain management
+aortic replacement	followed by	physical therapy
+aortic anastomosis	followed by	blood pressure monitoring
+aortic resection	complication	spinal cord ischemia
+aortic replacement	complication	endoleak
+aortic anastomosis	complication	pseudoaneurysm
+aortic resection	alternative	endovascular repair
+aortic replacement	alternative	medical management
+aortic anastomosis	alternative	stent placement
+aortic resection	requires	blood transfusion
+aortic replacement	requires	postoperative anticoagulation
+aortic anastomosis	requires	suture material
+aortic resection	affects	cardiac output
+aortic replacement	affects	vascular integrity
+aortic anastomosis	affects	tissue perfusion
+aortic resection	indication	traumatic injury
+aortic replacement	indication	congenital defect
+aortic anastomosis	indication	vascular occlusion
+aortic resection	outcome	improved survival
+aortic replacement	outcome	restored valve function
+aortic anastomosis	outcome	vascular continuity
+aortic resection	equipment	surgical clamp
+aortic replacement	equipment	heart-lung machine
+aortic anastomosis	equipment	vascular sutures
+aortic resection	location	operating room
+aortic replacement	location	cardiac center
+aortic anastomosis	location	vascular suite
+aortic resection	duration	several hours
+aortic replacement	duration	prolonged surgery
+aortic anastomosis	duration	variable time
+aortic resection	expertise	complex procedure
+aortic replacement	expertise	specialized training
+aortic anastomosis	expertise	microsurgical skills
+aortic resection	cost	expensive
+aortic replacement	cost	high
+aortic anastomosis	cost	variable
+aortic resection	research	surgical outcomes
+aortic replacement	research	prosthetic materials
+aortic anastomosis	research	healing process
+aortic resection	mortality risk	significant
+aortic replacement	mortality risk	depends on age
+aortic anastomosis	mortality risk	lower
+aortic resection	readmission risk	possible
+aortic replacement	readmission risk	depends on complications
+aortic anastomosis	readmission risk	minimal
+aortic resection	rehabilitation	necessary
+aortic replacement	rehabilitation	cardiac rehab
+aortic anastomosis	rehabilitation	wound care
+aortic resection	history	surgical evolution
+aortic replacement	history	medical advancement
+aortic anastomosis	history	vascular surgery progress
+aortic resection	future	robotic assistance
+aortic replacement	future	tissue engineering
+aortic anastomosis	future	bioadhesive techniques
+aortic resection	guideline	surgical standards
+aortic replacement	guideline	patient selection
+aortic anastomosis	guideline	technical precision
+aortic resection	team	multidisciplinary
+aortic replacement	team	cardiac anesthesiologist
+aortic anastomosis	team	perfusionist
+aortic resection	innovation	minimally invasive
+aortic replacement	innovation	valve-sparing
+aortic anastomosis	innovation	laser-assisted

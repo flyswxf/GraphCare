@@ -1,0 +1,100 @@
+diagnostic procedures	include	male genital examination
+male genital examination	assesses	penis
+male genital examination	assesses	scrotum
+male genital examination	assesses	testicles
+male genital examination	detects	hernia
+male genital examination	identifies	varicocele
+male genital examination	screens	testicular cancer
+penis	may have	lesions
+penis	may show	discharge
+scrotum	may contain	masses
+testicles	may develop	tumors
+testicular cancer	requires	ultrasound
+ultrasound	confirms	testicular masses
+ultrasound	differentiates	solid vs cystic
+varicocele	causes	infertility
+infertility	evaluated by	semen analysis
+semen analysis	measures	sperm count
+semen analysis	evaluates	motility
+sperm count	affects	fertility
+motility	impacts	conception
+male genital examination	checks	prostate
+prostate	evaluated by	digital rectal exam
+digital rectal exam	detects	enlargement
+prostate enlargement	causes	urinary symptoms
+urinary symptoms	include	hesitancy
+urinary symptoms	include	frequency
+prostate	screened by	PSA test
+PSA test	indicates	cancer risk
+elevated PSA	warrants	biopsy
+prostate biopsy	diagnoses	adenocarcinoma
+adenocarcinoma	treated by	prostatectomy
+prostatectomy	risks	incontinence
+prostatectomy	risks	impotence
+incontinence	managed by	pelvic exercises
+impotence	treated by	PDE5 inhibitors
+PDE5 inhibitors	include	sildenafil
+sildenafil	improves	erectile function
+male genital examination	inspects	foreskin
+foreskin	may have	phimosis
+phimosis	causes	pain
+phimosis	treated by	circumcision
+circumcision	prevents	infections
+infections	include	balanitis
+balanitis	caused by	candida
+candida	treated by	antifungals
+antifungals	include	clotrimazole
+male genital examination	evaluates	urethra
+urethra	may have	strictures
+urethral strictures	cause	obstruction
+obstruction	leads to	retention
+retention	requires	catheterization
+catheterization	risks	UTI
+UTI	treated by	antibiotics
+antibiotics	include	ciprofloxacin
+male genital examination	checks	inguinal area
+inguinal area	may have	lymphadenopathy
+lymphadenopathy	suggests	infection
+lymphadenopathy	suggests	malignancy
+malignancy	confirmed by	biopsy
+biopsy	analyzed by	pathology
+pathology	determines	diagnosis
+diagnosis	guides	treatment
+treatment	may involve	chemotherapy
+chemotherapy	causes	side effects
+side effects	include	nausea
+nausea	managed by	antiemetics
+antiemetics	include	ondansetron
+male genital examination	assesses	sexual development
+sexual development	evaluated by	Tanner staging
+Tanner staging	classifies	puberty
+puberty	involves	testosterone
+testosterone	produced by	testes
+testosterone deficiency	causes	hypogonadism
+hypogonadism	treated by	replacement
+replacement	uses	testosterone gel
+testosterone gel	increases	muscle mass
+male genital examination	screens	STIs
+STIs	include	gonorrhea
+gonorrhea	detected by	NAAT
+NAAT	identifies	Neisseria
+Neisseria	treated by	ceftriaxone
+ceftriaxone	combines with	azithromycin
+azithromycin	covers	chlamydia
+chlamydia	causes	urethritis
+urethritis	presents with	dysuria
+dysuria	relieved by	antibiotics
+male genital examination	monitors	hydrocele
+hydrocele	contains	fluid
+hydrocele	distinguished from	hernia
+hernia	repaired by	surgery
+surgery	requires	anesthesia
+anesthesia	risks	complications
+complications	include	bleeding
+bleeding	managed by	compression
+male genital examination	follows up	vasectomy
+vasectomy	prevents	pregnancy
+pregnancy	avoided by	contraception
+contraception	includes	condoms
+condoms	prevent	STDs
+STDs	screened by	blood tests

@@ -1,0 +1,100 @@
+glaucoma procedures	treat	glaucoma
+glaucoma procedures	reduce	intraocular pressure
+trabeculectomy	is a	glaucoma procedure
+glaucoma drainage devices	is a	glaucoma procedure
+laser trabeculoplasty	is a	glaucoma procedure
+minimally invasive glaucoma surgery	is a	glaucoma procedure
+trabeculectomy	creates	filtration bleb
+trabeculectomy	requires	postoperative care
+glaucoma drainage devices	implant	aqueous shunt
+glaucoma drainage devices	prevent	scarring
+laser trabeculoplasty	improves	trabecular meshwork function
+laser trabeculoplasty	is	outpatient procedure
+minimally invasive glaucoma surgery	causes	fewer complications
+minimally invasive glaucoma surgery	preserves	conjunctiva
+glaucoma procedures	prevent	optic nerve damage
+glaucoma procedures	preserve	vision
+trabeculectomy	risks	hypotony
+trabeculectomy	risks	infection
+glaucoma drainage devices	require	less follow-up
+glaucoma drainage devices	are	long-term solution
+laser trabeculoplasty	effects	are temporary
+laser trabeculoplasty	repeats	periodically
+minimally invasive glaucoma surgery	combines with	cataract surgery
+minimally invasive glaucoma surgery	uses	micro-stents
+intraocular pressure	causes	optic nerve damage
+optic nerve damage	leads	vision loss
+filtration bleb	allows	fluid drainage
+filtration bleb	requires	monitoring
+aqueous shunt	redirects	aqueous humor
+aqueous humor	maintains	eye pressure
+trabecular meshwork	regulates	aqueous outflow
+postoperative care	includes	antibiotic drops
+postoperative care	involves	pressure checks
+hypotony	causes	vision blurring
+infection	requires	immediate treatment
+scarring	reduces	procedure efficacy
+conjunctiva	is	protective membrane
+micro-stents	enhance	aqueous drainage
+cataract surgery	improves	vision clarity
+outpatient procedure	allows	same-day discharge
+glaucoma	is	optic neuropathy
+glaucoma	risks	blindness
+glaucoma	associates with	high myopia
+glaucoma	relates to	diabetes
+glaucoma	links to	family history
+intraocular pressure	measures by	tonometry
+tonometry	is	diagnostic test
+optic nerve	transmits	visual signals
+vision loss	affects	quality of life
+quality of life	relates to	independence
+fluid drainage	prevents	pressure buildup
+pressure buildup	damages	retinal cells
+antibiotic drops	prevent	infections
+pressure checks	monitor	surgical success
+vision blurring	indicates	complications
+immediate treatment	prevents	vision loss
+procedure efficacy	depends on	patient factors
+protective membrane	covers	sclera
+aqueous drainage	maintains	pressure balance
+vision clarity	requires	healthy eyes
+optic neuropathy	involves	nerve degeneration
+blindness	results from	untreated glaucoma
+high myopia	increases	glaucoma risk
+diabetes	affects	eye health
+family history	indicates	genetic predisposition
+diagnostic test	confirms	glaucoma
+visual signals	transmit to	brain
+independence	relates to	mobility
+retinal cells	convert	light to signals
+surgical success	depends on	skill
+complications	require	additional procedures
+patient factors	include	age
+sclera	is	white of eye
+pressure balance	ensures	eye health
+healthy eyes	require	regular checkups
+nerve degeneration	is	irreversible
+untreated glaucoma	progresses	silently
+genetic predisposition	increases	susceptibility
+eye health	affects	overall wellbeing
+brain	processes	visual information
+mobility	depends on	good vision
+light to signals	enables	sight
+skill	determines	surgical outcomes
+additional procedures	increase	recovery time
+age	affects	healing process
+white of eye	provides	structural support
+regular checkups	detect	early changes
+irreversible damage	requires	early intervention
+silent progression	makes	screening important
+susceptibility	varies by	ethnicity
+overall wellbeing	includes	eye care
+visual information	enables	navigation
+good vision	supports	daily activities
+sight	is	primary sense
+surgical outcomes	affect	patient satisfaction
+recovery time	varies by	procedure type
+healing process	involves	inflammation control
+structural support	protects	inner eye
+early changes	allow	timely treatment
+early intervention	saves	vision

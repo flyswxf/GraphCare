@@ -1,0 +1,100 @@
+anticestodals	is a	drug class
+anticestodals	treats	cestode infections
+cestode infections	caused by	tapeworms
+tapeworms	include	Taenia solium
+Taenia solium	causes	cysticercosis
+anticestodals	includes	praziquantel
+praziquantel	mechanism	paralysis of worms
+praziquantel	affects	calcium channels
+calcium channels	regulate	muscle contraction
+anticestodals	includes	niclosamide
+niclosamide	inhibits	ATP production
+ATP production	occurs in	mitochondria
+mitochondria	are	cellular organelles
+anticestodals	used for	taeniasis
+taeniasis	symptom	abdominal pain
+abdominal pain	treated with	analgesics
+analgesics	include	ibuprofen
+anticestodals	contraindicated in	pregnancy
+pregnancy	requires	prenatal care
+prenatal care	includes	ultrasound
+anticestodals	interacts with	rifampin
+rifampin	is a	antibiotic
+antibiotics	treat	bacterial infections
+anticestodals	administered as	oral tablets
+oral tablets	absorbed in	intestines
+intestines	part of	digestive system
+digestive system	includes	stomach
+anticestodals	side effect	dizziness
+dizziness	managed by	hydration
+hydration	involves	water intake
+anticestodals	side effect	nausea
+nausea	relieved by	antiemetics
+antiemetics	include	ondansetron
+ondansetron	blocks	serotonin receptors
+serotonin receptors	regulate	vomiting
+anticestodals	targets	scolex
+scolex	is	tapeworm head
+tapeworm head	attaches to	intestine wall
+intestine wall	lined with	mucosa
+mucosa	contains	epithelial cells
+anticestodals	requires	dosing schedule
+dosing schedule	depends on	body weight
+body weight	measured in	kilograms
+anticestodals	efficacy	depends on	parasite load
+parasite load	measured by	stool test
+stool test	detects	ova
+ova	are	parasite eggs
+anticestodals	alternative	albendazole
+albendazole	treats	echinococcosis
+echinococcosis	caused by	Echinococcus
+Echinococcus	transmitted by	dogs
+dogs	are	domestic animals
+anticestodals	resistance	occurs in	parasites
+parasites	evolve	drug resistance
+drug resistance	mitigated by	combination therapy
+combination therapy	includes	multiple drugs
+multiple drugs	increase	treatment efficacy
+anticestodals	stored at	room temperature
+room temperature	ranges	20-25°C
+anticestodals	metabolized in	liver
+liver	produces	bile
+bile	aids in	fat digestion
+anticestodals	excreted via	kidneys
+kidneys	filter	blood
+blood	contains	plasma
+anticestodals	not recommended for	children
+children	have	developing organs
+developing organs	sensitive to	toxins
+toxins	include	heavy metals
+heavy metals	such as	lead
+lead	causes	neurotoxicity
+anticestodals	prescribed by	physicians
+physicians	specialize in	infectious diseases
+infectious diseases	studied in	epidemiology
+epidemiology	tracks	disease outbreaks
+disease outbreaks	require	public health response
+public health response	involves	vaccination
+vaccination	prevents	viral infections
+viral infections	differ from	parasitic infections
+parasitic infections	treated with	antiparasitics
+antiparasitics	include	anticestodals
+anticestodals	discovered in	20th century
+20th century	saw	medical advancements
+medical advancements	include	antibiotics
+antibiotics	discovered by	Alexander Fleming
+Alexander Fleming	worked on	penicillin
+penicillin	treats	bacterial infections
+anticestodals	studied in	parasitology
+parasitology	branch of	microbiology
+microbiology	studies	microorganisms
+microorganisms	include	bacteria
+bacteria	cause	tuberculosis
+tuberculosis	treated with	isoniazid
+isoniazid	is a	antitubercular drug
+antitubercular drugs	differ from	anticestodals
+anticestodals	used in	veterinary medicine
+veterinary medicine	treats	animals
+animals	include	livestock
+livestock	affected by	parasitic worms
+parasitic worms	reduce	livestock productivity

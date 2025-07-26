@@ -1,0 +1,100 @@
+viral vaccines	prevent	viral infections
+viral vaccines	contain	viral antigens
+viral antigens	stimulate	immune response
+immune response	produces	antibodies
+antibodies	provide	immunity
+viral vaccines	can be	live attenuated
+viral vaccines	can be	inactivated
+viral vaccines	can be	mRNA-based
+mRNA vaccines	use	genetic material
+genetic material	encodes	viral proteins
+viral proteins	trigger	immune recognition
+viral vaccines	require	cold chain storage
+cold chain	maintains	vaccine potency
+viral vaccines	administered via	injection
+injection	can cause	local reactions
+viral vaccines	may cause	fever
+fever	indicates	immune activation
+viral vaccines	need	booster doses
+booster doses	enhance	protection
+viral vaccines	have	efficacy rates
+efficacy rates	depend on	virus strain
+virus strain	may mutate	over time
+mutations	can reduce	vaccine effectiveness
+viral vaccines	target	specific viruses
+specific viruses	include	influenza
+influenza	causes	seasonal outbreaks
+viral vaccines	developed by	pharmaceutical companies
+pharmaceutical companies	conduct	clinical trials
+clinical trials	test	vaccine safety
+vaccine safety	monitored by	regulatory agencies
+regulatory agencies	approve	vaccine use
+viral vaccines	distributed through	healthcare systems
+healthcare systems	prioritize	high-risk groups
+high-risk groups	include	elderly
+elderly	have	weaker immunity
+viral vaccines	can prevent	hospitalizations
+hospitalizations	increase	healthcare costs
+viral vaccines	reduce	disease transmission
+disease transmission	depends on	vaccination coverage
+vaccination coverage	affected by	public trust
+public trust	influenced by	misinformation
+misinformation	spreads through	social media
+viral vaccines	sometimes cause	allergic reactions
+allergic reactions	may require	epinephrine
+epinephrine	treats	anaphylaxis
+viral vaccines	contraindicated in	immunocompromised
+immunocompromised	at risk of	vaccine failure
+vaccine failure	leads to	breakthrough infections
+breakthrough infections	can still	spread virus
+viral vaccines	often paired with	adjuvants
+adjuvants	enhance	immune response
+immune response	involves	T cells
+T cells	provide	cellular immunity
+cellular immunity	protects against	severe disease
+viral vaccines	researched in	virology labs
+virology labs	study	virus structure
+virus structure	determines	vaccine design
+vaccine design	considers	antigen selection
+viral vaccines	sometimes use	viral vectors
+viral vectors	deliver	genetic instructions
+genetic instructions	produce	viral proteins
+viral proteins	recognized by	immune cells
+immune cells	include	B cells
+B cells	produce	antibodies
+viral vaccines	can induce	memory cells
+memory cells	enable	faster response
+viral vaccines	effectiveness	varies by age
+age	affects	immune function
+viral vaccines	may interact with	medications
+medications	can alter	vaccine response
+viral vaccines	require	proper dosing
+dosing	ensures	adequate immunity
+viral vaccines	often tested in	animal models
+animal models	predict	human responses
+viral vaccines	sometimes cause	fatigue
+fatigue	is a	common side effect
+viral vaccines	effectiveness	measured in trials
+trials	compare	vaccinated groups
+vaccinated groups	show	reduced infection rates
+viral vaccines	can be	combination vaccines
+combination vaccines	protect against	multiple viruses
+viral vaccines	stability	affected by temperature
+temperature	impacts	viral viability
+viral vaccines	production	requires quality control
+quality control	ensures	batch consistency
+viral vaccines	sometimes use	preservatives
+preservatives	prevent	contamination
+viral vaccines	funding	comes from governments
+governments	support	vaccination programs
+vaccination programs	aim for	herd immunity
+herd immunity	protects	unvaccinated individuals
+viral vaccines	history	dates to 18th century
+18th century	saw	first smallpox vaccine
+smallpox vaccine	led to	disease eradication
+viral vaccines	research	continues today
+research	focuses on	emerging viruses
+emerging viruses	pose	pandemic risks
+pandemic risks	mitigated by	rapid vaccine development
+rapid vaccine development	uses	new technologies
+new technologies	include	nanoparticle delivery

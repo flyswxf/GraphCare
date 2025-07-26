@@ -1,0 +1,99 @@
+uterotonics	is a	medication
+uterotonics	induces	uterine contractions
+uterotonics	used for	postpartum hemorrhage
+uterotonics	prevents	excessive bleeding
+uterotonics	includes	oxytocin
+uterotonics	includes	ergometrine
+uterotonics	includes	misoprostol
+uterotonics	includes	carboprost
+uterotonics	contraindicated in	hypertension
+uterotonics	contraindicated in	asthma
+uterotonics	side effects	nausea
+uterotonics	side effects	vomiting
+uterotonics	side effects	headache
+uterotonics	side effects	fever
+uterotonics	administered via	injection
+uterotonics	administered via	oral route
+uterotonics	mechanism	stimulates receptors
+uterotonics	mechanism	increases calcium
+uterotonics	alternative	uterine massage
+uterotonics	alternative	bimanual compression
+oxytocin	is a	hormone
+oxytocin	produced in	hypothalamus
+oxytocin	stored in	pituitary gland
+oxytocin	binds to	oxytocin receptors
+oxytocin	onset	rapid
+oxytocin	half-life	short
+oxytocin	preferred in	active management
+oxytocin	compared to	ergometrine
+oxytocin	less side effects	hypertension
+oxytocin	requires	refrigeration
+ergometrine	is a	alkaloid
+ergometrine	derived from	ergot fungus
+ergometrine	causes	vasoconstriction
+ergometrine	risk of	hypertension
+ergometrine	duration	long
+ergometrine	combined with	oxytocin
+ergometrine	contraindicated in	heart disease
+ergometrine	contraindicated in	preeclampsia
+ergometrine	alternative	syntometrine
+ergometrine	storage	room temperature
+misoprostol	is a	prostaglandin
+misoprostol	analog of	PGE1
+misoprostol	used for	abortion
+misoprostol	used for	labor induction
+misoprostol	advantage	heat-stable
+misoprostol	disadvantage	diarrhea
+misoprostol	cost	low
+misoprostol	available as	tablet
+misoprostol	route	sublingual
+misoprostol	route	vaginal
+carboprost	is a	prostaglandin
+carboprost	analog of	PGF2α
+carboprost	used for	atony
+carboprost	side effect	bronchospasm
+carboprost	administered via	intramuscular
+carboprost	dose	repeated
+carboprost	storage	refrigerated
+carboprost	cost	high
+carboprost	alternative	hysterectomy
+postpartum hemorrhage	cause	atony
+postpartum hemorrhage	cause	trauma
+postpartum hemorrhage	cause	retained tissue
+postpartum hemorrhage	cause	coagulation
+postpartum hemorrhage	risk factor	multiparity
+postpartum hemorrhage	risk factor	macrosomia
+postpartum hemorrhage	risk factor	prolonged labor
+postpartum hemorrhage	risk factor	infection
+postpartum hemorrhage	prevention	active management
+postpartum hemorrhage	prevention	uterotonics
+postpartum hemorrhage	treatment	fluid resuscitation
+postpartum hemorrhage	treatment	blood transfusion
+postpartum hemorrhage	treatment	surgery
+postpartum hemorrhage	complication	shock
+postpartum hemorrhage	complication	anemia
+postpartum hemorrhage	complication	death
+uterine atony	is a	condition
+uterine atony	characterized by	flaccid uterus
+uterine atony	diagnosis	clinical
+uterine atony	treatment	uterotonics
+uterine atony	treatment	bimanual massage
+uterine atony	risk factor	overdistension
+uterine atony	risk factor	polyhydramnios
+uterine atony	risk factor	multiple gestation
+active management	includes	uterotonics
+active management	includes	cord traction
+active management	includes	uterine massage
+active management	reduces	blood loss
+active management	evidence	strong
+active management	recommended by	WHO
+oxytocin receptors	located in	myometrium
+oxytocin receptors	density	increases
+oxytocin receptors	activation	contractions
+oxytocin receptors	blocked by	atosiban
+prostaglandins	role in	inflammation
+prostaglandins	role in	pain
+prostaglandins	role in	labor
+prostaglandins	synthesis	inhibited
+prostaglandins	types	PGE2
+prostaglandins	types	PGF2α

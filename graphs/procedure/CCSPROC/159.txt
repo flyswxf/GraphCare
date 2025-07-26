@@ -1,0 +1,100 @@
+MRI	is a	diagnostic procedure
+MRI	used for	musculoskeletal imaging
+X-ray	is a	diagnostic procedure
+X-ray	detects	fractures
+CT scan	is a	diagnostic procedure
+CT scan	provides	3D images
+Ultrasound	is a	diagnostic procedure
+Ultrasound	evaluates	soft tissues
+Bone scan	is a	diagnostic procedure
+Bone scan	detects	bone metastases
+Arthroscopy	is a	diagnostic procedure
+Arthroscopy	visualizes	joint spaces
+Electromyography	is a	diagnostic procedure
+Electromyography	assesses	nerve function
+Nerve conduction study	is a	diagnostic procedure
+Nerve conduction study	measures	nerve impulses
+Dual-energy X-ray absorptiometry	is a	diagnostic procedure
+Dual-energy X-ray absorptiometry	measures	bone density
+Myelography	is a	diagnostic procedure
+Myelography	evaluates	spinal cord
+Discography	is a	diagnostic procedure
+Discography	assesses	intervertebral discs
+Muscle biopsy	is a	diagnostic procedure
+Muscle biopsy	diagnoses	myopathies
+Bone biopsy	is a	diagnostic procedure
+Bone biopsy	identifies	bone tumors
+Joint aspiration	is a	diagnostic procedure
+Joint aspiration	analyzes	synovial fluid
+Gait analysis	is a	diagnostic procedure
+Gait analysis	evaluates	walking patterns
+MRI	detects	ligament tears
+MRI	identifies	cartilage damage
+X-ray	reveals	bone deformities
+X-ray	shows	joint degeneration
+CT scan	detects	complex fractures
+CT scan	visualizes	bone tumors
+Ultrasound	guides	needle placement
+Ultrasound	diagnoses	tendonitis
+Bone scan	identifies	osteomyelitis
+Bone scan	detects	stress fractures
+Arthroscopy	treats	joint disorders
+Arthroscopy	removes	loose bodies
+Electromyography	diagnoses	carpal tunnel
+Electromyography	detects	nerve compression
+Nerve conduction study	identifies	peripheral neuropathy
+Nerve conduction study	evaluates	radiculopathy
+Dual-energy X-ray absorptiometry	screens	osteoporosis
+Dual-energy X-ray absorptiometry	monitors	treatment response
+Myelography	detects	spinal stenosis
+Myelography	identifies	herniated discs
+Discography	provokes	pain response
+Discography	localizes	discogenic pain
+Muscle biopsy	diagnoses	muscular dystrophy
+Muscle biopsy	identifies	inflammatory myopathies
+Bone biopsy	differentiates	benign and malignant lesions
+Bone biopsy	diagnoses	osteosarcoma
+Joint aspiration	detects	infection
+Joint aspiration	diagnoses	gout
+Gait analysis	assesses	rehabilitation progress
+Gait analysis	identifies	neurological disorders
+MRI	contraindicated for	pacemaker patients
+X-ray	involves	radiation exposure
+CT scan	requires	contrast agents
+Ultrasound	is	non-invasive
+Bone scan	uses	radioactive tracers
+Arthroscopy	is	minimally invasive
+Electromyography	causes	mild discomfort
+Nerve conduction study	measures	conduction velocity
+Dual-energy X-ray absorptiometry	is	painless
+Myelography	requires	lumbar puncture
+Discography	may cause	temporary pain
+Muscle biopsy	requires	local anesthesia
+Bone biopsy	may lead	to fracture risk
+Joint aspiration	relieves	joint pressure
+Gait analysis	uses	motion capture
+MRI	superior to	X-ray for soft tissue
+X-ray	more accessible than	MRI
+CT scan	combines	X-ray and computer
+Ultrasound	is	real-time imaging
+Bone scan	shows	metabolic activity
+Arthroscopy	allows	therapeutic interventions
+Electromyography	complements	nerve studies
+Nerve conduction study	assesses	myelin damage
+Dual-energy X-ray absorptiometry	predicts	fracture risk
+Myelography	replaced by	MRI in many cases
+Discography	controversial for	diagnostic value
+Muscle biopsy	requires	specialized analysis
+Bone biopsy	guided by	imaging
+Joint aspiration	precedes	synovial analysis
+Gait analysis	aids in	prosthesis fitting
+MRI	requires	patient cooperation
+X-ray	limited for	early arthritis
+CT scan	higher radiation than	X-ray
+Ultrasound	operator-dependent	for accuracy
+Bone scan	whole-body	imaging capability
+Arthroscopy	diagnoses	meniscal tears
+Electromyography	differentiates	neuropathic and myopathic
+Nerve conduction study	evaluates	Guillain-Barré syndrome
+Dual-energy X-ray absorptiometry	measures	body composition
+Myelography	detects	arachnoiditis

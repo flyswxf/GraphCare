@@ -1,0 +1,100 @@
+other non-or upper GI therapeutic procedures	is a	medical procedure
+other non-or upper GI therapeutic procedures	performed by	gastroenterologist
+other non-or upper GI therapeutic procedures	involves	endoscope
+other non-or upper GI therapeutic procedures	treats	GI bleeding
+other non-or upper GI therapeutic procedures	manages	strictures
+other non-or upper GI therapeutic procedures	removes	polyps
+other non-or upper GI therapeutic procedures	addresses	foreign bodies
+other non-or upper GI therapeutic procedures	requires	sedation
+other non-or upper GI therapeutic procedures	has risk	perforation
+other non-or upper GI therapeutic procedures	prevents	complications
+other non-or upper GI therapeutic procedures	uses	electrocautery
+other non-or upper GI therapeutic procedures	applies	clips
+other non-or upper GI therapeutic procedures	administers	injections
+other non-or upper GI therapeutic procedures	delivers	stents
+other non-or upper GI therapeutic procedures	reduces	obstructions
+other non-or upper GI therapeutic procedures	controls	variceal bleeding
+other non-or upper GI therapeutic procedures	follows	diagnostic endoscopy
+other non-or upper GI therapeutic procedures	requires	preoperative assessment
+other non-or upper GI therapeutic procedures	involves	fluoroscopy
+other non-or upper GI therapeutic procedures	monitors	vital signs
+other non-or upper GI therapeutic procedures	needs	specialized equipment
+other non-or upper GI therapeutic procedures	has alternative	surgery
+other non-or upper GI therapeutic procedures	performed in	endoscopy suite
+other non-or upper GI therapeutic procedures	guided by	imaging
+other non-or upper GI therapeutic procedures	treats	peptic ulcers
+other non-or upper GI therapeutic procedures	manages	fistulas
+other non-or upper GI therapeutic procedures	relieves	dysphagia
+other non-or upper GI therapeutic procedures	addresses	Zenker's diverticulum
+other non-or upper GI therapeutic procedures	uses	balloon dilation
+other non-or upper GI therapeutic procedures	applies	argon plasma coagulation
+other non-or upper GI therapeutic procedures	administers	sclerotherapy
+other non-or upper GI therapeutic procedures	delivers	glue injection
+other non-or upper GI therapeutic procedures	reduces	tumor bulk
+other non-or upper GI therapeutic procedures	controls	Dieulafoy's lesion
+other non-or upper GI therapeutic procedures	follows	biopsy
+other non-or upper GI therapeutic procedures	requires	informed consent
+other non-or upper GI therapeutic procedures	involves	anesthesia team
+other non-or upper GI therapeutic procedures	monitors	oxygen saturation
+other non-or upper GI therapeutic procedures	needs	post-procedure observation
+other non-or upper GI therapeutic procedures	has complication	aspiration
+other non-or upper GI therapeutic procedures	performed with	CO2 insufflation
+other non-or upper GI therapeutic procedures	guided by	endoscopic ultrasound
+other non-or upper GI therapeutic procedures	treats	achalasia
+other non-or upper GI therapeutic procedures	manages	Barrett's esophagus
+other non-or upper GI therapeutic procedures	relieves	gastric outlet obstruction
+other non-or upper GI therapeutic procedures	addresses	esophageal webs
+other non-or upper GI therapeutic procedures	uses	laser therapy
+other non-or upper GI therapeutic procedures	applies	cryotherapy
+other non-or upper GI therapeutic procedures	administers	radiofrequency ablation
+other non-or upper GI therapeutic procedures	delivers	photodynamic therapy
+other non-or upper GI therapeutic procedures	reduces	bleeding risk
+other non-or upper GI therapeutic procedures	controls	Mallory-Weiss tear
+other non-or upper GI therapeutic procedures	follows	imaging studies
+other non-or upper GI therapeutic procedures	requires	coagulation profile
+other non-or upper GI therapeutic procedures	involves	nursing staff
+other non-or upper GI therapeutic procedures	monitors	hemodynamics
+other non-or upper GI therapeutic procedures	needs	antibiotic prophylaxis
+other non-or upper GI therapeutic procedures	has outcome	symptom relief
+other non-or upper GI therapeutic procedures	performed under	general anesthesia
+other non-or upper GI therapeutic procedures	guided by	CT scan
+other non-or upper GI therapeutic procedures	treats	esophageal cancer
+other non-or upper GI therapeutic procedures	manages	anastomotic leaks
+other non-or upper GI therapeutic procedures	relieves	pyloric stenosis
+other non-or upper GI therapeutic procedures	addresses	radiation strictures
+other non-or upper GI therapeutic procedures	uses	hemostatic powder
+other non-or upper GI therapeutic procedures	applies	band ligation
+other non-or upper GI therapeutic procedures	administers	epinephrine
+other non-or upper GI therapeutic procedures	delivers	fibrin sealant
+other non-or upper GI therapeutic procedures	reduces	rebleeding rate
+other non-or upper GI therapeutic procedures	controls	GAVE
+other non-or upper GI therapeutic procedures	follows	blood transfusion
+other non-or upper GI therapeutic procedures	requires	IV access
+other non-or upper GI therapeutic procedures	involves	pathologist
+other non-or upper GI therapeutic procedures	monitors	ECG
+other non-or upper GI therapeutic procedures	needs	post-op instructions
+other non-or upper GI therapeutic procedures	has contraindication	perforation
+other non-or upper GI therapeutic procedures	performed after	resuscitation
+other non-or upper GI therapeutic procedures	guided by	MRI
+other non-or upper GI therapeutic procedures	treats	gastric varices
+other non-or upper GI therapeutic procedures	manages	caustic ingestion
+other non-or upper GI therapeutic procedures	relieves	esophageal spasms
+other non-or upper GI therapeutic procedures	addresses	eosinophilic esophagitis
+other non-or upper GI therapeutic procedures	uses	overtube
+other non-or upper GI therapeutic procedures	applies	vacuum therapy
+other non-or upper GI therapeutic procedures	administers	thrombin
+other non-or upper GI therapeutic procedures	delivers	covered stent
+other non-or upper GI therapeutic procedures	reduces	hospitalization time
+other non-or upper GI therapeutic procedures	controls	Cameron lesions
+other non-or upper GI therapeutic procedures	follows	NG tube placement
+other non-or upper GI therapeutic procedures	requires	NPO status
+other non-or upper GI therapeutic procedures	involves	interventional radiologist
+other non-or upper GI therapeutic procedures	monitors	blood pressure
+other non-or upper GI therapeutic procedures	needs	analgesia
+other non-or upper GI therapeutic procedures	has benefit	minimally invasive
+other non-or upper GI therapeutic procedures	performed with	overtube
+other non-or upper GI therapeutic procedures	guided by	PET scan
+other non-or upper GI therapeutic procedures	treats	duodenal ulcers
+other non-or upper GI therapeutic procedures	manages	post-surgical leaks
+other non-or upper GI therapeutic procedures	relieves	malignant obstruction
+other non-or upper GI therapeutic procedures	addresses	tracheoesophageal fistula

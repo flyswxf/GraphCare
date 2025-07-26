@@ -1,0 +1,100 @@
+posterior pituitary lobe hormones	secreted by	posterior pituitary gland
+posterior pituitary lobe hormones	include	oxytocin
+posterior pituitary lobe hormones	include	vasopressin
+oxytocin	plays role in	childbirth
+oxytocin	stimulates	uterine contractions
+oxytocin	facilitates	milk ejection
+oxytocin	affects	social bonding
+vasopressin	also known as	antidiuretic hormone
+vasopressin	regulates	water retention
+vasopressin	controls	blood pressure
+vasopressin	released in response to	dehydration
+posterior pituitary gland	stores	hypothalamic hormones
+hypothalamus	produces	oxytocin
+hypothalamus	produces	vasopressin
+hypothalamus	connected to	posterior pituitary
+posterior pituitary	part of	endocrine system
+endocrine system	regulates	body functions
+oxytocin	used in	labor induction
+oxytocin	administered via	IV infusion
+oxytocin	can cause	uterine hyperstimulation
+vasopressin	treats	diabetes insipidus
+vasopressin	administrated as	nasal spray
+vasopressin	can cause	hyponatremia
+posterior pituitary	develops from	neuroectoderm
+neuroectoderm	gives rise to	nervous tissue
+oxytocin receptor	found in	uterus
+oxytocin receptor	found in	mammary glands
+vasopressin receptor	exists in	kidneys
+vasopressin receptor	exists in	blood vessels
+oxytocin	synthesized as	prohormone
+vasopressin	synthesized as	preprohormone
+posterior pituitary	lacks	hormone synthesis
+hypothalamus	contains	magnocellular neurons
+magnocellular neurons	project to	posterior pituitary
+oxytocin	levels increase during	labor
+oxytocin	levels increase during	breastfeeding
+vasopressin	secretion increases during	hemorrhage
+vasopressin	secretion increases during	stress
+posterior pituitary hormones	travel via	bloodstream
+oxytocin	has	half-life of 3-5 minutes
+vasopressin	has	half-life of 10-20 minutes
+oxytocin	structure contains	nine amino acids
+vasopressin	structure contains	nine amino acids
+posterior pituitary	appears as	bright spot on MRI
+posterior pituitary	located in	sella turcica
+sella turcica	part of	sphenoid bone
+oxytocin	discovered in	1906
+vasopressin	discovered in	1895
+posterior pituitary dysfunction	causes	diabetes insipidus
+diabetes insipidus	characterized by	polyuria
+diabetes insipidus	treated with	desmopressin
+desmopressin	is synthetic	vasopressin analog
+oxytocin	may help with	autism symptoms
+vasopressin	involved in	circadian rhythm
+posterior pituitary	receives blood from	inferior hypophyseal artery
+inferior hypophyseal artery	branches from	internal carotid
+oxytocin	levels rise during	orgasm
+vasopressin	affects	memory formation
+posterior pituitary	weighs about	0.5 grams
+oxytocin	nicknamed	love hormone
+vasopressin	influences	pair bonding
+posterior pituitary hormones	degraded in	liver
+liver dysfunction	affects	hormone clearance
+oxytocin	available as	synthetic medication
+vasopressin	available as	IV medication
+posterior pituitary	appears hyperintense on	T1 MRI
+oxytocin	stimulates	prostaglandin release
+prostaglandins	enhance	uterine contractions
+vasopressin	causes	vasoconstriction
+vasoconstriction	increases	blood pressure
+posterior pituitary	derived from	infundibulum
+infundibulum	connects to	hypothalamus
+oxytocin	enhances	trust behavior
+vasopressin	increases	aggression
+posterior pituitary tumors	are rare
+pituitary tumors	may cause	visual disturbances
+oxytocin	reduces	stress response
+vasopressin	stimulates	ACTH release
+ACTH	regulates	cortisol production
+cortisol	is a	stress hormone
+posterior pituitary	affected by	head trauma
+head trauma	may cause	hormone deficiency
+oxytocin	binds to	G-protein coupled receptors
+vasopressin	activates	V1 receptors
+V1 receptors	mediate	vasoconstriction
+posterior pituitary	contains	pituicytes
+pituicytes	support	axon terminals
+oxytocin	levels peak at	night
+vasopressin	secretion follows	circadian pattern
+posterior pituitary	appears at	7th week of gestation
+gestational diabetes	affects	hormone balance
+oxytocin	may reduce	anxiety
+vasopressin	increases	water permeability
+water permeability	occurs in	collecting ducts
+posterior pituitary	measures about	6mm
+MRI	is best for	pituitary imaging
+oxytocin	enhances	wound healing
+vasopressin	deficiency causes	central DI
+central DI	treated with	hormone replacement
+posterior pituitary dysfunction	requires	endocrine evaluation

@@ -1,0 +1,100 @@
+nephrotomy	is a	surgical procedure
+nephrostomy	is a	medical procedure
+nephrotomy	performed on	kidney
+nephrostomy	performed on	kidney
+nephrotomy	involves	incision
+nephrostomy	involves	catheter placement
+nephrotomy	treats	kidney stones
+nephrostomy	treats	urinary obstruction
+nephrotomy	requires	general anesthesia
+nephrostomy	requires	local anesthesia
+nephrotomy	has complication	bleeding
+nephrostomy	has complication	infection
+nephrotomy	alternative to	nephrolithotomy
+nephrostomy	alternative to	ureteral stent
+nephrotomy	followed by	wound care
+nephrostomy	followed by	catheter care
+nephrotomy	performed by	urologist
+nephrostomy	performed by	interventional radiologist
+nephrotomy	requires	preoperative imaging
+nephrostomy	requires	fluoroscopic guidance
+nephrostomy tube	used in	nephrostomy
+scalpel	used in	nephrotomy
+kidney stone	indication for	nephrotomy
+hydronephrosis	indication for	nephrostomy
+nephrotomy	contraindicated in	bleeding disorders
+nephrostomy	contraindicated in	contrast allergy
+nephrotomy	affects	renal function
+nephrostomy	affects	urinary output
+antibiotics	prevent	nephrostomy infection
+analgesics	manage	nephrotomy pain
+nephrotomy	requires	postoperative monitoring
+nephrostomy	requires	output measurement
+nephrotomy	has risk	kidney damage
+nephrostomy	has risk	catheter dislodgement
+nephrostomy drainage	indicates	kidney function
+nephrotomy scar	results from	nephrotomy
+nephrostomy bag	collects	urine
+urine culture	diagnoses	nephrostomy infection
+blood tests	monitor	nephrotomy recovery
+ultrasound	evaluates	nephrostomy placement
+CT scan	plans	nephrotomy approach
+nephrotomy	more invasive than	nephrostomy
+nephrostomy	less invasive than	nephrotomy
+nephrostomy	temporary	urinary diversion
+nephrotomy	permanent in	partial nephrectomy
+nephrostomy tube	requires	regular flushing
+nephrotomy wound	requires	dressing change
+nephrotomy	indicated for	large renal masses
+nephrostomy	indicated for	ureteral strictures
+nephrostomy catheter	connects to	drainage bag
+nephrotomy sutures	close	kidney incision
+nephrostomy	relieves	renal pressure
+nephrotomy	controls	renal hemorrhage
+nephrostomy	bypasses	ureteral obstruction
+nephrotomy	accesses	renal pelvis
+nephrostomy	accesses	renal calyx
+nephrotomy	performed via	open surgery
+nephrostomy	performed via	percutaneous approach
+nephrostomy tract	forms	drainage channel
+nephrotomy site	heals	scar tissue
+nephrostomy tube	measured in	French size
+nephrotomy	requires	hospital stay
+nephrostomy	possible in	outpatient setting
+nephrostomy tube	may cause	discomfort
+nephrotomy pain	managed with	opioids
+nephrostomy care	involves	site cleaning
+nephrotomy	contraindicated in	pregnancy
+nephrostomy	safe in	pregnancy
+nephrotomy	requires	informed consent
+nephrostomy	requires	patient education
+nephrotomy	affects	quality of life
+nephrostomy	affects	daily activities
+nephrotomy	has alternative	shockwave lithotripsy
+nephrostomy	has alternative	ureteroscopy
+nephrotomy	higher risk than	nephrostomy
+nephrostomy	lower risk than	nephrotomy
+nephrostomy tube	may require	replacement
+nephrotomy	may lead to	chronic kidney disease
+nephrostomy	may lead to	hydronephrosis resolution
+nephrotomy	involves	renal parenchyma
+nephrostomy	involves	collecting system
+nephrotomy	treats	renal abscess
+nephrostomy	drains	pyonephrosis
+nephrostomy tube	secured with	sutures
+nephrotomy incision	closed with	staples
+nephrostomy	allows	antegrade stent placement
+nephrotomy	allows	tumor biopsy
+nephrostomy	contraindicated in	uncorrected coagulopathy
+nephrotomy	requires	blood transfusion preparation
+nephrostomy	preferred in	unstable patients
+nephrotomy	preferred in	complex stone disease
+nephrostomy drainage	monitored for	volume
+nephrostomy drainage	monitored for	color
+nephrotomy	may require	nephrectomy conversion
+nephrostomy	may require	additional procedures
+nephrotomy	has success rate	85-95%
+nephrostomy	has success rate	90-98%
+nephrotomy	more costly than	nephrostomy
+nephrostomy	less costly than	nephrotomy
+nephrostomy	transitions to	internal stent

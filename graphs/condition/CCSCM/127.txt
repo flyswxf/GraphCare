@@ -1,0 +1,100 @@
+chronic obstructive pulmonary disease	is a	lung disease
+bronchiectasis	is a	lung disease
+chronic obstructive pulmonary disease	may coexist with	bronchiectasis
+chronic obstructive pulmonary disease	causes	airflow limitation
+bronchiectasis	causes	airway dilation
+chronic obstructive pulmonary disease	is associated with	smoking
+chronic obstructive pulmonary disease	may lead to	respiratory failure
+bronchiectasis	may lead to	chronic infection
+chronic obstructive pulmonary disease	is treated with	bronchodilators
+bronchiectasis	is treated with	antibiotics
+chronic obstructive pulmonary disease	increases risk of	pneumonia
+bronchiectasis	increases risk of	hemoptysis
+chronic obstructive pulmonary disease	may cause	pulmonary hypertension
+bronchiectasis	may cause	chronic cough
+chronic obstructive pulmonary disease	requires	oxygen therapy
+bronchiectasis	requires	airway clearance
+chronic obstructive pulmonary disease	is diagnosed with	spirometry
+bronchiectasis	is diagnosed with	CT scan
+chronic obstructive pulmonary disease	has symptom	dyspnea
+bronchiectasis	has symptom	sputum production
+chronic obstructive pulmonary disease	may progress to	emphysema
+bronchiectasis	may result from	infection
+chronic obstructive pulmonary disease	has subtype	chronic bronchitis
+bronchiectasis	has classification	cylindrical
+chronic obstructive pulmonary disease	affected by	pollution
+bronchiectasis	affected by	immunodeficiency
+chronic obstructive pulmonary disease	managed with	pulmonary rehab
+bronchiectasis	managed with	mucolytics
+chronic obstructive pulmonary disease	associated with	weight loss
+bronchiectasis	associated with	fatigue
+chronic obstructive pulmonary disease	may need	non-invasive ventilation
+bronchiectasis	may need	surgical resection
+chronic obstructive pulmonary disease	has biomarker	CRP
+bronchiectasis	has biomarker	neutrophil elastase
+chronic obstructive pulmonary disease	contraindicates	beta blockers
+bronchiectasis	contraindicates	cough suppressants
+chronic obstructive pulmonary disease	increases	hospitalizations
+bronchiectasis	increases	healthcare costs
+chronic obstructive pulmonary disease	reduces	quality of life
+bronchiectasis	reduces	lung function
+chronic obstructive pulmonary disease	has complication	cor pulmonale
+bronchiectasis	has complication	respiratory failure
+chronic obstructive pulmonary disease	prevented by	smoking cessation
+bronchiectasis	prevented by	vaccination
+chronic obstructive pulmonary disease	worsens with	exacerbations
+bronchiectasis	worsens with	bacterial colonization
+chronic obstructive pulmonary disease	affects	gas exchange
+bronchiectasis	affects	mucus clearance
+chronic obstructive pulmonary disease	treated with	LAMA
+bronchiectasis	treated with	macrolides
+chronic obstructive pulmonary disease	relates to	alpha-1 antitrypsin deficiency
+bronchiectasis	relates to	cystic fibrosis
+chronic obstructive pulmonary disease	measured by	FEV1
+bronchiectasis	measured by	sputum culture
+chronic obstructive pulmonary disease	causes	barrel chest
+bronchiectasis	causes	clubbing
+chronic obstructive pulmonary disease	requires	action plan
+bronchiectasis	requires	regular monitoring
+chronic obstructive pulmonary disease	linked to	cardiovascular disease
+bronchiectasis	linked to	aspergillosis
+chronic obstructive pulmonary disease	contraindicates	opioids
+bronchiectasis	contraindicates	dehydration
+chronic obstructive pulmonary disease	may need	lung transplant
+bronchiectasis	may need	bronchial artery embolization
+chronic obstructive pulmonary disease	has risk factor	aging
+bronchiectasis	has risk factor	aspiration
+chronic obstructive pulmonary disease	benefits from	exercise
+bronchiectasis	benefits from	postural drainage
+chronic obstructive pulmonary disease	exacerbated by	cold air
+bronchiectasis	exacerbated by	air pollution
+chronic obstructive pulmonary disease	monitored via	pulse oximetry
+bronchiectasis	monitored via	spirometry
+chronic obstructive pulmonary disease	treated with	ICS
+bronchiectasis	treated with	nebulized saline
+chronic obstructive pulmonary disease	associated with	osteoporosis
+bronchiectasis	associated with	malnutrition
+chronic obstructive pulmonary disease	causes	respiratory acidosis
+bronchiectasis	causes	bronchospasm
+chronic obstructive pulmonary disease	increases	mortality risk
+bronchiectasis	increases	exacerbation frequency
+chronic obstructive pulmonary disease	requires	multidisciplinary care
+bronchiectasis	requires	infection control
+chronic obstructive pulmonary disease	has genetic component
+bronchiectasis	has post-infectious etiology
+chronic obstructive pulmonary disease	managed with	SABA
+bronchiectasis	managed with	chest physiotherapy
+chronic obstructive pulmonary disease	complicated by	pneumothorax
+bronchiectasis	complicated by	lung abscess
+chronic obstructive pulmonary disease	prevented by	flu vaccine
+bronchiectasis	prevented by	pneumococcal vaccine
+chronic obstructive pulmonary disease	affects	exercise tolerance
+bronchiectasis	affects	sleep quality
+chronic obstructive pulmonary disease	treated with	roflumilast
+bronchiectasis	treated with	inhaled antibiotics
+chronic obstructive pulmonary disease	associates with	depression
+bronchiectasis	associates with	anxiety
+chronic obstructive pulmonary disease	requires	smoking cessation counseling
+bronchiectasis	requires	nutritional support
+chronic obstructive pulmonary disease	monitored with	CAT score
+bronchiectasis	monitored with	Bronchiectasis Severity Index

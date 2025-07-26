@@ -1,0 +1,100 @@
+cancer of prostate	is a	malignancy
+cancer of prostate	originates in	prostate gland
+cancer of prostate	may cause	urinary obstruction
+cancer of prostate	may metastasize to	bones
+cancer of prostate	is diagnosed via	PSA test
+PSA test	measures	prostate antigen
+cancer of prostate	is staged using	Gleason score
+Gleason score	evaluates	tumor aggressiveness
+cancer of prostate	may require	prostatectomy
+prostatectomy	removes	prostate gland
+cancer of prostate	is treated with	radiation therapy
+radiation therapy	targets	tumor cells
+cancer of prostate	may be treated with	hormone therapy
+hormone therapy	reduces	testosterone levels
+testosterone	promotes	prostate cancer growth
+cancer of prostate	has risk factor	age
+age	increases	cancer risk
+cancer of prostate	has risk factor	family history
+family history	indicates	genetic predisposition
+cancer of prostate	is associated with	BRCA mutations
+BRCA mutations	increase	cancer susceptibility
+cancer of prostate	may lead to	erectile dysfunction
+erectile dysfunction	affects	sexual health
+cancer of prostate	may cause	urinary incontinence
+urinary incontinence	results from	sphincter damage
+cancer of prostate	is screened via	digital rectal exam
+digital rectal exam	assesses	prostate abnormalities
+cancer of prostate	may require	chemotherapy
+chemotherapy	kills	rapidly dividing cells
+cancer of prostate	has subtype	adenocarcinoma
+adenocarcinoma	arises from	glandular tissue
+cancer of prostate	may cause	pelvic pain
+pelvic pain	may indicate	disease progression
+cancer of prostate	is researched via	clinical trials
+clinical trials	evaluate	new treatments
+cancer of prostate	has biomarker	PSA levels
+PSA levels	correlate with	tumor burden
+cancer of prostate	may recur after	treatment
+treatment failure	necessitates	salvage therapy
+cancer of prostate	is monitored via	imaging
+imaging	detects	metastases
+cancer of prostate	may lead to	anemia
+anemia	results from	bone marrow suppression
+cancer of prostate	affects	quality of life
+quality of life	depends on	symptom control
+cancer of prostate	has complication	spinal cord compression
+spinal cord compression	requires	emergency treatment
+cancer of prostate	may cause	weight loss
+weight loss	indicates	advanced disease
+cancer of prostate	is influenced by	diet
+diet	may affect	cancer progression
+cancer of prostate	has association	obesity
+obesity	worsens	prognosis
+cancer of prostate	is managed by	oncologist
+oncologist	specializes in	cancer care
+cancer of prostate	may involve	lymph nodes
+lymph nodes	indicate	disease spread
+cancer of prostate	can be	localized
+localized cancer	has better	survival rate
+cancer of prostate	may become	castration-resistant
+castration-resistant cancer	resists	hormone therapy
+cancer of prostate	has treatment option	immunotherapy
+immunotherapy	boosts	immune response
+cancer of prostate	may require	pain management
+pain management	improves	patient comfort
+cancer of prostate	has genetic link	HOXB13 mutation
+HOXB13 mutation	predisposes to	prostate cancer
+cancer of prostate	is studied in	epidemiology
+epidemiology	analyzes	disease patterns
+cancer of prostate	varies by	ethnicity
+ethnicity	affects	incidence rates
+cancer of prostate	may cause	fatigue
+fatigue	results from	chronic illness
+cancer of prostate	has prevention strategy	screening
+screening	enables	early detection
+cancer of prostate	is correlated with	inflammation
+inflammation	may promote	carcinogenesis
+cancer of prostate	has surgical option	robotic surgery
+robotic surgery	enhances	precision
+cancer of prostate	may lead to	depression
+depression	affects	treatment adherence
+cancer of prostate	is documented in	medical records
+medical records	track	patient history
+cancer of prostate	may require	palliative care
+palliative care	focuses on	symptom relief
+cancer of prostate	has prognostic factor	tumor stage
+tumor stage	determines	treatment approach
+cancer of prostate	is influenced by	environmental factors
+environmental factors	include	toxin exposure
+cancer of prostate	may coexist with	BPH
+BPH	causes	urinary symptoms
+cancer of prostate	has research focus	targeted therapy
+targeted therapy	inhibits	molecular pathways
+cancer of prostate	may alter	hormone levels
+hormone levels	affect	disease behavior
+cancer of prostate	requires	multidisciplinary care
+multidisciplinary care	involves	specialists
+cancer of prostate	has survival statistic	5-year rate
+5-year rate	reflects	prognosis
+cancer of prostate	benefits from	patient education

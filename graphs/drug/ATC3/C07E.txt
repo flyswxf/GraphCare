@@ -1,0 +1,100 @@
+beta blocking agents	are	drugs
+vasodilators	are	drugs
+beta blocking agents	treat	hypertension
+vasodilators	treat	hypertension
+beta blocking agents	reduce	heart rate
+vasodilators	dilate	blood vessels
+beta blocking agents	block	beta receptors
+vasodilators	increase	blood flow
+beta blocking agents	contraindicated in	asthma
+vasodilators	cause	hypotension
+beta blocking agents	interact with	calcium channel blockers
+vasodilators	interact with	antihypertensives
+beta blocking agents	metabolized in	liver
+vasodilators	act on	vascular smooth muscle
+beta blocking agents	used for	angina
+vasodilators	used for	heart failure
+beta blocking agents	adverse effect	bradycardia
+vasodilators	adverse effect	headache
+beta blocking agents	prescribed for	arrhythmias
+vasodilators	prescribed for	pulmonary hypertension
+beta blocking agents	include	propranolol
+vasodilators	include	nitroglycerin
+beta blocking agents	contraindicated in	heart block
+vasodilators	contraindicated in	aortic stenosis
+beta blocking agents	monitored via	blood pressure
+vasodilators	monitored via	heart rate
+beta blocking agents	increase	exercise tolerance
+vasodilators	decrease	cardiac workload
+beta blocking agents	affect	sympathetic nervous system
+vasodilators	affect	vascular resistance
+beta blocking agents	classified as	cardioselective
+vasodilators	classified as	arterial dilators
+beta blocking agents	excreted via	kidneys
+vasodilators	excreted via	liver
+beta blocking agents	require	dose titration
+vasodilators	require	blood monitoring
+beta blocking agents	combined with	diuretics
+vasodilators	combined with	ACE inhibitors
+beta blocking agents	caution in	diabetes
+vasodilators	caution in	renal impairment
+beta blocking agents	mechanism	adrenergic antagonism
+vasodilators	mechanism	nitric oxide release
+beta blocking agents	brand	Lopressor
+vasodilators	brand	Minoxidil
+beta blocking agents	pregnancy category	C
+vasodilators	pregnancy category	C
+beta blocking agents	half-life	3-6 hours
+vasodilators	half-life	1-4 hours
+beta blocking agents	onset	1 hour
+vasodilators	onset	5 minutes
+beta blocking agents	duration	12 hours
+vasodilators	duration	4 hours
+beta blocking agents	absorption	oral
+vasodilators	absorption	sublingual
+beta blocking agents	protein binding	50%
+vasodilators	protein binding	60%
+beta blocking agents	metabolism	CYP2D6
+vasodilators	metabolism	hepatic
+beta blocking agents	excretion	urine
+vasodilators	excretion	feces
+beta blocking agents	target	beta-1 receptors
+vasodilators	target	potassium channels
+beta blocking agents	indication	myocardial infarction
+vasodilators	indication	erectile dysfunction
+beta blocking agents	contraindication	cardiogenic shock
+vasodilators	contraindication	phosphodiesterase inhibitors
+beta blocking agents	precaution	elderly
+vasodilators	precaution	hepatic disease
+beta blocking agents	storage	room temperature
+vasodilators	storage	dark place
+beta blocking agents	solubility	lipophilic
+vasodilators	solubility	hydrophilic
+beta blocking agents	bioavailability	50%
+vasodilators	bioavailability	10%
+beta blocking agents	volume of distribution	3 L/kg
+vasodilators	volume of distribution	1 L/kg
+beta blocking agents	clearance	hepatic
+vasodilators	clearance	renal
+beta blocking agents	toxicity	bronchospasm
+vasodilators	toxicity	reflex tachycardia
+beta blocking agents	antidote	glucagon
+vasodilators	antidote	norepinephrine
+beta blocking agents	first dose effect	hypotension
+vasodilators	first dose effect	flushing
+beta blocking agents	withdrawal syndrome	rebound hypertension
+vasodilators	withdrawal syndrome	angina
+beta blocking agents	genetic variation	CYP2D6 poor metabolizers
+vasodilators	genetic variation	ALDH2 deficiency
+beta blocking agents	drug class	antiarrhythmics
+vasodilators	drug class	antihypertensives
+beta blocking agents	receptor selectivity	beta-1
+vasodilators	receptor selectivity	non-selective
+beta blocking agents	clinical trial	mortality reduction
+vasodilators	clinical trial	exercise capacity improvement
+beta blocking agents	guideline recommendation	first-line
+vasodilators	guideline recommendation	adjunct
+beta blocking agents	black box warning	abrupt discontinuation
+vasodilators	black box warning	hypotension
+beta blocking agents	route	intravenous
+vasodilators	route	transdermal

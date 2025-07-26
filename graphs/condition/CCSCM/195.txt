@@ -1,0 +1,100 @@
+puerperium	is a	postpartum period
+puerperium	may cause	postpartum hemorrhage
+postpartum hemorrhage	requires	blood transfusion
+puerperium	may lead to	infection
+infection	is treated with	antibiotics
+puerperium	may cause	thromboembolism
+thromboembolism	is prevented by	anticoagulants
+puerperium	may cause	postpartum depression
+postpartum depression	is treated with	antidepressants
+puerperium	may cause	perineal pain
+perineal pain	is managed with	analgesics
+puerperium	may cause	breastfeeding difficulties
+breastfeeding difficulties	require	lactation consultation
+puerperium	may cause	uterine atony
+uterine atony	is treated with	uterotonics
+puerperium	may cause	mastitis
+mastitis	is treated with	antibiotics
+puerperium	may cause	urinary retention
+urinary retention	requires	catheterization
+puerperium	may cause	anemia
+anemia	is treated with	iron supplements
+puerperium	may cause	wound dehiscence
+wound dehiscence	requires	surgical repair
+puerperium	may cause	hypertensive disorders
+hypertensive disorders	are managed with	antihypertensives
+puerperium	may cause	thyroid dysfunction
+thyroid dysfunction	is treated with	hormone therapy
+puerperium	may cause	diastasis recti
+diastasis recti	requires	physical therapy
+puerperium	may cause	pelvic organ prolapse
+pelvic organ prolapse	is treated with	pessary
+puerperium	may cause	constipation
+constipation	is treated with	laxatives
+puerperium	may cause	incontinence
+incontinence	is treated with	pelvic floor exercises
+puerperium	may cause	fatigue
+fatigue	is managed with	rest
+puerperium	may cause	sleep deprivation
+sleep deprivation	is managed with	sleep hygiene
+puerperium	may cause	weight retention
+weight retention	is managed with	diet
+puerperium	may cause	hair loss
+hair loss	is managed with	nutritional support
+puerperium	may cause	mood swings
+mood swings	are managed with	counseling
+puerperium	may cause	anxiety
+anxiety	is treated with	therapy
+puerperium	may cause	bonding difficulties
+bonding difficulties	require	support groups
+puerperium	may cause	sexual dysfunction
+sexual dysfunction	is managed with	counseling
+puerperium	may cause	back pain
+back pain	is treated with	physical therapy
+puerperium	may cause	hemorrhoids
+hemorrhoids	are treated with	topical creams
+puerperium	may cause	varicose veins
+varicose veins	are treated with	compression stockings
+puerperium	may cause	gestational diabetes persistence
+gestational diabetes persistence	requires	glucose monitoring
+puerperium	may cause	lactation suppression
+lactation suppression	is managed with	medications
+puerperium	may cause	nipple fissures
+nipple fissures	are treated with	lanolin
+puerperium	may cause	engorgement
+engorgement	is managed with	cold packs
+puerperium	may cause	blocked ducts
+blocked ducts	are treated with	massage
+puerperium	may cause	abscess
+abscess	requires	drainage
+puerperium	may cause	endometritis
+endometritis	is treated with	antibiotics
+puerperium	may cause	sepsis
+sepsis	requires	hospitalization
+puerperium	may cause	psychosis
+psychosis	requires	psychiatric care
+puerperium	may cause	PTSD
+PTSD	is treated with	therapy
+puerperium	may cause	bonding delay
+bonding delay	is managed with	kangaroo care
+puerperium	may cause	nutritional deficiencies
+nutritional deficiencies	are treated with	supplements
+puerperium	may cause	dehydration
+dehydration	is treated with	fluids
+puerperium	may cause	electrolyte imbalance
+electrolyte imbalance	is treated with	IV therapy
+puerperium	may cause	allergic reactions
+allergic reactions	are treated with	antihistamines
+puerperium	may cause	medication side effects
+medication side effects	require	dose adjustment
+puerperium	may cause	lactation failure
+lactation failure	requires	formula feeding
+puerperium	may cause	body image issues
+body image issues	are managed with	counseling
+puerperium	may cause	social isolation
+social isolation	is managed with	community support
+puerperium	may cause	financial stress
+financial stress	is managed with	social services
+puerperium	may cause	relationship strain
+relationship strain	is managed with	couples therapy
+puerperium	requires	postpartum checkup

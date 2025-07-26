@@ -1,0 +1,100 @@
+tonsillectomy	is a	surgical procedure
+adenoidectomy	is a	surgical procedure
+tonsillectomy	removes	tonsils
+adenoidectomy	removes	adenoids
+tonsillectomy	treats	chronic tonsillitis
+adenoidectomy	treats	adenoid hypertrophy
+tonsillectomy	prevents	recurrent throat infections
+adenoidectomy	improves	nasal breathing
+tonsillectomy	reduces	snoring
+adenoidectomy	reduces	sleep apnea
+tonsillectomy	requires	general anesthesia
+adenoidectomy	requires	general anesthesia
+tonsillectomy	has risk	bleeding
+adenoidectomy	has risk	bleeding
+tonsillectomy	has complication	pain
+adenoidectomy	has complication	pain
+tonsillectomy	has recovery time	1-2 weeks
+adenoidectomy	has recovery time	1 week
+tonsillectomy	performed by	ENT surgeon
+adenoidectomy	performed by	ENT surgeon
+tonsillectomy	indicated for	peritonsillar abscess
+adenoidectomy	indicated for	otitis media
+tonsillectomy	contraindicated in	bleeding disorders
+adenoidectomy	contraindicated in	cleft palate
+tonsillectomy	uses instrument	scalpel
+adenoidectomy	uses instrument	curette
+tonsillectomy	alternative to	antibiotics
+adenoidectomy	alternative to	nasal steroids
+tonsillectomy	affects	speech
+adenoidectomy	affects	voice
+tonsillectomy	changes	immune function
+adenoidectomy	changes	immune function
+tonsillectomy	increases risk	obesity
+adenoidectomy	increases risk	allergy
+tonsillectomy	decreases risk	strep throat
+adenoidectomy	decreases risk	sinusitis
+tonsillectomy	requires	preoperative testing
+adenoidectomy	requires	preoperative testing
+tonsillectomy	followed by	liquid diet
+adenoidectomy	followed by	soft diet
+tonsillectomy	associated with	dehydration
+adenoidectomy	associated with	nausea
+tonsillectomy	prevents	rheumatic fever
+adenoidectomy	prevents	hearing loss
+tonsillectomy	treats	tonsil stones
+adenoidectomy	treats	nasal obstruction
+tonsillectomy	performed with	adenoidectomy
+adenoidectomy	performed with	tonsillectomy
+tonsillectomy	uses technique	cold dissection
+adenoidectomy	uses technique	electrocautery
+tonsillectomy	alternative technique	coblation
+adenoidectomy	alternative technique	microdebrider
+tonsillectomy	causes	throat swelling
+adenoidectomy	causes	nasal congestion
+tonsillectomy	managed with	analgesics
+adenoidectomy	managed with	analgesics
+tonsillectomy	complication	infection
+adenoidectomy	complication	infection
+tonsillectomy	rare complication	velopharyngeal insufficiency
+adenoidectomy	rare complication	nasopharyngeal stenosis
+tonsillectomy	requires	postoperative care
+adenoidectomy	requires	postoperative care
+tonsillectomy	follow-up	2 weeks
+adenoidectomy	follow-up	1 week
+tonsillectomy	indication	sleep-disordered breathing
+adenoidectomy	indication	nasal obstruction
+tonsillectomy	contraindication	severe anemia
+adenoidectomy	contraindication	acute infection
+tonsillectomy	history	ancient practice
+adenoidectomy	history	19th century
+tonsillectomy	cost	varies
+adenoidectomy	cost	varies
+tonsillectomy	performed in	outpatient setting
+adenoidectomy	performed in	outpatient setting
+tonsillectomy	requires	fasting
+adenoidectomy	requires	fasting
+tonsillectomy	uses	throat pack
+adenoidectomy	uses	headlight
+tonsillectomy	affects	taste
+adenoidectomy	affects	smell
+tonsillectomy	complication	hemorrhage
+adenoidectomy	complication	hemorrhage
+tonsillectomy	prevents	tonsillar cancer
+adenoidectomy	prevents	eustachian tube dysfunction
+tonsillectomy	alternative	laser ablation
+adenoidectomy	alternative	radiofrequency ablation
+tonsillectomy	indication	PFAPA syndrome
+adenoidectomy	indication	chronic rhinosinusitis
+tonsillectomy	contraindication	uncontrolled diabetes
+adenoidectomy	contraindication	bleeding diathesis
+tonsillectomy	preparation	blood tests
+adenoidectomy	preparation	blood tests
+tonsillectomy	outcome measure	symptom resolution
+adenoidectomy	outcome measure	symptom resolution
+tonsillectomy	long-term effect	immune adjustment
+adenoidectomy	long-term effect	facial growth
+tonsillectomy	research area	pain management
+adenoidectomy	research area	minimal invasive techniques
+tonsillectomy	quality measure	readmission rate
+adenoidectomy	quality measure	complication rate

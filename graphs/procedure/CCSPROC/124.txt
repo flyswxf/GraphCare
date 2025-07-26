@@ -1,0 +1,100 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	involves	uterus removal
+hysterectomy	treats	uterine fibroids
+hysterectomy	treats	endometriosis
+hysterectomy	treats	abnormal bleeding
+hysterectomy	treats	uterine prolapse
+hysterectomy	treats	gynecologic cancer
+hysterectomy	has type	abdominal hysterectomy
+hysterectomy	has type	vaginal hysterectomy
+hysterectomy	has type	laparoscopic hysterectomy
+hysterectomy	may involve	ovary removal
+hysterectomy	affects	fertility
+hysterectomy	prevents	pregnancy
+hysterectomy	may cause	menopause
+hysterectomy	requires	general anesthesia
+hysterectomy	followed by	postoperative recovery
+hysterectomy	may need	hospitalization
+hysterectomy	may cause	surgical complications
+hysterectomy	alternative to	hormonal therapy
+hysterectomy	alternative to	myomectomy
+abdominal hysterectomy	involves	abdominal incision
+abdominal hysterectomy	requires	longer recovery
+abdominal hysterectomy	higher risk	infection
+abdominal hysterectomy	preferred for	large uterus
+abdominal hysterectomy	may cause	more scarring
+vaginal hysterectomy	involves	vaginal incision
+vaginal hysterectomy	has	shorter recovery
+vaginal hysterectomy	lower risk	infection
+vaginal hysterectomy	preferred for	prolapse
+vaginal hysterectomy	avoids	abdominal scarring
+abdominal hysterectomy	indicated for	cancer cases
+vaginal hysterectomy	unsuitable for	large fibroids
+hysterectomy	risk factor	blood clots
+hysterectomy	risk factor	urinary incontinence
+hysterectomy	risk factor	bowel dysfunction
+hysterectomy	may require	blood transfusion
+hysterectomy	may lead	pelvic organ prolapse
+hysterectomy	may cause	chronic pain
+hysterectomy	associated with	psychological effects
+hysterectomy	may increase	cardiovascular risk
+hysterectomy	contraindicated in	active infection
+hysterectomy	contraindicated in	severe obesity
+hysterectomy	contraindicated in	coagulation disorder
+hysterectomy	preoperative test	pelvic exam
+hysterectomy	preoperative test	ultrasound
+hysterectomy	preoperative test	blood work
+hysterectomy	preoperative preparation	bowel prep
+hysterectomy	postoperative care	pain management
+hysterectomy	postoperative care	wound care
+hysterectomy	postoperative care	activity restriction
+hysterectomy	postoperative complication	hemorrhage
+hysterectomy	postoperative complication	infection
+hysterectomy	postoperative complication	adhesions
+hysterectomy	postoperative complication	vaginal cuff dehiscence
+hysterectomy	postoperative complication	nerve injury
+hysterectomy	postoperative follow-up	pelvic exam
+hysterectomy	postoperative follow-up	hormone therapy
+hysterectomy	associated with	sexual dysfunction
+hysterectomy	associated with	body image concerns
+hysterectomy	recommended for	adenomyosis
+hysterectomy	recommended for	chronic pelvic pain
+hysterectomy	alternative to	endometrial ablation
+hysterectomy	alternative to	uterine artery embolization
+hysterectomy	influenced by	patient age
+hysterectomy	influenced by	childbearing status
+hysterectomy	influenced by	comorbidities
+vaginal hysterectomy	technique	colpotomy
+vaginal hysterectomy	involves	uterine vessel ligation
+vaginal hysterectomy	may include	salpingo-oophorectomy
+abdominal hysterectomy	technique	Pfannenstiel incision
+abdominal hysterectomy	technique	vertical incision
+abdominal hysterectomy	involves	bladder mobilization
+laparoscopic hysterectomy	uses	camera guidance
+laparoscopic hysterectomy	has	faster recovery
+laparoscopic hysterectomy	reduces	pain
+hysterectomy	may affect	bowel function
+hysterectomy	may affect	bladder function
+hysterectomy	increases risk	osteoporosis
+hysterectomy	increases risk	cardiovascular disease
+hysterectomy	decreases risk	ovarian cancer
+hysterectomy	decreases risk	cervical cancer
+hysterectomy	sometimes includes	lymph node removal
+hysterectomy	sometimes includes	omentectomy
+hysterectomy	sometimes performed with	cystoscopy
+hysterectomy	sometimes performed with	bowel resection
+hysterectomy	requires	preoperative counseling
+hysterectomy	requires	informed consent
+hysterectomy	cost varies by	surgical approach
+hysterectomy	insurance coverage	depends on indication
+hysterectomy	surgical team includes	gynecologist
+hysterectomy	surgical team includes	anesthesiologist
+hysterectomy	surgical team includes	nurses
+hysterectomy	historical method	first performed in 19th century
+hysterectomy	research focuses on	minimally invasive techniques
+hysterectomy	research focuses on	ovarian preservation
+hysterectomy	research focuses on	hormone replacement
+hysterectomy	patient education includes	recovery timeline
+hysterectomy	patient education includes	activity limitations
+hysterectomy	patient education includes	symptom monitoring
+hysterectomy	long-term outcome	improved quality of life

@@ -1,0 +1,100 @@
+enzymes	treat	wounds
+enzymes	treat	ulcers
+enzymes	break down	dead tissue
+dead tissue	impedes	wound healing
+ulcers	are	open sores
+wounds	can become	ulcers
+enzymes	promote	tissue regeneration
+tissue regeneration	accelerates	healing
+enzymes	reduce	inflammation
+inflammation	delays	wound healing
+enzymes	include	proteases
+proteases	degrade	proteins
+proteases	remove	necrotic tissue
+necrotic tissue	harbors	bacteria
+bacteria	cause	infections
+infections	worsen	wounds
+enzymes	include	collagenases
+collagenases	break down	collagen
+collagen	is	structural protein
+structural proteins	form	scar tissue
+scar tissue	affects	wound strength
+enzymes	can be	topical
+topical application	targets	localized wounds
+enzymes	can be	systemic
+systemic administration	treats	internal ulcers
+enzymes	work with	growth factors
+growth factors	stimulate	cell proliferation
+cell proliferation	fills	wound gaps
+enzymes	improve	blood flow
+blood flow	delivers	oxygen
+oxygen	supports	healing
+enzymes	modulate	immune response
+immune response	clears	pathogens
+pathogens	infect	wounds
+enzymes	affect	pH levels
+pH levels	influence	enzyme activity
+enzyme activity	determines	treatment efficacy
+enzymes	derived from	animals
+animal-derived enzymes	may cause	allergies
+allergies	lead to	adverse reactions
+enzymes	derived from	plants
+plant-derived enzymes	are	hypoallergenic
+hypoallergenic enzymes	reduce	side effects
+side effects	include	irritation
+irritation	slows	healing
+enzymes	interact with	antibiotics
+antibiotics	prevent	infections
+infections	complicate	ulcers
+enzymes	complement	debridement
+debridement	removes	damaged tissue
+damaged tissue	obstructs	granulation
+granulation	forms	new tissue
+enzymes	enhance	epithelialization
+epithelialization	closes	wounds
+enzymes	require	moist environment
+moist environment	optimizes	enzyme function
+enzyme function	declines	in dryness
+dryness	causes	scab formation
+scabs	hinder	healing
+enzymes	used for	diabetic ulcers
+diabetic ulcers	result from	poor circulation
+poor circulation	reduces	nutrient delivery
+nutrient delivery	supports	cell repair
+enzymes	used for	pressure ulcers
+pressure ulcers	caused by	prolonged pressure
+prolonged pressure	damages	blood vessels
+blood vessels	supply	oxygen
+enzymes	contraindicated in	active infections
+active infections	need	antibiotics first
+antibiotics	kill	bacteria
+bacteria	produce	toxins
+toxins	damage	healthy tissue
+enzymes	dosage	varies by wound size
+wound size	determines	treatment duration
+treatment duration	affects	recovery time
+enzymes	monitored for	adverse effects
+adverse effects	include	excessive debridement
+excessive debridement	exposes	healthy tissue
+healthy tissue	needs	protection
+enzymes	combined with	dressings
+dressings	maintain	moisture
+moisture	facilitates	enzyme action
+enzyme action	peaks	at optimal temperature
+optimal temperature	is	body temperature
+body temperature	varies	with infection
+infection	increases	local temperature
+local temperature	affects	enzyme stability
+enzyme stability	impacts	shelf life
+shelf life	determines	storage conditions
+storage conditions	include	refrigeration
+refrigeration	preserves	enzyme potency
+enzyme potency	declines	over time
+time	influences	treatment frequency
+treatment frequency	adjusted by	wound progress
+wound progress	assessed by	healthcare providers
+healthcare providers	prescribe	enzyme therapy
+enzyme therapy	tailored to	patient needs
+patient needs	depend on	wound type
+wound type	classified by	depth
+depth	indicates	healing time

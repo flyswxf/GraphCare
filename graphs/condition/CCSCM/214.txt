@@ -1,0 +1,100 @@
+digestive congenital anomalies	include	esophageal atresia
+digestive congenital anomalies	include	Hirschsprung disease
+digestive congenital anomalies	include	intestinal malrotation
+digestive congenital anomalies	include	biliary atresia
+digestive congenital anomalies	include	anorectal malformations
+esophageal atresia	causes	feeding difficulties
+Hirschsprung disease	causes	intestinal obstruction
+intestinal malrotation	risks	volvulus
+biliary atresia	leads to	liver cirrhosis
+anorectal malformations	require	surgical correction
+digestive congenital anomalies	diagnosed with	ultrasound
+digestive congenital anomalies	diagnosed with	contrast enema
+digestive congenital anomalies	diagnosed with	biopsy
+digestive congenital anomalies	associated with	genetic syndromes
+digestive congenital anomalies	may require	neonatal surgery
+esophageal atresia	often co-occurs with	tracheoesophageal fistula
+Hirschsprung disease	involves	aganglionic colon
+intestinal malrotation	may cause	Ladd's bands
+biliary atresia	treated with	Kasai procedure
+anorectal malformations	classified by	Wingspread classification
+digestive congenital anomalies	may lead to	failure to thrive
+digestive congenital anomalies	may lead to	electrolyte imbalance
+digestive congenital anomalies	may lead to	sepsis
+digestive congenital anomalies	monitored by	pediatric gastroenterologist
+digestive congenital anomalies	may require	parenteral nutrition
+esophageal atresia	repaired with	primary anastomosis
+Hirschsprung disease	diagnosed with	rectal suction biopsy
+intestinal malrotation	diagnosed with	upper GI series
+biliary atresia	indicated by	acholic stools
+anorectal malformations	associated with	VACTERL association
+digestive congenital anomalies	may result in	short bowel syndrome
+digestive congenital anomalies	may require	bowel resection
+digestive congenital anomalies	may complicate	pregnancy outcomes
+digestive congenital anomalies	may affect	growth development
+digestive congenital anomalies	may require	multidisciplinary care
+esophageal atresia	associated with	polyhydramnios
+Hirschsprung disease	may cause	enterocolitis
+intestinal malrotation	may lead to	midgut volvulus
+biliary atresia	may require	liver transplant
+anorectal malformations	may coexist with	sacral anomalies
+digestive congenital anomalies	screened by	newborn examination
+digestive congenital anomalies	may involve	prenatal diagnosis
+digestive congenital anomalies	may correlate with	chromosomal abnormalities
+digestive congenital anomalies	may require	stoma creation
+digestive congenital anomalies	may need	long-term follow-up
+esophageal atresia	may require	gastrostomy tube
+Hirschsprung disease	treated with	pull-through surgery
+intestinal malrotation	prevented by	Ladd's procedure
+biliary atresia	manifests as	conjugated hyperbilirubinemia
+anorectal malformations	evaluated with	MRI pelvis
+digestive congenital anomalies	may lead to	feeding intolerance
+digestive congenital anomalies	may cause	chronic constipation
+digestive congenital anomalies	may result in	malabsorption
+digestive congenital anomalies	may require	specialized formulas
+digestive congenital anomalies	may affect	quality of life
+esophageal atresia	risks	anastomotic leak
+Hirschsprung disease	risks	postoperative incontinence
+intestinal malrotation	may cause	acute abdomen
+biliary atresia	complications include	portal hypertension
+anorectal malformations	may require	colostomy
+digestive congenital anomalies	may associate with	cardiac anomalies
+digestive congenital anomalies	may coexist with	renal anomalies
+digestive congenital anomalies	may link to	neural tube defects
+digestive congenital anomalies	may need	genetic counseling
+digestive congenital anomalies	may require	rehabilitation services
+esophageal atresia	postoperative	requires	esophageal dilatation
+Hirschsprung disease	postoperative	risks	adhesive obstruction
+intestinal malrotation	emergency presentation	requires	laparotomy
+biliary atresia	medical management	includes	fat-soluble vitamins
+anorectal malformations	surgical repair	involves	posterior sagittal approach
+digestive congenital anomalies	may lead to	developmental delay
+digestive congenital anomalies	may cause	chronic pain
+digestive congenital anomalies	may result in	social stigma
+digestive congenital anomalies	may need	psychological support
+digestive congenital anomalies	may require	home nursing care
+esophageal atresia	long-term	risks	GERD
+Hirschsprung disease	long-term	risks	soiling
+intestinal malrotation	post-surgical	risks	adhesive obstruction
+biliary atresia	post-Kasai	risks	cholangitis
+anorectal malformations	postoperative	requires	bowel management
+digestive congenital anomalies	research involves	stem cell therapy
+digestive congenital anomalies	research involves	tissue engineering
+digestive congenital anomalies	prevention includes	folic acid supplementation
+digestive congenital anomalies	prevention includes	avoiding teratogens
+digestive congenital anomalies	registries track	outcome data
+esophageal atresia	animal models use	Adriamycin exposure
+Hirschsprung disease	genetic studies identify	RET mutations
+intestinal malrotation	embryology involves	midgut rotation
+biliary atresia	research explores	viral etiology
+anorectal malformations	classification systems include	Krickenbeck
+digestive congenital anomalies	nursing care involves	family education
+digestive congenital anomalies	nursing care involves	stoma care
+digestive congenital anomalies	nursing care involves	pain management
+digestive congenital anomalies	nursing care involves	growth monitoring
+digestive congenital anomalies	nursing care involves	transition planning
+esophageal atresia	quality metrics track	stricture rates
+Hirschsprung disease	quality metrics track	enterocolitis episodes
+intestinal malrotation	quality metrics track	time-to-diagnosis
+biliary atresia	quality metrics track	native liver survival
+anorectal malformations	quality metrics track	continence outcomes

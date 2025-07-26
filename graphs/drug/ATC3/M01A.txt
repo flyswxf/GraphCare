@@ -1,0 +1,100 @@
+antiinflammatory and antirheumatic products	non-steroids	is a	drug class
+antiinflammatory and antirheumatic products	non-steroids	includes	NSAIDs
+NSAIDs	treat	inflammation
+NSAIDs	relieve	pain
+NSAIDs	reduce	fever
+NSAIDs	inhibit	COX enzymes
+COX enzymes	produce	prostaglandins
+prostaglandins	mediate	inflammation
+NSAIDs	have	gastrointestinal side effects
+gastrointestinal side effects	include	stomach ulcers
+NSAIDs	may cause	kidney damage
+NSAIDs	interact with	blood pressure medications
+NSAIDs	contraindicated in	peptic ulcer disease
+NSAIDs	available as	oral tablets
+NSAIDs	available as	topical gels
+ibuprofen	is a	NSAID
+naproxen	is a	NSAID
+diclofenac	is a	NSAID
+celecoxib	is a	COX-2 inhibitor
+COX-2 inhibitors	have less	gastrointestinal toxicity
+NSAIDs	used for	osteoarthritis
+osteoarthritis	causes	joint pain
+NSAIDs	used for	rheumatoid arthritis
+rheumatoid arthritis	is an	autoimmune disease
+NSAIDs	used for	gout
+gout	involves	uric acid crystals
+NSAIDs	reduce	swelling
+swelling	is a sign of	inflammation
+NSAIDs	affect	platelet function
+platelet function	impacts	blood clotting
+NSAIDs	may increase	bleeding risk
+bleeding risk	is concern for	surgery patients
+NSAIDs	should be avoided	before surgery
+elderly patients	need lower	NSAID doses
+NSAIDs	metabolized in	liver
+liver disease	requires	NSAID dose adjustment
+NSAIDs	excreted by	kidneys
+kidney disease	requires	NSAID caution
+NSAIDs	compete with	warfarin
+warfarin	is a	blood thinner
+NSAIDs	may reduce	diuretic effect
+diuretics	treat	hypertension
+NSAIDs	may worsen	heart failure
+heart failure	involves	fluid retention
+NSAIDs	available as	prescription
+NSAIDs	available as	over-the-counter
+overuse of NSAIDs	leads to	rebound headache
+rebound headache	requires	medication withdrawal
+NSAIDs	combined with	opioids
+opioids	provide	stronger pain relief
+NSAIDs	compared to	acetaminophen
+acetaminophen	lacks	anti-inflammatory effect
+NSAIDs	preferred for	musculoskeletal pain
+musculoskeletal pain	includes	back pain
+NSAIDs	not effective for	neuropathic pain
+neuropathic pain	treated with	anticonvulsants
+NSAIDs	contraindicated in	third trimester pregnancy
+third trimester pregnancy	risks	premature ductus closure
+NSAIDs	may cause	tinnitus
+tinnitus	is	ringing in ears
+NSAIDs	may increase	cardiovascular risk
+cardiovascular risk	is higher with	long-term use
+NSAIDs	prescribed for	dysmenorrhea
+dysmenorrhea	is	painful menstruation
+NSAIDs	inhibit	uterine contractions
+uterine contractions	cause	menstrual pain
+NSAIDs	used for	dental pain
+dental pain	often requires	short-term NSAIDs
+NSAIDs	alternative to	corticosteroids
+corticosteroids	have more	side effects
+NSAIDs	interact with	SSRIs
+SSRIs	increase	bleeding risk
+NSAIDs	may cause	photosensitivity
+photosensitivity	requires	sun protection
+NSAIDs	available as	suppositories
+suppositories	bypass	stomach irritation
+NSAIDs	used in	sports injuries
+sports injuries	involve	soft tissue damage
+NSAIDs	delay	healing process
+healing process	requires	inflammation phase
+NSAIDs	combined with	proton pump inhibitors
+proton pump inhibitors	protect	stomach lining
+NSAIDs	differ in	half-life
+half-life	determines	dosing frequency
+NSAIDs	have	ceiling effect
+ceiling effect	limits	maximum efficacy
+NSAIDs	not recommended for	chronic daily use
+chronic daily use	increases	complication risk
+NSAIDs	prescribed with	physical therapy
+physical therapy	improves	joint mobility
+NSAIDs	used for	post-operative pain
+post-operative pain	requires	multimodal approach
+NSAIDs	alternative to	opioid analgesics
+opioid analgesics	risk	dependence
+NSAIDs	vary in	selectivity
+selectivity	affects	side effect profile
+NSAIDs	tested in	clinical trials
+clinical trials	assess	safety and efficacy
+NSAIDs	subject to	pharmacovigilance
+pharmacovigilance	monitors	adverse effects

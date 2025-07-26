@@ -1,0 +1,100 @@
+cancer of colon	is a type of	colorectal cancer
+cancer of colon	originates in	colon cells
+cancer of colon	may cause	bowel obstruction
+cancer of colon	may cause	anemia
+cancer of colon	may cause	weight loss
+cancer of colon	may metastasize to	liver
+cancer of colon	may metastasize to	lungs
+cancer of colon	may metastasize to	lymph nodes
+cancer of colon	is diagnosed via	colonoscopy
+cancer of colon	is diagnosed via	biopsy
+cancer of colon	is diagnosed via	CT scan
+cancer of colon	is diagnosed via	CEA test
+cancer of colon	is treated with	surgery
+cancer of colon	is treated with	chemotherapy
+cancer of colon	is treated with	radiation therapy
+cancer of colon	is treated with	targeted therapy
+cancer of colon	is treated with	immunotherapy
+oxaliplatin	is used for	chemotherapy for colon cancer
+capecitabine	is used for	chemotherapy for colon cancer
+5-FU	is used for	chemotherapy for colon cancer
+bevacizumab	is a	targeted therapy for colon cancer
+cetuximab	is a	targeted therapy for colon cancer
+pembrolizumab	is an	immunotherapy for colon cancer
+colonoscopy	is a	screening test for colon cancer
+fecal occult blood test	is a	screening test for colon cancer
+sigmoidoscopy	is a	screening test for colon cancer
+family history	is a risk factor for	colon cancer
+age	is a risk factor for	colon cancer
+smoking	is a risk factor for	colon cancer
+obesity	is a risk factor for	colon cancer
+red meat consumption	is a risk factor for	colon cancer
+processed meat consumption	is a risk factor for	colon cancer
+alcohol consumption	is a risk factor for	colon cancer
+inflammatory bowel disease	increases risk of	colon cancer
+ulcerative colitis	increases risk of	colon cancer
+Crohn's disease	increases risk of	colon cancer
+polyps	may develop into	colon cancer
+adenomatous polyps	are precursors of	colon cancer
+colon cancer	may cause	abdominal pain
+colon cancer	may cause	blood in stool
+colon cancer	may cause	change in bowel habits
+colon cancer	may cause	fatigue
+colon cancer	may require	colostomy
+colon cancer	has stages	I-IV
+stage I colon cancer	has best	prognosis
+stage IV colon cancer	has worst	prognosis
+colon cancer	is classified by	TNM system
+KRAS mutation	affects treatment of	colon cancer
+BRAF mutation	affects treatment of	colon cancer
+microsatellite instability	affects treatment of	colon cancer
+colon cancer	may recur after	treatment
+colon cancer	requires	follow-up care
+CEA levels	are monitored for	colon cancer recurrence
+colon cancer	has subtypes	adenocarcinoma
+colon cancer	has subtypes	mucinous adenocarcinoma
+colon cancer	has subtypes	signet ring cell carcinoma
+colon cancer	increases risk of	deep vein thrombosis
+colon cancer	increases risk of	pulmonary embolism
+colon cancer	is associated with	Lynch syndrome
+colon cancer	is associated with	FAP
+colon cancer	has genetic component	hereditary
+colon cancer	can be prevented by	screening
+colon cancer	can be prevented by	healthy diet
+colon cancer	can be prevented by	exercise
+colon cancer	can be prevented by	aspirin use
+colon cancer	has biomarker	CEA
+colon cancer	has biomarker	CA 19-9
+colon cancer	has biomarker	MSI
+colon cancer	requires	multidisciplinary care
+colon cancer	may spread via	lymphatic system
+colon cancer	may spread via	bloodstream
+colon cancer	may spread via	direct extension
+colon cancer	has survival rate	stage-dependent
+colon cancer	is studied in	clinical trials
+colon cancer	has research focus	immunotherapy
+colon cancer	has research focus	liquid biopsy
+colon cancer	has research focus	personalized medicine
+colon cancer	requires	pain management
+colon cancer	requires	nutritional support
+colon cancer	may cause	bowel perforation
+colon cancer	may cause	cachexia
+colon cancer	affects quality of	life
+colon cancer	increases healthcare	costs
+colon cancer	has complication	infection
+colon cancer	has complication	bleeding
+colon cancer	has complication	bowel obstruction
+colon cancer	may be treated with	palliative care
+colon cancer	may require	stenting
+colon cancer	may require	ostomy
+colon cancer	has histological grade	well-differentiated
+colon cancer	has histological grade	poorly-differentiated
+colon cancer	may present with	iron deficiency
+colon cancer	may present with	jaundice
+colon cancer	has molecular subtype	CMS1
+colon cancer	has molecular subtype	CMS2
+colon cancer	has molecular subtype	CMS3
+colon cancer	has molecular subtype	CMS4
+colon cancer	has treatment side effects	neuropathy
+colon cancer	has treatment side effects	diarrhea
+colon cancer	has treatment side effects	nausea

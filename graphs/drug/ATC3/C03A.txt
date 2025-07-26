@@ -1,0 +1,100 @@
+low-ceiling diuretics	are a class of	diuretics
+thiazides	are a subclass of	low-ceiling diuretics
+low-ceiling diuretics	act on	nephron
+thiazides	act on	distal convoluted tubule
+low-ceiling diuretics	inhibit	sodium reabsorption
+thiazides	increase	potassium excretion
+low-ceiling diuretics	treat	hypertension
+thiazides	treat	edema
+low-ceiling diuretics	can cause	hypokalemia
+thiazides	can cause	hyponatremia
+low-ceiling diuretics	may lead to	metabolic alkalosis
+thiazides	may lead to	hypercalcemia
+low-ceiling diuretics	are less potent than	loop diuretics
+thiazides	are first-line treatment for	essential hypertension
+low-ceiling diuretics	work via	carbonic anhydrase inhibition
+thiazides	work via	sodium-chloride symporter inhibition
+low-ceiling diuretics	can interact with	lithium
+thiazides	can interact with	digoxin
+low-ceiling diuretics	contraindicated in	renal failure
+thiazides	contraindicated in	sulfa allergy
+low-ceiling diuretics	include	thiazide-like diuretics
+thiazides	include	hydrochlorothiazide
+hydrochlorothiazide	is an example of	thiazide
+low-ceiling diuretics	excreted via	kidneys
+thiazides	excreted via	urine
+low-ceiling diuretics	duration of action	6-12 hours
+thiazides	duration of action	12-24 hours
+low-ceiling diuretics	onset of action	1-2 hours
+thiazides	onset of action	2 hours
+low-ceiling diuretics	peak effect	4-6 hours
+thiazides	peak effect	4 hours
+low-ceiling diuretics	bioavailability	60-70%
+thiazides	bioavailability	65-75%
+low-ceiling diuretics	protein binding	40%
+thiazides	protein binding	60%
+low-ceiling diuretics	half-life	6-15 hours
+thiazides	half-life	10-15 hours
+low-ceiling diuretics	metabolism	hepatic
+thiazides	metabolism	minimal
+low-ceiling diuretics	pregnancy category	B
+thiazides	pregnancy category	C
+low-ceiling diuretics	may worsen	gout
+thiazides	may worsen	diabetes
+low-ceiling diuretics	can reduce	calcium excretion
+thiazides	can reduce	osteoporosis risk
+low-ceiling diuretics	increase	uric acid levels
+thiazides	increase	blood glucose
+low-ceiling diuretics	decrease	blood volume
+thiazides	decrease	blood pressure
+low-ceiling diuretics	combined with	ACE inhibitors
+thiazides	combined with	beta blockers
+low-ceiling diuretics	used for	heart failure
+thiazides	used for	nephrolithiasis prevention
+low-ceiling diuretics	mechanism	Na+/Cl- cotransport inhibition
+thiazides	mechanism	NaCl reabsorption inhibition
+low-ceiling diuretics	adverse effect	dizziness
+thiazides	adverse effect	impotence
+low-ceiling diuretics	monitoring required	electrolytes
+thiazides	monitoring required	renal function
+low-ceiling diuretics	overdose symptom	dehydration
+thiazides	overdose symptom	hypokalemia
+low-ceiling diuretics	brand name	Diuril
+thiazides	brand name	Hygroton
+low-ceiling diuretics	chemical class	benzothiadiazines
+thiazides	chemical class	sulfonamides
+low-ceiling diuretics	discovered in	1950s
+thiazides	discovered in	1957
+low-ceiling diuretics	alternative to	loop diuretics
+thiazides	alternative to	potassium-sparing diuretics
+low-ceiling diuretics	cost	low
+thiazides	cost	very low
+low-ceiling diuretics	availability	generic
+thiazides	availability	widely available
+low-ceiling diuretics	prescription needed	yes
+thiazides	prescription needed	yes
+low-ceiling diuretics	storage	room temperature
+thiazides	storage	dry place
+low-ceiling diuretics	administration	oral
+thiazides	administration	once daily
+low-ceiling diuretics	absorption	rapid
+thiazides	absorption	incomplete
+low-ceiling diuretics	distribution	extracellular fluid
+thiazides	distribution	plasma
+low-ceiling diuretics	elimination	renal
+thiazides	elimination	unchanged
+low-ceiling diuretics	special population	elderly
+thiazides	special population	renal impairment
+low-ceiling diuretics	black box warning	none
+thiazides	black box warning	none
+low-ceiling diuretics	pregnancy risk	potential fetal harm
+thiazides	pregnancy risk	possible neonatal complications
+low-ceiling diuretics	lactation risk	caution advised
+thiazides	lactation risk	excreted in milk
+low-ceiling diuretics	geriatric use	increased sensitivity
+thiazides	geriatric use	dose adjustment
+low-ceiling diuretics	renal dose adjustment	required
+thiazides	renal dose adjustment	creatinine clearance
+low-ceiling diuretics	hepatic dose adjustment	none
+thiazides	hepatic dose adjustment	none
+low-ceiling diuretics	dialysis	not removed

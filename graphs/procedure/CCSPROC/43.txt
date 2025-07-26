@@ -1,0 +1,100 @@
+heart valve procedure	is a	cardiac surgery
+heart valve procedure	treats	valvular heart disease
+heart valve procedure	performed by	cardiothoracic surgeon
+heart valve procedure	requires	general anesthesia
+valve repair	is a type of	heart valve procedure
+valve replacement	is a type of	heart valve procedure
+mechanical valve	used in	valve replacement
+bioprosthetic valve	used in	valve replacement
+transcatheter aortic valve replacement	is a type of	valve replacement
+mitral valve repair	is a type of	valve repair
+aortic valve replacement	is a type of	valve replacement
+heart valve procedure	requires	preoperative assessment
+heart valve procedure	may cause	bleeding
+heart valve procedure	may cause	infection
+heart valve procedure	requires	anticoagulation therapy
+warfarin	used for	anticoagulation therapy
+heart valve procedure	requires	postoperative monitoring
+echocardiography	used for	postoperative monitoring
+heart valve procedure	associated with	stroke risk
+heart valve procedure	may lead	heart failure
+heart valve procedure	improves	cardiac output
+heart valve procedure	corrects	valvular regurgitation
+heart valve procedure	relieves	valvular stenosis
+rheumatic fever	causes	valvular heart disease
+endocarditis	causes	valvular heart disease
+degenerative valve disease	causes	valvular heart disease
+congenital heart defect	causes	valvular heart disease
+heart valve procedure	performed in	operating room
+heart valve procedure	requires	cardiopulmonary bypass
+heart valve procedure	may require	blood transfusion
+heart valve procedure	contraindicated in	severe comorbidities
+heart valve procedure	requires	intensive care unit admission
+heart valve procedure	followed by	cardiac rehabilitation
+aspirin	used for	postoperative antiplatelet therapy
+clopidogrel	used for	postoperative antiplatelet therapy
+mechanical valve	requires	lifelong anticoagulation
+bioprosthetic valve	has limited	durability
+transcatheter aortic valve replacement	suitable for	high-risk patients
+mitral valve repair	preserves	native valve
+aortic valve replacement	treats	aortic stenosis
+heart valve procedure	affects	quality of life
+heart valve procedure	reduces	symptoms
+dyspnea	symptom of	valvular heart disease
+chest pain	symptom of	valvular heart disease
+fatigue	symptom of	valvular heart disease
+palpitations	symptom of	valvular heart disease
+syncope	symptom of	valvular heart disease
+heart valve procedure	requires	preoperative antibiotics
+heart valve procedure	prevents	disease progression
+heart valve procedure	extends	life expectancy
+anticoagulation therapy	prevents	thromboembolism
+international normalized ratio	monitors	warfarin therapy
+heart valve procedure	associated with	hospital readmission
+postoperative atrial fibrillation	complication of	heart valve procedure
+amiodarone	treats	postoperative atrial fibrillation
+heart valve procedure	requires	follow-up visits
+prosthetic valve endocarditis	complication of	valve replacement
+paravalvular leak	complication of	valve replacement
+patient-prosthesis mismatch	complication of	valve replacement
+heart valve procedure	improves	exercise capacity
+heart valve procedure	normalizes	hemodynamics
+heart valve procedure	reduces	left ventricular hypertrophy
+heart valve procedure	prevents	pulmonary hypertension
+diuretic	manages	fluid overload
+beta blocker	controls	heart rate
+ACE inhibitor	protects	ventricular function
+heart valve procedure	requires	multidisciplinary team
+cardiac anesthesiologist	involved in	heart valve procedure
+perfusionist	operates	cardiopulmonary bypass
+intensive care specialist	manages	postoperative care
+physical therapist	assists	recovery
+nutritionist	optimizes	postoperative nutrition
+smoking cessation	improves	surgical outcomes
+diabetes control	improves	surgical outcomes
+hypertension control	improves	surgical outcomes
+heart valve procedure	contraindicated in	active infection
+emergency surgery	required for	acute valve dysfunction
+elective surgery	planned for	chronic valve disease
+minimally invasive approach	alternative to	conventional surgery
+robotic-assisted surgery	performed for	valve repair
+heart valve procedure	requires	preoperative imaging
+transthoracic echocardiography	evaluates	valve function
+transesophageal echocardiography	evaluates	valve function
+cardiac CT	assesses	valve anatomy
+cardiac MRI	assesses	ventricular function
+coronary angiography	rules out	coronary artery disease
+pulmonary function test	assesses	respiratory status
+carotid ultrasound	assesses	stroke risk
+frailty assessment	predicts	surgical outcomes
+Society of Thoracic Surgeons score	predicts	surgical risk
+EuroSCORE	predicts	surgical mortality
+heart valve procedure	requires	informed consent
+shared decision making	important for	treatment choice
+palliative care	option for	inoperable patients
+valve-in-valve procedure	treats	failed bioprosthesis
+percutaneous mitral repair	alternative to	surgery
+balloon valvuloplasty	treats	valve stenosis
+heart valve procedure	followed by	lifelong surveillance
+antimicrobial prophylaxis	prevents	endocarditis
+vaccination	recommended for	valve patients

@@ -1,0 +1,100 @@
+opioid analgesics	is a	drug class
+opioid analgesics	includes	morphine
+opioid analgesics	includes	oxycodone
+opioid analgesics	includes	fentanyl
+opioid analgesics	used for	pain management
+opioid analgesics	has risk	addiction
+opioid analgesics	can cause	respiratory depression
+opioid analgesics	interacts with	benzodiazepines
+opioid analgesics	contraindicated in	asthma
+opioid analgesics	metabolized by	liver
+morphine	derived from	opium
+oxycodone	often combined with	acetaminophen
+fentanyl	is	synthetic opioid
+addiction	requires	treatment
+respiratory depression	monitored with	pulse oximetry
+benzodiazepines	increase risk	overdose
+liver	metabolizes	drugs
+pain management	involves	dosing schedule
+opioid analgesics	prescribed for	post-surgery pain
+opioid analgesics	alternative to	NSAIDs
+NSAIDs	used for	mild pain
+opioid analgesics	can lead	tolerance
+tolerance	may require	dose adjustment
+opioid analgesics	associated with	constipation
+constipation	managed with	laxatives
+opioid analgesics	excreted by	kidneys
+kidneys	filter	blood
+overdose	treated with	naloxone
+naloxone	reverses	opioid effects
+opioid analgesics	regulated by	FDA
+FDA	approves	medications
+opioid analgesics	abused as	recreational drugs
+recreational drugs	cause	health risks
+opioid analgesics	studied in	clinical trials
+clinical trials	assess	efficacy
+efficacy	measures	treatment success
+opioid analgesics	contraindicated in	pregnancy
+pregnancy	requires	careful medication use
+opioid analgesics	can impair	driving ability
+driving ability	affected by	sedation
+sedation	monitored in	post-operative care
+post-operative care	includes	pain assessment
+pain assessment	uses	visual analog scale
+visual analog scale	measures	pain intensity
+opioid analgesics	alternative	non-opioid analgesics
+non-opioid analgesics	include	acetaminophen
+acetaminophen	treats	fever
+fever	symptom of	infection
+infection	treated with	antibiotics
+antibiotics	target	bacteria
+bacteria	cause	diseases
+diseases	diagnosed with	lab tests
+lab tests	analyze	blood samples
+blood samples	collected by	phlebotomist
+phlebotomist	works in	hospitals
+hospitals	provide	healthcare
+healthcare	involves	multidisciplinary teams
+multidisciplinary teams	include	nurses
+nurses	administer	medications
+medications	stored in	pharmacy
+pharmacy	dispenses	prescriptions
+prescriptions	written by	doctors
+doctors	specialize in	anesthesiology
+anesthesiology	focuses on	pain control
+pain control	achieved with	epidurals
+epidurals	used in	childbirth
+childbirth	involves	labor pain
+labor pain	managed with	analgesics
+analgesics	categorized as	opioids
+opioids	bind to	receptors
+receptors	located in	brain
+brain	regulates	pain perception
+pain perception	influenced by	emotions
+emotions	affect	recovery
+recovery	supported by	physical therapy
+physical therapy	improves	mobility
+mobility	enhances	quality of life
+quality of life	measured by	surveys
+surveys	collect	patient feedback
+patient feedback	guides	treatment plans
+treatment plans	customized for	individuals
+individuals	have	medical histories
+medical histories	include	allergies
+allergies	prevent	certain medications
+certain medications	cause	adverse reactions
+adverse reactions	documented in	EHRs
+EHRs	accessed by	healthcare providers
+healthcare providers	follow	guidelines
+guidelines	published by	medical associations
+medical associations	promote	best practices
+best practices	reduce	medical errors
+medical errors	lead to	malpractice claims
+malpractice claims	involve	lawsuits
+lawsuits	require	legal counsel
+legal counsel	advises	hospitals
+hospitals	implement	risk management
+risk management	prevents	patient harm
+patient harm	minimized by	protocols
+protocols	developed by	experts
+experts	research	opioid alternatives

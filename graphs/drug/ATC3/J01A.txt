@@ -1,0 +1,100 @@
+tetracycline antibiotics	is a	drug class
+tetracycline antibiotics	treat	bacterial infections
+tetracycline antibiotics	inhibit	protein synthesis
+tetracycline antibiotics	target	30S ribosomal subunit
+tetracycline antibiotics	include	doxycycline
+tetracycline antibiotics	include	minocycline
+tetracycline antibiotics	include	tetracycline
+tetracycline antibiotics	contraindicated in	pregnancy
+tetracycline antibiotics	cause	tooth discoloration
+tetracycline antibiotics	cause	photosensitivity
+tetracycline antibiotics	interact with	antacids
+tetracycline antibiotics	interact with	dairy products
+tetracycline antibiotics	used for	acne
+tetracycline antibiotics	used for	Lyme disease
+tetracycline antibiotics	used for	chlamydia
+tetracycline antibiotics	used for	pneumonia
+tetracycline antibiotics	resistance	common
+tetracycline antibiotics	resistance mediated by	efflux pumps
+tetracycline antibiotics	resistance mediated by	ribosomal protection
+tetracycline antibiotics	derived from	Streptomyces bacteria
+tetracycline antibiotics	discovered in	1940s
+tetracycline antibiotics	broad-spectrum	activity
+tetracycline antibiotics	effective against	gram-positive bacteria
+tetracycline antibiotics	effective against	gram-negative bacteria
+tetracycline antibiotics	ineffective against	fungi
+tetracycline antibiotics	ineffective against	viruses
+tetracycline antibiotics	prescribed as	oral tablets
+tetracycline antibiotics	prescribed as	topical cream
+tetracycline antibiotics	prescribed as	intravenous solution
+tetracycline antibiotics	metabolized in	liver
+tetracycline antibiotics	excreted via	kidneys
+tetracycline antibiotics	half-life	varies
+tetracycline antibiotics	side effects	gastrointestinal upset
+tetracycline antibiotics	side effects	dizziness
+tetracycline antibiotics	side effects	headache
+tetracycline antibiotics	can cause	esophageal irritation
+tetracycline antibiotics	should be taken with	water
+tetracycline antibiotics	avoided in	children under 8
+tetracycline antibiotics	avoided in	renal impairment
+tetracycline antibiotics	alternative to	penicillin
+tetracycline antibiotics	used in	veterinary medicine
+tetracycline antibiotics	used in	malaria prophylaxis
+tetracycline antibiotics	prescribed for	rosacea
+tetracycline antibiotics	mechanism	bacteriostatic
+tetracycline antibiotics	can lead	superinfection
+tetracycline antibiotics	can lead	Clostridioides difficile infection
+tetracycline antibiotics	classification	natural tetracyclines
+tetracycline antibiotics	classification	semi-synthetic tetracyclines
+tetracycline antibiotics	chemical structure	naphthacene core
+tetracycline antibiotics	absorption	decreased by food
+tetracycline antibiotics	absorption	decreased by divalent cations
+tetracycline antibiotics	bioavailability	variable
+tetracycline antibiotics	distribution	wide
+tetracycline antibiotics	crosses	blood-brain barrier
+tetracycline antibiotics	crosses	placenta
+tetracycline antibiotics	found in	breast milk
+tetracycline antibiotics	binds to	calcium
+tetracycline antibiotics	binds to	magnesium
+tetracycline antibiotics	binds to	aluminum
+tetracycline antibiotics	contraindicated with	retinoids
+tetracycline antibiotics	contraindicated with	warfarin
+tetracycline antibiotics	increases effect of	warfarin
+tetracycline antibiotics	decreases effect of	oral contraceptives
+tetracycline antibiotics	monitoring required	liver function
+tetracycline antibiotics	monitoring required	kidney function
+tetracycline antibiotics	overdose symptom	nausea
+tetracycline antibiotics	overdose symptom	vomiting
+tetracycline antibiotics	overdose symptom	diarrhea
+tetracycline antibiotics	storage	room temperature
+tetracycline antibiotics	storage	away from light
+tetracycline antibiotics	solubility	water
+tetracycline antibiotics	solubility	alcohol
+tetracycline antibiotics	first-line treatment	brucellosis
+tetracycline antibiotics	first-line treatment	rickettsial infections
+tetracycline antibiotics	alternative treatment	syphilis
+tetracycline antibiotics	alternative treatment	gonorrhea
+tetracycline antibiotics	off-label use	periodontal disease
+tetracycline antibiotics	off-label use	rheumatoid arthritis
+tetracycline antibiotics	combination therapy	bismuth
+tetracycline antibiotics	combination therapy	metronidazole
+tetracycline antibiotics	combination therapy	proton pump inhibitors
+tetracycline antibiotics	research use	cancer
+tetracycline antibiotics	research use	neurodegenerative diseases
+tetracycline antibiotics	research use	anti-inflammatory effects
+tetracycline antibiotics	patent	expired
+tetracycline antibiotics	generic availability	yes
+tetracycline antibiotics	cost	low
+tetracycline antibiotics	formulation	capsule
+tetracycline antibiotics	formulation	syrup
+tetracycline antibiotics	formulation	ointment
+tetracycline antibiotics	approval	FDA
+tetracycline antibiotics	approval	EMA
+tetracycline antibiotics	pregnancy category	D
+tetracycline antibiotics	lactation risk	high
+tetracycline antibiotics	brand names	Vibramycin
+tetracycline antibiotics	brand names	Minocin
+tetracycline antibiotics	brand names	Sumycin
+tetracycline antibiotics	chemical formula	C22H24N2O8
+tetracycline antibiotics	molecular weight	444.44 g/mol
+tetracycline antibiotics	stability	pH-dependent

@@ -1,0 +1,100 @@
+all other therapeutic products	include	medical devices
+all other therapeutic products	include	dietary supplements
+all other therapeutic products	include	herbal remedies
+all other therapeutic products	regulated by	FDA
+all other therapeutic products	may require	prescription
+all other therapeutic products	can interact with	prescription drugs
+all other therapeutic products	used for	symptom relief
+all other therapeutic products	may cause	adverse effects
+all other therapeutic products	subject to	clinical trials
+all other therapeutic products	have	therapeutic claims
+medical devices	classified by	risk category
+dietary supplements	contain	vitamins
+dietary supplements	contain	minerals
+herbal remedies	derived from	plants
+FDA	evaluates	safety
+FDA	monitors	efficacy
+prescription	required for	controlled substances
+drug interactions	may affect	treatment outcomes
+symptom relief	improves	quality of life
+adverse effects	reported to	pharmacovigilance systems
+clinical trials	assess	effectiveness
+therapeutic claims	must be	evidence-based
+risk categories	determine	regulatory requirements
+vitamins	support	metabolic functions
+minerals	essential for	body functions
+plants	contain	active compounds
+safety	assessed through	toxicology studies
+efficacy	measured by	clinical endpoints
+controlled substances	have	abuse potential
+treatment outcomes	influenced by	adherence
+quality of life	measured by	patient surveys
+pharmacovigilance systems	collect	safety data
+effectiveness	compared to	standard treatments
+evidence-based claims	require	scientific studies
+regulatory requirements	include	quality control
+metabolic functions	depend on	enzyme activity
+body functions	maintained by	homeostasis
+active compounds	have	pharmacological effects
+toxicology studies	identify	safe doses
+clinical endpoints	include	survival rates
+abuse potential	leads to	restrictions
+adherence	affected by	side effects
+patient surveys	assess	satisfaction
+safety data	used for	risk assessment
+standard treatments	established by	guidelines
+scientific studies	published in	journals
+quality control	ensures	product consistency
+enzyme activity	regulated by	cofactors
+homeostasis	maintained by	feedback mechanisms
+pharmacological effects	mediated by	receptors
+safe doses	determined by	clinical testing
+survival rates	improved by	early detection
+restrictions	enforced by	regulatory agencies
+side effects	documented in	package inserts
+satisfaction	influences	treatment continuation
+risk assessment	considers	benefit-risk ratio
+guidelines	developed by	expert committees
+journals	peer-reviewed by	scientists
+product consistency	verified by	batch testing
+cofactors	include	vitamins
+feedback mechanisms	involve	hormones
+receptors	located in	cell membranes
+clinical testing	follows	protocols
+early detection	enabled by	screening
+regulatory agencies	issue	approvals
+package inserts	contain	usage instructions
+treatment continuation	leads to	better outcomes
+benefit-risk ratio	evaluated by	regulators
+expert committees	comprise	specialists
+scientists	conduct	research
+batch testing	checks	purity
+vitamins	obtained through	diet
+hormones	secreted by	glands
+cell membranes	contain	proteins
+protocols	approved by	ethics committees
+screening	recommended for	high-risk groups
+approvals	granted after	review
+usage instructions	specify	dosages
+better outcomes	reduce	healthcare costs
+regulators	protect	public health
+specialists	have	advanced training
+research	funded by	grants
+purity	affects	bioavailability
+diet	influences	health status
+glands	part of	endocrine system
+proteins	synthesized from	amino acids
+ethics committees	ensure	participant rights
+high-risk groups	receive	priority care
+review	examines	clinical data
+dosages	adjusted for	age
+healthcare costs	impacted by	preventable diseases
+public health	protected by	policies
+advanced training	requires	certification
+grants	awarded by	institutions
+bioavailability	determines	effectiveness
+health status	assessed by	biomarkers
+endocrine system	regulates	metabolism
+amino acids	building blocks of	proteins
+participant rights	include	informed consent
+preventable diseases	targeted by	vaccines

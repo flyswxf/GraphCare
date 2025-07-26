@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+TURP	is a	surgical procedure
+TURP	treats	benign prostatic hyperplasia
+TURP	performed via	urethra
+TURP	removes	prostate tissue
+TURP	requires	general anesthesia
+prostate	located near	bladder
+prostate	surrounds	urethra
+enlarged prostate	causes	urinary obstruction
+urinary obstruction	leads to	hydronephrosis
+hydronephrosis	damages	kidneys
+TURP	indicated for	lower urinary tract symptoms
+lower urinary tract symptoms	include	urinary frequency
+lower urinary tract symptoms	include	nocturia
+lower urinary tract symptoms	include	weak stream
+TURP	contraindicated in	prostate cancer
+TURP	uses	resectoscope
+resectoscope	contains	wire loop
+wire loop	cuts	prostate tissue
+TURP	requires	irrigation fluid
+irrigation fluid	prevents	bleeding
+TURP	may cause	bleeding
+TURP	may cause	infection
+TURP syndrome	is a complication of	TURP
+TURP syndrome	involves	hyponatremia
+hyponatremia	affects	brain function
+post-TURP	requires	catheterization
+catheterization	prevents	urinary retention
+post-TURP	monitors for	hematuria
+hematuria	indicates	bleeding
+post-TURP	restricts	heavy lifting
+alpha blockers	alternative to	TURP
+5-alpha reductase inhibitors	shrink	prostate
+antibiotics	prevent	post-TURP infection
+analgesics	manage	post-TURP pain
+diuretics	contraindicated in	TURP syndrome
+patient age	affects	TURP outcomes
+prostate size	determines	resection time
+resection time	correlates with	complications
+preoperative PSA	predicts	cancer risk
+obesity	increases	surgical risks
+laser prostatectomy	alternative to	TURP
+open prostatectomy	for large	prostates
+Rezum therapy	uses	steam injection
+UroLift	preserves	ejaculation
+TUMT	is non-invasive	BPH treatment
+BPH	involves	stromal hyperplasia
+stromal hyperplasia	increases	prostate volume
+prostate volume	measured by	ultrasound
+urinary retention	requires	emergency catheter
+chronic retention	damages	bladder
+TURP	improves	urinary flow
+improved flow	reduces	residual urine
+residual urine	promotes	UTIs
+UTIs	cause	dysuria
+dysuria	decreases	quality of life
+spinal anesthesia	option for	TURP
+general anesthesia	risks include	hypotension
+hypotension	exacerbates	TURP syndrome
+anesthesia	requires	preoperative evaluation
+elderly patients	sensitive to	anesthetics
+uroflowmetry	assesses	voiding function
+cystoscopy	evaluates	urethral stricture
+TRUS	measures	prostate size
+PSA test	screens for	cancer
+postvoid residual	indicates	obstruction
+TURP	may cause	retrograde ejaculation
+retrograde ejaculation	affects	fertility
+TURP	rarely causes	incontinence
+incontinence	managed by	pelvic exercises
+urethral stricture	late complication of	TURP
+BPH	prevalence increases with	age
+men over 50	commonly develop	BPH
+family history	influences	BPH risk
+diabetes	correlates with	BPH severity
+metabolic syndrome	worsens	LUTS
+bipolar TURP	reduces	bleeding risk
+bipolar TURP	uses	saline irrigation
+laser enucleation	replaces	traditional TURP
+robotic surgery	not used for	TURP
+minimally invasive techniques	decrease	hospital stay
+nurses	monitor for	clot retention
+clot retention	treated with	bladder irrigation
+nurses	educate about	fluid intake
+increased fluids	prevent	catheter blockage
+nurses	assess for	signs of sepsis
+TURP	costs less than	laser surgery
+hospital stay	affects	treatment cost
+complications	increase	healthcare costs
+day-case TURP	reduces	expenses
+insurance coverage	varies for	BPH treatments
+successful TURP	improves	sleep quality
+nocturia reduction	enhances	daytime function
+urinary symptoms	correlate with	depression
+symptom relief	increases	physical activity
+sexual function	may change after	TURP
+GreenLight laser	comparable to	TURP
+Rezum	preserves	sexual function
+Aquablation	robot-assisted	waterjet resection
+prostate artery embolization	emerging	BPH treatment
+TURP	remains gold standard for	moderate BPH

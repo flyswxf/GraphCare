@@ -1,0 +1,100 @@
+procedures on vessels other than head and neck	include	angioplasty
+angioplasty	treats	arterial stenosis
+angioplasty	uses	balloon catheter
+balloon catheter	expands	narrowed artery
+stent placement	follows	angioplasty
+stent	maintains	vessel patency
+vascular bypass	alternative to	angioplasty
+vascular bypass	creates	alternative blood pathway
+vascular bypass	uses	graft
+graft	can be	synthetic
+graft	can be	autologous vein
+procedures on vessels other than head and neck	include	thrombectomy
+thrombectomy	removes	blood clot
+blood clot	causes	vascular occlusion
+thrombectomy	uses	catheter device
+catheter device	can be	suction-based
+catheter device	can be	mechanical
+thrombolysis	alternative to	thrombectomy
+thrombolysis	uses	clot-dissolving drugs
+clot-dissolving drugs	include	tissue plasminogen activator
+procedures on vessels other than head and neck	include	atherectomy
+atherectomy	removes	plaque
+plaque	consists of	cholesterol deposits
+rotational atherectomy	is a type of	atherectomy
+rotational atherectomy	uses	diamond-tipped burr
+directional atherectomy	is a type of	atherectomy
+directional atherectomy	uses	cutting device
+procedures on vessels other than head and neck	include	embolization
+embolization	blocks	abnormal blood vessels
+embolization	treats	aneurysms
+aneurysms	are	vessel wall bulges
+coils	used in	embolization
+coils	induce	thrombosis
+procedures on vessels other than head and neck	include	varicose vein treatment
+varicose vein treatment	addresses	venous insufficiency
+venous insufficiency	causes	blood pooling
+endovenous laser therapy	is a type of	varicose vein treatment
+endovenous laser therapy	uses	laser energy
+sclerotherapy	is a type of	varicose vein treatment
+sclerotherapy	injects	chemical solution
+chemical solution	irritates	vein lining
+procedures on vessels other than head and neck	include	dialysis access creation
+dialysis access creation	enables	hemodialysis
+hemodialysis	filters	blood
+arteriovenous fistula	is a type of	dialysis access
+arteriovenous fistula	connects	artery to vein
+arteriovenous graft	is a type of	dialysis access
+arteriovenous graft	uses	synthetic tube
+procedures on vessels other than head and neck	include	vena cava filter placement
+vena cava filter	prevents	pulmonary embolism
+pulmonary embolism	results from	deep vein thrombosis
+vena cava filter	traps	blood clots
+procedures on vessels other than head and neck	include	peripheral artery bypass
+peripheral artery bypass	treats	peripheral artery disease
+peripheral artery disease	causes	leg pain
+femoral-popliteal bypass	is a type of	peripheral artery bypass
+femoral-popliteal bypass	connects	femoral artery to popliteal artery
+aortobifemoral bypass	is a type of	peripheral artery bypass
+aortobifemoral bypass	connects	aorta to femoral arteries
+procedures on vessels other than head and neck	include	endovascular aneurysm repair
+endovascular aneurysm repair	treats	abdominal aortic aneurysm
+abdominal aortic aneurysm	involves	aorta dilation
+endovascular aneurysm repair	uses	stent graft
+stent graft	reinforces	vessel wall
+procedures on vessels other than head and neck	include	deep vein thrombosis treatment
+deep vein thrombosis treatment	prevents	clot propagation
+anticoagulants	are used in	deep vein thrombosis treatment
+anticoagulants	inhibit	clotting factors
+compression stockings	adjunct to	deep vein thrombosis treatment
+compression stockings	improve	venous return
+procedures on vessels other than head and neck	include	lymph node dissection
+lymph node dissection	treats	lymphedema
+lymphedema	involves	lymphatic fluid accumulation
+lymph node dissection	removes	affected lymph nodes
+procedures on vessels other than head and neck	include	vascular access port placement
+vascular access port	enables	chemotherapy delivery
+chemotherapy	treats	cancer
+vascular access port	reduces	needle sticks
+procedures on vessels other than head and neck	include	sympathectomy
+sympathectomy	treats	hyperhidrosis
+hyperhidrosis	involves	excessive sweating
+sympathectomy	interrupts	sympathetic nerve chain
+procedures on vessels other than head and neck	include	venous ablation
+venous ablation	treats	venous reflux
+venous reflux	causes	varicose veins
+radiofrequency ablation	is a type of	venous ablation
+radiofrequency ablation	uses	thermal energy
+procedures on vessels other than head and neck	include	vascular stent placement
+vascular stent placement	maintains	blood flow
+drug-eluting stent	is a type of	vascular stent
+drug-eluting stent	releases	antiproliferative agents
+antiproliferative agents	prevent	restenosis
+procedures on vessels other than head and neck	include	arteriovenous malformation treatment
+arteriovenous malformation treatment	addresses	abnormal vessel connections
+abnormal vessel connections	risk	hemorrhage
+surgical resection	is a type of	arteriovenous malformation treatment
+surgical resection	removes	malformed vessels
+procedures on vessels other than head and neck	require	vascular imaging
+vascular imaging	includes	angiography
+angiography	visualizes	blood vessels

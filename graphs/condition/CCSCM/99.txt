@@ -1,0 +1,100 @@
+hypertension	may lead to	heart failure
+hypertension	causes	stroke
+hypertension	contributes to	kidney disease
+secondary hypertension	results from	renal artery stenosis
+secondary hypertension	caused by	pheochromocytoma
+hypertension	associated with	diabetes mellitus
+hypertension	increases risk of	myocardial infarction
+hypertension	leads to	retinopathy
+secondary hypertension	caused by	Cushing syndrome
+hypertension	contributes to	dementia
+hypertension	causes	left ventricular hypertrophy
+secondary hypertension	results from	hyperaldosteronism
+hypertension	increases risk of	aortic dissection
+hypertension	associated with	metabolic syndrome
+secondary hypertension	caused by	thyroid disorders
+hypertension	may cause	peripheral artery disease
+hypertension	leads to	chronic kidney disease
+secondary hypertension	results from	coarctation of aorta
+hypertension	increases risk of	atrial fibrillation
+hypertension	contributes to	cognitive decline
+secondary hypertension	caused by	obstructive sleep apnea
+hypertension	associated with	obesity
+hypertension	may lead to	vision loss
+secondary hypertension	results from	renal parenchymal disease
+hypertension	increases mortality in	COVID-19
+hypertension	contributes to	erectile dysfunction
+secondary hypertension	caused by	acromegaly
+hypertension	worsens	heart failure prognosis
+hypertension	is risk factor for	aneurysm
+secondary hypertension	results from	hyperparathyroidism
+hypertension	causes	microalbuminuria
+hypertension	increases risk of	sudden cardiac death
+secondary hypertension	caused by	pregnancy
+hypertension	associated with	dyslipidemia
+hypertension	leads to	glomerulosclerosis
+secondary hypertension	results from	neurofibromatosis
+hypertension	increases hospitalizations for	heart failure
+hypertension	contributes to	silent ischemia
+secondary hypertension	caused by	Liddle syndrome
+hypertension	predicts	cardiovascular mortality
+hypertension	causes	arteriosclerosis
+secondary hypertension	results from	lead poisoning
+hypertension	increases risk of	hemorrhagic stroke
+hypertension	associated with	gout
+hypertension	leads to	proteinuria
+secondary hypertension	caused by	glucocorticoid therapy
+hypertension	worsens	diabetic nephropathy
+hypertension	predicts	dialysis requirement
+secondary hypertension	results from	erythropoietin use
+hypertension	increases complications in	surgery
+hypertension	causes	endothelial dysfunction
+secondary hypertension	results from	cocaine use
+hypertension	predisposes to	vascular dementia
+hypertension	associated with	insulin resistance
+hypertension	leads to	hypertensive emergency
+secondary hypertension	caused by	licorice abuse
+hypertension	increases risk of	intracerebral hemorrhage
+hypertension	accelerates	atherosclerosis
+secondary hypertension	results from	polycystic kidney disease
+hypertension	predisposes to	heart failure hospitalization
+hypertension	causes	myocardial fibrosis
+secondary hypertension	caused by	Turner syndrome
+hypertension	increases mortality in	stroke patients
+hypertension	associated with	NAFLD
+hypertension	leads to	nephrosclerosis
+secondary hypertension	results from	Wilms tumor
+hypertension	worsens	COPD outcomes
+hypertension	increases risk of	renal failure
+secondary hypertension	caused by	congenital adrenal hyperplasia
+hypertension	predicts	coronary artery disease
+hypertension	causes	vascular remodeling
+secondary hypertension	results from	renal transplant stenosis
+hypertension	increases complications in	pregnancy
+hypertension	associated with	depression
+hypertension	leads to	hypertensive nephropathy
+secondary hypertension	caused by	DES exposure
+hypertension	exacerbates	heart failure symptoms
+hypertension	increases readmission for	heart failure
+secondary hypertension	results from	radiation nephritis
+hypertension	predisposes to	atrial fibrillation recurrence
+hypertension	causes	carotid plaque
+secondary hypertension	caused by	Fabry disease
+hypertension	increases mortality in	dialysis patients
+hypertension	associated with	sleep disorders
+hypertension	leads to	microvascular disease
+secondary hypertension	results from	hypercalcemia
+hypertension	worsens	aortic stenosis outcomes
+hypertension	increases risk of	cognitive impairment
+secondary hypertension	caused by	androgen use
+hypertension	predicts	stroke recurrence
+hypertension	causes	vascular stiffness
+secondary hypertension	results from	adrenal adenoma
+hypertension	increases complications in	diabetes
+hypertension	associated with	anxiety disorders
+hypertension	leads to	left atrial enlargement
+secondary hypertension	caused by	NSAID use
+hypertension	exacerbates	renal dysfunction
+hypertension	increases hospitalization for	stroke
+secondary hypertension	results from	aortic coarctation
+hypertension	predicts	all-cause mortality

@@ -1,0 +1,100 @@
+gout	is a	crystal arthropathy
+gout	is caused by	hyperuricemia
+hyperuricemia	results from	purine metabolism disorder
+gout	manifests as	acute arthritis
+acute arthritis	involves	joint inflammation
+gout	commonly affects	first metatarsophalangeal joint
+gout	may lead to	tophi formation
+tophi	consist of	monosodium urate crystals
+monosodium urate crystals	deposit in	joints
+gout	is diagnosed via	synovial fluid analysis
+synovial fluid analysis	reveals	needle-shaped crystals
+gout	is treated with	NSAIDs
+NSAIDs	reduce	inflammation
+gout	is treated with	colchicine
+colchicine	inhibits	microtubule polymerization
+gout	is treated with	corticosteroids
+gout	may require	urate-lowering therapy
+urate-lowering therapy	includes	allopurinol
+allopurinol	inhibits	xanthine oxidase
+urate-lowering therapy	includes	febuxostat
+febuxostat	is a	xanthine oxidase inhibitor
+gout	is associated with	hypertension
+gout	is associated with	chronic kidney disease
+gout	is associated with	metabolic syndrome
+metabolic syndrome	includes	obesity
+metabolic syndrome	includes	insulin resistance
+gout	is exacerbated by	alcohol consumption
+gout	is exacerbated by	high-purine diet
+high-purine diet	includes	red meat
+high-purine diet	includes	seafood
+gout	may complicate into	chronic gouty arthritis
+chronic gouty arthritis	causes	joint damage
+joint damage	may lead to	joint deformity
+gout	increases risk of	nephrolithiasis
+nephrolithiasis	involves	kidney stones
+kidney stones	may contain	uric acid
+pseudogout	is a	crystal arthropathy
+pseudogout	involves	calcium pyrophosphate crystals
+calcium pyrophosphate crystals	deposit in	cartilage
+pseudogout	commonly affects	knee joint
+pseudogout	is diagnosed via	radiographic findings
+radiographic findings	may show	chondrocalcinosis
+chondrocalcinosis	indicates	cartilage calcification
+pseudogout	is treated with	NSAIDs
+pseudogout	is treated with	colchicine
+pseudogout	is treated with	joint aspiration
+joint aspiration	removes	synovial fluid
+pseudogout	is associated with	hyperparathyroidism
+pseudogout	is associated with	hemochromatosis
+hemochromatosis	causes	iron overload
+pseudogout	is associated with	hypomagnesemia
+hypomagnesemia	may result from	diuretic use
+gout	differs from	septic arthritis
+septic arthritis	involves	bacterial infection
+bacterial infection	requires	antibiotic therapy
+gout	may mimic	rheumatoid arthritis
+rheumatoid arthritis	is an	autoimmune disease
+gout	has higher prevalence in	males
+gout	typically presents after	age 40
+age 40	is a	risk factor
+gout	has genetic predisposition
+genetic predisposition	involves	SLC2A9 gene
+SLC2A9 gene	affects	urate transport
+urate transport	occurs in	renal tubules
+renal tubules	regulate	uric acid excretion
+gout	may be prevented by	hydration
+hydration	promotes	uric acid excretion
+gout	may be prevented by	weight loss
+weight loss	reduces	metabolic stress
+gout	may be prevented by	dietary modification
+dietary modification	includes	low-fat dairy
+low-fat dairy	may lower	uric acid levels
+gout	is monitored via	serum uric acid
+serum uric acid	is measured in	blood test
+blood test	helps in	disease management
+gout	requires	patient education
+patient education	improves	treatment adherence
+treatment adherence	prevents	flare-ups
+flare-ups	cause	severe pain
+severe pain	requires	analgesic therapy
+analgesic therapy	includes	acetaminophen
+gout	may coexist with	osteoarthritis
+osteoarthritis	involves	cartilage degeneration
+cartilage degeneration	leads to	bone rubbing
+gout	increases risk of	cardiovascular disease
+cardiovascular disease	includes	myocardial infarction
+myocardial infarction	results from	coronary artery disease
+gout	increases risk of	stroke
+stroke	may be	ischemic
+ischemic stroke	involves	blood clot
+gout	has higher incidence in	developed countries
+developed countries	have	Western diet
+Western diet	is high in	processed foods
+processed foods	contain	fructose
+fructose	increases	uric acid production
+gout	has seasonal variation
+seasonal variation	shows	summer peaks
+summer peaks	correlate with	dehydration
+dehydration	concentrates	uric acid
+uric acid	crystallizes at	low temperatures

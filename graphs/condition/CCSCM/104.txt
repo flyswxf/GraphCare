@@ -1,0 +1,100 @@
+other and ill-defined heart disease	is a	heart condition
+other and ill-defined heart disease	may lead to	heart failure
+other and ill-defined heart disease	increases risk of	arrhythmia
+other and ill-defined heart disease	associated with	chest pain
+other and ill-defined heart disease	may cause	shortness of breath
+other and ill-defined heart disease	requires	cardiac evaluation
+other and ill-defined heart disease	diagnosed via	echocardiogram
+other and ill-defined heart disease	monitored by	ECG
+other and ill-defined heart disease	may require	hospitalization
+other and ill-defined heart disease	linked to	hypertension
+other and ill-defined heart disease	worsens with	smoking
+other and ill-defined heart disease	aggravated by	obesity
+other and ill-defined heart disease	influenced by	genetics
+other and ill-defined heart disease	treated with	beta blockers
+other and ill-defined heart disease	managed by	ACE inhibitors
+other and ill-defined heart disease	may need	diuretics
+other and ill-defined heart disease	affected by	stress
+other and ill-defined heart disease	related to	coronary artery disease
+other and ill-defined heart disease	coexists with	diabetes
+other and ill-defined heart disease	increases	mortality risk
+other and ill-defined heart disease	causes	fatigue
+other and ill-defined heart disease	leads to	exercise intolerance
+other and ill-defined heart disease	requires	lifestyle changes
+other and ill-defined heart disease	benefits from	cardiac rehabilitation
+other and ill-defined heart disease	screened by	stress test
+other and ill-defined heart disease	monitored with	Holter monitor
+other and ill-defined heart disease	may lead to	sudden cardiac death
+other and ill-defined heart disease	associated with	high cholesterol
+other and ill-defined heart disease	worsened by	sedentary lifestyle
+other and ill-defined heart disease	improved by	regular exercise
+other and ill-defined heart disease	treated with	statins
+other and ill-defined heart disease	managed by	anticoagulants
+other and ill-defined heart disease	may require	pacemaker
+other and ill-defined heart disease	linked to	sleep apnea
+other and ill-defined heart disease	increases	readmission rates
+other and ill-defined heart disease	causes	edema
+other and ill-defined heart disease	leads to	decreased cardiac output
+other and ill-defined heart disease	requires	sodium restriction
+other and ill-defined heart disease	benefits from	weight management
+other and ill-defined heart disease	screened by	cardiac CT
+other and ill-defined heart disease	diagnosed with	cardiac MRI
+other and ill-defined heart disease	may lead to	cardiogenic shock
+other and ill-defined heart disease	associated with	atherosclerosis
+other and ill-defined heart disease	worsened by	alcohol abuse
+other and ill-defined heart disease	improved by	Mediterranean diet
+other and ill-defined heart disease	treated with	calcium channel blockers
+other and ill-defined heart disease	managed by	nitrates
+other and ill-defined heart disease	may require	ICD
+other and ill-defined heart disease	linked to	chronic kidney disease
+other and ill-defined heart disease	increases	healthcare costs
+other and ill-defined heart disease	causes	palpitations
+other and ill-defined heart disease	leads to	reduced ejection fraction
+other and ill-defined heart disease	requires	potassium monitoring
+other and ill-defined heart disease	benefits from	smoking cessation
+other and ill-defined heart disease	screened by	coronary angiography
+other and ill-defined heart disease	diagnosed via	cardiac catheterization
+other and ill-defined heart disease	may lead to	pulmonary edema
+other and ill-defined heart disease	associated with	metabolic syndrome
+other and ill-defined heart disease	worsened by	high sodium diet
+other and ill-defined heart disease	improved by	DASH diet
+other and ill-defined heart disease	treated with	ARBs
+other and ill-defined heart disease	managed by	antiplatelet drugs
+other and ill-defined heart disease	may require	cardiac surgery
+other and ill-defined heart disease	linked to	peripheral artery disease
+other and ill-defined heart disease	increases	emergency visits
+other and ill-defined heart disease	causes	dizziness
+other and ill-defined heart disease	leads to	cardiac remodeling
+other and ill-defined heart disease	requires	fluid restriction
+other and ill-defined heart disease	benefits from	stress management
+other and ill-defined heart disease	screened by	lipid profile
+other and ill-defined heart disease	diagnosed with	BNP test
+other and ill-defined heart disease	may lead to	atrial fibrillation
+other and ill-defined heart disease	associated with	inflammation
+other and ill-defined heart disease	worsened by	air pollution
+other and ill-defined heart disease	improved by	omega-3 fatty acids
+other and ill-defined heart disease	treated with	digoxin
+other and ill-defined heart disease	managed by	aldosterone antagonists
+other and ill-defined heart disease	may require	heart transplant
+other and ill-defined heart disease	linked to	depression
+other and ill-defined heart disease	increases	disability rates
+other and ill-defined heart disease	causes	syncope
+other and ill-defined heart disease	leads to	ventricular hypertrophy
+other and ill-defined heart disease	requires	regular follow-up
+other and ill-defined heart disease	benefits from	vaccination
+other and ill-defined heart disease	screened by	CRP test
+other and ill-defined heart disease	diagnosed via	troponin test
+other and ill-defined heart disease	may lead to	ventricular tachycardia
+other and ill-defined heart disease	associated with	oxidative stress
+other and ill-defined heart disease	worsened by	chronic inflammation
+other and ill-defined heart disease	improved by	CoQ10
+other and ill-defined heart disease	treated with	ivabradine
+other and ill-defined heart disease	managed by	SGLT2 inhibitors
+other and ill-defined heart disease	may require	ventricular assist device
+other and ill-defined heart disease	linked to	cognitive decline
+other and ill-defined heart disease	increases	polypharmacy risk
+other and ill-defined heart disease	causes	nocturnal dyspnea
+other and ill-defined heart disease	leads to	valvular dysfunction
+other and ill-defined heart disease	requires	multidisciplinary care
+other and ill-defined heart disease	benefits from	palliative care
+other and ill-defined heart disease	screened by	genetic testing

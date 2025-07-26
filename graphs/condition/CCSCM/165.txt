@@ -1,0 +1,100 @@
+inflammatory conditions of male genital organs	include	prostatitis
+inflammatory conditions of male genital organs	include	epididymitis
+inflammatory conditions of male genital organs	include	orchitis
+inflammatory conditions of male genital organs	include	balanitis
+inflammatory conditions of male genital organs	may cause	pain
+inflammatory conditions of male genital organs	may cause	swelling
+inflammatory conditions of male genital organs	may cause	fever
+inflammatory conditions of male genital organs	may cause	dysuria
+inflammatory conditions of male genital organs	may cause	urinary retention
+inflammatory conditions of male genital organs	may lead to	infertility
+inflammatory conditions of male genital organs	may lead to	abscess formation
+inflammatory conditions of male genital organs	may lead to	chronic pain
+inflammatory conditions of male genital organs	may be caused by	bacterial infection
+inflammatory conditions of male genital organs	may be caused by	viral infection
+inflammatory conditions of male genital organs	may be caused by	fungal infection
+inflammatory conditions of male genital organs	may be caused by	STIs
+inflammatory conditions of male genital organs	may be caused by	urinary tract obstruction
+inflammatory conditions of male genital organs	may be caused by	trauma
+inflammatory conditions of male genital organs	may be caused by	autoimmune response
+prostatitis	is a	prostate inflammation
+epididymitis	is a	epididymis inflammation
+orchitis	is a	testicular inflammation
+balanitis	is a	glans penis inflammation
+prostatitis	may cause	pelvic pain
+prostatitis	may cause	urinary symptoms
+epididymitis	may cause	scrotal pain
+epididymitis	may cause	testicular swelling
+orchitis	may cause	testicular tenderness
+orchitis	may cause	fever
+balanitis	may cause	penile redness
+balanitis	may cause	itching
+bacterial infection	may be treated with	antibiotics
+viral infection	may be treated with	antivirals
+fungal infection	may be treated with	antifungals
+STIs	include	chlamydia
+STIs	include	gonorrhea
+chlamydia	is treated with	azithromycin
+gonorrhea	is treated with	ceftriaxone
+urinary tract obstruction	may require	catheterization
+urinary tract obstruction	may require	surgery
+abscess formation	may require	drainage
+chronic pain	may require	pain management
+infertility	may require	fertility treatment
+prostatitis	is diagnosed with	digital rectal exam
+prostatitis	is diagnosed with	urine culture
+epididymitis	is diagnosed with	ultrasound
+orchitis	is diagnosed with	physical exam
+balanitis	is diagnosed with	clinical examination
+pain	may be treated with	NSAIDs
+swelling	may be treated with	ice packs
+fever	may be treated with	antipyretics
+dysuria	may be treated with	alpha-blockers
+urinary retention	may be treated with	catheterization
+autoimmune response	may be treated with	immunosuppressants
+trauma	may require	wound care
+prostatitis	has subtypes	acute bacterial prostatitis
+prostatitis	has subtypes	chronic bacterial prostatitis
+prostatitis	has subtypes	chronic prostatitis
+epididymitis	has subtypes	acute epididymitis
+epididymitis	has subtypes	chronic epididymitis
+orchitis	has subtypes	viral orchitis
+orchitis	has subtypes	bacterial orchitis
+balanitis	has subtypes	candidal balanitis
+balanitis	has subtypes	bacterial balanitis
+acute bacterial prostatitis	is treated with	antibiotics
+chronic bacterial prostatitis	is treated with	long-term antibiotics
+chronic prostatitis	is treated with	physical therapy
+acute epididymitis	is treated with	antibiotics
+chronic epididymitis	is treated with	pain management
+viral orchitis	is treated with	supportive care
+bacterial orchitis	is treated with	antibiotics
+candidal balanitis	is treated with	antifungals
+bacterial balanitis	is treated with	antibiotics
+NSAIDs	include	ibuprofen
+NSAIDs	include	naproxen
+antipyretics	include	acetaminophen
+alpha-blockers	include	tamsulosin
+immunosuppressants	include	corticosteroids
+antibiotics	include	ciprofloxacin
+antibiotics	include	doxycycline
+antivirals	include	acyclovir
+antifungals	include	clotrimazole
+catheterization	may cause	UTI
+surgery	may cause	complications
+drainage	may require	follow-up
+pain management	may include	physical therapy
+fertility treatment	may include	IVF
+digital rectal exam	assesses	prostate size
+urine culture	identifies	bacteria
+ultrasound	visualizes	epididymis
+physical exam	evaluates	testicular tenderness
+clinical examination	assesses	penile lesions
+ice packs	reduce	swelling
+wound care	prevents	infection
+IVF	assists	conception
+follow-up	monitors	healing
+UTI	is treated with	antibiotics
+complications	may require	additional treatment
+prostate size	indicates	BPH
+penile lesions	may indicate	malignancy

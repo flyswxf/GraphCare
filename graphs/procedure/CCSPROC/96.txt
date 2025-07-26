@@ -1,0 +1,100 @@
+lower GI therapeutic procedures	is a	medical procedure
+lower GI therapeutic procedures	treats	gastrointestinal diseases
+lower GI therapeutic procedures	includes	colonoscopy
+colonoscopy	is a type of	lower GI therapeutic procedures
+colonoscopy	detects	colorectal cancer
+colonoscopy	removes	polyps
+polyps	are	precancerous growths
+polyps	can lead to	colorectal cancer
+lower GI therapeutic procedures	includes	sigmoidoscopy
+sigmoidoscopy	examines	sigmoid colon
+sigmoidoscopy	detects	diverticulosis
+diverticulosis	can cause	diverticulitis
+lower GI therapeutic procedures	includes	hemorrhoidectomy
+hemorrhoidectomy	treats	hemorrhoids
+hemorrhoids	are	swollen veins
+hemorrhoids	cause	rectal bleeding
+lower GI therapeutic procedures	includes	stricture dilation
+stricture dilation	treats	intestinal strictures
+intestinal strictures	cause	bowel obstruction
+bowel obstruction	requires	surgical intervention
+lower GI therapeutic procedures	includes	fistula repair
+fistula repair	treats	anal fistula
+anal fistula	is	abnormal connection
+anal fistula	causes	infection
+lower GI therapeutic procedures	includes	stenting
+stenting	relieves	bowel obstruction
+stenting	uses	metal mesh
+metal mesh	maintains	lumen patency
+lower GI therapeutic procedures	includes	endoscopic mucosal resection
+endoscopic mucosal resection	removes	early-stage tumors
+early-stage tumors	are	localized cancer
+localized cancer	can be	cured
+lower GI therapeutic procedures	includes	argon plasma coagulation
+argon plasma coagulation	treats	bleeding lesions
+bleeding lesions	cause	anemia
+anemia	requires	iron supplementation
+lower GI therapeutic procedures	includes	balloon-assisted enteroscopy
+balloon-assisted enteroscopy	examines	small intestine
+small intestine	absorbs	nutrients
+nutrient absorption	is vital for	health
+lower GI therapeutic procedures	includes	colonic decompression
+colonic decompression	relieves	megacolon
+megacolon	is	dilated colon
+megacolon	risks	perforation
+lower GI therapeutic procedures	includes	percutaneous cecostomy
+percutaneous cecostomy	manages	fecal incontinence
+fecal incontinence	affects	quality of life
+quality of life	depends on	bowel control
+lower GI therapeutic procedures	includes	rectal prolapse surgery
+rectal prolapse surgery	corrects	rectal prolapse
+rectal prolapse	involves	rectal protrusion
+rectal protrusion	causes	discomfort
+lower GI therapeutic procedures	includes	transanal hemorrhoidal dearterialization
+transanal hemorrhoidal dearterialization	reduces	hemorrhoidal blood flow
+hemorrhoidal blood flow	causes	swelling
+swelling	leads to	pain
+lower GI therapeutic procedures	includes	ileostomy reversal
+ileostomy reversal	restores	bowel continuity
+bowel continuity	enables	normal defecation
+normal defecation	prevents	constipation
+lower GI therapeutic procedures	includes	colostomy closure
+colostomy closure	reconnects	colon
+colon	is part of	large intestine
+large intestine	absorbs	water
+lower GI therapeutic procedures	includes	endoscopic tattooing
+endoscopic tattooing	marks	lesion sites
+lesion sites	guide	future procedures
+future procedures	ensure	complete resection
+lower GI therapeutic procedures	includes	endoscopic ultrasound
+endoscopic ultrasound	evaluates	tumor depth
+tumor depth	determines	cancer stage
+cancer stage	guides	treatment plan
+lower GI therapeutic procedures	includes	flexible sigmoidoscopy
+flexible sigmoidoscopy	screens	colorectal cancer
+colorectal cancer	is	malignant tumor
+malignant tumor	requires	chemotherapy
+lower GI therapeutic procedures	includes	proctectomy
+proctectomy	removes	rectum
+rectum	stores	feces
+feces	are	waste products
+lower GI therapeutic procedures	includes	anoplasty
+anoplasty	repairs	anal stenosis
+anal stenosis	narrows	anal canal
+anal canal	allows	stool passage
+lower GI therapeutic procedures	includes	colectomy
+colectomy	resects	colon
+colon	can develop	ulcerative colitis
+ulcerative colitis	is	inflammatory disease
+lower GI therapeutic procedures	includes	ileoanal anastomosis
+ileoanal anastomosis	creates	pouch
+pouch	replaces	rectum
+rectum	is	storage chamber
+lower GI therapeutic procedures	includes	polypectomy
+polypectomy	excises	polyps
+polyps	may recur	post-procedure
+recurrence	requires	surveillance
+lower GI therapeutic procedures	includes	endoscopic hemostasis
+endoscopic hemostasis	stops	bleeding
+bleeding	results from	vascular lesions
+vascular lesions	are	abnormal blood vessels

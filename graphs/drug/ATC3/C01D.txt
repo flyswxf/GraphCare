@@ -1,0 +1,100 @@
+vasodilators	treat	cardiac diseases
+vasodilators	include	nitroglycerin
+vasodilators	include	hydralazine
+vasodilators	include	sodium nitroprusside
+vasodilators	include	minoxidil
+vasodilators	mechanism	nitric oxide release
+vasodilators	mechanism	potassium channel activation
+vasodilators	lower	blood pressure
+vasodilators	reduce	cardiac workload
+vasodilators	increase	coronary blood flow
+vasodilators	manage	angina
+vasodilators	manage	heart failure
+vasodilators	manage	hypertension
+vasodilators	contraindicated in	aortic stenosis
+vasodilators	cause	reflex tachycardia
+vasodilators	cause	headache
+vasodilators	cause	flushing
+vasodilators	interact with	phosphodiesterase inhibitors
+nitroglycerin	administered as	sublingual tablet
+nitroglycerin	administered as	transdermal patch
+nitroglycerin	administered as	intravenous infusion
+hydralazine	combined with	nitrates
+hydralazine	used for	hypertensive emergencies
+sodium nitroprusside	requires	blood pressure monitoring
+sodium nitroprusside	risk of	cyanide toxicity
+minoxidil	causes	hirsutism
+minoxidil	reserved for	resistant hypertension
+nitroglycerin	relieves	chest pain
+nitroglycerin	tolerance develops with	prolonged use
+vasodilators	classified as	arterial dilators
+vasodilators	classified as	venous dilators
+vasodilators	classified as	mixed dilators
+hydralazine	acts on	arterioles
+nitroglycerin	acts on	veins
+sodium nitroprusside	acts on	arteries and veins
+vasodilators	require	dose titration
+vasodilators	monitored by	blood pressure
+vasodilators	monitored by	heart rate
+vasodilators	avoided in	hypotension
+vasodilators	avoided in	hypovolemia
+vasodilators	first-line for	acute coronary syndrome
+vasodilators	alternative to	beta blockers
+vasodilators	alternative to	calcium channel blockers
+vasodilators	synergistic with	diuretics
+vasodilators	synergistic with	ACE inhibitors
+vasodilators	metabolized in	liver
+vasodilators	excreted via	kidneys
+nitroglycerin	half-life	1-4 minutes
+hydralazine	half-life	1-2 hours
+sodium nitroprusside	half-life	2 minutes
+minoxidil	half-life	4 hours
+vasodilators	require	gradual withdrawal
+vasodilators	cause	salt retention
+vasodilators	can provoke	myocardial ischemia
+vasodilators	worsen	mitral regurgitation
+vasodilators	improve	diastolic function
+vasodilators	decrease	pulmonary congestion
+vasodilators	increase	exercise tolerance
+vasodilators	prevent	ventricular remodeling
+vasodilators	reduce	hospitalizations
+vasodilators	prolong	survival
+nitroglycerin	prevents	coronary vasospasm
+hydralazine	increases	renal blood flow
+sodium nitroprusside	used in	cardiogenic shock
+minoxidil	causes	pericardial effusion
+vasodilators	contraindicated in	pericardial tamponade
+vasodilators	contraindicated in	obstructive cardiomyopathy
+vasodilators	require	patient education
+vasodilators	cause	orthostatic hypotension
+vasodilators	interact with	alcohol
+vasodilators	interact with	sedatives
+vasodilators	stored in	light-protected containers
+nitroglycerin	degrades in	heat
+vasodilators	available as	generic drugs
+vasodilators	cost-effective for	heart failure
+vasodilators	preferred in	elderly patients
+vasodilators	adjusted for	renal impairment
+vasodilators	adjusted for	hepatic impairment
+vasodilators	require	baseline ECG
+vasodilators	require	renal function tests
+vasodilators	require	liver function tests
+vasodilators	cause	drug rash
+vasodilators	cause	nausea
+vasodilators	cause	dizziness
+vasodilators	cause	palpitations
+vasodilators	cause	edema
+vasodilators	cause	nasal congestion
+vasodilators	require	compliance monitoring
+vasodilators	involved in	clinical trials
+vasodilators	researched for	new formulations
+vasodilators	combination with	ARBs
+vasodilators	combination with	aldosterone antagonists
+vasodilators	prescribed by	cardiologists
+vasodilators	prescribed by	primary care physicians
+vasodilators	included in	clinical guidelines
+vasodilators	subject to	drug shortages
+vasodilators	require	prior authorization
+vasodilators	covered by	insurance plans
+vasodilators	administered in	hospitals
+vasodilators	administered in	outpatient settings

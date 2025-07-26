@@ -1,0 +1,109 @@
+immunoglobulins	are	antibodies
+immunoglobulins	produced by	B cells
+immunoglobulins	function in	immune response
+immunoglobulins	bind to	antigens
+immunoglobulins	classified into	IgG
+immunoglobulins	classified into	IgM
+immunoglobulins	classified into	IgA
+immunoglobulins	classified into	IgE
+immunoglobulins	classified into	IgD
+IgG	is	immunoglobulin subtype
+IgM	is	immunoglobulin subtype
+IgA	is	immunoglobulin subtype
+IgE	is	immunoglobulin subtype
+IgD	is	immunoglobulin subtype
+immunoglobulins	found in	blood
+immunoglobulins	found in	lymph
+immunoglobulins	used for	immunotherapy
+immunoglobulins	treat	immune deficiencies
+immunoglobulins	treat	autoimmune diseases
+immunoglobulins	treat	infections
+immunoglobulins	administered via	intravenous infusion
+immunoglobulins	administered via	intramuscular injection
+immunoglobulins	derived from	plasma
+immunoglobulins	have	half-life
+IgG	has	longest half-life
+immunoglobulins	cross	placenta
+IgG	crosses	placenta
+immunoglobulins	neutralize	toxins
+immunoglobulins	opsonize	pathogens
+immunoglobulins	activate	complement system
+IgM	activates	complement system
+immunoglobulins	mediate	antibody-dependent cytotoxicity
+IgE	mediates	allergic reactions
+IgE	binds to	mast cells
+IgE	binds to	basophils
+IgA	found in	mucosal surfaces
+IgA	found in	secretions
+IgA	protects	mucous membranes
+immunoglobulins	measured by	serum electrophoresis
+immunoglobulins	elevated in	multiple myeloma
+immunoglobulins	deficient in	agammaglobulinemia
+immunoglobulins	deficient in	hypogammaglobulinemia
+immunoglobulins	replaced by	IVIG therapy
+IVIG	contains	immunoglobulins
+immunoglobulins	interact with	Fc receptors
+Fc receptors	found on	immune cells
+immunoglobulins	undergo	somatic hypermutation
+somatic hypermutation	occurs in	germinal centers
+immunoglobulins	have	variable regions
+immunoglobulins	have	constant regions
+variable regions	determine	antigen specificity
+constant regions	determine	effector functions
+immunoglobulins	can be	monoclonal
+monoclonal immunoglobulins	produced in	myeloma
+immunoglobulins	can be	polyclonal
+polyclonal immunoglobulins	produced in	normal immune response
+immunoglobulins	used in	ELISA
+ELISA	detects	immunoglobulins
+immunoglobulins	used in	Western blot
+Western blot	detects	immunoglobulins
+immunoglobulins	involved in	passive immunity
+passive immunity	provided by	maternal antibodies
+immunoglobulins	used for	rabies prophylaxis
+immunoglobulins	used for	tetanus prophylaxis
+immunoglobulins	used for	hepatitis B prophylaxis
+immunoglobulins	contraindicated in	IgA deficiency
+IgA deficiency	risks	anaphylaxis
+immunoglobulins	cause	infusion reactions
+infusion reactions	include	fever
+infusion reactions	include	chills
+infusion reactions	include	headache
+immunoglobulins	interact with	live vaccines
+live vaccines	avoided with	IVIG
+immunoglobulins	have	batch variability
+batch variability	affects	efficacy
+immunoglobulins	require	storage at 2-8°C
+immunoglobulins	have	expiration date
+immunoglobulins	tested for	viral safety
+viral safety	ensured by	donor screening
+viral safety	ensured by	pathogen inactivation
+immunoglobulins	cost	high
+high cost	limits	accessibility
+immunoglobulins	reimbursed by	insurance
+immunoglobulins	monitored by	trough levels
+trough levels	guide	dosing
+immunoglobulins	compete with	endogenous antibodies
+immunoglobulins	contain	preservatives
+preservatives	prevent	bacterial growth
+immunoglobulins	packaged in	vials
+immunoglobulins	packaged in	prefilled syringes
+immunoglobulins	require	aseptic handling
+aseptic handling	prevents	contamination
+immunoglobulins	administered in	hospitals
+immunoglobulins	administered in	clinics
+immunoglobulins	ordered by	physicians
+physicians	prescribe	immunoglobulins
+immunoglobulins	prepared by	pharmacists
+pharmacists	compound	immunoglobulins
+immunoglobulins	tracked in	electronic records
+electronic records	document	administration
+immunoglobulins	research in	clinical trials
+clinical trials	evaluate	new formulations
+immunoglobulins	compared to	monoclonal antibodies
+monoclonal antibodies	target	specific antigens
+immunoglobulins	broader than	monoclonal antibodies
+immunoglobulins	basis of	serological tests
+serological tests	diagnose	infections
+immunoglobulins	persist after	infection
+persistent immunoglobulins	indicate	past exposure

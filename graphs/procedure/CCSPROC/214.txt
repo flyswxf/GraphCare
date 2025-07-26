@@ -1,0 +1,100 @@
+traction	is a	medical treatment
+traction	used for	bone alignment
+traction	applies	pulling force
+traction	treats	fractures
+traction	reduces	muscle spasms
+traction	stabilizes	spinal injuries
+traction	prevents	deformity
+traction	requires	weights
+traction	involves	pulleys
+traction	may use	skin straps
+traction	can lead	skin irritation
+splint	is a	medical device
+splint	immobilizes	injured limbs
+splint	stabilizes	fractures
+splint	prevents	further injury
+splint	used for	sprains
+splint	supports	dislocations
+splint	made of	rigid material
+splint	can be	removable
+splint	requires	padding
+splint	may cause	pressure sores
+wound care	involves	cleaning
+wound care	prevents	infection
+wound care	promotes	healing
+wound care	includes	dressing changes
+wound care	manages	exudate
+wound care	reduces	scarring
+wound care	assesses	wound bed
+wound care	monitors	granulation
+wound care	may require	debridement
+traction	alternative to	surgery
+traction	contraindicated in	osteoporosis
+traction	monitored for	nerve damage
+traction	adjusted by	healthcare provider
+traction	used in	orthopedic settings
+splint	differs from	cast
+splint	allows	swelling accommodation
+splint	used in	emergency medicine
+splint	custom-fitted for	patient
+splint	may require	X-ray verification
+wound care	essential for	chronic wounds
+wound care	treats	pressure ulcers
+wound care	improves	circulation
+wound care	may include	topical antibiotics
+wound care	prevents	sepsis
+traction	used postoperatively	after joint surgery
+traction	requires	frequent repositioning
+traction	can cause	deep vein thrombosis
+traction	improves	joint function
+traction	contraindicated in	vascular disease
+splint	used for	carpal tunnel syndrome
+splint	assists in	tendon recovery
+splint	reduces	inflammation
+splint	may involve	thermoplastic materials
+splint	prescribed for	arthritis
+wound care	requires	sterile technique
+wound care	manages	necrotic tissue
+wound care	enhances	tissue repair
+wound care	prevents	delayed healing
+wound care	assesses	pain levels
+traction	used in	cervical spine injuries
+traction	contraindicated in	skin infections
+traction	monitored for	circulation issues
+traction	may require	sedation
+traction	assists in	pre-surgical alignment
+splint	used in	pediatric care
+splint	aids in	post-fracture recovery
+splint	prevents	contractures
+splint	may use	Velcro straps
+splint	supports	ligament injuries
+wound care	involves	moisture balance
+wound care	treats	diabetic ulcers
+wound care	uses	hydrocolloid dressings
+wound care	manages	bacterial load
+wound care	requires	regular assessment
+traction	used for	femur fractures
+traction	contraindicated in	severe osteoporosis
+traction	monitored for	skin breakdown
+traction	may require	counter-traction
+traction	improves	bone healing
+splint	used for	wrist fractures
+splint	assists in	nerve compression relief
+splint	reduces	postoperative swelling
+splint	customizable for	patient comfort
+splint	prevents	joint stiffness
+wound care	involves	wound measurement
+wound care	treats	venous ulcers
+wound care	uses	alginate dressings
+wound care	prevents	biofilm formation
+wound care	improves	quality of life
+traction	used in	pelvic fractures
+traction	contraindicated in	unstable fractures
+traction	requires	patient education
+traction	monitored for	pressure sores
+traction	assists in	pain management
+splint	used for	ankle injuries
+splint	aids in	hand rehabilitation
+splint	prevents	malunion
+splint	may use	metal reinforcements
+splint	supports	postoperative recovery

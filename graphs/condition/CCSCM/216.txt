@@ -1,0 +1,100 @@
+nervous system congenital anomalies	include	neural tube defects
+nervous system congenital anomalies	include	microcephaly
+nervous system congenital anomalies	include	hydrocephalus
+nervous system congenital anomalies	include	lissencephaly
+neural tube defects	are caused by	folic acid deficiency
+neural tube defects	include	spina bifida
+neural tube defects	include	anencephaly
+spina bifida	may cause	paralysis
+spina bifida	may cause	bladder dysfunction
+anencephaly	is incompatible with	life
+microcephaly	is caused by	Zika virus
+microcephaly	is caused by	genetic mutations
+microcephaly	may lead to	developmental delay
+hydrocephalus	is treated with	shunt placement
+hydrocephalus	may cause	increased intracranial pressure
+hydrocephalus	is associated with	myelomeningocele
+lissencephaly	is caused by	neuronal migration disorder
+lissencephaly	leads to	severe intellectual disability
+nervous system congenital anomalies	are diagnosed with	prenatal ultrasound
+nervous system congenital anomalies	are diagnosed with	MRI
+nervous system congenital anomalies	may require	neurosurgery
+neural tube defects	can be prevented with	folic acid supplementation
+pregnant women	are advised to take	folic acid
+Zika virus	is transmitted by	mosquitoes
+Zika virus	can cause	congenital Zika syndrome
+shunt placement	may lead to	infection
+shunt placement	may require	revision surgery
+myelomeningocele	is a type of	spina bifida
+myelomeningocele	is treated with	surgery
+neuronal migration disorder	affects	cerebral cortex development
+cerebral cortex	is responsible for	cognitive functions
+developmental delay	requires	early intervention
+early intervention	includes	physical therapy
+early intervention	includes	speech therapy
+paralysis	may require	wheelchair use
+bladder dysfunction	is managed with	catheterization
+increased intracranial pressure	can cause	vision problems
+increased intracranial pressure	may lead to	brain damage
+prenatal ultrasound	detects	fetal abnormalities
+MRI	provides detailed images of	brain structures
+neurosurgery	is performed by	neurosurgeons
+folic acid supplementation	reduces risk of	neural tube defects
+mosquito bites	can be prevented with	insect repellent
+congenital Zika syndrome	includes	eye abnormalities
+infection	is treated with	antibiotics
+revision surgery	is needed for	shunt malfunction
+surgery	carries risk of	complications
+cognitive functions	include	memory
+cognitive functions	include	language
+physical therapy	improves	motor skills
+speech therapy	enhances	communication skills
+wheelchair use	improves	mobility
+catheterization	prevents	urinary tract infections
+vision problems	may require	glasses
+brain damage	can result in	permanent disability
+fetal abnormalities	may lead to	pregnancy termination
+brain structures	include	cerebellum
+neurosurgeons	specialize in	brain surgery
+insect repellent	contains	DEET
+eye abnormalities	include	retinal damage
+antibiotics	treat	bacterial infections
+shunt malfunction	causes	symptoms recurrence
+complications	include	bleeding
+memory	is affected by	hippocampal damage
+language	is processed in	Broca's area
+motor skills	are controlled by	motor cortex
+communication skills	involve	auditory processing
+mobility	is enhanced by	assistive devices
+urinary tract infections	are caused by	bacteria
+glasses	correct	refractive errors
+permanent disability	requires	lifelong care
+pregnancy termination	is a personal decision
+cerebellum	coordinates	movement
+brain surgery	carries risk of	neurological deficits
+DEET	is effective against	mosquitoes
+retinal damage	leads to	vision loss
+bacterial infections	are diagnosed with	cultures
+symptoms recurrence	indicates	treatment failure
+bleeding	requires	transfusion
+hippocampal damage	affects	memory formation
+Broca's area	is located in	frontal lobe
+motor cortex	sends signals to	muscles
+auditory processing	occurs in	temporal lobe
+assistive devices	include	walkers
+bacteria	are identified with	microscopy
+refractive errors	include	myopia
+lifelong care	is provided by	caregivers
+personal decision	involves	counseling
+movement	is controlled by	basal ganglia
+neurological deficits	include	weakness
+mosquitoes	breed in	stagnant water
+vision loss	is managed with	low vision aids
+cultures	identify	pathogens
+treatment failure	necessitates	alternative therapy
+transfusion	requires	blood donation
+memory formation	involves	synaptic plasticity
+frontal lobe	is responsible for	decision making
+muscles	are controlled by	motor neurons
+temporal lobe	processes	sound
+walkers	provide	stability

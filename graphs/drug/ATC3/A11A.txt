@@ -1,0 +1,100 @@
+multivitamins	contain	vitamins
+multivitamins	contain	minerals
+multivitamins	used for	nutritional supplementation
+nutritional supplementation	prevents	deficiencies
+deficiencies	cause	anemia
+anemia	treated with	iron
+iron	is a	mineral
+multivitamins	contain	iron
+multivitamins	interact with	antibiotics
+antibiotics	affected by	calcium
+calcium	is a	mineral
+multivitamins	contain	calcium
+multivitamins	recommended for	pregnant women
+pregnant women	need	folic acid
+folic acid	is a	vitamin
+multivitamins	contain	folic acid
+multivitamins	affect	absorption
+absorption	influenced by	vitamin C
+vitamin C	enhances	iron absorption
+multivitamins	contain	vitamin C
+multivitamins	prescribed with	bariatric surgery
+bariatric surgery	causes	malabsorption
+malabsorption	requires	higher doses
+higher doses	risk	toxicity
+toxicity	concerns	vitamin A
+vitamin A	is a	vitamin
+multivitamins	contain	vitamin A
+multivitamins	interact with	anticoagulants
+anticoagulants	affected by	vitamin K
+vitamin K	is a	vitamin
+multivitamins	contain	vitamin K
+multivitamins	improve	immunity
+immunity	depends on	vitamin D
+vitamin D	is a	vitamin
+multivitamins	contain	vitamin D
+multivitamins	prescribed for	elderly
+elderly	require	vitamin B12
+vitamin B12	is a	vitamin
+multivitamins	contain	vitamin B12
+multivitamins	help	wound healing
+wound healing	requires	zinc
+zinc	is a	mineral
+multivitamins	contain	zinc
+multivitamins	affect	thyroid function
+thyroid function	requires	iodine
+iodine	is a	mineral
+multivitamins	contain	iodine
+multivitamins	reduce	fatigue
+fatigue	linked to	vitamin B complex
+vitamin B complex	includes	thiamine
+thiamine	is a	vitamin
+multivitamins	contain	thiamine
+multivitamins	prescribed with	dialysis
+dialysis	causes	nutrient loss
+nutrient loss	requires	supplementation
+supplementation	prevents	complications
+complications	include	neuropathy
+neuropathy	prevented by	vitamin B6
+vitamin B6	is a	vitamin
+multivitamins	contain	vitamin B6
+multivitamins	help	bone health
+bone health	requires	magnesium
+magnesium	is a	mineral
+multivitamins	contain	magnesium
+multivitamins	support	metabolism
+metabolism	requires	riboflavin
+riboflavin	is a	vitamin
+multivitamins	contain	riboflavin
+multivitamins	prevent	birth defects
+birth defects	prevented by	folate
+folate	is a	vitamin
+multivitamins	contain	folate
+multivitamins	aid	red blood cell production
+red blood cell production	requires	vitamin E
+vitamin E	is a	vitamin
+multivitamins	contain	vitamin E
+multivitamins	protect	vision
+vision	protected by	beta-carotene
+beta-carotene	is a	provitamin
+multivitamins	contain	beta-carotene
+multivitamins	help	cognitive function
+cognitive function	supported by	omega-3
+omega-3	is a	fatty acid
+multivitamins	may contain	omega-3
+multivitamins	reduce	inflammation
+inflammation	reduced by	selenium
+selenium	is a	mineral
+multivitamins	contain	selenium
+multivitamins	support	muscle function
+muscle function	requires	potassium
+potassium	is a	mineral
+multivitamins	contain	potassium
+multivitamins	improve	skin health
+skin health	benefits from	biotin
+biotin	is a	vitamin
+multivitamins	contain	biotin
+multivitamins	aid	DNA synthesis
+DNA synthesis	requires	niacin
+niacin	is a	vitamin
+multivitamins	contain	niacin

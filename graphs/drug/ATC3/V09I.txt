@@ -1,0 +1,100 @@
+tumour detection radiopharmaceuticals	are	diagnostic agents
+tumour detection radiopharmaceuticals	target	cancer cells
+tumour detection radiopharmaceuticals	use	radioactive isotopes
+radioactive isotopes	emit	gamma rays
+gamma rays	detected by	PET scanner
+PET scanner	produces	medical images
+medical images	analyzed by	radiologists
+radiologists	diagnose	tumour presence
+tumour presence	determines	treatment plan
+treatment plan	may include	chemotherapy
+chemotherapy	uses	cytotoxic drugs
+cytotoxic drugs	kill	rapidly dividing cells
+rapidly dividing cells	include	cancer cells
+tumour detection radiopharmaceuticals	have	half-life
+half-life	affects	imaging timing
+imaging timing	crucial for	diagnostic accuracy
+diagnostic accuracy	influences	patient outcomes
+patient outcomes	measured by	survival rates
+survival rates	depend on	early detection
+early detection	facilitated by	tumour markers
+tumour markers	include	PSA
+PSA	indicates	prostate cancer
+prostate cancer	treated with	hormone therapy
+hormone therapy	reduces	testosterone levels
+testosterone	fuels	prostate cancer growth
+tumour detection radiopharmaceuticals	require	FDA approval
+FDA approval	ensures	safety
+safety	evaluated through	clinical trials
+clinical trials	test	efficacy
+efficacy	measured by	sensitivity
+sensitivity	refers to	true positive rate
+true positive rate	impacts	false negatives
+false negatives	lead to	missed diagnoses
+missed diagnoses	result in	delayed treatment
+delayed treatment	worsens	prognosis
+tumour detection radiopharmaceuticals	bind to	receptors
+receptors	overexpressed in	tumours
+tumours	classified by	malignancy
+malignancy	graded by	histopathology
+histopathology	examines	biopsy samples
+biopsy samples	obtained through	needle aspiration
+needle aspiration	guided by	ultrasound
+ultrasound	uses	sound waves
+sound waves	create	real-time images
+real-time images	assist in	precision
+precision	reduces	complications
+complications	include	bleeding
+bleeding	managed with	coagulation
+coagulation	involves	clotting factors
+clotting factors	deficient in	hemophilia
+hemophilia	treated with	factor replacement
+factor replacement	derived from	plasma
+plasma	contains	antibodies
+antibodies	used in	immunotherapy
+immunotherapy	enhances	immune response
+immune response	attacks	cancer cells
+cancer cells	evade	immune system
+immune system	weakened by	immunosuppressants
+immunosuppressants	prescribed for	transplants
+transplants	require	HLA matching
+HLA matching	prevents	rejection
+rejection	mediated by	T cells
+T cells	activated by	antigens
+antigens	presented by	dendritic cells
+dendritic cells	derived from	monocytes
+monocytes	produced in	bone marrow
+bone marrow	affected by	radiation
+radiation	used in	radiotherapy
+radiotherapy	damages	DNA
+DNA	repaired by	enzymes
+enzymes	inhibited by	certain drugs
+certain drugs	cause	mutations
+mutations	lead to	cancer
+cancer	screened for	genetic markers
+genetic markers	identified by	sequencing
+sequencing	performed with	NGS
+NGS	requires	bioinformatics
+bioinformatics	analyzes	big data
+big data	improves	personalized medicine
+personalized medicine	tailors	therapies
+therapies	target	specific mutations
+specific mutations	found in	oncogenes
+oncogenes	regulated by	tumor suppressors
+tumor suppressors	inactivated in	Li-Fraumeni syndrome
+Li-Fraumeni syndrome	increases	cancer risk
+cancer risk	reduced by	lifestyle changes
+lifestyle changes	include	smoking cessation
+smoking cessation	lowers	lung cancer incidence
+lung cancer incidence	rising in	non-smokers
+non-smokers	exposed to	radon
+radon	seeps from	ground
+ground	contains	uranium
+uranium	decays into	radium
+radium	emits	alpha particles
+alpha particles	damage	lung tissue
+lung tissue	regenerates slowly
+slow regeneration	increases	mutation risk
+mutation risk	mitigated by	antioxidants
+antioxidants	found in	fruits
+fruits	part of	healthy diet

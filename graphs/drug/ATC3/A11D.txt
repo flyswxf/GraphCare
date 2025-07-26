@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+vitamin B1	is a	water-soluble vitamin
+vitamin B1	also known as	thiamine
+vitamin B1	cofactor for	carbohydrate metabolism
+vitamin B1	deficiency causes	beriberi
+vitamin B1	found in	whole grains
+vitamin B1	found in	legumes
+vitamin B1	found in	pork
+vitamin B6	is a	water-soluble vitamin
+vitamin B6	also known as	pyridoxine
+vitamin B6	cofactor for	amino acid metabolism
+vitamin B12	is a	water-soluble vitamin
+vitamin B12	also known as	cobalamin
+vitamin B12	required for	red blood cell formation
+vitamin B12	deficiency causes	anemia
+vitamin B12	absorbed in	ileum
+vitamin B complex	contains	vitamin B1
+vitamin B complex	contains	vitamin B6
+vitamin B complex	contains	vitamin B12
+thiamine	converted to	thiamine pyrophosphate
+thiamine pyrophosphate	coenzyme for	decarboxylation reactions
+beriberi	classified as	wet beriberi
+beriberi	classified as	dry beriberi
+wet beriberi	affects	cardiovascular system
+dry beriberi	affects	nervous system
+Wernicke-Korsakoff syndrome	caused by	thiamine deficiency
+Wernicke-Korsakoff syndrome	seen in	alcoholics
+pyridoxine	converted to	pyridoxal phosphate
+pyridoxal phosphate	cofactor for	neurotransmitter synthesis
+pyridoxine	used to treat	morning sickness
+pyridoxine	overdose causes	neuropathy
+cobalamin	requires	intrinsic factor
+intrinsic factor	produced by	parietal cells
+pernicious anemia	caused by	intrinsic factor deficiency
+vitamin B12	stored in	liver
+vitamin B12	requires	ileal receptors
+vitamin B1	recommended daily intake	1.2mg
+vitamin B6	recommended daily intake	1.3mg
+vitamin B12	recommended daily intake	2.4μg
+vitamin B1	absorption inhibited by	alcohol
+vitamin B1	absorption inhibited by	tea
+vitamin B1	absorption inhibited by	raw fish
+pyridoxine	helps reduce	homocysteine levels
+elevated homocysteine	risk factor for	cardiovascular disease
+vitamin B12	deficiency causes	neurological symptoms
+neurological symptoms	include	paresthesia
+vitamin B12	treatment for	megaloblastic anemia
+megaloblastic anemia	characterized by	macrocytic RBCs
+vitamin B complex	used to treat	peripheral neuropathy
+peripheral neuropathy	symptom of	diabetes
+vitamin B1	used to treat	Wernicke's encephalopathy
+vitamin B1	administered with	glucose
+glucose administration	increases demand for	thiamine
+vitamin B6	used to treat	sideroblastic anemia
+vitamin B6	interacts with	levodopa
+levodopa	treatment for	Parkinson's disease
+vitamin B12	available as	cyanocobalamin
+vitamin B12	available as	methylcobalamin
+methylcobalamin	active form of	vitamin B12
+cyanocobalamin	converted to	active forms
+vitamin B12	administered via	intramuscular injection
+vitamin B12	administered via	nasal spray
+vitamin B12 deficiency	diagnosed with	serum B12 levels
+vitamin B12 deficiency	diagnosed with	methylmalonic acid levels
+vitamin B12 deficiency	diagnosed with	homocysteine levels
+vitamin B1 deficiency	diagnosed with	erythrocyte transketolase activity
+vitamin B6 deficiency	diagnosed with	plasma PLP levels
+vitamin B complex	prescribed for	alcoholic patients
+vitamin B complex	prescribed for	malabsorption syndromes
+vitamin B complex	prescribed for	pregnancy
+pregnancy	increases requirement for	B vitamins
+elderly	at risk for	vitamin B12 deficiency
+proton pump inhibitors	reduce absorption of	vitamin B12
+metformin	reduces absorption of	vitamin B12
+vitamin B1	used in	critical illness
+critical illness	increases demand for	thiamine
+vitamin B6	used to treat	premenstrual syndrome
+vitamin B6	used to treat	carpal tunnel syndrome
+vitamin B12	important for	myelin synthesis
+myelin	essential for	nerve conduction
+vitamin B1	protects against	oxidative stress
+vitamin B6	cofactor for	heme synthesis
+heme	component of	hemoglobin
+vitamin B12	required for	DNA synthesis
+DNA synthesis	necessary for	cell division
+vitamin B complex	benefits	skin health
+vitamin B complex	benefits	hair health
+vitamin B complex	benefits	nail health
+vitamin B1	may improve	cognitive function
+vitamin B6	may reduce	nausea
+vitamin B12	may improve	energy levels
+vitamin B12	may prevent	neural tube defects
+neural tube defects	prevented by	folic acid
+folic acid	works synergistically with	vitamin B12
+vitamin B6	works synergistically with	magnesium
+magnesium	enhances effects of	vitamin B6
+vitamin B1	may benefit	heart failure patients
+heart failure	associated with	thiamine deficiency
+vitamin B12	may delay	cognitive decline
+cognitive decline	symptom of	Alzheimer's disease
+vitamin B complex	commonly supplemented in	vegetarians

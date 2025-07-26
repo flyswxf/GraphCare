@@ -1,0 +1,100 @@
+otitis media	is a	ear infection
+otitis media	affects	middle ear
+otitis media	may cause	ear pain
+otitis media	may cause	hearing loss
+otitis media	may cause	fever
+otitis media	is classified as	acute otitis media
+otitis media	is classified as	chronic otitis media
+acute otitis media	has symptom	ear drainage
+chronic otitis media	may lead	tympanic membrane perforation
+otitis media	is diagnosed with	otoscope examination
+otitis media	is treated with	antibiotics
+amoxicillin	is first-line for	otitis media
+otitis media	may require	tympanostomy tubes
+otitis media	is associated with	eustachian tube dysfunction
+eustachian tube dysfunction	causes	fluid accumulation
+otitis media	is more common in	children
+otitis media	is related to	upper respiratory infection
+streptococcus pneumoniae	is causative agent of	otitis media
+haemophilus influenzae	is causative agent of	otitis media
+moraxella catarrhalis	is causative agent of	otitis media
+otitis media	may complicate	mastoiditis
+mastoiditis	requires	intravenous antibiotics
+otitis media	may lead	cholesteatoma
+cholesteatoma	requires	surgical removal
+otitis media	is prevented by	pneumococcal vaccine
+PCV13	prevents	otitis media
+otitis media	is associated with	allergies
+allergic rhinitis	increases risk of	otitis media
+otitis media	is aggravated by	tobacco smoke
+otitis media	is managed with	pain relievers
+ibuprofen	reduces pain in	otitis media
+acetaminophen	reduces fever in	otitis media
+otitis media	has complication	meningitis
+meningitis	requires	emergency treatment
+otitis media	may cause	facial nerve palsy
+facial nerve palsy	leads to	facial drooping
+otitis media	is diagnosed with	tympanometry
+tympanometry	measures	middle ear function
+otitis media	is related to	adenoid hypertrophy
+adenoidectomy	reduces recurrence of	otitis media
+otitis media	has variant	otitis media with effusion
+otitis media with effusion	causes	conductive hearing loss
+otitis media	is associated with	daycare attendance
+bottle feeding	increases risk of	otitis media
+breastfeeding	decreases risk of	otitis media
+otitis media	is monitored with	hearing tests
+audiometry	assesses	hearing loss severity
+otitis media	may require	myringotomy
+myringotomy	drains	middle ear fluid
+otitis media	is exacerbated by	air travel
+decongestants	relieve symptoms of	otitis media
+antihistamines	help with	allergic otitis media
+otitis media	is complicated by	brain abscess
+brain abscess	requires	neurosurgical intervention
+otitis media	is linked to	sinusitis
+sinusitis	shares pathogens with	otitis media
+otitis media	is aggravated by	swimming
+swimmer's ear	differs from	otitis media
+otitis media	is associated with	Down syndrome
+cleft palate	predisposes to	otitis media
+otitis media	is treated with	amoxicillin-clavulanate
+cephalosporins	are alternatives for	otitis media
+azithromycin	is used for	penicillin-allergic patients
+otitis media	may cause	balance problems
+vertigo	is symptom of	labyrinthitis
+otitis media	is diagnosed with	pneumatic otoscopy
+pneumatic otoscopy	evaluates	tympanic membrane mobility
+otitis media	is managed with	watchful waiting
+observation	is appropriate for	mild otitis media
+otitis media	is prevented by	influenza vaccine
+influenza	predisposes to	otitis media
+otitis media	is common in	winter months
+otitis media	requires	follow-up visits
+hearing improvement	confirms resolution of	otitis media
+otitis media	is associated with	immune deficiency
+HIV	increases severity of	otitis media
+otitis media	may recur after	antibiotic treatment
+antibiotic resistance	complicates	otitis media treatment
+otitis media	is studied with	microbiological culture
+culture	identifies	causative bacteria
+otitis media	is documented with	ICD-10 coding
+H66.90	is code for	unspecified otitis media
+otitis media	increases healthcare utilization
+emergency visits	are common for	severe otitis media
+otitis media	affects	quality of life
+sleep disturbance	results from	otitis media
+otitis media	is researched in	otolaryngology
+clinical trials	evaluate new treatments for	otitis media
+otitis media	has genetic predisposition
+family history	increases risk of	otitis media
+otitis media	is managed by	pediatricians
+ENT specialists	handle complicated	otitis media
+otitis media	requires	pain management
+ear drops	relieve pain in	otitis media
+otitis media	is influenced by	socioeconomic factors
+poverty	increases prevalence of	otitis media
+otitis media	decreases	school attendance
+speech delay	may result from	chronic otitis media
+otitis media	is monitored with	tympanocentesis
+tympanocentesis	obtains	middle ear fluid sample

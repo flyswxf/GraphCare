@@ -1,0 +1,100 @@
+gastrectomy	is a	surgical procedure
+gastrectomy	treats	stomach cancer
+partial gastrectomy	removes part of	stomach
+total gastrectomy	removes entire	stomach
+gastrectomy	performed for	gastric ulcers
+gastrectomy	performed for	benign tumors
+gastrectomy	requires	general anesthesia
+gastrectomy	has risk of	bleeding
+gastrectomy	has risk of	infection
+gastrectomy	may cause	dumping syndrome
+gastrectomy	may lead to	vitamin deficiency
+gastrectomy	may lead to	anemia
+gastrectomy	requires	postoperative care
+gastrectomy	followed by	dietary changes
+gastrectomy	affects	digestion
+total gastrectomy	requires	esophagojejunostomy
+partial gastrectomy	preserves	pylorus
+gastrectomy	performed by	general surgeon
+gastrectomy	preceded by	imaging tests
+gastrectomy	preceded by	endoscopy
+gastrectomy	alternative to	chemotherapy
+gastrectomy	complementary to	radiation therapy
+gastrectomy	affects	nutritional status
+gastrectomy	may require	blood transfusion
+gastrectomy	has	recovery period
+gastrectomy	may cause	weight loss
+gastrectomy	may require	nutritional supplements
+gastrectomy	increases risk of	osteoporosis
+gastrectomy	affects	gastric emptying
+gastrectomy	changes	stomach acidity
+gastrectomy	alters	gut microbiota
+gastrectomy	may lead to	gastric stump cancer
+gastrectomy	requires	lymph node dissection
+gastrectomy	classified as	major surgery
+gastrectomy	has	mortality risk
+gastrectomy	may cause	anastomotic leak
+gastrectomy	may require	intensive care
+gastrectomy	preceded by	biopsy
+gastrectomy	indicated for	perforated ulcers
+gastrectomy	treatment for	Zollinger-Ellison syndrome
+gastrectomy	may require	proton pump inhibitors
+gastrectomy	affects	ghrelin production
+gastrectomy	changes	eating patterns
+gastrectomy	may cause	early satiety
+gastrectomy	may lead to	malnutrition
+gastrectomy	requires	follow-up endoscopy
+gastrectomy	associated with	quality of life changes
+gastrectomy	may require	feeding tube
+gastrectomy	affects	drug absorption
+gastrectomy	contraindicated in	severe comorbidities
+gastrectomy	may cause	bile reflux
+gastrectomy	may lead to	esophageal reflux
+gastrectomy	affects	iron absorption
+gastrectomy	affects	vitamin B12 absorption
+gastrectomy	may require	lifelong monitoring
+gastrectomy	performed via	laparotomy
+gastrectomy	performed via	laparoscopy
+gastrectomy	has	postoperative pain
+gastrectomy	requires	pain management
+gastrectomy	affects	body image
+gastrectomy	may cause	fatigue
+gastrectomy	may lead to	depression
+gastrectomy	requires	rehabilitation
+gastrectomy	preceded by	nutritional assessment
+gastrectomy	involves	stomach resection
+gastrectomy	affects	gastric hormones
+gastrectomy	alters	digestive enzymes
+gastrectomy	changes	intestinal adaptation
+gastrectomy	may cause	diarrhea
+gastrectomy	may lead to	dehydration
+gastrectomy	requires	fluid management
+gastrectomy	affects	glucose metabolism
+gastrectomy	may cause	reactive hypoglycemia
+gastrectomy	preceded by	cardiac evaluation
+gastrectomy	requires	pulmonary clearance
+gastrectomy	has	surgical complications
+gastrectomy	may require	reoperation
+gastrectomy	affects	life expectancy
+gastrectomy	performed in	hospital setting
+gastrectomy	requires	surgical team
+gastrectomy	uses	surgical instruments
+gastrectomy	involves	tissue dissection
+gastrectomy	requires	wound care
+gastrectomy	may cause	nerve damage
+gastrectomy	affects	abdominal muscles
+gastrectomy	changes	bowel habits
+gastrectomy	may lead to	small bowel obstruction
+gastrectomy	requires	activity restrictions
+gastrectomy	affects	physical function
+gastrectomy	may require	psychological support
+gastrectomy	preceded by	informed consent
+gastrectomy	involves	risk-benefit analysis
+gastrectomy	costs	healthcare resources
+gastrectomy	has	variable outcomes
+gastrectomy	depends on	surgeon experience
+gastrectomy	influenced by	patient factors
+gastrectomy	requires	multidisciplinary approach
+gastrectomy	documented in	medical records
+gastrectomy	subject to	surgical audits
+gastrectomy	contributes to	surgical research

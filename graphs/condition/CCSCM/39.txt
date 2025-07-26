@@ -1,0 +1,100 @@
+leukemias	are	blood cancers
+leukemias	originate in	bone marrow
+leukemias	involve	abnormal white blood cells
+acute lymphoblastic leukemia	is a type of	leukemias
+acute myeloid leukemia	is a type of	leukemias
+chronic lymphocytic leukemia	is a type of	leukemias
+chronic myeloid leukemia	is a type of	leukemias
+leukemias	may cause	anemia
+leukemias	may cause	thrombocytopenia
+leukemias	may cause	neutropenia
+leukemias	increase risk of	infections
+leukemias	may lead to	bleeding disorders
+leukemias	are diagnosed with	blood tests
+leukemias	are diagnosed with	bone marrow biopsy
+leukemias	can be classified by	cell lineage
+leukemias	can be classified by	disease progression
+chemotherapy	is a treatment for	leukemias
+radiation therapy	is a treatment for	leukemias
+stem cell transplant	is a treatment for	leukemias
+targeted therapy	is a treatment for	leukemias
+immunotherapy	is a treatment for	leukemias
+leukemias	may require	supportive care
+leukemias	are associated with	genetic mutations
+Philadelphia chromosome	is associated with	chronic myeloid leukemia
+FLT3 mutation	is associated with	acute myeloid leukemia
+TP53 mutation	is associated with	leukemias
+leukemias	have prognostic factors	age
+leukemias	have prognostic factors	white blood cell count
+leukemias	have prognostic factors	cytogenetics
+leukemias	can lead to	organ infiltration
+leukemias	can cause	splenomegaly
+leukemias	can cause	hepatomegaly
+leukemias	can cause	lymphadenopathy
+leukemias	may present with	fatigue
+leukemias	may present with	fever
+leukemias	may present with	weight loss
+leukemias	may present with	night sweats
+leukemias	may present with	bone pain
+leukemias	have subtypes	B-cell leukemia
+leukemias	have subtypes	T-cell leukemia
+leukemias	can transform into	lymphomas
+leukemias	are researched in	hematology
+leukemias	have risk factors	radiation exposure
+leukemias	have risk factors	chemical exposure
+leukemias	have risk factors	genetic predisposition
+leukemias	have risk factors	previous chemotherapy
+leukemias	can be monitored with	minimal residual disease testing
+leukemias	may relapse after	remission
+leukemias	have treatment complications	myelosuppression
+leukemias	have treatment complications	graft-versus-host disease
+leukemias	have treatment complications	secondary cancers
+leukemias	can be studied with	flow cytometry
+leukemias	can be studied with	cytogenetic analysis
+leukemias	can be studied with	molecular testing
+leukemias	have epidemiology	higher incidence in children
+leukemias	have epidemiology	higher incidence in elderly
+leukemias	have survival rates	varying by subtype
+leukemias	have survival rates	improving with new therapies
+leukemias	are managed by	oncologists
+leukemias	are managed by	hematologists
+leukemias	require	multidisciplinary care
+leukemias	may involve	central nervous system
+leukemias	can cause	leukostasis
+leukemias	can lead to	tumor lysis syndrome
+leukemias	are staged by	blood counts
+leukemias	are staged by	bone marrow involvement
+leukemias	may be treated with	CAR-T therapy
+leukemias	may be treated with	tyrosine kinase inhibitors
+leukemias	may be treated with	monoclonal antibodies
+leukemias	have clinical trials	for new treatments
+leukemias	have biomarkers	for diagnosis
+leukemias	have biomarkers	for prognosis
+leukemias	have biomarkers	for treatment response
+leukemias	can be detected early with	routine blood work
+leukemias	may correlate with	Down syndrome
+leukemias	may correlate with	Fanconi anemia
+leukemias	may correlate with	Li-Fraumeni syndrome
+leukemias	have complications	from treatment side effects
+leukemias	have complications	from disease progression
+leukemias	can be prevented by	avoiding carcinogens
+leukemias	can be prevented by	genetic counseling
+leukemias	have research focus	on precision medicine
+leukemias	have research focus	on immunotherapy
+leukemias	have research focus	on drug resistance
+leukemias	can be modeled in	animal studies
+leukemias	can be modeled in	cell cultures
+leukemias	have therapeutic targets	specific mutations
+leukemias	have therapeutic targets	signaling pathways
+leukemias	may co-occur with	myelodysplastic syndromes
+leukemias	may co-occur with	myeloproliferative neoplasms
+leukemias	can be classified by	immunophenotype
+leukemias	can be classified by	molecular profile
+leukemias	have differential diagnoses	lymphoma
+leukemias	have differential diagnoses	infection
+leukemias	have differential diagnoses	aplastic anemia
+leukemias	may be screened for	in high-risk populations
+leukemias	are reported in	cancer registries
+leukemias	have global burden	in healthcare systems
+leukemias	have advocacy groups	for patient support
+leukemias	have awareness campaigns	for early detection

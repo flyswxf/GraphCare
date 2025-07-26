@@ -1,0 +1,100 @@
+nephrectomy	is a	surgical procedure
+nephrectomy	treats	kidney disease
+partial nephrectomy	is a type of	nephrectomy
+radical nephrectomy	is a type of	nephrectomy
+nephrectomy	removes	kidney tissue
+nephrectomy	treats	kidney cancer
+nephrectomy	treats	renal cell carcinoma
+nephrectomy	treats	benign kidney tumors
+nephrectomy	treats	polycystic kidney disease
+nephrectomy	treats	kidney trauma
+nephrectomy	requires	general anesthesia
+nephrectomy	performed by	urologist
+nephrectomy	performed by	surgeon
+nephrectomy	uses	laparoscope
+laparoscopic nephrectomy	is a type of	nephrectomy
+robotic nephrectomy	is a type of	nephrectomy
+open nephrectomy	is a type of	nephrectomy
+nephrectomy	may cause	bleeding
+nephrectomy	may cause	infection
+nephrectomy	may cause	blood clots
+nephrectomy	may cause	pneumonia
+nephrectomy	may cause	hernia
+nephrectomy	requires	hospital stay
+nephrectomy	followed by	recovery period
+nephrectomy	requires	pain management
+nephrectomy	affects	kidney function
+partial nephrectomy	preserves	kidney function
+radical nephrectomy	removes	entire kidney
+nephrectomy	may require	dialysis
+nephrectomy	may require	kidney transplant
+nephrectomy	preceded by	imaging tests
+nephrectomy	preceded by	CT scan
+nephrectomy	preceded by	MRI
+nephrectomy	preceded by	ultrasound
+nephrectomy	preceded by	blood tests
+nephrectomy	preceded by	urine tests
+nephrectomy	requires	preoperative evaluation
+nephrectomy	contraindicated in	severe heart disease
+nephrectomy	contraindicated in	severe lung disease
+nephrectomy	contraindicated in	bleeding disorders
+nephrectomy	affects	blood pressure
+nephrectomy	increases risk of	chronic kidney disease
+nephrectomy	requires	follow-up care
+nephrectomy	followed by	kidney function monitoring
+nephrectomy	followed by	imaging surveillance
+nephrectomy	has alternative	ablation therapy
+nephrectomy	has alternative	active surveillance
+nephrectomy	more effective than	radiation therapy
+nephrectomy	more effective than	chemotherapy
+nephrectomy	treats	Wilms tumor
+nephrectomy	treats	renal angiomyolipoma
+nephrectomy	treats	kidney stones
+nephrectomy	treats	hydronephrosis
+nephrectomy	treats	kidney infection
+nephrectomy	treats	renal artery stenosis
+partial nephrectomy	preserves	nephrons
+partial nephrectomy	reduces risk of	chronic kidney disease
+partial nephrectomy	more complex than	radical nephrectomy
+partial nephrectomy	requires	specialized training
+partial nephrectomy	has higher	complication risk
+radical nephrectomy	removes	adrenal gland
+radical nephrectomy	removes	surrounding fat
+radical nephrectomy	removes	lymph nodes
+radical nephrectomy	standard for	large tumors
+radical nephrectomy	has better	oncologic outcomes
+nephrectomy	affects	quality of life
+nephrectomy	requires	dietary changes
+nephrectomy	requires	fluid restriction
+nephrectomy	requires	medication adjustment
+nephrectomy	increases risk of	cardiovascular disease
+nephrectomy	associated with	proteinuria
+nephrectomy	associated with	hypertension
+nephrectomy	associated with	anemia
+nephrectomy	associated with	bone disease
+nephrectomy	requires	nephrology consultation
+nephrectomy	preceded by	biopsy
+nephrectomy	preceded by	tumor staging
+nephrectomy	decision based on	tumor size
+nephrectomy	decision based on	tumor location
+nephrectomy	decision based on	patient age
+nephrectomy	decision based on	comorbidities
+nephrectomy	decision based on	kidney function
+nephrectomy	more common in	older adults
+nephrectomy	more common in	males
+nephrectomy	risk factor	smoking
+nephrectomy	risk factor	obesity
+nephrectomy	risk factor	hypertension
+nephrectomy	risk factor	genetic predisposition
+nephrectomy	prevents	metastasis
+nephrectomy	improves	survival rate
+nephrectomy	combined with	immunotherapy
+nephrectomy	combined with	targeted therapy
+nephrectomy	research focus	minimally invasive techniques
+nephrectomy	research focus	nephron sparing
+nephrectomy	research focus	robotic assistance
+nephrectomy	outcome measure	surgical margins
+nephrectomy	outcome measure	recurrence rate
+nephrectomy	outcome measure	survival time
+nephrectomy	outcome measure	complication rate
+nephrectomy	outcome measure	renal function

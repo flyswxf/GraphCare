@@ -1,0 +1,100 @@
+all other non-therapeutic products	include	dietary supplements
+all other non-therapeutic products	include	cosmetics
+all other non-therapeutic products	include	medical devices
+all other non-therapeutic products	include	diagnostic tools
+all other non-therapeutic products	include	hygiene products
+all other non-therapeutic products	regulated by	FDA
+all other non-therapeutic products	classified under	consumer goods
+all other non-therapeutic products	may contain	preservatives
+all other non-therapeutic products	used for	wellness
+all other non-therapeutic products	subject to	quality control
+dietary supplements	may contain	vitamins
+dietary supplements	may contain	minerals
+dietary supplements	may cause	adverse effects
+dietary supplements	marketed for	health benefits
+dietary supplements	not evaluated by	FDA efficacy standards
+cosmetics	include	skincare products
+cosmetics	include	makeup
+cosmetics	may cause	allergic reactions
+cosmetics	regulated by	cosmetic safety guidelines
+cosmetics	tested for	skin irritation
+medical devices	include	thermometers
+medical devices	include	blood pressure monitors
+medical devices	require	FDA approval
+medical devices	used for	monitoring
+medical devices	classified by	risk level
+diagnostic tools	include	pregnancy tests
+diagnostic tools	include	glucose meters
+diagnostic tools	require	calibration
+diagnostic tools	used for	early detection
+diagnostic tools	may have	false positives
+hygiene products	include	hand sanitizers
+hygiene products	include	disinfectants
+hygiene products	prevent	infections
+hygiene products	contain	antimicrobial agents
+hygiene products	regulated by	health agencies
+FDA	oversees	product safety
+FDA	issues	recalls
+FDA	enforces	labeling requirements
+FDA	collaborates with	manufacturers
+FDA	evaluates	adverse event reports
+consumer goods	categorized by	usage
+consumer goods	sold in	pharmacies
+consumer goods	marketed for	convenience
+consumer goods	may require	prescriptions
+consumer goods	include	over-the-counter items
+preservatives	extend	shelf life
+preservatives	may trigger	sensitivities
+preservatives	used in	food and cosmetics
+preservatives	regulated by	safety limits
+preservatives	prevent	microbial growth
+wellness	promoted by	lifestyle products
+wellness	associated with	preventive care
+wellness	supported by	nutrition
+wellness	influenced by	mental health
+wellness	measured by	biomarkers
+quality control	ensures	product consistency
+quality control	involves	testing
+quality control	minimizes	defects
+quality control	required by	regulations
+quality control	improves	consumer trust
+vitamins	support	immune function
+vitamins	deficiency causes	health issues
+vitamins	divided into	fat-soluble and water-soluble
+vitamins	found in	natural foods
+vitamins	overdosed	can be toxic
+minerals	essential for	metabolic processes
+minerals	include	iron and calcium
+minerals	affect	bone health
+minerals	obtained from	diet
+minerals	imbalance causes	disorders
+adverse effects	reported to	pharmacovigilance
+adverse effects	range from	mild to severe
+adverse effects	monitored by	healthcare providers
+adverse effects	documented in	clinical trials
+adverse effects	influence	product recalls
+health benefits	claimed by	manufacturers
+health benefits	supported by	studies
+health benefits	vary by	individual
+health benefits	evaluated by	evidence
+health benefits	disputed by	skeptics
+FDA efficacy standards	required for	drug approval
+FDA efficacy standards	not applied to	supplements
+FDA efficacy standards	based on	clinical data
+FDA efficacy standards	ensure	safety
+FDA efficacy standards	updated periodically
+skincare products	treat	acne
+skincare products	contain	moisturizers
+skincare products	target	aging signs
+skincare products	tested for	dermatological safety
+skincare products	recommended by	dermatologists
+makeup	enhances	appearance
+makeup	includes	foundations
+makeup	may clog	pores
+makeup	removed by	cleansers
+makeup	tested for	hypoallergenic properties
+allergic reactions	triggered by	ingredients
+allergic reactions	treated with	antihistamines
+allergic reactions	documented in	patient history
+allergic reactions	prevented by	patch testing
+allergic reactions	severity varies	individually

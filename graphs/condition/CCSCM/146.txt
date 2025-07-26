@@ -1,0 +1,100 @@
+diverticulosis	is a	digestive condition
+diverticulitis	is a	digestive condition
+diverticulosis	may progress to	diverticulitis
+diverticulosis	involves	colon pouches
+diverticulitis	involves	inflamed pouches
+low-fiber diet	is a risk factor for	diverticulosis
+aging	is a risk factor for	diverticulosis
+obesity	is a risk factor for	diverticulitis
+smoking	is a risk factor for	diverticulitis
+diverticulitis	may cause	abdominal pain
+diverticulitis	may cause	fever
+diverticulitis	may cause	nausea
+diverticulitis	may cause	constipation
+diverticulitis	may cause	diarrhea
+diverticulitis	may lead to	abscess
+diverticulitis	may lead to	perforation
+diverticulitis	may lead to	fistula
+diverticulitis	may lead to	obstruction
+CT scan	diagnoses	diverticulitis
+colonoscopy	diagnoses	diverticulosis
+antibiotics	treat	diverticulitis
+clear liquid diet	treats	diverticulitis
+surgery	treats	severe diverticulitis
+high-fiber diet	prevents	diverticulosis
+exercise	prevents	diverticulosis
+probiotics	may help with	diverticulitis
+diverticulitis	requires	hospitalization
+diverticulitis	increases risk of	recurrence
+diverticulosis	is common in	Western countries
+diverticulitis	is more common in	elderly
+diverticulitis	may require	bowel rest
+pain medication	manages	diverticulitis symptoms
+diverticulitis	may affect	quality of life
+diverticulosis	often has	no symptoms
+diverticulitis	has	acute symptoms
+diverticulitis	may mimic	appendicitis
+diverticulitis	may mimic	irritable bowel syndrome
+diverticulitis	may mimic	ovarian cyst
+diverticulitis	may mimic	urinary tract infection
+diverticulosis	is detected by	colonoscopy
+diverticulitis	is confirmed by	imaging
+white blood cell count	increases in	diverticulitis
+C-reactive protein	increases in	diverticulitis
+antibiotic resistance	complicates	diverticulitis treatment
+diverticulitis	may cause	sepsis
+diverticulitis	increases risk of	colectomy
+diverticulitis	may require	colostomy
+diverticulitis	affects	recovery time
+diverticulitis	impacts	work productivity
+diverticulosis	is associated with	chronic constipation
+diverticulitis	is associated with	acute inflammation
+diverticulosis	has	genetic component
+diverticulitis	has	environmental triggers
+red meat consumption	increases risk of	diverticulitis
+alcohol consumption	increases risk of	diverticulitis
+physical inactivity	increases risk of	diverticulitis
+diverticulitis	may cause	rectal bleeding
+diverticulitis	may cause	bloating
+diverticulitis	may cause	tenderness
+diverticulitis	may cause	leukocytosis
+diverticulitis	may cause	elevated sedimentation rate
+diverticulitis	may cause	urinary symptoms
+diverticulitis	may cause	bowel habit changes
+diverticulitis	requires	follow-up care
+diverticulitis	increases	healthcare costs
+diverticulitis	affects	mental health
+diverticulitis	may trigger	depression
+diverticulitis	may trigger	anxiety
+diverticulitis	may require	pain management
+diverticulitis	may require	nutritional support
+diverticulitis	may lead to	adhesions
+diverticulitis	may lead to	strictures
+diverticulitis	may complicate	pregnancy
+diverticulitis	may affect	medication absorption
+diverticulitis	may interfere with	diabetes management
+diverticulitis	may complicate	chemotherapy
+diverticulitis	may affect	immune function
+diverticulitis	may increase	infection risk
+diverticulitis	may require	wound care
+diverticulitis	may lead to	weight loss
+diverticulitis	may cause	dehydration
+diverticulitis	may require	intravenous fluids
+diverticulitis	may need	drainage procedure
+diverticulitis	may lead to	secondary infections
+diverticulitis	may cause	electrolyte imbalances
+diverticulitis	may affect	kidney function
+diverticulitis	may complicate	heart conditions
+diverticulitis	may worsen	lung conditions
+diverticulitis	may interact with	blood thinners
+diverticulitis	may affect	surgical outcomes
+diverticulitis	may delay	other treatments
+diverticulitis	may require	specialist referral
+diverticulitis	may impact	family life
+diverticulitis	may affect	sexual health
+diverticulitis	may change	body image
+diverticulitis	may reduce	physical activity
+diverticulitis	may influence	dietary choices
+diverticulitis	may require	lifestyle modifications
+diverticulitis	may lead to	chronic pain
+diverticulitis	may decrease	life expectancy

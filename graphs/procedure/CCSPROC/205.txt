@@ -1,0 +1,100 @@
+arterial blood gases	measures	oxygen levels
+arterial blood gases	measures	carbon dioxide levels
+arterial blood gases	measures	blood pH
+arterial blood gases	assesses	respiratory function
+arterial blood gases	evaluates	metabolic status
+arterial blood gases	used in	critical care
+arterial blood gases	helps diagnose	respiratory failure
+arterial blood gases	monitors	ventilator settings
+arterial blood gases	detects	acid-base disorders
+arterial blood gases	requires	arterial puncture
+arterial puncture	is a	medical procedure
+arterial puncture	performed by	healthcare professionals
+arterial puncture	carries risk	hematoma
+hematoma	is a	complication
+complication	may require	medical intervention
+medical intervention	includes	compression
+compression	prevents	bleeding
+bleeding	can lead	hypovolemia
+hypovolemia	requires	fluid resuscitation
+fluid resuscitation	uses	intravenous fluids
+intravenous fluids	include	saline solution
+saline solution	restores	blood volume
+blood volume	affects	blood pressure
+blood pressure	monitored with	sphygmomanometer
+sphygmomanometer	measures	systolic pressure
+systolic pressure	indicates	cardiac output
+cardiac output	influenced by	heart rate
+heart rate	regulated by	autonomic nervous system
+autonomic nervous system	controls	involuntary functions
+involuntary functions	include	breathing
+breathing	regulated by	respiratory center
+respiratory center	located in	brainstem
+brainstem	controls	vital functions
+vital functions	include	circulation
+circulation	delivers	oxygen
+oxygen	transported by	hemoglobin
+hemoglobin	binds	oxygen molecules
+oxygen molecules	utilized by	cells
+cells	produce	carbon dioxide
+carbon dioxide	excreted by	lungs
+lungs	exchange	gases
+gases	diffuse across	alveoli
+alveoli	lined by	surfactant
+surfactant	prevents	alveolar collapse
+alveolar collapse	leads to	atelectasis
+atelectasis	reduces	lung compliance
+lung compliance	affects	ventilation
+ventilation	influences	oxygenation
+oxygenation	reflected in	oxygen saturation
+oxygen saturation	measured by	pulse oximetry
+pulse oximetry	noninvasive	monitoring method
+monitoring method	used in	hospitals
+hospitals	employ	nurses
+nurses	administer	medications
+medications	include	bronchodilators
+bronchodilators	treat	asthma
+asthma	characterized by	bronchoconstriction
+bronchoconstriction	relieved by	beta-agonists
+beta-agonists	stimulate	adrenergic receptors
+adrenergic receptors	modulate	smooth muscle
+smooth muscle	lines	airways
+airways	obstructed in	COPD
+COPD	managed with	corticosteroids
+corticosteroids	reduce	inflammation
+inflammation	caused by	cytokines
+cytokines	released by	immune cells
+immune cells	include	macrophages
+macrophages	phagocytose	pathogens
+pathogens	cause	infections
+infections	treated with	antibiotics
+antibiotics	target	bacteria
+bacteria	can develop	resistance
+resistance	leads to	treatment failure
+treatment failure	requires	alternative therapy
+alternative therapy	includes	antivirals
+antivirals	effective against	viruses
+viruses	cause	influenza
+influenza	prevented by	vaccination
+vaccination	stimulates	immunity
+immunity	protects against	disease
+disease	diagnosed by	laboratory tests
+laboratory tests	include	complete blood count
+complete blood count	measures	hemoglobin
+hemoglobin	low in	anemia
+anemia	treated with	iron supplements
+iron supplements	increase	red blood cells
+red blood cells	produced in	bone marrow
+bone marrow	affected by	chemotherapy
+chemotherapy	used for	cancer
+cancer	characterized by	uncontrolled growth
+uncontrolled growth	leads to	metastasis
+metastasis	spreads to	other organs
+other organs	include	liver
+liver	metabolizes	drugs
+drugs	excreted by	kidneys
+kidneys	regulate	electrolytes
+electrolytes	include	sodium
+sodium	imbalance causes	hyponatremia
+hyponatremia	corrected by	fluid restriction
+fluid restriction	prevents	edema

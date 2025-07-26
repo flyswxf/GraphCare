@@ -1,0 +1,131 @@
+acute myocardial infarction	is a	cardiovascular condition
+acute myocardial infarction	may cause	arrhythmia
+acute myocardial infarction	may lead to	heart failure
+acute myocardial infarction	is associated with	chest pain
+acute myocardial infarction	is associated with	shortness of breath
+acute myocardial infarction	is associated with	diaphoresis
+acute myocardial infarction	is associated with	nausea
+acute myocardial infarction	is associated with	vomiting
+acute myocardial infarction	is associated with	syncope
+acute myocardial infarction	is associated with	hypotension
+acute myocardial infarction	is associated with	elevated troponin
+acute myocardial infarction	is associated with	elevated CK-MB
+acute myocardial infarction	is associated with	ECG changes
+acute myocardial infarction	is associated with	ST-segment elevation
+acute myocardial infarction	is associated with	T-wave inversion
+acute myocardial infarction	is associated with	Q-wave formation
+acute myocardial infarction	is associated with	atherosclerosis
+acute myocardial infarction	is associated with	coronary artery disease
+acute myocardial infarction	is associated with	hyperlipidemia
+acute myocardial infarction	is associated with	hypertension
+acute myocardial infarction	is associated with	diabetes mellitus
+acute myocardial infarction	is associated with	smoking
+acute myocardial infarction	is associated with	obesity
+acute myocardial infarction	is associated with	sedentary lifestyle
+acute myocardial infarction	is associated with	family history of heart disease
+acute myocardial infarction	is associated with	male gender
+acute myocardial infarction	is associated with	older age
+acute myocardial infarction	is associated with	stress
+acute myocardial infarction	is associated with	cocaine use
+acute myocardial infarction	is treated with	aspirin
+acute myocardial infarction	is treated with	nitroglycerin
+acute myocardial infarction	is treated with	beta-blockers
+acute myocardial infarction	is treated with	ACE inhibitors
+acute myocardial infarction	is treated with	thrombolytics
+acute myocardial infarction	is treated with	percutaneous coronary intervention
+acute myocardial infarction	is treated with	coronary artery bypass graft
+acute myocardial infarction	is treated with	heparin
+acute myocardial infarction	is treated with	clopidogrel
+acute myocardial infarction	is treated with	metoprolol
+acute myocardial infarction	is treated with	simvastatin
+acute myocardial infarction	is treated with	morphine
+acute myocardial infarction	is treated with	oxygen
+acute myocardial infarction	is treated with	calcium channel blockers
+acute myocardial infarction	is treated with	antiplatelet agents
+acute myocardial infarction	is treated with	anticoagulants
+acute myocardial infarction	is treated with	anti-ischemic drugs
+acute myocardial infarction	is treated with	antihypertensive drugs
+acute myocardial infarction	is treated with	antianginal drugs
+acute myocardial infarction	is treated with	lipid-lowering drugs
+acute myocardial infarction	is treated with	reperfusion therapy
+acute myocardial infarction	is treated with	primary angioplasty
+acute myocardial infarction	is treated with	fibrinolytic therapy
+acute myocardial infarction	is treated with	anti-inflammatory drugs
+acute myocardial infarction	is treated with	antiarrhythmic drugs
+acute myocardial infarction	is treated with	pain management
+acute myocardial infarction	is treated with	risk factor modification
+acute myocardial infarction	is treated with	cardiac rehabilitation
+acute myocardial infarction	is treated with	lifestyle changes
+acute myocardial infarction	is treated with	smoking cessation
+acute myocardial infarction	is treated with	weight loss
+acute myocardial infarction	is treated with	exercise
+acute myocardial infarction	is treated with	dietary changes
+acute myocardial infarction	is treated with	blood pressure control
+acute myocardial infarction	is treated with	cholesterol control
+acute myocardial infarction	is treated with	glucose control
+acute myocardial infarction	is treated with	statins
+acute myocardial infarction	is treated with	antiplatelet therapy
+acute myocardial infarction	is treated with	anticoagulation therapy
+acute myocardial infarction	is treated with	antithrombotic therapy
+acute myocardial infarction	is treated with	anti-ischemic therapy
+acute myocardial infarction	is treated with	antiarrhythmic therapy
+acute myocardial infarction	is treated with	antihypertensive therapy
+acute myocardial infarction	is treated with	antidiabetic therapy
+acute myocardial infarction	is treated with	anti-inflammatory therapy
+acute myocardial infarction	is treated with	cardiac monitoring
+acute myocardial infarction	is treated with	intravenous therapy
+acute myocardial infarction	is treated with	emergency care
+acute myocardial infarction	is treated with	hospitalization
+acute myocardial infarction	is treated with	intensive care unit admission
+acute myocardial infarction	is treated with	coronary angiography
+acute myocardial infarction	is treated with	stent placement
+acute myocardial infarction	is treated with	bypass surgery
+acute myocardial infarction	is treated with	interventional cardiology
+acute myocardial infarction	is treated with	cardiology
+acute myocardial infarction	is treated with	emergency medicine
+acute myocardial infarction	is treated with	internal medicine
+acute myocardial infarction	is treated with	critical care
+acute myocardial infarction	is treated with	pain relief
+acute myocardial infarction	is treated with	anticoagulation monitoring
+acute myocardial infarction	is treated with	anticoagulation reversal
+acute myocardial infarction	is treated with	antiplatelet reversal
+acute myocardial infarction	is treated with	antiarrhythmic drugs
+acute myocardial infarction	is treated with	diuretics
+acute myocardial infarction	is treated with	angiotensin receptor blockers
+acute myocardial infarction	is treated with	nitrates
+acute myocardial infarction	is treated with	antiplatelet therapy initiation
+acute myocardial infarction	is treated with	anticoagulant therapy initiation
+acute myocardial infarction	is treated with	thrombolytic therapy initiation
+acute myocardial infarction	is treated with	anti-ischemic therapy initiation
+acute myocardial infarction	is treated with	antiarrhythmic therapy initiation
+acute myocardial infarction	is treated with	antihypertensive therapy initiation
+acute myocardial infarction	is treated with	antidiabetic therapy initiation
+acute myocardial infarction	is treated with	anti-inflammatory therapy initiation
+acute myocardial infarction	is treated with	cardiac support
+acute myocardial infarction	is treated with	heart failure management
+acute myocardial infarction	is treated with	arrhythmia management
+acute myocardial infarction	is treated with	chest pain management
+acute myocardial infarction	is treated with	breathlessness management
+acute myocardial infarction	is treated with	hypotension management
+acute myocardial infarction	is treated with	syncope management
+acute myocardial infarction	is treated with	nausea management
+acute myocardial infarction	is treated with	vomiting management
+acute myocardial infarction	is treated with	diaphoresis management
+acute myocardial infarction	is treated with	troponin monitoring
+acute myocardial infarction	is treated with	CK-MB monitoring
+acute myocardial infarction	is treated with	ECG monitoring
+acute myocardial infarction	is treated with	ST-segment monitoring
+acute myocardial infarction	is treated with	T-wave monitoring
+acute myocardial infarction	is treated with	Q-wave monitoring
+acute myocardial infarction	is treated with	atherosclerosis management
+acute myocardial infarction	is treated with	coronary artery disease management
+acute myocardial infarction	is treated with	hyperlipidemia management
+acute myocardial infarction	is treated with	hypertension management
+acute myocardial infarction	is treated with	diabetes management
+acute myocardial infarction	is treated with	smoking cessation management
+acute myocardial infarction	is treated with	obesity management
+acute myocardial infarction	is treated with	sedentary lifestyle modification
+acute myocardial infarction	is treated with	stress management
+acute myocardial infarction	is treated with	family history monitoring
+acute myocardial infarction	is treated with	male gender consideration
+acute myocardial infarction	is treated with	older age consideration

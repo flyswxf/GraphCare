@@ -1,0 +1,100 @@
+E codes	classifies	external causes
+E codes	includes	other specified
+E codes	includes	NEC
+other specified	is a subset of	E codes
+NEC	is a subset of	E codes
+E codes	is part of	ICD coding system
+ICD coding system	is used for	mortality statistics
+ICD coding system	is used for	reimbursement
+E codes	assists in	injury prevention
+E codes	aids in	trauma research
+other specified	indicates	unspecified details
+NEC	indicates	insufficient specificity
+E codes	helps track	accident patterns
+E codes	supports	public health planning
+other specified	requires	clinical documentation
+NEC	requires	physician clarification
+E codes	influences	hospital funding
+E codes	affects	quality metrics
+other specified	may lead to	coding audits
+NEC	may lead to	claim denials
+E codes	correlate with	patient demographics
+E codes	impact	epidemiological studies
+other specified	suggests	atypical presentations
+NEC	suggests	rare conditions
+E codes	interface with	EHR systems
+E codes	are mapped to	SNOMED CT
+other specified	appears in	discharge summaries
+NEC	appears in	billing records
+E codes	guide	prevention programs
+E codes	inform	safety regulations
+other specified	differs from	NOS codes
+NEC	differs from	explicit codes
+E codes	require	coder training
+E codes	undergo	annual updates
+other specified	increases	documentation burden
+NEC	increases	coding variability
+E codes	assist in	forensic analysis
+E codes	contribute to	injury databases
+other specified	necessitates	clinical correlation
+NEC	necessitates	expert review
+E codes	facilitate	cross-facility comparisons
+E codes	enable	trend analysis
+other specified	reflects	diagnostic uncertainty
+NEC	reflects	classification limitations
+E codes	are essential for	workers compensation
+E codes	support	litigation processes
+other specified	may indicate	emerging risks
+NEC	may indicate	data gaps
+E codes	integrate with	trauma registries
+E codes	feed into	government reports
+other specified	corresponds to	residual categories
+NEC	corresponds to	unspecified entities
+E codes	influence	insurance premiums
+E codes	shape	prevention policies
+other specified	requires	manual review
+NEC	requires	additional documentation
+E codes	are linked to	cause-of-death coding
+E codes	improve	injury surveillance
+other specified	complicates	data analysis
+NEC	complicates	outcome studies
+E codes	assist in	hazard identification
+E codes	contribute to	safety standards
+other specified	varies by	coding guidelines
+NEC	varies by	country regulations
+E codes	are reviewed by	coding committees
+E codes	undergo	periodic revisions
+other specified	affects	research validity
+NEC	affects	statistical power
+E codes	interface with	public health alerts
+E codes	trigger	intervention programs
+other specified	appears in	mortality data
+NEC	appears in	morbidity statistics
+E codes	are taught in	medical coding courses
+E codes	require	specific modifiers
+other specified	leads to	coding queries
+NEC	leads to	documentation requests
+E codes	support	occupational health studies
+E codes	inform	product safety recalls
+other specified	indicates	classification challenges
+NEC	indicates	terminology gaps
+E codes	are used in	cost-benefit analyses
+E codes	aid in	resource allocation
+other specified	reflects	diagnostic complexity
+NEC	reflects	nomenclature constraints
+E codes	facilitate	international comparisons
+E codes	standardize	cause reporting
+other specified	requires	clinical context
+NEC	requires	coding expertise
+E codes	impact	hospital rankings
+E codes	affect	quality reporting
+other specified	may trigger	compliance reviews
+NEC	may trigger	coding audits
+E codes	are analyzed by	health economists
+E codes	inform	prevention budgeting
+other specified	complicates	benchmarking
+NEC	complicates	performance measurement
+E codes	support	injury litigation
+E codes	contribute to	risk assessment
+other specified	appears in	research publications
+NEC	appears in	health policy documents

@@ -1,0 +1,100 @@
+psychostimulants	are	drugs
+psychostimulants	treat	ADHD
+psychostimulants	enhance	cognition
+psychostimulants	include	amphetamines
+amphetamines	are	controlled substances
+ADHD	is	neurodevelopmental disorder
+psychostimulants	increase	dopamine
+dopamine	is	neurotransmitter
+psychostimulants	may cause	insomnia
+insomnia	affects	sleep quality
+psychostimulants	improve	focus
+focus	is important for	productivity
+psychostimulants	may lead	dependence
+dependence	requires	medical supervision
+psychostimulants	include	methylphenidate
+methylphenidate	is	Ritalin
+Ritalin	is	brand name
+psychostimulants	affect	norepinephrine
+norepinephrine	influences	attention
+psychostimulants	are	nootropics
+nootropics	are	cognitive enhancers
+cognitive enhancers	may improve	memory
+memory	is	cognitive function
+psychostimulants	prescribed for	narcolepsy
+narcolepsy	causes	excessive sleepiness
+psychostimulants	contraindicated in	hypertension
+hypertension	is	high blood pressure
+psychostimulants	may cause	anxiety
+anxiety	is	mental health condition
+psychostimulants	metabolized in	liver
+liver	is	detoxification organ
+psychostimulants	interact with	MAOIs
+MAOIs	are	antidepressants
+psychostimulants	have	half-life
+half-life	determines	dosage frequency
+psychostimulants	may suppress	appetite
+appetite loss	leads to	weight loss
+psychostimulants	increase	heart rate
+heart rate	is	vital sign
+psychostimulants	used as	study aids
+study aids	help	academic performance
+psychostimulants	cause	vasoconstriction
+vasoconstriction	affects	blood flow
+psychostimulants	include	modafinil
+modafinil	treats	shift work disorder
+shift work disorder	affects	circadian rhythm
+psychostimulants	may improve	executive function
+executive function	includes	decision making
+psychostimulants	banned in	competitive sports
+competitive sports	require	doping tests
+psychostimulants	cross	blood-brain barrier
+blood-brain barrier	protects	CNS
+CNS	stands for	central nervous system
+psychostimulants	contraindicated in	glaucoma
+glaucoma	affects	optic nerve
+psychostimulants	may cause	irritability
+irritability	is	mood symptom
+psychostimulants	include	dextroamphetamine
+dextroamphetamine	is	Dexedrine
+Dexedrine	has	abuse potential
+abuse potential	leads to	addiction
+psychostimulants	increase	energy levels
+energy levels	affect	daily functioning
+psychostimulants	may cause	headaches
+headaches	are	common side effect
+psychostimulants	interact with	caffeine
+caffeine	is	stimulant
+psychostimulants	prescribed as	Adderall
+Adderall	contains	amphetamine salts
+amphetamine salts	have	synergistic effect
+synergistic effect	enhances	therapeutic action
+psychostimulants	may cause	dry mouth
+dry mouth	increases	dental caries risk
+psychostimulants	require	prescription
+prescription	ensures	proper dosage
+psychostimulants	affect	reward system
+reward system	involves	nucleus accumbens
+nucleus accumbens	is	brain region
+psychostimulants	may worsen	tics
+tics	are	movement disorders
+psychostimulants	increase	alertness
+alertness	improves	reaction time
+psychostimulants	contraindicated in	heart disease
+heart disease	requires	cardiologist consultation
+psychostimulants	may cause	gastrointestinal distress
+gastrointestinal distress	includes	nausea
+psychostimulants	are	Schedule II drugs
+Schedule II drugs	have	high abuse potential
+psychostimulants	may improve	motivation
+motivation	drives	goal-directed behavior
+psychostimulants	affect	prefrontal cortex
+prefrontal cortex	governs	impulse control
+impulse control	is	executive function
+psychostimulants	may cause	sweating
+sweating	is	autonomic response
+psychostimulants	interact with	alcohol
+alcohol	is	depressant
+psychostimulants	require	tolerance monitoring
+tolerance monitoring	prevents	dosage escalation
+psychostimulants	have	therapeutic window

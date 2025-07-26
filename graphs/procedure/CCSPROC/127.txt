@@ -1,0 +1,100 @@
+D&C	is a	surgical procedure
+D&C	used for	uterine evacuation
+D&C	treats	incomplete abortion
+D&C	removes	retained products of conception
+D&C	prevents	infection
+D&C	causes	uterine perforation
+D&C	requires	anesthesia
+D&C	performed after	miscarriage
+D&C	manages	postpartum hemorrhage
+D&C	involves	cervix dilation
+D&C	followed by	bleeding
+D&C	risks	Asherman syndrome
+D&C	uses	curette
+D&C	alternative to	medication abortion
+D&C	requires	preoperative assessment
+D&C	contraindicated in	ectopic pregnancy
+D&C	preceded by	ultrasound
+D&C	associated with	cramping
+D&C	performed by	gynecologist
+D&C	followed by	tissue examination
+D&C	indicated for	molar pregnancy
+D&C	contraindicated in	pelvic infection
+D&C	requires	sterile technique
+D&C	complications include	cervical injury
+D&C	recovery involves	pelvic rest
+aspiration	is a	procedure
+aspiration	alternative to	D&C
+aspiration	uses	suction
+aspiration	performed for	incomplete abortion
+aspiration	manages	retained placenta
+aspiration	less invasive than	D&C
+aspiration	requires	local anesthesia
+aspiration	risks	uterine atony
+aspiration	performed with	manual vacuum
+aspiration	treats	postpartum bleeding
+aspiration	contraindicated in	sepsis
+aspiration	preceded by	bimanual exam
+aspiration	associated with	nausea
+aspiration	performed by	obstetrician
+aspiration	followed by	vital monitoring
+aspiration	indicated for	first trimester
+aspiration	contraindicated in	coagulopathy
+aspiration	requires	pain management
+aspiration	complications include	hemorrhage
+aspiration	recovery involves	follow-up
+postpartum hemorrhage	treated with	D&C
+postpartum hemorrhage	managed by	aspiration
+postpartum hemorrhage	causes	anemia
+postpartum hemorrhage	requires	blood transfusion
+postpartum hemorrhage	prevented by	oxytocin
+incomplete abortion	diagnosed by	ultrasound
+incomplete abortion	leads to	infection
+incomplete abortion	requires	intervention
+incomplete abortion	presents with	bleeding
+incomplete abortion	treated by	D&C
+retained products	cause	endometritis
+retained products	detected by	imaging
+retained products	require	removal
+retained products	lead to	sepsis
+retained products	treated by	aspiration
+uterine perforation	complication of	D&C
+uterine perforation	requires	laparoscopy
+uterine perforation	causes	peritonitis
+uterine perforation	prevented by	ultrasound
+uterine perforation	treated by	repair
+Asherman syndrome	caused by	D&C
+Asherman syndrome	leads to	infertility
+Asherman syndrome	treated by	hysteroscopy
+Asherman syndrome	presents with	amenorrhea
+Asherman syndrome	diagnosed by	HSG
+anesthesia	required for	D&C
+anesthesia	types include	general
+anesthesia	risks include	aspiration
+anesthesia	administered by	anesthesiologist
+anesthesia	requires	fasting
+ultrasound	guides	D&C
+ultrasound	confirms	completion
+ultrasound	detects	retained tissue
+ultrasound	reduces	complications
+ultrasound	performed before	procedure
+oxytocin	prevents	hemorrhage
+oxytocin	administered after	delivery
+oxytocin	contracts	uterus
+oxytocin	reduces	bleeding
+oxytocin	given as	injection
+endometritis	complication of	retained products
+endometritis	treated with	antibiotics
+endometritis	causes	fever
+endometritis	requires	hospitalization
+endometritis	diagnosed by	cultures
+sepsis	results from	infection
+sepsis	treated with	IV antibiotics
+sepsis	causes	organ failure
+sepsis	requires	ICU care
+sepsis	prevented by	timely intervention
+hysteroscopy	treats	Asherman syndrome
+hysteroscopy	visualizes	uterine cavity
+hysteroscopy	removes	adhesions
+hysteroscopy	performed under	anesthesia
+hysteroscopy	requires	specialist

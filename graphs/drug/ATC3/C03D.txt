@@ -1,0 +1,100 @@
+potassium-sparing diuretics	is a	diuretic
+potassium-sparing diuretics	subclass of	antihypertensive drugs
+potassium-sparing diuretics	mechanism	aldosterone antagonism
+potassium-sparing diuretics	treats	hypertension
+potassium-sparing diuretics	treats	heart failure
+potassium-sparing diuretics	prevents	hypokalemia
+potassium-sparing diuretics	contraindicated in	hyperkalemia
+potassium-sparing diuretics	interacts with	ACE inhibitors
+potassium-sparing diuretics	interacts with	potassium supplements
+potassium-sparing diuretics	example	spironolactone
+spironolactone	blocks	mineralocorticoid receptors
+spironolactone	treats	ascites
+spironolactone	side effect	gynecomastia
+potassium-sparing diuretics	example	amiloride
+amiloride	inhibits	epithelial sodium channels
+amiloride	used for	lithium toxicity
+potassium-sparing diuretics	example	triamterene
+triamterene	causes	nephrolithiasis
+triamterene	metabolite	sulfate conjugate
+potassium-sparing diuretics	onset	slow
+potassium-sparing diuretics	duration	long
+potassium-sparing diuretics	prescribed with	thiazides
+thiazides	cause	hypokalemia
+hypokalemia	leads to	arrhythmia
+potassium-sparing diuretics	monitoring	serum potassium
+hyperkalemia	risk factor	renal impairment
+renal impairment	requires	dose adjustment
+potassium-sparing diuretics	absorption	oral
+potassium-sparing diuretics	protein binding	high
+spironolactone	metabolized by	CYP3A4
+CYP3A4	inhibited by	grapefruit juice
+potassium-sparing diuretics	excretion	renal
+potassium-sparing diuretics	half-life	10-35 hours
+spironolactone	active metabolite	canrenone
+canrenone	duration	72 hours
+potassium-sparing diuretics	pregnancy category	C
+pregnancy category C	indicates	risk not ruled out
+potassium-sparing diuretics	lactation caution	present
+potassium-sparing diuretics	cost	low
+potassium-sparing diuretics	availability	generic
+generic drugs	have	bioequivalence
+potassium-sparing diuretics	formulation	tablet
+tablet	may contain	lactose
+lactose	causes	intolerance
+potassium-sparing diuretics	storage	room temperature
+potassium-sparing diuretics	brand name	Aldactone
+Aldactone	manufacturer	Pfizer
+potassium-sparing diuretics	brand name	Dyrenium
+Dyrenium	contains	triamterene
+potassium-sparing diuretics	research use	acne treatment
+acne treatment	involves	androgen suppression
+spironolactone	anti-androgenic effect	significant
+anti-androgenic effect	treats	hirsutism
+hirsutism	associated with	PCOS
+PCOS	feature	insulin resistance
+insulin resistance	managed by	metformin
+metformin	interaction	minimal
+potassium-sparing diuretics	trial use	cancer therapy
+cancer therapy	target	MR expression
+MR expression	elevated in	breast cancer
+breast cancer	therapy	hormone blocking
+potassium-sparing diuretics	effect	fibrosis reduction
+fibrosis reduction	beneficial for	cardiac remodeling
+cardiac remodeling	occurs in	myocardial infarction
+myocardial infarction	treatment	beta blockers
+beta blockers	combination therapy	common
+combination therapy	improves	outcomes
+outcomes	measured by	ejection fraction
+ejection fraction	indicator	heart function
+heart function	assessed by	echocardiogram
+echocardiogram	uses	ultrasound
+ultrasound	performed by	cardiologist
+cardiologist	specializes in	heart diseases
+heart diseases	include	cardiomyopathy
+cardiomyopathy	managed by	diuretics
+diuretics	reduce	fluid overload
+fluid overload	symptom	edema
+edema	visible in	ankles
+ankles	swelling	pitting
+pitting edema	graded	1-4
+grading system	used for	assessment
+assessment	determines	treatment
+treatment	adjusted based on	response
+response	monitored by	weight
+weight	increase indicates	fluid retention
+fluid retention	managed by	sodium restriction
+sodium restriction	part of	DASH diet
+DASH diet	recommended for	hypertension
+hypertension	complication	stroke
+stroke	prevented by	BP control
+BP control	achieved by	medications
+medications	include	diuretics
+diuretics	first-line for	uncomplicated hypertension
+uncomplicated hypertension	common in	elderly
+elderly	sensitive to	side effects
+side effects	include	dizziness
+dizziness	leads to	falls
+falls	cause	fractures
+fractures	risk factor	osteoporosis
+osteoporosis	prevented by	calcium

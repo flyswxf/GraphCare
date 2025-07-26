@@ -1,0 +1,100 @@
+circumcision	is a	surgical procedure
+circumcision	performed on	penis
+circumcision	removes	foreskin
+circumcision	reduces risk	UTIs
+circumcision	reduces risk	penile cancer
+circumcision	lowers risk	HIV transmission
+circumcision	prevents	phimosis
+circumcision	prevents	balanitis
+circumcision	prevents	paraphimosis
+circumcision	reduces risk	STIs
+circumcision	performed by	urologist
+circumcision	performed by	pediatric surgeon
+circumcision	requires	local anesthesia
+circumcision	has complication	bleeding
+circumcision	has complication	infection
+circumcision	has complication	excessive skin removal
+circumcision	has complication	adhesions
+circumcision	has complication	meatal stenosis
+circumcision	common in	newborns
+circumcision	common in	Jewish tradition
+circumcision	common in	Muslim tradition
+circumcision	part of	religious practice
+circumcision	debated in	medical ethics
+circumcision	controversial in	bioethics
+circumcision	opposed by	intactivists
+circumcision	uses	Gomco clamp
+circumcision	uses	Plastibell device
+circumcision	uses	Mogen clamp
+circumcision	alternative to	dorsal slit
+circumcision	requires	postoperative care
+circumcision	heals in	7-10 days
+circumcision	affects	sexual sensitivity
+circumcision	studied in	randomized trials
+circumcision	recommended by	WHO
+circumcision	recommended for	HIV prevention
+circumcision	not recommended by	some medical associations
+circumcision	associated with	decreased HPV risk
+circumcision	associated with	decreased HSV-2 risk
+circumcision	decreases	bacterial vaginosis in partners
+circumcision	decreases	cervical cancer risk in partners
+circumcision	performed in	hospitals
+circumcision	performed in	clinics
+circumcision	performed in	ritual settings
+circumcision	involves	dorsal nerve block
+circumcision	involves	ring block
+circumcision	precedes	wound dressing
+circumcision	followed by	pain management
+circumcision	contraindicated in	bleeding disorders
+circumcision	contraindicated in	penile abnormalities
+circumcision	delayed in	premature infants
+circumcision	requires	parental consent
+circumcision	documented in	medical records
+circumcision	reimbursed by	some insurers
+circumcision	declined by	some parents
+circumcision	compared to	non-therapeutic surgery
+circumcision	prevalence varies by	country
+circumcision	prevalence high in	USA
+circumcision	prevalence low in	Europe
+circumcision	debated in	public health
+circumcision	studied in	meta-analyses
+circumcision	reduces	smegma production
+circumcision	eliminates	smegma-related odors
+circumcision	may affect	body image
+circumcision	may affect	sexual function
+circumcision	sometimes requires	revision surgery
+circumcision	risks	incomplete circumcision
+circumcision	risks	skin bridges
+circumcision	risks	urethral injury
+circumcision	risks	buried penis
+circumcision	preceded by	medical consultation
+circumcision	preceded by	sterilization
+circumcision	involves	hemostasis
+circumcision	involves	sutures or glue
+circumcision	follows	aseptic technique
+circumcision	increases	hygiene ease
+circumcision	decreases	urinary retention
+circumcision	decreases	posthitis
+circumcision	decreases	balanoposthitis
+circumcision	decreases	foreskin infections
+circumcision	increases	glans keratinization
+circumcision	changes	microbiome
+circumcision	studied in	longitudinal studies
+circumcision	cost covered by	Medicaid in some states
+circumcision	performed more in	private hospitals
+circumcision	declining in	Australia
+circumcision	stable in	Canada
+circumcision	increasing in	Africa for HIV
+circumcision	requires	trained practitioner
+circumcision	prohibited in	some cultures
+circumcision	mandated in	some religions
+circumcision	associated with	rite of passage
+circumcision	involves	ceremonial aspects
+circumcision	sometimes includes	celebration
+circumcision	historically practiced by	ancient Egyptians
+circumcision	documented in	biblical texts
+circumcision	varies in	surgical techniques
+circumcision	sometimes requires	general anesthesia
+circumcision	monitored for	healing progress
+circumcision	may lead to	psychological effects
+circumcision	researched in	comparative studies

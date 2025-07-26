@@ -1,0 +1,100 @@
+pancreatic disorders	include	pancreatitis
+pancreatic disorders	include	pancreatic cancer
+pancreatic disorders	include	pancreatic cysts
+pancreatic disorders	include	exocrine pancreatic insufficiency
+pancreatitis	is a	inflammatory condition
+pancreatitis	may cause	abdominal pain
+pancreatitis	may cause	nausea
+pancreatitis	may cause	vomiting
+pancreatitis	may cause	malabsorption
+pancreatitis	can be	acute
+pancreatitis	can be	chronic
+acute pancreatitis	is caused by	gallstones
+acute pancreatitis	is caused by	alcohol abuse
+acute pancreatitis	may lead to	pancreatic necrosis
+chronic pancreatitis	may lead to	pancreatic fibrosis
+chronic pancreatitis	may lead to	diabetes
+pancreatic cancer	is a	malignant tumor
+pancreatic cancer	has symptom	jaundice
+pancreatic cancer	has symptom	weight loss
+pancreatic cancer	is diagnosed with	CT scan
+pancreatic cancer	is diagnosed with	biopsy
+pancreatic cancer	has risk factor	smoking
+pancreatic cancer	has risk factor	family history
+pancreatic cancer	is treated with	surgery
+pancreatic cancer	is treated with	chemotherapy
+pancreatic cysts	can be	benign
+pancreatic cysts	can be	precancerous
+pancreatic cysts	may require	monitoring
+pancreatic cysts	may require	drainage
+exocrine pancreatic insufficiency	causes	steatorrhea
+exocrine pancreatic insufficiency	causes	nutrient deficiency
+exocrine pancreatic insufficiency	is treated with	enzyme replacement
+enzyme replacement	involves	pancrelipase
+pancrelipase	is a	digestive enzyme
+pancreatic disorders	may affect	digestion
+pancreatic disorders	may affect	blood sugar
+pancreatic disorders	may require	imaging
+imaging	includes	MRI
+imaging	includes	ultrasound
+pancreatic disorders	may lead to	hospitalization
+hospitalization	may involve	IV fluids
+IV fluids	treat	dehydration
+pancreatic disorders	may cause	infection
+infection	may require	antibiotics
+antibiotics	include	ciprofloxacin
+antibiotics	include	metronidazole
+pancreatic disorders	may cause	pseudocyst
+pseudocyst	may require	drainage
+drainage	can be	endoscopic
+drainage	can be	surgical
+pancreatic disorders	may lead to	malnutrition
+malnutrition	may require	nutritional support
+nutritional support	includes	dietary changes
+dietary changes	involve	low-fat diet
+pancreatic disorders	may cause	bile duct obstruction
+bile duct obstruction	causes	jaundice
+bile duct obstruction	may require	stent
+stent	relieves	blockage
+pancreatic disorders	may increase	mortality risk
+mortality risk	depends on	disease stage
+pancreatic disorders	may recur	after treatment
+recurrence	may require	retreatment
+pancreatic disorders	may affect	quality of life
+quality of life	may improve	with pain management
+pain management	includes	opioids
+opioids	include	morphine
+pancreatic disorders	may cause	ascites
+ascites	may require	paracentesis
+paracentesis	removes	fluid
+pancreatic disorders	may lead to	sepsis
+sepsis	is a	medical emergency
+sepsis	requires	ICU care
+ICU care	involves	life support
+pancreatic disorders	may require	specialist
+specialist	includes	gastroenterologist
+gastroenterologist	manages	digestive disorders
+pancreatic disorders	may complicate	surgery
+surgery	may involve	Whipple procedure
+Whipple procedure	removes	pancreatic head
+pancreatic disorders	may cause	blood clots
+blood clots	may require	anticoagulants
+anticoagulants	include	heparin
+pancreatic disorders	may increase	readmission risk
+readmission risk	depends on	complications
+pancreatic disorders	may affect	mental health
+mental health	may require	counseling
+counseling	helps	coping
+pancreatic disorders	may require	palliative care
+palliative care	improves	comfort
+pancreatic disorders	may result from	genetic mutations
+genetic mutations	include	BRCA2
+genetic mutations	can be	inherited
+pancreatic disorders	may involve	immunotherapy
+immunotherapy	boosts	immune response
+immune response	fights	cancer
+pancreatic disorders	may require	clinical trials
+clinical trials	test	new treatments
+pancreatic disorders	may benefit	early detection
+early detection	improves	prognosis
+prognosis	depends on	treatment response

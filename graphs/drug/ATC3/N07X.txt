@@ -1,0 +1,100 @@
+other nervous system drugs	belong to	ATC classification
+other nervous system drugs	include	muscle relaxants
+other nervous system drugs	include	antiparkinson drugs
+other nervous system drugs	include	antiepileptics
+other nervous system drugs	include	anxiolytics
+other nervous system drugs	include	hypnotics
+other nervous system drugs	include	sedatives
+muscle relaxants	treat	muscle spasms
+antiparkinson drugs	treat	Parkinson's disease
+antiepileptics	treat	epilepsy
+anxiolytics	treat	anxiety
+hypnotics	treat	insomnia
+sedatives	induce	calmness
+muscle relaxants	act on	central nervous system
+antiparkinson drugs	increase	dopamine
+antiepileptics	stabilize	neuronal membranes
+anxiolytics	enhance	GABA activity
+hypnotics	promote	sleep
+sedatives	reduce	excitement
+muscle relaxants	include	baclofen
+muscle relaxants	include	tizanidine
+antiparkinson drugs	include	levodopa
+antiparkinson drugs	include	pramipexole
+antiepileptics	include	valproate
+antiepileptics	include	carbamazepine
+anxiolytics	include	benzodiazepines
+hypnotics	include	zolpidem
+sedatives	include	barbiturates
+baclofen	acts on	GABA-B receptors
+tizanidine	acts on	alpha-2 receptors
+levodopa	converts to	dopamine
+pramipexole	stimulates	dopamine receptors
+valproate	inhibits	sodium channels
+carbamazepine	blocks	voltage-gated channels
+benzodiazepines	bind to	GABA-A receptors
+zolpidem	affects	GABA-A receptors
+barbiturates	enhance	GABA effects
+muscle relaxants	may cause	drowsiness
+antiparkinson drugs	may cause	dyskinesia
+antiepileptics	may cause	dizziness
+anxiolytics	may cause	dependence
+hypnotics	may cause	amnesia
+sedatives	may cause	respiratory depression
+baclofen	used for	spasticity
+tizanidine	used for	muscle stiffness
+levodopa	combined with	carbidopa
+pramipexole	used for	restless legs syndrome
+valproate	used for	bipolar disorder
+carbamazepine	used for	trigeminal neuralgia
+benzodiazepines	used for	panic disorder
+zolpidem	prescribed for	short-term insomnia
+barbiturates	used for	anesthesia induction
+other nervous system drugs	classified under	ATC N
+ATC N	includes	analgesics
+ATC N	includes	anesthetics
+analgesics	relieve	pain
+anesthetics	induce	numbness
+other nervous system drugs	interact with	neurotransmitters
+neurotransmitters	include	serotonin
+neurotransmitters	include	glutamate
+serotonin	regulates	mood
+glutamate	mediates	excitatory signals
+other nervous system drugs	metabolized in	liver
+liver	contains	cytochrome enzymes
+cytochrome enzymes	affect	drug metabolism
+other nervous system drugs	excreted via	kidneys
+kidneys	filter	drug metabolites
+other nervous system drugs	contraindicated in	pregnancy
+pregnancy	requires	drug safety
+other nervous system drugs	monitored for	toxicity
+toxicity	leads to	adverse effects
+other nervous system drugs	require	prescription
+prescription	issued by	physician
+physician	considers	patient history
+patient history	includes	allergies
+allergies	may trigger	reactions
+other nervous system drugs	have	half-life
+half-life	determines	dosing frequency
+other nervous system drugs	available as	tablets
+other nervous system drugs	available as	injections
+tablets	taken	orally
+injections	administered	parenterally
+other nervous system drugs	stored at	room temperature
+room temperature	preserves	drug stability
+other nervous system drugs	interact with	alcohol
+alcohol	potentiates	CNS depression
+other nervous system drugs	interact with	opioids
+opioids	increase	sedation
+other nervous system drugs	studied in	clinical trials
+clinical trials	assess	efficacy
+efficacy	measures	therapeutic effect
+other nervous system drugs	approved by	FDA
+FDA	regulates	drug safety
+other nervous system drugs	have	generic versions
+generic versions	reduce	cost
+other nervous system drugs	prescribed based	guidelines
+guidelines	recommend	evidence-based use
+other nervous system drugs	affect	quality of life
+quality of life	improves	with treatment
+other nervous system drugs	part of	comprehensive care

@@ -1,0 +1,100 @@
+diagnostic amniocentesis	is a	prenatal test
+diagnostic amniocentesis	detects	chromosomal abnormalities
+diagnostic amniocentesis	performed during	second trimester
+diagnostic amniocentesis	involves	amniotic fluid extraction
+amniotic fluid	contains	fetal cells
+fetal cells	used for	genetic analysis
+genetic analysis	identifies	Down syndrome
+Down syndrome	caused by	trisomy 21
+trisomy 21	detected by	karyotyping
+karyotyping	performed in	cytogenetics lab
+diagnostic amniocentesis	requires	ultrasound guidance
+ultrasound guidance	ensures	needle placement
+needle placement	avoids	placental injury
+placental injury	may cause	bleeding
+bleeding	increases risk of	miscarriage
+miscarriage	potential complication of	amniocentesis
+amniocentesis	contraindicated in	active infections
+active infections	include	hepatitis B
+hepatitis B	screened before	amniocentesis
+screening tests	include	maternal blood work
+diagnostic amniocentesis	alternative to	chorionic villus sampling
+chorionic villus sampling	performed earlier than	amniocentesis
+chorionic villus sampling	higher risk than	amniocentesis
+risk assessment	done by	genetic counselor
+genetic counselor	provides	pre-test counseling
+pre-test counseling	discusses	procedure risks
+procedure risks	include	infection
+infection	prevented by	sterile technique
+sterile technique	requires	skin preparation
+skin preparation	uses	antiseptic solution
+diagnostic amniocentesis	results in	laboratory report
+laboratory report	contains	genetic findings
+genetic findings	reveal	sex chromosomes
+sex chromosomes	determine	fetal sex
+fetal sex	identifiable by	PCR
+PCR	amplifies	DNA sequences
+DNA sequences	analyzed for	mutations
+mutations	associated with	cystic fibrosis
+cystic fibrosis	screened in	carrier testing
+carrier testing	recommended for	high-risk couples
+diagnostic amniocentesis	timing at	15-20 weeks
+15-20 weeks gestation	optimal for	cell culture
+cell culture	grows	amniocytes
+amniocytes	examined for	chromosomal defects
+chromosomal defects	include	Turner syndrome
+Turner syndrome	characterized by	XO karyotype
+XO karyotype	results in	short stature
+short stature	managed with	growth hormone
+growth hormone	prescribed by	endocrinologist
+endocrinologist	specializes in	hormonal disorders
+diagnostic amniocentesis	followed by	post-procedure monitoring
+post-procedure monitoring	checks for	contractions
+contractions	may indicate	preterm labor
+preterm labor	prevented by	bed rest
+bed rest	reduces	uterine activity
+uterine activity	monitored by	tocodynamometer
+tocodynamometer	measures	contraction frequency
+contraction frequency	recorded in	medical chart
+medical chart	reviewed by	obstetrician
+obstetrician	manages	pregnancy care
+diagnostic amniocentesis	indications include	advanced maternal age
+advanced maternal age	defined as	>35 years
+>35 years	increases risk of	aneuploidy
+aneuploidy	screened by	NIPT
+NIPT	less invasive than	amniocentesis
+NIPT	analyzes	cell-free DNA
+cell-free DNA	originates from	placenta
+placenta	produces	pregnancy hormones
+pregnancy hormones	include	hCG
+hCG	detected in	urine tests
+diagnostic amniocentesis	contraindications include	placenta previa
+placenta previa	causes	bleeding in pregnancy
+bleeding in pregnancy	evaluated by	ultrasound
+ultrasound	determines	placental location
+placental location	affects	delivery method
+delivery method	may require	cesarean section
+cesarean section	performed by	surgeon
+surgeon	assisted by	surgical team
+surgical team	includes	anesthesiologist
+anesthesiologist	administers	spinal anesthesia
+diagnostic amniocentesis	complications include	amniotic fluid leakage
+amniotic fluid leakage	leads to	oligohydramnios
+oligohydramnios	affects	lung development
+lung development	assessed by	fetal ultrasound
+fetal ultrasound	measures	amniotic fluid index
+amniotic fluid index	normal range	5-25cm
+5-25cm	maintained by	fluid homeostasis
+fluid homeostasis	regulated by	fetal kidneys
+fetal kidneys	produce	urine
+urine	contributes to	amniotic fluid
+diagnostic amniocentesis	alternatives include	cell-free DNA testing
+cell-free DNA testing	screens for	trisomies
+trisomies	include	Edwards syndrome
+Edwards syndrome	involves	trisomy 18
+trisomy 18	associated with	congenital heart defects
+congenital heart defects	diagnosed by	fetal echocardiogram
+fetal echocardiogram	performed by	perinatologist
+perinatologist	specializes in	high-risk pregnancies
+high-risk pregnancies	require	specialized care
+specialized care	provided at	tertiary hospital

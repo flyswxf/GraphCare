@@ -1,0 +1,100 @@
+postabortion complications	include	infection
+postabortion complications	include	hemorrhage
+postabortion complications	include	uterine perforation
+postabortion complications	include	incomplete abortion
+postabortion complications	may lead to	sepsis
+postabortion complications	may lead to	infertility
+postabortion complications	may lead to	shock
+postabortion complications	may lead to	death
+infection	requires	antibiotics
+hemorrhage	requires	blood transfusion
+hemorrhage	treated with	uterotonics
+uterotonics	include	oxytocin
+uterotonics	include	misoprostol
+uterine perforation	requires	surgery
+incomplete abortion	requires	dilation and curettage
+sepsis	treated with	IV antibiotics
+sepsis	may cause	organ failure
+organ failure	requires	ICU admission
+shock	treated with	fluid resuscitation
+shock	may lead to	multi-organ dysfunction
+postabortion complications	more common in	unsafe abortion
+unsafe abortion	associated with	restrictive laws
+postabortion complications	prevented by	contraception
+contraception	includes	oral pills
+contraception	includes	IUDs
+contraception	includes	condoms
+postabortion complications	risk factor	anemia
+anemia	treated with	iron supplements
+postabortion complications	risk factor	coagulation disorders
+coagulation disorders	treated with	clotting factors
+postabortion complications	diagnosed by	ultrasound
+postabortion complications	diagnosed by	physical exam
+postabortion complications	diagnosed by	blood tests
+blood tests	measure	hemoglobin
+blood tests	measure	white cell count
+postabortion complications	associated with	psychological distress
+psychological distress	treated with	counseling
+postabortion complications	increased risk in	second trimester abortion
+postabortion complications	decreased by	trained providers
+trained providers	perform	surgical abortion
+trained providers	administer	medical abortion
+medical abortion	uses	mifepristone
+medical abortion	uses	misoprostol
+postabortion complications	may require	hysterectomy
+hysterectomy	leads to	sterility
+postabortion complications	risk factor	uterine anomalies
+uterine anomalies	include	fibroids
+postabortion complications	risk factor	previous cesarean
+postabortion complications	more common in	developing countries
+developing countries	have	limited healthcare
+limited healthcare	leads to	delayed treatment
+delayed treatment	worsens	complications
+postabortion complications	may cause	pelvic inflammatory disease
+pelvic inflammatory disease	leads to	chronic pain
+postabortion complications	may cause	cervical trauma
+cervical trauma	leads to	cervical incompetence
+cervical incompetence	causes	preterm birth
+postabortion complications	prevented by	postabortion care
+postabortion care	includes	follow-up visits
+postabortion care	includes	family planning
+postabortion complications	risk factor	gestational age
+gestational age	determined by	ultrasound
+postabortion complications	risk factor	multiple abortions
+postabortion complications	risk factor	infection history
+infection history	includes	STIs
+STIs	include	chlamydia
+STIs	include	gonorrhea
+postabortion complications	may cause	hematometra
+hematometra	treated with	evacuation
+postabortion complications	may cause	endometritis
+endometritis	treated with	antibiotics
+postabortion complications	risk factor	obesity
+obesity	increases	surgical risk
+postabortion complications	risk factor	diabetes
+diabetes	affects	wound healing
+postabortion complications	may cause	retained products
+retained products	diagnosed by	ultrasound
+postabortion complications	prevented by	proper technique
+proper technique	involves	asepsis
+postabortion complications	risk factor	provider experience
+provider experience	affects	complication rates
+postabortion complications	risk factor	anesthesia type
+general anesthesia	carries	higher risk
+postabortion complications	may cause	bowel injury
+bowel injury	requires	laparotomy
+postabortion complications	may cause	bladder injury
+bladder injury	requires	catheterization
+postabortion complications	risk factor	uterine position
+retroverted uterus	increases	perforation risk
+postabortion complications	may cause	cervical stenosis
+cervical stenosis	causes	dysmenorrhea
+postabortion complications	risk factor	maternal age
+advanced maternal age	increases	complication risk
+postabortion complications	may cause	Asherman syndrome
+Asherman syndrome	causes	amenorrhea
+postabortion complications	risk factor	previous pelvic surgery
+postabortion complications	decreased by	medical abortion
+medical abortion	suitable for	early pregnancy
+postabortion complications	risk factor	fetal abnormalities
+fetal abnormalities	diagnosed by	genetic testing

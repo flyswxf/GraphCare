@@ -1,0 +1,100 @@
+lipid modifying agents	is a	drug class
+lipid modifying agents	includes	statins
+lipid modifying agents	includes	fibrates
+lipid modifying agents	includes	niacin
+lipid modifying agents	includes	bile acid sequestrants
+lipid modifying agents	includes	PCSK9 inhibitors
+lipid modifying agents	used for	hyperlipidemia
+lipid modifying agents	reduces	LDL cholesterol
+lipid modifying agents	increases	HDL cholesterol
+lipid modifying agents	decreases	triglycerides
+combinations	refers to	drug combinations
+combinations	enhances	therapeutic effect
+combinations	reduces	side effects
+combinations	may include	statin and ezetimibe
+combinations	may include	statin and fibrate
+combinations	may include	statin and niacin
+combinations	may include	fibrate and omega-3 fatty acids
+combinations	used for	refractory hyperlipidemia
+combinations	improves	lipid profile
+combinations	requires	dose adjustment
+statins	inhibits	HMG-CoA reductase
+statins	reduces	cardiovascular risk
+statins	may cause	myopathy
+statins	interacts with	grapefruit juice
+fibrates	activates	PPAR-alpha
+fibrates	lowers	triglycerides
+fibrates	increases	HDL cholesterol
+fibrates	may cause	gastrointestinal upset
+niacin	reduces	LDL cholesterol
+niacin	increases	HDL cholesterol
+niacin	may cause	flushing
+bile acid sequestrants	binds	bile acids
+bile acid sequestrants	reduces	LDL cholesterol
+bile acid sequestrants	may cause	constipation
+PCSK9 inhibitors	blocks	PCSK9 protein
+PCSK9 inhibitors	lowers	LDL cholesterol
+PCSK9 inhibitors	used for	familial hypercholesterolemia
+ezetimibe	inhibits	cholesterol absorption
+ezetimibe	reduces	LDL cholesterol
+ezetimibe	used in	combination therapy
+omega-3 fatty acids	lowers	triglycerides
+omega-3 fatty acids	reduces	cardiovascular risk
+hyperlipidemia	increases	atherosclerosis risk
+hyperlipidemia	leads to	cardiovascular disease
+LDL cholesterol	contributes	plaque formation
+HDL cholesterol	protects	cardiovascular health
+triglycerides	associated with	metabolic syndrome
+cardiovascular risk	influenced by	lipid levels
+myopathy	may lead to	rhabdomyolysis
+gastrointestinal upset	affects	medication adherence
+flushing	may be mitigated by	aspirin
+constipation	managed with	dietary fiber
+HMG-CoA reductase	key enzyme	cholesterol synthesis
+PPAR-alpha	regulates	lipid metabolism
+PCSK9 protein	degrades	LDL receptors
+cholesterol absorption	occurs in	small intestine
+atherosclerosis	causes	coronary artery disease
+metabolic syndrome	includes	insulin resistance
+rhabdomyolysis	leads to	kidney damage
+medication adherence	improves	treatment outcomes
+dietary fiber	alleviates	constipation
+coronary artery disease	results in	myocardial infarction
+insulin resistance	precedes	type 2 diabetes
+kidney damage	requires	dialysis
+treatment outcomes	measured by	lipid levels
+small intestine	absorbs	dietary cholesterol
+myocardial infarction	increases	mortality risk
+type 2 diabetes	complicates	lipid management
+dialysis	replaces	kidney function
+lipid levels	monitored via	blood tests
+dietary cholesterol	affects	serum cholesterol
+mortality risk	reduced by	lipid control
+lipid management	involves	lifestyle changes
+blood tests	measure	LDL levels
+serum cholesterol	reflects	dietary intake
+lifestyle changes	include	exercise
+LDL levels	target of	therapy
+dietary intake	modifies	lipid profile
+exercise	improves	HDL levels
+therapy	aims for	LDL reduction
+lipid profile	assesses	cardiovascular risk
+HDL levels	inversely related	cardiovascular risk
+LDL reduction	prevents	plaque progression
+cardiovascular risk	calculated by	risk scores
+plaque progression	leads to	stenosis
+risk scores	include	Framingham score
+stenosis	causes	ischemia
+Framingham score	predicts	10-year risk
+ischemia	results in	angina
+10-year risk	guides	treatment decisions
+angina	treated with	nitrates
+treatment decisions	based on	guidelines
+nitrates	relieve	chest pain
+guidelines	recommend	statin therapy
+chest pain	evaluated via	stress test
+statin therapy	first-line	hyperlipidemia
+stress test	detects	coronary ischemia
+first-line	implies	preferred treatment
+coronary ischemia	indicates	CAD severity
+preferred treatment	supported by	clinical trials

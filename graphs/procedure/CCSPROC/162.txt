@@ -1,0 +1,100 @@
+joint procedure	is a	therapeutic procedure
+joint procedure	treats	joint pain
+joint procedure	involves	joint manipulation
+joint injection	is a type of	joint procedure
+joint injection	uses	corticosteroids
+joint injection	reduces	inflammation
+arthrocentesis	is a type of	joint procedure
+arthrocentesis	extracts	synovial fluid
+synovial fluid	aids in	diagnosis
+joint lavage	is a type of	joint procedure
+joint lavage	removes	debris
+joint lavage	alleviates	osteoarthritis symptoms
+viscosupplementation	is a type of	joint procedure
+viscosupplementation	injects	hyaluronic acid
+hyaluronic acid	improves	joint lubrication
+joint aspiration	is a type of	joint procedure
+joint aspiration	relieves	joint swelling
+joint immobilization	is a type of	joint procedure
+joint immobilization	uses	splints
+splints	support	joint stability
+joint traction	is a type of	joint procedure
+joint traction	stretches	ligaments
+ligaments	stabilize	joints
+joint mobilization	is a type of	joint procedure
+joint mobilization	enhances	range of motion
+range of motion	affects	mobility
+joint denervation	is a type of	joint procedure
+joint denervation	blocks	pain signals
+pain signals	originate from	nerves
+joint fusion	is a type of	joint procedure
+joint fusion	treats	severe arthritis
+severe arthritis	causes	joint deformity
+joint decompression	is a type of	joint procedure
+joint decompression	relieves	pressure
+pressure	results from	inflammation
+joint realignment	is a type of	joint procedure
+joint realignment	corrects	misalignment
+misalignment	leads to	uneven wear
+joint prosthesis	is used in	joint procedure
+joint prosthesis	replaces	damaged joint
+damaged joint	results from	trauma
+joint resurfacing	is a type of	joint procedure
+joint resurfacing	repairs	cartilage
+cartilage	cushions	joints
+joint debridement	is a type of	joint procedure
+joint debridement	removes	damaged tissue
+damaged tissue	causes	pain
+joint distraction	is a type of	joint procedure
+joint distraction	promotes	tissue regeneration
+tissue regeneration	requires	stem cells
+joint synovectomy	is a type of	joint procedure
+joint synovectomy	excises	synovium
+synovium	lines	joint capsule
+joint capsule	encloses	joint space
+joint space	contains	synovial fluid
+joint bracing	is a type of	joint procedure
+joint bracing	supports	weak joints
+weak joints	result from	ligament laxity
+ligament laxity	increases	injury risk
+joint taping	is a type of	joint procedure
+joint taping	stabilizes	joints
+joint stabilization	prevents	dislocation
+dislocation	causes	acute pain
+joint manipulation	is a type of	joint procedure
+joint manipulation	improves	alignment
+alignment	affects	joint function
+joint cryotherapy	is a type of	joint procedure
+joint cryotherapy	applies	cold therapy
+cold therapy	reduces	swelling
+joint thermotherapy	is a type of	joint procedure
+joint thermotherapy	applies	heat therapy
+heat therapy	relaxes	muscles
+muscles	support	joint movement
+joint ultrasound	is a type of	joint procedure
+joint ultrasound	visualizes	soft tissues
+soft tissues	include	tendons
+tendons	connect	muscles to bones
+joint aspiration	diagnoses	infections
+infections	cause	joint effusion
+joint effusion	indicates	inflammation
+joint lavage	treats	septic arthritis
+septic arthritis	involves	bacterial infection
+bacterial infection	requires	antibiotics
+joint injection	manages	rheumatoid arthritis
+rheumatoid arthritis	is an	autoimmune disease
+autoimmune disease	attacks	healthy tissue
+joint procedure	requires	sterile technique
+sterile technique	prevents	infections
+infections	complicate	recovery
+recovery	depends on	rehabilitation
+rehabilitation	includes	physical therapy
+physical therapy	strengthens	muscles
+muscles	protect	joints
+joint procedure	may involve	anesthesia
+anesthesia	ensures	pain control
+pain control	improves	patient comfort
+patient comfort	enhances	outcomes
+outcomes	depend on	procedure type
+procedure type	varies by	condition severity
+condition severity	determines	treatment plan

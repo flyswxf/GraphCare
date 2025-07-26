@@ -1,0 +1,100 @@
+acquired foot deformities	may cause	pain
+acquired foot deformities	may lead to	mobility impairment
+acquired foot deformities	may result from	trauma
+acquired foot deformities	may result from	arthritis
+acquired foot deformities	may result from	diabetes
+acquired foot deformities	may result from	neuromuscular disorders
+acquired foot deformities	may result from	prolonged improper footwear
+acquired foot deformities	may require	orthopedic consultation
+acquired foot deformities	may require	physical therapy
+acquired foot deformities	may require	surgical correction
+acquired foot deformities	may involve	hallux valgus
+acquired foot deformities	may involve	claw toe
+acquired foot deformities	may involve	hammer toe
+acquired foot deformities	may involve	flatfoot
+acquired foot deformities	may involve	pes cavus
+acquired foot deformities	may complicate	wound healing
+acquired foot deformities	may increase risk of	falls
+acquired foot deformities	may lead to	callus formation
+acquired foot deformities	may lead to	ulceration
+acquired foot deformities	may require	custom orthotics
+acquired foot deformities	may be assessed with	X-ray
+acquired foot deformities	may be assessed with	gait analysis
+acquired foot deformities	may be managed with	NSAIDs
+acquired foot deformities	may be managed with	corticosteroid injections
+acquired foot deformities	may correlate with	obesity
+acquired foot deformities	may correlate with	aging
+acquired foot deformities	may be associated with	Charcot foot
+acquired foot deformities	may be associated with	rheumatoid arthritis
+acquired foot deformities	may be associated with	cerebral palsy
+acquired foot deformities	may be associated with	stroke
+hallux valgus	is a type of	acquired foot deformity
+claw toe	is a type of	acquired foot deformity
+hammer toe	is a type of	acquired foot deformity
+flatfoot	is a type of	acquired foot deformity
+pes cavus	is a type of	acquired foot deformity
+trauma	may lead to	acquired foot deformities
+arthritis	may lead to	acquired foot deformities
+diabetes	may lead to	acquired foot deformities
+neuromuscular disorders	may lead to	acquired foot deformities
+prolonged improper footwear	may lead to	acquired foot deformities
+orthopedic consultation	may address	acquired foot deformities
+physical therapy	may improve	acquired foot deformities
+surgical correction	may fix	acquired foot deformities
+pain	is a symptom of	acquired foot deformities
+mobility impairment	is a consequence of	acquired foot deformities
+wound healing	may be impaired by	acquired foot deformities
+falls	may result from	acquired foot deformities
+callus formation	may result from	acquired foot deformities
+ulceration	may result from	acquired foot deformities
+custom orthotics	may alleviate	acquired foot deformities
+X-ray	may diagnose	acquired foot deformities
+gait analysis	may evaluate	acquired foot deformities
+NSAIDs	may relieve pain from	acquired foot deformities
+corticosteroid injections	may reduce inflammation in	acquired foot deformities
+obesity	may exacerbate	acquired foot deformities
+aging	may increase risk of	acquired foot deformities
+Charcot foot	may involve	acquired foot deformities
+rheumatoid arthritis	may cause	acquired foot deformities
+cerebral palsy	may cause	acquired foot deformities
+stroke	may cause	acquired foot deformities
+hallux valgus	may require	bunionectomy
+claw toe	may require	toe splinting
+hammer toe	may require	tendon release
+flatfoot	may require	arch support
+pes cavus	may require	ankle stabilization
+bunionectomy	corrects	hallux valgus
+toe splinting	manages	claw toe
+tendon release	treats	hammer toe
+arch support	aids	flatfoot
+ankle stabilization	supports	pes cavus
+podiatrist	treats	acquired foot deformities
+orthopedic surgeon	operates on	acquired foot deformities
+physical therapist	rehabilitates	acquired foot deformities
+pain management specialist	assists with	acquired foot deformities
+diabetes educator	advises on	acquired foot deformities
+neuropathy	may worsen	acquired foot deformities
+peripheral vascular disease	may complicate	acquired foot deformities
+osteoporosis	may contribute to	acquired foot deformities
+connective tissue disorders	may cause	acquired foot deformities
+joint laxity	may lead to	acquired foot deformities
+neuropathy	increases risk of	ulceration
+peripheral vascular disease	impairs	wound healing
+osteoporosis	weakens	foot bones
+connective tissue disorders	affect	joint stability
+joint laxity	predisposes to	dislocation
+dislocation	may cause	acquired foot deformities
+fracture	may lead to	acquired foot deformities
+tendon injury	may result in	acquired foot deformities
+ligament injury	may result in	acquired foot deformities
+muscle imbalance	may cause	acquired foot deformities
+fracture	may require	immobilization
+tendon injury	may require	repair
+ligament injury	may require	reconstruction
+muscle imbalance	may require	strengthening
+immobilization	may prevent	acquired foot deformities
+repair	may correct	tendon injury
+reconstruction	may restore	ligament integrity
+strengthening	may improve	muscle imbalance
+prophylactic footwear	may prevent	acquired foot deformities
+early intervention	may reduce severity of	acquired foot deformities

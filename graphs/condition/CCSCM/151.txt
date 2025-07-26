@@ -1,0 +1,100 @@
+other liver diseases	include	non-alcoholic fatty liver disease
+other liver diseases	include	primary biliary cholangitis
+other liver diseases	include	primary sclerosing cholangitis
+other liver diseases	include	hemochromatosis
+other liver diseases	include	Wilson disease
+other liver diseases	include	alpha-1 antitrypsin deficiency
+liver cirrhosis	is complication of	other liver diseases
+hepatocellular carcinoma	is complication of	other liver diseases
+liver failure	is complication of	other liver diseases
+portal hypertension	is complication of	other liver diseases
+variceal bleeding	is complication of	other liver diseases
+hepatic encephalopathy	is complication of	other liver diseases
+ascites	is complication of	other liver diseases
+jaundice	is symptom of	other liver diseases
+fatigue	is symptom of	other liver diseases
+abdominal pain	is symptom of	other liver diseases
+pruritus	is symptom of	other liver diseases
+weight loss	is symptom of	other liver diseases
+liver biopsy	diagnoses	other liver diseases
+ultrasound	diagnoses	other liver diseases
+CT scan	diagnoses	other liver diseases
+MRI	diagnoses	other liver diseases
+liver function tests	evaluates	other liver diseases
+ursodeoxycholic acid	treats	primary biliary cholangitis
+obeticholic acid	treats	primary biliary cholangitis
+penicillamine	treats	Wilson disease
+trientine	treats	Wilson disease
+zinc acetate	treats	Wilson disease
+phlebotomy	treats	hemochromatosis
+deferoxamine	treats	hemochromatosis
+vitamin E	treats	non-alcoholic fatty liver disease
+pioglitazone	treats	non-alcoholic fatty liver disease
+liver transplant	treats	other liver diseases
+hepatologist	manages	other liver diseases
+gastroenterologist	manages	other liver diseases
+dietitian	assists with	other liver diseases
+low-fat diet	helps manage	other liver diseases
+alcohol avoidance	helps manage	other liver diseases
+exercise	helps manage	non-alcoholic fatty liver disease
+weight loss	improves	non-alcoholic fatty liver disease
+other liver diseases	increases risk of	infections
+other liver diseases	increases risk of	malnutrition
+other liver diseases	increases risk of	osteoporosis
+other liver diseases	increases risk of	diabetes
+other liver diseases	requires monitoring of	liver enzymes
+other liver diseases	requires monitoring of	bilirubin
+other liver diseases	requires monitoring of	albumin
+other liver diseases	requires monitoring of	INR
+hepatitis B	differs from	other liver diseases
+hepatitis C	differs from	other liver diseases
+alcoholic liver disease	differs from	other liver diseases
+autoimmune hepatitis	differs from	other liver diseases
+other liver diseases	may co-occur with	diabetes
+other liver diseases	may co-occur with	obesity
+other liver diseases	may co-occur with	metabolic syndrome
+other liver diseases	affects	drug metabolism
+other liver diseases	increases sensitivity to	medications
+other liver diseases	requires dose adjustment of	medications
+other liver diseases	contraindicates	acetaminophen
+other liver diseases	contraindicates	NSAIDs
+other liver diseases	increases risk of	drug toxicity
+other liver diseases	may cause	vitamin deficiencies
+other liver diseases	may cause	coagulopathy
+other liver diseases	may cause	fluid retention
+other liver diseases	may cause	easy bruising
+other liver diseases	may cause	spider angiomas
+other liver diseases	may cause	palmar erythema
+other liver diseases	may cause	gynecomastia
+other liver diseases	may cause	testicular atrophy
+other liver diseases	may reduce	libido
+other liver diseases	affects	fertility
+other liver diseases	increases risk of	pregnancy complications
+other liver diseases	requires special care during	pregnancy
+other liver diseases	increases mortality risk
+other liver diseases	increases hospital readmission risk
+other liver diseases	reduces	quality of life
+other liver diseases	increases healthcare costs
+other liver diseases	requires multidisciplinary care
+other liver diseases	benefits from patient education
+other liver diseases	requires vaccination for hepatitis A
+other liver diseases	requires vaccination for hepatitis B
+other liver diseases	contraindicates live vaccines
+other liver diseases	increases risk of sepsis
+other liver diseases	increases risk of kidney failure
+other liver diseases	may cause hepatorenal syndrome
+other liver diseases	may cause hepatopulmonary syndrome
+other liver diseases	may cause portopulmonary hypertension
+other liver diseases	increases surgical risk
+other liver diseases	requires anesthesia precautions
+other liver diseases	increases ICU admission risk
+other liver diseases	prolongs hospital stay
+other liver diseases	increases need for home care
+other liver diseases	increases depression risk
+other liver diseases	increases anxiety risk
+other liver diseases	affects sleep patterns
+other liver diseases	affects cognitive function
+other liver diseases	may cause asterixis
+other liver diseases	may cause fetor hepaticus
+other liver diseases	may cause caput medusae
+other liver diseases	requires regular follow-up

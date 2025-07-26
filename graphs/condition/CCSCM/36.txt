@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+cancer of thyroid	is a	thyroid disease
+cancer of thyroid	is a	endocrine cancer
+cancer of thyroid	originates in	thyroid gland
+cancer of thyroid	has subtype	papillary carcinoma
+cancer of thyroid	has subtype	follicular carcinoma
+cancer of thyroid	has subtype	medullary carcinoma
+cancer of thyroid	has subtype	anaplastic carcinoma
+cancer of thyroid	may cause	thyroid nodule
+cancer of thyroid	may cause	hoarseness
+cancer of thyroid	may cause	dysphagia
+cancer of thyroid	may cause	neck swelling
+cancer of thyroid	diagnosed by	fine needle aspiration
+cancer of thyroid	diagnosed by	thyroid ultrasound
+cancer of thyroid	diagnosed by	thyroid scan
+cancer of thyroid	diagnosed by	biopsy
+cancer of thyroid	treated with	thyroidectomy
+cancer of thyroid	treated with	radioactive iodine
+cancer of thyroid	treated with	thyroid hormone therapy
+cancer of thyroid	treated with	external radiation
+cancer of thyroid	treated with	chemotherapy
+thyroidectomy	is a	surgical procedure
+radioactive iodine	is a	radiation therapy
+thyroid hormone therapy	involves	levothyroxine
+external radiation	uses	x-rays
+chemotherapy	uses	cytotoxic drugs
+cancer of thyroid	has risk factor	radiation exposure
+cancer of thyroid	has risk factor	family history
+cancer of thyroid	has risk factor	genetic mutation
+cancer of thyroid	has risk factor	iodine deficiency
+cancer of thyroid	has risk factor	female gender
+radiation exposure	may occur from	radiotherapy
+radiation exposure	may occur from	nuclear accident
+genetic mutation	includes	RET proto-oncogene
+genetic mutation	includes	BRAF mutation
+genetic mutation	includes	RAS mutation
+cancer of thyroid	may metastasize to	lymph nodes
+cancer of thyroid	may metastasize to	lungs
+cancer of thyroid	may metastasize to	bones
+cancer of thyroid	may metastasize to	liver
+cancer of thyroid	has staging system	TNM classification
+TNM classification	evaluates	tumor size
+TNM classification	evaluates	lymph node involvement
+TNM classification	evaluates	distant metastasis
+cancer of thyroid	requires	follow-up care
+follow-up care	includes	thyroglobulin testing
+follow-up care	includes	neck ultrasound
+follow-up care	includes	physical examination
+thyroglobulin	is a	tumor marker
+cancer of thyroid	may recur	local recurrence
+cancer of thyroid	may recur	distant recurrence
+local recurrence	occurs in	thyroid bed
+distant recurrence	occurs in	other organs
+cancer of thyroid	has prognosis indicator	tumor grade
+cancer of thyroid	has prognosis indicator	patient age
+cancer of thyroid	has prognosis indicator	tumor stage
+cancer of thyroid	has prognosis indicator	histologic type
+histologic type	includes	well-differentiated
+histologic type	includes	poorly-differentiated
+cancer of thyroid	may require	neck dissection
+neck dissection	removes	lymph nodes
+cancer of thyroid	may cause	hypothyroidism
+hypothyroidism	treated with	hormone replacement
+cancer of thyroid	may cause	hyperthyroidism
+hyperthyroidism	treated with	antithyroid drugs
+cancer of thyroid	may affect	calcium levels
+calcium levels	regulated by	parathyroid glands
+cancer of thyroid	may damage	parathyroid glands
+parathyroid glands	produce	parathyroid hormone
+cancer of thyroid	may require	voice therapy
+voice therapy	helps with	vocal cord paralysis
+vocal cord paralysis	caused by	nerve damage
+nerve damage	may affect	recurrent laryngeal nerve
+cancer of thyroid	has symptom	neck pain
+cancer of thyroid	has symptom	weight loss
+cancer of thyroid	has symptom	fatigue
+cancer of thyroid	has symptom	cough
+cancer of thyroid	has symptom	breathing difficulty
+breathing difficulty	may require	tracheostomy
+tracheostomy	creates	airway
+cancer of thyroid	may associate with	Hashimoto's thyroiditis
+Hashimoto's thyroiditis	is an	autoimmune disorder
+autoimmune disorder	involves	immune system
+cancer of thyroid	may relate to	thyroid adenoma
+thyroid adenoma	is a	benign tumor
+benign tumor	differs from	malignant tumor
+malignant tumor	characterizes	cancer
+cancer of thyroid	may increase	mortality risk
+mortality risk	depends on	disease progression
+disease progression	monitored by	imaging tests
+imaging tests	include	CT scan
+imaging tests	include	MRI
+imaging tests	include	PET scan
+PET scan	uses	radioactive tracer
+cancer of thyroid	may require	targeted therapy
+targeted therapy	includes	tyrosine kinase inhibitors
+tyrosine kinase inhibitors	block	cancer growth
+cancer of thyroid	may involve	clinical trials
+clinical trials	test	new treatments
+new treatments	aim for	improved outcomes
+improved outcomes	benefit	patient survival

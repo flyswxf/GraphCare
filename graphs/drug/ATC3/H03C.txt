@@ -1,0 +1,100 @@
+iodine therapy drugs	is a	treatment
+iodine therapy drugs	used for	hyperthyroidism
+iodine therapy drugs	used for	thyroid cancer
+iodine therapy drugs	contains	radioactive iodine
+radioactive iodine	targets	thyroid cells
+iodine therapy drugs	administered as	oral capsule
+iodine therapy drugs	administered as	liquid solution
+iodine therapy drugs	requires	isolation period
+isolation period	prevents	radiation exposure
+iodine therapy drugs	side effects	dry mouth
+iodine therapy drugs	side effects	nausea
+iodine therapy drugs	side effects	fatigue
+iodine therapy drugs	side effects	neck pain
+iodine therapy drugs	monitored with	thyroid tests
+thyroid tests	measure	TSH levels
+thyroid tests	measure	T4 levels
+iodine therapy drugs	contraindicated in	pregnancy
+pregnancy	risk	fetal thyroid damage
+iodine therapy drugs	contraindicated in	breastfeeding
+iodine therapy drugs	interacts with	antithyroid drugs
+antithyroid drugs	include	methimazole
+antithyroid drugs	include	propylthiouracil
+iodine therapy drugs	alternative to	thyroidectomy
+thyroidectomy	is a	surgery
+iodine therapy drugs	requires	low-iodine diet
+low-iodine diet	avoids	seafood
+low-iodine diet	avoids	dairy
+iodine therapy drugs	effectiveness	depends on dosage
+iodine therapy drugs	dosage	measured in millicuries
+iodine therapy drugs	follow-up	includes scans
+scans	detect	remaining thyroid tissue
+iodine therapy drugs	may cause	hypothyroidism
+hypothyroidism	treated with	levothyroxine
+levothyroxine	replaces	thyroid hormone
+iodine therapy drugs	affects	salivary glands
+salivary glands	may develop	swelling
+iodine therapy drugs	precaution	hydration
+hydration	reduces	radiation cystitis
+iodine therapy drugs	precaution	avoid close contact
+iodine therapy drugs	affects	tear ducts
+tear ducts	may develop	irritation
+iodine therapy drugs	may cause	taste changes
+iodine therapy drugs	may cause	sore throat
+iodine therapy drugs	risk	secondary cancers
+secondary cancers	include	leukemia
+iodine therapy drugs	efficacy	higher in Graves' disease
+Graves' disease	is a	autoimmune disorder
+iodine therapy drugs	alternative	beta blockers
+beta blockers	manage	symptoms
+iodine therapy drugs	used with	thyroid-stimulating hormone
+thyroid-stimulating hormone	increases	uptake
+iodine therapy drugs	stored in	lead containers
+lead containers	prevent	radiation leakage
+iodine therapy drugs	requires	specialist prescription
+specialist	is a	endocrinologist
+iodine therapy drugs	monitored with	blood tests
+blood tests	check	kidney function
+iodine therapy drugs	excreted via	urine
+urine	contains	radioactive waste
+iodine therapy drugs	precaution	flush toilet twice
+iodine therapy drugs	may affect	fertility
+fertility	may decrease	temporarily
+iodine therapy drugs	risk	bone marrow suppression
+bone marrow suppression	causes	anemia
+iodine therapy drugs	may trigger	thyroid storm
+thyroid storm	is a	medical emergency
+iodine therapy drugs	reduces	thyroid size
+iodine therapy drugs	used in	ablation therapy
+ablation therapy	destroys	abnormal tissue
+iodine therapy drugs	alternative	ethanol ablation
+ethanol ablation	is a	minimally invasive procedure
+iodine therapy drugs	cost	varies by country
+iodine therapy drugs	covered by	insurance
+iodine therapy drugs	research	ongoing
+research	focuses on	improved formulations
+iodine therapy drugs	history	dates to 1940s
+iodine therapy drugs	brand	includes I-131
+I-131	is a	radioactive isotope
+iodine therapy drugs	half-life	8 days
+half-life	determines	radiation duration
+iodine therapy drugs	may cause	hair loss
+hair loss	is a	temporary effect
+iodine therapy drugs	affects	taste buds
+taste buds	may sense	metallic taste
+iodine therapy drugs	precaution	separate utensils
+iodine therapy drugs	may cause	weight gain
+weight gain	linked to	hypothyroidism
+iodine therapy drugs	may cause	mood swings
+mood swings	result from	hormonal changes
+iodine therapy drugs	may reduce	recurrence risk
+recurrence risk	depends on	cancer stage
+iodine therapy drugs	combined with	external beam radiation
+external beam radiation	targets	metastases
+iodine therapy drugs	may cause	dry eyes
+dry eyes	treated with	artificial tears
+iodine therapy drugs	interacts with	iodine supplements
+iodine supplements	interfere with	treatment
+iodine therapy drugs	success rate	high
+success rate	measured by	remission
+remission	indicates	disease control

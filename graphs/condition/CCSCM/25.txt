@@ -1,0 +1,100 @@
+cancer of uterus	is a	gynecologic cancer
+cancer of uterus	originates in	endometrium
+cancer of uterus	has subtype	endometrial adenocarcinoma
+cancer of uterus	has risk factor	obesity
+cancer of uterus	has risk factor	estrogen therapy
+cancer of uterus	has risk factor	polycystic ovary syndrome
+cancer of uterus	has risk factor	nulliparity
+cancer of uterus	has symptom	abnormal uterine bleeding
+cancer of uterus	has symptom	pelvic pain
+cancer of uterus	has symptom	weight loss
+cancer of uterus	diagnosed via	endometrial biopsy
+cancer of uterus	diagnosed via	transvaginal ultrasound
+cancer of uterus	staged using	FIGO system
+cancer of uterus	treated with	hysterectomy
+cancer of uterus	treated with	radiation therapy
+cancer of uterus	treated with	chemotherapy
+cancer of uterus	treated with	hormone therapy
+cancer of uterus	may metastasize to	lymph nodes
+cancer of uterus	may metastasize to	lungs
+cancer of uterus	may metastasize to	liver
+cancer of uterus	associated with	Lynch syndrome
+cancer of uterus	associated with	diabetes mellitus
+cancer of uterus	associated with	hypertension
+cancer of uterus	monitored via	CA-125 test
+cancer of uterus	has prognostic factor	tumor grade
+cancer of uterus	has prognostic factor	myometrial invasion
+cancer of uterus	prevented by	oral contraceptives
+cancer of uterus	prevented by	weight management
+cancer of uterus	has complication	anemia
+cancer of uterus	has complication	bowel obstruction
+hysterectomy	is a	surgical procedure
+hysterectomy	removes	uterus
+hysterectomy	may include	salpingo-oophorectomy
+radiation therapy	uses	ionizing radiation
+radiation therapy	may cause	fatigue
+chemotherapy	uses	cytotoxic drugs
+chemotherapy	may cause	nausea
+chemotherapy	may cause	hair loss
+cisplatin	is a	chemotherapy drug
+carboplatin	is a	chemotherapy drug
+paclitaxel	is a	chemotherapy drug
+hormone therapy	uses	progestins
+megestrol acetate	is a	progestin
+endometrial biopsy	obtains	tissue sample
+transvaginal ultrasound	visualizes	uterine lining
+FIGO system	classifies	cancer stage
+CA-125	is a	tumor marker
+obesity	increases risk of	estrogen production
+estrogen	stimulates	endometrial growth
+polycystic ovary syndrome	causes	hormonal imbalance
+nulliparity	increases risk of	unopposed estrogen
+Lynch syndrome	increases risk of	DNA mismatch
+diabetes mellitus	increases risk of	hyperinsulinemia
+hypertension	is associated with	metabolic syndrome
+anemia	results from	chronic bleeding
+bowel obstruction	results from	tumor compression
+lymph nodes	are part of	lymphatic system
+lungs	are site of	distant metastasis
+liver	is site of	distant metastasis
+tumor grade	indicates	cell differentiation
+myometrial invasion	measures	tumor depth
+oral contraceptives	reduce risk of	endometrial hyperplasia
+weight management	reduces risk of	hormonal imbalance
+endometrial adenocarcinoma	accounts for	most cases
+endometrial adenocarcinoma	arises from	glandular cells
+estrogen therapy	increases risk of	endometrial proliferation
+abnormal uterine bleeding	is an	early symptom
+pelvic pain	indicates	advanced disease
+weight loss	indicates	cancer progression
+endometrium	is the	uterine lining
+salpingo-oophorectomy	removes	fallopian tubes
+salpingo-oophorectomy	removes	ovaries
+ionizing radiation	damages	cancer cells
+fatigue	is a	side effect
+cytotoxic drugs	kill	rapidly dividing cells
+nausea	is a	side effect
+hair loss	is a	side effect
+progestins	counteract	estrogen effects
+tissue sample	allows for	histopathology
+uterine lining	thickens during	menstrual cycle
+cancer stage	determines	treatment plan
+tumor marker	indicates	disease progression
+estrogen production	occurs in	adipose tissue
+endometrial growth	leads to	hyperplasia
+hormonal imbalance	causes	anovulation
+unopposed estrogen	leads to	endometrial stimulation
+DNA mismatch	causes	microsatellite instability
+hyperinsulinemia	stimulates	cell proliferation
+metabolic syndrome	includes	insulin resistance
+chronic bleeding	leads to	iron deficiency
+tumor compression	obstructs	bowel lumen
+lymphatic system	transports	immune cells
+distant metastasis	indicates	stage IV
+cell differentiation	predicts	tumor aggressiveness
+tumor depth	correlates with	prognosis
+endometrial hyperplasia	precedes	cancer
+hormonal imbalance	affects	menstrual cycle
+glandular cells	line	endometrium
+endometrial proliferation	may become	atypical
+fallopian tubes	connect	uterus to ovaries

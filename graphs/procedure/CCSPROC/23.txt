@@ -1,0 +1,100 @@
+myringotomy	is a	surgical procedure
+myringotomy	treats	otitis media
+myringotomy	involves	eardrum
+myringotomy	requires	anesthesia
+myringotomy	drains	fluid
+myringotomy	relieves	ear pressure
+myringotomy	prevents	hearing loss
+myringotomy	uses	tympanostomy tube
+tympanostomy tube	maintains	ventilation
+tympanostomy tube	prevents	fluid accumulation
+otitis media	causes	ear pain
+otitis media	affects	middle ear
+otitis media	leads to	fever
+otitis media	diagnosed by	otoscopy
+otoscopy	examines	eardrum
+eardrum	separates	outer ear
+eardrum	transmits	sound
+anesthesia	ensures	pain relief
+anesthesia	requires	monitoring
+hearing loss	impacts	communication
+hearing loss	assessed by	audiometry
+audiometry	measures	hearing ability
+fluid	contains	bacteria
+bacteria	causes	infection
+infection	treated with	antibiotics
+antibiotics	target	bacteria
+antibiotics	prescribed by	physician
+physician	recommends	myringotomy
+surgical procedure	performed in	operating room
+operating room	equipped with	surgical tools
+surgical tools	include	scalpel
+scalpel	makes	incision
+incision	allows	drainage
+drainage	reduces	swelling
+swelling	causes	discomfort
+discomfort	alleviated by	painkillers
+painkillers	prescribed post	surgery
+surgery	requires	recovery time
+recovery time	involves	follow-up
+follow-up	checks	healing
+healing	restores	function
+function	improves	hearing
+hearing	depends on	eardrum integrity
+eardrum integrity	affected by	perforation
+perforation	repaired by	tympanoplasty
+tympanoplasty	reconstructs	eardrum
+reconstructs	uses	graft
+graft	taken from	tissue
+tissue	heals	wound
+wound	requires	care
+care	prevents	complications
+complications	include	infection
+infection	requires	treatment
+treatment	involves	medication
+medication	administered by	nurse
+nurse	assists	surgeon
+surgeon	performs	myringotomy
+myringotomy	indicated for	chronic otitis
+chronic otitis	leads to	complications
+complications	include	cholesteatoma
+cholesteatoma	destroys	bone
+bone	supports	ear structure
+ear structure	includes	ossicles
+ossicles	amplify	sound
+sound	perceived by	brain
+brain	processes	signals
+signals	transmitted by	nerves
+nerves	damaged by	pressure
+pressure	caused by	fluid
+fluid	removed by	myringotomy
+myringotomy	reduces	recurrence
+recurrence	prevented by	tubes
+tubes	fall out	naturally
+naturally	occurs	over time
+time	varies by	patient
+patient	recovers	at home
+home	requires	rest
+rest	promotes	healing
+healing	monitored by	doctor
+doctor	advises	precautions
+precautions	include	water protection
+water protection	prevents	contamination
+contamination	leads to	infection
+infection	avoided by	hygiene
+hygiene	involves	cleaning
+cleaning	uses	antiseptic
+antiseptic	kills	germs
+germs	cause	illness
+illness	treated by	healthcare
+healthcare	provided by	hospital
+hospital	employs	specialists
+specialists	include	ENT
+ENT	specializes in	ears
+ears	contain	cochlea
+cochlea	converts	sound waves
+sound waves	travel through	ear canal
+ear canal	leads to	eardrum
+eardrum	vibrates	ossicles
+ossicles	transmit	vibrations
+vibrations	interpreted as	sound

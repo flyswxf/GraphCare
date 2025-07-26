@@ -1,0 +1,100 @@
+macrolides	are	antibiotics
+lincosamides	are	antibiotics
+streptogramins	are	antibiotics
+macrolides	inhibit	protein synthesis
+lincosamides	inhibit	protein synthesis
+streptogramins	inhibit	protein synthesis
+macrolides	bind to	50S ribosomal subunit
+lincosamides	bind to	50S ribosomal subunit
+streptogramins	bind to	50S ribosomal subunit
+macrolides	treat	respiratory infections
+lincosamides	treat	skin infections
+streptogramins	treat	MRSA infections
+macrolides	include	erythromycin
+macrolides	include	azithromycin
+macrolides	include	clarithromycin
+lincosamides	include	clindamycin
+lincosamides	include	lincomycin
+streptogramins	include	quinupristin
+streptogramins	include	dalfopristin
+macrolides	have	bactericidal effects
+lincosamides	have	bacteriostatic effects
+streptogramins	have	bactericidal effects
+macrolides	metabolized in	liver
+lincosamides	metabolized in	liver
+streptogramins	metabolized in	liver
+macrolides	excreted via	bile
+lincosamides	excreted via	urine
+streptogramins	excreted via	feces
+macrolides	cause	gastrointestinal side effects
+lincosamides	cause	Clostridium difficile infection
+streptogramins	cause	infusion reactions
+macrolides	interact with	CYP3A4 inhibitors
+lincosamides	interact with	neuromuscular blockers
+streptogramins	interact with	cyclosporine
+macrolides	effective against	Gram-positive bacteria
+lincosamides	effective against	anaerobes
+streptogramins	effective against	vancomycin-resistant bacteria
+macrolides	resistance mechanism	efflux pumps
+lincosamides	resistance mechanism	methylation
+streptogramins	resistance mechanism	enzymatic modification
+erythromycin	is a	macrolide
+azithromycin	is a	macrolide
+clarithromycin	is a	macrolide
+clindamycin	is a	lincosamide
+lincomycin	is a	lincosamide
+quinupristin	is a	streptogramin
+dalfopristin	is a	streptogramin
+macrolides	prescribed for	pneumonia
+lincosamides	prescribed for	abscesses
+streptogramins	prescribed for	endocarditis
+macrolides	contraindicated in	QT prolongation
+lincosamides	contraindicated in	hepatic impairment
+streptogramins	contraindicated in	renal failure
+macrolides	pregnancy category	B
+lincosamides	pregnancy category	B
+streptogramins	pregnancy category	B
+macrolides	cross blood-brain barrier	poorly
+lincosamides	cross placenta	moderately
+streptogramins	penetrate tissues	well
+macrolides	have	anti-inflammatory effects
+lincosamides	have	immunomodulatory effects
+streptogramins	have	synergistic effects
+macrolides	administered orally
+lincosamides	administered intravenously
+streptogramins	administered intravenously
+macrolides	duration of action	long
+lincosamides	duration of action	medium
+streptogramins	duration of action	short
+macrolides	spectrum	broad
+lincosamides	spectrum	narrow
+streptogramins	spectrum	narrow
+macrolides	discovered in	1950s
+lincosamides	discovered in	1960s
+streptogramins	discovered in	1950s
+macrolides	molecular weight	large
+lincosamides	molecular weight	medium
+streptogramins	molecular weight	large
+macrolides	solubility	lipophilic
+lincosamides	solubility	hydrophilic
+streptogramins	solubility	amphiphilic
+macrolides	stability	acid-labile
+lincosamides	stability	acid-stable
+streptogramins	stability	light-sensitive
+macrolides	cost	moderate
+lincosamides	cost	low
+streptogramins	cost	high
+macrolides	resistance	increasing
+lincosamides	resistance	common
+streptogramins	resistance	rare
+macrolides	alternative to	penicillins
+lincosamides	alternative to	beta-lactams
+streptogramins	alternative to	glycopeptides
+macrolides	combination therapy	avoided
+lincosamides	combination therapy	useful
+streptogramins	combination therapy	required
+macrolides	monitoring	rarely
+lincosamides	monitoring	occasionally
+streptogramins	monitoring	frequently
+macrolides	research focus	derivatives
+lincosamides	research focus	resistance

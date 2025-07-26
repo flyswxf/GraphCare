@@ -1,0 +1,100 @@
+vaccines	classified under	ATC system
+ATC system	organizes drugs by	therapeutic use
+vaccines	prevent	infectious diseases
+infectious diseases	caused by	pathogens
+pathogens	include	viruses
+pathogens	include	bacteria
+vaccines	stimulate	immune response
+immune response	produces	antibodies
+antibodies	provide	immunity
+immunity	protects against	reinfection
+vaccines	contain	antigens
+antigens	trigger	immune recognition
+vaccines	require	administration
+administration	can be	intramuscular
+administration	can be	subcutaneous
+vaccines	have	efficacy rates
+efficacy rates	depend on	strain matching
+vaccines	may require	booster doses
+booster doses	enhance	immunity duration
+vaccines	stored under	cold chain
+cold chain	maintains	vaccine potency
+vaccine potency	affects	protection level
+vaccines	developed through	clinical trials
+clinical trials	test	safety
+clinical trials	test	effectiveness
+vaccines	approved by	regulatory agencies
+regulatory agencies	include	FDA
+regulatory agencies	include	EMA
+vaccines	categorized by	target age group
+target age group	includes	children
+target age group	includes	elderly
+vaccines	prevent	disease transmission
+disease transmission	reduced by	herd immunity
+herd immunity	requires	high vaccination rates
+vaccination rates	influenced by	public awareness
+public awareness	affected by	education campaigns
+education campaigns	address	vaccine hesitancy
+vaccine hesitancy	caused by	misinformation
+misinformation	spread through	social media
+vaccines	have	contraindications
+contraindications	include	severe allergies
+severe allergies	may cause	anaphylaxis
+anaphylaxis	treated with	epinephrine
+vaccines	monitored for	adverse effects
+adverse effects	reported to	VAERS
+VAERS	collects	safety data
+safety data	used for	risk assessment
+risk assessment	informs	policy decisions
+policy decisions	determine	vaccination schedules
+vaccination schedules	vary by	country
+country	follows	WHO recommendations
+WHO recommendations	based on	epidemiological data
+epidemiological data	tracks	disease prevalence
+disease prevalence	affects	vaccine development
+vaccine development	involves	research institutions
+research institutions	collaborate with	pharmaceutical companies
+pharmaceutical companies	manufacture	vaccines
+manufacturing	requires	quality control
+quality control	ensures	batch consistency
+batch consistency	important for	potency standards
+potency standards	set by	pharmacopoeias
+pharmacopoeias	provide	quality specifications
+vaccines	may contain	adjuvants
+adjuvants	enhance	immune response
+immune response	measured by	antibody titers
+antibody titers	indicate	protection level
+protection level	determines	vaccine effectiveness
+vaccine effectiveness	assessed in	real-world studies
+real-world studies	compare	vaccinated vs unvaccinated
+vaccinated population	has lower	hospitalization rates
+hospitalization rates	reflect	disease severity
+disease severity	reduced by	vaccination
+vaccination	prevents	complications
+complications	lead to	long-term disabilities
+long-term disabilities	increase	healthcare costs
+healthcare costs	reduced by	preventive measures
+preventive measures	include	vaccination programs
+vaccination programs	implemented by	public health agencies
+public health agencies	receive	government funding
+government funding	supports	immunization initiatives
+immunization initiatives	target	vulnerable populations
+vulnerable populations	include	immunocompromised
+immunocompromised	benefit from	herd protection
+herd protection	achieved through	community immunity
+community immunity	thresholds vary by	disease
+disease	characterized by	reproduction number
+reproduction number	affects	spread rate
+spread rate	controlled by	vaccination coverage
+vaccination coverage	monitored through	registries
+registries	track	immunization records
+immunization records	used for	school requirements
+school requirements	ensure	childhood vaccination
+childhood vaccination	prevents	outbreaks
+outbreaks	investigated by	epidemiologists
+epidemiologists	study	transmission patterns
+transmission patterns	inform	containment strategies
+containment strategies	may include	quarantine
+quarantine	limits	exposure risk
+exposure risk	reduced by	personal protection
+personal protection	includes	wearing masks

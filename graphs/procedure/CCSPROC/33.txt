@@ -1,0 +1,100 @@
+rhinoplasty	is a	nose procedure
+septoplasty	is a	nose procedure
+turbinectomy	is a	nose procedure
+adenoidectomy	is a	pharynx procedure
+tonsillectomy	is a	pharynx procedure
+uvulopalatopharyngoplasty	is a	pharynx procedure
+sinus surgery	is a	nose procedure
+nasal polyp removal	is a	nose procedure
+oral biopsy	is a	mouth procedure
+frenectomy	is a	mouth procedure
+mandibular advancement	is a	mouth procedure
+palatal expansion	is a	mouth procedure
+maxillofacial surgery	is a	mouth procedure
+pharyngoplasty	is a	pharynx procedure
+laryngoscopy	is a	pharynx procedure
+esophagoscopy	is a	pharynx procedure
+nasal valve repair	is a	nose procedure
+alveoloplasty	is a	mouth procedure
+glossectomy	is a	mouth procedure
+uvulectomy	is a	mouth procedure
+rhinoplasty	corrects	nasal deformity
+septoplasty	treats	deviated septum
+turbinectomy	reduces	nasal obstruction
+adenoidectomy	treats	adenoid hypertrophy
+tonsillectomy	treats	chronic tonsillitis
+uvulopalatopharyngoplasty	treats	sleep apnea
+sinus surgery	treats	chronic sinusitis
+nasal polyp removal	treats	nasal polyps
+oral biopsy	diagnoses	oral cancer
+frenectomy	treats	tongue-tie
+mandibular advancement	treats	retrognathia
+palatal expansion	treats	crossbite
+maxillofacial surgery	corrects	jaw deformity
+pharyngoplasty	improves	speech
+laryngoscopy	diagnoses	laryngeal disorders
+esophagoscopy	diagnoses	esophageal disorders
+nasal valve repair	improves	nasal breathing
+alveoloplasty	prepares	denture fitting
+glossectomy	treats	tongue cancer
+uvulectomy	treats	snoring
+rhinoplasty	performed by	otolaryngologist
+septoplasty	requires	general anesthesia
+turbinectomy	uses	electrocautery
+adenoidectomy	prevents	ear infections
+tonsillectomy	prevents	recurrent strep throat
+uvulopalatopharyngoplasty	requires	overnight stay
+sinus surgery	uses	endoscope
+nasal polyp removal	associated with	asthma
+oral biopsy	performed by	oral surgeon
+frenectomy	common in	infants
+mandibular advancement	uses	osteotomy
+palatal expansion	uses	expander appliance
+maxillofacial surgery	requires	CT scan
+pharyngoplasty	treats	velopharyngeal insufficiency
+laryngoscopy	detects	vocal cord lesions
+esophagoscopy	removes	foreign bodies
+nasal valve repair	uses	cartilage graft
+alveoloplasty	follows	tooth extraction
+glossectomy	affects	speech
+uvulectomy	reduces	sleep disturbances
+rhinoplasty	improves	self-esteem
+septoplasty	prevents	sinus infections
+turbinectomy	causes	nasal dryness
+adenoidectomy	affects	immune system
+tonsillectomy	causes	postoperative pain
+uvulopalatopharyngoplasty	risks	bleeding
+sinus surgery	complications include	CSF leak
+nasal polyp removal	associated with	aspirin sensitivity
+oral biopsy	requires	local anesthesia
+frenectomy	improves	breastfeeding
+mandibular advancement	treats	obstructive sleep apnea
+palatal expansion	requires	orthodontic treatment
+maxillofacial surgery	treats	facial trauma
+pharyngoplasty	complications include	nasal regurgitation
+laryngoscopy	performs	vocal cord injection
+esophagoscopy	treats	esophageal strictures
+nasal valve repair	uses	sutures
+alveoloplasty	prevents	alveolar ridge resorption
+glossectomy	requires	speech therapy
+uvulectomy	performed with	laser
+rhinoplasty	contraindicated in	bleeding disorders
+septoplasty	uses	nasal packing
+turbinectomy	alternatives include	steroid sprays
+adenoidectomy	contraindicated in	cleft palate
+tonsillectomy	techniques include	coblation
+uvulopalatopharyngoplasty	alternatives include	CPAP
+sinus surgery	approaches include	Caldwell-Luc
+nasal polyp removal	prevents	anosmia
+oral biopsy	types include	brush biopsy
+frenectomy	performed with	scissors
+mandibular advancement	uses	distraction osteogenesis
+palatal expansion	treats	crowding
+maxillofacial surgery	reconstructs	facial defects
+pharyngoplasty	types include	sphincter pharyngoplasty
+laryngoscopy	uses	flexible scope
+esophagoscopy	diagnoses	Barrett's esophagus
+nasal valve repair	treats	nasal collapse
+alveoloplasty	uses	bone file
+glossectomy	partial type	hemiglossectomy
+uvulectomy	treats	elongated uvula

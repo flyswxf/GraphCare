@@ -1,0 +1,100 @@
+CT scan chest	is a	diagnostic imaging
+CT scan chest	uses	X-rays
+CT scan chest	produces	cross-sectional images
+CT scan chest	detects	lung cancer
+CT scan chest	identifies	pulmonary embolism
+CT scan chest	reveals	pneumonia
+CT scan chest	shows	pleural effusion
+CT scan chest	evaluates	chest trauma
+CT scan chest	assesses	mediastinal masses
+CT scan chest	requires	contrast dye
+contrast dye	enhances	image quality
+contrast dye	may cause	allergic reaction
+CT scan chest	measures	tumor size
+CT scan chest	monitors	treatment response
+CT scan chest	guides	biopsy
+CT scan chest	differentiates	benign and malignant lesions
+CT scan chest	detects	metastases
+CT scan chest	evaluates	lymph nodes
+CT scan chest	diagnoses	tuberculosis
+CT scan chest	reveals	interstitial lung disease
+CT scan chest	detects	aortic aneurysm
+CT scan chest	identifies	rib fractures
+CT scan chest	shows	pneumothorax
+CT scan chest	evaluates	heart size
+CT scan chest	detects	pulmonary edema
+CT scan chest	reveals	bronchiectasis
+CT scan chest	identifies	foreign bodies
+CT scan chest	requires	patient cooperation
+CT scan chest	uses	ionizing radiation
+ionizing radiation	increases	cancer risk
+low-dose CT	reduces	radiation exposure
+CT scan chest	is faster than	MRI
+CT scan chest	has higher resolution than	X-ray
+CT scan chest	contraindicated in	pregnancy
+CT scan chest	assesses	treatment planning
+CT scan chest	evaluates	post-surgical changes
+CT scan chest	detects	fungal infections
+CT scan chest	identifies	vascular abnormalities
+CT scan chest	shows	pleural thickening
+CT scan chest	reveals	emphysema
+CT scan chest	diagnoses	sarcoidosis
+CT scan chest	detects	asbestos-related disease
+CT scan chest	evaluates	diaphragm position
+CT scan chest	measures	lung volume
+CT scan chest	identifies	airway obstruction
+CT scan chest	shows	consolidation
+CT scan chest	requires	breath-holding
+CT scan chest	contraindicated in	renal insufficiency
+CT scan chest	precedes	surgical intervention
+CT scan chest	follows	abnormal X-ray
+CT scan chest	correlates with	pathology findings
+CT scan chest	assists in	radiation therapy planning
+CT scan chest	detects	metastatic disease
+CT scan chest	evaluates	chest wall invasion
+CT scan chest	shows	calcifications
+CT scan chest	identifies	abscesses
+CT scan chest	reveals	fibrosis
+CT scan chest	diagnoses	chronic bronchitis
+CT scan chest	monitors	disease progression
+CT scan chest	detects	pneumonitis
+CT scan chest	evaluates	esophageal abnormalities
+CT scan chest	shows	hilar enlargement
+CT scan chest	identifies	ground-glass opacities
+CT scan chest	requires	IV access
+CT scan chest	contraindicated in	contrast allergy
+CT scan chest	predicts	surgical resectability
+CT scan chest	assesses	lymphangitic carcinomatosis
+CT scan chest	detects	pulmonary hypertension
+CT scan chest	evaluates	postoperative complications
+CT scan chest	shows	cavitary lesions
+CT scan chest	identifies	atelectasis
+CT scan chest	reveals	pericardial effusion
+CT scan chest	diagnoses	mesothelioma
+CT scan chest	monitors	chemotherapy response
+CT scan chest	detects	congenital abnormalities
+CT scan chest	evaluates	tracheal stenosis
+CT scan chest	shows	pulmonary nodules
+CT scan chest	identifies	mucus plugs
+CT scan chest	reveals	bronchial wall thickening
+CT scan chest	diagnoses	histoplasmosis
+CT scan chest	detects	rib metastases
+CT scan chest	evaluates	sternal lesions
+CT scan chest	shows	mediastinal shift
+CT scan chest	identifies	diaphragm paralysis
+CT scan chest	reveals	pneumomediastinum
+CT scan chest	diagnoses	Wegener's granulomatosis
+CT scan chest	detects	chest wall tumors
+CT scan chest	evaluates	vascular rings
+CT scan chest	shows	bronchocele
+CT scan chest	identifies	pulmonary sequestration
+CT scan chest	reveals	silicosis
+CT scan chest	diagnoses	hypersensitivity pneumonitis
+CT scan chest	detects	tracheobronchomalacia
+CT scan chest	evaluates	radiation pneumonitis
+CT scan chest	shows	mycetoma
+CT scan chest	identifies	broncholithiasis
+CT scan chest	reveals	lymphocytic interstitial pneumonia
+CT scan chest	diagnoses	pulmonary alveolar proteinosis
+CT scan chest	detects	round atelectasis
+CT scan chest	evaluates	chest tube placement

@@ -1,0 +1,100 @@
+shock	is a	medical emergency
+shock	has type	hypovolemic shock
+shock	has type	cardiogenic shock
+shock	has type	distributive shock
+shock	has type	obstructive shock
+hypovolemic shock	caused by	hemorrhage
+hypovolemic shock	caused by	dehydration
+cardiogenic shock	caused by	myocardial infarction
+cardiogenic shock	caused by	arrhythmia
+distributive shock	includes	septic shock
+distributive shock	includes	anaphylactic shock
+distributive shock	includes	neurogenic shock
+obstructive shock	caused by	pulmonary embolism
+obstructive shock	caused by	cardiac tamponade
+septic shock	caused by	bacterial infection
+anaphylactic shock	caused by	allergen exposure
+neurogenic shock	caused by	spinal cord injury
+shock	leads to	hypotension
+shock	leads to	tachycardia
+shock	leads to	altered mental status
+shock	leads to	oliguria
+hypotension	measured by	blood pressure
+tachycardia	measured by	heart rate
+oliguria	measured by	urine output
+shock	managed with	intravenous fluids
+shock	managed with	vasopressors
+shock	managed with	inotropes
+hypovolemic shock	treated with	blood transfusion
+cardiogenic shock	treated with	revascularization
+septic shock	treated with	antibiotics
+anaphylactic shock	treated with	epinephrine
+neurogenic shock	treated with	vasopressors
+obstructive shock	treated with	pericardiocentesis
+intravenous fluids	includes	normal saline
+intravenous fluids	includes	lactated Ringer's
+vasopressors	includes	norepinephrine
+vasopressors	includes	dopamine
+inotropes	includes	dobutamine
+inotropes	includes	milrinone
+epinephrine	administered via	intramuscular injection
+antibiotics	includes	ceftriaxone
+antibiotics	includes	vancomycin
+shock	monitored with	central venous pressure
+shock	monitored with	lactate levels
+shock	monitored with	arterial blood gas
+lactate levels	indicate	tissue hypoxia
+central venous pressure	measures	preload
+arterial blood gas	assesses	acid-base status
+shock	may lead to	multiple organ failure
+multiple organ failure	involves	kidneys
+multiple organ failure	involves	lungs
+multiple organ failure	involves	liver
+multiple organ failure	involves	heart
+shock	may cause	disseminated intravascular coagulation
+disseminated intravascular coagulation	leads to	bleeding
+disseminated intravascular coagulation	leads to	thrombosis
+shock	may require	mechanical ventilation
+mechanical ventilation	supports	respiratory failure
+shock	may require	renal replacement therapy
+renal replacement therapy	includes	hemodialysis
+shock	associated with	high mortality
+mortality	predicted by	SOFA score
+mortality	predicted by	APACHE score
+SOFA score	assesses	organ dysfunction
+APACHE score	assesses	disease severity
+shock	prevented by	early recognition
+shock	prevented by	fluid resuscitation
+septic shock	prevented by	infection control
+anaphylactic shock	prevented by	allergen avoidance
+cardiogenic shock	prevented by	cardiovascular health
+hypovolemic shock	prevented by	trauma prevention
+shock	researched in	critical care medicine
+critical care medicine	involves	intensive care unit
+intensive care unit	staffed by	intensivists
+intensivists	collaborate with	nurses
+nurses	monitor	vital signs
+vital signs	include	blood pressure
+vital signs	include	heart rate
+vital signs	include	respiratory rate
+vital signs	include	temperature
+shock	diagnosed with	physical exam
+shock	diagnosed with	laboratory tests
+laboratory tests	include	complete blood count
+laboratory tests	include	electrolyte panel
+laboratory tests	include	coagulation studies
+physical exam	assesses	skin signs
+skin signs	include	pallor
+skin signs	include	mottling
+skin signs	include	delayed capillary refill
+shock	has complication	acute kidney injury
+acute kidney injury	diagnosed with	creatinine levels
+shock	has complication	acute respiratory distress syndrome
+acute respiratory distress syndrome	treated with	lung protective ventilation
+shock	has complication	stress cardiomyopathy
+stress cardiomyopathy	mimics	myocardial infarction
+shock	may follow	major surgery
+major surgery	requires	postoperative monitoring
+postoperative monitoring	detects	complications
+shock	education includes	CPR training
+CPR training	improves	survival rates

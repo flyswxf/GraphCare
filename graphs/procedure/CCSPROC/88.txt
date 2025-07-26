@@ -1,0 +1,100 @@
+abdominal paracentesis	is a	medical procedure
+abdominal paracentesis	used for	ascites evaluation
+abdominal paracentesis	performs	fluid removal
+abdominal paracentesis	requires	sterile technique
+abdominal paracentesis	can diagnose	spontaneous bacterial peritonitis
+abdominal paracentesis	evaluates	portal hypertension
+abdominal paracentesis	detects	malignancy
+abdominal paracentesis	measures	serum-ascites albumin gradient
+abdominal paracentesis	identifies	infection
+abdominal paracentesis	relieves	abdominal pressure
+ascites	is indication for	abdominal paracentesis
+cirrhosis	causes	ascites
+liver disease	leads to	ascites
+heart failure	causes	ascites
+cancer	causes	malignant ascites
+hypoalbuminemia	contributes to	ascites
+portal hypertension	causes	ascites
+peritoneal carcinomatosis	causes	ascites
+tuberculosis	causes	ascites
+nephrotic syndrome	causes	ascites
+paracentesis fluid	analyzed for	cell count
+paracentesis fluid	tested for	culture
+paracentesis fluid	examined for	albumin
+paracentesis fluid	checked for	total protein
+paracentesis fluid	assessed for	amylase
+paracentesis fluid	screened for	bilirubin
+paracentesis fluid	evaluated for	triglycerides
+paracentesis fluid	analyzed for	cytology
+paracentesis fluid	tested for	glucose
+paracentesis fluid	measured for	lactate dehydrogenase
+abdominal paracentesis	requires	ultrasound guidance
+abdominal paracentesis	uses	local anesthesia
+abdominal paracentesis	requires	needle insertion
+abdominal paracentesis	needs	sterile drape
+abdominal paracentesis	utilizes	catheter
+abdominal paracentesis	involves	skin preparation
+abdominal paracentesis	monitors	vital signs
+abdominal paracentesis	checks	coagulation parameters
+abdominal paracentesis	evaluates	platelet count
+abdominal paracentesis	assesses	infection risk
+abdominal paracentesis	can cause	bleeding
+abdominal paracentesis	risks	infection
+abdominal paracentesis	may lead	hypotension
+abdominal paracentesis	complications include	organ perforation
+abdominal paracentesis	associated with	hematoma
+abdominal paracentesis	potential for	bowel injury
+abdominal paracentesis	may result	electrolyte imbalance
+abdominal paracentesis	can induce	hepatic encephalopathy
+abdominal paracentesis	risks	persistent leak
+abdominal paracentesis	complications include	death
+large-volume paracentesis	is type of	abdominal paracentesis
+diagnostic paracentesis	is type of	abdominal paracentesis
+therapeutic paracentesis	is type of	abdominal paracentesis
+bedside paracentesis	is type of	abdominal paracentesis
+ultrasound-guided paracentesis	is type of	abdominal paracentesis
+abdominal paracentesis	alternative to	peritoneal tap
+abdominal paracentesis	differs from	thoracentesis
+abdominal paracentesis	contrasts with	lumbar puncture
+abdominal paracentesis	compared to	liver biopsy
+abdominal paracentesis	similar to	amniocentesis
+albumin	administered after	large-volume paracentesis
+diuretics	used with	abdominal paracentesis
+antibiotics	given for	spontaneous bacterial peritonitis
+paracentesis	precedes	liver transplantation evaluation
+paracentesis	informs	cancer staging
+paracentesis	guides	tuberculosis treatment
+paracentesis	aids	heart failure management
+paracentesis	assists	nephrotic syndrome diagnosis
+paracentesis	supports	palliative care
+paracentesis	helps	prognosis assessment
+SAAG	classifies	ascites etiology
+high SAAG	indicates	portal hypertension
+low SAAG	suggests	non-portal hypertension
+cell count	detects	infection
+neutrophil count	diagnoses	spontaneous bacterial peritonitis
+cytology	identifies	malignant cells
+culture	confirms	bacterial growth
+amylase	detects	pancreatic ascites
+triglycerides	indicate	chylous ascites
+bilirubin	suggests	biliary leak
+abdominal distension	indicates need for	paracentesis
+abdominal pain	may require	paracentesis
+respiratory distress	relieved by	paracentesis
+weight gain	monitored before	paracentesis
+ultrasound	confirms	ascites presence
+CT scan	evaluates	ascites cause
+MRI	assesses	peritoneal pathology
+physical exam	detects	shifting dullness
+blood tests	prepare for	paracentesis
+coagulation studies	precede	paracentesis
+gastroenterologist	performs	abdominal paracentesis
+hepatologist	orders	abdominal paracentesis
+interventional radiologist	conducts	abdominal paracentesis
+nurse	assists	abdominal paracentesis
+patient	consents to	abdominal paracentesis
+hospital	provides setting for	abdominal paracentesis
+outpatient clinic	performs	diagnostic paracentesis
+emergency department	conducts	therapeutic paracentesis
+ICU	manages	complicated paracentesis
+palliative care team	utilizes	paracentesis

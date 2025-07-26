@@ -1,0 +1,100 @@
+proctoscopy	is a	diagnostic procedure
+anorectal biopsy	is a	diagnostic procedure
+proctoscopy	examines	rectum
+anorectal biopsy	samples	anorectal tissue
+proctoscopy	detects	hemorrhoids
+proctoscopy	identifies	anal fissures
+proctoscopy	reveals	rectal polyps
+anorectal biopsy	diagnoses	colorectal cancer
+anorectal biopsy	detects	inflammatory bowel disease
+proctoscopy	uses	proctoscope
+anorectal biopsy	requires	local anesthesia
+proctoscopy	evaluates	rectal bleeding
+anorectal biopsy	assesses	anal lesions
+proctoscopy	monitors	ulcerative colitis
+anorectal biopsy	confirms	anal dysplasia
+proctoscopy	screens	rectal cancer
+anorectal biopsy	rules out	anal cancer
+proctoscopy	investigates	rectal pain
+anorectal biopsy	examines	suspicious growths
+proctoscopy	visualizes	anal canal
+proctoscopy	precedes	anorectal biopsy
+anorectal biopsy	follows	abnormal proctoscopy
+proctoscopy	guides	biopsy site selection
+anorectal biopsy	provides	tissue sample
+proctoscopy	requires	bowel preparation
+anorectal biopsy	may cause	minor bleeding
+proctoscopy	performed by	gastroenterologist
+anorectal biopsy	analyzed by	pathologist
+proctoscopy	assesses	rectal inflammation
+anorectal biopsy	differentiates	benign and malignant lesions
+proctoscopy	detects	rectal ulcers
+anorectal biopsy	evaluates	Crohn's disease
+proctoscopy	examines	rectosigmoid region
+anorectal biopsy	identifies	infectious proctitis
+proctoscopy	checks	surgical anastomosis
+anorectal biopsy	confirms	lymphogranuloma venereum
+proctoscopy	detects	rectal foreign bodies
+anorectal biopsy	diagnoses	anal intraepithelial neoplasia
+proctoscopy	evaluates	rectal prolapse
+anorectal biopsy	assesses	radiation proctitis
+proctoscopy	monitors	familial adenomatous polyposis
+anorectal biopsy	detects	squamous cell carcinoma
+proctoscopy	investigates	chronic diarrhea
+anorectal biopsy	rules out	melanoma
+proctoscopy	visualizes	rectovaginal fistula
+anorectal biopsy	examines	granulomatous inflammation
+proctoscopy	requires	informed consent
+anorectal biopsy	may require	sedation
+proctoscopy	performed in	outpatient setting
+anorectal biopsy	sent to	pathology lab
+proctoscopy	detects	rectal strictures
+anorectal biopsy	evaluates	tuberculosis proctitis
+proctoscopy	identifies	solitary rectal ulcer syndrome
+anorectal biopsy	diagnoses	amyloidosis
+proctoscopy	assesses	post-radiation changes
+anorectal biopsy	detects	metastatic cancer
+proctoscopy	examines	rectal varices
+anorectal biopsy	confirms	lymphocytic colitis
+proctoscopy	evaluates	rectal trauma
+anorectal biopsy	assesses	eosinophilic proctitis
+proctoscopy	monitors	hereditary nonpolyposis colorectal cancer
+anorectal biopsy	detects	Kaposi's sarcoma
+proctoscopy	investigates	fecal incontinence
+anorectal biopsy	rules out	lymphoma
+proctoscopy	visualizes	rectal fistulas
+anorectal biopsy	examines	parasitic infections
+proctoscopy	requires	digital rectal exam first
+anorectal biopsy	may cause	temporary discomfort
+proctoscopy	performed with	patient in left lateral position
+anorectal biopsy	processed with	histopathological staining
+proctoscopy	detects	rectal endometriosis
+anorectal biopsy	evaluates	Behçet's disease
+proctoscopy	identifies	rectal carcinoid tumors
+anorectal biopsy	diagnoses	melanosis coli
+proctoscopy	assesses	post-surgical complications
+anorectal biopsy	detects	cytomegalovirus proctitis
+proctoscopy	examines	rectal ischemia
+anorectal biopsy	confirms	diversion colitis
+proctoscopy	evaluates	rectal lymphangiectasia
+anorectal biopsy	assesses	graft-versus-host disease
+proctoscopy	monitors	Lynch syndrome
+anorectal biopsy	detects	neuroendocrine tumors
+proctoscopy	investigates	pruritus ani
+anorectal biopsy	rules out	adenocarcinoma
+proctoscopy	visualizes	rectal prolapse
+anorectal biopsy	examines	fungal infections
+proctoscopy	requires	proper lighting
+anorectal biopsy	may require	multiple samples
+proctoscopy	performed using	lubricant
+anorectal biopsy	analyzed with	immunohistochemistry
+proctoscopy	detects	rectal lipomas
+anorectal biopsy	evaluates	collagenous colitis
+proctoscopy	identifies	rectal duplication cysts
+anorectal biopsy	diagnoses	lymphocytic proctitis
+proctoscopy	assesses	rectal varices
+anorectal biopsy	detects	herpes simplex proctitis
+proctoscopy	examines	rectal stenosis
+anorectal biopsy	confirms	schistosomiasis
+proctoscopy	evaluates	rectal trauma
+anorectal biopsy	assesses	drug-induced proctitis

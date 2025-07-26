@@ -1,0 +1,20 @@
+vitamin K	is a	fat-soluble vitamin
+vitamin K	cofactor for	blood clotting factors
+blood clotting factors	include	prothrombin
+prothrombin	converts to	thrombin
+thrombin	activates	fibrinogen
+fibrinogen	forms	blood clot
+vitamin K	synthesized by	gut bacteria
+gut bacteria	affected by	antibiotics
+antibiotics	may cause	vitamin K deficiency
+vitamin K deficiency	leads to	bleeding tendency
+bleeding tendency	treated with	hemostatics
+hemostatics	include	tranexamic acid
+tranexamic acid	inhibits	fibrinolysis
+fibrinolysis	breaks down	blood clots
+blood clots	prevent	hemorrhage
+hemorrhage	may require	blood transfusion
+blood transfusion	carries risk	infection
+vitamin K	antagonist	warfarin
+warfarin	requires	INR monitoring
+INR monitoring	measures	clotting time

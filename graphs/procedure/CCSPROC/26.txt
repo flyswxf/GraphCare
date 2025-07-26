@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+ear procedures	is a	medical procedure
+therapeutic ear procedures	subclass of	ear procedures
+tympanostomy	is a	therapeutic ear procedure
+tympanostomy	treats	otitis media
+tympanostomy	involves	ear tube insertion
+ear tube	prevents	fluid accumulation
+otitis media	causes	hearing loss
+hearing loss	requires	hearing test
+hearing test	assesses	auditory function
+auditory function	relates to	cochlea
+cochlea	contains	hair cells
+hair cell damage	leads to	sensorineural hearing loss
+stapedectomy	is a	therapeutic ear procedure
+stapedectomy	treats	otosclerosis
+otosclerosis	affects	stapes bone
+stapes bone	part of	middle ear
+middle ear	connects to	eustachian tube
+eustachian tube dysfunction	causes	ear pressure
+ear pressure	leads to	vertigo
+vertigo	treated with	vestibular rehabilitation
+myringoplasty	is a	therapeutic ear procedure
+myringoplasty	repairs	tympanic membrane
+tympanic membrane	separates	outer ear
+outer ear	collects	sound waves
+sound waves	converted by	cochlea
+cochlear implant	is a	therapeutic ear procedure
+cochlear implant	bypasses	damaged cochlea
+damaged cochlea	causes	profound deafness
+profound deafness	requires	sign language
+sign language	facilitates	communication
+earwax removal	is a	therapeutic ear procedure
+earwax removal	prevents	conductive hearing loss
+conductive hearing loss	differs from	sensorineural hearing loss
+sensorineural hearing loss	involves	nerve damage
+nerve damage	assessed by	audiometry
+audiometry	measures	hearing thresholds
+hearing thresholds	determine	hearing aid need
+hearing aid	amplifies	sound
+sound amplification	improves	speech comprehension
+speech comprehension	involves	temporal lobe
+temporal lobe	processes	auditory information
+auditory information	transmitted via	auditory nerve
+auditory nerve	connects to	brainstem
+brainstem	contains	cochlear nucleus
+cochlear nucleus	relays	sound signals
+sound signals	processed in	auditory cortex
+auditory cortex	located in	temporal lobe
+mastoidectomy	is a	therapeutic ear procedure
+mastoidectomy	treats	mastoiditis
+mastoiditis	complication of	untreated otitis media
+untreated otitis media	risks	meningitis
+meningitis	affects	meninges
+meninges	protect	central nervous system
+central nervous system	comprises	brain
+brain	controls	body functions
+eardrum repair	is a	therapeutic ear procedure
+eardrum repair	restores	hearing
+hearing	essential for	language development
+language development	occurs in	childhood
+childhood hearing loss	affects	education
+education	requires	classroom accommodations
+classroom accommodations	include	FM systems
+FM systems	transmit	teacher's voice
+teacher's voice	important for	learning
+learning	depends on	auditory processing
+auditory processing	involves	working memory
+working memory	part of	cognitive function
+cognitive function	assessed by	neuropsychological tests
+neuropsychological tests	evaluate	brain function
+brain function	monitored by	EEG
+EEG	detects	brain waves
+brain waves	reflect	neural activity
+neural activity	basis of	consciousness
+consciousness	altered by	anesthesia
+anesthesia	required for	major ear surgeries
+major ear surgeries	include	cochlear implantation
+cochlear implantation	requires	postoperative therapy
+postoperative therapy	improves	device adaptation
+device adaptation	enhances	speech perception
+speech perception	measured by	word recognition tests
+word recognition tests	assess	rehabilitation progress
+rehabilitation progress	determines	therapy duration
+therapy duration	varies by	patient age
+patient age	affects	recovery speed
+recovery speed	influences	return-to-work time
+return-to-work time	depends on	job demands
+job demands	relate to	communication requirements
+communication requirements	higher in	teaching professions
+teaching professions	need	clear speech
+clear speech	facilitated by	good hearing
+good hearing	maintains	social connections
+social connections	prevent	isolation
+isolation	risks	depression
+depression	treated with	antidepressants
+antidepressants	affect	neurotransmitter levels
+neurotransmitter levels	regulate	mood
+mood	impacts	quality of life
+quality of life	improved by	hearing interventions
+hearing interventions	include	therapeutic ear procedures
+therapeutic ear procedures	enhance	patient wellbeing

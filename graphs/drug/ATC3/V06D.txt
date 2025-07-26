@@ -1,0 +1,100 @@
+other nutrients	classified under	ATC system
+other nutrients	belong to	ATC group V
+ATC group V	includes	vitamins
+ATC group V	includes	minerals
+vitamins	subclass of	other nutrients
+minerals	subclass of	other nutrients
+other nutrients	used for	nutritional deficiency
+nutritional deficiency	treated with	vitamin supplements
+vitamin supplements	contain	vitamin B complex
+vitamin B complex	includes	thiamine
+thiamine	treats	beriberi
+beriberi	caused by	vitamin B1 deficiency
+vitamin supplements	contain	vitamin C
+vitamin C	prevents	scurvy
+scurvy	caused by	vitamin C deficiency
+other nutrients	include	amino acids
+amino acids	used in	parenteral nutrition
+parenteral nutrition	administered via	intravenous route
+intravenous route	requires	medical supervision
+medical supervision	provided by	healthcare professionals
+other nutrients	include	fatty acids
+fatty acids	include	omega-3
+omega-3	benefits	cardiovascular health
+cardiovascular health	improved by	EPA
+EPA	is a	fatty acid
+other nutrients	include	probiotics
+probiotics	improve	gut health
+gut health	affects	immune system
+immune system	strengthened by	zinc
+zinc	is a	mineral
+minerals	include	iron
+iron	treats	anemia
+anemia	caused by	iron deficiency
+iron deficiency	common in	pregnant women
+pregnant women	need	folic acid
+folic acid	prevents	neural tube defects
+neural tube defects	occur during	fetal development
+fetal development	requires	proper nutrition
+proper nutrition	includes	other nutrients
+other nutrients	administered as	oral supplements
+oral supplements	taken with	food
+food	contains	natural nutrients
+natural nutrients	preferred over	synthetic forms
+synthetic forms	include	fortified foods
+fortified foods	contain	added vitamins
+added vitamins	compensate for	dietary gaps
+dietary gaps	common in	elderly population
+elderly population	at risk of	malnutrition
+malnutrition	treated with	nutritional support
+nutritional support	includes	other nutrients
+other nutrients	interact with	medications
+medications	affected by	vitamin K
+vitamin K	counteracts	warfarin
+warfarin	is a	blood thinner
+blood thinners	require	dosage adjustment
+dosage adjustment	based on	INR levels
+INR levels	indicate	blood clotting
+blood clotting	affected by	vitamin K intake
+vitamin K intake	comes from	leafy greens
+leafy greens	rich in	other nutrients
+other nutrients	include	coenzyme Q10
+coenzyme Q10	supports	mitochondrial function
+mitochondrial function	important for	energy production
+energy production	requires	B vitamins
+B vitamins	include	riboflavin
+riboflavin	deficiency causes	ariboflavinosis
+ariboflavinosis	characterized by	mouth ulcers
+mouth ulcers	treated with	vitamin B2
+vitamin B2	is	riboflavin
+other nutrients	include	selenium
+selenium	acts as	antioxidant
+antioxidants	protect against	oxidative stress
+oxidative stress	contributes to	aging
+aging	slowed by	proper nutrition
+proper nutrition	includes	antioxidants
+other nutrients	include	magnesium
+magnesium	regulates	muscle function
+muscle function	affected by	electrolyte balance
+electrolyte balance	includes	potassium
+potassium	maintains	heart rhythm
+heart rhythm	regulated by	mineral balance
+mineral balance	includes	sodium
+sodium	imbalance causes	hypertension
+hypertension	managed with	dietary changes
+dietary changes	include	limiting salt
+limiting salt	reduces	blood pressure
+blood pressure	affected by	potassium intake
+potassium intake	comes from	bananas
+bananas	contain	other nutrients
+other nutrients	include	carotenoids
+carotenoids	convert to	vitamin A
+vitamin A	essential for	vision
+vision	impaired by	vitamin A deficiency
+vitamin A deficiency	causes	night blindness
+night blindness	treated with	retinol
+retinol	is	vitamin A
+other nutrients	include	choline
+choline	important for	brain development
+brain development	requires	essential nutrients
+essential nutrients	include	other nutrients

@@ -1,0 +1,101 @@
+estrogens	are	sex hormones
+estrogens	regulate	female reproductive system
+estrogens	produced by	ovaries
+estrogens	bind to	estrogen receptors
+estrogens	affect	bone density
+estrogens	influence	cholesterol levels
+estrogens	involved in	menstrual cycle
+estrogens	can cause	breast tenderness
+estrogens	used in	hormone therapy
+estrogens	may increase	blood clot risk
+estrogens	metabolized by	liver
+estrogens	interact with	cytochrome P450
+sex hormones	include	androgens
+sex hormones	include	progestogens
+sex hormones	produced by	gonads
+sex hormones	affect	secondary sex characteristics
+sex hormones	regulate	libido
+sex hormones	influence	mood
+genital system modulators	include	SERMs
+genital system modulators	include	aromatase inhibitors
+genital system modulators	affect	hormone levels
+genital system modulators	used for	endometriosis
+genital system modulators	can treat	infertility
+estrogen receptors	located in	breast tissue
+estrogen receptors	found in	uterus
+estrogen receptors	present in	bones
+hormone therapy	treats	menopausal symptoms
+hormone therapy	may prevent	osteoporosis
+hormone therapy	increases	endometrial cancer risk
+ovaries	secrete	estradiol
+ovaries	produce	progesterone
+menstrual cycle	regulated by	FSH
+menstrual cycle	regulated by	LH
+androgens	include	testosterone
+androgens	produced by	testes
+progestogens	include	progesterone
+progestogens	prepare	uterus for pregnancy
+SERMs	include	tamoxifen
+SERMs	act as	estrogen agonists
+SERMs	act as	estrogen antagonists
+aromatase inhibitors	block	estrogen synthesis
+aromatase inhibitors	treat	breast cancer
+endometriosis	causes	pelvic pain
+endometriosis	affects	fertility
+infertility	may be caused by	hormonal imbalance
+infertility	treated with	ovulation induction
+breast tissue	contains	estrogen receptors
+uterus	responds to	estrogen
+bones	protected by	estrogen
+estradiol	is a	potent estrogen
+progesterone	regulates	menstrual cycle
+FSH	stimulates	follicle growth
+LH	triggers	ovulation
+testosterone	affects	muscle mass
+testes	produce	sperm
+tamoxifen	blocks	estrogen in breast
+tamoxifen	stimulates	estrogen in uterus
+breast cancer	may be	hormone-sensitive
+pelvic pain	may indicate	endometriosis
+fertility	depends on	hormone balance
+ovulation induction	uses	gonadotropins
+hormonal imbalance	may cause	irregular periods
+follicle growth	produces	estrogen
+ovulation	releases	egg
+muscle mass	influenced by	testosterone
+sperm	fertilizes	egg
+hormone-sensitive cancer	treated with	anti-estrogens
+irregular periods	may indicate	PCOS
+gonadotropins	include	FSH
+gonadotropins	include	LH
+egg	travels through	fallopian tube
+anti-estrogens	include	fulvestrant
+PCOS	involves	excess androgens
+fallopian tube	connects to	uterus
+fulvestrant	blocks	estrogen receptors
+excess androgens	cause	hirsutism
+hirsutism	involves	excessive hair growth
+excessive hair growth	affects	self-esteem
+self-esteem	impacts	mental health
+mental health	influenced by	hormones
+hormones	affect	neurotransmitters
+neurotransmitters	regulate	mood
+mood	affects	quality of life
+quality of life	impacted by	chronic pain
+chronic pain	may be caused by	endometriosis
+endometriosis	may lead to	adhesions
+adhesions	can cause	organ dysfunction
+organ dysfunction	requires	medical intervention
+medical intervention	includes	surgery
+surgery	may involve	laparoscopy
+laparoscopy	allows for	diagnosis
+diagnosis	leads to	treatment plan
+treatment plan	may include	hormone therapy
+hormone therapy	requires	monitoring
+monitoring	involves	blood tests
+blood tests	measure	hormone levels
+hormone levels	indicate	treatment efficacy
+treatment efficacy	determines	dosage adjustment
+dosage adjustment	aims for	symptom control
+symptom control	improves	patient outcomes
+ENTITY 1	RELATIONSHIP	ENTITY 2

@@ -1,0 +1,100 @@
+acute tonsillitis	is a	throat infection
+chronic tonsillitis	is a	throat condition
+acute tonsillitis	caused by	bacteria
+chronic tonsillitis	caused by	recurrent infections
+acute tonsillitis	symptoms include	sore throat
+chronic tonsillitis	symptoms include	persistent pain
+acute tonsillitis	may cause	fever
+chronic tonsillitis	may cause	bad breath
+acute tonsillitis	diagnosed by	throat swab
+chronic tonsillitis	diagnosed by	physical exam
+acute tonsillitis	treated with	antibiotics
+chronic tonsillitis	treated with	tonsillectomy
+penicillin	is an antibiotic for	acute tonsillitis
+amoxicillin	is an antibiotic for	acute tonsillitis
+tonsillectomy	is a surgery for	chronic tonsillitis
+acute tonsillitis	may lead to	peritonsillar abscess
+chronic tonsillitis	may lead to	obstructive sleep apnea
+acute tonsillitis	common in	children
+chronic tonsillitis	common in	adolescents
+acute tonsillitis	prevented by	good hygiene
+chronic tonsillitis	prevented by	early treatment
+acute tonsillitis	associated with	strep throat
+chronic tonsillitis	associated with	streptococcus bacteria
+acute tonsillitis	may result in	dehydration
+chronic tonsillitis	may result in	ear infections
+acute tonsillitis	requires	rest
+chronic tonsillitis	requires	medical evaluation
+acute tonsillitis	can be	viral
+chronic tonsillitis	can be	bacterial
+acute tonsillitis	involves	tonsil inflammation
+chronic tonsillitis	involves	tonsil hypertrophy
+acute tonsillitis	spreads via	droplets
+chronic tonsillitis	spreads via	close contact
+acute tonsillitis	treated with	pain relievers
+chronic tonsillitis	treated with	anti-inflammatory drugs
+ibuprofen	is a pain reliever for	acute tonsillitis
+corticosteroids	are anti-inflammatory drugs for	chronic tonsillitis
+acute tonsillitis	may cause	difficulty swallowing
+chronic tonsillitis	may cause	voice changes
+acute tonsillitis	monitored by	symptom tracking
+chronic tonsillitis	monitored by	regular check-ups
+acute tonsillitis	risk factor	weakened immune system
+chronic tonsillitis	risk factor	frequent infections
+acute tonsillitis	may lead to	rheumatic fever
+chronic tonsillitis	may lead to	tonsil stones
+acute tonsillitis	managed with	hydration
+chronic tonsillitis	managed with	saltwater gargles
+acute tonsillitis	diagnosed with	rapid strep test
+chronic tonsillitis	diagnosed with	imaging tests
+acute tonsillitis	complications include	otitis media
+chronic tonsillitis	complications include	tonsillar cellulitis
+acute tonsillitis	can recur	if untreated
+chronic tonsillitis	can recur	post-surgery
+acute tonsillitis	may require	hospitalization
+chronic tonsillitis	may require	specialist referral
+acute tonsillitis	prevented by	vaccination
+chronic tonsillitis	prevented by	immune support
+acute tonsillitis	common pathogen	group A streptococcus
+chronic tonsillitis	common pathogen	haemophilus influenzae
+acute tonsillitis	seasonality	winter months
+chronic tonsillitis	seasonality	year-round
+acute tonsillitis	may cause	neck swelling
+chronic tonsillitis	may cause	jaw pain
+acute tonsillitis	treated with	throat lozenges
+chronic tonsillitis	treated with	laser therapy
+acute tonsillitis	diagnostic tool	throat culture
+chronic tonsillitis	diagnostic tool	endoscopy
+acute tonsillitis	differential diagnosis	mononucleosis
+chronic tonsillitis	differential diagnosis	tonsil cancer
+acute tonsillitis	may cause	fatigue
+chronic tonsillitis	may cause	weight loss
+acute tonsillitis	recovery time	7-10 days
+chronic tonsillitis	recovery time	weeks to months
+acute tonsillitis	may lead to	sinusitis
+chronic tonsillitis	may lead to	laryngitis
+acute tonsillitis	managed with	warm fluids
+chronic tonsillitis	managed with	humidifiers
+acute tonsillitis	risk increases with	smoking
+chronic tonsillitis	risk increases with	allergies
+acute tonsillitis	complication	septicemia
+chronic tonsillitis	complication	abscess formation
+acute tonsillitis	associated with	scarlet fever
+chronic tonsillitis	associated with	tonsil crypts
+acute tonsillitis	may cause	headache
+chronic tonsillitis	may cause	snoring
+acute tonsillitis	treatment duration	short-term
+chronic tonsillitis	treatment duration	long-term
+acute tonsillitis	may lead to	glomerulonephritis
+chronic tonsillitis	may lead to	airway obstruction
+acute tonsillitis	prevented by	mask-wearing
+chronic tonsillitis	prevented by	nasal irrigation
+acute tonsillitis	diagnostic criteria	Centor score
+chronic tonsillitis	diagnostic criteria	Brodsky scale
+acute tonsillitis	may cause	chills
+chronic tonsillitis	may cause	daytime sleepiness
+acute tonsillitis	treated with	azithromycin
+chronic tonsillitis	treated with	adenotonsillectomy
+acute tonsillitis	may lead to	post-streptococcal arthritis
+chronic tonsillitis	may lead to	speech difficulties
+acute tonsillitis	managed with	bed rest

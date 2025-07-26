@@ -1,0 +1,100 @@
+other diseases of bladder and urethra	include	bladder polyps
+other diseases of bladder and urethra	include	urethral stricture
+other diseases of bladder and urethra	include	bladder diverticulum
+other diseases of bladder and urethra	include	urethral caruncle
+other diseases of bladder and urethra	may cause	urinary retention
+other diseases of bladder and urethra	may cause	urinary incontinence
+other diseases of bladder and urethra	may cause	hematuria
+other diseases of bladder and urethra	may cause	dysuria
+other diseases of bladder and urethra	may cause	urinary tract infection
+other diseases of bladder and urethra	may cause	hydronephrosis
+other diseases of bladder and urethra	diagnosed by	cystoscopy
+other diseases of bladder and urethra	diagnosed by	urinalysis
+other diseases of bladder and urethra	diagnosed by	ultrasound
+other diseases of bladder and urethra	diagnosed by	urodynamic testing
+other diseases of bladder and urethra	treated with	catheterization
+other diseases of bladder and urethra	treated with	dilation
+other diseases of bladder and urethra	treated with	surgery
+other diseases of bladder and urethra	treated with	antibiotics
+other diseases of bladder and urethra	treated with	anticholinergics
+other diseases of bladder and urethra	associated with	aging
+other diseases of bladder and urethra	associated with	diabetes
+other diseases of bladder and urethra	associated with	neurological disorders
+other diseases of bladder and urethra	associated with	prostate enlargement
+other diseases of bladder and urethra	associated with	pelvic surgery
+bladder polyps	may cause	hematuria
+bladder polyps	may cause	obstruction
+bladder polyps	diagnosed by	biopsy
+bladder polyps	treated with	resection
+bladder polyps	may be	benign
+bladder polyps	may be	malignant
+urethral stricture	caused by	infection
+urethral stricture	caused by	trauma
+urethral stricture	caused by	instrumentation
+urethral stricture	treated with	urethroplasty
+urethral stricture	treated with	stenting
+bladder diverticulum	may cause	urinary stasis
+bladder diverticulum	may cause	infection
+bladder diverticulum	treated with	diverticulectomy
+bladder diverticulum	associated with	outflow obstruction
+urethral caruncle	more common in	postmenopausal women
+urethral caruncle	may cause	dyspareunia
+urethral caruncle	treated with	estrogen cream
+urethral caruncle	treated with	excision
+urinary retention	treated with	catheterization
+urinary retention	may lead to	kidney damage
+urinary incontinence	types include	stress incontinence
+urinary incontinence	types include	urge incontinence
+urinary incontinence	treated with	pelvic floor exercises
+urinary incontinence	treated with	medication
+hematuria	evaluated with	imaging
+hematuria	evaluated with	cytology
+hematuria	may indicate	malignancy
+dysuria	treated with	pain relievers
+dysuria	may indicate	infection
+urinary tract infection	caused by	bacteria
+urinary tract infection	treated with	fluoroquinolones
+urinary tract infection	prevented by	hydration
+hydronephrosis	caused by	obstruction
+hydronephrosis	treated with	stenting
+cystoscopy	allows	visualization
+cystoscopy	may cause	discomfort
+urinalysis	detects	infection
+urinalysis	detects	hematuria
+ultrasound	evaluates	bladder emptying
+urodynamic testing	assesses	bladder function
+catheterization	may cause	infection
+dilation	treats	strictures
+surgery	risks include	bleeding
+antibiotics	treat	infections
+anticholinergics	reduce	bladder spasms
+aging	increases risk	incontinence
+diabetes	increases risk	infections
+neurological disorders	affect	bladder control
+prostate enlargement	causes	obstruction
+pelvic surgery	may damage	nerves
+biopsy	confirms	diagnosis
+resection	removes	polyps
+benign lesions	require	monitoring
+malignant lesions	require	treatment
+infection	treated with	antibiotics
+trauma	may cause	scarring
+urethroplasty	repairs	strictures
+stenting	relieves	obstruction
+urinary stasis	promotes	infection
+diverticulectomy	repairs	diverticulum
+outflow obstruction	leads to	retention
+postmenopausal women	have	hormonal changes
+dyspareunia	affects	sexual function
+estrogen cream	treats	atrophy
+excision	removes	caruncle
+kidney damage	may require	dialysis
+stress incontinence	caused by	weak muscles
+urge incontinence	caused by	overactive bladder
+pelvic floor exercises	strengthen	muscles
+medication	controls	symptoms
+imaging	identifies	abnormalities
+cytology	detects	cancer cells
+malignancy	requires	oncologic care
+pain relievers	alleviate	discomfort
+hydration	prevents	infections

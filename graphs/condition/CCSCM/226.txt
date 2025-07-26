@@ -1,0 +1,100 @@
+fracture of neck of femur	is a type of	hip fracture
+fracture of neck of femur	commonly occurs in	elderly
+fracture of neck of femur	caused by	osteoporosis
+fracture of neck of femur	requires	surgical intervention
+fracture of neck of femur	may lead to	immobility
+fracture of neck of femur	associated with	high mortality
+fracture of neck of femur	treated with	internal fixation
+fracture of neck of femur	alternative treatment	hip replacement
+fracture of neck of femur	causes	severe pain
+fracture of neck of femur	requires	hospitalization
+osteoporosis	is a risk factor for	fracture of neck of femur
+elderly	have higher incidence of	fracture of neck of femur
+hip replacement	can treat	fracture of neck of femur
+internal fixation	stabilizes	fracture of neck of femur
+immobility	may cause	pressure ulcers
+hospitalization	increases risk of	hospital-acquired infections
+severe pain	managed with	opioids
+high mortality	related to	postoperative complications
+surgical intervention	requires	anesthesia
+fracture of neck of femur	may result in	disability
+pressure ulcers	are a complication of	immobility
+opioids	used for	pain management
+anesthesia	has risks of	cardiovascular events
+disability	leads to	decreased quality of life
+hospital-acquired infections	include	pneumonia
+postoperative complications	include	deep vein thrombosis
+deep vein thrombosis	prevented with	anticoagulants
+pneumonia	treated with	antibiotics
+decreased quality of life	may lead to	depression
+cardiovascular events	can be	myocardial infarction
+anticoagulants	prevent	blood clots
+antibiotics	combat	bacterial infections
+depression	treated with	antidepressants
+myocardial infarction	is a	heart attack
+blood clots	can cause	pulmonary embolism
+bacterial infections	require	antimicrobial therapy
+antidepressants	regulate	serotonin levels
+heart attack	treated with	revascularization
+pulmonary embolism	is a	life-threatening condition
+antimicrobial therapy	targets	pathogens
+serotonin levels	affect	mood regulation
+revascularization	restores	blood flow
+life-threatening conditions	require	intensive care
+pathogens	cause	infectious diseases
+mood regulation	involves	neurotransmitters
+blood flow	delivers	oxygen
+intensive care	provided in	ICUs
+infectious diseases	spread through	pathogens
+neurotransmitters	include	dopamine
+oxygen	is essential for	cellular respiration
+ICUs	have specialized	medical equipment
+dopamine	affects	reward system
+cellular respiration	produces	ATP
+medical equipment	includes	ventilators
+reward system	influences	behavior
+ATP	provides	cellular energy
+ventilators	assist	breathing
+behavior	can be modified by	therapy
+cellular energy	powers	metabolic processes
+breathing	delivers	oxygen to lungs
+therapy	includes	physical therapy
+metabolic processes	generate	waste products
+lungs	exchange	gases
+physical therapy	improves	mobility
+waste products	include	carbon dioxide
+gases	diffuse across	alveoli
+mobility	prevents	muscle atrophy
+carbon dioxide	is a	byproduct of metabolism
+alveoli	are	air sacs
+muscle atrophy	results from	disuse
+byproduct of metabolism	excreted by	kidneys
+air sacs	facilitate	gas exchange
+disuse	leads to	strength loss
+kidneys	filter	blood
+gas exchange	maintains	homeostasis
+strength loss	affects	daily activities
+blood	transports	nutrients
+homeostasis	regulates	body temperature
+daily activities	require	energy expenditure
+nutrients	include	glucose
+body temperature	controlled by	hypothalamus
+energy expenditure	measured in	calories
+glucose	is a	carbohydrate
+hypothalamus	regulates	pituitary gland
+calories	represent	energy content
+carbohydrate	provides	quick energy
+pituitary gland	secretes	growth hormone
+energy content	determines	nutritional value
+quick energy	spikes	blood sugar
+growth hormone	stimulates	tissue repair
+nutritional value	assessed by	dietitians
+blood sugar	regulated by	insulin
+tissue repair	involves	cell proliferation
+dietitians	recommend	balanced diets
+insulin	produced by	pancreas
+cell proliferation	requires	growth factors
+balanced diets	include	proteins
+pancreas	also secretes	glucagon
+growth factors	stimulate	cell division
+proteins	build	muscle tissue

@@ -1,0 +1,100 @@
+umbilical cord complication	includes	nuchal cord
+umbilical cord complication	includes	cord prolapse
+umbilical cord complication	includes	true knot
+umbilical cord complication	may cause	fetal distress
+umbilical cord complication	may cause	hypoxia
+umbilical cord complication	may cause	stillbirth
+umbilical cord complication	requires	emergency cesarean
+umbilical cord complication	monitored by	cardiotocography
+umbilical cord complication	associated with	oligohydramnios
+umbilical cord complication	associated with	polyhydramnios
+nuchal cord	is	umbilical cord around neck
+nuchal cord	may cause	variable decelerations
+nuchal cord	diagnosed by	ultrasound
+cord prolapse	is	cord descent before fetus
+cord prolapse	requires	immediate delivery
+cord prolapse	may cause	cord compression
+true knot	is	umbilical cord knot
+true knot	may cause	blood flow restriction
+fetal distress	indicated by	abnormal heart rate
+fetal distress	may lead to	acidosis
+hypoxia	may result in	brain damage
+hypoxia	treated with	oxygen therapy
+stillbirth	is	fetal death
+stillbirth	may cause	psychological trauma
+emergency cesarean	is	surgical delivery
+emergency cesarean	performed for	fetal compromise
+cardiotocography	monitors	fetal heart rate
+cardiotocography	detects	uterine contractions
+oligohydramnios	is	low amniotic fluid
+oligohydramnios	associated with	fetal anomalies
+polyhydramnios	is	excess amniotic fluid
+polyhydramnios	associated with	gestational diabetes
+variable decelerations	indicate	cord compression
+variable decelerations	seen on	fetal monitor
+ultrasound	detects	nuchal cord
+ultrasound	evaluates	fetal position
+cord compression	reduces	oxygen supply
+cord compression	causes	fetal bradycardia
+immediate delivery	prevents	fetal demise
+immediate delivery	performed via	cesarean section
+blood flow restriction	leads to	growth restriction
+blood flow restriction	causes	placental insufficiency
+abnormal heart rate	indicates	fetal compromise
+abnormal heart rate	classified by	NICHD criteria
+acidosis	is	low blood pH
+acidosis	treated with	sodium bicarbonate
+brain damage	results in	cerebral palsy
+brain damage	assessed by	MRI
+oxygen therapy	increases	fetal oxygenation
+oxygen therapy	administered via	maternal mask
+fetal death	confirmed by	absent heartbeat
+fetal death	managed by	induced labor
+psychological trauma	treated with	counseling
+psychological trauma	may lead to	depression
+surgical delivery	involves	abdominal incision
+surgical delivery	requires	spinal anesthesia
+fetal compromise	necessitates	NICU admission
+fetal compromise	evaluated by	Apgar score
+fetal heart rate	normal range	110-160 bpm
+fetal heart rate	measured by	Doppler
+uterine contractions	cause	cervical dilation
+uterine contractions	monitored by	tocodynamometer
+low amniotic fluid	measured by	AFI
+low amniotic fluid	treated with	amnioinfusion
+fetal anomalies	include	renal agenesis
+fetal anomalies	diagnosed by	anomaly scan
+excess amniotic fluid	measured by	DVP
+excess amniotic fluid	managed by	amnioreduction
+gestational diabetes	screened by	OGTT
+gestational diabetes	managed by	insulin
+fetal monitor	displays	contraction pattern
+fetal monitor	alerts for	decelerations
+fetal position	includes	vertex presentation
+fetal position	determined by	Leopold maneuvers
+oxygen supply	depends on	umbilical blood flow
+oxygen supply	affected by	maternal oxygenation
+fetal bradycardia	is	heart rate <110 bpm
+fetal bradycardia	may indicate	hypoxia
+fetal demise	confirmed by	ultrasound
+fetal demise	requires	bereavement support
+cesarean section	has risk	infection
+cesarean section	requires	postoperative care
+growth restriction	diagnosed by	fundal height
+growth restriction	managed by	early delivery
+placental insufficiency	causes	IUGR
+placental insufficiency	diagnosed by	Doppler velocimetry
+fetal compromise	may require	blood transfusion
+fetal compromise	monitored by	BPP
+NICHD criteria	classify	fetal heart tracings
+NICHD criteria	guide	clinical management
+low blood pH	indicates	metabolic acidosis
+low blood pH	corrected by	ventilation
+sodium bicarbonate	alkalizes	blood
+sodium bicarbonate	used in	resuscitation
+cerebral palsy	is	motor disability
+cerebral palsy	managed by	physical therapy
+MRI	images	brain structure
+MRI	detects	white matter injury
+maternal mask	delivers	high-flow oxygen
+maternal mask	used in	intrauterine resuscitation

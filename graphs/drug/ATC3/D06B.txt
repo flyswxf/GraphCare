@@ -1,0 +1,106 @@
+chemotherapeutics for topical use	is a	medication
+chemotherapeutics for topical use	treats	skin cancer
+chemotherapeutics for topical use	treats	actinic keratosis
+chemotherapeutics for topical use	treats	basal cell carcinoma
+chemotherapeutics for topical use	contains	5-fluorouracil
+chemotherapeutics for topical use	contains	imiquimod
+chemotherapeutics for topical use	contains	diclofenac
+chemotherapeutics for topical use	applied on	skin
+chemotherapeutics for topical use	has	side effects
+side effects	include	skin irritation
+side effects	include	redness
+side effects	include	peeling
+chemotherapeutics for topical use	avoids	systemic toxicity
+chemotherapeutics for topical use	used by	dermatologists
+chemotherapeutics for topical use	requires	prescription
+chemotherapeutics for topical use	alternative to	surgery
+chemotherapeutics for topical use	alternative to	radiation therapy
+5-fluorouracil	is a	antimetabolite
+5-fluorouracil	inhibits	DNA synthesis
+5-fluorouracil	used for	cancer treatment
+imiquimod	is a	immune response modifier
+imiquimod	stimulates	immune system
+imiquimod	used for	viral warts
+diclofenac	is a	NSAID
+diclofenac	reduces	inflammation
+diclofenac	used for	pain relief
+skin cancer	caused by	UV exposure
+skin cancer	risk factor	fair skin
+skin cancer	risk factor	family history
+actinic keratosis	is a	precancerous lesion
+actinic keratosis	can progress to	squamous cell carcinoma
+basal cell carcinoma	is a	common skin cancer
+basal cell carcinoma	rarely metastasizes	true
+dermatologists	specialize in	skin conditions
+dermatologists	prescribe	topical treatments
+prescription	required for	controlled medications
+prescription	issued by	doctors
+radiation therapy	treats	tumors
+radiation therapy	has	side effects
+systemic toxicity	affects	entire body
+systemic toxicity	caused by	oral chemotherapy
+DNA synthesis	essential for	cell division
+immune system	fights	infections
+immune system	targets	abnormal cells
+NSAID	reduces	prostaglandins
+prostaglandins	mediate	inflammation
+inflammation	causes	swelling
+inflammation	causes	pain
+UV exposure	damages	skin cells
+UV exposure	preventable by	sunscreen
+fair skin	more prone to	sunburn
+family history	increases	cancer risk
+precancerous lesion	may develop into	cancer
+squamous cell carcinoma	is a	skin cancer
+squamous cell carcinoma	can metastasize	true
+tumors	can be	benign
+tumors	can be	malignant
+oral chemotherapy	taken by	mouth
+oral chemotherapy	affects	digestive system
+cell division	necessary for	growth
+abnormal cells	can form	tumors
+prostaglandins	regulate	pain
+sunburn	increases	skin cancer risk
+sunscreen	protects against	UV rays
+digestive system	processes	food
+digestive system	affected by	medications
+growth	requires	nutrients
+UV rays	classified as	UVA
+UV rays	classified as	UVB
+UVA	causes	aging
+UVB	causes	burning
+aging	leads to	wrinkles
+burning	damages	skin layers
+wrinkles	sign of	photoaging
+skin layers	include	epidermis
+skin layers	include	dermis
+epidermis	contains	keratinocytes
+dermis	contains	collagen
+keratinocytes	produce	keratin
+collagen	provides	skin strength
+keratin	protects	skin
+malignant tumors	can spread	true
+benign tumors	do not spread	true
+photoaging	caused by	sun exposure
+skin strength	prevents	injuries
+injuries	can lead to	infections
+infections	treated by	antibiotics
+antibiotics	kill	bacteria
+bacteria	cause	diseases
+diseases	require	treatment
+treatment	includes	medications
+medications	dispensed by	pharmacies
+pharmacies	provide	drug information
+drug information	includes	dosage
+dosage	determines	effectiveness
+effectiveness	measured by	outcomes
+outcomes	depend on	patient adherence
+patient adherence	improves	recovery
+recovery	leads to	health
+health	maintained by	prevention
+prevention	includes	vaccinations
+vaccinations	protect against	viruses
+viruses	cause	infections
+infections	prevented by	hygiene
+hygiene	involves	cleanliness
+cleanliness	reduces	disease spread

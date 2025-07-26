@@ -1,0 +1,101 @@
+实体1,关系,实体2
+arthrocentesis	is a	medical procedure
+arthrocentesis	used for	joint fluid analysis
+arthrocentesis	performed on	knee joint
+arthrocentesis	can diagnose	gout
+arthrocentesis	can diagnose	septic arthritis
+arthrocentesis	relieves	joint swelling
+arthrocentesis	requires	local anesthesia
+arthrocentesis	uses	sterile needle
+arthrocentesis	may cause	infection
+arthrocentesis	contraindicated in	coagulopathy
+joint fluid	analyzed for	white blood cells
+joint fluid	tested for	crystals
+needle insertion	guided by	ultrasound
+knee joint	common site for	arthrocentesis
+gout	diagnosed by	urate crystals
+septic arthritis	indicated by	turbid fluid
+local anesthesia	reduces	procedure pain
+sterile technique	prevents	joint infection
+coagulopathy	increases	bleeding risk
+synovial fluid	collected during	arthrocentesis
+urate crystals	confirm	gout diagnosis
+turbid fluid	suggests	bacterial infection
+procedure pain	managed with	analgesics
+joint infection	treated with	antibiotics
+bleeding risk	assessed by	INR test
+synovial fluid analysis	includes	gram stain
+gram stain	detects	bacteria
+bacterial infection	requires	culture
+analgesics	prescribed for	post-procedure
+antibiotics	selected based on	culture results
+INR test	measures	clotting time
+gram stain	rapid test for	infection
+culture	identifies	pathogens
+post-procedure care	includes	bandaging
+culture results	guide	antibiotic therapy
+clotting time	prolonged in	anticoagulation
+infection risk	reduced by	aseptic technique
+pathogens	cause	septic arthritis
+bandaging	protects	puncture site
+antibiotic therapy	duration depends on	severity
+anticoagulation	contraindicates	arthrocentesis
+aseptic technique	involves	skin disinfection
+septic arthritis	emergency condition
+puncture site	monitored for	swelling
+severity assessment	based on	clinical presentation
+skin disinfection	uses	chlorhexidine
+emergency condition	requires	hospitalization
+swelling	indicates	complication
+clinical presentation	includes	fever
+chlorhexidine	preferred over	iodine
+hospitalization	necessary for	IV antibiotics
+complication	may require	drainage
+fever	symptom of	infection
+iodine	alternative disinfectant
+IV antibiotics	faster acting than	oral
+drainage	performed for	abscess
+infection	confirmed by	lab tests
+disinfectant	prevents	skin flora entry
+oral antibiotics	used for	mild cases
+abscess	complication of	septic arthritis
+lab tests	include	CRP measurement
+skin flora	common contaminant
+mild cases	treated with	outpatient care
+septic arthritis	leads to	joint damage
+CRP measurement	indicates	inflammation
+contaminant	causes	false positive
+outpatient care	involves	follow-up
+joint damage	results in	osteoarthritis
+inflammation	marker for	infection
+false positive	avoided by	proper technique
+follow-up	assesses	treatment response
+osteoarthritis	long-term complication
+infection markers	include	ESR
+proper technique	taught in	training
+treatment response	evaluated by	symptom relief
+long-term complication	requires	joint replacement
+ESR	elevated in	inflammation
+training	improves	success rate
+symptom relief	confirms	efficacy
+joint replacement	last resort
+inflammation	treated with	NSAIDs
+success rate	depends on	experience
+efficacy	measured by	patient outcomes
+last resort	for	severe damage
+NSAIDs	reduce	pain
+experience	gained through	practice
+patient outcomes	improved by	early intervention
+severe damage	causes	disability
+pain management	includes	ice application
+practice	enhances	precision
+early intervention	prevents	complications
+disability	affects	quality of life
+ice application	reduces	swelling
+precision	minimizes	tissue trauma
+complications	include	chronic pain
+quality of life	improved by	rehabilitation
+swelling reduction	speeds	recovery
+tissue trauma	causes	scarring
+chronic pain	managed with	physiotherapy
+rehabilitation	restores	joint function

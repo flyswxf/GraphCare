@@ -1,0 +1,100 @@
+prophylactic vaccination	prevents	infectious disease
+inoculation	stimulates	immune response
+prophylactic vaccination	contains	antigen
+inoculation	delivers	weakened pathogen
+vaccination schedule	guides	prophylactic vaccination
+herd immunity	requires	widespread vaccination
+prophylactic vaccination	reduces	disease transmission
+vaccine efficacy	measures	protection level
+adjuvant	enhances	vaccine response
+booster shot	maintains	immunity
+live attenuated vaccine	contains	weakened virus
+inactivated vaccine	uses	killed pathogen
+mRNA vaccine	delivers	genetic instructions
+subunit vaccine	includes	protein fragments
+conjugate vaccine	links	polysaccharide to protein
+prophylactic vaccination	prevents	hospitalizations
+vaccine hesitancy	reduces	vaccination rates
+cold chain	preserves	vaccine potency
+immunization record	tracks	vaccinations
+vaccination campaign	targets	disease eradication
+prophylactic vaccination	decreases	mortality rate
+vaccine development	involves	clinical trials
+antigenic drift	necessitates	vaccine updates
+vaccine safety	monitored by	pharmacovigilance
+adverse reaction	may follow	vaccination
+anaphylaxis	requires	epinephrine treatment
+vaccine-preventable disease	causes	outbreaks
+travel vaccination	protects	international travelers
+pediatric vaccination	prevents	childhood diseases
+geriatric vaccination	protects	elderly population
+influenza vaccine	updated	annually
+HPV vaccine	prevents	cervical cancer
+MMR vaccine	protects against	measles
+MMR vaccine	protects against	mumps
+MMR vaccine	protects against	rubella
+DTaP vaccine	prevents	diphtheria
+DTaP vaccine	prevents	tetanus
+DTaP vaccine	prevents	pertussis
+hepatitis B vaccine	prevents	liver disease
+pneumococcal vaccine	prevents	pneumonia
+meningococcal vaccine	prevents	meningitis
+varicella vaccine	prevents	chickenpox
+rotavirus vaccine	prevents	diarrhea
+zoster vaccine	prevents	shingles
+rabies vaccine	prevents	rabies infection
+yellow fever vaccine	required for	endemic areas
+BCG vaccine	prevents	tuberculosis
+typhoid vaccine	protects against	Salmonella infection
+cholera vaccine	prevents	diarrheal disease
+Japanese encephalitis vaccine	protects	travelers to Asia
+tick-borne encephalitis vaccine	prevents	viral infection
+Haemophilus influenzae vaccine	prevents	bacterial infection
+vaccine storage	requires	temperature control
+vaccine administration	involves	injection
+intramuscular injection	delivers	vaccine
+subcutaneous injection	delivers	vaccine
+oral vaccine	administers	live attenuated virus
+intranasal vaccine	stimulates	mucosal immunity
+vaccine vial	contains	multiple doses
+single-dose vaccine	eliminates	booster need
+combination vaccine	reduces	injection numbers
+vaccine research	develops	new formulations
+vaccine trial	tests	safety
+vaccine trial	tests	efficacy
+phase III trial	evaluates	large population
+vaccine approval	granted by	regulatory agency
+vaccine distribution	requires	logistics planning
+vaccine equity	addresses	access disparities
+vaccine mandate	increases	coverage rates
+religious exemption	allows	vaccination refusal
+medical exemption	permits	vaccination deferral
+vaccine injury	compensates	adverse effects
+vaccine misinformation	spreads	social media
+antivaccine movement	opposes	immunization
+vaccine education	improves	acceptance
+primary vaccination	establishes	immunity
+catch-up vaccination	covers	missed doses
+maternal vaccination	protects	newborns
+conjugate vaccine	improves	infant response
+vaccine effectiveness	measures	real-world performance
+seroconversion	indicates	immune response
+antibody titer	measures	protection level
+cellular immunity	provides	long-term protection
+memory cells	retain	pathogen information
+vaccine-derived immunity	wanes	over time
+booster dose	restores	protection
+variant strain	escapes	vaccine immunity
+universal vaccine	targets	conserved regions
+DNA vaccine	introduces	genetic material
+vector vaccine	uses	harmless virus
+plant-based vaccine	produces	edible antigens
+nanoparticle vaccine	enhances	delivery
+therapeutic vaccine	treats	existing condition
+cancer vaccine	targets	tumor antigens
+HIV vaccine	challenges	researchers
+malaria vaccine	partially	protects
+Ebola vaccine	prevents	hemorrhagic fever
+COVID-19 vaccine	utilizes	novel platforms
+pandemic preparedness	requires	vaccine development
+global health	benefits from	vaccination programs

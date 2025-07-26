@@ -1,0 +1,100 @@
+belladonna	is a	plant
+belladonna	contains	atropine
+belladonna	contains	scopolamine
+belladonna	contains	hyoscyamine
+atropine	is a	anticholinergic
+scopolamine	is a	anticholinergic
+hyoscyamine	is a	anticholinergic
+anticholinergics	inhibit	acetylcholine
+acetylcholine	is a	neurotransmitter
+belladonna derivatives	treat	functional gastrointestinal disorders
+functional gastrointestinal disorders	include	irritable bowel syndrome
+functional gastrointestinal disorders	include	functional dyspepsia
+belladonna derivatives	reduce	gastrointestinal motility
+gastrointestinal motility	affects	digestion
+belladonna derivatives	alleviate	abdominal pain
+abdominal pain	is a symptom	irritable bowel syndrome
+belladonna derivatives	decrease	gastric secretions
+gastric secretions	contribute	acid reflux
+belladonna derivatives	may cause	dry mouth
+dry mouth	is a	side effect
+belladonna derivatives	may cause	blurred vision
+blurred vision	is a	side effect
+belladonna derivatives	may cause	constipation
+constipation	is a	side effect
+belladonna derivatives	may cause	urinary retention
+urinary retention	is a	side effect
+belladonna derivatives	interact with	antihistamines
+antihistamines	enhance	anticholinergic effects
+belladonna derivatives	interact with	tricyclic antidepressants
+tricyclic antidepressants	enhance	anticholinergic effects
+belladonna derivatives	contraindicated in	glaucoma
+glaucoma	worsens with	anticholinergics
+belladonna derivatives	contraindicated in	prostatic hypertrophy
+prostatic hypertrophy	worsens with	urinary retention
+belladonna derivatives	metabolized in	liver
+liver	affects	drug clearance
+belladonna derivatives	excreted via	kidneys
+kidneys	affect	drug excretion
+belladonna derivatives	have	antispasmodic effects
+antispasmodic effects	relieve	muscle spasms
+muscle spasms	occur in	gastrointestinal tract
+belladonna derivatives	used in	combination therapies
+combination therapies	include	phenobarbital
+phenobarbital	enhances	sedative effects
+belladonna derivatives	have	sedative properties
+sedative properties	cause	drowsiness
+drowsiness	affects	driving ability
+belladonna derivatives	used for	pre-anesthesia
+pre-anesthesia	reduces	salivary secretions
+salivary secretions	cause	airway obstruction
+belladonna alkaloids	extracted from	deadly nightshade
+deadly nightshade	is a	poisonous plant
+belladonna	has	historical uses
+historical uses	include	cosmetics
+cosmetics	used	pupil dilation
+pupil dilation	caused by	atropine
+atropine	used in	ophthalmology
+ophthalmology	treats	eye conditions
+scopolamine	used for	motion sickness
+motion sickness	involves	nausea
+nausea	treated with	antiemetics
+hyoscyamine	treats	peptic ulcers
+peptic ulcers	caused by	excess acid
+excess acid	neutralized by	antacids
+belladonna derivatives	have	narrow therapeutic index
+narrow therapeutic index	requires	careful dosing
+careful dosing	prevents	toxicity
+toxicity	causes	delirium
+delirium	is a	neurological symptom
+belladonna poisoning	treated with	physostigmine
+physostigmine	is a	cholinesterase inhibitor
+cholinesterase inhibitors	reverse	anticholinergic effects
+belladonna derivatives	affect	heart rate
+heart rate	increases with	anticholinergics
+tachycardia	is a	side effect
+belladonna derivatives	affect	body temperature
+body temperature	rises with	anticholinergics
+hyperthermia	is a	side effect
+belladonna derivatives	used in	pediatric patients
+pediatric patients	require	adjusted doses
+adjusted doses	prevent	adverse effects
+adverse effects	monitored by	healthcare providers
+healthcare providers	consider	patient history
+patient history	includes	allergies
+allergies	may cause	hypersensitivity reactions
+hypersensitivity reactions	require	discontinuation
+belladonna derivatives	available as	oral tablets
+oral tablets	have	systemic effects
+systemic effects	distributed via	bloodstream
+bloodstream	transports	drugs
+belladonna derivatives	available as	injectables
+injectables	provide	rapid onset
+rapid onset	useful in	emergencies
+emergencies	include	severe spasms
+severe spasms	require	immediate relief
+belladonna derivatives	studied in	clinical trials
+clinical trials	evaluate	efficacy
+efficacy	determines	treatment success
+treatment success	improves	quality of life
+quality of life	matters for	chronic conditions

@@ -1,0 +1,100 @@
+vertigo	is a symptom of	benign paroxysmal positional vertigo
+dizziness	is a symptom of	Meniere’s disease
+vertigo	is associated with	inner ear disorder
+dizziness	may indicate	vestibular neuritis
+vertigo	can be caused by	labyrinthitis
+dizziness	is common in	hypotension
+vertigo	may result from	vestibular migraine
+dizziness	is linked to	anemia
+vertigo	occurs with	acoustic neuroma
+dizziness	may accompany	dehydration
+vertigo	can be triggered by	head injury
+dizziness	is seen in	hypoglycemia
+vertigo	relates to	perilymph fistula
+dizziness	is associated with	anxiety disorder
+vertigo	may follow	stroke
+dizziness	occurs with	heart arrhythmia
+vertigo	is a feature of	multiple sclerosis
+dizziness	may signal	concussion
+vertigo	is worsened by	motion sickness
+dizziness	is reported in	Parkinson’s disease
+vertigo	is managed with	vestibular rehabilitation
+dizziness	is treated with	antihistamines
+vertigo	responds to	Epley maneuver
+dizziness	may improve with	fluid intake
+vertigo	is diagnosed via	Dix-Hallpike test
+dizziness	is evaluated with	MRI
+vertigo	is assessed by	electronystagmography
+dizziness	is checked with	blood pressure measurement
+vertigo	requires	balance training
+dizziness	may need	ECG
+vertigo	is linked to	cervical spine issues
+dizziness	relates to	autonomic dysfunction
+vertigo	can stem from	medication side effects
+dizziness	is worsened by	caffeine
+vertigo	is exacerbated by	stress
+dizziness	is common in	elderly patients
+vertigo	is treated with	betahistine
+dizziness	is alleviated by	ginger
+vertigo	is associated with	cholesteatoma
+dizziness	occurs with	transient ischemic attack
+vertigo	is seen in	Chiari malformation
+dizziness	may indicate	vasovagal syncope
+vertigo	is linked to	otosclerosis
+dizziness	is reported in	hyperventilation syndrome
+vertigo	may worsen with	alcohol consumption
+dizziness	is improved by	vestibular suppressants
+vertigo	is managed with	corticosteroids
+dizziness	is influenced by	sleep deprivation
+vertigo	is connected to	brainstem lesions
+dizziness	is a side effect of	diuretics
+vertigo	is treated with	meclizine
+dizziness	is reduced by	avoiding sudden movements
+vertigo	is associated with	Ramsay Hunt syndrome
+dizziness	is worsened by	sinus congestion
+vertigo	is seen in	post-concussion syndrome
+dizziness	may indicate	superior canal dehiscence
+vertigo	is linked to	ototoxicity
+dizziness	is common in	chronic fatigue syndrome
+vertigo	is triggered by	visual stimuli
+dizziness	is related to	postural orthostatic tachycardia syndrome
+vertigo	is managed with	benzodiazepines
+dizziness	is treated with	fludrocortisone
+vertigo	is diagnosed with	caloric testing
+dizziness	is assessed by	tilt table test
+vertigo	is associated with	vertebrobasilar insufficiency
+dizziness	is linked to	thyroid dysfunction
+vertigo	is seen in	brain tumor
+dizziness	may signal	carbon monoxide poisoning
+vertigo	is worsened by	nicotine
+dizziness	is common in	migraine sufferers
+vertigo	is treated with	diuretics in Meniere’s
+dizziness	is improved by	salt restriction
+vertigo	is associated with	perilymphatic fistula
+dizziness	is linked to	vitamin B12 deficiency
+vertigo	is seen in	syphilis
+dizziness	may indicate	aortic stenosis
+vertigo	is treated with	canalith repositioning
+dizziness	is managed with	beta-blockers
+vertigo	is worsened by	bright lights
+dizziness	is common in	fibromyalgia
+vertigo	is linked to	autoimmune inner ear disease
+dizziness	is associated with	chronic kidney disease
+vertigo	is treated with	scopolamine
+dizziness	is improved by	hydration therapy
+vertigo	is diagnosed with	vestibular evoked myogenic potentials
+dizziness	is seen in	Lyme disease
+vertigo	is related to	vertebral artery dissection
+dizziness	may signal	pheochromocytoma
+vertigo	is managed with	physical therapy
+dizziness	is treated with	midodrine
+vertigo	is associated with	otitis media
+dizziness	is worsened by	antihypertensive drugs
+vertigo	is linked to	post-traumatic stress disorder
+dizziness	is common in	multiple system atrophy
+vertigo	is treated with	gabapentin
+dizziness	is improved by	vestibular exercises
+vertigo	is diagnosed with	rotational chair testing
+dizziness	is seen in	sarcoidosis
+vertigo	is related to	cerebellar degeneration
+dizziness	may indicate	pulmonary embolism

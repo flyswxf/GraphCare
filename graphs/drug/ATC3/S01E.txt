@@ -1,0 +1,20 @@
+antiglaucoma preparations	is a	medication
+miotics	is a	medication
+antiglaucoma preparations	treats	glaucoma
+miotics	treats	glaucoma
+glaucoma	is a	eye disease
+eye disease	affects	optic nerve
+optic nerve	transmits	visual signals
+glaucoma	causes	vision loss
+vision loss	impacts	quality of life
+antiglaucoma preparations	reduces	intraocular pressure
+intraocular pressure	damages	optic nerve
+miotics	constricts	pupil
+pupil constriction	improves	aqueous outflow
+aqueous outflow	regulates	intraocular pressure
+antiglaucoma preparations	includes	prostaglandin analogs
+prostaglandin analogs	increases	uveoscleral outflow
+miotics	includes	pilocarpine
+pilocarpine	activates	muscarinic receptors
+muscarinic receptors	located in	iris sphincter
+iris sphincter	controls	pupil size

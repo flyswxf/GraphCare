@@ -1,0 +1,100 @@
+cancer of pancreas	is a type of	pancreatic disease
+cancer of pancreas	originates in	pancreas
+cancer of pancreas	may cause	jaundice
+cancer of pancreas	may cause	weight loss
+cancer of pancreas	may cause	abdominal pain
+cancer of pancreas	may cause	diabetes
+cancer of pancreas	may cause	digestive issues
+cancer of pancreas	may cause	blood clots
+cancer of pancreas	may lead to	metastasis
+cancer of pancreas	has subtype	pancreatic adenocarcinoma
+cancer of pancreas	has subtype	neuroendocrine tumor
+cancer of pancreas	is diagnosed via	CT scan
+cancer of pancreas	is diagnosed via	MRI
+cancer of pancreas	is diagnosed via	biopsy
+cancer of pancreas	is diagnosed via	blood test
+cancer of pancreas	is diagnosed via	CA19-9 test
+cancer of pancreas	is treated with	surgery
+cancer of pancreas	is treated with	chemotherapy
+cancer of pancreas	is treated with	radiation therapy
+cancer of pancreas	is treated with	immunotherapy
+cancer of pancreas	is treated with	targeted therapy
+cancer of pancreas	is treated with	pain management
+cancer of pancreas	may require	Whipple procedure
+cancer of pancreas	may require	palliative care
+cancer of pancreas	has risk factor	smoking
+cancer of pancreas	has risk factor	obesity
+cancer of pancreas	has risk factor	chronic pancreatitis
+cancer of pancreas	has risk factor	diabetes mellitus
+cancer of pancreas	has risk factor	family history
+cancer of pancreas	has risk factor	BRCA mutation
+cancer of pancreas	has risk factor	Lynch syndrome
+cancer of pancreas	has risk factor	age over 60
+cancer of pancreas	is associated with	poor prognosis
+cancer of pancreas	is associated with	late diagnosis
+cancer of pancreas	is studied in	oncology
+cancer of pancreas	is researched in	clinical trials
+cancer of pancreas	may spread to	liver
+cancer of pancreas	may spread to	lungs
+cancer of pancreas	may spread to	peritoneum
+cancer of pancreas	may obstruct	bile duct
+cancer of pancreas	may affect	digestion
+cancer of pancreas	may lead to	malnutrition
+cancer of pancreas	may require	stenting
+cancer of pancreas	may cause	ascites
+cancer of pancreas	may cause	fatigue
+cancer of pancreas	may cause	nausea
+cancer of pancreas	may cause	vomiting
+cancer of pancreas	may cause	back pain
+cancer of pancreas	may cause	dark urine
+cancer of pancreas	may cause	pale stools
+cancer of pancreas	may cause	loss of appetite
+cancer of pancreas	may cause	depression
+cancer of pancreas	may require	pain medication
+cancer of pancreas	may require	nutritional support
+cancer of pancreas	may require	hospice care
+cancer of pancreas	is monitored via	tumor markers
+cancer of pancreas	has staging system	TNM
+cancer of pancreas	has stage	localized
+cancer of pancreas	has stage	regional
+cancer of pancreas	has stage	metastatic
+cancer of pancreas	may recur after	treatment
+cancer of pancreas	has symptom	painless jaundice
+cancer of pancreas	has symptom	steatorrhea
+cancer of pancreas	has symptom	pruritus
+cancer of pancreas	may complicate	biliary obstruction
+cancer of pancreas	may complicate	duodenal obstruction
+cancer of pancreas	may lead to	cachexia
+cancer of pancreas	is targeted by	gemcitabine
+cancer of pancreas	is targeted by	erlotinib
+cancer of pancreas	is targeted by	nab-paclitaxel
+cancer of pancreas	is targeted by	FOLFIRINOX
+cancer of pancreas	has biomarker	KRAS mutation
+cancer of pancreas	has biomarker	p53 mutation
+cancer of pancreas	has biomarker	SMAD4 mutation
+cancer of pancreas	is influenced by	tumor microenvironment
+cancer of pancreas	is studied in	molecular biology
+cancer of pancreas	may involve	stromal reaction
+cancer of pancreas	may involve	desmoplasia
+cancer of pancreas	may respond to	PARP inhibitors
+cancer of pancreas	may respond to	immune checkpoint inhibitors
+cancer of pancreas	is visualized via	endoscopic ultrasound
+cancer of pancreas	may require	biliary drainage
+cancer of pancreas	may require	gastric bypass
+cancer of pancreas	may lead to	liver failure
+cancer of pancreas	may lead to	renal failure
+cancer of pancreas	has differential diagnosis	chronic pancreatitis
+cancer of pancreas	has differential diagnosis	cholangiocarcinoma
+cancer of pancreas	has differential diagnosis	pancreatic cyst
+cancer of pancreas	has differential diagnosis	ampullary carcinoma
+cancer of pancreas	may be detected via	liquid biopsy
+cancer of pancreas	has prevention strategy	smoking cessation
+cancer of pancreas	has prevention strategy	healthy diet
+cancer of pancreas	has prevention strategy	weight management
+cancer of pancreas	is researched in	precision medicine
+cancer of pancreas	may benefit from	neoadjuvant therapy
+cancer of pancreas	may benefit from	adjuvant therapy
+cancer of pancreas	has histological type	ductal adenocarcinoma
+cancer of pancreas	has histological type	acinar cell carcinoma
+cancer of pancreas	has histological type	solid pseudopapillary neoplasm
+cancer of pancreas	has histological type	pancreatoblastoma

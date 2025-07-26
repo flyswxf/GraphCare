@@ -1,0 +1,100 @@
+fracture	is a	bone injury
+dislocation	is a	joint injury
+lower extremity fracture	involves	tibia
+lower extremity fracture	involves	fibula
+lower extremity fracture	involves	patella
+lower extremity dislocation	involves	ankle
+lower extremity dislocation	involves	knee
+treatment	involves	pain management
+treatment	involves	immobilization
+immobilization	uses	cast
+immobilization	uses	splint
+immobilization	uses	brace
+treatment	may require	surgery
+surgery	may involve	internal fixation
+internal fixation	uses	screws
+internal fixation	uses	plates
+internal fixation	uses	pins
+surgery	may involve	external fixation
+treatment	includes	physical therapy
+physical therapy	improves	mobility
+physical therapy	reduces	stiffness
+treatment	requires	imaging
+imaging	includes	X-ray
+imaging	includes	CT scan
+imaging	includes	MRI
+fracture	causes	pain
+dislocation	causes	pain
+pain management	uses	NSAIDs
+pain management	uses	opioids
+pain management	uses	ice
+fracture	may cause	swelling
+dislocation	may cause	swelling
+swelling	managed by	elevation
+swelling	managed by	compression
+treatment	prevents	complications
+complications	include	infection
+complications	include	nonunion
+complications	include	malunion
+complications	include	arthritis
+treatment	requires	follow-up
+follow-up	monitors	healing
+healing	depends on	age
+healing	depends on	nutrition
+healing	depends on	blood supply
+nutrition	requires	calcium
+nutrition	requires	vitamin D
+lower extremity injury	affects	walking
+walking difficulty	requires	crutches
+walking difficulty	requires	walker
+walking difficulty	requires	wheelchair
+treatment	considers	comorbidities
+comorbidities	include	diabetes
+comorbidities	include	osteoporosis
+osteoporosis	increases	fracture risk
+diabetes	delays	healing
+treatment	may require	antibiotics
+antibiotics	prevent	infection
+infection	requires	debridement
+debridement	removes	dead tissue
+treatment	may involve	traction
+traction	aligns	bones
+traction	reduces	pain
+lower extremity injury	increases	fall risk
+fall risk	requires	home modifications
+home modifications	include	grab bars
+home modifications	include	non-slip mats
+fracture	classified by	type
+fracture type	includes	closed
+fracture type	includes	open
+fracture type	includes	comminuted
+fracture type	includes	greenstick
+dislocation	classified by	severity
+dislocation severity	includes	partial
+dislocation severity	includes	complete
+treatment	varies by	injury severity
+injury severity	assessed by	imaging
+imaging	determines	treatment plan
+treatment plan	includes	rehabilitation
+rehabilitation	restores	function
+function	measured by	range of motion
+range of motion	improved by	exercises
+exercises	prescribed by	physiotherapist
+physiotherapist	guides	recovery
+recovery	depends on	patient compliance
+patient compliance	affected by	education
+education	provided by	healthcare team
+healthcare team	includes	orthopedist
+healthcare team	includes	nurse
+healthcare team	includes	radiologist
+orthopedist	performs	surgery
+nurse	provides	wound care
+wound care	prevents	infection
+radiologist	interprets	imaging
+imaging	guides	surgical planning
+surgical planning	considers	anatomy
+anatomy	includes	blood vessels
+anatomy	includes	nerves
+nerve damage	causes	numbness
+nerve damage	causes	weakness
+weakness	addressed by	strengthening exercises

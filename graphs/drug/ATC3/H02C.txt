@@ -1,0 +1,100 @@
+antiadrenal preparations	is a	adrenal inhibitor
+antiadrenal preparations	treats	Cushing syndrome
+antiadrenal preparations	suppresses	cortisol production
+cortisol reduction	alleviates	hypertension
+antiadrenal preparations	targets	adrenal cortex
+adrenal cortex	produces	glucocorticoids
+glucocorticoids	regulates	glucose metabolism
+antiadrenal preparations	interacts with	ketoconazole
+ketoconazole	inhibits	CYP3A4
+CYP3A4 inhibition	affects	drug metabolism
+antiadrenal preparations	alternative to	adrenalectomy
+adrenalectomy	removes	adrenal glands
+antiadrenal preparations	contraindicated in	adrenal insufficiency
+adrenal insufficiency	requires	glucocorticoid replacement
+antiadrenal preparations	dosage form	oral tablet
+oral administration	affects	bioavailability
+antiadrenal preparations	metabolized in	liver
+liver dysfunction	alters	drug clearance
+antiadrenal preparations	binds to	adrenal enzymes
+enzyme inhibition	reduces	hormone synthesis
+antiadrenal preparations	monitoring requires	serum cortisol
+serum cortisol	indicates	adrenal function
+antiadrenal preparations	adverse effect	hyperkalemia
+hyperkalemia	managed with	potassium binders
+antiadrenal preparations	pregnancy category	C
+pregnancy	necessitates	dose adjustment
+antiadrenal preparations	interacts with	warfarin
+warfarin	requires	INR monitoring
+antiadrenal preparations	storage condition	room temperature
+drug stability	impacts	efficacy
+antiadrenal preparations	onset time	2-4 hours
+onset time	determines	dosing schedule
+antiadrenal preparations	half-life	6-8 hours
+half-life	guides	frequency
+antiadrenal preparations	contraindicated with	strong CYP3A4 inducers
+CYP3A4 inducers	include	rifampin
+antiadrenal preparations	cost	high
+drug cost	affects	adherence
+antiadrenal preparations	brand name	Lysodren
+brand drugs	have	generics
+antiadrenal preparations	mechanism	mitochondrial toxicity
+mitochondrial damage	causes	cell death
+antiadrenal preparations	requires	loading dose
+loading dose	achieves	steady state
+antiadrenal preparations	toxicity symptom	nausea
+nausea	managed with	antiemetics
+antiadrenal preparations	special population	pediatric
+pediatric use	requires	weight-based dosing
+antiadrenal preparations	excretion route	urine
+renal impairment	alters	dosage
+antiadrenal preparations	chemical class	dichlorodiphenylethane
+chemical structure	determines	solubility
+antiadrenal preparations	peak effect	3-5 days
+delayed effect	necessitates	therapeutic monitoring
+antiadrenal preparations	black box warning	adrenal necrosis
+adrenal necrosis	leads to	acute insufficiency
+antiadrenal preparations	synergizes with	radiation therapy
+combination therapy	enhances	tumor control
+antiadrenal preparations	resistance mechanism	enzyme upregulation
+drug resistance	requires	alternative agents
+antiadrenal preparations	prescriber specialty	endocrinologist
+specialist care	improves	outcomes
+antiadrenal preparations	generic name	mitotane
+generic drugs	reduce	costs
+antiadrenal preparations	solubility	lipophilic
+lipophilicity	affects	CNS penetration
+antiadrenal preparations	protein binding	>95%
+high protein binding	limits	free drug
+antiadrenal preparations	distribution volume	large
+distribution volume	indicates	tissue penetration
+antiadrenal preparations	enzyme target	cholesterol side-chain cleavage
+enzyme inhibition	blocks	steroidogenesis
+antiadrenal preparations	adjuvant use	adrenal cancer
+adjuvant therapy	prevents	recurrence
+antiadrenal preparations	palliates	hormonal symptoms
+palliative care	improves	quality of life
+antiadrenal preparations	discontinuation protocol	gradual
+abrupt cessation	causes	rebound effect
+antiadrenal preparations	therapeutic index	narrow
+narrow TI	requires	close monitoring
+antiadrenal preparations	overdose treatment	symptomatic
+supportive care	includes	electrolyte management
+antiadrenal preparations	storage protection	light-sensitive
+light exposure	degrades	potency
+antiadrenal preparations	administration timing	with meals
+food intake	enhances	absorption
+antiadrenal preparations	laboratory interference	urine steroids
+assay interference	causes	false results
+antiadrenal preparations	carcinogenicity class	possible
+carcinogenic potential	warrants	long-term follow-up
+antiadrenal preparations	teratogenicity	demonstrated
+teratogenic risk	requires	contraception
+antiadrenal preparations	excretion half-life	prolonged
+prolonged excretion	increases	accumulation risk
+antiadrenal preparations	active metabolites	present
+metabolites	contribute	pharmacologic activity
+antiadrenal preparations	chemical stability	pH-dependent
+pH alteration	affects	degradation rate
+antiadrenal preparations	biosynthetic precursor	DDT
+structural similarity	explains	toxicity profile

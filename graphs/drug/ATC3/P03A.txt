@@ -1,0 +1,100 @@
+ectoparasiticides	treat	ectoparasitic infections
+scabicides	are a type of	ectoparasiticides
+ectoparasiticides	kill	parasites
+ectoparasiticides	applied to	skin
+scabicides	specifically treat	scabies
+ectoparasiticides	may cause	skin irritation
+ectoparasiticides	include	permethrin
+permethrin	is a	scabicide
+ectoparasiticides	include	ivermectin
+ivermectin	treats	scabies
+ectoparasiticides	include	lindane
+lindane	has	neurotoxicity risk
+ectoparasiticides	require	prescription
+ectoparasiticides	combat	lice
+head lice	treated with	ectoparasiticides
+pubic lice	treated with	ectoparasiticides
+ectoparasiticides	kill	mites
+scabies	caused by	Sarcoptes scabiei
+ectoparasiticides	available as	creams
+ectoparasiticides	available as	lotions
+ectoparasiticides	available as	shampoos
+ectoparasiticides	require	repeated application
+scabies	causes	itching
+scabies	results in	rash
+ectoparasiticides	prevent	reinfestation
+ectoparasiticides	may require	household treatment
+ectoparasiticides	have	residual effects
+permethrin	affects	nerve cells
+ivermectin	paralyzes	parasites
+ectoparasiticides	vary in	efficacy
+ectoparasiticides	differ in	safety
+ectoparasiticides	have	age restrictions
+ectoparasiticides	contraindicated in	pregnancy
+ectoparasiticides	interact with	other medications
+ectoparasiticides	require	proper application
+ectoparasiticides	may cause	allergic reactions
+ectoparasiticides	monitored by	healthcare providers
+scabies	spreads through	skin contact
+scabies	has	incubation period
+ectoparasiticides	used in	outbreaks
+ectoparasiticides	used in	healthcare settings
+ectoparasiticides	part of	infection control
+ectoparasiticides	stored at	room temperature
+ectoparasiticides	have	expiration dates
+ectoparasiticides	undergo	clinical trials
+ectoparasiticides	approved by	regulatory agencies
+ectoparasiticides	have	generic versions
+ectoparasiticides	have	brand names
+ectoparasiticides	used in	veterinary medicine
+ectoparasiticides	treat	animal infestations
+ectoparasiticides	prevent	zoonotic transmission
+ectoparasiticides	used in	public health
+ectoparasiticides	combat	neglected tropical diseases
+scabies	classified as	neglected tropical disease
+ectoparasiticides	researched for	new formulations
+ectoparasiticides	face	resistance issues
+parasite resistance	reduces	ectoparasiticide efficacy
+ectoparasiticides	combined with	other treatments
+ectoparasiticides	complement	hygiene measures
+ectoparasiticides	require	patient education
+ectoparasiticides	have	application guidelines
+ectoparasiticides	monitored for	adverse effects
+ectoparasiticides	reported to	pharmacovigilance systems
+ectoparasiticides	included in	treatment guidelines
+ectoparasiticides	covered by	insurance
+ectoparasiticides	have	cost variations
+ectoparasiticides	subject to	shortages
+ectoparasiticides	stockpiled for	emergencies
+ectoparasiticides	used in	refugee camps
+ectoparasiticides	distributed in	humanitarian aid
+ectoparasiticides	prevent	secondary infections
+scratching	leads to	bacterial infections
+ectoparasiticides	reduce	disease transmission
+ectoparasiticides	improve	quality of life
+untreated scabies	causes	complications
+ectoparasiticides	prevent	crusted scabies
+crusted scabies	affects	immunocompromised patients
+ectoparasiticides	dosed by	weight
+ectoparasiticides	absorbed through	skin
+ectoparasiticides	metabolized in	liver
+ectoparasiticides	excreted through	kidneys
+ectoparasiticides	have	half-lives
+ectoparasiticides	detectable in	blood
+ectoparasiticides	monitored for	toxicity
+ectoparasiticides	contraindicated in	liver disease
+ectoparasiticides	avoided in	breastfeeding
+ectoparasiticides	require	follow-up
+treatment failure	requires	alternative ectoparasiticides
+ectoparasiticides	used with	antihistamines
+antihistamines	relieve	itching
+ectoparasiticides	used with	antibiotics
+antibiotics	treat	secondary infections
+ectoparasiticides	part of	integrated pest management
+ectoparasiticides	supplemented with	environmental cleaning
+ectoparasiticides	studied for	novel mechanisms
+ectoparasiticides	target	parasite nervous systems
+ectoparasiticides	disrupt	parasite reproduction
+ectoparasiticides	researched for	plant-based alternatives
+ectoparasiticides	compared in	clinical studies
+ectoparasiticides	ranked by	treatment guidelines

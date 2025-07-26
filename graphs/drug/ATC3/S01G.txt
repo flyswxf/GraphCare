@@ -1,0 +1,112 @@
+decongestants	treat	nasal congestion
+antiallergics	treat	allergies
+decongestants	belong to	sympathomimetic drugs
+antiallergics	include	antihistamines
+decongestants	constrict	blood vessels
+antiallergics	block	histamine receptors
+decongestants	may cause	hypertension
+antiallergics	may cause	drowsiness
+decongestants	interact with	MAO inhibitors
+antiallergics	interact with	sedatives
+decongestants	contraindicated in	glaucoma
+antiallergics	contraindicated in	urinary retention
+decongestants	used for	sinusitis
+antiallergics	used for	rhinitis
+decongestants	available as	nasal spray
+antiallergics	available as	oral tablets
+decongestants	mechanism	alpha-adrenergic agonist
+antiallergics	mechanism	H1 receptor antagonist
+decongestants	derived from	phenylephrine
+antiallergics	derived from	cetirizine
+decongestants	exacerbate	heart disease
+antiallergics	exacerbate	prostate issues
+decongestants	alternative	pseudoephedrine
+antiallergics	alternative	loratadine
+decongestants	duration	short-acting
+antiallergics	duration	long-acting
+decongestants	prescribed for	colds
+antiallergics	prescribed for	hay fever
+decongestants	avoid with	stimulants
+antiallergics	avoid with	alcohol
+decongestants	common brand	Sudafed
+antiallergics	common brand	Zyrtec
+decongestants	pediatric dose	adjusted
+antiallergics	pediatric dose	weight-based
+decongestants	overdose	tachycardia
+antiallergics	overdose	seizures
+decongestants	pregnancy category	C
+antiallergics	pregnancy category	B
+decongestants	metabolized by	liver
+antiallergics	metabolized by	CYP3A4
+decongestants	excretion	renal
+antiallergics	excretion	biliary
+decongestants	onset	rapid
+antiallergics	onset	delayed
+decongestants	combined with	analgesics
+antiallergics	combined with	decongestants
+decongestants	storage	room temperature
+antiallergics	storage	refrigerated
+decongestants	generic name	oxymetazoline
+antiallergics	generic name	fexofenadine
+decongestants	OTC status	restricted
+antiallergics	OTC status	unrestricted
+decongestants	half-life	4-6 hours
+antiallergics	half-life	14-18 hours
+decongestants	solubility	water-soluble
+antiallergics	solubility	lipid-soluble
+decongestants	receptor binding	adrenergic
+antiallergics	receptor binding	histaminergic
+decongestants	research focus	CNS effects
+antiallergics	research focus	immunomodulation
+decongestants	patent expiration	1990s
+antiallergics	patent expiration	2000s
+decongestants	synthesis	chemical
+antiallergics	synthesis	semi-synthetic
+decongestants	toxicity	low
+antiallergics	toxicity	moderate
+decongestants	stability	light-sensitive
+antiallergics	stability	heat-sensitive
+decongestants	bioequivalence	required
+antiallergics	bioequivalence	waived
+decongestants	pharmacophore	phenethylamine
+antiallergics	pharmacophore	piperidine
+decongestants	salt form	hydrochloride
+antiallergics	salt form	dihydrochloride
+decongestants	regulatory status	controlled
+antiallergics	regulatory status	non-controlled
+decongestants	trade names	multiple
+antiallergics	trade names	diverse
+decongestants	clinical trials	phase III
+antiallergics	clinical trials	phase IV
+decongestants	adverse events	insomnia
+antiallergics	adverse events	dry mouth
+decongestants	pharmacokinetics	linear
+antiallergics	pharmacokinetics	non-linear
+decongestants	excretion route	urine
+antiallergics	excretion route	feces
+decongestants	protein binding	minimal
+antiallergics	protein binding	extensive
+decongestants	elimination	first-order
+antiallergics	elimination	zero-order
+decongestants	pediatric use	caution
+antiallergics	pediatric use	safe
+decongestants	geriatric use	restricted
+antiallergics	geriatric use	monitored
+decongestants	pharmacodynamics	rapid
+antiallergics	pharmacodynamics	slow
+decongestants	bioavailability	high
+antiallergics	bioavailability	variable
+decongestants	brand competition	intense
+antiallergics	brand competition	moderate
+decongestants	cost	low
+antiallergics	cost	high
+decongestants	shelf life	2 years
+antiallergics	shelf life	3 years
+decongestants	excipients	sugars
+antiallergics	excipients	lactose
+decongestants	colorants	dyes
+antiallergics	colorants	none
+decongestants	formulation	solution
+antiallergics	formulation	suspension
+decongestants	flavor	menthol
+antiallergics	flavor	unflavored

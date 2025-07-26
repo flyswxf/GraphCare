@@ -1,0 +1,85 @@
+excision of skin lesion	is a	surgical procedure
+excision of skin lesion	treats	skin cancer
+excision of skin lesion	removes	benign lesions
+excision of skin lesion	prevents	metastasis
+excision of skin lesion	requires	local anesthesia
+excision of skin lesion	may cause	scarring
+excision of skin lesion	has risk of	infection
+excision of skin lesion	followed by	wound care
+excision of skin lesion	involves	sutures
+excision of skin lesion	may need	biopsy
+excision of skin lesion	detects	malignancy
+excision of skin lesion	performed by	dermatologist
+excision of skin lesion	uses	scalpel
+excision of skin lesion	alternative to	cryotherapy
+excision of skin lesion	more precise than	shave excision
+excision of skin lesion	has higher cure rate than	topical treatment
+excision of skin lesion	can prevent	recurrence
+excision of skin lesion	may require	follow-up
+excision of skin lesion	indicated for	large lesions
+excision of skin lesion	contraindicated in	bleeding disorders
+excision of skin lesion	complications include	nerve damage
+excision of skin lesion	healing time	weeks
+excision of skin lesion	affected by	patient age
+excision of skin lesion	cost varies by	lesion size
+excision of skin lesion	covered by	insurance
+excision of skin lesion	outpatient procedure
+excision of skin lesion	may need	pathology report
+excision of skin lesion	can confirm	diagnosis
+excision of skin lesion	alternative is	Mohs surgery
+excision of skin lesion	less invasive than	wide excision
+excision of skin lesion	preferred for	non-melanoma
+excision of skin lesion	requires	sterile technique
+excision of skin lesion	may lead to	hypopigmentation
+excision of skin lesion	risks	allergic reaction
+excision of skin lesion	preparation includes	skin cleaning
+excision of skin lesion	avoids	radiation
+excision of skin lesion	faster than	laser therapy
+excision of skin lesion	may use	electrocautery
+excision of skin lesion	minimizes	tissue damage
+excision of skin lesion	suitable for	elderly
+excision of skin lesion	not for	pregnant women
+excision of skin lesion	requires	consent form
+excision of skin lesion	influenced by	lesion location
+excision of skin lesion	may involve	skin graft
+excision of skin lesion	associated with	pain management
+excision of skin lesion	prevents	spread
+excision of skin lesion	improves	survival rate
+excision of skin lesion	depends on	lesion type
+excision of skin lesion	uses	sterile dressing
+excision of skin lesion	may require	antibiotics
+excision of skin lesion	affected by	immune status
+excision of skin lesion	complications	hematoma
+excision of skin lesion	requires	post-op care
+excision of skin lesion	alternative	photodynamic therapy
+excision of skin lesion	may trigger	keloid formation
+excision of skin lesion	contraindicated	active infection
+excision of skin lesion	success depends on	margins
+excision of skin lesion	may use	punch tool
+excision of skin lesion	recovery	gradual
+excision of skin lesion	influenced by	smoking status
+excision of skin lesion	requires	histology
+excision of skin lesion	may lead to	numbness
+excision of skin lesion	not for	fragile skin
+excision of skin lesion	cost affected by	facility
+excision of skin lesion	may need	re-excision
+excision of skin lesion	alternative	radiation therapy
+excision of skin lesion	prevents	complications
+excision of skin lesion	depends on	surgeon skill
+excision of skin lesion	may involve	flap closure
+excision of skin lesion	affected by	diabetes
+excision of skin lesion	risks	delayed healing
+excision of skin lesion	requires	pre-op assessment
+excision of skin lesion	alternative	topical chemotherapy
+excision of skin lesion	may cause	swelling
+excision of skin lesion	success rate	high
+excision of skin lesion	contraindicated	pacemaker
+excision of skin lesion	prevents	malignant transformation
+excision of skin lesion	uses	antiseptic
+excision of skin lesion	may require	pain meds
+excision of skin lesion	influenced by	nutrition
+excision of skin lesion	complications	seroma
+excision of skin lesion	requires	follow-up visit
+excision of skin lesion	may use	laser scalpel
+excision of skin lesion	recovery	monitored
+excision of skin lesion	affected by	sun exposure

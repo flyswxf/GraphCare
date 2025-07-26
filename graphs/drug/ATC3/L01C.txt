@@ -1,0 +1,100 @@
+plant alkaloids	are	natural compounds
+plant alkaloids	have	antineoplastic properties
+plant alkaloids	derived from	plants
+plant alkaloids	used in	chemotherapy
+plant alkaloids	target	cancer cells
+plant alkaloids	may cause	side effects
+side effects	can include	nausea
+side effects	can include	myelosuppression
+myelosuppression	leads to	low blood counts
+low blood counts	increase	infection risk
+plant alkaloids	inhibit	cell division
+cell division inhibition	prevents	tumor growth
+plant alkaloids	include	vinca alkaloids
+vinca alkaloids	derived from	Catharanthus roseus
+vinca alkaloids	include	vincristine
+vincristine	treats	leukemia
+vincristine	treats	lymphoma
+vincristine	causes	neuropathy
+neuropathy	results in	nerve damage
+nerve damage	leads to	pain
+plant alkaloids	include	taxanes
+taxanes	derived from	yew trees
+taxanes	include	paclitaxel
+paclitaxel	treats	breast cancer
+paclitaxel	treats	ovarian cancer
+paclitaxel	causes	hypersensitivity reactions
+hypersensitivity reactions	require	premedication
+premedication	includes	corticosteroids
+corticosteroids	reduce	inflammation
+plant alkaloids	include	camptothecins
+camptothecins	derived from	Camptotheca acuminata
+camptothecins	include	irinotecan
+irinotecan	treats	colorectal cancer
+irinotecan	causes	diarrhea
+diarrhea	requires	antidiarrheal agents
+antidiarrheal agents	include	loperamide
+loperamide	reduces	bowel movements
+plant alkaloids	include	podophyllotoxins
+podophyllotoxins	derived from	Podophyllum peltatum
+podophyllotoxins	include	etoposide
+etoposide	treats	lung cancer
+etoposide	treats	testicular cancer
+etoposide	causes	hair loss
+hair loss	affects	self-esteem
+antineoplastic drugs	are	cytotoxic
+cytotoxic drugs	kill	rapidly dividing cells
+rapidly dividing cells	include	cancer cells
+rapidly dividing cells	include	hair follicles
+hair follicles	affected by	chemotherapy
+chemotherapy	requires	dose adjustment
+dose adjustment	based on	body surface area
+body surface area	calculated using	height and weight
+plant alkaloids	interact with	P-glycoprotein
+P-glycoprotein	affects	drug resistance
+drug resistance	reduces	treatment efficacy
+treatment efficacy	monitored by	imaging
+imaging	includes	CT scans
+CT scans	detect	tumor shrinkage
+tumor shrinkage	indicates	response to therapy
+response to therapy	evaluated by	RECIST criteria
+RECIST criteria	measure	tumor size
+plant alkaloids	metabolized by	liver enzymes
+liver enzymes	include	CYP3A4
+CYP3A4	affected by	grapefruit juice
+grapefruit juice	increases	drug toxicity
+drug toxicity	causes	liver damage
+liver damage	monitored by	liver function tests
+liver function tests	measure	bilirubin levels
+bilirubin levels	indicate	liver health
+plant alkaloids	contraindicated in	pregnancy
+pregnancy	requires	alternative treatments
+alternative treatments	include	radiation therapy
+radiation therapy	targets	localized tumors
+localized tumors	treated with	surgery
+surgery	removes	malignant tissue
+malignant tissue	examined by	pathology
+pathology	determines	cancer stage
+cancer stage	guides	treatment plan
+treatment plan	includes	combination therapy
+combination therapy	improves	survival rates
+survival rates	influenced by	patient age
+patient age	affects	tolerance to therapy
+tolerance to therapy	monitored by	performance status
+performance status	assessed by	ECOG scale
+ECOG scale	ranges from	0 to 5
+plant alkaloids	require	intravenous administration
+intravenous administration	needs	venous access
+venous access	obtained via	central line
+central line	reduces	vein irritation
+vein irritation	caused by	extravasation
+extravasation	leads to	tissue necrosis
+tissue necrosis	requires	wound care
+wound care	involves	debridement
+debridement	removes	dead tissue
+plant alkaloids	stored in	amber vials
+amber vials	protect from	light degradation
+light degradation	reduces	drug potency
+drug potency	ensured by	proper storage
+proper storage	maintains	shelf life
+shelf life	printed on	drug label

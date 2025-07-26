@@ -1,0 +1,100 @@
+beta blocking agents	other combinations	are	drug combinations
+beta blocking agents	are	antihypertensive drugs
+beta blocking agents	act on	beta adrenergic receptors
+beta blocking agents	other combinations	contain	beta blocker
+beta blocking agents	other combinations	contain	diuretic
+beta blocking agents	other combinations	contain	vasodilator
+beta blocking agents	used for	hypertension
+beta blocking agents	used for	angina
+beta blocking agents	used for	arrhythmias
+beta blocking agents	used for	heart failure
+beta blocking agents	reduce	heart rate
+beta blocking agents	reduce	blood pressure
+beta blocking agents	may cause	bradycardia
+beta blocking agents	may cause	fatigue
+beta blocking agents	may cause	bronchospasm
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	contraindicated in	severe bradycardia
+beta blocking agents	interact with	calcium channel blockers
+beta blocking agents	interact with	digoxin
+beta blocking agents	interact with	insulin
+beta blocking agents	metabolized in	liver
+beta blocking agents	excreted by	kidneys
+beta blocking agents	other combinations	increase	efficacy
+beta blocking agents	other combinations	reduce	side effects
+beta blocking agents	other combinations	improve	compliance
+beta blocking agents	classified as	selective
+beta blocking agents	classified as	non-selective
+beta blocking agents	examples	propranolol
+beta blocking agents	examples	metoprolol
+beta blocking agents	examples	atenolol
+diuretics	enhance	beta blocker effects
+vasodilators	complement	beta blocker effects
+beta blocking agents	other combinations	prescribed for	resistant hypertension
+beta blocking agents	other combinations	used in	post-MI therapy
+beta blocking agents	prevent	migraine
+beta blocking agents	decrease	myocardial oxygen demand
+beta blocking agents	other combinations	require	dose adjustment
+beta blocking agents	other combinations	need	renal monitoring
+beta blocking agents	other combinations	need	hepatic monitoring
+beta blocking agents	mask	hypoglycemia symptoms
+beta blocking agents	affect	lipid profile
+beta blocking agents	may worsen	depression
+beta blocking agents	may cause	impotence
+beta blocking agents	may cause	nightmares
+beta blocking agents	may cause	cold extremities
+beta blocking agents	other combinations	increase	potassium levels
+beta blocking agents	other combinations	decrease	sodium levels
+beta blocking agents	other combinations	risk of	hyperkalemia
+beta blocking agents	other combinations	risk of	hyponatremia
+beta blocking agents	other combinations	contain	hydrochlorothiazide
+beta blocking agents	other combinations	contain	amlodipine
+beta blocking agents	other combinations	contain	nifedipine
+beta blocking agents	other combinations	trade names	Tenoretic
+beta blocking agents	other combinations	trade names	Inderide
+beta blocking agents	other combinations	trade names	Ziac
+beta blocking agents	compete with	catecholamines
+beta blocking agents	decrease	renin secretion
+beta blocking agents	affect	cardiac output
+beta blocking agents	prolong	AV node conduction
+beta blocking agents	increase	exercise tolerance
+beta blocking agents	other combinations	reduce	pill burden
+beta blocking agents	other combinations	simplify	regimen
+beta blocking agents	other combinations	cost more	than monotherapy
+beta blocking agents	other combinations	have	fixed ratios
+beta blocking agents	other combinations	require	titration
+beta blocking agents	other combinations	available as	oral tablets
+beta blocking agents	other combinations	not for	acute treatment
+beta blocking agents	other combinations	contraindicated in	pregnancy
+beta blocking agents	other combinations	caution in	diabetes
+beta blocking agents	other combinations	caution in	elderly
+beta blocking agents	other combinations	caution in	renal impairment
+beta blocking agents	other combinations	caution in	hepatic impairment
+beta blocking agents	other combinations	may affect	exercise capacity
+beta blocking agents	other combinations	may require	ECG monitoring
+beta blocking agents	other combinations	may interact	with NSAIDs
+beta blocking agents	other combinations	may interact	with antidepressants
+beta blocking agents	other combinations	may reduce	mortality
+beta blocking agents	other combinations	may prevent	stroke
+beta blocking agents	other combinations	may prevent	reinfarction
+beta blocking agents	other combinations	may reduce	hospitalization
+beta blocking agents	other combinations	improve	quality of life
+beta blocking agents	other combinations	have	synergistic effects
+beta blocking agents	other combinations	show	additive effects
+beta blocking agents	other combinations	allow	lower doses
+beta blocking agents	other combinations	minimize	adverse effects
+beta blocking agents	other combinations	increase	patient satisfaction
+beta blocking agents	other combinations	improve	blood pressure control
+beta blocking agents	other combinations	reduce	cardiovascular events
+beta blocking agents	other combinations	decrease	sympathetic activity
+beta blocking agents	other combinations	alter	hemodynamics
+beta blocking agents	other combinations	modify	vascular resistance
+beta blocking agents	other combinations	influence	baroreceptor sensitivity
+beta blocking agents	other combinations	affect	left ventricular function
+beta blocking agents	other combinations	stabilize	plaque
+beta blocking agents	other combinations	reduce	remodeling
+beta blocking agents	other combinations	protect	myocardium
+beta blocking agents	other combinations	have	class effect
+beta blocking agents	other combinations	vary in	potency
+beta blocking agents	other combinations	differ in	selectivity
+beta blocking agents	other combinations	have	different indications

@@ -1,0 +1,100 @@
+diagnostic bronchoscopy	is a	medical procedure
+biopsy of bronchus	is a	medical procedure
+diagnostic bronchoscopy	involves	biopsy of bronchus
+diagnostic bronchoscopy	used for	lung disease diagnosis
+biopsy of bronchus	samples	bronchial tissue
+diagnostic bronchoscopy	requires	bronchoscope
+bronchoscope	is a	medical device
+bronchoscope	allows visualization	bronchial tubes
+diagnostic bronchoscopy	detects	lung cancer
+diagnostic bronchoscopy	evaluates	pulmonary nodules
+diagnostic bronchoscopy	assesses	airway abnormalities
+diagnostic bronchoscopy	identifies	infections
+bronchial biopsy	confirms	tuberculosis
+bronchial biopsy	diagnoses	sarcoidosis
+diagnostic bronchoscopy	helps diagnose	COPD
+diagnostic bronchoscopy	evaluates	hemoptysis
+hemoptysis	is a	medical symptom
+diagnostic bronchoscopy	performed by	pulmonologist
+pulmonologist	is a	medical specialist
+diagnostic bronchoscopy	requires	local anesthesia
+local anesthesia	is a	pain control method
+diagnostic bronchoscopy	sometimes uses	sedation
+sedation	reduces	patient discomfort
+bronchial biopsy	may cause	bleeding
+bleeding	is a	complication
+diagnostic bronchoscopy	risk includes	pneumothorax
+pneumothorax	is a	lung complication
+diagnostic bronchoscopy	monitors	oxygen levels
+oxygen levels	indicate	respiratory function
+diagnostic bronchoscopy	contraindicated in	severe hypoxia
+severe hypoxia	is a	medical condition
+diagnostic bronchoscopy	follows	chest X-ray
+chest X-ray	is a	diagnostic tool
+diagnostic bronchoscopy	may require	CT scan
+CT scan	provides	detailed imaging
+bronchial biopsy	analyzed by	pathologist
+pathologist	examines	tissue samples
+diagnostic bronchoscopy	helps differentiate	benign lesions
+benign lesions	are	non-cancerous growths
+diagnostic bronchoscopy	aids in	treatment planning
+treatment planning	involves	personalized care
+diagnostic bronchoscopy	may lead to	surgical intervention
+surgical intervention	treats	malignancies
+bronchial biopsy	can detect	fungal infections
+fungal infections	affect	respiratory system
+diagnostic bronchoscopy	evaluates	foreign body aspiration
+foreign body aspiration	requires	bronchoscopic removal
+diagnostic bronchoscopy	monitors	disease progression
+disease progression	informs	prognosis
+biopsy results	guide	chemotherapy
+chemotherapy	treats	lung cancer
+diagnostic bronchoscopy	assists in	immunotherapy selection
+immunotherapy	boosts	immune response
+diagnostic bronchoscopy	may detect	metastatic cancer
+metastatic cancer	spreads from	other organs
+diagnostic bronchoscopy	assesses	treatment response
+treatment response	determines	efficacy
+bronchial biopsy	can confirm	granulomatous disease
+granulomatous disease	includes	Wegener’s granulomatosis
+diagnostic bronchoscopy	may reveal	bronchial stenosis
+bronchial stenosis	narrows	airways
+diagnostic bronchoscopy	evaluates	post-transplant rejection
+post-transplant rejection	affects	lung recipients
+diagnostic bronchoscopy	used in	research studies
+research studies	improve	medical knowledge
+bronchial biopsy	aids in	biomarker discovery
+biomarker discovery	enhances	precision medicine
+diagnostic bronchoscopy	may involve	bronchoalveolar lavage
+bronchoalveolar lavage	collects	lung fluid
+diagnostic bronchoscopy	sometimes combines	endobronchial ultrasound
+endobronchial ultrasound	improves	biopsy accuracy
+diagnostic bronchoscopy	contraindicated in	uncontrolled bleeding disorders
+uncontrolled bleeding disorders	increase	procedural risk
+diagnostic bronchoscopy	requires	patient fasting
+patient fasting	prevents	aspiration risk
+diagnostic bronchoscopy	records	video footage
+video footage	assists	second opinions
+bronchial biopsy	may necessitate	immunohistochemistry
+immunohistochemistry	identifies	protein markers
+diagnostic bronchoscopy	can be	outpatient procedure
+outpatient procedure	reduces	hospitalization
+diagnostic bronchoscopy	reimbursed by	insurance
+insurance	covers	medical costs
+diagnostic bronchoscopy	follows	informed consent
+informed consent	ensures	patient understanding
+diagnostic bronchoscopy	influenced by	clinical guidelines
+clinical guidelines	standardize	medical practice
+diagnostic bronchoscopy	may be	AI-assisted
+AI-assisted diagnostics	increase	efficiency
+bronchial biopsy	may reveal	rare diseases
+rare diseases	require	specialized care
+diagnostic bronchoscopy	tracks	inflammation markers
+inflammation markers	indicate	disease activity
+diagnostic bronchoscopy	sometimes precedes	radiation therapy
+radiation therapy	targets	cancerous cells
+diagnostic bronchoscopy	may be	repeated
+repeated procedures	monitor	recurrence
+bronchial biopsy	stored in	tissue bank
+tissue bank	supports	future research
+diagnostic bronchoscopy	improves	patient outcomes

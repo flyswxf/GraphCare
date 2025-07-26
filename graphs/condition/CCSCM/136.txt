@@ -1,0 +1,100 @@
+disorders of teeth and jaw	include	dental caries
+disorders of teeth and jaw	include	periodontitis
+disorders of teeth and jaw	include	malocclusion
+disorders of teeth and jaw	include	temporomandibular joint disorder
+disorders of teeth and jaw	include	bruxism
+dental caries	caused by	bacteria
+dental caries	treated with	fillings
+periodontitis	caused by	plaque
+periodontitis	leads to	tooth loss
+malocclusion	treated with	braces
+temporomandibular joint disorder	causes	jaw pain
+bruxism	causes	tooth wear
+dental caries	prevented by	fluoride
+periodontitis	prevented by	flossing
+malocclusion	corrected by	orthodontics
+temporomandibular joint disorder	treated with	splints
+bruxism	treated with	mouthguards
+disorders of teeth and jaw	may require	surgery
+dental caries	diagnosed by	X-rays
+periodontitis	diagnosed by	probing
+malocclusion	diagnosed by	dental casts
+temporomandibular joint disorder	diagnosed by	MRI
+bruxism	diagnosed by	electromyography
+dental caries	associated with	sugar consumption
+periodontitis	associated with	smoking
+malocclusion	associated with	genetics
+temporomandibular joint disorder	associated with	stress
+bruxism	associated with	anxiety
+disorders of teeth and jaw	affect	chewing
+disorders of teeth and jaw	affect	speech
+disorders of teeth and jaw	affect	self-esteem
+dental caries	can lead to	abscess
+periodontitis	can lead to	bone loss
+malocclusion	can lead to	headaches
+temporomandibular joint disorder	can lead to	ear pain
+bruxism	can lead to	jaw stiffness
+fillings	made of	composite resin
+braces	use	wires
+splints	made of	acrylic
+mouthguards	made of	silicone
+disorders of teeth and jaw	managed by	dentists
+disorders of teeth and jaw	managed by	orthodontists
+disorders of teeth and jaw	managed by	oral surgeons
+dental caries	treated by	drilling
+periodontitis	treated by	scaling
+malocclusion	treated by	aligners
+temporomandibular joint disorder	treated by	physiotherapy
+bruxism	treated by	botox injections
+disorders of teeth and jaw	linked to	diabetes
+disorders of teeth and jaw	linked to	cardiovascular disease
+dental caries	common in	children
+periodontitis	common in	adults
+malocclusion	common in	adolescents
+temporomandibular joint disorder	common in	women
+bruxism	common in	stressed individuals
+disorders of teeth and jaw	exacerbated by	poor hygiene
+disorders of teeth and jaw	exacerbated by	trauma
+dental caries	prevented by	sealants
+periodontitis	prevented by	regular cleanings
+malocclusion	prevented by	early intervention
+temporomandibular joint disorder	prevented by	posture correction
+bruxism	prevented by	stress management
+disorders of teeth and jaw	involve	enamel
+disorders of teeth and jaw	involve	dentin
+disorders of teeth and jaw	involve	gums
+disorders of teeth and jaw	involve	jawbone
+disorders of teeth and jaw	involve	nerves
+dental caries	affects	tooth structure
+periodontitis	affects	gum tissue
+malocclusion	affects	bite alignment
+temporomandibular joint disorder	affects	joint function
+bruxism	affects	muscle tension
+disorders of teeth and jaw	may cause	pain
+disorders of teeth and jaw	may cause	swelling
+disorders of teeth and jaw	may cause	infection
+dental caries	classified by	severity
+periodontitis	classified by	stages
+malocclusion	classified by	types
+temporomandibular joint disorder	classified by	symptoms
+bruxism	classified by	frequency
+disorders of teeth and jaw	researched in	dentistry
+disorders of teeth and jaw	researched in	orthodontics
+disorders of teeth and jaw	researched in	oral medicine
+dental caries	studied in	cariology
+periodontitis	studied in	periodontology
+malocclusion	studied in	gnathology
+temporomandibular joint disorder	studied in	orofacial pain
+bruxism	studied in	sleep medicine
+disorders of teeth and jaw	impact	nutrition
+disorders of teeth and jaw	impact	sleep
+disorders of teeth and jaw	impact	quality of life
+dental caries	monitored by	dental exams
+periodontitis	monitored by	periodontal charts
+malocclusion	monitored by	progress photos
+temporomandibular joint disorder	monitored by	pain scales
+bruxism	monitored by	sleep studies
+disorders of teeth and jaw	influenced by	diet
+disorders of teeth and jaw	influenced by	genetics
+disorders of teeth and jaw	influenced by	environment
+disorders of teeth and jaw	require	multidisciplinary care

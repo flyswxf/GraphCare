@@ -1,0 +1,100 @@
+immunity disorders	include	autoimmune diseases
+immunity disorders	may cause	chronic inflammation
+immunity disorders	affect	immune system
+immunity disorders	lead to	frequent infections
+immunity disorders	require	immunosuppressants
+immunity disorders	diagnosed by	blood tests
+immunity disorders	associated with	genetic factors
+immunity disorders	may trigger	allergies
+immunity disorders	increase risk of	cancer
+immunity disorders	treated by	rheumatologists
+autoimmune diseases	include	rheumatoid arthritis
+autoimmune diseases	include	type 1 diabetes
+autoimmune diseases	include	multiple sclerosis
+chronic inflammation	contributes to	tissue damage
+immune system	consists of	white blood cells
+frequent infections	require	antibiotics
+immunosuppressants	include	corticosteroids
+immunosuppressants	increase risk of	infections
+blood tests	measure	antibody levels
+genetic factors	influence	disease susceptibility
+allergies	involve	histamine release
+cancer	requires	chemotherapy
+rheumatologists	treat	lupus
+rheumatoid arthritis	affects	joints
+type 1 diabetes	destroys	pancreatic cells
+multiple sclerosis	damages	nerve cells
+tissue damage	leads to	organ failure
+white blood cells	include	lymphocytes
+antibiotics	target	bacteria
+corticosteroids	suppress	immune response
+antibody levels	indicate	disease activity
+disease susceptibility	varies by	ethnicity
+histamine release	causes	swelling
+chemotherapy	kills	cancer cells
+lupus	affects	multiple organs
+joints	contain	synovial fluid
+pancreatic cells	produce	insulin
+nerve cells	transmit	electrical signals
+organ failure	requires	transplantation
+lymphocytes	include	T cells
+bacteria	cause	infections
+immune response	involves	cytokines
+disease activity	monitored by	lab tests
+ethnicity	affects	genetic predisposition
+swelling	causes	pain
+cancer cells	divide	uncontrollably
+multiple organs	include	kidneys
+synovial fluid	lubricates	joints
+insulin	regulates	blood sugar
+electrical signals	enable	muscle movement
+transplantation	requires	donor organs
+T cells	attack	pathogens
+infections	may cause	fever
+cytokines	regulate	inflammation
+lab tests	measure	CRP levels
+genetic predisposition	increases	disease risk
+pain	managed by	analgesics
+uncontrollable division	leads to	tumors
+kidneys	filter	blood
+joints	connect	bones
+blood sugar	controlled by	diet
+muscle movement	requires	ATP
+donor organs	matched by	HLA typing
+pathogens	include	viruses
+fever	indicates	infection
+inflammation	characterized by	redness
+CRP levels	indicate	inflammation
+disease risk	reduced by	lifestyle changes
+analgesics	include	NSAIDs
+tumors	detected by	imaging
+blood	contains	plasma
+bones	support	body structure
+diet	affects	microbiome
+ATP	provides	cellular energy
+HLA typing	determines	compatibility
+viruses	require	host cells
+infection	treated by	antivirals
+redness	caused by	vasodilation
+inflammation	treated by	anti-inflammatories
+lifestyle changes	include	exercise
+NSAIDs	reduce	pain
+imaging	includes	MRI scans
+plasma	contains	proteins
+body structure	protects	organs
+microbiome	influences	immunity
+cellular energy	powers	metabolism
+compatibility	prevents	rejection
+host cells	hijacked by	viruses
+antivirals	inhibit	viral replication
+vasodilation	increases	blood flow
+anti-inflammatories	include	ibuprofen
+exercise	improves	circulation
+pain	signals	tissue damage
+MRI scans	visualize	soft tissues
+proteins	include	antibodies
+organs	perform	vital functions
+immunity	enhanced by	vaccinations
+metabolism	produces	waste products
+rejection	prevented by	immunosuppression
+viral replication	requires	RNA polymerase

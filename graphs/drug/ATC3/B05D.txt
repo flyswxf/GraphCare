@@ -1,0 +1,100 @@
+peritoneal dialysis	is a	renal replacement therapy
+peritoneal dialysis	treats	kidney failure
+peritoneal dialysis	uses	peritoneum
+peritoneum	acts as	semipermeable membrane
+peritoneal dialysis	requires	dialysis solution
+dialysis solution	contains	electrolytes
+dialysis solution	has	osmotic agent
+osmotic agent	typically is	glucose
+peritoneal dialysis	can cause	peritonitis
+peritonitis	requires	antibiotics
+peritoneal dialysis	has types	continuous ambulatory
+peritoneal dialysis	has types	automated
+automated peritoneal dialysis	uses	cycler
+peritoneal dialysis	requires	catheter
+catheter	placed in	abdominal cavity
+peritoneal dialysis	can lead	fluid overload
+peritoneal dialysis	can lead	malnutrition
+malnutrition	caused by	protein loss
+peritoneal dialysis	removes	toxins
+toxins	include	urea
+peritoneal dialysis	regulates	acid-base balance
+acid-base balance	involves	bicarbonate
+peritoneal dialysis	manages	hyperkalemia
+hyperkalemia	is	high potassium
+peritoneal dialysis	adjusts	fluid balance
+fluid balance	affects	blood pressure
+peritoneal dialysis	contraindicated in	abdominal adhesions
+abdominal adhesions	caused by	surgeries
+peritoneal dialysis	preferred for	pediatric patients
+pediatric patients	need	growth considerations
+peritoneal dialysis	requires	sterile technique
+sterile technique	prevents	infections
+peritoneal dialysis	exchanges	occur daily
+daily exchanges	number varies	3-5
+peritoneal dialysis	dwell time	4-6 hours
+dwell time	affects	solute clearance
+peritoneal dialysis	preserves	residual renal function
+residual renal function	predicts	outcomes
+peritoneal dialysis	associated with	better survival
+better survival	in	first 2 years
+peritoneal dialysis	complication	hernia
+hernia	may require	surgical repair
+peritoneal dialysis	risk factor	obesity
+obesity	increases	infection risk
+peritoneal dialysis	needs	training
+training	ensures	proper technique
+peritoneal dialysis	allows	home treatment
+home treatment	improves	quality of life
+peritoneal dialysis	requires	monthly checkups
+monthly checkups	monitor	Kt/V
+Kt/V	measures	dialysis adequacy
+dialysis adequacy	predicts	mortality
+peritoneal dialysis	alternative to	hemodialysis
+hemodialysis	requires	vascular access
+peritoneal dialysis	preferred for	cardiovascular disease
+cardiovascular disease	worsened by	hemodynamic instability
+peritoneal dialysis	complication	encapsulating peritoneal sclerosis
+encapsulating peritoneal sclerosis	is	rare
+peritoneal dialysis	solution	can be icodextrin
+icodextrin	is	glucose polymer
+peritoneal dialysis	solution	varies in dextrose concentration
+dextrose concentration	ranges	1.5%-4.25%
+peritoneal dialysis	requires	exit site care
+exit site care	prevents	infections
+peritoneal dialysis	complication	catheter malfunction
+catheter malfunction	may require	replacement
+peritoneal dialysis	associated with	lower costs
+lower costs	compared to	hemodialysis
+peritoneal dialysis	requires	dietary modifications
+dietary modifications	limit	phosphorus
+phosphorus	controlled by	binders
+peritoneal dialysis	removes	middle molecules
+middle molecules	include	β2-microglobulin
+peritoneal dialysis	adequacy	depends on membrane characteristics
+membrane characteristics	include	transport type
+transport type	determined by	PET test
+PET test	is	peritoneal equilibration test
+peritoneal dialysis	can cause	hyperglycemia
+hyperglycemia	managed with	insulin
+peritoneal dialysis	solution	may contain lactate
+lactate	corrects	metabolic acidosis
+peritoneal dialysis	contraindicated in	severe COPD
+severe COPD	may worsen with	abdominal distension
+peritoneal dialysis	preferred for	remote patients
+remote patients	lack	dialysis centers
+peritoneal dialysis	complication	bleeding
+bleeding	may require	transfusion
+peritoneal dialysis	associated with	depression
+depression	affects	adherence
+peritoneal dialysis	requires	psychosocial support
+psychosocial support	improves	outcomes
+peritoneal dialysis	can cause	back pain
+back pain	managed with	analgesics
+peritoneal dialysis	solution	can be biocompatible
+biocompatible solution	reduces	inflammation
+peritoneal dialysis	may lead	weight gain
+weight gain	from	glucose absorption
+peritoneal dialysis	requires	laboratory monitoring
+laboratory monitoring	checks	creatinine
+creatinine	reflects	kidney function

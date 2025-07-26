@@ -1,0 +1,100 @@
+diseases of white blood cells	include	leukemia
+diseases of white blood cells	include	lymphoma
+diseases of white blood cells	include	myelodysplastic syndromes
+diseases of white blood cells	include	neutropenia
+diseases of white blood cells	include	agranulocytosis
+leukemia	is a	cancer
+lymphoma	is a	cancer
+myelodysplastic syndromes	may progress to	leukemia
+neutropenia	increases risk of	infections
+agranulocytosis	is a severe form of	neutropenia
+leukemia	affects	bone marrow
+lymphoma	affects	lymph nodes
+bone marrow biopsy	diagnoses	leukemia
+lymph node biopsy	diagnoses	lymphoma
+chemotherapy	treats	leukemia
+chemotherapy	treats	lymphoma
+radiation therapy	treats	lymphoma
+stem cell transplant	treats	leukemia
+stem cell transplant	treats	lymphoma
+immunotherapy	treats	lymphoma
+targeted therapy	treats	leukemia
+leukemia	has subtypes	acute lymphoblastic leukemia
+leukemia	has subtypes	chronic lymphocytic leukemia
+leukemia	has subtypes	acute myeloid leukemia
+leukemia	has subtypes	chronic myeloid leukemia
+lymphoma	has subtypes	Hodgkin lymphoma
+lymphoma	has subtypes	non-Hodgkin lymphoma
+Hodgkin lymphoma	is characterized by	Reed-Sternberg cells
+non-Hodgkin lymphoma	has subtypes	diffuse large B-cell lymphoma
+non-Hodgkin lymphoma	has subtypes	follicular lymphoma
+neutropenia	can be caused by	chemotherapy
+neutropenia	can be caused by	autoimmune disorders
+neutropenia	can be caused by	infections
+agranulocytosis	can be caused by	medications
+agranulocytosis	requires	hospitalization
+growth factors	treat	neutropenia
+antibiotics	prevent infections in	neutropenia
+leukemia	may cause	anemia
+leukemia	may cause	thrombocytopenia
+lymphoma	may cause	B symptoms
+B symptoms	include	fever
+B symptoms	include	night sweats
+B symptoms	include	weight loss
+bone marrow	produces	white blood cells
+bone marrow	produces	red blood cells
+bone marrow	produces	platelets
+lymph nodes	contain	lymphocytes
+lymphocytes	are a type of	white blood cell
+neutrophils	are a type of	white blood cell
+eosinophils	are a type of	white blood cell
+basophils	are a type of	white blood cell
+monocytes	are a type of	white blood cell
+complete blood count	diagnoses	neutropenia
+complete blood count	diagnoses	leukemia
+flow cytometry	diagnoses	lymphoma
+PET scan	stages	lymphoma
+CT scan	stages	lymphoma
+bone marrow aspiration	diagnoses	myelodysplastic syndromes
+myelodysplastic syndromes	may cause	cytopenias
+cytopenias	include	anemia
+cytopenias	include	thrombocytopenia
+cytopenias	include	neutropenia
+leukemia	has risk factor	radiation exposure
+leukemia	has risk factor	chemical exposure
+leukemia	has risk factor	genetic mutations
+lymphoma	has risk factor	Epstein-Barr virus
+lymphoma	has risk factor	immunodeficiency
+neutropenia	has risk factor	autoimmune diseases
+neutropenia	has risk factor	viral infections
+agranulocytosis	has risk factor	drug hypersensitivity
+rituximab	treats	non-Hodgkin lymphoma
+imatinib	treats	chronic myeloid leukemia
+venetoclax	treats	chronic lymphocytic leukemia
+azacitidine	treats	myelodysplastic syndromes
+filgrastim	treats	neutropenia
+pegfilgrastim	treats	neutropenia
+antibody therapy	treats	lymphoma
+CAR-T cell therapy	treats	leukemia
+CAR-T cell therapy	treats	lymphoma
+leukemia	may lead to	sepsis
+lymphoma	may lead to	organ dysfunction
+neutropenia	may lead to	bacterial infections
+agranulocytosis	may lead to	fungal infections
+sepsis	is a	medical emergency
+fungal infections	require	antifungal therapy
+bacterial infections	require	antibiotic therapy
+leukemia	has complication	tumor lysis syndrome
+tumor lysis syndrome	requires	hydration
+tumor lysis syndrome	requires	allopurinol
+lymphoma	has complication	superior vena cava syndrome
+superior vena cava syndrome	causes	facial swelling
+superior vena cava syndrome	causes	dyspnea
+myelodysplastic syndromes	may transform into	acute myeloid leukemia
+acute myeloid leukemia	has poor	prognosis
+chronic myeloid leukemia	is associated with	Philadelphia chromosome
+Philadelphia chromosome	involves	BCR-ABL fusion
+BCR-ABL fusion	is targeted by	tyrosine kinase inhibitors
+tyrosine kinase inhibitors	include	imatinib
+tyrosine kinase inhibitors	include	dasatinib
+tyrosine kinase inhibitors	include	nilotinib

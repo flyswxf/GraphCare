@@ -1,0 +1,100 @@
+hormone antagonists	inhibit	hormone receptors
+hormone antagonists	treat	hormone-sensitive cancers
+hormone antagonists	include	antiestrogens
+hormone antagonists	include	antiandrogens
+antiestrogens	treat	breast cancer
+antiandrogens	treat	prostate cancer
+hormone antagonists	disrupt	endocrine signaling
+hormone antagonists	may cause	infertility
+hormone antagonists	can induce	menopause symptoms
+hormone antagonists	interact with	steroid receptors
+tamoxifen	is a	antiestrogen
+flutamide	is a	antiandrogen
+hormone antagonists	reduce	tumor growth
+hormone antagonists	affect	bone density
+hormone antagonists	require	prescription
+hormone antagonists	may increase	cardiovascular risk
+hormone antagonists	are used in	hormone therapy
+hormone antagonists	can lead	drug resistance
+hormone antagonists	metabolized in	liver
+hormone antagonists	monitored via	blood tests
+hormone antagonists	used with	chemotherapy
+hormone antagonists	affect	mood
+hormone antagonists	alter	lipid profile
+hormone antagonists	contraindicated in	pregnancy
+hormone antagonists	require	dose adjustment
+hormone antagonists	studied in	clinical trials
+hormone antagonists	target	nuclear receptors
+hormone antagonists	can cause	hot flashes
+hormone antagonists	may require	combination therapy
+hormone antagonists	influence	body weight
+hormone antagonists	interact with	CYP450 enzymes
+hormone antagonists	impact	sexual function
+hormone antagonists	prescribed for	endometriosis
+hormone antagonists	used in	gender-affirming therapy
+hormone antagonists	suppress	gonadotropins
+hormone antagonists	can induce	osteoporosis
+hormone antagonists	may trigger	depression
+hormone antagonists	compete with	endogenous hormones
+hormone antagonists	have	half-life
+hormone antagonists	vary in	potency
+hormone antagonists	can cross	blood-brain barrier
+hormone antagonists	affect	sleep patterns
+hormone antagonists	may alter	thyroid function
+hormone antagonists	require	regular monitoring
+hormone antagonists	can cause	liver toxicity
+hormone antagonists	interact with	anticoagulants
+hormone antagonists	influence	muscle mass
+hormone antagonists	may increase	thromboembolism risk
+hormone antagonists	administered as	oral tablets
+hormone antagonists	sometimes given	intramuscularly
+hormone antagonists	have	metabolites
+hormone antagonists	can affect	cognition
+hormone antagonists	used for	precocious puberty
+hormone antagonists	may cause	gynecomastia
+hormone antagonists	suppress	adrenal hormones
+hormone antagonists	interact with	glucocorticoids
+hormone antagonists	alter	glucose metabolism
+hormone antagonists	require	patient education
+hormone antagonists	may induce	allergic reactions
+hormone antagonists	have	brand names
+hormone antagonists	can be	synthetic
+hormone antagonists	derived from	steroidal structures
+hormone antagonists	block	receptor dimerization
+hormone antagonists	inhibit	transcription factors
+hormone antagonists	affect	cell proliferation
+hormone antagonists	can be	selective
+hormone antagonists	may require	loading dose
+hormone antagonists	have	therapeutic index
+hormone antagonists	can cause	electrolyte imbalance
+hormone antagonists	influence	hair growth
+hormone antagonists	prescribed by	oncologists
+hormone antagonists	monitored through	imaging
+hormone antagonists	can lead	adrenal insufficiency
+hormone antagonists	interact with	grapefruit juice
+hormone antagonists	affect	wound healing
+hormone antagonists	may cause	visual disturbances
+hormone antagonists	have	storage requirements
+hormone antagonists	can induce	pseudopregnancy
+hormone antagonists	used in	veterinary medicine
+hormone antagonists	affect	sebum production
+hormone antagonists	may alter	voice pitch
+hormone antagonists	require	gradual tapering
+hormone antagonists	can cause	nausea
+hormone antagonists	influence	appetite
+hormone antagonists	may lead	weight gain
+hormone antagonists	have	excretion pathways
+hormone antagonists	can affect	kidney function
+hormone antagonists	interact with	SSRIs
+hormone antagonists	may require	genetic testing
+hormone antagonists	used for	hirsutism
+hormone antagonists	can cause	fatigue
+hormone antagonists	affect	muscle strength
+hormone antagonists	may induce	anxiety
+hormone antagonists	have	patent protection
+hormone antagonists	can be	prodrugs
+hormone antagonists	influence	immune response
+hormone antagonists	may affect	fertility preservation
+hormone antagonists	require	informed consent
+hormone antagonists	can interact	herbal supplements
+hormone antagonists	have	clinical guidelines

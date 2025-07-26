@@ -1,0 +1,100 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	involves	uterus
+hysterectomy	treats	uterine fibroids
+hysterectomy	treats	endometriosis
+hysterectomy	treats	abnormal bleeding
+hysterectomy	has risk	infection
+hysterectomy	has risk	bleeding
+oophorectomy	is a	surgical procedure
+oophorectomy	involves	ovaries
+oophorectomy	treats	ovarian cancer
+oophorectomy	affects	hormone production
+salpingectomy	is a	surgical procedure
+salpingectomy	involves	fallopian tubes
+salpingectomy	prevents	ectopic pregnancy
+salpingectomy	reduces risk	ovarian cancer
+colposcopy	is a	diagnostic procedure
+colposcopy	examines	cervix
+colposcopy	detects	cervical dysplasia
+colposcopy	follows	abnormal Pap smear
+LEEP procedure	treats	cervical dysplasia
+LEEP procedure	uses	electrical current
+LEEP procedure	prevents	cervical cancer
+D&C	is a	surgical procedure
+D&C	involves	uterus
+D&C	treats	miscarriage
+D&C	diagnoses	uterine conditions
+endometrial ablation	treats	heavy bleeding
+endometrial ablation	destroys	endometrium
+endometrial ablation	alternative to	hysterectomy
+tubal ligation	is a	sterilization procedure
+tubal ligation	blocks	fallopian tubes
+tubal ligation	prevents	pregnancy
+myomectomy	removes	uterine fibroids
+myomectomy	preserves	uterus
+myomectomy	treats	infertility
+cervical cerclage	prevents	preterm birth
+cervical cerclage	reinforces	cervix
+cervical biopsy	diagnoses	cervical cancer
+cervical biopsy	follows	abnormal colposcopy
+mammography	screens for	breast cancer
+mammography	uses	X-rays
+breast biopsy	diagnoses	breast cancer
+breast biopsy	confirms	mammogram findings
+lumpectomy	removes	breast tumor
+lumpectomy	preserves	breast tissue
+mastectomy	removes	breast
+mastectomy	treats	breast cancer
+mastectomy	has types	partial
+mastectomy	has types	total
+breast reconstruction	follows	mastectomy
+breast reconstruction	restores	appearance
+pelvic exam	evaluates	female organs
+pelvic exam	detects	abnormalities
+Pap smear	screens for	cervical cancer
+Pap smear	collects	cervical cells
+sonohysterography	evaluates	uterine cavity
+sonohysterography	uses	ultrasound
+laparoscopy	diagnoses	endometriosis
+laparoscopy	is minimally invasive
+hysterosalpingography	evaluates	fallopian tubes
+hysterosalpingography	checks for	blockages
+uterine artery embolization	treats	fibroids
+uterine artery embolization	blocks	blood flow
+vaginal rejuvenation	improves	vaginal tone
+vaginal rejuvenation	treats	laxity
+cystoscopy	examines	bladder
+cystoscopy	diagnoses	fistulas
+vulvar biopsy	diagnoses	vulvar cancer
+vulvar biopsy	evaluates	lesions
+cervical cryotherapy	treats	dysplasia
+cervical cryotherapy	uses	freezing
+breast ultrasound	evaluates	lumps
+breast ultrasound	distinguishes	cysts
+MRI	evaluates	pelvic organs
+MRI	detects	tumors
+CT scan	diagnoses	ovarian cancer
+CT scan	evaluates	spread
+hormone therapy	treats	menopause symptoms
+hormone therapy	replaces	estrogen
+fertility treatments	assist	conception
+fertility treatments	include	IVF
+IVF	involves	egg retrieval
+IVF	requires	hormone stimulation
+egg freezing	preserves	fertility
+egg freezing	uses	cryopreservation
+uterine prolapse repair	corrects	displacement
+uterine prolapse repair	strengthens	support
+vaginal hysterectomy	removes	uterus
+vaginal hysterectomy	avoids	abdominal incision
+abdominal hysterectomy	requires	larger incision
+abdominal hysterectomy	allows	better access
+laparoscopic hysterectomy	is minimally invasive
+laparoscopic hysterectomy	uses	small incisions
+robotic hysterectomy	enhances	precision
+robotic hysterectomy	reduces	recovery time
+pelvic floor therapy	strengthens	muscles
+pelvic floor therapy	treats	incontinence
+breast reduction	relieves	discomfort
+breast reduction	improves	posture
+breast augmentation	enhances	size

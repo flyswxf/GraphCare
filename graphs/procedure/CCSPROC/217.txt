@@ -1,0 +1,100 @@
+other respiratory therapy	is a	respiratory treatment
+other respiratory therapy	includes	oxygen therapy
+other respiratory therapy	includes	chest physiotherapy
+other respiratory therapy	includes	nebulizer treatment
+other respiratory therapy	helps manage	chronic obstructive pulmonary disease
+other respiratory therapy	helps manage	asthma
+other respiratory therapy	helps manage	bronchitis
+other respiratory therapy	helps manage	pneumonia
+other respiratory therapy	requires	respiratory therapist
+other respiratory therapy	uses	medical equipment
+oxygen therapy	delivers	supplemental oxygen
+oxygen therapy	treats	hypoxemia
+oxygen therapy	uses	oxygen concentrator
+oxygen therapy	uses	nasal cannula
+oxygen therapy	uses	oxygen mask
+chest physiotherapy	improves	mucus clearance
+chest physiotherapy	involves	percussion
+chest physiotherapy	involves	postural drainage
+chest physiotherapy	benefits	cystic fibrosis patients
+nebulizer treatment	delivers	bronchodilators
+nebulizer treatment	treats	bronchospasm
+nebulizer treatment	uses	nebulizer machine
+nebulizer treatment	converts	liquid medication to mist
+chronic obstructive pulmonary disease	is a	lung disease
+chronic obstructive pulmonary disease	causes	breathing difficulty
+chronic obstructive pulmonary disease	includes	emphysema
+chronic obstructive pulmonary disease	includes	chronic bronchitis
+asthma	is a	respiratory condition
+asthma	causes	airway inflammation
+asthma	triggers	wheezing
+asthma	triggers	shortness of breath
+bronchitis	is a	respiratory infection
+bronchitis	affects	bronchial tubes
+bronchitis	causes	cough
+pneumonia	is a	lung infection
+pneumonia	caused by	bacteria
+pneumonia	caused by	viruses
+pneumonia	causes	lung inflammation
+respiratory therapist	specializes in	respiratory care
+respiratory therapist	administers	breathing treatments
+respiratory therapist	monitors	oxygen levels
+medical equipment	includes	spirometer
+medical equipment	includes	ventilator
+medical equipment	includes	pulse oximeter
+supplemental oxygen	increases	blood oxygen levels
+supplemental oxygen	prevents	tissue damage
+hypoxemia	is a	low blood oxygen
+hypoxemia	leads to	hypoxia
+oxygen concentrator	filters	nitrogen
+oxygen concentrator	produces	pure oxygen
+nasal cannula	delivers	low-flow oxygen
+nasal cannula	is	lightweight
+oxygen mask	delivers	high-flow oxygen
+oxygen mask	covers	nose and mouth
+mucus clearance	prevents	lung infections
+mucus clearance	improves	breathing
+percussion	loosens	mucus
+percussion	involves	clapping
+postural drainage	uses	gravity
+postural drainage	aids	mucus drainage
+cystic fibrosis	is a	genetic disorder
+cystic fibrosis	affects	lungs
+cystic fibrosis	causes	thick mucus
+bronchodilators	relax	airway muscles
+bronchodilators	relieve	bronchoconstriction
+bronchodilators	include	beta-agonists
+bronchospasm	is a	airway narrowing
+bronchospasm	causes	breathing difficulty
+nebulizer machine	converts	medication to aerosol
+nebulizer machine	requires	compressor
+liquid medication	includes	albuterol
+liquid medication	includes	ipratropium
+lung disease	affects	respiratory function
+lung disease	includes	pulmonary fibrosis
+breathing difficulty	is a	symptom
+breathing difficulty	indicates	respiratory problem
+emphysema	damages	alveoli
+emphysema	causes	lung hyperinflation
+chronic bronchitis	involves	airway inflammation
+chronic bronchitis	causes	persistent cough
+respiratory condition	affects	lungs
+respiratory condition	includes	pulmonary edema
+airway inflammation	narrows	airways
+airway inflammation	causes	wheezing
+wheezing	is a	high-pitched sound
+wheezing	indicates	airway obstruction
+shortness of breath	is a	dyspnea
+shortness of breath	limits	physical activity
+respiratory infection	affects	respiratory tract
+respiratory infection	includes	influenza
+bronchial tubes	carry	air to lungs
+bronchial tubes	can become	inflamed
+cough	is a	reflex
+cough	clears	airways
+bacteria	cause	infections
+bacteria	treated with	antibiotics
+viruses	cause	respiratory infections
+viruses	treated with	antivirals
+lung inflammation	impairs	gas exchange
+lung inflammation	causes	chest pain

@@ -1,0 +1,100 @@
+beta blocking agents	are	antihypertensive drugs
+beta blocking agents	reduce	heart rate
+beta blocking agents	lower	blood pressure
+beta blocking agents	block	beta-adrenergic receptors
+beta blocking agents	treat	hypertension
+beta blocking agents	prevent	heart attacks
+beta blocking agents	manage	arrhythmias
+beta blocking agents	used in	heart failure
+beta blocking agents	can cause	fatigue
+beta blocking agents	may induce	bradycardia
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	interact with	calcium channel blockers
+beta blocking agents	metabolized by	liver
+beta blocking agents	excreted via	kidneys
+beta blocking agents	include	propranolol
+propranolol	is a	non-selective beta blocker
+metoprolol	is a	selective beta-1 blocker
+atenolol	is a	cardioselective beta blocker
+carvedilol	is a	beta and alpha blocker
+beta blocking agents	reduce	myocardial oxygen demand
+beta blocking agents	decrease	cardiac output
+beta blocking agents	improve	survival post-MI
+beta blocking agents	mask	hypoglycemia symptoms
+beta blocking agents	worsen	Raynaud’s phenomenon
+beta blocking agents	require	dose adjustment in renal impairment
+diuretics	are	antihypertensive drugs
+diuretics	promote	diuresis
+diuretics	increase	urine output
+diuretics	reduce	blood volume
+diuretics	lower	blood pressure
+diuretics	treat	edema
+diuretics	manage	heart failure
+diuretics	classified as	thiazides
+thiazides	include	hydrochlorothiazide
+hydrochlorothiazide	is a	potassium-wasting diuretic
+diuretics	classified as	loop diuretics
+loop diuretics	include	furosemide
+furosemide	acts on	loop of Henle
+loop diuretics	are	potent diuretics
+diuretics	classified as	potassium-sparing diuretics
+potassium-sparing diuretics	include	spironolactone
+spironolactone	antagonizes	aldosterone
+diuretics	cause	electrolyte imbalances
+diuretics	can lead	hypokalemia
+diuretics	may induce	hyponatremia
+diuretics	increase	uric acid levels
+diuretics	worsen	gout
+diuretics	interact with	NSAIDs
+diuretics	require	monitoring of renal function
+beta blocking agents and diuretics	combined in	hypertension treatment
+combination therapy	enhances	blood pressure control
+beta blocking agents and diuretics	have	synergistic effects
+combined use	reduces	adverse effects
+beta blocking agents and diuretics	increase	hypoglycemia risk in diabetics
+beta blocking agents and diuretics	affect	lipid metabolism
+combination therapy	recommended in	resistant hypertension
+beta blockers	counteract	diuretic-induced reflex tachycardia
+diuretics	counteract	beta blocker-induced fluid retention
+beta blocking agents	metabolized by	CYP2D6
+diuretics	excreted via	renal tubules
+beta blocking agents	contraindicated in	severe bradycardia
+diuretics	contraindicated in	anuria
+beta blocking agents	prolong	AV node conduction
+diuretics	increase	risk of dehydration
+beta blocking agents	impair	exercise tolerance
+diuretics	decrease	plasma volume
+beta blocking agents	reduce	renin secretion
+diuretics	stimulate	renin-angiotensin system
+beta blocking agents	used in	migraine prophylaxis
+diuretics	used in	glaucoma treatment
+beta blocking agents	exhibit	negative inotropic effect
+diuretics	exhibit	natriuretic effect
+beta blocking agents	increase	peripheral vascular resistance
+diuretics	decrease	preload
+beta blocking agents	reduce	myocardial infarction recurrence
+diuretics	prevent	fluid overload
+beta blocking agents	contraindicated in	decompensated heart failure
+diuretics	first-line for	systolic hypertension
+beta blocking agents	preferred in	post-MI patients
+diuretics	preferred in	elderly hypertensives
+beta blocking agents	reduce	sudden cardiac death
+diuretics	reduce	stroke risk
+beta blocking agents	impair	glucose tolerance
+diuretics	worsen	diabetes control
+beta blocking agents	decrease	tremor severity
+diuretics	increase	calcium excretion
+beta blocking agents	reduce	portal hypertension
+diuretics	treat	ascites
+beta blocking agents	suppress	sympathetic activity
+diuretics	activate	RAAS
+beta blocking agents	prolong	survival in CHF
+diuretics	improve	symptoms in CHF
+beta blocking agents	increase	HDL cholesterol
+diuretics	increase	LDL cholesterol
+beta blocking agents	reduce	catecholamine effects
+diuretics	increase	sodium excretion
+beta blocking agents	cross	blood-brain barrier
+diuretics	enhance	renal blood flow
+beta blocking agents	reduce	ventricular arrhythmias
+diuretics	decrease	extracellular fluid volume

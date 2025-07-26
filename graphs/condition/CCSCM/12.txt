@@ -1,0 +1,100 @@
+cancer of esophagus	is a	malignant tumor
+cancer of esophagus	originates in	esophagus
+cancer of esophagus	may cause	dysphagia
+cancer of esophagus	may cause	weight loss
+cancer of esophagus	may cause	chest pain
+cancer of esophagus	may cause	coughing
+cancer of esophagus	may cause	regurgitation
+cancer of esophagus	is diagnosed via	endoscopy
+cancer of esophagus	is diagnosed via	biopsy
+cancer of esophagus	is diagnosed via	CT scan
+cancer of esophagus	is diagnosed via	PET scan
+cancer of esophagus	is staged via	TNM system
+cancer of esophagus	has subtype	adenocarcinoma
+cancer of esophagus	has subtype	squamous cell carcinoma
+adenocarcinoma	is associated with	Barrett's esophagus
+squamous cell carcinoma	is associated with	smoking
+squamous cell carcinoma	is associated with	alcohol use
+cancer of esophagus	is treated with	surgery
+cancer of esophagus	is treated with	chemotherapy
+cancer of esophagus	is treated with	radiation therapy
+cancer of esophagus	is treated with	immunotherapy
+esophagectomy	is a surgery for	cancer of esophagus
+chemotherapy	uses drug	cisplatin
+chemotherapy	uses drug	fluorouracil
+radiation therapy	may cause	esophagitis
+cancer of esophagus	may lead to	metastasis
+metastasis	may affect	liver
+metastasis	may affect	lungs
+metastasis	may affect	bones
+cancer of esophagus	has risk factor	GERD
+cancer of esophagus	has risk factor	obesity
+cancer of esophagus	has risk factor	smoking
+cancer of esophagus	has risk factor	alcohol
+cancer of esophagus	has risk factor	poor nutrition
+cancer of esophagus	may require	feeding tube
+feeding tube	provides	nutrition
+cancer of esophagus	has complication	bleeding
+cancer of esophagus	has complication	perforation
+cancer of esophagus	has complication	obstruction
+cancer of esophagus	may require	stent placement
+stent placement	relieves	obstruction
+cancer of esophagus	has symptom	hoarseness
+cancer of esophagus	has symptom	vomiting
+cancer of esophagus	has symptom	fatigue
+cancer of esophagus	affects	swallowing
+dysphagia	leads to	malnutrition
+malnutrition	worsens	prognosis
+prognosis	depends on	stage
+early stage	has better	survival rate
+late stage	has worse	survival rate
+cancer of esophagus	may recur	locally
+cancer of esophagus	may recur	distantly
+recurrence	requires	retreatment
+cancer of esophagus	is researched via	clinical trials
+clinical trials	test	new therapies
+immunotherapy	uses	checkpoint inhibitors
+pembrolizumab	is a	checkpoint inhibitor
+nivolumab	is a	checkpoint inhibitor
+targeted therapy	uses	trastuzumab
+trastuzumab	targets	HER2
+HER2	is a	growth receptor
+cancer of esophagus	may involve	lymph nodes
+lymph node involvement	indicates	spread
+spread	affects	treatment plan
+treatment plan	is made by	oncologist
+oncologist	collaborates with	surgeon
+oncologist	collaborates with	radiologist
+supportive care	includes	pain management
+pain management	uses	opioids
+opioids	may cause	constipation
+supportive care	includes	nutrition therapy
+nutrition therapy	involves	dietitian
+cancer of esophagus	may require	palliative care
+palliative care	improves	quality of life
+quality of life	is measured via	questionnaires
+cancer of esophagus	has biomarker	PD-L1
+PD-L1	predicts	immunotherapy response
+cancer of esophagus	may have	genetic mutations
+genetic mutations	guide	targeted therapy
+cancer of esophagus	is studied in	epidemiology
+epidemiology	examines	incidence rates
+incidence rates	vary by	geography
+geography	influences	risk factors
+cancer of esophagus	is more common in	men
+men	have higher	mortality rate
+mortality rate	is affected by	early detection
+early detection	uses	screening
+screening	is recommended for	high-risk patients
+high-risk patients	include	smokers
+high-risk patients	include	GERD sufferers
+GERD	causes	chronic irritation
+chronic irritation	leads to	cellular changes
+cellular changes	may progress to	dysplasia
+dysplasia	is a	precancerous condition
+precancerous condition	requires	monitoring
+monitoring	involves	repeat endoscopies
+cancer of esophagus	has association	Helicobacter pylori
+Helicobacter pylori	causes	gastritis
+gastritis	increases	GERD risk
+GERD	is managed with	proton pump inhibitors

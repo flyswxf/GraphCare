@@ -1,0 +1,100 @@
+other respiratory system products	belongs to	ATC classification
+other respiratory system products	includes	nasal preparations
+other respiratory system products	includes	throat preparations
+other respiratory system products	excludes	asthma drugs
+nasal preparations	contain	decongestants
+nasal preparations	contain	corticosteroids
+nasal preparations	treat	rhinitis
+throat preparations	contain	antiseptics
+throat preparations	contain	local anesthetics
+throat preparations	treat	pharyngitis
+decongestants	act on	nasal congestion
+corticosteroids	reduce	inflammation
+antiseptics	kill	bacteria
+local anesthetics	relieve	pain
+rhinitis	caused by	allergies
+rhinitis	caused by	infections
+pharyngitis	symptom is	sore throat
+pharyngitis	often caused by	viruses
+nasal congestion	results from	swollen blood vessels
+inflammation	leads to	tissue swelling
+allergies	trigger	histamine release
+infections	involve	pathogens
+viruses	cause	upper respiratory infections
+swollen blood vessels	increase	nasal resistance
+tissue swelling	causes	discomfort
+histamine release	induces	itching
+pathogens	include	bacteria
+pathogens	include	viruses
+upper respiratory infections	affect	sinuses
+nasal resistance	leads to	mouth breathing
+discomfort	prompts	medication use
+itching	triggers	sneezing
+bacteria	treated with	antibiotics
+viruses	treated with	antivirals
+sinuses	connected to	nasal cavity
+mouth breathing	causes	dry throat
+medication use	requires	proper dosing
+sneezing	spreads	droplets
+antibiotics	target	bacterial cell walls
+antivirals	inhibit	viral replication
+nasal cavity	lined with	mucous membrane
+dry throat	alleviated by	lozenges
+proper dosing	prevents	side effects
+droplets	contain	infectious agents
+bacterial cell walls	targeted by	penicillin
+viral replication	requires	host cells
+mucous membrane	produces	mucus
+lozenges	contain	soothing agents
+side effects	include	gastrointestinal upset
+infectious agents	transmit	diseases
+penicillin	derived from	fungi
+host cells	hijacked by	viruses
+mucus	traps	particles
+soothing agents	include	menthol
+gastrointestinal upset	causes	nausea
+diseases	prevented by	vaccines
+fungi	produce	antibiotics
+particles	removed by	cilia
+menthol	provides	cooling sensation
+nausea	managed by	antiemetics
+vaccines	stimulate	immunity
+cilia	line	respiratory tract
+cooling sensation	relieves	irritation
+antiemetics	block	vomiting center
+immunity	involves	antibodies
+respiratory tract	includes	bronchi
+irritation	leads to	coughing
+vomiting center	located in	brainstem
+antibodies	produced by	B cells
+bronchi	branch into	bronchioles
+coughing	clears	airways
+brainstem	controls	reflexes
+B cells	part of	immune system
+bronchioles	terminate in	alveoli
+airways	protected by	mucociliary clearance
+reflexes	include	gag reflex
+immune system	defends against	pathogens
+alveoli	site of	gas exchange
+mucociliary clearance	impaired by	smoking
+gag reflex	prevents	choking
+gas exchange	involves	oxygen
+smoking	causes	COPD
+choking	results from	airway obstruction
+oxygen	transported by	hemoglobin
+COPD	characterized by	airflow limitation
+airway obstruction	caused by	foreign bodies
+hemoglobin	found in	red blood cells
+airflow limitation	measured by	spirometry
+foreign bodies	removed by	Heimlich maneuver
+red blood cells	produced in	bone marrow
+spirometry	assesses	lung function
+Heimlich maneuver	applies	abdominal thrusts
+bone marrow	contains	stem cells
+lung function	indicates	respiratory health
+abdominal thrusts	increase	intrathoracic pressure
+stem cells	differentiate into	blood cells
+respiratory health	affected by	pollution
+intrathoracic pressure	forces out	obstructions
+blood cells	include	leukocytes
+pollution	contains	particulate matter

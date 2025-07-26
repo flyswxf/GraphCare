@@ -1,0 +1,100 @@
+cardiovascular procedure	is a	medical procedure
+cardiovascular procedure	involves	heart
+cardiovascular procedure	involves	blood vessels
+non-therapeutic cardiovascular procedure	is a type of	cardiovascular procedure
+therapeutic cardiovascular procedure	is a type of	cardiovascular procedure
+diagnostic cardiovascular procedure	is a type of	non-therapeutic cardiovascular procedure
+cardiac catheterization	is a type of	diagnostic cardiovascular procedure
+angiography	is a type of	cardiac catheterization
+coronary angiography	is a type of	angiography
+electrocardiogram	is a type of	diagnostic cardiovascular procedure
+stress test	is a type of	diagnostic cardiovascular procedure
+echocardiogram	is a type of	diagnostic cardiovascular procedure
+transesophageal echocardiogram	is a type of	echocardiogram
+holter monitor	is a type of	diagnostic cardiovascular procedure
+event monitor	is a type of	diagnostic cardiovascular procedure
+tilt table test	is a type of	diagnostic cardiovascular procedure
+cardiac MRI	is a type of	diagnostic cardiovascular procedure
+cardiac CT	is a type of	diagnostic cardiovascular procedure
+nuclear stress test	is a type of	stress test
+exercise stress test	is a type of	stress test
+pharmacologic stress test	is a type of	stress test
+dobutamine stress test	is a type of	pharmacologic stress test
+adenosine stress test	is a type of	pharmacologic stress test
+myocardial perfusion imaging	is a type of	nuclear stress test
+coronary calcium scan	is a type of	cardiac CT
+cardiac catheterization	measures	blood pressure
+cardiac catheterization	measures	oxygen levels
+angiography	visualizes	blood vessels
+electrocardiogram	records	heart rhythm
+echocardiogram	uses	ultrasound
+stress test	evaluates	heart function
+holter monitor	detects	arrhythmias
+tilt table test	diagnoses	syncope
+cardiac MRI	provides	heart images
+cardiac CT	detects	plaque buildup
+non-therapeutic cardiovascular procedure	requires	physician
+non-therapeutic cardiovascular procedure	performed in	hospital
+non-therapeutic cardiovascular procedure	may require	sedation
+diagnostic cardiovascular procedure	helps determine	treatment plan
+cardiac catheterization	can lead to	complications
+angiography	identifies	blockages
+electrocardiogram	detects	heart attacks
+echocardiogram	evaluates	heart valves
+stress test	assesses	coronary artery disease
+holter monitor	monitors	heart activity
+tilt table test	evaluates	blood pressure changes
+cardiac MRI	assesses	heart muscle
+cardiac CT	measures	calcium score
+non-therapeutic cardiovascular procedure	may use	contrast dye
+diagnostic cardiovascular procedure	requires	patient preparation
+cardiac catheterization	inserts	catheter
+angiography	uses	X-ray
+electrocardiogram	attaches	electrodes
+echocardiogram	requires	transducer
+stress test	uses	treadmill
+holter monitor	worn for	24 hours
+tilt table test	changes	body position
+cardiac MRI	requires	contrast agent
+cardiac CT	generates	3D images
+non-therapeutic cardiovascular procedure	follows	safety protocols
+diagnostic cardiovascular procedure	produces	test results
+cardiac catheterization	accesses	femoral artery
+angiography	evaluates	blood flow
+electrocardiogram	detects	ischemia
+echocardiogram	measures	ejection fraction
+stress test	monitors	ECG changes
+holter monitor	records	heart rate
+tilt table test	induces	fainting
+cardiac MRI	evaluates	congenital defects
+cardiac CT	screens	heart disease
+non-therapeutic cardiovascular procedure	requires	informed consent
+diagnostic cardiovascular procedure	assists	cardiologists
+cardiac catheterization	may lead to	bleeding
+angiography	guides	stent placement
+electrocardiogram	identifies	atrial fibrillation
+echocardiogram	detects	pericardial effusion
+stress test	contraindicated in	severe aortic stenosis
+holter monitor	helps diagnose	palpitations
+tilt table test	requires	IV access
+cardiac MRI	contraindicated with	certain implants
+cardiac CT	calculates	Agatston score
+non-therapeutic cardiovascular procedure	follows	aseptic technique
+diagnostic cardiovascular procedure	may require	fasting
+cardiac catheterization	measures	cardiac output
+angiography	detects	aneurysms
+electrocardiogram	shows	ST segment changes
+echocardiogram	evaluates	ejection fraction
+stress test	terminates for	chest pain
+holter monitor	stores	ECG data
+tilt table test	lasts	30-60 minutes
+cardiac MRI	assesses	myocardial viability
+cardiac CT	detects	coronary anomalies
+non-therapeutic cardiovascular procedure	performed by	trained staff
+diagnostic cardiovascular procedure	contributes to	prognosis
+cardiac catheterization	evaluates	pulmonary hypertension
+angiography	requires	arterial puncture
+electrocardiogram	detects	ventricular hypertrophy
+echocardiogram	uses	Doppler technique
+stress test	evaluates	exercise capacity
+holter monitor	identifies	arrhythmia patterns

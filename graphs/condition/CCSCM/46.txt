@@ -1,0 +1,100 @@
+benign neoplasm of uterus	is a	uterine tumor
+benign neoplasm of uterus	may cause	abnormal uterine bleeding
+benign neoplasm of uterus	is diagnosed by	pelvic ultrasound
+benign neoplasm of uterus	is treated with	myomectomy
+leiomyoma	is a type of	benign neoplasm of uterus
+hysterectomy	is a treatment for	benign neoplasm of uterus
+benign neoplasm of uterus	may lead to	infertility
+oral contraceptives	may shrink	benign neoplasm of uterus
+benign neoplasm of uterus	is associated with	pelvic pain
+MRI	is used to evaluate	benign neoplasm of uterus
+uterine fibroids	are	benign neoplasms of uterus
+benign neoplasm of uterus	may compress	bladder
+GnRH agonists	are used for	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	constipation
+hysteroscopy	is used to diagnose	benign neoplasm of uterus
+endometrial biopsy	rules out	malignancy in benign neoplasm of uterus
+benign neoplasm of uterus	is more common in	reproductive age
+black women	have higher prevalence of	benign neoplasm of uterus
+obesity	is a risk factor for	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	dysmenorrhea
+subserosal fibroid	is a type of	benign neoplasm of uterus
+intramural fibroid	is a type of	benign neoplasm of uterus
+submucosal fibroid	is a type of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	menorrhagia
+iron deficiency anemia	may result from	benign neoplasm of uterus
+uterine artery embolization	treats	benign neoplasm of uterus
+focused ultrasound	is a treatment for	benign neoplasm of uterus
+benign neoplasm of uterus	may regress after	menopause
+family history	increases risk of	benign neoplasm of uterus
+estrogen	promotes growth of	benign neoplasm of uterus
+progesterone	affects growth of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	frequent urination
+laparoscopic myomectomy	removes	benign neoplasm of uterus
+hysteroscopic myomectomy	removes	submucosal fibroids
+benign neoplasm of uterus	may cause	pelvic pressure
+pregnancy complications	may be caused by	benign neoplasm of uterus
+cesarean delivery	may be needed with	benign neoplasm of uterus
+transvaginal ultrasound	diagnoses	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	back pain
+degeneration	may occur in	benign neoplasm of uterus
+pedunculated fibroid	is a type of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	dyspareunia
+magnetic resonance imaging	evaluates size of	benign neoplasm of uterus
+ultrasound-guided biopsy	confirms diagnosis of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	leg pain
+red degeneration	is a complication of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	abdominal distension
+hormonal therapy	manages symptoms of	benign neoplasm of uterus
+levonorgestrel IUD	reduces bleeding from	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	reproductive dysfunction
+in-vitro fertilization	may be affected by	benign neoplasm of uterus
+myolysis	is a treatment for	benign neoplasm of uterus
+cryomyolysis	is a treatment for	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	hydronephrosis
+serum CA-125	may be elevated in	benign neoplasm of uterus
+tranexamic acid	reduces bleeding from	benign neoplasm of uterus
+NSAIDs	relieve pain from	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	venous thromboembolism
+hysteroscopic resection	removes	benign neoplasm of uterus
+robotic myomectomy	removes	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	miscarriage
+progestins	may control growth of	benign neoplasm of uterus
+selective progesterone receptor modulators	treat	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	preterm labor
+endometrial ablation	may help with	benign neoplasm of uterus
+sonohysterography	evaluates	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	cervical dilation
+laparotomy	may be needed for	benign neoplasm of uterus
+parasitic fibroid	is a rare type of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	uterine inversion
+postmenopausal bleeding	should rule out	malignant transformation of benign neoplasm
+leuprolide acetate	is a GnRH agonist for	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	bowel obstruction
+myomectomy	preserves fertility in	benign neoplasm of uterus
+hysterectomy	is definitive treatment for	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	uterine rupture
+vaginal myomectomy	removes	prolapsed benign neoplasm
+interventional radiology	performs	uterine artery embolization
+benign neoplasm of uterus	may cause	septic abortion
+gonadotropin-releasing hormone	suppresses growth of	benign neoplasm
+danazol	is an androgen for	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	retained placenta
+mifepristone	is an antiprogestin for	benign neoplasm of uterus
+ultrasound monitoring	tracks growth of	benign neoplasm of uterus
+benign neoplasm of uterus	may cause	postpartum hemorrhage
+hysterosalpingography	may detect	benign neoplasm of uterus
+hereditary leiomyomatosis	is a risk factor for	benign neoplasm
+benign neoplasm of uterus	may cause	dyschezia
+laparoscopic radiofrequency ablation	treats	benign neoplasm
+oral progestins	control bleeding from	benign neoplasm
+benign neoplasm of uterus	may cause	urinary retention
+transcervical resection	removes	benign neoplasm
+hysteroscopic morcellation	removes	benign neoplasm
+benign neoplasm of uterus	may cause	vaginal discharge
+fever	may indicate degeneration of	benign neoplasm
+acute abdomen	may indicate torsion of	benign neoplasm
+hypertension	is associated with	benign neoplasm of uterus
+nulliparity	is a risk factor for	benign neoplasm
+African descent	has higher incidence of	benign neoplasm
+vitamin D deficiency	may relate to	benign neoplasm growth

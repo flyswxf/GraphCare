@@ -1,0 +1,25 @@
+skin biopsy	is a	diagnostic procedure
+punch biopsy	is a type of	skin biopsy
+shave biopsy	is a type of	skin biopsy
+excisional biopsy	is a type of	skin biopsy
+skin scraping	detects	fungal infection
+Wood's lamp examination	diagnoses	fungal infection
+dermatoscopy	visualizes	skin lesions
+patch testing	identifies	contact allergens
+punch biopsy	obtains	subcutaneous tissue
+skin culture	detects	bacterial infection
+Tzanck smear	diagnoses	herpes infection
+skin biopsy	requires	local anesthesia
+Mohs surgery	combines with	frozen section
+phototesting	evaluates	photosensitivity
+skin prick test	detects	IgE antibodies
+immunofluorescence	differentiates	autoimmune blistering diseases
+skin biopsy	contraindicated in	bleeding disorders
+patch testing	precedes	avoidance therapy
+dermatoscopy	reduces need for	unnecessary biopsies
+skin culture	guides	antibiotic selection
+punch biopsy	assesses	tumor depth
+excisional biopsy	provides	complete lesion removal
+Wood's lamp	enhances	porphyrin fluorescence
+skin scraping	collects	scale samples
+Tzanck smear	shows	multinucleated giant cells

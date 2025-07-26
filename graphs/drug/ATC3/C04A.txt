@@ -1,0 +1,100 @@
+peripheral vasodilators	is a	antihypertensive drug
+peripheral vasodilators	treat	hypertension
+peripheral vasodilators	act on	arterial smooth muscle
+peripheral vasodilators	reduce	peripheral vascular resistance
+peripheral vasodilators	include	calcium channel blockers
+peripheral vasodilators	include	alpha blockers
+peripheral vasodilators	include	ACE inhibitors
+peripheral vasodilators	cause	reflex tachycardia
+peripheral vasodilators	may induce	orthostatic hypotension
+peripheral vasodilators	contraindicated in	aortic stenosis
+calcium channel blockers	subclass of	peripheral vasodilators
+alpha blockers	subclass of	peripheral vasodilators
+ACE inhibitors	subclass of	peripheral vasodilators
+hydralazine	is a	peripheral vasodilator
+minoxidil	is a	peripheral vasodilator
+prazosin	is a	peripheral vasodilator
+nifedipine	is a	peripheral vasodilator
+amlodipine	is a	peripheral vasodilator
+peripheral vasodilators	metabolized by	liver
+peripheral vasodilators	excreted by	kidneys
+peripheral vasodilators	interact with	diuretics
+peripheral vasodilators	potentiate	hypotensive effects
+peripheral vasodilators	require	dose titration
+peripheral vasodilators	monitored via	blood pressure
+peripheral vasodilators	avoid in	pregnancy
+peripheral vasodilators	cause	flushing
+peripheral vasodilators	may cause	headache
+peripheral vasodilators	associated with	edema
+peripheral vasodilators	affect	cardiac afterload
+peripheral vasodilators	improve	tissue perfusion
+peripheral vasodilators	used for	heart failure
+peripheral vasodilators	benefit	coronary artery disease
+peripheral vasodilators	risk for	syncope
+peripheral vasodilators	contraindicated in	cardiogenic shock
+peripheral vasodilators	caution in	renal impairment
+peripheral vasodilators	caution in	hepatic impairment
+peripheral vasodilators	interact with	grapefruit juice
+peripheral vasodilators	require	blood monitoring
+peripheral vasodilators	prescribed for	Raynaud's phenomenon
+peripheral vasodilators	alternative to	beta blockers
+hydralazine	combined with	nitrates
+minoxidil	causes	hypertrichosis
+prazosin	treats	benign prostatic hyperplasia
+nifedipine	available as	extended-release
+amlodipine	has long	half-life
+peripheral vasodilators	onset varies	by drug
+peripheral vasodilators	duration varies	by formulation
+peripheral vasodilators	absorbed in	gastrointestinal tract
+peripheral vasodilators	protein-bound in	plasma
+peripheral vasodilators	cross	blood-brain barrier
+peripheral vasodilators	affect	baroreceptor reflex
+peripheral vasodilators	increase	venous pooling
+peripheral vasodilators	reduce	left ventricular pressure
+peripheral vasodilators	decrease	myocardial oxygen demand
+peripheral vasodilators	improve	angina symptoms
+peripheral vasodilators	contraindicated in	porphyria
+peripheral vasodilators	avoided in	breastfeeding
+peripheral vasodilators	interact with	CYP3A4 inhibitors
+peripheral vasodilators	caution with	potassium supplements
+peripheral vasodilators	increase risk of	falls
+elderly patients	sensitive to	peripheral vasodilators
+diabetic patients	monitor glucose with	peripheral vasodilators
+peripheral vasodilators	mask symptoms of	hypoglycemia
+peripheral vasodilators	first-line for	essential hypertension
+peripheral vasodilators	second-line for	resistant hypertension
+peripheral vasodilators	adjunct in	hypertensive crisis
+peripheral vasodilators	administered via	oral route
+peripheral vasodilators	available as	sublingual
+peripheral vasodilators	stored at	room temperature
+peripheral vasodilators	have	generic versions
+peripheral vasodilators	cost-effective for	long-term therapy
+peripheral vasodilators	covered by	most insurances
+peripheral vasodilators	require	prescription
+peripheral vasodilators	subject to	tolerance
+peripheral vasodilators	need	combination therapy
+peripheral vasodilators	synergize with	beta blockers
+peripheral vasodilators	alternative to	central sympatholytics
+peripheral vasodilators	preferred in	elderly
+peripheral vasodilators	avoided in	athletes
+peripheral vasodilators	affect	exercise tolerance
+peripheral vasodilators	impact	quality of life
+peripheral vasodilators	reduce	stroke risk
+peripheral vasodilators	prevent	end-organ damage
+peripheral vasodilators	slow	nephropathy progression
+peripheral vasodilators	protect	retinal vessels
+peripheral vasodilators	influence	arterial stiffness
+peripheral vasodilators	modify	pulse wave velocity
+peripheral vasodilators	affect	endothelial function
+peripheral vasodilators	increase	nitric oxide
+peripheral vasodilators	reduce	oxidative stress
+peripheral vasodilators	subject to	racial differences
+peripheral vasodilators	have	gender variations
+peripheral vasodilators	require	adherence monitoring
+peripheral vasodilators	involved in	deprescribing protocols
+peripheral vasodilators	associated with	deprescribing protocols
+peripheral vasodilators	part of	stepped care
+peripheral vasodilators	included in	clinical guidelines
+peripheral vasodilators	studied in	randomized trials
+peripheral vasodilators	have	class effects
+peripheral vasodilators	demonstrate	pleiotropic effects

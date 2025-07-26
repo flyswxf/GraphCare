@@ -1,0 +1,100 @@
+spondylosis	is a	degenerative condition
+spondylosis	affects	spine
+spondylosis	may cause	back pain
+spondylosis	may lead to	spinal stenosis
+spondylosis	is associated with	aging
+intervertebral disc disorders	involve	spinal discs
+intervertebral disc disorders	may cause	herniated disc
+intervertebral disc disorders	can result in	nerve compression
+intervertebral disc disorders	lead to	radiculopathy
+intervertebral disc disorders	are worsened by	heavy lifting
+back problems	include	muscle strain
+back problems	may be caused by	poor posture
+back problems	can result in	chronic pain
+back problems	require	physical therapy
+back problems	may need	surgery
+spinal stenosis	narrows	spinal canal
+spinal stenosis	compresses	spinal cord
+spinal stenosis	causes	neurogenic claudication
+spinal stenosis	is treated with	laminectomy
+spinal stenosis	may require	spinal fusion
+herniated disc	presses on	nerve root
+herniated disc	results in	sciatica
+herniated disc	is diagnosed with	MRI
+herniated disc	may improve with	epidural injection
+herniated disc	can recur after	surgery
+nerve compression	causes	numbness
+nerve compression	leads to	weakness
+nerve compression	is assessed with	electromyography
+nerve compression	may require	decompression surgery
+radiculopathy	refers to	nerve root dysfunction
+radiculopathy	manifests as	shooting pain
+radiculopathy	is evaluated with	nerve conduction study
+chronic pain	reduces	quality of life
+chronic pain	is managed with	analgesics
+chronic pain	may require	multidisciplinary approach
+muscle strain	results from	overuse
+muscle strain	heals with	rest
+muscle strain	may recur without	proper rehabilitation
+poor posture	contributes to	spinal misalignment
+poor posture	is corrected with	ergonomic adjustments
+physical therapy	strengthens	core muscles
+physical therapy	improves	mobility
+physical therapy	reduces	recurrence risk
+laminectomy	relieves	spinal pressure
+laminectomy	has risks of	infection
+spinal fusion	stabilizes	vertebrae
+spinal fusion	limits	spinal flexibility
+sciatica	radiates to	leg
+sciatica	is aggravated by	sitting
+sciatica	may resolve with	conservative treatment
+MRI	provides	detailed spine images
+MRI	detects	disc abnormalities
+epidural injection	reduces	inflammation
+epidural injection	provides	temporary relief
+electromyography	measures	nerve function
+decompression surgery	alleviates	nerve pressure
+analgesics	include	NSAIDs
+analgesics	may cause	gastrointestinal side effects
+multidisciplinary approach	combines	multiple therapies
+overuse	strains	soft tissues
+rest	promotes	tissue healing
+rehabilitation	enhances	recovery
+spinal misalignment	alters	biomechanics
+ergonomic adjustments	prevent	strain
+core muscles	support	spine
+mobility	depends on	joint health
+infection	complicates	surgery
+vertebrae	form	spinal column
+flexibility	is reduced by	fusion
+leg pain	indicates	nerve involvement
+sitting	increases	disc pressure
+conservative treatment	avoids	surgery
+detailed spine images	aid	diagnosis
+disc abnormalities	include	bulging
+inflammation	exacerbates	pain
+temporary relief	delays	definitive treatment
+nerve function	is impaired by	compression
+NSAIDs	reduce	pain
+gastrointestinal side effects	limit	NSAID use
+multiple therapies	address	different aspects
+soft tissues	include	ligaments
+tissue healing	requires	time
+recovery	depends on	adherence
+biomechanics	influence	pain patterns
+strain	results from	improper movement
+spinal column	protects	spinal cord
+fusion	stabilizes	unstable segments
+nerve involvement	causes	sensory changes
+disc pressure	increases with	bending
+diagnosis	guides	treatment plan
+bulging	precedes	herniation
+pain	is subjective	experience
+definitive treatment	resolves	underlying cause
+compression	damages	nerve fibers
+ligaments	stabilize	joints
+adherence	improves	outcomes
+pain patterns	indicate	pathology
+improper movement	worsens	condition
+spinal cord	transmits	neural signals
+sensory changes	suggest	neuropathy

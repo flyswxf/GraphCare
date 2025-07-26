@@ -1,0 +1,100 @@
+cancer of bone and connective tissue	is a	sarcoma
+cancer of bone and connective tissue	includes	osteosarcoma
+cancer of bone and connective tissue	includes	chondrosarcoma
+cancer of bone and connective tissue	includes	Ewing sarcoma
+cancer of bone and connective tissue	affects	bones
+cancer of bone and connective tissue	affects	cartilage
+cancer of bone and connective tissue	affects	ligaments
+cancer of bone and connective tissue	affects	tendons
+cancer of bone and connective tissue	may cause	bone pain
+cancer of bone and connective tissue	may cause	fractures
+cancer of bone and connective tissue	may cause	swelling
+cancer of bone and connective tissue	may cause	weight loss
+cancer of bone and connective tissue	may cause	fatigue
+cancer of bone and connective tissue	diagnosed via	biopsy
+cancer of bone and connective tissue	diagnosed via	MRI
+cancer of bone and connective tissue	diagnosed via	CT scan
+cancer of bone and connective tissue	diagnosed via	X-ray
+cancer of bone and connective tissue	treated with	surgery
+cancer of bone and connective tissue	treated with	chemotherapy
+cancer of bone and connective tissue	treated with	radiation therapy
+cancer of bone and connective tissue	treated with	targeted therapy
+cancer of bone and connective tissue	treated with	immunotherapy
+doxorubicin	treats	cancer of bone and connective tissue
+cisplatin	treats	cancer of bone and connective tissue
+ifosfamide	treats	cancer of bone and connective tissue
+methotrexate	treats	cancer of bone and connective tissue
+cancer of bone and connective tissue	has risk factor	radiation exposure
+cancer of bone and connective tissue	has risk factor	genetic mutations
+cancer of bone and connective tissue	has risk factor	Paget disease
+cancer of bone and connective tissue	has risk factor	Li-Fraumeni syndrome
+cancer of bone and connective tissue	may metastasize to	lungs
+cancer of bone and connective tissue	may metastasize to	liver
+cancer of bone and connective tissue	may metastasize to	brain
+cancer of bone and connective tissue	requires	orthopedic surgeon
+cancer of bone and connective tissue	requires	oncologist
+cancer of bone and connective tissue	requires	radiologist
+cancer of bone and connective tissue	requires	pathologist
+cancer of bone and connective tissue	requires	physical therapy
+cancer of bone and connective tissue	may lead to	amputation
+cancer of bone and connective tissue	may lead to	disability
+cancer of bone and connective tissue	may lead to	chronic pain
+cancer of bone and connective tissue	may lead to	depression
+cancer of bone and connective tissue	has marker	alkaline phosphatase
+cancer of bone and connective tissue	has marker	lactate dehydrogenase
+PET scan	evaluates	cancer of bone and connective tissue
+bone scan	evaluates	cancer of bone and connective tissue
+cancer of bone and connective tissue	has subtype	primary bone cancer
+cancer of bone and connective tissue	has subtype	secondary bone cancer
+cancer of bone and connective tissue	differs from	multiple myeloma
+cancer of bone and connective tissue	differs from	leukemia
+cancer of bone and connective tissue	common in	adolescents
+cancer of bone and connective tissue	common in	young adults
+cancer of bone and connective tissue	rare in	elderly
+limb salvage surgery	treats	cancer of bone and connective tissue
+prosthesis	replaces	bone loss from cancer
+cancer of bone and connective tissue	may require	blood transfusion
+cancer of bone and connective tissue	may cause	anemia
+cancer of bone and connective tissue	may cause	neutropenia
+cancer of bone and connective tissue	may cause	thrombocytopenia
+G-CSF	prevents infection in	cancer of bone and connective tissue
+erythropoietin	treats anemia in	cancer of bone and connective tissue
+pain medications	manages symptoms of	cancer of bone and connective tissue
+bisphosphonates	strengthens bones in	cancer of bone and connective tissue
+denosumab	prevents bone loss in	cancer of bone and connective tissue
+cancer of bone and connective tissue	affects	mobility
+cancer of bone and connective tissue	affects	quality of life
+cancer of bone and connective tissue	requires	palliative care
+cancer of bone and connective tissue	has prognosis factor	tumor grade
+cancer of bone and connective tissue	has prognosis factor	tumor size
+cancer of bone and connective tissue	has prognosis factor	metastasis
+cancer of bone and connective tissue	has prognosis factor	response to treatment
+cancer of bone and connective tissue	may recur	locally
+cancer of bone and connective tissue	may recur	distantly
+cancer of bone and connective tissue	research involves	clinical trials
+cancer of bone and connective tissue	research involves	new drugs
+cancer of bone and connective tissue	research involves	gene therapy
+cancer of bone and connective tissue	research involves	immunotherapy
+cancer of bone and connective tissue	monitored via	imaging
+cancer of bone and connective tissue	monitored via	blood tests
+cancer of bone and connective tissue	monitored via	physical exams
+second opinion	advised for	cancer of bone and connective tissue
+support groups	help patients with	cancer of bone and connective tissue
+nutrition support	important for	cancer of bone and connective tissue
+cancer of bone and connective tissue	may cause	hypercalcemia
+cancer of bone and connective tissue	may cause	nerve compression
+cancer of bone and connective tissue	may cause	spinal cord compression
+emergency radiation	treats	spinal cord compression
+dexamethasone	reduces swelling in	cancer of bone and connective tissue
+cancer of bone and connective tissue	has histology	spindle cells
+cancer of bone and connective tissue	has histology	giant cells
+cancer of bone and connective tissue	has histology	osteoid
+cancer of bone and connective tissue	staged via	TNM system
+cancer of bone and connective tissue	has grading	low to high
+cancer of bone and connective tissue	affects	growth plates
+cancer of bone and connective tissue	affects	joint function
+cancer of bone and connective tissue	requires	multidisciplinary team
+cancer of bone and connective tissue	increases risk	blood clots
+anticoagulants	prevent clots in	cancer of bone and connective tissue
+cancer of bone and connective tissue	may develop	treatment resistance
+genetic testing	guides treatment for	cancer of bone and connective tissue

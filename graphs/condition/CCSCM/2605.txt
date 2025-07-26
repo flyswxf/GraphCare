@@ -1,0 +1,100 @@
+firearm injury	is classified by	E codes
+E codes	categorize	external causes
+firearm	can cause	gunshot wound
+gunshot wound	may lead to	hemorrhage
+hemorrhage	requires	blood transfusion
+firearm injury	increases risk of	mortality
+firearm	is associated with	trauma
+trauma	may require	emergency surgery
+firearm violence	is linked to	mental health disorders
+mental health disorders	may need	psychiatric care
+firearm injury	can result in	disability
+disability	may require	rehabilitation
+firearm	is regulated by	gun laws
+gun laws	affect	injury prevention
+firearm accident	is documented with	E codes
+E codes	assist in	epidemiological studies
+epidemiological studies	inform	public health policy
+public health policy	addresses	firearm safety
+firearm safety	reduces	accidental injuries
+firearm injury	is treated by	trauma team
+trauma team	includes	surgeons
+surgeons	perform	wound debridement
+wound debridement	prevents	infection
+infection	is treated with	antibiotics
+firearm suicide	is recorded with	E codes
+E codes	help track	injury trends
+injury trends	guide	prevention programs
+prevention programs	target	high-risk populations
+high-risk populations	may need	counseling
+counseling	reduces	violent behavior
+firearm homicide	is classified by	E codes
+E codes	differentiate	intent
+intent	determines	legal consequences
+legal consequences	involve	law enforcement
+law enforcement	investigates	firearm crimes
+firearm crimes	impact	community safety
+community safety	is improved by	policing
+policing	deters	illegal gun use
+illegal gun use	contributes to	violence
+violence	affects	public health
+firearm injury	may cause	PTSD
+PTSD	is treated with	therapy
+therapy	includes	cognitive behavioral therapy
+cognitive behavioral therapy	helps	trauma recovery
+firearm accident	may involve	children
+children	are protected by	safe storage laws
+safe storage laws	prevent	accidental discharge
+accidental discharge	can cause	unintentional injury
+unintentional injury	is recorded with	E codes
+E codes	support	injury surveillance
+injury surveillance	identifies	risk factors
+risk factors	include	alcohol use
+alcohol use	increases	firearm risks
+firearm risks	are mitigated by	education
+education	promotes	responsible ownership
+responsible ownership	reduces	negligent discharges
+negligent discharges	are preventable with	training
+training	teaches	firearm safety rules
+firearm safety rules	prevent	accidents
+firearm injury	may require	ICU admission
+ICU admission	increases	healthcare costs
+healthcare costs	are analyzed with	E codes
+E codes	help calculate	economic burden
+economic burden	influences	policy decisions
+policy decisions	affect	firearm regulations
+firearm regulations	impact	injury rates
+injury rates	are tracked with	E codes
+E codes	provide data for	research
+research	evaluates	intervention effectiveness
+intervention effectiveness	guides	best practices
+best practices	include	conflict resolution
+conflict resolution	prevents	violent encounters
+violent encounters	often involve	firearms
+firearms	are used in	assaults
+assaults	are classified by	E codes
+E codes	distinguish between	assault types
+assault types	include	aggravated assault
+aggravated assault	may involve	deadly weapons
+deadly weapons	include	firearms
+firearm injury	can lead to	chronic pain
+chronic pain	is managed with	analgesics
+analgesics	include	opioids
+opioids	carry risk of	addiction
+addiction	requires	substance abuse treatment
+substance abuse treatment	reduces	overdose risk
+overdose risk	is higher with	firearm owners
+firearm owners	should receive	mental health screening
+mental health screening	identifies	depression
+depression	is a risk factor for	suicide
+suicide	is often attempted with	firearms
+firearm suicide	has high	lethality
+lethality	is reduced by	means restriction
+means restriction	involves	safe storage
+safe storage	prevents	impulsive acts
+impulsive acts	contribute to	firearm deaths
+firearm deaths	are documented with	E codes
+E codes	enable	mortality analysis
+mortality analysis	reveals	demographic patterns
+demographic patterns	show	age disparities
+age disparities	highlight	vulnerable groups

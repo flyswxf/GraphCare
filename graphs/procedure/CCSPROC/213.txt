@@ -1,0 +1,100 @@
+physical therapy exercises	improve	mobility
+physical therapy exercises	strengthen	muscles
+physical therapy exercises	reduce	pain
+physical therapy exercises	enhance	coordination
+physical therapy exercises	prevent	injuries
+physical therapy exercises	aid	rehabilitation
+stretching	is a type of	physical therapy exercise
+strength training	is a type of	physical therapy exercise
+range-of-motion exercises	is a type of	physical therapy exercise
+balance exercises	is a type of	physical therapy exercise
+manipulation	adjusts	joints
+manipulation	relieves	pressure
+manipulation	improves	alignment
+manipulation	treats	back pain
+manipulation	enhances	nerve function
+chiropractic adjustment	is a type of	manipulation
+osteopathic manipulation	is a type of	manipulation
+massage therapy	complements	physical therapy
+massage therapy	reduces	muscle tension
+massage therapy	increases	blood flow
+electrotherapy	uses	electrical currents
+electrotherapy	stimulates	nerves
+electrotherapy	reduces	inflammation
+TENS	is a type of	electrotherapy
+ultrasound therapy	uses	sound waves
+ultrasound therapy	promotes	tissue healing
+hydrotherapy	uses	water
+hydrotherapy	reduces	joint stress
+hot therapy	increases	circulation
+cold therapy	reduces	swelling
+traction	decompresses	spine
+traction	relieves	nerve pressure
+assistive devices	support	mobility
+walkers	are a type of	assistive device
+canes	are a type of	assistive device
+orthotics	correct	foot alignment
+prosthetics	replace	limbs
+therapeutic exercises	improve	function
+aerobic exercises	enhance	endurance
+aquatic therapy	reduces	body weight
+joint mobilization	increases	flexibility
+soft tissue mobilization	breaks down	scar tissue
+myofascial release	relieves	fascial tension
+trigger point therapy	releases	muscle knots
+kinesiology taping	supports	muscles
+pilates	strengthens	core
+yoga	improves	flexibility
+tai chi	enhances	balance
+postural training	corrects	alignment
+ergonomic training	prevents	workplace injuries
+gait training	improves	walking
+vestibular rehabilitation	treats	dizziness
+cardiac rehabilitation	improves	heart health
+pulmonary rehabilitation	enhances	lung function
+pediatric therapy	aids	child development
+geriatric therapy	maintains	elderly mobility
+sports therapy	prevents	athlete injuries
+occupational therapy	enhances	daily living
+post-surgical therapy	speeds	recovery
+neurological therapy	improves	nerve damage
+spinal manipulation	relieves	back pain
+manual therapy	includes	joint mobilization
+craniosacral therapy	balances	cerebrospinal fluid
+lymphatic drainage	reduces	swelling
+acupressure	stimulates	pressure points
+reflexology	targets	foot zones
+cupping therapy	improves	blood flow
+dry needling	releases	trigger points
+therapeutic ultrasound	penetrates	tissues
+iontophoresis	delivers	medication
+phonophoresis	enhances	drug absorption
+laser therapy	accelerates	healing
+magnet therapy	reduces	pain
+biofeedback	trains	body control
+cognitive therapy	improves	mental health
+behavioral therapy	modifies	habits
+pain management	reduces	discomfort
+fall prevention	increases	safety
+strength training	builds	muscle mass
+flexibility exercises	increase	range of motion
+coordination exercises	improve	motor skills
+proprioception training	enhances	body awareness
+plyometric exercises	boost	power
+isometric exercises	strengthen	without movement
+isotonic exercises	involve	joint movement
+resistance training	uses	bands
+weight training	builds	strength
+functional training	mimics	daily activities
+core stabilization	supports	spine
+postural exercises	correct	slouching
+breathing exercises	improve	lung capacity
+relaxation techniques	reduce	stress
+mindfulness meditation	enhances	focus
+guided imagery	promotes	healing
+aquatic exercises	reduce	joint impact
+warm-up exercises	prepare	body
+cool-down exercises	prevent	soreness
+home exercise programs	maintain	progress
+tele-rehabilitation	provides	remote therapy
+virtual reality therapy	enhances	engagement

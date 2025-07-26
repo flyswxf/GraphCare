@@ -1,0 +1,100 @@
+cancer of breast	is a	malignant tumor
+cancer of breast	originates in	mammary glands
+cancer of breast	is diagnosed via	mammography
+cancer of breast	may cause	metastasis
+cancer of breast	has symptom	breast lump
+cancer of breast	is classified by	hormone receptor status
+cancer of breast	is treated with	chemotherapy
+cancer of breast	is treated with	radiotherapy
+cancer of breast	is treated with	surgery
+cancer of breast	may require	mastectomy
+cancer of breast	may require	lumpectomy
+cancer of breast	is associated with	BRCA mutation
+BRCA1 gene	increases risk for	cancer of breast
+BRCA2 gene	increases risk for	cancer of breast
+cancer of breast	is staged via	TNM system
+cancer of breast	may lead to	lymph node involvement
+cancer of breast	can cause	bone metastasis
+cancer of breast	can cause	liver metastasis
+cancer of breast	can cause	lung metastasis
+cancer of breast	is screened for	mammogram
+cancer of breast	may present with	nipple discharge
+cancer of breast	may present with	skin dimpling
+cancer of breast	is studied in	oncology
+cancer of breast	has subtype	ductal carcinoma
+cancer of breast	has subtype	lobular carcinoma
+cancer of breast	has subtype	inflammatory breast cancer
+cancer of breast	has biomarker	HER2
+HER2 positive	indicates aggressiveness in	cancer of breast
+cancer of breast	is treated with	hormone therapy
+tamoxifen	is used for	hormone therapy
+aromatase inhibitors	are used for	hormone therapy
+cancer of breast	may recur as	local recurrence
+cancer of breast	may recur as	distant recurrence
+cancer of breast	has risk factor	family history
+cancer of breast	has risk factor	obesity
+cancer of breast	has risk factor	alcohol use
+cancer of breast	has risk factor	late menopause
+cancer of breast	has risk factor	early menarche
+cancer of breast	has risk factor	nulliparity
+cancer of breast	has risk factor	hormone therapy
+cancer of breast	is researched in	clinical trials
+cancer of breast	may be detected via	ultrasound
+cancer of breast	may be confirmed via	biopsy
+core needle biopsy	is used for	cancer diagnosis
+cancer of breast	has treatment option	immunotherapy
+pembrolizumab	is used for	immunotherapy
+cancer of breast	requires	multidisciplinary care
+cancer of breast	may cause	lymphedema
+cancer of breast	affects	quality of life
+cancer of breast	has prognostic factor	tumor grade
+cancer of breast	has prognostic factor	tumor size
+cancer of breast	may require	sentinel lymph node biopsy
+cancer of breast	may require	axillary lymph node dissection
+cancer of breast	can spread via	lymphatic system
+cancer of breast	can spread via	bloodstream
+cancer of breast	has prevention strategy	prophylactic mastectomy
+cancer of breast	has prevention strategy	regular screening
+cancer of breast	is more common in	women
+cancer of breast	can occur in	men
+cancer of breast	has symptom	breast pain
+cancer of breast	has symptom	nipple retraction
+cancer of breast	has symptom	peau d'orange
+cancer of breast	may be asymptomatic in	early stages
+cancer of breast	has diagnostic test	MRI
+cancer of breast	has diagnostic test	PET scan
+cancer of breast	has genetic link	PALB2 gene
+cancer of breast	has genetic link	TP53 gene
+cancer of breast	is studied in	molecular biology
+cancer of breast	has research focus	targeted therapy
+trastuzumab	is a	targeted therapy
+pertuzumab	is a	targeted therapy
+cancer of breast	may develop resistance to	treatment
+cancer of breast	has complication	pathological fracture
+cancer of breast	has complication	pleural effusion
+cancer of breast	requires	pain management
+cancer of breast	has palliative care option	radiation
+cancer of breast	has palliative care option	opioids
+cancer of breast	may lead to	psychological distress
+cancer of breast	has support resource	patient groups
+cancer of breast	has support resource	counseling
+cancer of breast	affects	survival rate
+cancer of breast	has 5-year survival rate	90% for early stage
+cancer of breast	has survival factor	treatment adherence
+cancer of breast	requires	follow-up care
+cancer of breast	has rehabilitation need	physical therapy
+cancer of breast	has rehabilitation need	occupational therapy
+cancer of breast	may cause	fatigue
+cancer of breast	may cause	anemia
+cancer of breast	may cause	neutropenia
+cancer of breast	has treatment side effect	hair loss
+cancer of breast	has treatment side effect	nausea
+cancer of breast	has treatment side effect	cardiotoxicity
+cancer of breast	has emerging treatment	PARP inhibitors
+olaparib	is a	PARP inhibitor
+cancer of breast	has research area	liquid biopsy
+cancer of breast	has research area	circulating tumor cells
+cancer of breast	has prevention approach	risk-reducing surgery
+cancer of breast	has epidemiological factor	geographic variation
+cancer of breast	has awareness campaign	pink ribbon
+cancer of breast	has global initiative	early detection programs

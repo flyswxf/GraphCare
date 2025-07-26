@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+heart valve disorders	affect	cardiac output
+heart valve disorders	may lead	heart failure
+mitral valve	is a type of	heart valve
+aortic valve	is a type of	heart valve
+valve stenosis	is a type of	heart valve disorder
+valve regurgitation	is a type of	heart valve disorder
+rheumatic fever	can cause	heart valve disorders
+endocarditis	can cause	heart valve damage
+echocardiography	diagnoses	heart valve disorders
+transesophageal echo	evaluates	valve function
+diuretics	treat	valve disorder symptoms
+beta blockers	manage	valve disorder symptoms
+valve replacement	treats	severe valve disorders
+mechanical valves	require	anticoagulation therapy
+warfarin	prevents	valve thrombosis
+INR monitoring	guides	warfarin dosing
+bioprosthetic valves	have limited	durability
+TAVR	treats	aortic stenosis
+mitral clip	repairs	mitral regurgitation
+valve repair	preserves	native valve
+anticoagulation	prevents	thromboembolism
+aspirin	supplements	anticoagulation
+infective endocarditis	damages	heart valves
+antibiotic prophylaxis	prevents	endocarditis
+dental procedures	risk	bacterial endocarditis
+heart murmurs	indicate	valve abnormalities
+exercise stress testing	assesses	valve function
+cardiac catheterization	evaluates	valve gradients
+pulmonary hypertension	complicates	valve disease
+atrial fibrillation	accompanies	mitral valve disease
+anticoagulation	prevents	stroke
+NOACs	alternative to	warfarin
+valve calcification	causes	stenosis
+degenerative changes	lead to	valve dysfunction
+connective tissue disorders	predispose to	valve disease
+Marfan syndrome	affects	aortic valve
+bicuspid aortic valve	is congenital
+valve vegetations	suggest	endocarditis
+blood cultures	diagnose	infective endocarditis
+echo findings	guide	treatment decisions
+surgical risk scores	predict	operative mortality
+EuroSCORE	assesses	cardiac surgery risk
+frailty	affects	surgical outcomes
+rehabilitation	improves	post-op recovery
+anticoagulation clinics	monitor	INR levels
+valve thrombosis	is a	complication
+pannus formation	causes	prosthetic valve stenosis
+paravalvular leak	complicates	valve replacement
+hemolysis	occurs with	mechanical valves
+iron deficiency anemia	results from	chronic hemolysis
+cardiac remodeling	follows	valve disease
+left ventricular hypertrophy	results from	aortic stenosis
+diastolic dysfunction	accompanies	mitral stenosis
+pulmonary edema	occurs in	acute regurgitation
+syncope	presents with	severe stenosis
+angina	occurs in	aortic stenosis
+sudden death	risks with	severe valve disease
+pregnancy	worsens	valve disorders
+contraception	is important for	women with valve disease
+balloon valvuloplasty	treats	congenital stenosis
+Ross procedure	replaces	aortic valve
+homografts	are used for	valve replacement
+anticoagulation	is lifelong for	mechanical valves
+bleeding risk	increases with	anticoagulation
+GI bleeding	requires	anticoagulation adjustment
+CYP2C9 polymorphisms	affect	warfarin metabolism
+VKORC1 variants	influence	warfarin sensitivity
+genetic testing	guides	warfarin dosing
+elderly patients	have higher	bleeding risks
+falls risk	contraindicates	anticoagulation
+valve disease	progresses with	aging
+comorbidities	complicate	valve disease management
+renal dysfunction	affects	medication clearance
+liver disease	alters	coagulation
+palliative care	assists	end-stage valve disease
+shared decision making	is crucial for	treatment choices
+quality of life	is impacted by	valve disorders
+depression	accompanies	chronic valve disease
+cardiac rehabilitation	improves	functional capacity
+exercise tolerance	reflects	disease severity
+NYHA class	stratifies	heart failure severity
+natriuretic peptides	indicate	volume overload
+loop diuretics	relieve	fluid retention
+salt restriction	helps manage	volume overload
+weight monitoring	detects	fluid retention
+antihypertensives	control	afterload
+ACE inhibitors	are avoided in	severe stenosis
+statins	may slow	valve calcification
+antibiotics	treat	infective endocarditis
+surgical debridement	is needed for	abscesses
+perivalvular abscess	complicates	endocarditis
+embolic events	occur with	left-sided endocarditis
+splinter hemorrhages	are signs of	endocarditis
+Osler nodes	indicate	endocarditis
+Janeway lesions	suggest	endocarditis
+Roth spots	are seen in	endocarditis
+prolonged IV antibiotics	treat	endocarditis
+valve culture	identifies	causative organisms
+surgery timing	is critical for	endocarditis
+multidisciplinary teams	optimize	valve care

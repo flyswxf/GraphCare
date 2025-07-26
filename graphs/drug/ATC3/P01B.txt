@@ -1,0 +1,100 @@
+antimalarials	is a	drug class
+antimalarials	treats	malaria
+antimalarials	includes	chloroquine
+antimalarials	includes	hydroxychloroquine
+antimalarials	includes	mefloquine
+antimalarials	includes	quinine
+antimalarials	includes	artemisinin
+antimalarials	includes	atovaquone
+antimalarials	mechanism	inhibits heme polymerization
+antimalarials	target	Plasmodium parasite
+Plasmodium parasite	causes	malaria
+malaria	transmitted by	mosquitoes
+mosquitoes	vector for	Plasmodium
+chloroquine	resistance in	Plasmodium falciparum
+artemisinin	derived from	Artemisia annua
+artemisinin	basis for	artemisinin-based combination therapies
+artemisinin-based combination therapies	first-line treatment for	malaria
+hydroxychloroquine	also treats	rheumatoid arthritis
+hydroxychloroquine	also treats	lupus
+quinine	historical use	antimalarial
+quinine	source	cinchona tree
+mefloquine	side effect	neuropsychiatric symptoms
+atovaquone	combined with	proguanil
+atovaquone-proguanil	sold as	Malarone
+Malarone	prevents	malaria
+antimalarials	prophylaxis use	travelers
+antimalarials	adverse effect	retinopathy
+retinopathy	associated with	chloroquine
+antimalarials	contraindicated in	G6PD deficiency
+G6PD deficiency	causes	hemolysis
+hemolysis	side effect of	primaquine
+primaquine	treats	Plasmodium vivax
+Plasmodium vivax	dormant form	hypnozoite
+hypnozoite	reactivation causes	relapse
+antimalarials	interact with	cardiac medications
+antimalarials	interact with	antacids
+antimalarials	interact with	antibiotics
+antibiotics	example	doxycycline
+doxycycline	also prevents	malaria
+doxycycline	side effect	photosensitivity
+photosensitivity	risk factor	sunburn
+antimalarials	pregnancy category	varies
+antimalarials	research focus	vaccine development
+malaria vaccine	example	RTS,S
+RTS,S	targets	Plasmodium falciparum
+Plasmodium falciparum	most deadly	malaria species
+malaria	symptom	fever
+malaria	symptom	chills
+malaria	symptom	anemia
+anemia	caused by	hemolysis
+antimalarials	pharmacokinetics	liver metabolism
+liver metabolism	involves	cytochrome P450
+cytochrome P450	affected by	drug interactions
+drug interactions	may alter	antimalarial efficacy
+antimalarial efficacy	reduced by	resistance
+resistance	monitored by	WHO
+WHO	recommends	combination therapies
+combination therapies	reduce	resistance risk
+resistance risk	higher in	monotherapy
+monotherapy	example	chloroquine alone
+chloroquine alone	ineffective in	resistant regions
+resistant regions	include	Southeast Asia
+Southeast Asia	endemic for	malaria
+malaria	endemic in	tropical areas
+tropical areas	climate favors	mosquitoes
+mosquitoes	controlled by	insecticides
+insecticides	example	DDT
+DDT	controversial due	environmental impact
+environmental impact	includes	bioaccumulation
+bioaccumulation	affects	wildlife
+wildlife	example	birds
+birds	impacted by	DDT
+antimalarials	research area	new drug targets
+new drug targets	include	parasite enzymes
+parasite enzymes	example	dihydroorotate dehydrogenase
+dihydroorotate dehydrogenase	inhibited by	atovaquone
+atovaquone	mechanism	disrupts mitochondrial function
+mitochondrial function	essential for	parasite survival
+parasite survival	depends on	host nutrients
+host nutrients	example	hemoglobin
+hemoglobin	digested by	Plasmodium
+Plasmodium	life cycle includes	liver stage
+liver stage	targeted by	primaquine
+primaquine	requires	G6PD testing
+G6PD testing	prevents	complications
+complications	example	hemolytic crisis
+hemolytic crisis	symptom	dark urine
+dark urine	indicates	hemoglobinuria
+hemoglobinuria	caused by	RBC destruction
+RBC destruction	feature of	malaria
+malaria	diagnosis	blood smear
+blood smear	detects	Plasmodium
+Plasmodium	visible under	microscope
+microscope	tool for	diagnosis
+diagnosis	confirms	infection
+infection	severity depends on	parasite load
+parasite load	measured by	PCR
+PCR	more sensitive than	microscopy
+microscopy	cheaper than	PCR
+antimalarials	global need	eradication efforts

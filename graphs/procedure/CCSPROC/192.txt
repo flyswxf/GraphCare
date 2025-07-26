@@ -1,0 +1,100 @@
+diagnostic ultrasound of head and neck	is a	imaging technique
+diagnostic ultrasound of head and neck	used for	soft tissue evaluation
+diagnostic ultrasound of head and neck	detects	thyroid abnormalities
+diagnostic ultrasound of head and neck	evaluates	carotid arteries
+diagnostic ultrasound of head and neck	examines	lymph nodes
+diagnostic ultrasound of head and neck	identifies	tumors
+diagnostic ultrasound of head and neck	assesses	blood flow
+diagnostic ultrasound of head and neck	diagnoses	vascular diseases
+diagnostic ultrasound of head and neck	screens	stroke risk
+diagnostic ultrasound of head and neck	monitors	therapy response
+thyroid ultrasound	is a type of	diagnostic ultrasound of head and neck
+carotid ultrasound	is a type of	diagnostic ultrasound of head and neck
+parathyroid ultrasound	is a type of	diagnostic ultrasound of head and neck
+salivary gland ultrasound	is a type of	diagnostic ultrasound of head and neck
+lymph node ultrasound	is a type of	diagnostic ultrasound of head and neck
+thyroid ultrasound	detects	thyroid nodules
+thyroid ultrasound	evaluates	goiter
+thyroid ultrasound	assesses	thyroiditis
+carotid ultrasound	measures	intima-media thickness
+carotid ultrasound	detects	plaque formation
+diagnostic ultrasound of head and neck	requires	transducer
+diagnostic ultrasound of head and neck	uses	sound waves
+diagnostic ultrasound of head and neck	produces	real-time images
+diagnostic ultrasound of head and neck	is	non-invasive
+diagnostic ultrasound of head and neck	has	high resolution
+diagnostic ultrasound of head and neck	needs	trained operator
+diagnostic ultrasound of head and neck	complements	MRI
+diagnostic ultrasound of head and neck	alternative to	CT scan
+diagnostic ultrasound of head and neck	avoids	radiation exposure
+diagnostic ultrasound of head and neck	preferred for	pediatric patients
+diagnostic ultrasound of head and neck	contraindicated for	open wounds
+diagnostic ultrasound of head and neck	limited by	bone interference
+diagnostic ultrasound of head and neck	affected by	obesity
+diagnostic ultrasound of head and neck	requires	gel application
+diagnostic ultrasound of head and neck	precedes	biopsy
+diagnostic ultrasound of head and neck	guides	fine needle aspiration
+diagnostic ultrasound of head and neck	assists	surgical planning
+diagnostic ultrasound of head and neck	follows up	treatment
+diagnostic ultrasound of head and neck	monitors	tumor progression
+diagnostic ultrasound of head and neck	assesses	treatment efficacy
+thyroid nodules	may lead to	thyroid cancer
+carotid plaque	increases risk of	stroke
+abnormal lymph nodes	suggests	metastasis
+parathyroid adenoma	causes	hypercalcemia
+salivary gland tumors	require	surgical excision
+vascular abnormalities	indicate	atherosclerosis
+blood flow patterns	diagnose	stenosis
+tissue elasticity	differentiates	benign and malignant lesions
+cystic lesions	often are	benign
+solid masses	require	further evaluation
+diagnostic ultrasound of head and neck	recommended for	thyroid dysfunction
+diagnostic ultrasound of head and neck	ordered for	neck swelling
+diagnostic ultrasound of head and neck	performed for	pulsatile masses
+diagnostic ultrasound of head and neck	indicated for	suspected thrombosis
+diagnostic ultrasound of head and neck	useful for	postoperative assessment
+diagnostic ultrasound of head and neck	assists in	infection localization
+diagnostic ultrasound of head and neck	evaluates	trauma injuries
+diagnostic ultrasound of head and neck	detects	foreign bodies
+diagnostic ultrasound of head and neck	measures	tumor size
+diagnostic ultrasound of head and neck	characterizes	lesion margins
+Doppler ultrasound	is a technique of	diagnostic ultrasound of head and neck
+color Doppler	visualizes	blood flow direction
+power Doppler	detects	low flow states
+spectral Doppler	quantifies	flow velocities
+contrast-enhanced ultrasound	improves	lesion characterization
+elastography	assesses	tissue stiffness
+3D ultrasound	provides	volumetric data
+intraoperative ultrasound	guides	surgical procedures
+portable ultrasound	enables	bedside examination
+automated ultrasound	reduces	operator variability
+diagnostic ultrasound of head and neck	precedes	laboratory tests
+diagnostic ultrasound of head and neck	correlates with	thyroid function tests
+diagnostic ultrasound of head and neck	supplements	physical examination
+diagnostic ultrasound of head and neck	confirms	clinical suspicion
+diagnostic ultrasound of head and neck	reduces	unnecessary biopsies
+diagnostic ultrasound of head and neck	increases	early detection
+diagnostic ultrasound of head and neck	decreases	diagnostic delay
+diagnostic ultrasound of head and neck	improves	patient outcomes
+diagnostic ultrasound of head and neck	lowers	healthcare costs
+diagnostic ultrasound of head and neck	enhances	diagnostic accuracy
+thyroid cancer	requires	histopathological confirmation
+carotid stenosis	may need	surgical intervention
+metastatic lymph nodes	indicate	advanced disease
+hyperparathyroidism	leads to	bone demineralization
+sialadenitis	causes	glandular swelling
+vascular malformations	increase	hemorrhage risk
+thrombosis	requires	anticoagulation therapy
+abscess formation	necessitates	drainage
+benign tumors	may require	observation
+malignant lesions	demand	multidisciplinary approach
+diagnostic ultrasound of head and neck	performed by	radiologists
+diagnostic ultrasound of head and neck	interpreted by	specialists
+diagnostic ultrasound of head and neck	reported in	standardized format
+diagnostic ultrasound of head and neck	stored in	PACS
+diagnostic ultrasound of head and neck	quality controlled by	accreditation
+diagnostic ultrasound of head and neck	training includes	anatomy knowledge
+diagnostic ultrasound of head and neck	protocol follows	clinical guidelines
+diagnostic ultrasound of head and neck	reimbursement depends	medical necessity
+diagnostic ultrasound of head and neck	research improves	new applications
+diagnostic ultrasound of head and neck	future involves	AI integration

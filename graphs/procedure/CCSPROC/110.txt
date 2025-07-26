@@ -1,0 +1,100 @@
+urinalysis	is a	diagnostic procedure
+urinalysis	detects	urinary tract infection
+urinalysis	measures	glucose levels
+urinalysis	identifies	proteinuria
+urinalysis	screens	kidney disease
+urine culture	is a	diagnostic procedure
+urine culture	identifies	bacteria
+urine culture	determines	antibiotic sensitivity
+urine cytology	is a	diagnostic procedure
+urine cytology	detects	abnormal cells
+urine cytology	screens	bladder cancer
+cystoscopy	is a	diagnostic procedure
+cystoscopy	visualizes	bladder
+cystoscopy	detects	tumors
+cystoscopy	identifies	stones
+cystoscopy	evaluates	urethra
+urodynamic testing	is a	diagnostic procedure
+urodynamic testing	assesses	bladder function
+urodynamic testing	measures	urine flow
+urodynamic testing	diagnoses	incontinence
+ultrasound	is a	diagnostic procedure
+ultrasound	images	kidneys
+ultrasound	detects	hydronephrosis
+ultrasound	evaluates	bladder volume
+CT scan	is a	diagnostic procedure
+CT scan	visualizes	urinary tract
+CT scan	detects	kidney stones
+CT scan	identifies	tumors
+MRI	is a	diagnostic procedure
+MRI	provides	detailed images
+MRI	evaluates	soft tissues
+MRI	diagnoses	prostate cancer
+intravenous pyelogram	is a	diagnostic procedure
+intravenous pyelogram	examines	urinary tract
+intravenous pyelogram	detects	blockages
+renal biopsy	is a	diagnostic procedure
+renal biopsy	diagnoses	kidney disease
+renal biopsy	evaluates	inflammation
+uroflowmetry	is a	diagnostic procedure
+uroflowmetry	measures	urine speed
+uroflowmetry	assesses	obstruction
+post-void residual test	is a	diagnostic procedure
+post-void residual test	measures	leftover urine
+post-void residual test	diagnoses	retention
+cystourethrography	is a	diagnostic procedure
+cystourethrography	evaluates	bladder function
+cystourethrography	detects	reflux
+nuclear scan	is a	diagnostic procedure
+nuclear scan	assesses	kidney function
+nuclear scan	detects	scarring
+cystometry	is a	diagnostic procedure
+cystometry	measures	bladder pressure
+cystometry	diagnoses	overactive bladder
+electromyography	is a	diagnostic procedure
+electromyography	evaluates	muscle activity
+electromyography	assesses	sphincter function
+retrograde pyelogram	is a	diagnostic procedure
+retrograde pyelogram	visualizes	ureters
+retrograde pyelogram	detects	strictures
+urethral pressure profile	is a	diagnostic procedure
+urethral pressure profile	measures	urethral resistance
+urethral pressure profile	evaluates	incontinence
+provocative testing	is a	diagnostic procedure
+provocative testing	induces	symptoms
+provocative testing	diagnoses	interstitial cystitis
+urine protein test	is a	diagnostic procedure
+urine protein test	quantifies	protein loss
+urine protein test	monitors	kidney damage
+bladder diary	is a	diagnostic procedure
+bladder diary	records	voiding patterns
+bladder diary	assesses	frequency
+24-hour urine collection	is a	diagnostic procedure
+24-hour urine collection	measures	creatinine clearance
+24-hour urine collection	evaluates	kidney function
+urine dipstick test	is a	diagnostic procedure
+urine dipstick test	screens	infections
+urine dipstick test	detects	blood
+uroendoscopy	is a	diagnostic procedure
+uroendoscopy	examines	ureters
+uroendoscopy	identifies	abnormalities
+cystography	is a	diagnostic procedure
+cystography	images	bladder
+cystography	detects	diverticula
+urothelial biopsy	is a	diagnostic procedure
+urothelial biopsy	diagnoses	malignancies
+urothelial biopsy	evaluates	dysplasia
+video urodynamics	is a	diagnostic procedure
+video urodynamics	combines	imaging
+video urodynamics	assesses	function
+percutaneous nephrostomy	is a	diagnostic procedure
+percutaneous nephrostomy	drains	kidney
+percutaneous nephrostomy	relieves	obstruction
+loopogram	is a	diagnostic procedure
+loopogram	evaluates	ileal conduit
+loopogram	detects	leaks
+antibiotic sensitivity testing	is a	diagnostic procedure
+antibiotic sensitivity testing	guides	treatment
+antibiotic sensitivity testing	identifies	resistance
+urine sediment analysis	is a	diagnostic procedure
+urine sediment analysis	examines	cellular content

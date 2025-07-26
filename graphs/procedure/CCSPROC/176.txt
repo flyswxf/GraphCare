@@ -1,0 +1,100 @@
+organ transplantation	is a	medical procedure
+organ transplantation	requires	donor organ
+organ transplantation	treats	organ failure
+organ transplantation	performed by	transplant surgeon
+organ transplantation	requires	immunosuppressants
+organ transplantation	has risk of	rejection
+organ transplantation	requires	tissue matching
+organ transplantation	followed by	postoperative care
+organ transplantation	can involve	kidney
+organ transplantation	can involve	liver
+organ transplantation	can involve	heart
+organ transplantation	can involve	lung
+organ transplantation	can involve	pancreas
+organ transplantation	preceded by	organ preservation
+organ transplantation	requires	blood type compatibility
+kidney transplantation	is a type of	organ transplantation
+liver transplantation	is a type of	organ transplantation
+heart transplantation	is a type of	organ transplantation
+lung transplantation	is a type of	organ transplantation
+pancreas transplantation	is a type of	organ transplantation
+donor organ	obtained from	deceased donor
+donor organ	obtained from	living donor
+immunosuppressants	prevent	rejection
+immunosuppressants	increase risk of	infection
+tissue matching	involves	HLA testing
+postoperative care	includes	infection monitoring
+postoperative care	includes	organ function tests
+organ failure	caused by	chronic disease
+organ failure	caused by	acute injury
+transplant surgeon	specializes in	transplantation
+organ preservation	uses	cold storage
+rejection	detected by	biopsy
+rejection	classified as	acute
+rejection	classified as	chronic
+kidney transplantation	treats	end-stage renal disease
+liver transplantation	treats	cirrhosis
+heart transplantation	treats	heart failure
+lung transplantation	treats	pulmonary fibrosis
+pancreas transplantation	treats	type 1 diabetes
+deceased donor	requires	brain death confirmation
+living donor	undergoes	donor evaluation
+HLA testing	assesses	tissue compatibility
+chronic disease	includes	diabetes
+chronic disease	includes	hypertension
+acute injury	includes	trauma
+cold storage	preserves	organ viability
+biopsy	examines	tissue samples
+end-stage renal disease	leads to	dialysis
+cirrhosis	caused by	alcoholism
+cirrhosis	caused by	hepatitis
+heart failure	classified as	systolic
+heart failure	classified as	diastolic
+pulmonary fibrosis	characterized by	lung scarring
+type 1 diabetes	results from	autoimmune destruction
+brain death confirmation	requires	neurological tests
+donor evaluation	assesses	medical suitability
+dialysis	replaces	kidney function
+alcoholism	leads to	liver damage
+hepatitis	caused by	viral infection
+autoimmune destruction	targets	beta cells
+neurological tests	include	EEG
+medical suitability	considers	donor health
+viral infection	includes	hepatitis B
+viral infection	includes	hepatitis C
+beta cells	produce	insulin
+EEG	measures	brain activity
+donor health	assessed through	physical exam
+hepatitis B	transmitted via	blood
+hepatitis C	transmitted via	blood
+insulin	regulates	blood sugar
+physical exam	includes	blood tests
+blood tests	measure	liver enzymes
+blood sugar	controlled by	pancreas
+liver enzymes	indicate	liver function
+pancreas	secretes	digestive enzymes
+digestive enzymes	break down	food
+liver function	assessed by	ALT
+ALT	is a	liver enzyme
+food	digested in	small intestine
+small intestine	absorbs	nutrients
+nutrients	transported via	bloodstream
+bloodstream	carries	oxygen
+oxygen	delivered by	lungs
+lungs	exchange	gases
+gases	include	carbon dioxide
+carbon dioxide	produced by	metabolism
+metabolism	occurs in	cells
+cells	require	glucose
+glucose	derived from	carbohydrates
+carbohydrates	found in	food
+transplant recipient	requires	lifelong monitoring
+lifelong monitoring	includes	blood work
+blood work	detects	complications
+complications	include	infection
+infection	treated with	antibiotics
+antibiotics	target	bacteria
+bacteria	cause	pneumonia
+pneumonia	affects	lungs
+transplant team	consists of	nurses
+transplant team	consists of	coordinators

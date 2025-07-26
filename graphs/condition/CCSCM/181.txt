@@ -1,0 +1,100 @@
+other complications of pregnancy	includes	gestational diabetes
+other complications of pregnancy	includes	preeclampsia
+other complications of pregnancy	includes	placental abruption
+other complications of pregnancy	includes	placenta previa
+other complications of pregnancy	includes	preterm labor
+other complications of pregnancy	includes	oligohydramnios
+other complications of pregnancy	includes	polyhydramnios
+other complications of pregnancy	includes	hyperemesis gravidarum
+other complications of pregnancy	includes	intrauterine growth restriction
+other complications of pregnancy	includes	gestational hypertension
+gestational diabetes	increases risk of	macrosomia
+gestational diabetes	increases risk of	neonatal hypoglycemia
+gestational diabetes	increases risk of	cesarean delivery
+gestational diabetes	is managed with	insulin therapy
+gestational diabetes	requires	glucose monitoring
+preeclampsia	is characterized by	hypertension
+preeclampsia	is characterized by	proteinuria
+preeclampsia	may progress to	eclampsia
+preeclampsia	increases risk of	HELLP syndrome
+preeclampsia	is treated with	magnesium sulfate
+preeclampsia	may require	early delivery
+placental abruption	causes	vaginal bleeding
+placental abruption	causes	abdominal pain
+placental abruption	may lead to	fetal distress
+placental abruption	requires	emergency care
+placenta previa	causes	painless bleeding
+placenta previa	contraindicates	vaginal delivery
+placenta previa	requires	cesarean delivery
+placenta previa	increases risk of	postpartum hemorrhage
+preterm labor	leads to	premature birth
+preterm labor	increases risk of	neonatal complications
+preterm labor	may be delayed with	tocolytics
+preterm labor	is associated with	infection
+oligohydramnios	indicates	low amniotic fluid
+oligohydramnios	may cause	fetal compression
+oligohydramnios	is monitored with	ultrasound
+polyhydramnios	indicates	excess amniotic fluid
+polyhydramnios	may indicate	fetal anomalies
+polyhydramnios	increases risk of	cord prolapse
+hyperemesis gravidarum	causes	severe nausea
+hyperemesis gravidarum	causes	weight loss
+hyperemesis gravidarum	requires	IV hydration
+hyperemesis gravidarum	is treated with	antiemetics
+intrauterine growth restriction	results in	small fetus
+intrauterine growth restriction	increases risk of	stillbirth
+intrauterine growth restriction	is caused by	placental insufficiency
+intrauterine growth restriction	requires	frequent monitoring
+gestational hypertension	precedes	preeclampsia
+gestational hypertension	increases risk of	cardiovascular disease
+gestational hypertension	is managed with	antihypertensives
+eclampsia	causes	seizures
+eclampsia	is a medical emergency
+eclampsia	requires	ICU care
+HELLP syndrome	involves	hemolysis
+HELLP syndrome	involves	elevated liver enzymes
+HELLP syndrome	involves	low platelets
+magnesium sulfate	prevents	seizures
+magnesium sulfate	has side effect	respiratory depression
+tocolytics	delay	labor
+tocolytics	include	nifedipine
+tocolytics	include	indomethacin
+antihypertensives	include	labetalol
+antihypertensives	include	methyldopa
+antiemetics	include	ondansetron
+antiemetics	include	metoclopramide
+neonatal hypoglycemia	requires	glucose gel
+neonatal hypoglycemia	may lead to	seizures
+macrosomia	increases risk of	shoulder dystocia
+macrosomia	complicates	delivery
+cesarean delivery	is a	surgical procedure
+cesarean delivery	has risk of	infection
+cesarean delivery	requires	longer recovery
+postpartum hemorrhage	is treated with	oxytocin
+postpartum hemorrhage	may require	blood transfusion
+postpartum hemorrhage	is a leading cause of	maternal mortality
+fetal distress	indicates	hypoxia
+fetal distress	may require	emergency delivery
+premature birth	increases risk of	respiratory distress syndrome
+premature birth	increases risk of	cerebral palsy
+premature birth	requires	NICU admission
+respiratory distress syndrome	is treated with	surfactant
+respiratory distress syndrome	requires	mechanical ventilation
+cerebral palsy	is a	neurological disorder
+cerebral palsy	affects	motor function
+stillbirth	is a	fetal death
+stillbirth	is investigated with	autopsy
+stillbirth	has emotional impact on	parents
+neonatal complications	include	jaundice
+neonatal complications	include	sepsis
+jaundice	is treated with	phototherapy
+jaundice	may indicate	hemolytic disease
+sepsis	is a	life-threatening infection
+sepsis	requires	antibiotics
+infection	may cause	chorioamnionitis
+chorioamnionitis	causes	maternal fever
+chorioamnionitis	increases risk of	neonatal sepsis
+fetal anomalies	include	congenital heart defects
+fetal anomalies	are detected with	ultrasound
+congenital heart defects	may require	surgery
+congenital heart defects	affect	long-term health

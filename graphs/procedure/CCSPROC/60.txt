@@ -1,0 +1,100 @@
+embolectomy	is a	surgical procedure
+endarterectomy	is a	surgical procedure
+embolectomy	treats	arterial embolism
+endarterectomy	treats	atherosclerosis
+lower limb embolectomy	is a type of	embolectomy
+lower limb endarterectomy	is a type of	endarterectomy
+embolectomy	removes	blood clot
+endarterectomy	removes	plaque
+embolectomy	requires	vascular access
+endarterectomy	requires	vascular access
+embolectomy	prevents	tissue necrosis
+endarterectomy	improves	blood flow
+embolectomy	uses	Fogarty catheter
+endarterectomy	uses	surgical scalpel
+embolectomy	risks	vessel injury
+endarterectomy	risks	vessel injury
+embolectomy	complications	bleeding
+endarterectomy	complications	restenosis
+embolectomy	indications	acute limb ischemia
+endarterectomy	indications	chronic limb ischemia
+embolectomy	contraindications	severe comorbidities
+endarterectomy	contraindications	infection
+embolectomy	preoperative care	anticoagulation
+endarterectomy	preoperative care	antiplatelet therapy
+embolectomy	postoperative care	monitoring
+endarterectomy	postoperative care	wound care
+embolectomy	performed by	vascular surgeon
+endarterectomy	performed by	vascular surgeon
+embolectomy	location	operating room
+endarterectomy	location	operating room
+embolectomy	anesthesia	general anesthesia
+endarterectomy	anesthesia	regional anesthesia
+embolectomy	duration	1-2 hours
+endarterectomy	duration	2-4 hours
+embolectomy	follow-up	ultrasound
+endarterectomy	follow-up	angiography
+embolectomy	costs	hospital fees
+endarterectomy	costs	surgeon fees
+embolectomy	alternative	thrombolysis
+endarterectomy	alternative	bypass surgery
+embolectomy	success rate	80-90%
+endarterectomy	success rate	70-85%
+embolectomy	mortality rate	1-2%
+endarterectomy	mortality rate	2-3%
+embolectomy	readmission rate	5-10%
+endarterectomy	readmission rate	10-15%
+embolectomy	risk factors	atrial fibrillation
+endarterectomy	risk factors	smoking
+embolectomy	associated with	heart disease
+endarterectomy	associated with	diabetes
+embolectomy	prevention	anticoagulants
+endarterectomy	prevention	statins
+embolectomy	rehabilitation	physical therapy
+endarterectomy	rehabilitation	walking program
+embolectomy	equipment	fluoroscopy
+endarterectomy	equipment	surgical loupes
+embolectomy	technique	balloon catheter
+endarterectomy	technique	plaque excision
+embolectomy	hospital stay	3-5 days
+endarterectomy	hospital stay	5-7 days
+embolectomy	pain management	opioids
+endarterectomy	pain management	NSAIDs
+embolectomy	nursing care	vital monitoring
+endarterectomy	nursing care	incision care
+embolectomy	diagnostic test	CT angiography
+endarterectomy	diagnostic test	Doppler ultrasound
+embolectomy	emergency	limb salvage
+endarterectomy	elective	symptom relief
+embolectomy	contraindication	advanced gangrene
+endarterectomy	contraindication	poor runoff
+embolectomy	instrumentation	vascular clamps
+endarterectomy	instrumentation	patch material
+embolectomy	sutures	absorbable
+endarterectomy	sutures	non-absorbable
+embolectomy	hemostasis	pressure
+endarterectomy	hemostasis	electrocautery
+embolectomy	patient position	supine
+endarterectomy	patient position	supine
+embolectomy	antibiotic prophylaxis	cefazolin
+endarterectomy	antibiotic prophylaxis	vancomycin
+embolectomy	blood loss	minimal
+endarterectomy	blood loss	moderate
+embolectomy	wound closure	staples
+endarterectomy	wound closure	sutures
+embolectomy	dressing	sterile
+endarterectomy	dressing	compression
+embolectomy	discharge criteria	stable
+endarterectomy	discharge criteria	ambulatory
+embolectomy	reintervention rate	10%
+endarterectomy	reintervention rate	15%
+embolectomy	quality of life	improved
+endarterectomy	quality of life	improved
+embolectomy	long term outcome	variable
+endarterectomy	long term outcome	durable
+embolectomy	patient education	medication
+endarterectomy	patient education	lifestyle
+embolectomy	research	catheter technology
+endarterectomy	research	stent technology
+embolectomy	training	fellowship
+endarterectomy	training	residency

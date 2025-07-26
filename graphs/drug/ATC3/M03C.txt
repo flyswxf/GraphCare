@@ -1,0 +1,100 @@
+muscle relaxants	is a	pharmacological class
+directly acting agents	is a	subclass of muscle relaxants
+directly acting agents	act on	muscle fibers
+directly acting agents	affect	contractile proteins
+directly acting agents	inhibit	muscle contraction
+dantrolene	is a	directly acting agent
+dantrolene	acts on	ryanodine receptors
+ryanodine receptors	regulate	calcium release
+calcium release	affects	muscle contraction
+directly acting agents	used for	spasticity
+spasticity	caused by	upper motor neuron lesions
+upper motor neuron lesions	occur in	multiple sclerosis
+multiple sclerosis	treated with	muscle relaxants
+directly acting agents	contraindicated in	liver disease
+dantrolene	metabolized in	liver
+directly acting agents	may cause	hepatotoxicity
+hepatotoxicity	monitored by	liver function tests
+directly acting agents	alternative to	centrally acting agents
+centrally acting agents	include	baclofen
+baclofen	acts on	GABA receptors
+GABA receptors	inhibit	neuronal activity
+directly acting agents	preferred for	malignant hyperthermia
+malignant hyperthermia	caused by	anesthetic drugs
+anesthetic drugs	trigger	excessive calcium release
+dantrolene	treats	malignant hyperthermia
+directly acting agents	work at	neuromuscular junction
+neuromuscular junction	contains	acetylcholine receptors
+acetylcholine receptors	blocked by	nondepolarizing agents
+nondepolarizing agents	are	neuromuscular blockers
+directly acting agents	differ from	neuromuscular blockers
+directly acting agents	can cause	muscle weakness
+muscle weakness	affects	daily activities
+daily activities	impacted by	spasticity
+directly acting agents	administered via	oral route
+oral route	affects	drug absorption
+drug absorption	influences	onset of action
+directly acting agents	have	slow onset
+directly acting agents	require	dose titration
+dose titration	prevents	adverse effects
+adverse effects	include	fatigue
+fatigue	worsens	mobility issues
+mobility issues	common in	spinal cord injury
+spinal cord injury	treated with	muscle relaxants
+directly acting agents	interact with	CNS depressants
+CNS depressants	potentiate	sedation
+sedation	increases	fall risk
+fall risk	monitored in	elderly patients
+elderly patients	need	lower doses
+lower doses	reduce	toxicity
+toxicity	manifests as	confusion
+confusion	indicates	CNS effects
+CNS effects	assessed by	mental status exam
+mental status exam	evaluates	cognitive function
+directly acting agents	less effective than	botulinum toxin
+botulinum toxin	blocks	acetylcholine release
+acetylcholine release	necessary for	muscle activation
+muscle activation	inhibited by	directly acting agents
+directly acting agents	alternative to	orthopedic surgery
+orthopedic surgery	corrects	contractures
+contractures	result from	chronic spasticity
+chronic spasticity	managed with	physical therapy
+physical therapy	complements	pharmacological treatment
+pharmacological treatment	includes	muscle relaxants
+directly acting agents	contraindicated in	pregnancy
+pregnancy	requires	careful medication use
+careful medication use	prevents	fetal harm
+fetal harm	possible with	hepatotoxic drugs
+hepatotoxic drugs	include	dantrolene
+dantrolene	requires	liver monitoring
+liver monitoring	involves	regular blood tests
+regular blood tests	detect	liver damage
+liver damage	reversible with	early detection
+early detection	improves	treatment outcomes
+treatment outcomes	measured by	symptom reduction
+symptom reduction	evaluated through	clinical assessment
+clinical assessment	considers	functional improvement
+functional improvement	goal of	spasticity management
+spasticity management	involves	multimodal approach
+multimodal approach	combines	drugs and therapy
+drugs and therapy	tailored to	patient needs
+patient needs	vary by	underlying condition
+underlying condition	determines	treatment choice
+treatment choice	influenced by	side effect profile
+side effect profile	favorable for	directly acting agents
+directly acting agents	preferred for	localized spasticity
+localized spasticity	affects	specific muscle groups
+specific muscle groups	targeted by	focal treatment
+focal treatment	includes	botulinum toxin injections
+botulinum toxin injections	alternative to	systemic drugs
+systemic drugs	include	directly acting agents
+directly acting agents	excreted via	kidneys
+kidneys	affected by	renal impairment
+renal impairment	requires	dose adjustment
+dose adjustment	prevents	drug accumulation
+drug accumulation	leads to	toxicity
+toxicity	monitored via	serum levels
+serum levels	indicate	drug concentration
+drug concentration	correlates with	therapeutic effect
+therapeutic effect	optimized by	proper dosing
+proper dosing	ensures	patient safety

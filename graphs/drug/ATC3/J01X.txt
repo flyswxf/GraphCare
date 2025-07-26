@@ -1,0 +1,100 @@
+other antibacterials	belong to	ATC classification
+other antibacterials	are	antimicrobial agents
+other antibacterials	treat	bacterial infections
+other antibacterials	differ from	antibiotics
+other antibacterials	include	nitrofurantoin
+other antibacterials	include	methenamine
+other antibacterials	include	fosfomycin
+nitrofurantoin	treats	urinary tract infections
+methenamine	prevents	UTI recurrence
+fosfomycin	treats	cystitis
+other antibacterials	have	mechanism of action
+other antibacterials	may cause	resistance
+resistance	affects	treatment efficacy
+other antibacterials	have	side effects
+side effects	may include	gastrointestinal issues
+gastrointestinal issues	can be	nausea
+gastrointestinal issues	can be	diarrhea
+other antibacterials	require	prescription
+prescription	needs	medical supervision
+medical supervision	prevents	misuse
+misuse	leads to	antibiotic resistance
+antibiotic resistance	is	global health concern
+other antibacterials	have	contraindications
+contraindications	include	allergies
+allergies	may cause	anaphylaxis
+anaphylaxis	requires	emergency treatment
+other antibacterials	interact with	other drugs
+drug interactions	affect	metabolism
+metabolism	occurs in	liver
+liver	processes	medications
+other antibacterials	have	dosage forms
+dosage forms	include	tablets
+dosage forms	include	capsules
+dosage forms	include	injections
+injections	require	sterile technique
+sterile technique	prevents	infections
+other antibacterials	have	pharmacokinetics
+pharmacokinetics	describes	drug absorption
+drug absorption	affects	bioavailability
+bioavailability	determines	drug efficacy
+other antibacterials	have	pharmacodynamics
+pharmacodynamics	studies	drug effects
+drug effects	depend on	concentration
+concentration	varies with	administration route
+administration route	includes	oral
+administration route	includes	intravenous
+other antibacterials	treat	specific pathogens
+specific pathogens	include	E. coli
+E. coli	causes	urinary infections
+other antibacterials	are	alternatives to antibiotics
+alternatives	used for	resistant infections
+resistant infections	need	special treatment
+special treatment	requires	culture testing
+culture testing	identifies	bacteria
+bacteria	have	sensitivity patterns
+sensitivity patterns	guide	therapy
+other antibacterials	have	brand names
+brand names	vary by	country
+country	regulates	drug approval
+drug approval	ensures	safety
+safety	evaluated by	clinical trials
+clinical trials	assess	effectiveness
+effectiveness	measured by	cure rates
+cure rates	depend on	patient compliance
+patient compliance	affects	treatment success
+treatment success	prevents	complications
+complications	may require	hospitalization
+hospitalization	increases	healthcare costs
+other antibacterials	are	synthetic compounds
+synthetic compounds	designed in	laboratories
+laboratories	follow	GMP
+GMP	ensures	quality standards
+quality standards	prevent	contamination
+contamination	risks	patient health
+other antibacterials	have	storage requirements
+storage requirements	include	temperature control
+temperature control	maintains	stability
+stability	affects	shelf life
+shelf life	determines	expiration date
+expired drugs	lose	potency
+potency	impacts	therapeutic effect
+therapeutic effect	relieves	symptoms
+symptoms	indicate	disease severity
+disease severity	guides	treatment choice
+other antibacterials	are classified by	WHO
+WHO	publishes	essential medicines list
+essential medicines list	includes	key drugs
+key drugs	treat	common conditions
+common conditions	affect	public health
+public health	benefits from	disease control
+disease control	reduces	mortality
+mortality	is affected by	treatment access
+treatment access	depends on	affordability
+affordability	varies by	healthcare system
+healthcare system	includes	hospitals
+hospitals	employ	healthcare professionals
+healthcare professionals	prescribe	medications
+medications	must follow	guidelines
+guidelines	are based on	evidence
+evidence	comes from	research studies

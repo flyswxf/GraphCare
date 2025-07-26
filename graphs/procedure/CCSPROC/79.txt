@@ -1,0 +1,100 @@
+local excision of large intestine lesion	is a	surgical procedure
+local excision of large intestine lesion	treats	large intestine lesion
+local excision of large intestine lesion	performed by	surgeon
+local excision of large intestine lesion	requires	anesthesia
+local excision of large intestine lesion	has risk	bleeding
+local excision of large intestine lesion	has risk	infection
+local excision of large intestine lesion	requires	preoperative assessment
+local excision of large intestine lesion	followed by	wound care
+large intestine lesion	may be	polyp
+large intestine lesion	may be	tumor
+large intestine lesion	may be	adenoma
+large intestine lesion	may be	carcinoma
+local excision	alternative to	segmental resection
+local excision	preserves	bowel function
+local excision	has advantage	faster recovery
+surgeon	uses	scalpel
+surgeon	uses	electrocautery
+anesthesia	can be	general anesthesia
+anesthesia	can be	spinal anesthesia
+bleeding	requires	hemostasis
+infection	prevented by	antibiotics
+preoperative assessment	includes	imaging
+preoperative assessment	includes	blood tests
+wound care	involves	dressing changes
+polyp	can progress to	cancer
+tumor	can be	benign
+tumor	can be	malignant
+adenoma	is precursor of	adenocarcinoma
+carcinoma	requires	staging
+segmental resection	removes	bowel segment
+bowel function	involves	peristalsis
+faster recovery	reduces	hospital stay
+scalpel	makes	incision
+electrocautery	controls	bleeding
+general anesthesia	causes	unconsciousness
+spinal anesthesia	blocks	nerve signals
+hemostasis	achieved by	sutures
+antibiotics	target	bacteria
+imaging	includes	CT scan
+imaging	includes	MRI
+blood tests	measure	hemoglobin
+dressing changes	prevent	contamination
+cancer	requires	chemotherapy
+benign tumor	has characteristic	slow growth
+malignant tumor	can cause	metastasis
+adenocarcinoma	originates from	glandular tissue
+staging	determines	prognosis
+bowel segment	contains	mucosa
+peristalsis	moves	feces
+hospital stay	increases	healthcare cost
+incision	allows	access
+bleeding	leads to	anemia
+unconsciousness	prevents	pain
+nerve signals	transmit	sensations
+sutures	promote	healing
+bacteria	cause	sepsis
+CT scan	shows	lesion size
+MRI	provides	detailed images
+hemoglobin	carries	oxygen
+contamination	leads to	wound infection
+chemotherapy	kills	cancer cells
+slow growth	allows	monitoring
+metastasis	spreads to	lymph nodes
+glandular tissue	secretes	mucus
+prognosis	depends on	stage
+mucosa	absorbs	nutrients
+feces	contains	waste
+healthcare cost	affected by	complications
+access	enables	excision
+anemia	causes	fatigue
+pain	managed by	analgesics
+sensations	include	touch
+healing	requires	time
+sepsis	causes	organ failure
+lesion size	determines	approach
+detailed images	aid	planning
+oxygen	sustains	tissues
+wound infection	delays	recovery
+cancer cells	invade	tissues
+monitoring	involves	colonoscopy
+lymph nodes	filter	pathogens
+mucus	protects	epithelium
+stage	classified by	TNM system
+nutrients	include	glucose
+waste	eliminated by	defecation
+complications	increase	mortality
+excision	removes	abnormal tissue
+fatigue	reduces	activity
+analgesics	include	opioids
+touch	perceived by	nerves
+time	needed for	collagen deposition
+organ failure	requires	ICU care
+approach	can be	open surgery
+planning	involves	surgical team
+tissues	consist of	cells
+recovery	measured by	mobility
+colonoscopy	visualizes	colon
+pathogens	include	viruses
+epithelium	lines	intestines
+TNM system	evaluates	tumor spread

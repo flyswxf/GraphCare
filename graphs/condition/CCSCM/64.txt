@@ -1,0 +1,100 @@
+other hematologic conditions	include	anemia
+other hematologic conditions	include	thrombocytopenia
+other hematologic conditions	include	leukopenia
+other hematologic conditions	include	polycythemia
+other hematologic conditions	include	myelodysplastic syndromes
+other hematologic conditions	include	hemophilia
+other hematologic conditions	include	von Willebrand disease
+anemia	has type	iron deficiency anemia
+anemia	has type	vitamin B12 deficiency anemia
+anemia	has type	hemolytic anemia
+thrombocytopenia	may cause	bleeding
+thrombocytopenia	may result from	chemotherapy
+leukopenia	increases risk	infection
+polycythemia	may lead to	thrombosis
+myelodysplastic syndromes	can progress to	acute myeloid leukemia
+hemophilia	is caused by	clotting factor deficiency
+von Willebrand disease	affects	platelet function
+iron deficiency anemia	is treated with	iron supplements
+vitamin B12 deficiency anemia	is treated with	B12 injections
+hemolytic anemia	may require	blood transfusion
+bleeding	may be managed with	platelet transfusion
+chemotherapy	is a cause of	bone marrow suppression
+infection	may be prevented with	prophylactic antibiotics
+thrombosis	is treated with	anticoagulants
+acute myeloid leukemia	requires	chemotherapy
+clotting factor deficiency	is managed with	factor replacement
+platelet function	is assessed by	bleeding time test
+iron supplements	can cause	constipation
+B12 injections	may lead to	allergic reactions
+blood transfusion	carries risk of	transfusion reactions
+platelet transfusion	may cause	febrile reactions
+bone marrow suppression	results in	cytopenias
+prophylactic antibiotics	can lead to	antibiotic resistance
+anticoagulants	increase risk of	bleeding
+chemotherapy	has side effect	nausea
+factor replacement	requires	regular infusions
+bleeding time test	measures	primary hemostasis
+constipation	may be relieved with	laxatives
+allergic reactions	can be treated with	antihistamines
+transfusion reactions	may include	fever
+febrile reactions	are managed with	antipyretics
+cytopenias	increase susceptibility	infections
+antibiotic resistance	complicates	infection treatment
+bleeding risk	is monitored by	INR testing
+nausea	is treated with	antiemetics
+regular infusions	require	venous access
+primary hemostasis	involves	platelet plug formation
+laxatives	can cause	electrolyte imbalances
+antihistamines	may lead to	drowsiness
+fever	is a sign of	systemic inflammation
+antipyretics	include	acetaminophen
+infections	may require	hospitalization
+infection treatment	depends on	culture results
+INR testing	guides	warfarin dosing
+antiemetics	include	ondansetron
+venous access	may involve	central line placement
+platelet plug formation	is followed by	fibrin clot formation
+electrolyte imbalances	can cause	cardiac arrhythmias
+drowsiness	affects	daily functioning
+systemic inflammation	is measured by	CRP levels
+acetaminophen	can cause	liver toxicity
+hospitalization	increases risk of	nosocomial infections
+culture results	guide	antibiotic selection
+warfarin dosing	is affected by	dietary vitamin K
+ondansetron	is a	serotonin antagonist
+central line placement	carries risk of	catheter infection
+fibrin clot formation	involves	coagulation cascade
+cardiac arrhythmias	may require	cardioversion
+daily functioning	is impacted by	fatigue
+CRP levels	indicate	inflammation severity
+liver toxicity	is monitored with	LFTs
+nosocomial infections	often involve	MRSA
+antibiotic selection	depends on	sensitivity testing
+dietary vitamin K	is found in	leafy greens
+serotonin antagonist	prevents	nausea
+catheter infection	may require	line removal
+coagulation cascade	involves	clotting factors
+cardioversion	restores	normal rhythm
+fatigue	is a symptom of	many hematologic conditions
+inflammation severity	correlates with	disease activity
+LFTs	measure	liver enzymes
+MRSA	requires	vancomycin treatment
+sensitivity testing	determines	effective antibiotics
+leafy greens	contain	high vitamin K
+nausea	is mediated by	chemoreceptor trigger zone
+line removal	necessitates	alternative access
+clotting factors	are produced in	liver
+normal rhythm	is maintained by	sinoatrial node
+many hematologic conditions	cause	fatigue
+disease activity	is assessed by	clinical markers
+liver enzymes	include	ALT and AST
+vancomycin	is a	glycopeptide antibiotic
+effective antibiotics	reduce	bacterial load
+high vitamin K	counteracts	warfarin effect
+chemoreceptor trigger zone	is located in	medulla
+alternative access	may include	PICC line
+liver	synthesizes	clotting factors
+sinoatrial node	is the	cardiac pacemaker
+clinical markers	include	complete blood count
+ALT and AST	indicate	liver damage

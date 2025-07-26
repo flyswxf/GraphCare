@@ -1,0 +1,100 @@
+liveborn	is a	birth outcome
+liveborn	contrasts with	stillbirth
+liveborn	may have	birth weight
+liveborn	may require	neonatal care
+liveborn	can develop	neonatal jaundice
+liveborn	may undergo	APGAR scoring
+liveborn	depends on	gestational age
+liveborn	benefits from	breastfeeding
+liveborn	may experience	birth asphyxia
+liveborn	is recorded in	birth certificate
+liveborn	may need	resuscitation
+liveborn	screened for	congenital disorders
+liveborn	may have	umbilical cord complications
+liveborn	associated with	maternal health
+liveborn	influenced by	prenatal care
+liveborn	may receive	vitamin K injection
+liveborn	monitored for	vital signs
+liveborn	may develop	sepsis
+liveborn	can suffer from	birth trauma
+liveborn	may require	phototherapy
+liveborn	assessed with	Ballard score
+liveborn	may have	low Apgar score
+liveborn	linked to	premature birth
+liveborn	may exhibit	respiratory distress
+liveborn	benefits from	kangaroo care
+liveborn	may need	oxygen therapy
+liveborn	at risk for	hypothermia
+liveborn	may require	incubator
+liveborn	screened with	hearing test
+liveborn	may develop	hypoglycemia
+liveborn	associated with	cesarean delivery
+liveborn	may have	congenital heart defect
+liveborn	monitored for	neonatal seizures
+liveborn	may require	blood transfusion
+liveborn	linked to	maternal diabetes
+liveborn	may suffer from	intraventricular hemorrhage
+liveborn	benefits from	delayed cord clamping
+liveborn	may have	neonatal abstinence syndrome
+liveborn	screened for	critical congenital heart disease
+liveborn	may develop	necrotizing enterocolitis
+liveborn	associated with	multiple gestation
+liveborn	may require	surfactant therapy
+liveborn	linked to	maternal hypertension
+liveborn	may have	patent ductus arteriosus
+liveborn	benefits from	human milk fortifier
+liveborn	may suffer from	retinopathy of prematurity
+liveborn	monitored for	bilirubin levels
+liveborn	may need	gavage feeding
+liveborn	associated with	maternal infection
+liveborn	may develop	bronchopulmonary dysplasia
+liveborn	linked to	maternal obesity
+liveborn	may have	neonatal sepsis
+liveborn	benefits from	developmental care
+liveborn	may require	continuous positive airway pressure
+liveborn	associated with	preterm labor
+liveborn	may suffer from	periventricular leukomalacia
+liveborn	monitored for	oxygen saturation
+liveborn	may need	parenteral nutrition
+liveborn	linked to	maternal smoking
+liveborn	may develop	neonatal meningitis
+liveborn	associated with	artificial reproductive technology
+liveborn	may have	transient tachypnea
+liveborn	benefits from	non-invasive ventilation
+liveborn	may require	therapeutic hypothermia
+liveborn	linked to	maternal age
+liveborn	may suffer from	neonatal stroke
+liveborn	monitored for	blood glucose
+liveborn	may need	intracranial pressure monitoring
+liveborn	associated with	maternal malnutrition
+liveborn	may develop	meconium aspiration syndrome
+liveborn	linked to	maternal substance abuse
+liveborn	may have	persistent pulmonary hypertension
+liveborn	benefits from	family-centered care
+liveborn	may require	high-frequency ventilation
+liveborn	associated with	placental insufficiency
+liveborn	may suffer from	neonatal encephalopathy
+liveborn	monitored for	electrolyte imbalances
+liveborn	may need	nitric oxide therapy
+liveborn	linked to	maternal autoimmune disease
+liveborn	may develop	neonatal herpes
+liveborn	associated with	prolonged rupture of membranes
+liveborn	may have	congenital diaphragmatic hernia
+liveborn	benefits from	pain management
+liveborn	may require	extracorporeal membrane oxygenation
+liveborn	linked to	maternal thyroid disorder
+liveborn	may suffer from	hydrops fetalis
+liveborn	monitored for	cerebral oxygenation
+liveborn	may need	blood gas analysis
+liveborn	associated with	maternal anemia
+liveborn	may develop	neonatal cholestasis
+liveborn	linked to	maternal depression
+liveborn	may have	congenital adrenal hyperplasia
+liveborn	benefits from	skin-to-skin contact
+liveborn	may require	red blood cell transfusion
+liveborn	associated with	oligohydramnios
+liveborn	may suffer from	neonatal tetanus
+liveborn	monitored for	intracranial hemorrhage
+liveborn	may need	platelet transfusion
+liveborn	linked to	maternal preeclampsia
+liveborn	may develop	neonatal lupus

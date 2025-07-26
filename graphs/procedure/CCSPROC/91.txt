@@ -1,0 +1,101 @@
+ENTITY 1	RELATIONSHIP	ENTITY 2
+peritoneal dialysis	is a	renal replacement therapy
+peritoneal dialysis	treats	end-stage renal disease
+peritoneal dialysis	uses	peritoneal membrane
+peritoneal dialysis	requires	dialysis solution
+peritoneal dialysis	has type	continuous ambulatory PD
+peritoneal dialysis	has type	automated PD
+peritoneal dialysis	alternative to	hemodialysis
+peritoneal catheter	enables	peritoneal dialysis
+dwell time	affects	solute clearance
+dialysate	contains	glucose
+ultrafiltration	removes	excess fluid
+Kt/V	measures	dialysis adequacy
+peritonitis	complicates	peritoneal dialysis
+diabetes mellitus	common cause for	peritoneal dialysis
+hypertension	controlled by	peritoneal dialysis
+hypoalbuminemia	associated with	peritoneal dialysis
+peritoneal dialysis	reduces	uremic symptoms
+residual renal function	preserves	peritoneal dialysis
+peritoneal dialysis	causes	protein loss
+peritoneal dialysis	requires	dietary modification
+peritoneal dialysis	risk factor for	peritonitis
+staphylococcus aureus	causes	PD-related infection
+exit-site infection	precedes	peritonitis
+encapsulating sclerosis	rare complication of	PD
+peritoneal dialysis	may cause	hernia
+hyperglycemia	exacerbated by	PD solution
+peritoneal dialysis	associated with	lipid abnormalities
+peritoneal dialysis	more cost-effective than	hemodialysis
+peritoneal dialysis	preserves	vascular access
+peritoneal dialysis	allows for	home treatment
+peritoneal dialysis	provides	steady solute clearance
+peritoneal dialysis	requires	patient training
+erythropoietin	supplements	PD patients
+iron supplements	prevent	anemia in PD
+phosphate binders	control	hyperphosphatemia
+antibiotics	treat	PD-related peritonitis
+heparin	prevents	catheter occlusion
+peritoneal membrane	acts as	semipermeable barrier
+osmotic gradient	drives	ultrafiltration
+lymphatic absorption	reduces	ultrafiltration
+mesothelial cells	line	peritoneal cavity
+PD nurse	educates	patients
+exchange protocol	standardizes	PD procedure
+aseptic technique	prevents	contamination
+PD adequacy	monitored by	clinical assessment
+pediatric patients	eligible for	PD
+elderly patients	tolerate	PD better
+pregnant women	can undergo	PD
+icodextrin	alternative to	glucose solution
+biocompatible solutions	reduce	membrane damage
+PD utilization	varies by	country
+technique survival	measures	PD longevity
+parietal peritoneum	participates in	PD
+visceral peritoneum	participates in	PD
+peritoneal cavity	contains	dialysate
+PD	alters	glucose metabolism
+PD	impacts	appetite
+PD	affects	electrolyte balance
+cycler machine	automates	PD exchanges
+transfer set	connects	catheter to bag
+PD	enables	travel
+PD	allows	flexible schedule
+PD	impacts	body image
+protein intake	increases with	PD
+sodium restriction	recommended for	PD
+potassium control	needed in	PD
+peritoneal equilibration test	assesses	membrane function
+effluent analysis	detects	infection
+body weight	monitors	fluid status
+long-term PD	may thicken	peritoneum
+fibrosis	reduces	PD efficacy
+angiogenesis	increases with	PD duration
+PD	requires	caregiver support
+PD	reduces	hospital visits
+PD	affects	employment status
+tidal PD	modifies	standard protocol
+IPD	early form of	PD
+pop-off valve	improves	PD safety
+Y-set	reduces	peritonitis risk
+social worker	assists	PD patients
+dietitian	advises	PD patients
+animal models	study	PD effects
+in vitro studies	test	biocompatibility
+PD	lowers	healthcare costs
+reimbursement policies	affect	PD adoption
+PD	shows similar survival to	hemodialysis
+PD	better preserves	residual function
+remote monitoring	enhances	PD care
+connectology	reduces	infection risk
+TGF-β	mediates	peritoneal fibrosis
+VEGF	promotes	angiogenesis
+pleuroperitoneal leak	complicates	PD
+sclerosing peritonitis	terminates	PD
+PD	increases	treatment burden
+depression	common in	PD patients
+serum albumin	predicts	PD outcome
+comorbidity index	affects	PD survival
+PD-first policy	promotes	modality choice
+quality standards	regulate	PD centers
+clinical guidelines	recommend	PD training

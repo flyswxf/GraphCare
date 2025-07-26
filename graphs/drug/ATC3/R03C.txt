@@ -1,0 +1,100 @@
+adrenergics for systemic use	is a	drug class
+adrenergics for systemic use	includes	epinephrine
+adrenergics for systemic use	includes	norepinephrine
+adrenergics for systemic use	includes	dopamine
+adrenergics for systemic use	includes	isoproterenol
+adrenergics for systemic use	includes	dobutamine
+adrenergics for systemic use	includes	phenylephrine
+adrenergics for systemic use	acts on	adrenergic receptors
+adrenergic receptors	divided into	alpha receptors
+adrenergic receptors	divided into	beta receptors
+alpha receptors	subclassified into	alpha-1
+alpha receptors	subclassified into	alpha-2
+beta receptors	subclassified into	beta-1
+beta receptors	subclassified into	beta-2
+beta receptors	subclassified into	beta-3
+epinephrine	is a	neurotransmitter
+epinephrine	is a	hormone
+epinephrine	is a	catecholamine
+epinephrine	affects	heart rate
+epinephrine	affects	blood pressure
+epinephrine	affects	bronchodilation
+epinephrine	treats	anaphylaxis
+epinephrine	treats	cardiac arrest
+epinephrine	treats	asthma
+norepinephrine	is a	neurotransmitter
+norepinephrine	is a	hormone
+norepinephrine	is a	catecholamine
+norepinephrine	increases	blood pressure
+norepinephrine	treats	hypotension
+norepinephrine	used in	septic shock
+dopamine	is a	neurotransmitter
+dopamine	is a	catecholamine
+dopamine	affects	renal perfusion
+dopamine	treats	shock
+dopamine	treats	heart failure
+isoproterenol	is a	non-selective beta agonist
+isoproterenol	treats	bradycardia
+isoproterenol	treats	heart block
+dobutamine	is a	beta-1 agonist
+dobutamine	increases	cardiac output
+dobutamine	treats	heart failure
+phenylephrine	is a	alpha-1 agonist
+phenylephrine	causes	vasoconstriction
+phenylephrine	treats	hypotension
+phenylephrine	used in	nasal decongestion
+adrenergics for systemic use	can cause	tachycardia
+adrenergics for systemic use	can cause	hypertension
+adrenergics for systemic use	can cause	arrhythmias
+adrenergics for systemic use	can cause	palpitations
+adrenergics for systemic use	can cause	anxiety
+adrenergics for systemic use	can cause	tremors
+adrenergics for systemic use	can cause	headache
+adrenergics for systemic use	can cause	nausea
+adrenergics for systemic use	can cause	sweating
+adrenergics for systemic use	interacts with	beta blockers
+adrenergics for systemic use	interacts with	MAO inhibitors
+adrenergics for systemic use	interacts with	tricyclic antidepressants
+epinephrine	administered via	intravenous route
+epinephrine	administered via	intramuscular route
+epinephrine	administered via	subcutaneous route
+norepinephrine	administered via	intravenous route
+dopamine	administered via	intravenous route
+adrenergics for systemic use	metabolized by	MAO
+adrenergics for systemic use	metabolized by	COMT
+epinephrine	stored in	adrenal medulla
+epinephrine	released during	stress response
+norepinephrine	stored in	sympathetic nerve terminals
+dopamine	synthesized from	L-DOPA
+L-DOPA	precursor of	dopamine
+adrenergics for systemic use	contraindicated in	pheochromocytoma
+adrenergics for systemic use	contraindicated in	severe hypertension
+adrenergics for systemic use	contraindicated in	hyperthyroidism
+adrenergics for systemic use	caution in	coronary artery disease
+adrenergics for systemic use	caution in	diabetes mellitus
+epinephrine	has	vasoconstrictor effect
+epinephrine	has	bronchodilator effect
+epinephrine	has	inotropic effect
+epinephrine	has	chronotropic effect
+norepinephrine	has	vasopressor effect
+norepinephrine	has	inotropic effect
+dopamine	has	dose-dependent effects
+low dose dopamine	affects	renal vessels
+medium dose dopamine	affects	cardiac receptors
+high dose dopamine	affects	alpha receptors
+adrenergics for systemic use	monitored via	blood pressure
+adrenergics for systemic use	monitored via	heart rate
+adrenergics for systemic use	monitored via	ECG
+adrenergics for systemic use	used in	ICU settings
+adrenergics for systemic use	used in	emergency medicine
+adrenergics for systemic use	used in	anesthesia
+epinephrine	has	short half-life
+epinephrine	half-life	2-3 minutes
+norepinephrine	half-life	2-3 minutes
+dopamine	half-life	2 minutes
+adrenergics for systemic use	excreted via	kidneys
+adrenergics for systemic use	cross	blood-brain barrier
+adrenergics for systemic use	affects	glucose metabolism
+adrenergics for systemic use	affects	lipolysis
+adrenergics for systemic use	affects	pupil dilation
+adrenergics for systemic use	affects	gastrointestinal motility

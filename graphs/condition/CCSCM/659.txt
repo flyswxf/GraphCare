@@ -1,0 +1,100 @@
+schizophrenia	is a	psychotic disorder
+psychotic disorder	includes	delusions
+psychotic disorder	includes	hallucinations
+schizophrenia	may cause	cognitive impairment
+schizophrenia	has symptom	disorganized speech
+schizophrenia	has symptom	negative symptoms
+antipsychotics	treat	schizophrenia
+risperidone	is an	antipsychotic
+olanzapine	is an	antipsychotic
+clozapine	treats	treatment-resistant schizophrenia
+schizophrenia	has risk factor	genetic predisposition
+schizophrenia	has risk factor	childhood trauma
+schizophrenia	has comorbidity	depression
+schizophrenia	has comorbidity	anxiety disorders
+schizophrenia	increases risk of	substance abuse
+schizophrenia	requires	long-term treatment
+schizophrenia	may lead to	social isolation
+schizophrenia	affects	dopamine system
+dopamine hypothesis	explains	schizophrenia
+schizophrenia	may require	hospitalization
+schizophrenia	has subtype	paranoid schizophrenia
+schizophrenia	has subtype	catatonic schizophrenia
+schizophrenia	has subtype	disorganized schizophrenia
+schizophrenia	has subtype	residual schizophrenia
+schizophrenia	has subtype	undifferentiated schizophrenia
+first-episode psychosis	may progress to	schizophrenia
+schizophrenia	has prodromal phase	early symptoms
+cognitive behavioral therapy	helps manage	schizophrenia
+family therapy	supports	schizophrenia treatment
+schizophrenia	reduces	life expectancy
+schizophrenia	increases risk of	cardiovascular disease
+schizophrenia	has association	urban upbringing
+schizophrenia	has association	winter birth
+schizophrenia	may involve	glutamate dysfunction
+NMDA receptors	may be involved in	schizophrenia
+schizophrenia	affects	prefrontal cortex
+schizophrenia	affects	temporal lobe
+ventricular enlargement	is seen in	schizophrenia
+schizophrenia	may cause	anosognosia
+schizophrenia	requires	multidisciplinary care
+schizophrenia	increases risk of	suicide
+schizophrenia	affects	work performance
+schizophrenia	may require	supported employment
+schizophrenia	has gender differences	symptom presentation
+schizophrenia	typically onset	early adulthood
+schizophrenia	has worse prognosis	in males
+schizophrenia	may involve	neurodevelopmental abnormalities
+schizophrenia	has biomarker	elevated dopamine
+schizophrenia	may benefit from	omega-3 fatty acids
+schizophrenia	has treatment challenge	medication adherence
+schizophrenia	may require	depot injections
+schizophrenia	has side effect	weight gain
+schizophrenia	has side effect	metabolic syndrome
+schizophrenia	requires	regular monitoring
+schizophrenia	benefits from	early intervention
+schizophrenia	has negative symptom	avolition
+schizophrenia	has negative symptom	alogia
+schizophrenia	has negative symptom	anhedonia
+schizophrenia	has negative symptom	affective flattening
+schizophrenia	may cause	thought disorder
+schizophrenia	may involve	sensory gating deficits
+schizophrenia	has eye movement abnormality	smooth pursuit
+schizophrenia	has genetic link	DISC1 gene
+schizophrenia	has environmental risk	maternal infection
+schizophrenia	has neurochemical imbalance	serotonin
+schizophrenia	may involve	immune system dysfunction
+schizophrenia	has structural change	reduced gray matter
+schizophrenia	affects	default mode network
+schizophrenia	has cognitive symptom	working memory deficit
+schizophrenia	has cognitive symptom	attention deficit
+schizophrenia	may benefit from	cognitive remediation
+schizophrenia	requires	social skills training
+schizophrenia	increases risk of	homelessness
+schizophrenia	has cultural variation	symptom expression
+schizophrenia	has diagnostic tool	DSM-5 criteria
+schizophrenia	has diagnostic tool	PANSS scale
+schizophrenia	has treatment resistance	in 30% cases
+schizophrenia	may benefit from	clozapine
+schizophrenia	requires	blood monitoring
+schizophrenia	has complication	agranulocytosis
+schizophrenia	has atypical symptom	catatonia
+schizophrenia	may respond to	ECT
+schizophrenia	has association	cannabis use
+schizophrenia	has association	tobacco use
+schizophrenia	requires	substance abuse treatment
+schizophrenia	has circadian rhythm	disruption
+schizophrenia	may involve	oxidative stress
+schizophrenia	has inflammatory marker	elevated cytokines
+schizophrenia	has treatment option	long-acting injectables
+schizophrenia	has ethnic variation	treatment response
+schizophrenia	affects	facial emotion recognition
+schizophrenia	has sensory symptom	auditory hypersensitivity
+schizophrenia	may involve	gut microbiome
+schizophrenia	has association	autoimmune disorders
+schizophrenia	requires	personalized treatment
+schizophrenia	benefits from	family education
+schizophrenia	has rehabilitation need	daily living skills
+schizophrenia	has economic impact	high healthcare costs
+schizophrenia	has prevention strategy	early detection
+schizophrenia	requires	integrated care approach

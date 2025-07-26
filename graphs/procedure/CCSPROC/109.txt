@@ -1,0 +1,100 @@
+urethral procedure	is a	medical procedure
+urethral procedure	performed on	urethra
+urethral dilation	is a type of	urethral procedure
+urethrotomy	is a type of	urethral procedure
+urethroplasty	is a type of	urethral procedure
+catheterization	is a type of	urethral procedure
+cystoscopy	involves	urethra
+urethral dilation	treats	urethral stricture
+urethrotomy	treats	urethral stricture
+urethroplasty	repairs	urethral injury
+catheterization	relieves	urinary retention
+cystoscopy	diagnoses	urethral obstruction
+urethral procedure	requires	anesthesia
+urethral dilation	uses	dilators
+urethrotomy	uses	surgical knife
+urethroplasty	uses	graft tissue
+catheterization	uses	urinary catheter
+cystoscopy	uses	endoscope
+urethral stricture	causes	urinary obstruction
+urinary obstruction	leads to	hydronephrosis
+hydronephrosis	affects	kidneys
+urethral injury	results from	trauma
+trauma	includes	pelvic fracture
+pelvic fracture	may cause	urethral rupture
+urinary retention	indicates	bladder dysfunction
+bladder dysfunction	associates with	prostate enlargement
+prostate enlargement	causes	BPH
+BPH	requires	medical management
+medical management	includes	alpha-blockers
+alpha-blockers	relax	prostate muscles
+urethral procedure	prevents	UTIs
+UTIs	result from	bacterial infection
+bacterial infection	treated with	antibiotics
+antibiotics	target	Escherichia coli
+Escherichia coli	commonly causes	urinary infections
+urethral stricture	increases risk	catheter complications
+catheter complications	include	urethral trauma
+urethral trauma	necessitates	surgical repair
+surgical repair	involves	urethroplasty
+urethroplasty	has risk	recurrence
+recurrence	requires	repeat surgery
+repeat surgery	increases	healthcare costs
+healthcare costs	impact	patient burden
+patient burden	affects	quality of life
+quality of life	improves with	successful treatment
+successful treatment	depends on	surgeon skill
+surgeon skill	enhanced by	specialized training
+specialized training	includes	urology residency
+urology residency	educates	future urologists
+urologists	perform	urethral procedures
+urethral procedure	may cause	bleeding
+bleeding	managed with	cauterization
+cauterization	uses	electrocautery
+electrocautery	minimizes	blood loss
+blood loss	affects	postoperative recovery
+postoperative recovery	involves	pain management
+pain management	includes	analgesics
+analgesics	reduce	patient discomfort
+patient discomfort	decreases	mobility
+mobility	improves with	rehabilitation
+rehabilitation	speeds up	healing
+healing	depends on	patient health
+patient health	influenced by	nutrition
+nutrition	supports	tissue repair
+tissue repair	requires	protein intake
+protein intake	aids	wound healing
+wound healing	prevents	infection
+infection	delays	recovery time
+recovery time	varies by	procedure complexity
+procedure complexity	depends on	stricture length
+stricture length	measured via	imaging
+imaging	includes	urethrogram
+urethrogram	visualizes	urethral narrowing
+urethral narrowing	confirms	stricture diagnosis
+stricture diagnosis	leads to	treatment planning
+treatment planning	considers	patient age
+patient age	affects	anesthesia risk
+anesthesia risk	assessed by	pre-op evaluation
+pre-op evaluation	includes	medical history
+medical history	identifies	comorbidities
+comorbidities	complicate	surgical outcomes
+surgical outcomes	improve with	minimally invasive techniques
+minimally invasive techniques	reduce	hospital stay
+hospital stay	increases	infection risk
+infection risk	lowered by	sterile technique
+sterile technique	prevents	surgical site infections
+surgical site infections	require	antibiotic therapy
+antibiotic therapy	combats	resistant bacteria
+resistant bacteria	challenge	infection control
+infection control	involves	hygiene protocols
+hygiene protocols	enforced in	operating rooms
+operating rooms	maintain	sterile environment
+sterile environment	reduces	contamination
+contamination	leads to	postoperative complications
+postoperative complications	monitored via	follow-up visits
+follow-up visits	assess	treatment success
+treatment success	measured by	symptom relief
+symptom relief	improves	patient satisfaction
+patient satisfaction	reflects	healthcare quality
+healthcare quality	optimized by	evidence-based practices

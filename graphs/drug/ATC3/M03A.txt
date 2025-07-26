@@ -1,0 +1,100 @@
+muscle relaxants	include	peripherally acting agents
+peripherally acting agents	target	neuromuscular junction
+peripherally acting agents	used for	muscle spasms
+peripherally acting agents	contraindicated in	myasthenia gravis
+peripherally acting agents	interact with	aminoglycosides
+peripherally acting agents	cause	respiratory depression
+peripherally acting agents	metabolized in	liver
+peripherally acting agents	excreted via	kidneys
+peripherally acting agents	example	tubocurarine
+tubocurarine	derived from	curare
+peripherally acting agents	mechanism	nicotinic receptor blockade
+nicotinic receptor blockade	prevents	muscle contraction
+peripherally acting agents	used in	anesthesia
+anesthesia	requires	muscle relaxation
+peripherally acting agents	alternative	centrally acting agents
+centrally acting agents	target	CNS
+peripherally acting agents	duration	short
+peripherally acting agents	reversed by	neostigmine
+neostigmine	inhibits	acetylcholinesterase
+acetylcholinesterase inhibition	increases	acetylcholine
+peripherally acting agents	adverse effect	hypotension
+hypotension	managed with	vasopressors
+peripherally acting agents	classification	non-depolarizing
+non-depolarizing agents	compete with	acetylcholine
+peripherally acting agents	other class	depolarizing
+depolarizing agents	example	succinylcholine
+succinylcholine	causes	muscle fasciculations
+muscle fasciculations	precede	paralysis
+peripherally acting agents	monitoring required	neuromuscular function
+neuromuscular function	assessed by	train-of-four
+train-of-four	measures	muscle response
+peripherally acting agents	affected by	electrolyte imbalance
+electrolyte imbalance	exacerbates	drug effect
+peripherally acting agents	caution in	renal impairment
+renal impairment	prolongs	drug action
+peripherally acting agents	protein binding	high
+protein binding	affects	drug distribution
+peripherally acting agents	pregnancy category	C
+pregnancy category C	indicates	risk not ruled out
+peripherally acting agents	storage	room temperature
+peripherally acting agents	formulation	injection
+injection	administered	intravenously
+intravenous administration	requires	sterile technique
+peripherally acting agents	onset	rapid
+rapid onset	useful for	intubation
+intubation	requires	muscle relaxation
+peripherally acting agents	synergize with	inhalation anesthetics
+inhalation anesthetics	potentiate	neuromuscular blockade
+peripherally acting agents	research focus	shorter acting variants
+shorter acting variants	reduce	recovery time
+recovery time	important for	outpatient surgery
+outpatient surgery	benefits from	fast recovery
+peripherally acting agents	cost	varies
+cost	influences	drug selection
+peripherally acting agents	brand names	multiple
+brand names	differ by	manufacturer
+manufacturer	must comply	FDA regulations
+FDA regulations	ensure	drug safety
+peripherally acting agents	prescriber	anesthesiologist
+anesthesiologist	monitors	patient vitals
+patient vitals	include	blood pressure
+blood pressure	affected by	drug dose
+drug dose	calculated by	weight
+weight	determines	pharmacokinetics
+pharmacokinetics	studies	drug movement
+peripherally acting agents	teaching point	not analgesic
+analgesic	required for	pain control
+pain control	achieved with	opioids
+opioids	combined with	muscle relaxants
+combination therapy	increases	side effects
+side effects	include	sedation
+sedation	managed by	dose adjustment
+peripherally acting agents	historic use	arrow poison
+arrow poison	contains	curare
+curare	discovered by	indigenous tribes
+indigenous tribes	used it for	hunting
+peripherally acting agents	modern use	surgery
+surgery	benefits from	muscle relaxation
+muscle relaxation	facilitates	mechanical ventilation
+mechanical ventilation	supports	respiratory function
+respiratory function	compromised by	drug overdose
+drug overdose	treated with	ventilation support
+peripherally acting agents	research area	new formulations
+new formulations	aim for	fewer side effects
+fewer side effects	improve	patient outcomes
+patient outcomes	measured by	recovery scores
+recovery scores	assess	post-operative status
+post-operative status	influences	discharge timing
+peripherally acting agents	alternative approach	regional anesthesia
+regional anesthesia	avoids	systemic effects
+systemic effects	include	drug interactions
+drug interactions	documented in	prescribing information
+prescribing information	contains	warnings
+warnings	address	contraindications
+contraindications	prevent	adverse events
+adverse events	reported to	FDA
+FDA	maintains	drug database
+drug database	used for	pharmacovigilance
+pharmacovigilance	improves	drug safety
+drug safety	ensures	patient well-being

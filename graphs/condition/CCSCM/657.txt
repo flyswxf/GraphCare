@@ -1,0 +1,100 @@
+mood disorders	include	depression
+mood disorders	include	bipolar disorder
+mood disorders	may cause	suicide
+mood disorders	are treated with	antidepressants
+mood disorders	are treated with	psychotherapy
+depression	is a type of	mood disorder
+bipolar disorder	is a type of	mood disorder
+antidepressants	treat	depression
+SSRIs	are a class of	antidepressants
+fluoxetine	is an	SSRI
+psychotherapy	helps manage	mood disorders
+CBT	is a type of	psychotherapy
+mood disorders	may lead to	social withdrawal
+mood disorders	are associated with	insomnia
+insomnia	worsens	depression
+mood disorders	increase risk of	substance abuse
+alcohol	exacerbates	mood disorders
+mood disorders	may cause	fatigue
+fatigue	affects	daily functioning
+mood disorders	are linked to	genetic factors
+family history	increases risk of	mood disorders
+stress	triggers	mood disorders
+chronic stress	worsens	depression
+mood disorders	affect	neurotransmitters
+serotonin	is involved in	mood regulation
+dopamine	influences	mood
+mood disorders	may require	hospitalization
+ECT	is a treatment for	severe depression
+mood disorders	are diagnosed using	DSM-5
+psychiatrist	diagnoses	mood disorders
+primary care physician	screens for	mood disorders
+mood disorders	are more common in	women
+postpartum depression	is a type of	mood disorder
+hormonal changes	influence	mood disorders
+thyroid dysfunction	mimics	mood disorders
+mood disorders	may coexist with	anxiety disorders
+GAD	often accompanies	depression
+mood disorders	reduce	quality of life
+disability	can result from	mood disorders
+mood disorders	increase healthcare costs
+early intervention	improves outcomes for	mood disorders
+screening tools	detect	mood disorders
+PHQ-9	assesses	depression severity
+mood disorders	respond to	lifestyle changes
+exercise	alleviates	depression symptoms
+meditation	reduces	stress
+sleep hygiene	improves	mood stability
+omega-3 fatty acids	may benefit	mood disorders
+mood disorders	are studied in	neuroimaging
+fMRI	shows brain changes in	depression
+mood disorders	involve	amygdala dysfunction
+hippocampus	is smaller in	depression
+mood disorders	correlate with	inflammation
+CRP	is elevated in	depression
+mood disorders	may precede	dementia
+Alzheimer's disease	has mood symptoms
+Parkinson's disease	includes	depression
+mood disorders	complicate	chronic illness
+diabetes	worsens with	depression
+mood disorders	reduce	medication adherence
+noncompliance	leads to	relapse
+relapse	is common in	mood disorders
+maintenance therapy	prevents	relapse
+mood disorders	vary by	cultural factors
+stigma	hinders treatment of	mood disorders
+mood disorders	are underdiagnosed in	elderly
+geriatric depression	presents differently
+mood disorders	peak in	young adulthood
+college students	are at risk for	mood disorders
+mood disorders	impact	academic performance
+mood disorders	increase	dropout rates
+mood disorders	affect	workplace productivity
+presenteeism	results from	depression
+mood disorders	qualify for	disability benefits
+mood disorders	are researched in	clinical trials
+placebo effect	influences	depression treatment
+mood disorders	show	seasonal patterns
+SAD	is a type of	depression
+light therapy	treats	SAD
+mood disorders	may improve with	TMS
+TMS	stimulates brain regions for	depression
+ketamine	shows rapid effects on	depression
+mood disorders	involve	glutamate system
+mood disorders	are monitored with	rating scales
+MADRS	measures	depression severity
+mood disorders	require	differential diagnosis
+medical conditions	mimic	mood disorders
+vitamin deficiency	causes	mood changes
+B12 deficiency	resembles	depression
+mood disorders	may follow	traumatic events
+PTSD	overlaps with	mood disorders
+childhood trauma	predisposes to	mood disorders
+mood disorders	are addressed in	public health
+mental health awareness	reduces	stigma
+mood disorders	are prioritized in	global burden of disease
+mood disorders	drive	pharmaceutical research
+new antidepressants	target	novel mechanisms
+mood disorders	benefit from	integrated care
+collaborative care	improves	depression outcomes
+mood disorders	remain a focus of	neuroscience research

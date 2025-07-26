@@ -1,0 +1,100 @@
+other therapeutic obstetrical procedures	is a	medical procedure
+other therapeutic obstetrical procedures	performed during	pregnancy
+other therapeutic obstetrical procedures	performed during	childbirth
+other therapeutic obstetrical procedures	performed during	postpartum
+other therapeutic obstetrical procedures	treats	pregnancy complications
+other therapeutic obstetrical procedures	prevents	maternal mortality
+other therapeutic obstetrical procedures	prevents	fetal distress
+other therapeutic obstetrical procedures	includes	cervical cerclage
+other therapeutic obstetrical procedures	includes	external cephalic version
+other therapeutic obstetrical procedures	includes	amnioreduction
+cervical cerclage	prevents	preterm birth
+cervical cerclage	treats	cervical insufficiency
+external cephalic version	corrects	breech presentation
+external cephalic version	reduces	cesarean section rate
+amnioreduction	relieves	polyhydramnios
+amnioreduction	prevents	preterm labor
+other therapeutic obstetrical procedures	requires	anesthesia
+other therapeutic obstetrical procedures	performed by	obstetrician
+other therapeutic obstetrical procedures	monitored by	ultrasound
+other therapeutic obstetrical procedures	associated with	bleeding risk
+other therapeutic obstetrical procedures	associated with	infection risk
+other therapeutic obstetrical procedures	may lead to	hospitalization
+other therapeutic obstetrical procedures	may require	follow-up care
+other therapeutic obstetrical procedures	documented in	medical records
+other therapeutic obstetrical procedures	covered by	health insurance
+cervical cerclage	uses	suture material
+cervical cerclage	performed in	second trimester
+cervical cerclage	contraindicated in	active labor
+external cephalic version	performed in	third trimester
+external cephalic version	requires	fetal monitoring
+amnioreduction	involves	amniotic fluid removal
+amnioreduction	guided by	ultrasound
+other therapeutic obstetrical procedures	may affect	birth outcomes
+other therapeutic obstetrical procedures	may influence	delivery method
+other therapeutic obstetrical procedures	may prevent	neonatal complications
+other therapeutic obstetrical procedures	may reduce	NICU admission
+other therapeutic obstetrical procedures	may decrease	perinatal mortality
+other therapeutic obstetrical procedures	may improve	maternal health
+other therapeutic obstetrical procedures	may require	antibiotics
+other therapeutic obstetrical procedures	may cause	uterine contractions
+other therapeutic obstetrical procedures	may lead to	membrane rupture
+other therapeutic obstetrical procedures	may result in	allergic reactions
+other therapeutic obstetrical procedures	may need	pain management
+other therapeutic obstetrical procedures	may involve	blood transfusion
+other therapeutic obstetrical procedures	may require	bed rest
+other therapeutic obstetrical procedures	may trigger	early labor
+other therapeutic obstetrical procedures	may affect	future pregnancies
+other therapeutic obstetrical procedures	may require	fertility treatments
+other therapeutic obstetrical procedures	may influence	breastfeeding
+other therapeutic obstetrical procedures	may impact	maternal mental health
+cervical cerclage	may cause	vaginal discharge
+cervical cerclage	may lead to	cervical trauma
+cervical cerclage	may require	removal procedure
+external cephalic version	may cause	fetal bradycardia
+external cephalic version	may lead to	placental abruption
+external cephalic version	may require	emergency cesarean
+amnioreduction	may cause	amniotic fluid embolism
+amnioreduction	may lead to	fetal injury
+amnioreduction	may require	multiple procedures
+other therapeutic obstetrical procedures	studied in	clinical trials
+other therapeutic obstetrical procedures	subject to	medical guidelines
+other therapeutic obstetrical procedures	taught in	medical schools
+other therapeutic obstetrical procedures	researched in	obstetrics journals
+other therapeutic obstetrical procedures	discussed in	prenatal visits
+other therapeutic obstetrical procedures	considered in	high-risk pregnancies
+other therapeutic obstetrical procedures	may replace	more invasive procedures
+other therapeutic obstetrical procedures	may complement	medication therapy
+other therapeutic obstetrical procedures	may interact with	labor induction
+other therapeutic obstetrical procedures	may precede	delivery
+other therapeutic obstetrical procedures	may follow	diagnostic tests
+other therapeutic obstetrical procedures	may be	elective
+other therapeutic obstetrical procedures	may be	emergency
+other therapeutic obstetrical procedures	may be	outpatient
+other therapeutic obstetrical procedures	may be	inpatient
+other therapeutic obstetrical procedures	documented with	CPT codes
+other therapeutic obstetrical procedures	reimbursed by	Medicaid
+other therapeutic obstetrical procedures	tracked in	birth registries
+other therapeutic obstetrical procedures	analyzed in	population studies
+other therapeutic obstetrical procedures	varies by	hospital protocol
+other therapeutic obstetrical procedures	differs by	country guidelines
+cervical cerclage	more common in	multiple pregnancies
+cervical cerclage	associated with	cervical surgery history
+external cephalic version	less effective in	obese patients
+external cephalic version	contraindicated in	placenta previa
+amnioreduction	indicated for	twin-twin transfusion syndrome
+amnioreduction	performed in	specialized centers
+other therapeutic obstetrical procedures	may involve	multidisciplinary team
+other therapeutic obstetrical procedures	may require	informed consent
+other therapeutic obstetrical procedures	may include	patient education
+other therapeutic obstetrical procedures	may have	cultural considerations
+other therapeutic obstetrical procedures	may affect	healthcare costs
+other therapeutic obstetrical procedures	may influence	hospital readmissions
+other therapeutic obstetrical procedures	may correlate with	maternal age
+other therapeutic obstetrical procedures	may relate to	socioeconomic factors
+other therapeutic obstetrical procedures	may depend on	gestational age
+other therapeutic obstetrical procedures	may vary by	provider experience
+other therapeutic obstetrical procedures	may impact	quality metrics
+other therapeutic obstetrical procedures	may contribute to	research data
+other therapeutic obstetrical procedures	may inform	policy decisions
+other therapeutic obstetrical procedures	may evolve with	medical advances

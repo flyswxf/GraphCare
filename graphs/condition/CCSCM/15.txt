@@ -1,0 +1,100 @@
+cancer of rectum and anus	is a	colorectal cancer
+cancer of rectum and anus	may cause	rectal bleeding
+cancer of rectum and anus	may cause	bowel obstruction
+cancer of rectum and anus	may cause	weight loss
+cancer of rectum and anus	diagnosed by	colonoscopy
+cancer of rectum and anus	diagnosed by	biopsy
+cancer of rectum and anus	treated with	surgery
+cancer of rectum and anus	treated with	chemotherapy
+cancer of rectum and anus	treated with	radiation therapy
+cancer of rectum and anus	may lead to	metastasis
+cancer of rectum and anus	risk factor	smoking
+cancer of rectum and anus	risk factor	obesity
+cancer of rectum and anus	risk factor	family history
+cancer of rectum and anus	risk factor	inflammatory bowel disease
+cancer of rectum and anus	screened by	fecal occult blood test
+cancer of rectum and anus	screened by	sigmoidoscopy
+rectal bleeding	symptom of	cancer of rectum and anus
+bowel obstruction	complication of	cancer of rectum and anus
+weight loss	symptom of	cancer of rectum and anus
+colonoscopy	diagnostic tool for	cancer of rectum and anus
+biopsy	confirms	cancer of rectum and anus
+surgery	treatment for	cancer of rectum and anus
+chemotherapy	treatment for	cancer of rectum and anus
+radiation therapy	treatment for	cancer of rectum and anus
+metastasis	potential outcome of	cancer of rectum and anus
+smoking	increases risk of	cancer of rectum and anus
+obesity	increases risk of	cancer of rectum and anus
+family history	increases risk of	cancer of rectum and anus
+inflammatory bowel disease	increases risk of	cancer of rectum and anus
+fecal occult blood test	screening for	cancer of rectum and anus
+sigmoidoscopy	screening for	cancer of rectum and anus
+cancer of rectum and anus	may cause	anemia
+cancer of rectum and anus	may cause	abdominal pain
+cancer of rectum and anus	may cause	change in bowel habits
+cancer of rectum and anus	staging by	TNM system
+cancer of rectum and anus	associated with	KRAS mutation
+cancer of rectum and anus	associated with	BRAF mutation
+cancer of rectum and anus	associated with	microsatellite instability
+anemia	symptom of	cancer of rectum and anus
+abdominal pain	symptom of	cancer of rectum and anus
+change in bowel habits	symptom of	cancer of rectum and anus
+TNM system	stages	cancer of rectum and anus
+KRAS mutation	biomarker for	cancer of rectum and anus
+BRAF mutation	biomarker for	cancer of rectum and anus
+microsatellite instability	biomarker for	cancer of rectum and anus
+cancer of rectum and anus	treated with	targeted therapy
+cancer of rectum and anus	treated with	immunotherapy
+cancer of rectum and anus	may require	colostomy
+targeted therapy	treatment for	cancer of rectum and anus
+immunotherapy	treatment for	cancer of rectum and anus
+colostomy	potential outcome of	cancer of rectum and anus
+cancer of rectum and anus	monitored by	CT scan
+cancer of rectum and anus	monitored by	MRI
+cancer of rectum and anus	monitored by	PET scan
+CT scan	monitors	cancer of rectum and anus
+MRI	monitors	cancer of rectum and anus
+PET scan	monitors	cancer of rectum and anus
+cancer of rectum and anus	may cause	fatigue
+cancer of rectum and anus	may cause	nausea
+fatigue	symptom of	cancer of rectum and anus
+nausea	symptom of	cancer of rectum and anus
+cancer of rectum and anus	associated with	Lynch syndrome
+cancer of rectum and anus	associated with	familial adenomatous polyposis
+Lynch syndrome	increases risk of	cancer of rectum and anus
+familial adenomatous polyposis	increases risk of	cancer of rectum and anus
+cancer of rectum and anus	may require	neoadjuvant therapy
+cancer of rectum and anus	may require	adjuvant therapy
+neoadjuvant therapy	treatment for	cancer of rectum and anus
+adjuvant therapy	treatment for	cancer of rectum and anus
+cancer of rectum and anus	may spread to	liver
+cancer of rectum and anus	may spread to	lungs
+liver	common site for	metastasis from cancer of rectum and anus
+lungs	common site for	metastasis from cancer of rectum and anus
+cancer of rectum and anus	may cause	tenesmus
+tenesmus	symptom of	cancer of rectum and anus
+cancer of rectum and anus	associated with	HPV infection
+HPV infection	risk factor for	cancer of rectum and anus
+cancer of rectum and anus	prevention by	HPV vaccination
+HPV vaccination	prevents	cancer of rectum and anus
+cancer of rectum and anus	may require	palliative care
+palliative care	management for	cancer of rectum and anus
+cancer of rectum and anus	may cause	lymph node involvement
+lymph node involvement	indicator of	cancer progression
+cancer of rectum and anus	may cause	cachexia
+cachexia	complication of	cancer of rectum and anus
+cancer of rectum and anus	treated with	capecitabine
+cancer of rectum and anus	treated with	oxaliplatin
+capecitabine	chemotherapy for	cancer of rectum and anus
+oxaliplatin	chemotherapy for	cancer of rectum and anus
+cancer of rectum and anus	may require	radiation sensitizer
+radiation sensitizer	enhances	radiation therapy
+cancer of rectum and anus	may cause	perineural invasion
+perineural invasion	poor prognostic factor
+cancer of rectum and anus	may require	stenting
+stenting	treatment for	bowel obstruction
+cancer of rectum and anus	may cause	malignant ascites
+malignant ascites	complication of	cancer of rectum and anus
+cancer of rectum and anus	may cause	urinary symptoms
+urinary symptoms	complication of	cancer of rectum and anus
+cancer of rectum and anus	may require	multidisciplinary care

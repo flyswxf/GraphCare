@@ -1,0 +1,100 @@
+parasympathomimetics	is a	drug class
+parasympathomimetics	mimics	acetylcholine
+parasympathomimetics	activates	parasympathetic nervous system
+parasympathomimetics	includes	pilocarpine
+parasympathomimetics	includes	bethanechol
+parasympathomimetics	includes	carbachol
+parasympathomimetics	binds to	muscarinic receptors
+parasympathomimetics	binds to	nicotinic receptors
+parasympathomimetics	treats	glaucoma
+parasympathomimetics	treats	dry mouth
+parasympathomimetics	treats	urinary retention
+parasympathomimetics	causes	bradycardia
+parasympathomimetics	causes	miosis
+parasympathomimetics	causes	increased salivation
+parasympathomimetics	causes	bronchoconstriction
+parasympathomimetics	causes	diarrhea
+parasympathomimetics	contraindicated in	asthma
+parasympathomimetics	contraindicated in	peptic ulcer disease
+parasympathomimetics	interacts with	anticholinergics
+parasympathomimetics	interacts with	beta blockers
+parasympathomimetics	metabolized by	cholinesterase
+parasympathomimetics	derived from	choline esters
+parasympathomimetics	used in	ophthalmology
+parasympathomimetics	used in	urology
+parasympathomimetics	mechanism	acetylcholine agonism
+pilocarpine	is a	parasympathomimetic
+pilocarpine	treats	Sjögren’s syndrome
+pilocarpine	administered as	eye drops
+pilocarpine	administered as	oral tablet
+pilocarpine	side effects	sweating
+bethanechol	is a	parasympathomimetic
+bethanechol	treats	neurogenic bladder
+bethanechol	administered as	oral tablet
+bethanechol	administered as	subcutaneous injection
+carbachol	is a	parasympathomimetic
+carbachol	used in	intraocular surgery
+carbachol	administered as	intraocular solution
+acetylcholine	is a	neurotransmitter
+acetylcholine	binds to	muscarinic receptors
+acetylcholine	binds to	nicotinic receptors
+muscarinic receptors	found in	smooth muscle
+muscarinic receptors	found in	glands
+muscarinic receptors	subtypes	M1-M5
+nicotinic receptors	found in	neuromuscular junction
+nicotinic receptors	found in	autonomic ganglia
+parasympathetic nervous system	part of	autonomic nervous system
+parasympathetic nervous system	regulates	rest and digest
+parasympathetic nervous system	innervates	heart
+parasympathetic nervous system	innervates	digestive tract
+parasympathetic nervous system	innervates	bladder
+glaucoma	treated by	pilocarpine
+glaucoma	mechanism	intraocular pressure reduction
+dry mouth	treated by	pilocarpine
+dry mouth	caused by	Sjögren’s syndrome
+urinary retention	treated by	bethanechol
+urinary retention	caused by	neurogenic bladder
+bradycardia	caused by	vagus nerve stimulation
+miosis	caused by	iris sphincter contraction
+increased salivation	caused by	salivary gland stimulation
+bronchoconstriction	caused by	airway smooth muscle contraction
+diarrhea	caused by	intestinal motility increase
+asthma	worsened by	bronchoconstriction
+peptic ulcer disease	worsened by	gastric acid secretion
+anticholinergics	antagonize	parasympathomimetics
+beta blockers	interact with	heart rate
+cholinesterase	breaks down	acetylcholine
+choline esters	include	acetylcholine
+ophthalmology	uses	miotic agents
+urology	uses	bladder stimulants
+Sjögren’s syndrome	symptoms	dry eyes
+neurogenic bladder	causes	urinary dysfunction
+intraocular surgery	requires	pupil constriction
+neurotransmitter	includes	acetylcholine
+smooth muscle	regulated by	parasympathetic nerves
+glands	regulated by	parasympathetic nerves
+M1 receptor	found in	CNS
+M2 receptor	found in	heart
+M3 receptor	found in	smooth muscle
+neuromuscular junction	uses	nicotinic receptors
+autonomic ganglia	uses	nicotinic receptors
+autonomic nervous system	includes	sympathetic division
+rest and digest	controlled by	parasympathetic system
+heart	slowed by	vagus nerve
+digestive tract	stimulated by	parasympathetic input
+bladder	contracted by	parasympathetic input
+intraocular pressure	reduced by	pupil constriction
+iris sphincter	contracted by	muscarinic activation
+salivary glands	stimulated by	acetylcholine
+airway smooth muscle	contracted by	M3 receptors
+intestinal motility	increased by	parasympathetic stimulation
+gastric acid	increased by	M1 receptors
+dry eyes	treated by	artificial tears
+urinary dysfunction	includes	retention
+pupil constriction	achieved by	miotics
+CNS	contains	M1 receptors
+heart rate	slowed by	M2 receptors
+smooth muscle contraction	mediated by	M3 receptors
+sympathetic division	opposes	parasympathetic effects
+vagus nerve	major	parasympathetic nerve
+artificial tears	supplement	natural tear production

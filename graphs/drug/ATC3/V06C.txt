@@ -1,0 +1,100 @@
+infant formulas	are	nutritional products
+infant formulas	substitute for	breast milk
+infant formulas	contain	proteins
+infant formulas	include	carbohydrates
+infant formulas	provide	fats
+infant formulas	enriched with	vitamins
+infant formulas	supplemented with	minerals
+infant formulas	classified as	cow milk-based
+infant formulas	classified as	soy-based
+infant formulas	classified as	hypoallergenic
+infant formulas	designed for	infants
+infant formulas	used in	bottle feeding
+infant formulas	regulated by	FDA
+infant formulas	require	preparation
+infant formulas	may cause	allergies
+allergies	linked to	lactose intolerance
+infant formulas	can lead	digestive issues
+digestive issues	include	constipation
+digestive issues	include	diarrhea
+infant formulas	contain	DHA
+DHA	supports	brain development
+infant formulas	contain	ARA
+ARA	promotes	eye development
+infant formulas	mimic	human milk
+human milk	contains	antibodies
+antibodies	provide	immunity
+infant formulas	lack	immune factors
+infant formulas	available as	powder
+infant formulas	available as	liquid concentrate
+infant formulas	available as	ready-to-feed
+powder formulas	require	mixing
+liquid concentrate formulas	require	dilution
+ready-to-feed formulas	require	no preparation
+infant formulas	have	expiration dates
+infant formulas	stored in	dry places
+infant formulas	sensitive to	temperature
+infant formulas	packaged in	cans
+infant formulas	packaged in	bottles
+infant formulas	marketed by	brands
+brands	include	Similac
+brands	include	Enfamil
+brands	include	Gerber
+Similac	produces	sensitive formulations
+Enfamil	offers	probiotic blends
+Gerber	specializes	organic options
+infant formulas	recommended by	pediatricians
+pediatricians	advise	feeding schedules
+feeding schedules	depend on	age
+age	determines	formula type
+infant formulas	monitored for	safety
+safety	ensured by	quality control
+quality control	involves	testing
+testing	checks for	contaminants
+contaminants	include	bacteria
+bacteria	cause	infections
+infections	lead to	hospitalization
+infant formulas	recalled for	safety issues
+safety issues	involve	packaging defects
+packaging defects	cause	spoilage
+spoilage	results in	nutrient loss
+nutrient loss	affects	growth
+growth	monitored via	weight
+weight	tracked using	growth charts
+growth charts	developed by	WHO
+WHO	sets	infant nutrition standards
+infant nutrition standards	include	iron levels
+iron	prevents	anemia
+anemia	causes	fatigue
+fatigue	impacts	development
+infant formulas	sometimes cause	reflux
+reflux	treated with	thickened formulas
+thickened formulas	reduce	spit-up
+spit-up	common in	newborns
+newborns	have	immature digestive systems
+immature digestive systems	tolerate	gentle formulas
+gentle formulas	contain	hydrolyzed proteins
+hydrolyzed proteins	easier to	digest
+digest	facilitated by	enzymes
+enzymes	breakdown	nutrients
+nutrients	absorbed in	intestines
+intestines	part of	digestive tract
+digestive tract	develops over	time
+time	measured in	months
+months	mark	developmental stages
+developmental stages	require	adjusted nutrition
+adjusted nutrition	provided by	stage-2 formulas
+stage-2 formulas	designed for	older infants
+older infants	consume	solid foods
+solid foods	complement	formula feeding
+formula feeding	transitions to	cow’s milk
+cow’s milk	introduced at	one year
+one year	milestone for	weaning
+weaning	involves	reducing formula
+reducing formula	depends on	pediatric guidance
+pediatric guidance	based on	health status
+health status	assessed via	checkups
+checkups	include	blood tests
+blood tests	measure	nutrient levels
+nutrient levels	indicate	deficiencies
+deficiencies	corrected with	supplements

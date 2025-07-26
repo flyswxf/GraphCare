@@ -1,0 +1,100 @@
+neoplasms of unspecified nature	requires	biopsy
+neoplasms of unspecified nature	may become	malignant tumor
+neoplasms of unspecified nature	requires	pathological examination
+neoplasms of unspecified nature	may require	surgical resection
+neoplasms of unspecified nature	may lead to	metastasis
+neoplasms of unspecified nature	associated with	genetic mutations
+neoplasms of unspecified nature	monitored with	imaging studies
+neoplasms of unspecified nature	may develop into	carcinoma
+neoplasms of unspecified nature	requires	clinical follow-up
+neoplasms of unspecified nature	may cause	organ dysfunction
+neoplasms of unspecified nature	classified by	WHO classification
+neoplasms of unspecified nature	evaluated with	immunohistochemistry
+neoplasms of unspecified nature	may transform into	sarcoma
+neoplasms of unspecified nature	associated with	tumor markers
+neoplasms of unspecified nature	may require	chemotherapy
+neoplasms of unspecified nature	may need	radiation therapy
+neoplasms of unspecified nature	diagnosed by	histopathology
+neoplasms of unspecified nature	may involve	lymph nodes
+neoplasms of unspecified nature	correlates with	patient survival
+neoplasms of unspecified nature	monitored through	tumor staging
+biopsy	determines	tumor grade
+malignant tumor	requires	oncologist consultation
+pathological examination	identifies	cell morphology
+surgical resection	removes	tumor mass
+metastasis	indicates	advanced disease
+genetic mutations	affect	tumor behavior
+imaging studies	include	CT scan
+carcinoma	originates from	epithelial cells
+clinical follow-up	involves	regular checkups
+organ dysfunction	results from	tumor compression
+WHO classification	standardizes	tumor diagnosis
+immunohistochemistry	detects	protein expression
+sarcoma	arises from	mesenchymal tissue
+tumor markers	include	CEA
+chemotherapy	uses	cytotoxic drugs
+radiation therapy	targets	cancer cells
+histopathology	examines	tissue samples
+lymph nodes	may contain	tumor cells
+patient survival	depends on	early detection
+tumor staging	follows	TNM system
+tumor grade	predicts	aggressiveness
+oncologist consultation	recommends	treatment plan
+cell morphology	reveals	differentiation
+tumor mass	causes	space-occupying effect
+advanced disease	requires	palliative care
+tumor behavior	influenced by	microenvironment
+CT scan	provides	cross-sectional images
+epithelial cells	form	body surfaces
+regular checkups	monitor	disease progression
+tumor compression	leads to	symptoms
+tumor diagnosis	guides	management
+protein expression	indicates	cell origin
+mesenchymal tissue	includes	connective tissue
+CEA	elevated in	colorectal cancer
+cytotoxic drugs	kill	rapidly dividing cells
+cancer cells	damaged by	radiation
+tissue samples	processed for	microscopic examination
+tumor cells	spread through	lymphatic system
+early detection	improves	prognosis
+TNM system	describes	tumor extent
+aggressiveness	determines	treatment intensity
+treatment plan	considers	patient factors
+differentiation	indicates	tumor maturity
+space-occupying effect	causes	neurological deficits
+palliative care	focuses on	symptom relief
+microenvironment	includes	blood vessels
+cross-sectional images	show	tumor location
+body surfaces	include	skin
+disease progression	assessed by	serial imaging
+symptoms	prompt	medical attention
+management	involves	multidisciplinary team
+cell origin	helps	classification
+connective tissue	supports	organs
+colorectal cancer	screened by	colonoscopy
+rapidly dividing cells	targeted by	antimetabolites
+radiation	causes	DNA damage
+microscopic examination	performed by	pathologist
+lymphatic system	transports	immune cells
+prognosis	depends on	response to treatment
+tumor extent	determines	resectability
+treatment intensity	balanced with	side effects
+patient factors	include	comorbidities
+tumor maturity	inversely correlates with	malignancy
+neurological deficits	evaluated by	neurological exam
+symptom relief	achieved with	analgesics
+blood vessels	supply	nutrients
+tumor location	affects	surgical approach
+skin	examined for	lesions
+serial imaging	tracks	tumor growth
+medical attention	leads to	diagnosis
+multidisciplinary team	includes	surgeons
+classification	aids in	prognosis prediction
+organs	composed of	specialized cells
+colonoscopy	allows for	polyp removal
+antimetabolites	interfere with	DNA synthesis
+DNA damage	triggers	apoptosis
+pathologist	provides	diagnostic report
+immune cells	attack	foreign bodies
+response to treatment	measured by	tumor shrinkage
+resectability	assessed by	preoperative imaging

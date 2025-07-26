@@ -1,0 +1,100 @@
+burns	is a	injury
+burns	may cause	pain
+burns	may cause	infection
+burns	may cause	scarring
+burns	may cause	shock
+burns	may cause	dehydration
+burns	may cause	hypothermia
+burns	classified by	depth
+first-degree burn	affects	epidermis
+second-degree burn	affects	dermis
+third-degree burn	affects	subcutaneous tissue
+fourth-degree burn	affects	muscle
+burns	treated with	wound cleaning
+burns	treated with	dressings
+burns	treated with	antibiotics
+burns	treated with	pain medication
+burns	treated with	skin grafts
+burns	treated with	fluid resuscitation
+burns	requires	hospitalization
+burns	assessed by	rule of nines
+burns	caused by	heat
+burns	caused by	chemicals
+burns	caused by	electricity
+burns	caused by	radiation
+burns	caused by	friction
+burns	complication	sepsis
+burns	complication	contractures
+burns	complication	psychological distress
+burns	prevention	fire safety
+burns	prevention	protective clothing
+silver sulfadiazine	treats	burns
+silver sulfadiazine	prevents	infection
+hydrogel	used for	burn dressings
+aloe vera	soothes	burns
+paracetamol	relieves	burn pain
+opioids	relieve	severe burn pain
+burn patient	needs	nutritional support
+burn patient	at risk for	malnutrition
+burn patient	may require	surgery
+burn patient	may need	rehabilitation
+burn center	specializes in	burn treatment
+burn severity	depends on	TBSA
+TBSA	stands for	total body surface area
+escharotomy	procedure for	burn treatment
+debridement	removes	dead tissue
+skin graft	replaces	damaged skin
+autograft	uses	patient's skin
+allograft	uses	donor skin
+xenograft	uses	animal skin
+burn wound	may develop	cellulitis
+burn wound	may develop	necrotizing fasciitis
+burn injury	increases	metabolic demand
+burn injury	causes	hypermetabolism
+burn injury	leads to	catabolism
+burn recovery	requires	physical therapy
+burn recovery	requires	occupational therapy
+burn survivor	may experience	PTSD
+children	at higher risk for	burns
+elderly	at higher risk for	burn complications
+diabetics	heal slower from	burns
+smoking	impairs	burn healing
+alcoholism	increases	burn risk
+flame	causes	most severe burns
+scald	common in	children
+chemical burn	requires	irrigation
+electrical burn	may cause	internal damage
+radiation burn	caused by	UV exposure
+frostbite	similar to	burn injury
+burn clinic	provides	outpatient care
+burn rehabilitation	improves	function
+burn scar	may require	laser therapy
+burn scar	may require	pressure garments
+burn scar	may cause	restricted movement
+burn research	focuses on	skin regeneration
+stem cells	potential treatment for	burns
+artificial skin	used for	burn treatment
+burn first aid	involves	cooling
+burn first aid	avoids	ice
+burn first aid	avoids	butter
+burn first aid	removes	jewelry
+burn team	includes	surgeons
+burn team	includes	nurses
+burn team	includes	dietitians
+burn team	includes	psychologists
+burn unit	has	specialized equipment
+burn assessment	uses	Lund-Browder chart
+burn depth	assessed by	laser Doppler
+burn pain	managed with	multimodal approach
+burn itching	treated with	antihistamines
+burn edema	managed with	elevation
+burn shock	treated with	IV fluids
+Parkland formula	calculates	fluid needs
+burn inhalation injury	requires	bronchoscopy
+carbon monoxide	risk in	burn patients
+cyanide	risk in	burn patients
+burn prevention	includes	smoke detectors
+burn prevention	includes	water heater regulation
+burn prevention	includes	childproofing
+burn registry	tracks	burn epidemiology
+burn outcomes	measured by	survival rates

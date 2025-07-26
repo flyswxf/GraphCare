@@ -1,0 +1,100 @@
+other drugs used in diabetes in ATC	includes	metformin
+other drugs used in diabetes in ATC	includes	sulfonylureas
+other drugs used in diabetes in ATC	includes	thiazolidinediones
+other drugs used in diabetes in ATC	includes	DPP-4 inhibitors
+other drugs used in diabetes in ATC	includes	GLP-1 receptor agonists
+other drugs used in diabetes in ATC	includes	SGLT2 inhibitors
+other drugs used in diabetes in ATC	includes	insulin
+metformin	belongs to	biguanides
+metformin	mechanism of action	decreases hepatic glucose production
+metformin	side effect	lactic acidosis
+metformin	contraindicated in	renal impairment
+sulfonylureas	mechanism of action	stimulates insulin secretion
+sulfonylureas	includes	glibenclamide
+sulfonylureas	includes	gliclazide
+sulfonylureas	side effect	hypoglycemia
+sulfonylureas	contraindicated in	sulfa allergy
+thiazolidinediones	includes	pioglitazone
+thiazolidinediones	includes	rosiglitazone
+thiazolidinediones	mechanism of action	increases insulin sensitivity
+thiazolidinediones	side effect	weight gain
+thiazolidinediones	contraindicated in	heart failure
+DPP-4 inhibitors	includes	sitagliptin
+DPP-4 inhibitors	includes	vildagliptin
+DPP-4 inhibitors	mechanism of action	increases GLP-1 activity
+DPP-4 inhibitors	side effect	nasopharyngitis
+GLP-1 receptor agonists	includes	exenatide
+GLP-1 receptor agonists	includes	liraglutide
+GLP-1 receptor agonists	mechanism of action	stimulates insulin secretion
+GLP-1 receptor agonists	administration route	subcutaneous injection
+GLP-1 receptor agonists	side effect	nausea
+GLP-1 receptor agonists	benefit	weight loss
+SGLT2 inhibitors	includes	empagliflozin
+SGLT2 inhibitors	includes	dapagliflozin
+SGLT2 inhibitors	mechanism of action	reduces glucose reabsorption
+SGLT2 inhibitors	side effect	urinary tract infections
+SGLT2 inhibitors	benefit	cardiovascular protection
+SGLT2 inhibitors	contraindicated in	severe renal impairment
+insulin	types	rapid-acting
+insulin	types	long-acting
+insulin	administration route	subcutaneous injection
+insulin	side effect	hypoglycemia
+insulin	requires	blood glucose monitoring
+insulin	storage requirement	refrigeration
+metformin	first-line therapy for	type 2 diabetes
+sulfonylureas	risk of	weight gain
+thiazolidinediones	association with	bone fractures
+DPP-4 inhibitors	neutral effect on	weight
+GLP-1 receptor agonists	reduces	cardiovascular risk
+SGLT2 inhibitors	causes	osmotic diuresis
+insulin	required for	type 1 diabetes
+metformin	combined with	lifestyle modification
+sulfonylureas	interacts with	alcohol
+thiazolidinediones	monitoring required for	liver function
+DPP-4 inhibitors	oral administration of	tablets
+GLP-1 receptor agonists	administered	once weekly
+SGLT2 inhibitors	causes	genital mycotic infections
+insulin	types	premixed
+metformin	contraindicated in	liver disease
+sulfonylureas	duration of action	variable
+thiazolidinediones	increases risk of	edema
+DPP-4 inhibitors	well tolerated in	elderly
+GLP-1 receptor agonists	delays	gastric emptying
+SGLT2 inhibitors	promotes	weight loss
+insulin	requires	dosage adjustment
+metformin	reduces	HbA1c
+sulfonylureas	generic availability	yes
+thiazolidinediones	black box warning for	heart failure
+DPP-4 inhibitors	fixed-dose combinations available
+GLP-1 receptor agonists	mimics	incretin hormones
+SGLT2 inhibitors	increases	urinary glucose excretion
+insulin	peak time varies by	formulation
+metformin	improves	insulin sensitivity
+sulfonylureas	risk of	beta-cell exhaustion
+thiazolidinediones	increases	subcutaneous fat
+DPP-4 inhibitors	neutral effect on	blood pressure
+GLP-1 receptor agonists	reduces	postprandial glucose
+SGLT2 inhibitors	decreases	blood pressure
+insulin	measurement units	international units
+metformin	rare side effect	vitamin B12 deficiency
+sulfonylureas	stimulates	pancreatic beta cells
+thiazolidinediones	activates	PPAR-gamma receptors
+DPP-4 inhibitors	inhibits	DPP-4 enzyme
+GLP-1 receptor agonists	extends	GLP-1 half-life
+SGLT2 inhibitors	blocks	SGLT2 transporters
+insulin	regulates	blood glucose
+metformin	requires	dose titration
+sulfonylureas	binds to	SUR1 receptor
+thiazolidinediones	improves	adipocyte function
+DPP-4 inhibitors	enhances	endogenous GLP-1
+GLP-1 receptor agonists	administered with	pen device
+SGLT2 inhibitors	increases	glucosuria
+insulin	types	intermediate-acting
+metformin	reduces	cardiovascular risk
+sulfonylureas	first-generation includes	tolbutamide
+thiazolidinediones	decreases	insulin resistance
+DPP-4 inhibitors	pharmacokinetics	renal-dependent
+GLP-1 receptor agonists	contraindicated in	medullary thyroid cancer
+SGLT2 inhibitors	monitoring required for	volume status
+insulin	storage	room temperature permitted
+other drugs used in diabetes in ATC	classified under	A10

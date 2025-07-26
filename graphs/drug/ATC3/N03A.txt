@@ -1,0 +1,100 @@
+antiepileptics	is a	drug class
+antiepileptics	treats	epilepsy
+antiepileptics	prevents	seizures
+antiepileptics	includes	phenytoin
+antiepileptics	includes	valproate
+antiepileptics	includes	carbamazepine
+antiepileptics	includes	lamotrigine
+antiepileptics	mechanism	sodium channel blockade
+antiepileptics	mechanism	GABA enhancement
+antiepileptics	side effects	dizziness
+antiepileptics	side effects	drowsiness
+antiepileptics	side effects	rash
+antiepileptics	contraindicated in	pregnancy
+phenytoin	causes	gingival hyperplasia
+valproate	risk	hepatotoxicity
+carbamazepine	risk	hyponatremia
+lamotrigine	risk	Stevens-Johnson syndrome
+antiepileptics	monitored by	serum levels
+antiepileptics	interacts with	oral contraceptives
+antiepileptics	interacts with	warfarin
+antiepileptics	used for	neuropathic pain
+antiepileptics	used for	bipolar disorder
+epilepsy	classified as	focal seizures
+epilepsy	classified as	generalized seizures
+seizures	symptom of	brain injury
+seizures	caused by	electrolyte imbalance
+sodium channel blockade	reduces	neuronal excitability
+GABA enhancement	inhibits	neuronal activity
+dizziness	may lead to	falls
+drowsiness	affects	driving ability
+rash	requires	drug discontinuation
+pregnancy	increases	teratogenicity risk
+gingival hyperplasia	managed by	dental care
+hepatotoxicity	monitored by	liver enzymes
+hyponatremia	symptom of	confusion
+Stevens-Johnson syndrome	is a	medical emergency
+serum levels	guide	dosage adjustment
+oral contraceptives	reduced by	enzyme induction
+warfarin	effect altered by	enzyme induction
+neuropathic pain	treated with	gabapentin
+bipolar disorder	managed by	mood stabilizers
+focal seizures	originate in	one brain region
+generalized seizures	involve	entire brain
+brain injury	caused by	trauma
+brain injury	caused by	stroke
+electrolyte imbalance	includes	hypocalcemia
+neuronal excitability	leads to	seizure activity
+neuronal activity	modulated by	neurotransmitters
+falls	risk factor for	fractures
+driving ability	restricted in	epilepsy patients
+drug discontinuation	followed by	alternative therapy
+teratogenicity risk	highest in	first trimester
+dental care	prevents	gum disease
+liver enzymes	elevated in	liver damage
+confusion	symptom of	severe hyponatremia
+medical emergency	requires	hospitalization
+dosage adjustment	based on	patient weight
+enzyme induction	increases	drug metabolism
+enzyme induction	decreases	drug efficacy
+gabapentin	is a	antiepileptic
+mood stabilizers	include	lithium
+one brain region	example	temporal lobe
+entire brain	affected in	tonic-clonic seizures
+trauma	can cause	post-traumatic epilepsy
+stroke	risk factor for	late-onset epilepsy
+hypocalcemia	caused by	vitamin D deficiency
+seizure activity	recorded by	EEG
+neurotransmitters	include	glutamate
+fractures	complication of	osteoporosis
+epilepsy patients	advised	seizure diaries
+alternative therapy	may include	surgery
+first trimester	critical for	fetal development
+gum disease	linked to	cardiovascular disease
+liver damage	symptom of	jaundice
+severe hyponatremia	treated with	saline infusion
+hospitalization	involves	intensive care
+patient weight	determines	drug clearance
+drug metabolism	occurs in	liver
+drug efficacy	measured by	therapeutic index
+lithium	side effect	nephrotoxicity
+temporal lobe	associated with	memory
+tonic-clonic seizures	characterized by	muscle rigidity
+post-traumatic epilepsy	develops after	head injury
+late-onset epilepsy	common in	elderly
+vitamin D deficiency	corrected by	supplements
+EEG	detects	abnormal brain waves
+glutamate	is a	excitatory neurotransmitter
+osteoporosis	risk factor for	hip fractures
+seizure diaries	track	seizure frequency
+surgery	option for	refractory epilepsy
+fetal development	affected by	maternal health
+cardiovascular disease	linked to	inflammation
+jaundice	symptom of	bilirubin buildup
+saline infusion	corrects	sodium levels
+intensive care	manages	life-threatening conditions
+drug clearance	influenced by	kidney function
+liver	metabolizes	toxins
+therapeutic index	measures	safety margin
+nephrotoxicity	monitored by	creatinine levels
+memory	impaired in	temporal lobe epilepsy

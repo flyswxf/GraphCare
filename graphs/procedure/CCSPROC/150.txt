@@ -1,0 +1,100 @@
+division of joint capsule	is a	surgical procedure
+ligament	is a	connective tissue
+cartilage	is a	connective tissue
+division of joint capsule	involves	ligament
+division of joint capsule	involves	cartilage
+ligament	connects	bones
+cartilage	cushions	joints
+ligament tear	requires	surgical repair
+cartilage damage	requires	surgical repair
+division of joint capsule	treats	joint instability
+joint instability	caused by	ligament injury
+joint instability	caused by	cartilage damage
+division of joint capsule	performed using	arthroscopy
+arthroscopy	is a	minimally invasive surgery
+division of joint capsule	followed by	physical therapy
+physical therapy	improves	joint mobility
+physical therapy	reduces	post-surgical stiffness
+ligament	prevents	excessive joint movement
+cartilage	absorbs	shock
+division of joint capsule	may lead	joint swelling
+joint swelling	managed with	anti-inflammatory drugs
+anti-inflammatory drugs	include	NSAIDs
+NSAIDs	reduce	pain
+NSAIDs	reduce	inflammation
+cartilage damage	leads to	osteoarthritis
+osteoarthritis	causes	chronic pain
+chronic pain	treated with	analgesics
+ligament injury	common in	athletes
+athletes	prone to	joint injuries
+division of joint capsule	requires	anesthesia
+anesthesia	includes	local anesthesia
+anesthesia	includes	general anesthesia
+general anesthesia	induces	unconsciousness
+local anesthesia	numbs	surgical area
+division of joint capsule	risks	infection
+infection	prevented with	antibiotics
+antibiotics	kill	bacteria
+division of joint capsule	may require	post-op immobilization
+post-op immobilization	uses	brace
+brace	supports	joint
+ligament	composed of	collagen fibers
+cartilage	lacks	blood vessels
+cartilage	heals	slowly
+slow healing	prolongs	recovery time
+recovery time	depends on	patient age
+patient age	affects	tissue regeneration
+division of joint capsule	alternative to	joint replacement
+joint replacement	involves	prosthetic implant
+prosthetic implant	mimics	natural joint
+division of joint capsule	cheaper than	joint replacement
+ligament injury	diagnosed with	MRI
+MRI	provides	detailed images
+cartilage damage	diagnosed with	X-ray
+X-ray	detects	bone abnormalities
+division of joint capsule	contraindicated in	severe arthritis
+severe arthritis	treated with	joint fusion
+joint fusion	limits	joint movement
+division of joint capsule	preserves	joint function
+joint function	measured by	range of motion
+range of motion	improved by	stretching
+stretching	prevents	muscle atrophy
+muscle atrophy	weakens	joint support
+ligament injury	classified as	sprain
+sprain	graded by	severity
+cartilage damage	graded by	Outerbridge scale
+Outerbridge scale	assesses	cartilage lesions
+division of joint capsule	performed by	orthopedic surgeon
+orthopedic surgeon	specializes	musculoskeletal system
+musculoskeletal system	includes	joints
+joints	enable	movement
+movement	controlled by	muscles
+muscles	attached to	bones
+bones	connected by	ligaments
+ligaments	stabilize	joints
+cartilage	found in	synovial joints
+synovial joints	contain	synovial fluid
+synovial fluid	lubricates	joints
+division of joint capsule	affects	synovial membrane
+synovial membrane	produces	synovial fluid
+division of joint capsule	alters	joint biomechanics
+joint biomechanics	studied in	kinesiology
+kinesiology	examines	body movement
+body movement	essential for	daily activities
+daily activities	impacted by	joint pain
+joint pain	alleviated by	rest
+rest	promotes	tissue healing
+tissue healing	involves	inflammation phase
+inflammation phase	initiates	repair process
+repair process	requires	collagen synthesis
+collagen synthesis	depends on	vitamin C
+vitamin C	found in	citrus fruits
+citrus fruits	boost	immune system
+immune system	fights	infections
+division of joint capsule	monitored with	follow-up visits
+follow-up visits	assess	recovery progress
+recovery progress	evaluated by	physiotherapist
+physiotherapist	designs	rehabilitation plan
+rehabilitation plan	includes	strengthening exercises
+strengthening exercises	build	muscle support
+muscle support	protects	joints

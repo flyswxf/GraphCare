@@ -1,0 +1,104 @@
+inflammation and infection detection	is a	medical procedure
+inflammation and infection detection	uses	biomarkers
+biomarkers	include	C-reactive protein
+biomarkers	include	procalcitonin
+inflammation and infection detection	performed via	blood test
+blood test	measures	white blood cell count
+white blood cell count	indicates	immune response
+inflammation and infection detection	aids in	diagnosis
+diagnosis	guides	treatment plan
+treatment plan	may include	antibiotics
+antibiotics	treat	bacterial infection
+bacterial infection	causes	inflammation
+inflammation	may lead	tissue damage
+tissue damage	requires	medical intervention
+medical intervention	involves	surgery
+surgery	risks	complications
+complications	include	sepsis
+sepsis	requires	intensive care
+intensive care	involves	monitoring
+monitoring	uses	vital signs
+vital signs	include	heart rate
+heart rate	reflects	patient condition
+patient condition	determines	prognosis
+prognosis	influences	recovery time
+recovery time	affects	hospital stay
+hospital stay	increases	healthcare cost
+healthcare cost	impacts	insurance coverage
+insurance coverage	dictates	treatment options
+treatment options	may include	immunotherapy
+immunotherapy	modulates	immune system
+immune system	defends against	pathogens
+pathogens	cause	infections
+infections	detected via	PCR test
+PCR test	amplifies	genetic material
+genetic material	identifies	pathogen type
+pathogen type	determines	antibiotic resistance
+antibiotic resistance	complicates	treatment
+treatment	may require	alternative drugs
+alternative drugs	have	side effects
+side effects	monitored via	lab tests
+lab tests	assess	liver function
+liver function	impacts	drug metabolism
+drug metabolism	varies by	patient age
+patient age	affects	immune response
+immune response	influences	infection severity
+infection severity	predicts	mortality risk
+mortality risk	assessed via	scoring systems
+scoring systems	use	clinical data
+clinical data	collected via	electronic records
+electronic records	stored in	databases
+databases	enable	research
+research	improves	diagnostic methods
+diagnostic methods	evolve with	technology
+technology	includes	AI algorithms
+AI algorithms	analyze	medical images
+medical images	reveal	inflammation sites
+inflammation sites	correlate with	pain
+pain	managed via	analgesics
+analgesics	prescribed by	physicians
+physicians	follow	clinical guidelines
+clinical guidelines	based on	evidence
+evidence	gathered from	trials
+trials	test	new drugs
+new drugs	target	specific pathways
+specific pathways	regulate	immune cells
+immune cells	produce	cytokines
+cytokines	mediate	inflammation
+inflammation	measured via	imaging
+imaging	techniques include	MRI
+MRI	detects	soft tissue changes
+soft tissue changes	indicate	disease progression
+disease progression	tracked via	follow-ups
+follow-ups	schedule	appointments
+appointments	require	patient compliance
+patient compliance	affects	outcomes
+outcomes	evaluated via	metrics
+metrics	include	readmission rates
+readmission rates	reflect	care quality
+care quality	depends on	hospital resources
+hospital resources	include	staff
+staff	trained in	protocols
+protocols	standardize	procedures
+procedures	minimize	errors
+errors	lead to	malpractice claims
+malpractice claims	increase	legal costs
+legal costs	impact	hospital budget
+hospital budget	allocates	equipment
+equipment	such as	ultrasound machines
+ultrasound machines	assist in	abscess detection
+abscess detection	requires	drainage
+drainage	performed by	surgeons
+surgeons	consult	radiologists
+radiologists	interpret	scans
+scans	show	infection spread
+infection spread	determines	antibiotic choice
+antibiotic choice	considers	allergies
+allergies	documented in	patient history
+patient history	reviewed by	nurses
+nurses	administer	medications
+medications	dispensed by	pharmacies
+pharmacies	regulated by	health authorities
+health authorities	approve	new tests
+new tests	reduce	detection time
+detection time	critical for	sepsis management

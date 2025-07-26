@@ -1,0 +1,100 @@
+ophthalmological preparations	belong to	ATC classification
+otological preparations	belong to	ATC classification
+ophthalmological preparations	treat	eye diseases
+otological preparations	treat	ear diseases
+eye drops	are type of	ophthalmological preparations
+ear drops	are type of	otological preparations
+ophthalmic ointments	are type of	ophthalmological preparations
+otic solutions	are type of	otological preparations
+ophthalmological preparations	contain	active ingredients
+otological preparations	contain	active ingredients
+active ingredients	have	pharmacological effects
+eye drops	used for	dry eye syndrome
+ear drops	used for	ear infections
+ophthalmic ointments	used for	eye inflammation
+otic solutions	used for	earwax removal
+ophthalmological preparations	require	sterile formulation
+otological preparations	require	sterile formulation
+sterile formulation	prevents	microbial contamination
+eye drops	may cause	eye irritation
+ear drops	may cause	ear discomfort
+ophthalmic ointments	provide	prolonged effect
+otic solutions	provide	local treatment
+ophthalmological preparations	classified under	ATC S01
+otological preparations	classified under	ATC S02
+ATC classification	facilitates	drug standardization
+eye drops	contain	preservatives
+ear drops	contain	antimicrobial agents
+preservatives	prevent	bacterial growth
+antimicrobial agents	treat	infections
+ophthalmological preparations	used in	postoperative care
+otological preparations	used in	postoperative care
+postoperative care	prevents	complications
+eye drops	require	proper administration technique
+ear drops	require	proper administration technique
+proper administration	ensures	treatment efficacy
+ophthalmological preparations	interact with	contact lenses
+otological preparations	interact with	hearing aids
+contact lenses	may absorb	eye drop components
+hearing aids	may interfere with	ear drop application
+ophthalmological preparations	have	expiration dates
+otological preparations	have	expiration dates
+expiration dates	indicate	stability period
+eye drops	packaged in	dropper bottles
+ear drops	packaged in	dropper bottles
+dropper bottles	allow	precise dosing
+ophthalmological preparations	require	storage conditions
+otological preparations	require	storage conditions
+storage conditions	maintain	product stability
+eye drops	treat	glaucoma
+ear drops	treat	otitis media
+glaucoma	requires	intraocular pressure reduction
+otitis media	causes	ear pain
+ophthalmological preparations	include	artificial tears
+otological preparations	include	cerumenolytics
+artificial tears	relieve	dry eyes
+cerumenolytics	soften	earwax
+ophthalmological preparations	contraindicated in	eye injuries
+otological preparations	contraindicated in	eardrum perforation
+eye injuries	require	medical evaluation
+eardrum perforation	requires	medical evaluation
+ophthalmological preparations	undergo	clinical trials
+otological preparations	undergo	clinical trials
+clinical trials	assess	safety profile
+eye drops	may interact with	systemic medications
+ear drops	may interact with	systemic medications
+systemic medications	may alter	local effects
+ophthalmological preparations	monitored by	regulatory agencies
+otological preparations	monitored by	regulatory agencies
+regulatory agencies	ensure	product quality
+ophthalmological preparations	have	therapeutic indications
+otological preparations	have	therapeutic indications
+therapeutic indications	guide	clinical use
+eye drops	vary in	viscosity
+ear drops	vary in	composition
+viscosity	affects	retention time
+composition	determines	mechanism of action
+ophthalmological preparations	subject to	prescription requirements
+otological preparations	subject to	prescription requirements
+prescription requirements	ensure	proper use
+eye drops	may cause	allergic reactions
+ear drops	may cause	allergic reactions
+allergic reactions	manifest as	inflammation
+ophthalmological preparations	contain	buffers
+otological preparations	contain	buffers
+buffers	maintain	pH balance
+eye drops	used for	diagnostic purposes
+ear drops	used for	diagnostic purposes
+diagnostic purposes	include	fluorescein staining
+ophthalmological preparations	require	compatibility testing
+otological preparations	require	compatibility testing
+compatibility testing	ensures	formulation stability
+eye drops	classified by	therapeutic class
+ear drops	classified by	therapeutic class
+therapeutic class	determines	clinical application
+ophthalmological preparations	differ in	osmolality
+otological preparations	differ in	osmolality
+osmolality	affects	tissue tolerance
+ophthalmological preparations	influence	visual acuity
+otological preparations	influence	hearing ability
+visual acuity	depends on	eye health

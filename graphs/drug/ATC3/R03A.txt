@@ -1,0 +1,100 @@
+adrenergics	is a	drug class
+inhalants	is a	drug class
+adrenergics	includes	bronchodilators
+inhalants	includes	corticosteroids
+adrenergics	activates	adrenergic receptors
+adrenergics	treats	asthma
+adrenergics	treats	COPD
+inhalants	delivers	medication
+inhalants	used for	respiratory diseases
+adrenergics	has subtype	beta-2 agonists
+beta-2 agonists	are	adrenergics
+beta-2 agonists	relax	bronchial muscles
+inhalants	requires	inhaler device
+inhaler device	delivers	adrenergics
+adrenergics	causes	tachycardia
+adrenergics	causes	tremors
+inhalants	reduces	inflammation
+inhalants	prevents	asthma attacks
+adrenergics	interacts with	beta blockers
+beta blockers	antagonize	adrenergics
+adrenergics	increases	heart rate
+adrenergics	increases	blood pressure
+inhalants	contains	propellants
+propellants	aid	drug delivery
+adrenergics	has	short-acting forms
+adrenergics	has	long-acting forms
+short-acting adrenergics	relieve	acute symptoms
+long-acting adrenergics	control	chronic symptoms
+inhalants	has	metered-dose inhalers
+inhalants	has	dry powder inhalers
+metered-dose inhalers	use	canister
+dry powder inhalers	require	deep inhalation
+adrenergics	metabolized by	liver
+adrenergics	excreted by	kidneys
+inhalants	avoids	first-pass metabolism
+inhalants	provides	rapid onset
+adrenergics	contraindicated in	arrhythmias
+adrenergics	contraindicated in	hypertension
+inhalants	minimizes	systemic side effects
+inhalants	targets	lungs
+adrenergics	mimics	adrenaline
+adrenaline	is a	neurotransmitter
+inhalants	improves	lung function
+lung function	measured by	spirometry
+adrenergics	prescribed for	bronchospasm
+bronchospasm	caused by	asthma
+inhalants	combines with	anticholinergics
+anticholinergics	complement	adrenergics
+adrenergics	stimulates	sympathetic nervous system
+sympathetic nervous system	regulates	fight-or-flight response
+inhalants	requires	proper technique
+improper technique	reduces	drug efficacy
+adrenergics	has	receptor selectivity
+receptor selectivity	determines	drug specificity
+inhalants	has	particle size requirement
+particle size	affects	lung deposition
+adrenergics	can cause	hypokalemia
+hypokalemia	is a	electrolyte imbalance
+inhalants	may cause	oral thrush
+oral thrush	is a	fungal infection
+adrenergics	used in	emergency care
+emergency care	includes	anaphylaxis treatment
+inhalants	preferred for	pediatric patients
+pediatric patients	have	smaller airways
+adrenergics	develops	tolerance
+tolerance	requires	dose adjustment
+inhalants	monitored by	peak flow meter
+peak flow meter	measures	airflow
+adrenergics	sometimes causes	paradoxical bronchospasm
+paradoxical bronchospasm	worsens	breathing
+inhalants	sometimes contains	preservatives
+preservatives	may cause	allergic reactions
+adrenergics	competes with	endogenous catecholamines
+endogenous catecholamines	include	norepinephrine
+inhalants	formulated as	suspensions
+suspensions	require	shaking before use
+adrenergics	has	stereoisomers
+stereoisomers	have	different potencies
+inhalants	affected by	humidity
+humidity	alters	drug stability
+adrenergics	interacts with	MAO inhibitors
+MAO inhibitors	potentiate	adrenergics
+inhalants	sometimes needs	spacer device
+spacer device	improves	drug delivery
+adrenergics	contraindicated with	thyroid disorders
+thyroid disorders	increase	adrenergic sensitivity
+inhalants	evaluates by	FEV1 measurement
+FEV1 measurement	assesses	obstruction severity
+adrenergics	sometimes causes	nervousness
+nervousness	is a	CNS effect
+inhalants	requires	regular cleaning
+improper cleaning	leads	device contamination
+adrenergics	varies in	onset duration
+onset duration	influences	dosing frequency
+inhalants	sometimes causes	cough
+cough	is a	local irritation
+adrenergics	has	ceiling effect
+ceiling effect	limits	dose response
+inhalants	absorbs through	alveolar membrane
+alveolar membrane	enables	rapid absorption

@@ -1,0 +1,100 @@
+other hematological agents	classified under	ATC system
+other hematological agents	belong to	blood products
+other hematological agents	include	anticoagulants
+other hematological agents	include	antithrombotic agents
+other hematological agents	include	hemostatics
+other hematological agents	include	blood substitutes
+other hematological agents	treat	blood disorders
+other hematological agents	affect	coagulation cascade
+other hematological agents	interact with	platelets
+other hematological agents	used in	surgeries
+other hematological agents	prescribed for	thrombosis
+other hematological agents	monitored via	blood tests
+other hematological agents	have	contraindications
+other hematological agents	require	dosage adjustment
+other hematological agents	stored in	hospitals
+other hematological agents	administered by	healthcare professionals
+other hematological agents	have	side effects
+side effects	can include	bleeding
+side effects	can include	allergic reactions
+side effects	can include	hypotension
+anticoagulants	prevent	blood clots
+anticoagulants	include	warfarin
+anticoagulants	include	heparin
+anticoagulants	include	direct oral anticoagulants
+anticoagulants	require	monitoring
+anticoagulants	interact with	vitamin K
+anticoagulants	reversed by	protamine sulfate
+anticoagulants	contraindicated in	pregnancy
+antithrombotic agents	prevent	thrombosis
+antithrombotic agents	include	antiplatelets
+antiplatelets	include	aspirin
+antiplatelets	include	clopidogrel
+antiplatelets	affect	platelet aggregation
+hemostatics	promote	blood clotting
+hemostatics	used for	bleeding control
+hemostatics	include	tranexamic acid
+hemostatics	include	fibrin sealants
+hemostatics	applied to	wounds
+blood substitutes	replace	lost blood
+blood substitutes	contain	hemoglobin solutions
+blood substitutes	used in	emergencies
+blood substitutes	require	compatibility testing
+heparin	measured in	units
+heparin	requires	aPTT monitoring
+warfarin	requires	INR monitoring
+warfarin	affected by	dietary vitamin K
+direct oral anticoagulants	include	dabigatran
+direct oral anticoagulants	include	rivaroxaban
+direct oral anticoagulants	require	renal monitoring
+aspirin	inhibits	COX enzymes
+aspirin	prevents	platelet activation
+clopidogrel	inhibits	P2Y12 receptor
+tranexamic acid	inhibits	fibrinolysis
+fibrin sealants	contain	fibrinogen
+fibrin sealants	contain	thrombin
+hemoglobin solutions	carry	oxygen
+hemoglobin solutions	derived from	human blood
+human blood	processed into	blood products
+blood products	regulated by	health authorities
+health authorities	set	quality standards
+quality standards	ensure	patient safety
+patient safety	requires	proper storage
+proper storage	maintains	drug efficacy
+drug efficacy	affects	treatment outcomes
+treatment outcomes	measured by	clinical trials
+clinical trials	evaluate	new hematological agents
+new hematological agents	developed by	pharmaceutical companies
+pharmaceutical companies	invest in	research
+research	leads to	drug discoveries
+drug discoveries	require	FDA approval
+FDA approval	based on	safety data
+safety data	collected from	phase trials
+phase trials	test	drug effects
+drug effects	vary by	patient factors
+patient factors	include	age
+patient factors	include	weight
+patient factors	include	kidney function
+kidney function	affects	drug clearance
+drug clearance	determines	dosing frequency
+dosing frequency	affects	patient compliance
+patient compliance	impacts	treatment success
+treatment success	reduces	hospital readmissions
+hospital readmissions	increase	healthcare costs
+healthcare costs	influenced by	drug prices
+drug prices	affected by	patents
+patents	protect	intellectual property
+intellectual property	drives	innovation
+innovation	improves	drug formulations
+drug formulations	determine	administration routes
+administration routes	include	intravenous
+administration routes	include	oral
+oral administration	requires	absorption
+absorption	affected by	food interactions
+food interactions	modify	drug bioavailability
+drug bioavailability	influences	therapeutic effects
+therapeutic effects	target	disease pathways
+disease pathways	involve	molecular mechanisms
+molecular mechanisms	studied in	pharmacology
+pharmacology	informs	clinical practice
+clinical practice	guides	hematological agent use

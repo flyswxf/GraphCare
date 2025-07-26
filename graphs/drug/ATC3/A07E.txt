@@ -1,0 +1,100 @@
+intestinal antiinflammatory agents	is a	drug class
+intestinal antiinflammatory agents	treats	inflammatory bowel disease
+inflammatory bowel disease	includes	Crohn's disease
+inflammatory bowel disease	includes	ulcerative colitis
+intestinal antiinflammatory agents	contains	aminosalicylates
+aminosalicylates	example	mesalamine
+mesalamine	mechanism	inhibits prostaglandins
+prostaglandins	role	inflammation mediators
+intestinal antiinflammatory agents	contains	corticosteroids
+corticosteroids	example	prednisone
+prednisone	side effect	osteoporosis
+intestinal antiinflammatory agents	contains	immunomodulators
+immunomodulators	example	azathioprine
+azathioprine	mechanism	suppresses immune system
+intestinal antiinflammatory agents	contains	biologic therapies
+biologic therapies	target	TNF-α
+TNF-α	role	proinflammatory cytokine
+biologic therapies	example	infliximab
+infliximab	administration	intravenous
+intestinal antiinflammatory agents	reduces	intestinal inflammation
+intestinal inflammation	causes	abdominal pain
+intestinal antiinflammatory agents	improves	diarrhea
+diarrhea	symptom of	IBD
+intestinal antiinflammatory agents	prevents	disease flares
+disease flares	require	hospitalization
+intestinal antiinflammatory agents	combined with	antibiotics
+antibiotics	treat	bacterial infections
+intestinal antiinflammatory agents	contraindicated in	bowel obstruction
+bowel obstruction	complication of	IBD
+intestinal antiinflammatory agents	monitored by	colonoscopy
+colonoscopy	detects	mucosal healing
+intestinal antiinflammatory agents	affects	gut microbiota
+gut microbiota	influences	immune response
+intestinal antiinflammatory agents	interacts with	NSAIDs
+NSAIDs	exacerbate	IBD
+intestinal antiinflammatory agents	requires	dose titration
+dose titration	prevents	toxicity
+intestinal antiinflammatory agents	alternative to	surgery
+surgery	indicated for	complications
+intestinal antiinflammatory agents	improves	quality of life
+quality of life	measured by	questionnaires
+intestinal antiinflammatory agents	prescribed by	gastroenterologists
+gastroenterologists	specialize in	digestive disorders
+intestinal antiinflammatory agents	stored at	room temperature
+intestinal antiinflammatory agents	formulation	oral tablets
+oral tablets	alternative	suppositories
+suppositories	used for	distal colitis
+intestinal antiinflammatory agents	metabolized in	liver
+liver	function tests	monitor toxicity
+intestinal antiinflammatory agents	excreted via	kidneys
+kidneys	affected by	nephrotoxicity
+intestinal antiinflammatory agents	research focus	new biologics
+new biologics	target	IL-12/23
+IL-12/23	role	inflammatory pathways
+intestinal antiinflammatory agents	cost	expensive
+expensive drugs	barrier to	adherence
+intestinal antiinflammatory agents	combined with	probiotics
+probiotics	modify	gut flora
+intestinal antiinflammatory agents	contraindicated in	allergies
+allergies	manifest as	rash
+intestinal antiinflammatory agents	pregnancy category	varies
+pregnancy	requires	special consideration
+intestinal antiinflammatory agents	affects	nutrient absorption
+nutrient absorption	impacts	malnutrition
+intestinal antiinflammatory agents	interacts with	warfarin
+warfarin	requires	INR monitoring
+intestinal antiinflammatory agents	alternative	dietary therapy
+dietary therapy	includes	low-FODMAP
+intestinal antiinflammatory agents	requires	compliance
+compliance	improves	outcomes
+intestinal antiinflammatory agents	compared to	placebo
+placebo	effect	psychological
+intestinal antiinflammatory agents	development	clinical trials
+clinical trials	phases	I-IV
+intestinal antiinflammatory agents	patent	time-limited
+patent expiry	allows	generics
+intestinal antiinflammatory agents	brand examples	Asacol
+Asacol	contains	mesalamine
+intestinal antiinflammatory agents	mechanism	NF-κB inhibition
+NF-κB	regulates	inflammation
+intestinal antiinflammatory agents	adverse effect	pancreatitis
+pancreatitis	symptom	abdominal pain
+intestinal antiinflammatory agents	contraindicated in	renal impairment
+renal impairment	requires	dose adjustment
+intestinal antiinflammatory agents	pharmacokinetics	first-pass effect
+first-pass effect	reduces	bioavailability
+intestinal antiinflammatory agents	alternative administration	enema
+enema	delivers	local therapy
+intestinal antiinflammatory agents	efficacy	endoscopic improvement
+endoscopic improvement	correlates with	remission
+intestinal antiinflammatory agents	cost-effectiveness	debated
+cost-effectiveness	considers	QALYs
+intestinal antiinflammatory agents	withdrawal	cautious
+withdrawal	may cause	relapse
+intestinal antiinflammatory agents	monitoring	blood tests
+blood tests	check	liver enzymes
+intestinal antiinflammatory agents	education	pharmacist role
+pharmacist	advises	administration
+intestinal antiinflammatory agents	storage	moisture-sensitive
+moisture	degrades	drug stability

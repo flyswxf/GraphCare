@@ -1,0 +1,100 @@
+intestinal adsorbents	are	medications
+intestinal adsorbents	treat	diarrhea
+intestinal adsorbents	bind	toxins
+intestinal adsorbents	adsorb	bacteria
+intestinal adsorbents	reduce	gas
+intestinal adsorbents	contain	activated charcoal
+intestinal adsorbents	contain	bismuth subsalicylate
+intestinal adsorbents	contain	kaolin
+intestinal adsorbents	contain	pectin
+intestinal adsorbents	interact with	other drugs
+intestinal adsorbents	may cause	constipation
+intestinal adsorbents	used in	food poisoning
+intestinal adsorbents	used in	traveler's diarrhea
+intestinal adsorbents	act in	gastrointestinal tract
+intestinal adsorbents	adsorb	viruses
+intestinal adsorbents	adsorb	heavy metals
+intestinal adsorbents	adsorb	bile acids
+intestinal adsorbents	adsorb	allergens
+intestinal adsorbents	adsorb	metabolic waste
+intestinal adsorbents	help with	detoxification
+intestinal adsorbents	reduce	bloating
+intestinal adsorbents	reduce	abdominal discomfort
+intestinal adsorbents	may interfere with	nutrient absorption
+intestinal adsorbents	may alter	gut microbiota
+intestinal adsorbents	sometimes used for	overdose management
+intestinal adsorbents	available as	tablets
+intestinal adsorbents	available as	suspensions
+intestinal adsorbents	available as	powders
+intestinal adsorbents	work by	physical adsorption
+intestinal adsorbents	have	large surface area
+intestinal adsorbents	can be	natural
+intestinal adsorbents	can be	synthetic
+intestinal adsorbents	often combined with	antidiarrheals
+intestinal adsorbents	often combined with	electrolytes
+intestinal adsorbents	contraindicated in	intestinal obstruction
+intestinal adsorbents	contraindicated in	perforated bowel
+intestinal adsorbents	require	proper hydration
+intestinal adsorbents	may affect	drug efficacy
+intestinal adsorbents	should be spaced apart from	other medications
+intestinal adsorbents	used in	renal failure
+intestinal adsorbents	used in	hepatic encephalopathy
+intestinal adsorbents	adsorb	uremic toxins
+intestinal adsorbents	adsorb	ammonia
+intestinal adsorbents	studied for	inflammatory bowel disease
+intestinal adsorbents	studied for	irritable bowel syndrome
+intestinal adsorbents	may reduce	inflammation
+intestinal adsorbents	may improve	gut barrier function
+intestinal adsorbents	may protect against	pathogenic bacteria
+intestinal adsorbents	may prevent	bacterial translocation
+intestinal adsorbents	used in	veterinary medicine
+intestinal adsorbents	used in	livestock
+intestinal adsorbents	used in	poultry
+intestinal adsorbents	can be	prescription
+intestinal adsorbents	can be	over-the-counter
+intestinal adsorbents	have	porous structure
+intestinal adsorbents	have	high adsorption capacity
+intestinal adsorbents	derived from	plant sources
+intestinal adsorbents	derived from	mineral sources
+intestinal adsorbents	sometimes combined with	probiotics
+intestinal adsorbents	sometimes combined with	prebiotics
+intestinal adsorbents	may enhance	gut health
+intestinal adsorbents	may reduce	endotoxin levels
+intestinal adsorbents	may lower	cholesterol
+intestinal adsorbents	may bind	dietary fats
+intestinal adsorbents	may help with	weight management
+intestinal adsorbents	used in	emergency medicine
+intestinal adsorbents	used in	toxicology
+intestinal adsorbents	adsorb	environmental toxins
+intestinal adsorbents	adsorb	pesticides
+intestinal adsorbents	adsorb	mycotoxins
+intestinal adsorbents	can be	enteric-coated
+intestinal adsorbents	can be	sustained-release
+intestinal adsorbents	may require	dose adjustment
+intestinal adsorbents	may vary in	adsorption strength
+intestinal adsorbents	classified as	gastrointestinal agents
+intestinal adsorbents	have	mechanical action
+intestinal adsorbents	do not	get absorbed
+intestinal adsorbents	excreted in	feces
+intestinal adsorbents	may change	stool color
+intestinal adsorbents	may change	stool consistency
+intestinal adsorbents	may interact with	oral vaccines
+intestinal adsorbents	may reduce	vaccine effectiveness
+intestinal adsorbents	should be avoided before	diagnostic tests
+intestinal adsorbents	may interfere with	imaging studies
+intestinal adsorbents	used in	pediatric cases
+intestinal adsorbents	used in	geriatric cases
+intestinal adsorbents	dosage depends on	body weight
+intestinal adsorbents	dosage depends on	condition severity
+intestinal adsorbents	require	medical supervision
+intestinal adsorbents	have	few systemic effects
+intestinal adsorbents	considered	relatively safe
+intestinal adsorbents	may have	drug-specific interactions
+intestinal adsorbents	adsorption depends on	pH
+intestinal adsorbents	adsorption depends on	temperature
+intestinal adsorbents	may be	chemically modified
+intestinal adsorbents	research ongoing for	new applications
+intestinal adsorbents	may be	combined with antibiotics
+intestinal adsorbents	may reduce	antibiotic side effects
+intestinal adsorbents	may prevent	Clostridioides difficile infection
+intestinal adsorbents	may be	part of supportive care

@@ -1,0 +1,130 @@
+isoniazid	treats	tuberculosis
+rifampin	treats	tuberculosis
+pyrazinamide	treats	tuberculosis
+ethambutol	treats	tuberculosis
+streptomycin	treats	tuberculosis
+isoniazid	combines with	rifampin
+pyrazinamide	combines with	ethambutol
+rifampin	combines with	pyrazinamide
+isoniazid	combines with	pyrazinamide
+ethambutol	combines with	streptomycin
+isoniazid	inhibits	mycolic acid synthesis
+rifampin	inhibits	RNA polymerase
+pyrazinamide	disrupts	membrane transport
+ethambutol	inhibits	arabinosyl transferase
+streptomycin	inhibits	protein synthesis
+tuberculosis	develops resistance to	isoniazid
+tuberculosis	develops resistance to	rifampin
+multidrug-resistant tuberculosis	resists	isoniazid
+multidrug-resistant tuberculosis	resists	rifampin
+extensively drug-resistant tuberculosis	resists	second-line drugs
+isoniazid	metabolized by	liver
+rifampin	induces	CYP450 enzymes
+pyrazinamide	metabolized to	pyrazinoic acid
+ethambutol	excreted via	kidneys
+streptomycin	excreted via	kidneys
+isoniazid	causes	hepatotoxicity
+rifampin	causes	orange discoloration
+pyrazinamide	causes	hyperuricemia
+ethambutol	causes	optic neuritis
+streptomycin	causes	ototoxicity
+DOTS	recommends	drug combination
+intensive phase	uses	four drugs
+continuation phase	uses	two drugs
+latent tuberculosis	treated with	isoniazid
+active tuberculosis	requires	multidrug therapy
+rifampin	decreases effectiveness of	oral contraceptives
+isoniazid	interacts with	phenytoin
+pyrazinamide	increases	uric acid levels
+ethambutol	requires	vision monitoring
+streptomycin	contraindicated in	pregnancy
+children	receive adjusted doses	antitubercular drugs
+HIV patients	require modified	tuberculosis regimen
+pregnant women	avoid	streptomycin
+elderly patients	need reduced	drug doses
+liver disease patients	monitor closely	isoniazid
+sputum test	detects	tuberculosis bacteria
+chest X-ray	reveals	pulmonary lesions
+tuberculin skin test	indicates	infection
+GeneXpert	identifies	drug resistance
+liquid culture	confirms	tuberculosis diagnosis
+tuberculosis	leads to	pulmonary fibrosis
+miliary tuberculosis	spreads to	other organs
+tuberculous meningitis	affects	central nervous system
+spinal tuberculosis	causes	Pott's disease
+tuberculosis	increases risk of	lung cancer
+BCG vaccine	prevents	severe tuberculosis
+contact tracing	identifies	exposed individuals
+infection control	reduces	transmission
+directly observed therapy	ensures	adherence
+public health programs	provide	free medications
+malnutrition	increases susceptibility to	tuberculosis
+vitamin D deficiency	affects	immune response
+protein-energy malnutrition	worsens	disease progression
+iron deficiency	impacts	treatment outcomes
+micronutrient supplementation	supports	recovery
+HIV infection	complicates	tuberculosis treatment
+diabetes mellitus	increases risk of	tuberculosis
+chronic kidney disease	requires	dose adjustment
+hepatitis	contraindicates	certain drugs
+alcoholism	reduces	treatment adherence
+bedaquiline	targets	ATP synthase
+delamanid	inhibits	mycolic acid synthesis
+pretomanid	used for	drug-resistant tuberculosis
+linezolid	repurposed for	MDR-TB
+clofazimine	shows efficacy against	XDR-TB
+liver function tests	monitor	drug toxicity
+serum uric acid	checks for	pyrazinamide effects
+visual acuity tests	detect	ethambutol toxicity
+audiometry	assesses	streptomycin damage
+sputum conversion	indicates	treatment response
+poverty	increases risk of	tuberculosis
+homelessness	correlates with	treatment default
+stigma	reduces	healthcare seeking
+health literacy	affects	medication adherence
+health insurance	improves	treatment access
+macrophages	harbor	tuberculosis bacteria
+granuloma formation	contains	infection
+Th1 response	controls	bacterial growth
+immunosuppression	reactivates	latent tuberculosis
+cytokines	mediate	tissue damage
+katG gene	confers resistance to	isoniazid
+rpoB mutation	causes resistance to	rifampin
+pncA mutation	leads to	pyrazinamide resistance
+inhA mutation	affects	isoniazid efficacy
+rrS mutation	results in	streptomycin resistance
+first-line drugs	administered	orally
+streptomycin	given	intramuscularly
+inhaled drugs	deliver to	lungs
+intravenous therapy	used for	severe cases
+long-acting formulations	improve	compliance
+liver enzymes	monitored during	isoniazid therapy
+urinalysis	checks for	ethambutol effects
+hearing tests	required for	aminoglycoside use
+alcohol	avoided with	isoniazid
+sun protection	needed with	pyrazinamide
+close contacts	screened for	latent infection
+healthcare workers	at higher risk	exposure
+incarcerated populations	have elevated	tuberculosis rates
+migrants	face challenges in	treatment completion
+refugees	require special	screening protocols
+drug susceptibility testing	guides	regimen selection
+liquid culture	reduces	diagnosis time
+whole genome sequencing	identifies	resistance patterns
+microscopy	detects	acid-fast bacilli
+interferon-gamma release assays	diagnose	latent infection
+generic drugs	reduce	treatment costs
+second-line drugs	are more	expensive
+treatment interruption	leads to	higher expenses
+universal healthcare	improves	case detection
+public-private partnerships	enhance	drug availability
+WHO guidelines	recommend	standardized regimens
+Stop TB Partnership	coordinates	global efforts
+END TB Strategy	aims to	eliminate disease
+United Nations	sets	health targets
+Global Fund	finances	tuberculosis programs
+interferon-gamma	indicates	immune activation
+C-reactive protein	reflects	inflammation
+ESAT-6 antigen	used in	diagnostic tests
+CFP-10 antigen	assists in	infection detection
+liparabinomannan	detected in	urine tests

@@ -1,0 +1,100 @@
+hemorrhoids	are	swollen veins
+hemorrhoids	occur in	rectum
+hemorrhoids	occur in	anus
+hemorrhoids	cause	pain
+hemorrhoids	cause	itching
+hemorrhoids	cause	bleeding
+hemorrhoids	may lead to	anemia
+hemorrhoids	are classified as	internal
+hemorrhoids	are classified as	external
+hemorrhoids	aggravated by	constipation
+hemorrhoids	aggravated by	straining
+hemorrhoids	aggravated by	pregnancy
+hemorrhoids	aggravated by	obesity
+hemorrhoids	aggravated by	prolonged sitting
+hemorrhoids	diagnosed by	physical exam
+hemorrhoids	diagnosed by	anoscopy
+hemorrhoids	diagnosed by	sigmoidoscopy
+hemorrhoids	treated with	fiber supplements
+hemorrhoids	treated with	stool softeners
+hemorrhoids	treated with	topical creams
+hemorrhoids	treated with	suppositories
+hemorrhoids	treated with	sitz baths
+hemorrhoids	treated with	rubber band ligation
+hemorrhoids	treated with	sclerotherapy
+hemorrhoids	treated with	infrared coagulation
+hemorrhoids	treated with	hemorrhoidectomy
+hemorrhoids	prevented by	high-fiber diet
+hemorrhoids	prevented by	hydration
+hemorrhoids	prevented by	exercise
+hemorrhoids	prevented by	avoiding straining
+pain	relieved by	analgesics
+itching	relieved by	anti-itch creams
+bleeding	monitored by	hemoglobin test
+internal hemorrhoids	may prolapse	rectum
+external hemorrhoids	may thrombose	anus
+constipation	treated with	laxatives
+pregnancy	increases risk of	hemorrhoids
+obesity	increases risk of	hemorrhoids
+prolonged sitting	increases risk of	hemorrhoids
+fiber supplements	include	psyllium
+fiber supplements	include	methylcellulose
+stool softeners	include	docusate
+topical creams	contain	hydrocortisone
+topical creams	contain	lidocaine
+suppositories	contain	pramoxine
+sitz baths	use	warm water
+rubber band ligation	cuts off blood supply	hemorrhoids
+sclerotherapy	injects	chemical solution
+infrared coagulation	uses	heat
+hemorrhoidectomy	removes	hemorrhoids
+high-fiber diet	includes	fruits
+high-fiber diet	includes	vegetables
+high-fiber diet	includes	whole grains
+hydration	involves	water intake
+exercise	improves	bowel movement
+analgesics	include	acetaminophen
+analgesics	include	ibuprofen
+anti-itch creams	contain	pramoxine
+hemoglobin test	detects	anemia
+thrombosed hemorrhoids	treated with	incision
+laxatives	include	polyethylene glycol
+laxatives	include	lactulose
+hydrocortisone	reduces	inflammation
+lidocaine	numbs	pain
+pramoxine	relieves	itching
+warm water	soothes	irritation
+chemical solution	shrinks	hemorrhoids
+heat	coagulates	blood vessels
+fruits	rich in	fiber
+vegetables	rich in	fiber
+whole grains	rich in	fiber
+water intake	prevents	constipation
+bowel movement	regulated by	fiber
+acetaminophen	relieves	mild pain
+ibuprofen	reduces	inflammation
+pramoxine	blocks	nerve signals
+anemia	caused by	blood loss
+incision	drains	blood clot
+polyethylene glycol	softens	stool
+lactulose	increases	stool frequency
+inflammation	causes	swelling
+nerve signals	transmit	pain
+blood clot	causes	thrombosis
+stool frequency	improves	constipation
+swelling	causes	discomfort
+thrombosis	requires	medical attention
+discomfort	alleviated by	rest
+medical attention	involves	physician
+physician	performs	examination
+examination	evaluates	severity
+severity	determines	treatment
+treatment	tailored to	patient
+patient	follows	instructions
+instructions	include	medication
+medication	taken as	prescribed
+prescribed	by	doctor
+doctor	monitors	progress
+progress	assessed by	follow-up
+follow-up	ensures	recovery
+recovery	restores	normal function

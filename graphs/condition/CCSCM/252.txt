@@ -1,0 +1,100 @@
+malaise	is a	symptom
+fatigue	is a	symptom
+malaise	often co-occurs with	fatigue
+fatigue	may indicate	sleep disorder
+malaise	may indicate	infection
+fatigue	is associated with	depression
+malaise	is associated with	chronic illness
+fatigue	affects	daily activities
+malaise	affects	quality of life
+fatigue	may result from	anemia
+malaise	may result from	medication side effect
+fatigue	is measured by	fatigue scale
+malaise	is evaluated through	patient history
+fatigue	requires	differential diagnosis
+malaise	requires	clinical assessment
+fatigue	may lead to	work absenteeism
+malaise	may lead to	reduced productivity
+fatigue	is common in	cancer patients
+malaise	is common in	viral infections
+fatigue	correlates with	pain
+malaise	correlates with	fever
+fatigue	may worsen	mental health
+malaise	may accompany	nausea
+fatigue	can be	acute or chronic
+malaise	can be	generalized
+fatigue	is researched in	neurology
+malaise	is studied in	immunology
+fatigue	has subtypes	mental fatigue
+malaise	has subtypes	post-exertional malaise
+fatigue	occurs in	multiple sclerosis
+malaise	occurs in	Lyme disease
+fatigue	responds to	lifestyle changes
+malaise	responds to	treatment of cause
+fatigue	may require	pharmacological treatment
+malaise	may require	rest
+fatigue	is linked to	thyroid dysfunction
+malaise	is linked to	autoimmune diseases
+fatigue	complicates	recovery
+malaise	complicates	postoperative care
+fatigue	increases	healthcare utilization
+malaise	increases	patient complaints
+fatigue	predicts	poor prognosis
+malaise	predicts	disease severity
+fatigue	results from	chemotherapy
+malaise	results from	inflammation
+fatigue	improves with	exercise
+malaise	improves with	hydration
+fatigue	is prevalent in	fibromyalgia
+malaise	is prevalent in	influenza
+fatigue	differs from	sleepiness
+malaise	differs from	specific pain
+fatigue	involves	energy depletion
+malaise	involves	discomfort
+fatigue	is recorded in	electronic health records
+malaise	is documented in	clinical notes
+fatigue	has risk factors	obesity
+malaise	has risk factors	poor nutrition
+fatigue	may signal	heart disease
+malaise	may signal	kidney disease
+fatigue	accompanies	chronic fatigue syndrome
+malaise	accompanies	sepsis
+fatigue	is addressed in	palliative care
+malaise	is addressed in	primary care
+fatigue	is exacerbated by	stress
+malaise	is exacerbated by	dehydration
+fatigue	impacts	cognitive function
+malaise	impacts	mood
+fatigue	relates to	mitochondrial dysfunction
+malaise	relates to	cytokine release
+fatigue	is managed with	stimulants
+malaise	is managed with	antipyretics
+fatigue	is measured subjectively	self-report
+malaise	is measured subjectively	patient description
+fatigue	has biomarkers	cortisol levels
+malaise	has biomarkers	inflammatory markers
+fatigue	is studied using	actigraphy
+malaise	is studied using	symptom diaries
+fatigue	may precede	illness onset
+malaise	may precede	fever
+fatigue	is a focus of	occupational health
+malaise	is a focus of	infectious disease
+fatigue	complicates	diabetes management
+malaise	complicates	HIV treatment
+fatigue	increases	fall risk
+malaise	increases	hospitalization risk
+fatigue	is addressed by	multidisciplinary teams
+malaise	is addressed by	symptom management
+fatigue	has genetic components	PER3 gene
+malaise	has genetic components	HLA alleles
+fatigue	is influenced by	circadian rhythm
+malaise	is influenced by	immune response
+fatigue	varies by	age
+malaise	varies by	gender
+fatigue	is a target for	digital health tools
+malaise	is a target for	telemedicine
+fatigue	is reported in	clinical trials
+malaise	is reported in	adverse event reports
+fatigue	is associated with	sleep apnea
+malaise	is associated with	rheumatoid arthritis
+fatigue and malaise	are nonspecific symptoms	clinical evaluation

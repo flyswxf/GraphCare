@@ -1,0 +1,100 @@
+rheumatoid arthritis	is an	autoimmune disease
+rheumatoid arthritis	affects	joints
+rheumatoid arthritis	causes	inflammation
+rheumatoid arthritis	may lead to	joint deformity
+rheumatoid arthritis	associated with	genetic factors
+rheumatoid arthritis	linked to	smoking
+rheumatoid arthritis	treated with	DMARDs
+methotrexate	is a	DMARD
+rheumatoid arthritis	may cause	fatigue
+rheumatoid arthritis	increases risk of	cardiovascular disease
+rheumatoid arthritis	may affect	lungs
+rheumatoid arthritis	related to	osteoporosis
+rheumatoid arthritis	diagnosed with	blood tests
+rheumatoid factor	is a marker for	rheumatoid arthritis
+anti-CCP	is a test for	rheumatoid arthritis
+rheumatoid arthritis	managed with	biologics
+adalimumab	is a	biologic
+rheumatoid arthritis	requires	disease monitoring
+rheumatoid arthritis	may need	joint replacement
+rheumatoid arthritis	associated with	depression
+rheumatoid arthritis	impacts	quality of life
+rheumatoid arthritis	treated with	NSAIDs
+ibuprofen	is an	NSAID
+rheumatoid arthritis	may cause	morning stiffness
+rheumatoid arthritis	affects	small joints
+rheumatoid arthritis	can involve	eyes
+rheumatoid arthritis	linked to	periodontal disease
+rheumatoid arthritis	increases	healthcare costs
+rheumatoid arthritis	may require	physical therapy
+rheumatoid arthritis	associated with	anemia
+rheumatoid arthritis	may lead to	disability
+rheumatoid arthritis	treated with	corticosteroids
+prednisone	is a	corticosteroid
+rheumatoid arthritis	involves	synovium
+rheumatoid arthritis	may cause	fever
+rheumatoid arthritis	affects	women more
+rheumatoid arthritis	peaks at	middle age
+rheumatoid arthritis	may involve	skin
+rheumatoid arthritis	related to	Sjögren's syndrome
+rheumatoid arthritis	increases risk of	lymphoma
+rheumatoid arthritis	treated with	JAK inhibitors
+tofacitinib	is a	JAK inhibitor
+rheumatoid arthritis	may affect	blood vessels
+rheumatoid arthritis	associated with	carpal tunnel syndrome
+rheumatoid arthritis	requires	early treatment
+rheumatoid arthritis	impacts	work productivity
+rheumatoid arthritis	may cause	weight loss
+rheumatoid arthritis	linked to	gut microbiome
+rheumatoid arthritis	treated with	combination therapy
+rheumatoid arthritis	monitored with	imaging
+ultrasound	used for	rheumatoid arthritis diagnosis
+rheumatoid arthritis	may lead to	spinal complications
+rheumatoid arthritis	involves	cytokines
+TNF-alpha	is a cytokine in	rheumatoid arthritis
+rheumatoid arthritis	treated with	IL-6 inhibitors
+tocilizumab	is an	IL-6 inhibitor
+rheumatoid arthritis	may cause	dry eyes
+rheumatoid arthritis	associated with	rheumatoid nodules
+rheumatoid arthritis	increases risk of	infections
+rheumatoid arthritis	may involve	heart
+rheumatoid arthritis	related to	vasculitis
+rheumatoid arthritis	treated with	hydroxychloroquine
+rheumatoid arthritis	may cause	numbness
+rheumatoid arthritis	affects	hand function
+rheumatoid arthritis	linked to	family history
+rheumatoid arthritis	requires	multidisciplinary care
+rheumatoid arthritis	increases	mortality risk
+rheumatoid arthritis	may lead to	pulmonary fibrosis
+rheumatoid arthritis	involves	B cells
+rituximab	targets	B cells
+rheumatoid arthritis	treated with	leflunomide
+rheumatoid arthritis	may cause	chest pain
+rheumatoid arthritis	associated with	Felty's syndrome
+rheumatoid arthritis	impacts	sleep quality
+rheumatoid arthritis	may involve	kidneys
+rheumatoid arthritis	related to	osteoporosis medications
+rheumatoid arthritis	increases risk of	falls
+rheumatoid arthritis	treated with	sulfasalazine
+rheumatoid arthritis	may cause	vision problems
+rheumatoid arthritis	affects	foot joints
+rheumatoid arthritis	linked to	air pollution
+rheumatoid arthritis	requires	patient education
+rheumatoid arthritis	increases	hospitalization rates
+rheumatoid arthritis	may lead to	cervical spine instability
+rheumatoid arthritis	involves	T cells
+abatacept	modulates	T cells
+rheumatoid arthritis	treated with	gold therapy
+rheumatoid arthritis	may cause	muscle weakness
+rheumatoid arthritis	associated with	secondary osteoarthritis
+rheumatoid arthritis	impacts	mental health
+rheumatoid arthritis	may involve	vocal cords
+rheumatoid arthritis	related to	pregnancy complications
+rheumatoid arthritis	increases risk of	thrombosis
+rheumatoid arthritis	treated with	pain management
+rheumatoid arthritis	may cause	hearing loss
+rheumatoid arthritis	affects	shoulder joints
+rheumatoid arthritis	linked to	vitamin D deficiency
+rheumatoid arthritis	requires	regular exercise
+rheumatoid arthritis	increases	comorbidity burden
+rheumatoid arthritis	may lead to	surgical interventions

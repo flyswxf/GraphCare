@@ -1,0 +1,100 @@
+antiinflammatory agents and antiinfectives in combination	is a	drug combination
+antiinflammatory agents and antiinfectives in combination	contains	antiinflammatory agent
+antiinflammatory agents and antiinfectives in combination	contains	antiinfective agent
+antiinflammatory agents and antiinfectives in combination	treats	bacterial infection
+antiinflammatory agents and antiinfectives in combination	treats	inflammation
+antiinflammatory agents and antiinfectives in combination	reduces	swelling
+antiinflammatory agents and antiinfectives in combination	alleviates	pain
+antiinflammatory agents and antiinfectives in combination	prevents	infection spread
+antiinflammatory agents and antiinfectives in combination	may have	side effects
+side effects	can include	gastrointestinal upset
+side effects	can include	allergic reaction
+antiinflammatory agents and antiinfectives in combination	interacts with	other medications
+antiinflammatory agents and antiinfectives in combination	requires	prescription
+antiinflammatory agents and antiinfectives in combination	used in	postoperative care
+antiinflammatory agents and antiinfectives in combination	used for	wound healing
+antiinflammatory agents and antiinfectives in combination	targets	immune response
+antiinflammatory agents and antiinfectives in combination	inhibits	prostaglandin synthesis
+antiinflammatory agents and antiinfectives in combination	disrupts	bacterial cell wall
+antiinflammatory agents and antiinfectives in combination	affects	cytokine production
+antiinflammatory agents and antiinfectives in combination	contraindicated in	pregnancy
+antiinflammatory agents and antiinfectives in combination	metabolized in	liver
+antiinflammatory agents and antiinfectives in combination	excreted via	kidneys
+antiinflammatory agents and antiinfectives in combination	may cause	drug resistance
+antiinflammatory agents and antiinfectives in combination	prescribed for	skin infections
+antiinflammatory agents and antiinfectives in combination	prescribed for	respiratory infections
+antiinflammatory agents and antiinfectives in combination	prescribed for	urinary tract infections
+antiinflammatory agents and antiinfectives in combination	dosage depends on	patient weight
+antiinflammatory agents and antiinfectives in combination	dosage depends on	infection severity
+antiinflammatory agents and antiinfectives in combination	available as	oral formulation
+antiinflammatory agents and antiinfectives in combination	available as	topical formulation
+antiinflammatory agents and antiinfectives in combination	available as	injectable formulation
+antiinflammatory agents and antiinfectives in combination	used in	dentistry
+antiinflammatory agents and antiinfectives in combination	used in	ophthalmology
+antiinflammatory agents and antiinfectives in combination	used in	dermatology
+antiinflammatory agents and antiinfectives in combination	may lead to	superinfection
+antiinflammatory agents and antiinfectives in combination	requires	bacterial culture
+antiinflammatory agents and antiinfectives in combination	effectiveness depends on	pathogen sensitivity
+antiinflammatory agents and antiinfectives in combination	contraindicated with	NSAIDs
+antiinflammatory agents and antiinfectives in combination	contraindicated with	blood thinners
+antiinflammatory agents and antiinfectives in combination	contraindicated with	alcohol
+antiinflammatory agents and antiinfectives in combination	may cause	photosensitivity
+antiinflammatory agents and antiinfectives in combination	may cause	dizziness
+antiinflammatory agents and antiinfectives in combination	may cause	headache
+antiinflammatory agents and antiinfectives in combination	may cause	diarrhea
+antiinflammatory agents and antiinfectives in combination	may cause	yeast infection
+antiinflammatory agents and antiinfectives in combination	requires	hydration
+antiinflammatory agents and antiinfectives in combination	requires	liver function monitoring
+antiinflammatory agents and antiinfectives in combination	requires	renal function monitoring
+antiinflammatory agents and antiinfectives in combination	alternative to	monotherapy
+antiinflammatory agents and antiinfectives in combination	synergistic effect	enhanced efficacy
+antiinflammatory agents and antiinfectives in combination	reduces	treatment duration
+antiinflammatory agents and antiinfectives in combination	prevents	antibiotic resistance
+antiinflammatory agents and antiinfectives in combination	used for	prophylaxis
+antiinflammatory agents and antiinfectives in combination	used in	immunocompromised patients
+antiinflammatory agents and antiinfectives in combination	used in	pediatric patients
+antiinflammatory agents and antiinfectives in combination	used in	geriatric patients
+antiinflammatory agents and antiinfectives in combination	storage requires	room temperature
+antiinflammatory agents and antiinfectives in combination	storage requires	dry place
+antiinflammatory agents and antiinfectives in combination	storage requires	light protection
+antiinflammatory agents and antiinfectives in combination	expiration date	important
+antiinflammatory agents and antiinfectives in combination	generic version	available
+antiinflammatory agents and antiinfectives in combination	brand name	varies
+antiinflammatory agents and antiinfectives in combination	cost depends on	formulation
+antiinflammatory agents and antiinfectives in combination	covered by	insurance
+antiinflammatory agents and antiinfectives in combination	requires	adherence
+antiinflammatory agents and antiinfectives in combination	improves	patient outcomes
+antiinflammatory agents and antiinfectives in combination	reduces	hospital stay
+antiinflammatory agents and antiinfectives in combination	reduces	complications
+antiinflammatory agents and antiinfectives in combination	improves	quality of life
+antiinflammatory agents and antiinfectives in combination	prescribed by	physician
+antiinflammatory agents and antiinfectives in combination	prescribed by	dentist
+antiinflammatory agents and antiinfectives in combination	prescribed by	surgeon
+antiinflammatory agents and antiinfectives in combination	monitored by	pharmacist
+antiinflammatory agents and antiinfectives in combination	administered by	nurse
+antiinflammatory agents and antiinfectives in combination	interacts with	probiotics
+antiinflammatory agents and antiinfectives in combination	interacts with	antacids
+antiinflammatory agents and antiinfectives in combination	interacts with	iron supplements
+antiinflammatory agents and antiinfectives in combination	affects	gut microbiota
+antiinflammatory agents and antiinfectives in combination	requires	dietary consideration
+antiinflammatory agents and antiinfectives in combination	classified as	combination drug
+antiinflammatory agents and antiinfectives in combination	research topic	drug synergy
+antiinflammatory agents and antiinfectives in combination	research topic	resistance prevention
+antiinflammatory agents and antiinfectives in combination	research topic	new formulations
+antiinflammatory agents and antiinfectives in combination	compared to	separate administration
+antiinflammatory agents and antiinfectives in combination	advantage	convenience
+antiinflammatory agents and antiinfectives in combination	disadvantage	fixed ratio
+antiinflammatory agents and antiinfectives in combination	development involves	pharmacokinetics
+antiinflammatory agents and antiinfectives in combination	development involves	pharmacodynamics
+antiinflammatory agents and antiinfectives in combination	tested in	clinical trials
+antiinflammatory agents and antiinfectives in combination	approved by	FDA
+antiinflammatory agents and antiinfectives in combination	regulated as	prescription drug
+antiinflammatory agents and antiinfectives in combination	packaging includes	instructions
+antiinflammatory agents and antiinfectives in combination	packaging includes	warnings
+antiinflammatory agents and antiinfectives in combination	educational material	important
+antiinflammatory agents and antiinfectives in combination	patient counseling	required
+antiinflammatory agents and antiinfectives in combination	follow-up	necessary
+antiinflammatory agents and antiinfectives in combination	treatment success	measurable
+antiinflammatory agents and antiinfectives in combination	alternative treatments	exist
+antiinflammatory agents and antiinfectives in combination	selection criteria	important
+antiinflammatory agents and antiinfectives in combination	personalized medicine	future direction

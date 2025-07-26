@@ -1,0 +1,100 @@
+capillary stabilizing agents	are	drugs
+capillary stabilizing agents	treat	capillary fragility
+capillary fragility	causes	petechiae
+capillary fragility	causes	bruising
+capillary stabilizing agents	include	flavonoids
+flavonoids	are	plant compounds
+rutin	is a	flavonoid
+diosmin	is a	flavonoid
+hesperidin	is a	flavonoid
+capillary stabilizing agents	reduce	edema
+edema	is	swelling
+edema	caused by	inflammation
+capillary stabilizing agents	improve	microcirculation
+microcirculation	involves	capillaries
+capillary stabilizing agents	used for	chronic venous insufficiency
+chronic venous insufficiency	causes	varicose veins
+chronic venous insufficiency	leads to	leg swelling
+capillary stabilizing agents	may prevent	hemorrhage
+hemorrhage	is	bleeding
+hemorrhage	can be	internal
+capillary stabilizing agents	have	antioxidant effects
+antioxidant effects	reduce	oxidative stress
+oxidative stress	damages	cells
+capillary stabilizing agents	can strengthen	blood vessel walls
+blood vessel walls	consist of	endothelium
+endothelium	regulates	vascular tone
+capillary stabilizing agents	may lower	blood pressure
+blood pressure	affected by	vascular resistance
+capillary stabilizing agents	improve	lymphatic drainage
+lymphatic drainage	removes	excess fluid
+capillary stabilizing agents	used in	diabetic retinopathy
+diabetic retinopathy	damages	retinal capillaries
+retinal capillaries	nourish	retina
+capillary stabilizing agents	help with	hemorrhoids
+hemorrhoids	are	swollen veins
+hemorrhoids	located in	rectum
+capillary stabilizing agents	mitigate	inflammation
+inflammation	involves	immune response
+immune response	includes	cytokine release
+capillary stabilizing agents	may alleviate	lymphedema
+lymphedema	is	fluid retention
+lymphedema	caused by	lymphatic system damage
+capillary stabilizing agents	support	wound healing
+wound healing	requires	angiogenesis
+angiogenesis	forms	new blood vessels
+capillary stabilizing agents	reduce	vascular permeability
+vascular permeability	allows	fluid leakage
+fluid leakage	causes	tissue swelling
+capillary stabilizing agents	protect	endothelial cells
+endothelial cells	line	blood vessels
+capillary stabilizing agents	interact with	collagen
+collagen	provides	structural support
+collagen	found in	connective tissue
+capillary stabilizing agents	may inhibit	histamine release
+histamine release	causes	allergic reactions
+allergic reactions	involve	mast cells
+capillary stabilizing agents	used for	post-thrombotic syndrome
+post-thrombotic syndrome	follows	deep vein thrombosis
+deep vein thrombosis	forms	blood clots
+capillary stabilizing agents	improve	skin conditions
+skin conditions	include	eczema
+eczema	characterized by	itchy skin
+capillary stabilizing agents	reduce	erythrocyte aggregation
+erythrocyte aggregation	impairs	blood flow
+blood flow	delivers	oxygen
+capillary stabilizing agents	may prevent	atherosclerosis
+atherosclerosis	involves	plaque buildup
+plaque buildup	narrows	arteries
+capillary stabilizing agents	support	cardiovascular health
+cardiovascular health	depends on	vascular integrity
+capillary stabilizing agents	enhance	vitamin C absorption
+vitamin C	strengthens	blood vessels
+vitamin C	is a	micronutrient
+capillary stabilizing agents	may reduce	varicose vein symptoms
+varicose vein symptoms	include	pain
+pain	managed by	analgesics
+capillary stabilizing agents	used in	rosacea treatment
+rosacea	affects	facial blood vessels
+facial blood vessels	dilate	causing redness
+capillary stabilizing agents	may decrease	inflammation markers
+inflammation markers	include	C-reactive protein
+C-reactive protein	produced by	liver
+capillary stabilizing agents	help with	Meniere's disease
+Meniere's disease	involves	inner ear fluid imbalance
+inner ear fluid imbalance	causes	vertigo
+capillary stabilizing agents	improve	venous return
+venous return	is	blood flow to heart
+venous return	affected by	muscle contractions
+capillary stabilizing agents	protect against	ischemia-reperfusion injury
+ischemia-reperfusion injury	occurs after	blood flow restoration
+blood flow restoration	can cause	oxidative damage
+capillary stabilizing agents	may enhance	nitric oxide production
+nitric oxide production	relaxes	blood vessels
+blood vessel relaxation	lowers	vascular resistance
+capillary stabilizing agents	used in	eye disorders
+eye disorders	include	macular degeneration
+macular degeneration	affects	central vision
+central vision	processed by	macula
+capillary stabilizing agents	may support	brain microcirculation
+brain microcirculation	supplies	neurons

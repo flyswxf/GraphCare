@@ -1,0 +1,100 @@
+malposition	is a	fetal condition
+malpresentation	is a	fetal condition
+malposition	may cause	dystocia
+malpresentation	may cause	dystocia
+breech presentation	is a type of	malpresentation
+transverse lie	is a type of	malposition
+face presentation	is a type of	malpresentation
+brow presentation	is a type of	malpresentation
+malposition	increases risk of	cesarean delivery
+malpresentation	increases risk of	cesarean delivery
+malposition	requires	ultrasound diagnosis
+malpresentation	requires	ultrasound diagnosis
+malposition	may lead to	umbilical cord prolapse
+malpresentation	may lead to	umbilical cord prolapse
+malposition	associated with	polyhydramnios
+malpresentation	associated with	polyhydramnios
+malposition	associated with	multiparity
+malpresentation	associated with	uterine anomalies
+external cephalic version	treatment for	malposition
+external cephalic version	treatment for	malpresentation
+malposition	contraindicates	vaginal delivery
+malpresentation	contraindicates	vaginal delivery
+malposition	increases risk of	birth trauma
+malpresentation	increases risk of	birth trauma
+malposition	associated with	prematurity
+malpresentation	associated with	prematurity
+malposition	may cause	fetal distress
+malpresentation	may cause	fetal distress
+malposition	requires	fetal monitoring
+malpresentation	requires	fetal monitoring
+malposition	associated with	placenta previa
+malpresentation	associated with	placenta previa
+malposition	may lead to	postpartum hemorrhage
+malpresentation	may lead to	postpartum hemorrhage
+malposition	associated with	maternal obesity
+malpresentation	associated with	maternal obesity
+malposition	increases risk of	neonatal mortality
+malpresentation	increases risk of	neonatal mortality
+malposition	may require	tocolysis
+malpresentation	may require	tocolysis
+malposition	associated with	oligohydramnios
+malpresentation	associated with	oligohydramnios
+malposition	may cause	uterine rupture
+malpresentation	may cause	uterine rupture
+malposition	associated with	fetal macrosomia
+malpresentation	associated with	fetal macrosomia
+malposition	may lead to	meconium aspiration
+malpresentation	may lead to	meconium aspiration
+malposition	increases risk of	birth asphyxia
+malpresentation	increases risk of	birth asphyxia
+malposition	may require	forceps delivery
+malpresentation	may require	forceps delivery
+malposition	associated with	multiple gestation
+malpresentation	associated with	multiple gestation
+malposition	may cause	cervical laceration
+malpresentation	may cause	cervical laceration
+malposition	increases risk of	infection
+malpresentation	increases risk of	infection
+malposition	associated with	pelvic contraction
+malpresentation	associated with	pelvic contraction
+malposition	may require	general anesthesia
+malpresentation	may require	general anesthesia
+malposition	associated with	advanced maternal age
+malpresentation	associated with	advanced maternal age
+malposition	may lead to	neonatal resuscitation
+malpresentation	may lead to	neonatal resuscitation
+malposition	increases risk of	NICU admission
+malpresentation	increases risk of	NICU admission
+malposition	associated with	uterine fibroids
+malpresentation	associated with	uterine fibroids
+malposition	may cause	perineal tear
+malpresentation	may cause	perineal tear
+malposition	increases risk of	maternal mortality
+malpresentation	increases risk of	maternal mortality
+malposition	associated with	gestational diabetes
+malpresentation	associated with	gestational diabetes
+malposition	may require	episiotomy
+malpresentation	may require	episiotomy
+malposition	increases risk of	shoulder dystocia
+malpresentation	increases risk of	shoulder dystocia
+malposition	associated with	congenital anomalies
+malpresentation	associated with	congenital anomalies
+malposition	may lead to	hysterectomy
+malpresentation	may lead to	hysterectomy
+malposition	increases risk of	uterine atony
+malpresentation	increases risk of	uterine atony
+malposition	associated with	previous cesarean
+malpresentation	associated with	previous cesarean
+malposition	may cause	fetal fractures
+malpresentation	may cause	fetal fractures
+malposition	increases risk of	cerebral palsy
+malpresentation	increases risk of	cerebral palsy
+malposition	associated with	low birth weight
+malpresentation	associated with	low birth weight
+malposition	may require	vacuum extraction
+malpresentation	may require	vacuum extraction
+malposition	associated with	amniotic band syndrome
+malpresentation	associated with	amniotic band syndrome
+malposition	increases risk of	blood transfusion
+malpresentation	increases risk of	blood transfusion

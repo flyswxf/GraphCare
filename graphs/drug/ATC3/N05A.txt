@@ -1,0 +1,100 @@
+antipsychotics	is a	medication
+antipsychotics	treats	schizophrenia
+antipsychotics	treats	bipolar disorder
+antipsychotics	treats	psychosis
+antipsychotics	includes	first-generation antipsychotics
+antipsychotics	includes	second-generation antipsychotics
+first-generation antipsychotics	example	haloperidol
+second-generation antipsychotics	example	risperidone
+antipsychotics	mechanism	dopamine antagonism
+antipsychotics	may cause	extrapyramidal symptoms
+extrapyramidal symptoms	include	tardive dyskinesia
+antipsychotics	may cause	weight gain
+weight gain	risk factor	diabetes
+antipsychotics	may cause	sedation
+antipsychotics	may cause	metabolic syndrome
+metabolic syndrome	includes	high blood pressure
+metabolic syndrome	includes	dyslipidemia
+antipsychotics	used in	acute agitation
+antipsychotics	administered as	oral tablets
+antipsychotics	administered as	injections
+long-acting injections	used for	adherence improvement
+antipsychotics	interacts with	CNS depressants
+CNS depressants	include	benzodiazepines
+antipsychotics	contraindicated in	dementia-related psychosis
+dementia-related psychosis	risk	mortality
+antipsychotics	may cause	QT prolongation
+QT prolongation	risk factor	arrhythmia
+antipsychotics	monitored with	ECG
+antipsychotics	requires	liver function tests
+antipsychotics	requires	renal function tests
+antipsychotics	alternative	psychotherapy
+psychotherapy	includes	cognitive behavioral therapy
+antipsychotics	prescribed by	psychiatrist
+psychiatrist	specialization	mental health
+antipsychotics	dosage	individualized
+antipsychotics	side effect	hyperprolactinemia
+hyperprolactinemia	symptom	galactorrhea
+antipsychotics	side effect	anticholinergic effects
+anticholinergic effects	include	dry mouth
+antipsychotics	side effect	neuroleptic malignant syndrome
+neuroleptic malignant syndrome	symptom	hyperthermia
+antipsychotics	pregnancy category	risk assessment
+antipsychotics	withdrawal	gradual tapering
+abrupt withdrawal	risk	relapse
+antipsychotics	used off-label	insomnia
+insomnia	symptom	sleep disturbance
+antipsychotics	research area	glutamatergic modulation
+glutamatergic modulation	potential	treatment resistance
+antipsychotics	cost	varies
+generic antipsychotics	more affordable	brand-name
+antipsychotics	patient education	adherence importance
+non-adherence	consequence	symptom exacerbation
+antipsychotics	combined with	mood stabilizers
+mood stabilizers	example	lithium
+antipsychotics	combined with	antidepressants
+antidepressants	example	SSRIs
+antipsychotics	pharmacokinetics	liver metabolism
+liver metabolism	enzyme	CYP450
+CYP450	affected by	grapefruit juice
+antipsychotics	storage	room temperature
+antipsychotics	overdose	symptom	coma
+overdose	treatment	activated charcoal
+antipsychotics	brand name	Zyprexa
+Zyprexa	generic name	olanzapine
+antipsychotics	brand name	Abilify
+Abilify	generic name	aripiprazole
+antipsychotics	brand name	Seroquel
+Seroquel	generic name	quetiapine
+antipsychotics	brand name	Clozaril
+Clozaril	generic name	clozapine
+clozapine	monitoring	absolute neutrophil count
+absolute neutrophil count	risk	agranulocytosis
+antipsychotics	approved by	FDA
+FDA	role	drug regulation
+antipsychotics	clinical trial	phase 3
+clinical trial	purpose	efficacy verification
+antipsychotics	side effect	akathisia
+akathisia	symptom	restlessness
+antipsychotics	side effect	dystonia
+dystonia	symptom	muscle spasms
+antipsychotics	receptor binding	serotonin receptors
+serotonin receptors	role	mood regulation
+antipsychotics	receptor binding	histamine receptors
+histamine receptors	role	sedation
+antipsychotics	receptor binding	alpha-adrenergic receptors
+alpha-adrenergic receptors	role	blood pressure
+antipsychotics	side effect	orthostatic hypotension
+orthostatic hypotension	symptom	dizziness
+antipsychotics	patient monitoring	weight tracking
+weight tracking	purpose	early intervention
+antipsychotics	adherence tool	pill organizer
+pill organizer	benefit	medication schedule
+antipsychotics	non-pharmacological support	family therapy
+family therapy	benefit	social support
+antipsychotics	research focus	personalized medicine
+personalized medicine	approach	genetic testing
+genetic testing	identifies	CYP2D6 polymorphism
+CYP2D6 polymorphism	affects	drug metabolism
+antipsychotics	future direction	digital therapeutics
+digital therapeutics	includes	mobile apps

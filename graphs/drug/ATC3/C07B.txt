@@ -1,0 +1,100 @@
+beta blocking agents	is a	drug class
+thiazides	is a	drug class
+beta blocking agents	treats	hypertension
+thiazides	treats	hypertension
+beta blocking agents	treats	angina
+beta blocking agents	treats	arrhythmias
+beta blocking agents	reduces	heart rate
+thiazides	promotes	diuresis
+beta blocking agents	contraindicated in	asthma
+thiazides	causes	hypokalemia
+beta blocking agents	causes	fatigue
+thiazides	increases	uric acid
+beta blocking agents	interacts with	calcium channel blockers
+thiazides	interacts with	lithium
+beta blocking agents	mechanism	beta adrenergic blockade
+thiazides	mechanism	sodium chloride reabsorption inhibition
+beta blocking agents	subclass	cardioselective
+beta blocking agents	subclass	nonselective
+thiazides	subtype	hydrochlorothiazide
+thiazides	subtype	chlorthalidone
+beta blocking agents	example	propranolol
+beta blocking agents	example	metoprolol
+thiazides	example	bendroflumethiazide
+beta blocking agents	affects	blood pressure
+thiazides	affects	blood volume
+beta blocking agents	used in	heart failure
+thiazides	used in	edema
+beta blocking agents	caution in	diabetes
+thiazides	caution in	gout
+beta blocking agents	combination therapy with	thiazides
+thiazides	combination therapy with	beta blocking agents
+beta blocking agents	adverse effect	bradycardia
+thiazides	adverse effect	hypercalcemia
+beta blocking agents	monitoring parameter	blood pressure
+thiazides	monitoring parameter	electrolytes
+beta blocking agents	pregnancy category	C
+thiazides	pregnancy category	B
+beta blocking agents	metabolized by	liver
+thiazides	excreted by	kidneys
+beta blocking agents	onset	rapid
+thiazides	onset	slow
+beta blocking agents	duration	long
+thiazides	duration	moderate
+beta blocking agents	alternative	ACE inhibitors
+thiazides	alternative	loop diuretics
+beta blocking agents	superior in	post-MI
+thiazides	superior in	uncomplicated hypertension
+beta blocking agents	decreases	cardiac output
+thiazides	decreases	plasma volume
+beta blocking agents	increases	peripheral resistance
+thiazides	increases	calcium reabsorption
+beta blocking agents	contraindicated in	heart block
+thiazides	contraindicated in	sulfa allergy
+beta blocking agents	withdrawal symptom	rebound hypertension
+thiazides	symptom relief	polyuria
+beta blocking agents	receptor target	beta-1
+thiazides	receptor target	NCC
+beta blocking agents	lipid solubility	varies
+thiazides	protein binding	high
+beta blocking agents	half-life	variable
+thiazides	half-life	6-15 hours
+beta blocking agents	administration route	oral
+thiazides	administration route	oral
+beta blocking agents	bioavailability	variable
+thiazides	bioavailability	60-70%
+beta blocking agents	crosses BBB	some
+thiazides	crosses BBB	no
+beta blocking agents	first-line for	migraine prevention
+thiazides	first-line for	essential hypertension
+beta blocking agents	cost	low
+thiazides	cost	very low
+beta blocking agents	generic available	yes
+thiazides	generic available	yes
+beta blocking agents	black box warning	abrupt cessation
+thiazides	black box warning	none
+beta blocking agents	risk factor	depression
+thiazides	risk factor	photosensitivity
+beta blocking agents	monitoring needed	ECG
+thiazides	monitoring needed	renal function
+beta blocking agents	synergizes with	diuretics
+thiazides	synergizes with	beta blockers
+beta blocking agents	antagonizes	sympathomimetics
+thiazides	antagonizes	NSAIDs
+beta blocking agents	brand name	Inderal
+beta blocking agents	brand name	Lopressor
+thiazides	brand name	Microzide
+thiazides	brand name	Hygroton
+beta blocking agents	FDA approval	1960s
+thiazides	FDA approval	1950s
+beta blocking agents	research focus	heart failure
+thiazides	research focus	osteoporosis
+beta blocking agents	patent status	expired
+thiazides	patent status	expired
+beta blocking agents	storage	room temperature
+thiazides	storage	room temperature
+beta blocking agents	overdose treatment	glucagon
+thiazides	overdose treatment	electrolyte correction
+beta blocking agents	pediatric use	limited
+thiazides	pediatric use	approved
+beta blocking agents and thiazides	combination therapy	hypertension

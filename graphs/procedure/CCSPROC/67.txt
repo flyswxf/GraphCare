@@ -1,0 +1,100 @@
+therapeutic procedure	treats	hemic disorder
+therapeutic procedure	treats	lymphatic disorder
+lymphatic system	contains	lymph nodes
+lymphatic system	transports	lymphocytes
+hemic system	includes	blood cells
+blood transfusion	is a	therapeutic procedure
+blood transfusion	treats	anemia
+anemia	affects	hemic system
+bone marrow transplant	treats	leukemia
+leukemia	is a	hemic disorder
+lymphadenectomy	removes	lymph nodes
+lymphadenectomy	treats	lymphoma
+lymphoma	affects	lymphatic system
+splenectomy	removes	spleen
+spleen	is part of	lymphatic system
+immunotherapy	boosts	immune system
+immune system	includes	lymphatic system
+chemotherapy	treats	lymphoma
+chemotherapy	is a	therapeutic procedure
+radiation therapy	treats	Hodgkin's disease
+Hodgkin's disease	affects	lymph nodes
+plasmapheresis	filters	blood plasma
+plasmapheresis	treats	autoimmune disorders
+autoimmune disorders	affect	lymphatic system
+stem cell therapy	regenerates	blood cells
+stem cell therapy	is a	therapeutic procedure
+lymphatic drainage	improves	lymph flow
+lymphatic drainage	prevents	lymphedema
+lymphedema	affects	lymphatic vessels
+antibody therapy	targets	cancer cells
+antibody therapy	is a	therapeutic procedure
+thymectomy	removes	thymus
+thymus	produces	T-cells
+T-cells	are part of	immune system
+hematopoietic transplant	replaces	bone marrow
+hematopoietic transplant	treats	aplastic anemia
+aplastic anemia	affects	blood cell production
+lymph node biopsy	diagnoses	lymphoma
+lymph node biopsy	is a	diagnostic procedure
+therapeutic phlebotomy	removes	excess blood
+therapeutic phlebotomy	treats	hemochromatosis
+hemochromatosis	affects	iron levels
+intravenous immunoglobulin	replaces	antibodies
+intravenous immunoglobulin	treats	immune deficiencies
+immune deficiencies	affect	lymphatic system
+photopheresis	treats	cutaneous T-cell lymphoma
+photopheresis	uses	ultraviolet light
+cutaneous T-cell lymphoma	affects	skin
+lymphaticovenous anastomosis	connects	lymphatic vessels
+lymphaticovenous anastomosis	treats	lymphedema
+bone marrow aspiration	collects	stem cells
+bone marrow aspiration	is a	diagnostic procedure
+sclerotherapy	treats	varicose veins
+varicose veins	affect	lymphatic flow
+therapeutic lymphangiography	visualizes	lymphatic vessels
+therapeutic lymphangiography	is a	diagnostic procedure
+monoclonal antibodies	target	cancer cells
+monoclonal antibodies	are used in	immunotherapy
+immunosuppressive therapy	prevents	organ rejection
+immunosuppressive therapy	affects	immune system
+therapeutic apheresis	filters	blood components
+therapeutic apheresis	treats	myeloma
+myeloma	affects	plasma cells
+lymphatic massage	reduces	swelling
+lymphatic massage	improves	circulation
+hyperbaric oxygen therapy	increases	oxygen levels
+hyperbaric oxygen therapy	treats	chronic wounds
+chronic wounds	affect	lymphatic drainage
+therapeutic vaccination	stimulates	immune response
+therapeutic vaccination	prevents	infections
+infections	affect	lymphatic system
+lymph node transplantation	restores	lymphatic function
+lymph node transplantation	treats	lymphedema
+therapeutic thoracentesis	removes	pleural fluid
+therapeutic thoracentesis	treats	pleural effusion
+pleural effusion	affects	lymphatic drainage
+therapeutic paracentesis	removes	ascitic fluid
+therapeutic paracentesis	treats	ascites
+ascites	affects	lymphatic system
+therapeutic leukapheresis	removes	white blood cells
+therapeutic leukapheresis	treats	leukemia
+therapeutic erythrocytapheresis	removes	red blood cells
+therapeutic erythrocytapheresis	treats	polycythemia
+polycythemia	affects	blood viscosity
+therapeutic plateletpheresis	removes	platelets
+therapeutic plateletpheresis	treats	thrombocytosis
+thrombocytosis	affects	blood clotting
+therapeutic lymphapheresis	removes	lymphocytes
+therapeutic lymphapheresis	treats	leukemia
+therapeutic plasma exchange	replaces	plasma
+therapeutic plasma exchange	treats	Guillain-Barré syndrome
+Guillain-Barré syndrome	affects	peripheral nerves
+therapeutic irradiation	destroys	cancer cells
+therapeutic irradiation	treats	lymphoma
+therapeutic embolization	blocks	blood vessels
+therapeutic embolization	treats	hemangiomas
+hemangiomas	affect	blood vessels
+therapeutic venesection	removes	blood
+therapeutic venesection	treats	polycythemia vera
+polycythemia vera	affects	bone marrow

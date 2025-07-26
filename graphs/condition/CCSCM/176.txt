@@ -1,0 +1,100 @@
+contraceptive management	prevents	pregnancy
+procreative management	facilitates	pregnancy
+oral contraceptive	is a method of	contraceptive management
+intrauterine device	is a method of	contraceptive management
+condom	is a method of	contraceptive management
+fertility awareness	is a method of	procreative management
+in vitro fertilization	is a method of	procreative management
+hormonal contraceptive	affects	menstrual cycle
+emergency contraceptive	prevents	ovulation
+tubal ligation	is a permanent	contraceptive method
+vasectomy	is a permanent	contraceptive method
+contraceptive management	reduces risk of	sexually transmitted infections
+progesterone	is used in	hormonal contraceptives
+estrogen	is used in	hormonal contraceptives
+contraceptive implant	releases	progestin
+birth control pill	requires	prescription
+fertility drugs	stimulate	ovulation
+sperm donation	assists	procreative management
+egg freezing	preserves	fertility
+contraceptive patch	delivers	hormones
+contraceptive ring	delivers	hormones
+barrier methods	prevent	sperm entry
+fertility tracking	identifies	ovulation window
+artificial insemination	facilitates	fertilization
+contraceptive injection	suppresses	ovulation
+procreative management	involves	preconception counseling
+contraceptive management	reduces	maternal mortality
+family planning	includes	contraceptive options
+reproductive health	encompasses	procreative management
+contraceptive counseling	provides	method information
+fertility preservation	benefits	cancer patients
+natural family planning	relies on	fertility awareness
+emergency contraception	prevents	fertilization
+progestin-only pill	is safer for	breastfeeding women
+copper IUD	prevents	implantation
+fertility testing	assesses	reproductive health
+ovulation induction	stimulates	egg production
+surgical sterilization	prevents	conception
+contraceptive sponge	blocks	sperm
+diaphragm	blocks	sperm
+cervical cap	blocks	sperm
+fertility clinic	provides	procreative services
+reproductive endocrinologist	specializes in	fertility
+gynecologist	prescribes	contraceptives
+menstrual regulation	relates to	contraceptive use
+contraceptive management	prevents	unplanned pregnancies
+procreative management	requires	ovulation timing
+sperm motility	affects	fertility
+ovarian reserve	indicates	fertility potential
+follicle-stimulating hormone	regulates	ovulation
+luteinizing hormone	triggers	ovulation
+human chorionic gonadotropin	indicates	pregnancy
+contraceptive failure	leads to	unintended pregnancy
+fertility awareness methods	track	basal body temperature
+cervical mucus	changes during	fertility window
+assisted reproductive technology	includes	IVF
+intracytoplasmic sperm injection	assists	fertilization
+egg donation	enables	pregnancy
+surrogacy	facilitates	parenthood
+preimplantation genetic testing	screens	embryos
+contraceptive management	reduces	abortion rates
+procreative management	increases	pregnancy success
+polycystic ovary syndrome	affects	fertility
+endometriosis	reduces	fertility
+male infertility	requires	sperm analysis
+semen analysis	evaluates	sperm quality
+hysterosalpingography	checks	fallopian tube patency
+ovulation predictor kits	detect	LH surge
+fertility massage	improves	reproductive circulation
+acupuncture	may enhance	fertility
+prenatal vitamins	support	conception
+folic acid	prevents	neural tube defects
+contraceptive management	empowers	family planning
+procreative management	considers	genetic screening
+gamete intrafallopian transfer	assists	conception
+zygote intrafallopian transfer	assists	conception
+donor sperm	enables	pregnancy
+donor eggs	enable	pregnancy
+gestational carrier	carries	pregnancy
+fertility preservation	involves	egg freezing
+sperm freezing	preserves	fertility
+embryo freezing	preserves	fertility
+contraceptive management	reduces	teen pregnancies
+procreative management	addresses	infertility
+primary infertility	describes	no prior pregnancies
+secondary infertility	describes	difficulty conceiving again
+recurrent pregnancy loss	requires	evaluation
+fertility drugs	may cause	multiple pregnancies
+contraceptive use	may affect	bone density
+hormonal contraceptives	may reduce	menstrual pain
+progestin	thickens	cervical mucus
+estrogen	suppresses	FSH production
+fertility awareness	requires	cycle tracking
+basal body temperature	rises after	ovulation
+cervical position	changes during	fertility
+contraceptive management	improves	maternal health
+procreative management	requires	healthy lifestyle
+smoking	reduces	fertility
+alcohol	affects	fertility
+obesity	impacts	fertility

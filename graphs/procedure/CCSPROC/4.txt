@@ -1,0 +1,100 @@
+diagnostic spinal tap	is a	medical procedure
+diagnostic spinal tap	also called	lumbar puncture
+diagnostic spinal tap	used for	diagnosis
+diagnostic spinal tap	collects	cerebrospinal fluid
+diagnostic spinal tap	evaluates	meningitis
+diagnostic spinal tap	detects	subarachnoid hemorrhage
+diagnostic spinal tap	measures	intracranial pressure
+diagnostic spinal tap	analyzes	CNS infections
+diagnostic spinal tap	helps diagnose	multiple sclerosis
+diagnostic spinal tap	identifies	CNS malignancies
+diagnostic spinal tap	requires	sterile technique
+diagnostic spinal tap	uses	spinal needle
+diagnostic spinal tap	performed by	neurologist
+diagnostic spinal tap	performed by	anesthesiologist
+diagnostic spinal tap	requires	patient positioning
+diagnostic spinal tap	involves	local anesthesia
+diagnostic spinal tap	may cause	post-lumbar puncture headache
+diagnostic spinal tap	risks	infection
+diagnostic spinal tap	contraindicated in	increased intracranial pressure
+diagnostic spinal tap	contraindicated in	bleeding disorders
+diagnostic spinal tap	preceded by	coagulation tests
+diagnostic spinal tap	assesses	CSF glucose
+diagnostic spinal tap	measures	CSF protein
+diagnostic spinal tap	examines	white blood cell count
+diagnostic spinal tap	may reveal	oligoclonal bands
+diagnostic spinal tap	differentiates	bacterial meningitis
+diagnostic spinal tap	differentiates	viral meningitis
+diagnostic spinal tap	evaluates	Guillain-Barré syndrome
+diagnostic spinal tap	aids in	neurosyphilis diagnosis
+diagnostic spinal tap	helps diagnose	pseudotumor cerebri
+diagnostic spinal tap	contraindicated in	spinal cord compression
+diagnostic spinal tap	requires	informed consent
+diagnostic spinal tap	performed at	L3-L4 interspace
+diagnostic spinal tap	uses	manometer
+diagnostic spinal tap	may cause	nerve root irritation
+diagnostic spinal tap	complications	epidural hematoma
+diagnostic spinal tap	complications	brain herniation
+diagnostic spinal tap	follows	aseptic protocol
+diagnostic spinal tap	requires	anatomical landmarks
+diagnostic spinal tap	contraindicated in	skin infection
+diagnostic spinal tap	assesses	CSF color
+diagnostic spinal tap	measures	opening pressure
+diagnostic spinal tap	evaluates	CSF xanthochromia
+diagnostic spinal tap	detects	blood-brain barrier disruption
+diagnostic spinal tap	analyzes	immunoglobulin levels
+diagnostic spinal tap	contraindicated in	anticoagulant therapy
+diagnostic spinal tap	may require	imaging guidance
+diagnostic spinal tap	differentiates	inflammatory conditions
+diagnostic spinal tap	aids in	encephalitis diagnosis
+diagnostic spinal tap	evaluates	CSF culture
+diagnostic spinal tap	follows	standard precautions
+diagnostic spinal tap	requires	sterile gloves
+diagnostic spinal tap	uses	introducer needle
+diagnostic spinal tap	assesses	CSF clarity
+diagnostic spinal tap	measures	CSF lactate
+diagnostic spinal tap	examines	Gram stain
+diagnostic spinal tap	contraindicated in	thrombocytopenia
+diagnostic spinal tap	differentiates	demyelinating diseases
+diagnostic spinal tap	aids in	CNS lymphoma diagnosis
+diagnostic spinal tap	evaluates	CSF cytology
+diagnostic spinal tap	detects	autoimmune disorders
+diagnostic spinal tap	analyzes	PCR tests
+diagnostic spinal tap	assesses	viral load
+diagnostic spinal tap	contraindicated in	spinal deformity
+diagnostic spinal tap	requires	patient cooperation
+diagnostic spinal tap	may require	sedation
+diagnostic spinal tap	complications	CSF leak
+diagnostic spinal tap	risks	persistent headache
+diagnostic spinal tap	evaluates	blood contamination
+diagnostic spinal tap	measures	CSF viscosity
+diagnostic spinal tap	analyzes	tumor markers
+diagnostic spinal tap	differentiates	fungal infections
+diagnostic spinal tap	aids in	tuberculous meningitis diagnosis
+diagnostic spinal tap	examines	acid-fast bacilli
+diagnostic spinal tap	contraindicated in	uncooperative patient
+diagnostic spinal tap	requires	proper lighting
+diagnostic spinal tap	uses	stylet
+diagnostic spinal tap	assesses	CSF turbidity
+diagnostic spinal tap	measures	CSF chloride
+diagnostic spinal tap	evaluates	bacterial antigens
+diagnostic spinal tap	detects	parasitic infections
+diagnostic spinal tap	analyzes	viral antibodies
+diagnostic spinal tap	contraindicated in	local trauma
+diagnostic spinal tap	requires	emergency equipment
+diagnostic spinal tap	complications	meningitis
+diagnostic spinal tap	risks	back pain
+diagnostic spinal tap	evaluates	CSF pressure dynamics
+diagnostic spinal tap	measures	CSF cell differential
+diagnostic spinal tap	analyzes	fungal cultures
+diagnostic spinal tap	differentiates	carcinomatous meningitis
+diagnostic spinal tap	aids in	neurodegenerative disease diagnosis
+diagnostic spinal tap	examines	prion proteins
+diagnostic spinal tap	contraindicated in	suspected epidural abscess
+diagnostic spinal tap	requires	post-procedure monitoring
+diagnostic spinal tap	uses	atraumatic needle
+diagnostic spinal tap	assesses	CSF glucose ratio
+diagnostic spinal tap	measures	beta-2 transferrin
+diagnostic spinal tap	evaluates	autoimmune encephalitis
+diagnostic spinal tap	detects	paraneoplastic syndromes
+diagnostic spinal tap	analyzes	CSF electrophoresis

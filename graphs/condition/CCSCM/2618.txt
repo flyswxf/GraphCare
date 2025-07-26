@@ -1,0 +1,100 @@
+E codes	are part of	ICD coding system
+E codes	classify	external causes of injury
+E codes	are used for	mortality statistics
+E codes	assist in	public health surveillance
+E codes	help track	injury patterns
+E codes	support	epidemiological research
+E codes	complement	diagnosis codes
+E codes	document	accident circumstances
+E codes	identify	poisoning cases
+E codes	record	adverse drug events
+E codes	capture	transport accidents
+E codes	classify	assault mechanisms
+E codes	distinguish	intentional injuries
+E codes	differentiate	unintentional injuries
+E codes	specify	drowning causes
+E codes	detail	fall circumstances
+E codes	categorize	fire-related injuries
+E codes	organize	natural disaster cases
+E codes	systematize	workplace injuries
+E codes	catalog	sports injuries
+E codes	index	suicide attempts
+E codes	arrange	homicide cases
+E codes	group	legal intervention cases
+E codes	sort	war-related injuries
+E codes	file	terrorism-related injuries
+E codes	process	animal-related injuries
+E codes	manage	environmental exposure cases
+E codes	handle	machinery accidents
+E codes	coordinate	firearm injuries
+E codes	structure	cut/pierce injuries
+E codes	format	burn cases
+E codes	standardize	suffocation incidents
+E codes	regulate	choking events
+E codes	normalize	electrocution cases
+E codes	methodize	radiation exposure
+E codes	classify	overexertion injuries
+E codes	categorize	repetitive motion injuries
+E codes	organize	vibration-related injuries
+E codes	systematize	noise-induced injuries
+E codes	catalog	cold exposure cases
+E codes	index	heat exposure cases
+E codes	arrange	air pressure injuries
+E codes	group	water pressure injuries
+E codes	sort	space-related injuries
+E codes	file	undersea injuries
+E codes	process	altitude sickness cases
+E codes	manage	decompression sickness
+E codes	coordinate	motion sickness cases
+E codes	structure	travel-related injuries
+E codes	format	foreign body injuries
+E codes	standardize	medical device complications
+E codes	regulate	surgical complications
+E codes	normalize	diagnostic test complications
+E codes	methodize	therapeutic use complications
+E codes	classify	drug adverse effects
+E codes	categorize	vaccine adverse effects
+E codes	organize	blood transfusion reactions
+E codes	systematize	anesthesia complications
+E codes	catalog	dialysis complications
+E codes	index	radiation therapy complications
+E codes	arrange	chemotherapy complications
+E codes	group	immunization complications
+E codes	sort	prosthetic device complications
+E codes	file	implant complications
+E codes	process	transplant complications
+E codes	manage	rehabilitation complications
+E codes	coordinate	orthodontic complications
+E codes	structure	dental procedure complications
+E codes	format	obstetric procedure complications
+E codes	standardize	neonatal procedure complications
+E codes	regulate	pediatric procedure complications
+E codes	normalize	geriatric procedure complications
+E codes	methodize	emergency procedure complications
+E codes	classify	diagnostic procedure complications
+E codes	categorize	monitoring procedure complications
+E codes	organize	preventive procedure complications
+E codes	systematize	screening procedure complications
+E codes	catalog	vaccination procedure complications
+E codes	index	infusion procedure complications
+E codes	arrange	injection procedure complications
+E codes	group	catheterization complications
+E codes	sort	intubation complications
+E codes	file	ventilation complications
+E codes	process	resuscitation complications
+E codes	manage	defibrillation complications
+E codes	coordinate	pacemaker complications
+E codes	structure	stent complications
+E codes	format	graft complications
+E codes	standardize	bypass complications
+E codes	regulate	angioplasty complications
+E codes	normalize	endoscopy complications
+E codes	methodize	laparoscopy complications
+E codes	classify	arthroscopy complications
+E codes	categorize	biopsy complications
+E codes	organize	excision complications
+E codes	systematize	incision complications
+E codes	catalog	suturing complications
+E codes	index	drainage complications
+E codes	arrange	irrigation complications
+E codes	group	packing complications

@@ -1,0 +1,100 @@
+echocardiogram	is a	diagnostic test
+echocardiogram	uses	ultrasound technology
+echocardiogram	examines	heart structure
+echocardiogram	evaluates	heart function
+echocardiogram	detects	heart abnormalities
+echocardiogram	measures	ejection fraction
+echocardiogram	assesses	valve function
+echocardiogram	identifies	congenital defects
+echocardiogram	monitors	heart disease progression
+echocardiogram	guides	treatment decisions
+echocardiogram	requires	trained technician
+echocardiogram	produces	cardiac images
+echocardiogram	has types	transthoracic echocardiogram
+echocardiogram	has types	transesophageal echocardiogram
+echocardiogram	has types	stress echocardiogram
+echocardiogram	has types	Doppler echocardiogram
+transthoracic echocardiogram	is	noninvasive
+transesophageal echocardiogram	provides	clearer images
+stress echocardiogram	evaluates	heart under stress
+Doppler echocardiogram	measures	blood flow
+echocardiogram	diagnoses	cardiomyopathy
+echocardiogram	detects	pericardial effusion
+echocardiogram	evaluates	ventricular function
+echocardiogram	assesses	atrial size
+echocardiogram	screens for	endocarditis
+echocardiogram	measures	chamber dimensions
+echocardiogram	evaluates	wall motion
+echocardiogram	detects	blood clots
+echocardiogram	assesses	prosthetic valve function
+echocardiogram	guides	cardiac interventions
+echocardiogram	monitors	chemotherapy effects
+echocardiogram	predicts	cardiac risk
+echocardiogram	evaluates	pulmonary hypertension
+echocardiogram	measures	cardiac output
+echocardiogram	assesses	diastolic function
+echocardiogram	detects	myocarditis
+echocardiogram	evaluates	septal defects
+echocardiogram	screens	athletes
+echocardiogram	monitors	heart transplant
+echocardiogram	follows up	cardiac surgery
+echocardiogram	uses	gel
+echocardiogram	requires	patient cooperation
+echocardiogram	contraindicated in	severe obesity
+echocardiogram	limited by	lung disease
+echocardiogram	complements	electrocardiogram
+echocardiogram	more detailed than	chest X-ray
+echocardiogram	safer than	cardiac catheterization
+echocardiogram	performed by	cardiologist
+echocardiogram	interpreted by	imaging specialist
+echocardiogram	documented in	medical record
+echocardiogram	covered by	insurance
+echocardiogram	requires	physician order
+echocardiogram	takes	30-60 minutes
+echocardiogram	needs	preparation instructions
+echocardiogram	follows	safety protocols
+echocardiogram	maintains	patient privacy
+echocardiogram	uses	sterile probe covers
+echocardiogram	stores	digital images
+echocardiogram	compares	previous studies
+echocardiogram	generates	diagnostic report
+echocardiogram	assists	preoperative assessment
+echocardiogram	monitors	pacemaker function
+echocardiogram	evaluates	cardiac tumors
+echocardiogram	detects	aortic dissection
+echocardiogram	assesses	cardiac trauma
+echocardiogram	screens	family members
+echocardiogram	predicts	heart failure
+echocardiogram	guides	medication adjustment
+echocardiogram	evaluates	artificial heart
+echocardiogram	monitors	ventricular assist device
+echocardiogram	detects	vegetation
+echocardiogram	assesses	shunt direction
+echocardiogram	measures	pulmonary pressure
+echocardiogram	evaluates	right heart function
+echocardiogram	detects	thrombus
+echocardiogram	assesses	pericardium
+echocardiogram	evaluates	cardiac tamponade
+echocardiogram	detects	aortic stenosis
+echocardiogram	measures	valve area
+echocardiogram	calculates	stroke volume
+echocardiogram	estimates	filling pressure
+echocardiogram	detects	mitral regurgitation
+echocardiogram	grades	valve leakage
+echocardiogram	evaluates	prosthetic valve
+echocardiogram	detects	endocarditis complication
+echocardiogram	monitors	heart failure therapy
+echocardiogram	predicts	arrhythmia risk
+echocardiogram	assesses	cardiac synchronization
+echocardiogram	detects	hypertrophic cardiomyopathy
+echocardiogram	evaluates	left atrial pressure
+echocardiogram	measures	wall thickness
+echocardiogram	detects	dilated cardiomyopathy
+echocardiogram	assesses	global strain
+echocardiogram	evaluates	contractile reserve
+echocardiogram	detects	regional wall abnormalities
+echocardiogram	predicts	sudden cardiac death
+echocardiogram	monitors	valvular disease
+echocardiogram	guides	surgical planning
+echocardiogram	contributes to	risk stratification
+echocardiogram	enhances	cardiac diagnosis

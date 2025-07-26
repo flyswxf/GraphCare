@@ -1,0 +1,20 @@
+cerebral arteriogram	is a	diagnostic procedure
+cerebral arteriogram	visualizes	cerebral arteries
+cerebral arteriogram	detects	aneurysms
+cerebral arteriogram	requires	contrast dye
+contrast dye	may cause	allergic reactions
+allergic reactions	can lead to	anaphylaxis
+anaphylaxis	requires	epinephrine
+cerebral arteriogram	performed by	interventional radiologist
+interventional radiologist	uses	fluoroscopy
+fluoroscopy	emits	X-rays
+X-rays	may increase	cancer risk
+cerebral arteriogram	evaluates	arterial stenosis
+arterial stenosis	can cause	ischemic stroke
+ischemic stroke	treated with	thrombolytics
+thrombolytics	contraindicated in	hemorrhagic stroke
+cerebral arteriogram	identifies	arteriovenous malformations
+arteriovenous malformations	may require	embolization
+embolization	uses	coils
+coils	induce	thrombosis
+cerebral arteriogram	measures	blood flow velocity

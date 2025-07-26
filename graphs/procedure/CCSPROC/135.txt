@@ -1,0 +1,100 @@
+forceps	is a	surgical instrument
+vacuum extractor	is a	medical device
+breech delivery	is a	childbirth method
+forceps	used in	assisted vaginal delivery
+vacuum extractor	used in	assisted vaginal delivery
+breech delivery	requires	obstetric intervention
+forceps	can cause	perineal trauma
+vacuum extractor	can cause	scalp injury
+breech delivery	associated with	birth complications
+forceps delivery	increases risk of	pelvic floor injury
+vacuum delivery	increases risk of	cephalohematoma
+breech presentation	requires	delivery technique adjustment
+forceps	requires	operator skill
+vacuum extractor	requires	correct placement
+breech birth	has higher	neonatal morbidity
+forceps delivery	may lead to	facial nerve injury
+vacuum delivery	may lead to	retinal hemorrhage
+breech delivery	contraindicated in	cord prolapse
+forceps delivery	contraindicated in	fetal coagulation disorder
+vacuum extraction	contraindicated in	fetal bleeding disorder
+breech presentation	increases	cesarean section likelihood
+forceps	made of	stainless steel
+vacuum extractor	consists of	suction cup
+breech position	detected by	ultrasound
+forceps delivery	requires	epidural anesthesia
+vacuum delivery	requires	maternal pushing coordination
+breech delivery	may require	episiotomy
+forceps	classified as	obstetric instruments
+vacuum extractor	classified as	delivery assist device
+breech birth	associated with	developmental dysplasia of hip
+forceps delivery	increases	postpartum hemorrhage risk
+vacuum delivery	increases	neonatal jaundice risk
+breech delivery	associated with	umbilical cord compression
+forceps	requires	aseptic technique
+vacuum extractor	requires	pressure monitoring
+breech presentation	may require	external cephalic version
+forceps delivery	documented in	birth records
+vacuum delivery	documented in	delivery report
+breech birth	increases	NICU admission probability
+forceps	have	different blade types
+vacuum extractor	has	pressure limit
+breech position	affects	labor progression
+forceps delivery	may cause	vaginal laceration
+vacuum delivery	may cause	subgaleal hemorrhage
+breech delivery	contraindicated in	placenta previa
+forceps	require	proper alignment
+vacuum extractor	requires	cup detachment mechanism
+breech presentation	increases	fetal distress likelihood
+forceps delivery	associated with	longer second stage
+vacuum delivery	associated with	shorter second stage
+breech birth	requires	neonatal resuscitation preparation
+forceps	sterilized by	autoclaving
+vacuum extractor	uses	negative pressure
+breech position	classified by	fetal attitude
+forceps delivery	contraindicated in	macrosomia
+vacuum extraction	contraindicated in	face presentation
+breech delivery	requires	experienced obstetrician
+forceps	have	historical significance
+vacuum extractor	has	modern improvements
+breech birth	affects	Apgar scores
+forceps delivery	may require	antibiotic prophylaxis
+vacuum delivery	may require	phototherapy follow-up
+breech presentation	associated with	uterine anomalies
+forceps	require	correct application
+vacuum extractor	requires	proper traction
+breech delivery	increases	maternal anxiety
+forceps delivery	documented in	operative vaginal delivery statistics
+vacuum delivery	documented in	birth outcome studies
+breech birth	associated with	prematurity
+forceps	have	specific indications
+vacuum extractor	has	usage guidelines
+breech position	affects	labor management
+forceps delivery	may cause	neonatal bruising
+vacuum delivery	may cause	caput succedaneum
+breech delivery	contraindicated in	active herpes
+forceps	require	lubrication
+vacuum extractor	requires	proper sizing
+breech presentation	increases	cord entanglement risk
+forceps delivery	associated with	perineal pain
+vacuum delivery	associated with	scalp swelling
+breech birth	requires	careful neonatal examination
+forceps	stored in	delivery rooms
+vacuum extractor	maintained by	biomedical engineers
+breech position	influenced by	uterine shape
+forceps delivery	contraindicated in	fetal demineralization
+vacuum extraction	contraindicated in	fetal thrombocytopenia
+breech delivery	requires	informed consent
+forceps	have	varying sizes
+vacuum extractor	has	disposable components
+breech birth	affects	breastfeeding initiation
+forceps delivery	may require	catheterization
+vacuum delivery	may require	neonatal imaging
+breech presentation	associated with	multiple gestation
+forceps	require	training for use
+vacuum extractor	requires	periodic testing
+breech delivery	increases	maternal exhaustion
+forceps delivery	documented in	medical textbooks
+vacuum delivery	documented in	clinical protocols
+breech birth	associated with	congenital abnormalities
+forceps and vacuum	are	delivery assistance options

@@ -1,0 +1,100 @@
+upper gastrointestinal endoscopy	is a	medical procedure
+upper gastrointestinal endoscopy	examines	esophagus
+upper gastrointestinal endoscopy	examines	stomach
+upper gastrointestinal endoscopy	examines	duodenum
+upper gastrointestinal endoscopy	used for	diagnosis
+upper gastrointestinal endoscopy	detects	ulcers
+upper gastrointestinal endoscopy	detects	tumors
+upper gastrointestinal endoscopy	detects	inflammation
+upper gastrointestinal endoscopy	requires	sedation
+upper gastrointestinal endoscopy	requires	fasting
+upper gastrointestinal endoscopy	uses	endoscope
+upper gastrointestinal endoscopy	performed by	gastroenterologist
+upper gastrointestinal endoscopy	evaluates	GERD
+upper gastrointestinal endoscopy	evaluates	Barrett's esophagus
+upper gastrointestinal endoscopy	evaluates	celiac disease
+upper gastrointestinal endoscopy	can perform	biopsy
+biopsy	is a	diagnostic procedure
+biopsy	collects	tissue samples
+biopsy	analyzes	abnormalities
+biopsy	confirms	cancer
+biopsy	confirms	H. pylori infection
+biopsy	requires	histopathology
+biopsy	performed during	endoscopy
+biopsy	identifies	gastritis
+biopsy	identifies	metaplasia
+biopsy	uses	forceps
+biopsy	can cause	bleeding
+biopsy	can cause	perforation
+biopsy	results in	pathology report
+endoscope	contains	camera
+endoscope	contains	light source
+endoscope	contains	biopsy channel
+endoscope	requires	sterilization
+esophagus	is part of	digestive system
+stomach	is part of	digestive system
+duodenum	is part of	digestive system
+ulcers	caused by	H. pylori
+ulcers	caused by	NSAIDs
+tumors	can be	benign
+tumors	can be	malignant
+inflammation	symptom of	gastritis
+inflammation	symptom of	esophagitis
+sedation	reduces	discomfort
+sedation	requires	monitoring
+fasting	prevents	aspiration
+gastroenterologist	specializes in	digestive disorders
+GERD	causes	heartburn
+GERD	leads to	esophagitis
+Barrett's esophagus	increases risk	esophageal cancer
+celiac disease	causes	villous atrophy
+H. pylori infection	treated with	antibiotics
+H. pylori infection	diagnosed via	biopsy
+histopathology	examines	tissue samples
+histopathology	performed by	pathologist
+gastritis	classified as	acute
+gastritis	classified as	chronic
+metaplasia	precursor to	dysplasia
+forceps	used for	tissue sampling
+bleeding	managed with	cauterization
+perforation	requires	surgery
+pathology report	guides	treatment
+camera	captures	images
+light source	illuminates	GI tract
+biopsy channel	allows	instrument passage
+sterilization	prevents	infections
+digestive system	includes	upper GI tract
+digestive system	includes	lower GI tract
+H. pylori	transmitted via	oral route
+NSAIDs	cause	gastric irritation
+benign tumors	monitored via	surveillance
+malignant tumors	treated with	chemotherapy
+gastritis	caused by	alcohol
+esophagitis	caused by	acid reflux
+discomfort	managed with	pain relief
+monitoring	ensures	safety
+aspiration	prevented by	NPO status
+digestive disorders	include	peptic ulcers
+heartburn	relieved by	antacids
+esophageal cancer	staged via	imaging
+villous atrophy	reduces	nutrient absorption
+antibiotics	combined with	PPI
+pathologist	identifies	disease
+acute gastritis	resolves	quickly
+chronic gastritis	persists	long-term
+dysplasia	precursor to	cancer
+tissue sampling	confirms	diagnosis
+cauterization	stops	bleeding
+surgery	repairs	perforations
+treatment	based on	findings
+images	stored in	medical records
+GI tract	visualized via	endoscopy
+infections	prevented by	aseptic technique
+upper GI tract	includes	esophagus
+lower GI tract	includes	colon
+oral route	includes	contaminated food
+gastric irritation	causes	pain
+surveillance	detects	progression
+chemotherapy	targets	cancer cells
+alcohol	irritates	gastric lining
+acid reflux	treated with	lifestyle changes

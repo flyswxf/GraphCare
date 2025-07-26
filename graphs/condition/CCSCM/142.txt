@@ -1,0 +1,100 @@
+appendicitis	is a	appendiceal condition
+appendicitis	may lead to	perforation
+appendicitis	requires	appendectomy
+appendectomy	is a	surgical procedure
+laparoscopic appendectomy	is a type of	appendectomy
+open appendectomy	is a type of	appendectomy
+appendicitis	causes	abdominal pain
+abdominal pain	is a symptom of	appendicitis
+appendicitis	may cause	fever
+appendicitis	may cause	nausea
+appendicitis	may cause	vomiting
+appendicitis	may cause	loss of appetite
+appendicitis	is diagnosed with	physical exam
+appendicitis	is diagnosed with	ultrasound
+appendicitis	is diagnosed with	CT scan
+CT scan	is an	imaging technique
+ultrasound	is an	imaging technique
+appendicitis	may require	hospitalization
+hospitalization	may lead to	antibiotic therapy
+antibiotic therapy	treats	infection
+infection	may cause	appendicitis
+appendicitis	has complication	abscess
+abscess	may require	drainage
+drainage	is a	medical procedure
+appendicitis	has risk factor	family history
+appendicitis	has risk factor	age
+appendicitis	is more common in	teenagers
+appendicitis	is less common in	elderly
+appendicitis	may lead to	peritonitis
+peritonitis	is a	serious condition
+peritonitis	requires	emergency treatment
+emergency treatment	may include	surgery
+appendicitis	has biomarker	white blood cell count
+white blood cell count	indicates	infection
+appendicitis	may be confused with	gastroenteritis
+gastroenteritis	is a	digestive disorder
+appendicitis	differs from	irritable bowel syndrome
+irritable bowel syndrome	is a	chronic condition
+appendicitis	may coexist with	constipation
+constipation	may worsen	appendicitis
+appendicitis	may be prevented by	high-fiber diet
+high-fiber diet	promotes	digestive health
+appendicitis	has treatment complication	surgical site infection
+surgical site infection	requires	antibiotics
+appendicitis	may lead to	sepsis
+sepsis	is a	life-threatening condition
+appendicitis	has recovery time	2-4 weeks
+recovery time	depends on	surgery type
+appendicitis	may recur in	stump appendicitis
+stump appendicitis	is a	rare complication
+appendicitis	has alternative name	epityphlitis
+appendicitis	was first described in	1886
+appendicitis	has mortality rate	0.1-0.3%
+mortality rate	increases with	delayed treatment
+appendicitis	is classified as	acute or chronic
+acute appendicitis	requires	urgent care
+chronic appendicitis	has	milder symptoms
+appendicitis	may be caused by	fecalith
+fecalith	is a	hardened stool
+appendicitis	may be caused by	lymphoid hyperplasia
+lymphoid hyperplasia	is associated with	infections
+appendicitis	may be caused by	tumor
+tumor	may be	benign or malignant
+appendiceal tumor	is a	rare condition
+appendicitis	is part of	differential diagnosis
+differential diagnosis	includes	ovarian cyst
+ovarian cyst	affects	women
+appendicitis	may mimic	ectopic pregnancy
+ectopic pregnancy	is a	gynecological emergency
+appendicitis	may mimic	diverticulitis
+diverticulitis	affects	colon
+appendicitis	may mimic	cholecystitis
+cholecystitis	affects	gallbladder
+appendicitis	has scoring system	Alvarado score
+Alvarado score	predicts	appendicitis likelihood
+appendicitis	has treatment option	antibiotics alone
+antibiotics alone	may be used for	uncomplicated cases
+appendicitis	has research on	non-operative management
+non-operative management	is being studied
+appendicitis	has association with	gut microbiome
+gut microbiome	affects	immune system
+appendicitis	may affect	pregnancy outcomes
+pregnancy	complicates	diagnosis
+appendicitis	has postoperative care	pain management
+pain management	may include	opioids
+opioids	have risk of	addiction
+appendicitis	has postoperative care	wound care
+wound care	prevents	infection
+appendicitis	may lead to	adhesions
+adhesions	can cause	bowel obstruction
+appendicitis	has economic impact	healthcare costs
+healthcare costs	include	surgery expenses
+appendicitis	affects	quality of life
+quality of life	improves with	timely treatment
+appendicitis	has global incidence	11 cases per 10,000
+global incidence	varies by	region
+appendicitis	has seasonal variation	summer months
+seasonal variation	may relate to	infections
+appendicitis	has genetic predisposition	some families
+genetic predisposition	increases	susceptibility

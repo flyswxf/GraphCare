@@ -1,0 +1,20 @@
+antispasmodics	treat	muscle spasms
+analgesics	relieve	pain
+combination therapy	enhances	efficacy
+antispasmodics	belong to	anticholinergics
+analgesics	classified as	opioids
+combination	reduces	dosage requirement
+antispasmodics	act on	smooth muscle
+analgesics	inhibit	prostaglandins
+combination	used for	renal colic
+antispasmodics	contraindicated in	glaucoma
+analgesics	cause	constipation
+combination	prescribed for	IBS
+antispasmodics	interact with	CNS depressants
+analgesics	metabolized in	liver
+combination	requires	dose adjustment
+antispasmodics	affect	urinary retention
+analgesics	monitored for	addiction
+combination	common in	postoperative care
+antispasmodics	derived from	belladonna
+analgesics	include	NSAIDs
