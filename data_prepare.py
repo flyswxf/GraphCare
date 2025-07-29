@@ -15,9 +15,9 @@ from torch_geometric.utils import to_networkx, from_networkx
 
 def load_dataset(load_processed_dataset, dataset, task):
     if task == "drugrec":
-        file_name = f'/data/pj20/exp_data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
+        file_name = f'./data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
     elif task == "mortality" or task == "readmission" or task == "lenofstay":        
-        file_name = f'/data/pj20/exp_data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
+        file_name = f'./data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
 
     if load_processed_dataset:
         ### load processed dataset
@@ -54,7 +54,7 @@ def load_dataset(load_processed_dataset, dataset, task):
 
         if dataset == "mimic3":
             ds = MIMIC3Dataset(
-            root="/data/physionet.org/files/mimiciii/1.4/", 
+            root="./data/mimic3/", 
             tables=["DIAGNOSES_ICD", "PROCEDURES_ICD", "PRESCRIPTIONS"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -64,7 +64,7 @@ def load_dataset(load_processed_dataset, dataset, task):
             )
         elif dataset == "mimic4":
             ds = MIMIC4Dataset(
-            root="/data/physionet.org/files/mimiciv/2.0/hosp/", 
+            root="./data/mimic4/", 
             tables=["diagnoses_icd", "procedures_icd", "prescriptions"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -187,9 +187,9 @@ def prepare_drug_indices(sample_dataset):
 
 def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_cluster=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "./clustering/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "./clustering/ccscm_ccsproc_atc3"
 
     if load_cluster:
         with open(f'{path}/clusters_th015.json', 'r', encoding='utf-8') as f:
@@ -260,9 +260,9 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
 
 def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "./data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "./data/ccscm_ccsproc_atc3"
 
     G = nx.Graph()
 
@@ -363,9 +363,9 @@ def pad_and_convert(visits, max_visits, max_nodes):
 
 def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "./data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "./data/ccscm_ccsproc_atc3"
 
     c_v = []
     for patient in sample_dataset:
@@ -508,8 +508,8 @@ def run(dataset, task):
 
 def main():
     datasets = [
-        # "mimic3", 
-        "mimic4"
+        "mimic3", 
+        # "mimic4"
         ]
     tasks = [
         # "drugrec", 
