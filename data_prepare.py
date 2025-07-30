@@ -1,4 +1,5 @@
 import csv
+import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
 from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn
 import pickle
@@ -202,7 +203,7 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
             map_cluster_inv_rel = json.load(f)
 
     else:
-        cluster_alg = AgglomerativeClustering(n_clusters=None, distance_threshold=threshold, linkage='average', affinity='cosine')
+        cluster_alg = AgglomerativeClustering(n_clusters=None, distance_threshold=threshold, linkage='average', metric='cosine')
         cluster_labels = cluster_alg.fit_predict(ent_emb)
         cluster_labels_rel = cluster_alg.fit_predict(rel_emb)
 
@@ -258,12 +259,21 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
     return map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel
 
 
-def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False):
+def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False, load_graph=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./data/ccscm_ccsproc"
     else:
         path = "./data/ccscm_ccsproc_atc3"
 
+    # Check if graph file exists and load_graph is True
+    graph_file = f'{path}/graph_{dataset}_{task}_th015.pkl'
+    if load_graph and os.path.exists(graph_file):
+        print(f"Loading existing graph from {graph_file}")
+        with open(graph_file, 'rb') as f:
+            G = pickle.load(f)
+        return G
+
+    print("Building graph from scratch...")
     G = nx.Graph()
 
     for cluster_label, item in map_cluster.items():
@@ -475,13 +485,15 @@ def run(dataset, task):
         load_processed_dataset = False
     load_cluster = True
     save_cluster = False
-    save_graph = True
+    load_graph = True  # 新增：优先加载已存在的图文件
+    save_graph = False
     save_processed_dataset = True
 
     print(f"Dataset: {dataset}, Task: {task}")
     print(f"Load processed dataset: {load_processed_dataset}")
     print(f"Load cluster: {load_cluster}")
     print(f"Save cluster: {save_cluster}")
+    print(f"Load graph: {load_graph}")
     print(f"Save graph: {save_graph}")
     print(f"Save processed dataset: {save_processed_dataset}")
 
@@ -499,7 +511,7 @@ def run(dataset, task):
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel = clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=load_cluster, save_cluster=save_cluster)
 
     print("Processing graph...")
-    G = process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=save_graph)
+    G = process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=save_graph, load_graph=load_graph)
     G_tg = from_networkx(G)
 
     print("Processing dataset...")
@@ -513,8 +525,8 @@ def main():
         ]
     tasks = [
         # "drugrec", 
-        "mortality", 
-        "readmission", 
+        # "mortality", 
+        # "readmission", 
         "lenofstay"
         ]
 

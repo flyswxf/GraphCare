@@ -10,6 +10,8 @@ baselines.py
 # /graphs/condition
 # /graphs/drug
 # /graphs/procedure
+/data
+/clustering
 __pycache__
 .output
 .neptune
