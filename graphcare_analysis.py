@@ -16,7 +16,8 @@ import torch.nn.functional as F
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score, cohen_kappa_score
 import argparse
 import logging
-import neptune
+# import neptune
+import wandb
 from copy import deepcopy
 
 
@@ -403,12 +404,15 @@ def single_run(args, params):
     dataset, task, kg, batch_size, hidden_dim, epochs, lr, weight_decay, dropout, num_layers, decay_rate, gnn, patient_mode, alpha, beta, edge_attn, freeze, attn_init, in_drop_rate, kg_ratio, train_ratio, voc_ratio, data_idx = \
         params['dataset'], params['task'], params['kg'], params['batch_size'], params['hidden_dim'], params['epochs'], params['lr'], params['weight_decay'], params['dropout'], params['num_layers'], params['decay_rate'], params['gnn'], params['patient_mode'], params['alpha'], params['beta'], params['edge_attn'], params['freeze'], params['attn_init'], params['in_drop_rate'], params['kg_ratio'], params['train_ratio'], params['voc_ratio'], params['data_idx']
      
-    run = neptune.init_run(
-        project="patrick.jiang.cs/GraphCare",
-        api_token="eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiJlNDFjZWU1ZC1mZGM5LTQ2MTItYTk3ZC02ODIzOTA4MTY0YmIifQ==",
-    )
+    # run = neptune.init_run(
+    #     project="patrick.jiang.cs/GraphCare",
+    # )
+    # run[\"parameters\"] = params
 
-    run["parameters"] = params
+    wandb.init(
+        project="GraphCare-Analysis",
+        config=params
+    )
     
     device = torch.device(f"cuda:{args.device}" if torch.cuda.is_available() else 'cpu')
     logger = get_logger(dataset, task, kg, hidden_dim, epochs, lr, decay_rate, dropout, num_layers)
