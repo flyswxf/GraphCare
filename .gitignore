@@ -15,6 +15,7 @@ baselines.py
 __pycache__
 .output
 .neptune
+/wandb
 .ipynb_checkpoints
 /graph.gexf
 /graph.html

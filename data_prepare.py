@@ -525,9 +525,9 @@ def main():
         ]
     tasks = [
         # "drugrec", 
-        # "mortality", 
+        "mortality", 
         # "readmission", 
-        "lenofstay"
+        # "lenofstay"
         ]
 
     for dataset in datasets:

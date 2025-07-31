@@ -37,11 +37,11 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
         path_2 = "./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
 
     if kg_ratio != 1.0:
-        sample_dataset_file = f"{path_1}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
-        graph_file = f"{path_1}/graph_{dataset}_{task}_{kg}{th}.pkl"
+        sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
+        graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
     else:
-        sample_dataset_file = f"{path_1}/sample_dataset_{dataset}_{task}_{kg}{th}.pkl"
-        graph_file = f"{path_1}/graph_{dataset}_{task}_{kg}{th}.pkl"
+        sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}.pkl"
+        graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
     map_cluster_file = f"{path_1}/clusters_{th}.json" 
     map_cluster_inv = f"{path_1}/clusters_inv_{th}.json"
     map_cluster_rel = f"{path_1}/clusters_rel_{th}.json"
@@ -230,16 +230,25 @@ def train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_
     training_loss = 0
     tot_loss = 0
     pbar= tqdm(enumerate(train_loader))
+    
+    # 内存优化：梯度累积参数
+    accumulation_steps = 2  # 每2个batch累积一次梯度
+    
     for i, data in pbar:
         pbar.set_description(f'loss: {training_loss}')
 
         data = data.to(device)
-        optimizer.zero_grad()
+        
+        # 只在累积步骤开始时清零梯度
+        if i % accumulation_steps == 0:
+            optimizer.zero_grad()
 
         node_ids = data.y
         rel_ids = data.relation
         ehr_nodes = data.ehr_nodes.reshape(int(train_loader.batch_size), int(len(data.ehr_nodes)/train_loader.batch_size)).float() if patient_mode != "graph" else None
         visit_node = data.visit_padded_node.reshape(int(train_loader.batch_size), int(len(data.visit_padded_node)/train_loader.batch_size), data.visit_padded_node.shape[1]).float() 
+        
+        # 使用torch.no_grad()来减少内存使用（在不需要梯度的地方）
         out = model(
                 node_ids = node_ids, 
                 rel_ids = rel_ids,
@@ -253,9 +262,26 @@ def train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_
         label = data.label.reshape(int(train_loader.batch_size), int(len(data.label)/train_loader.batch_size))
 
         loss = loss_func(out, label.float())
+        # 梯度累积：将loss除以累积步数
+        loss = loss / accumulation_steps
         loss.backward()
-        training_loss = loss
-        tot_loss += loss
+        
+        training_loss = loss * accumulation_steps  # 显示真实的loss
+        tot_loss += loss * accumulation_steps
+        
+        # 只在累积步骤结束时更新参数
+        if (i + 1) % accumulation_steps == 0:
+            optimizer.step()
+        
+        # 内存优化：定期清理GPU缓存
+        if i % 10 == 0 and torch.cuda.is_available():
+            torch.cuda.empty_cache()
+        
+        # 删除不需要的变量以释放内存
+        del data, out, loss, label
+    
+    # 确保最后的梯度也被更新
+    if len(train_loader) % accumulation_steps != 0:
         optimizer.step()
     
     return tot_loss
@@ -340,7 +366,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
 
         if val_roc_auc >= best_roc_auc:
             # 原路径: torch.save(model.state_dict(), f'../../../data/pj20/exp_data/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
-            torch.save(model.state_dict(), f'/data/weights/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
+            torch.save(model.state_dict(), f'./data/weights/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
             print("best model saved")
             best_roc_auc = val_roc_auc
             early_stop_indicator = 0
@@ -350,14 +376,24 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
             if early_stop_indicator >= early_stop:
                 break
         if run is not None:
-            run["train/loss"].append(loss)
-            run["val/pr_auc"].append(val_pr_auc)
-            run["val/roc_auc"].append(val_roc_auc)
-            run["val/acc"].append(val_acc)
-            run["val/f1"].append(val_f1)
-            run["val/precision"].append(val_precision)
-            run["val/recall"].append(val_recall)
-            run["val/jaccard"].append(val_jaccard)
+            # run["train/loss"].append(loss)
+            # run["val/pr_auc"].append(val_pr_auc)
+            # run["val/roc_auc"].append(val_roc_auc)
+            # run["val/acc"].append(val_acc)
+            # run["val/f1"].append(val_f1)
+            # run["val/precision"].append(val_precision)
+            # run["val/recall"].append(val_recall)
+            # run["val/jaccard"].append(val_jaccard)
+            wandb.log({
+                "train/loss": loss,
+                "val/pr_auc": val_pr_auc,
+                "val/roc_auc": val_roc_auc,
+                "val/acc": val_acc,
+                "val/f1": val_f1,
+                "val/precision": val_precision,
+                "val/recall": val_recall,
+                "val/jaccard": val_jaccard
+            })
 
         print(f'Epoch: {epoch}, Training loss: {loss}, Val PRAUC: {val_pr_auc:.4f}, Val ROC_AUC: {val_roc_auc:.4f}, Val acc: {val_acc:.4f}, Val F1: {val_f1:.4f}, Val precision: {val_precision:.4f}, Val recall: {val_recall:.4f}, Val jaccard: {val_jaccard:.4f}')
         if logger is not None:
@@ -371,14 +407,14 @@ def construct_args():
     parser.add_argument('--kg', type=str, default='GPT-KG')
     parser.add_argument('--batch_size', type=int, default=64)
     parser.add_argument('--hidden_dim', type=int, default=128)
-    parser.add_argument('--epochs', type=int, default=100)
+    parser.add_argument('--epochs', type=int, default=20)# 原本是100
     parser.add_argument('--lr', type=float, default=1e-3)
     parser.add_argument('--weight_decay', type=float, default=1e-5)
     parser.add_argument('--dropout', type=float, default=0.5)
     parser.add_argument('--num_layers', type=int, default=3)
     parser.add_argument('--decay_rate', type=float, default=0.01)
     parser.add_argument('--freeze_emb', type=str, default="False")
-    parser.add_argument('--device', type=int, default=1)
+    parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--patient_mode', type=str, default='joint', choices=['joint', 'graph', 'node'])
     parser.add_argument('--alpha', type=str, default="True", choices=["True", "False"])
     parser.add_argument('--beta', type=str, default="True", choices=["True", "False"])
@@ -423,8 +459,8 @@ def single_run(args, params):
     # )
     # run[\"parameters\"] = params
 
-    wandb.init(
-        project="GraphCare",
+    run = wandb.init(
+        project="GraphCareTest",
         config=params
     )
     
@@ -461,10 +497,10 @@ def single_run(args, params):
     print("Getting initial node attention...")
     if task == "mortality" or task == "readmission":
         # 原路径: attn_file = f"/data/pj20/exp_data/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
-        attn_file = f"./clustering/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
+        attn_file = f"./data/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
     elif task == "lenofstay" or task == "drugrec":
         # 原路径: attn_file = f"/data/pj20/exp_data/ccscm_ccsproc/attention_weights_{task}.pkl"
-        attn_file = f"./clustering/ccscm_ccsproc/attention_weights_{task}.pkl"
+        attn_file = f"./data/ccscm_ccsproc/attention_weights_{task}.pkl"
     else:
         raise NotImplementedError
     
@@ -637,6 +673,29 @@ def hyper_search_(args, params):
 
 
 def main():
+    # 内存优化设置
+    import os
+    import gc
+    
+    # 设置PyTorch CUDA内存分配策略
+    os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
+    
+    # 清理GPU缓存
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+        torch.cuda.synchronize()
+    
+    # 设置内存增长策略
+    torch.backends.cudnn.benchmark = False
+    torch.backends.cudnn.deterministic = True
+    
+    print("内存优化设置已启用:")
+    print(f"PYTORCH_CUDA_ALLOC_CONF = {os.environ.get('PYTORCH_CUDA_ALLOC_CONF')}")
+    if torch.cuda.is_available():
+        print(f"GPU内存: {torch.cuda.get_device_properties(0).total_memory / 1024**3:.2f} GB")
+        print(f"当前已分配: {torch.cuda.memory_allocated() / 1024**3:.2f} GB")
+        print(f"当前缓存: {torch.cuda.memory_reserved() / 1024**3:.2f} GB")
+    
     args = construct_args()
     dataset, task, kg, batch_size, hidden_dim, epochs, lr, weight_decay, dropout, num_layers, \
      decay_rate, patient_mode, alpha, beta, edge_attn, gnn, hyper_search, freeze, attn_init, in_drop_rate, kg_ratio = \
