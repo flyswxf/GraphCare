@@ -11,9 +11,12 @@ baselines.py
 # /graphs/drug
 # /graphs/procedure
 .pdf
+/data
+/clustering
 __pycache__
 .output
 .neptune
+/wandb
 .ipynb_checkpoints
 /graph.gexf
 /graph.html

@@ -2,6 +2,7 @@ import json
 import numpy as np
 import pickle as pkl
 import random
+import os
 from collections import defaultdict
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
@@ -17,6 +18,9 @@ def two_hop_mapping(mapping_dict, umls_cuis, triple_set, save_path):
     first_hop_triples = defaultdict(set)
     for key in tqdm(mapping_dict.keys()):
         umls_id = mapping_dict[key]
+        # 跳过None值，这些是没有找到匹配的UMLS映射
+        if umls_id is None:
+            continue
         umls_cui = umls_cuis[umls_id]
         # print(umls_cui)
         for triple in triple_set:
@@ -24,6 +28,8 @@ def two_hop_mapping(mapping_dict, umls_cuis, triple_set, save_path):
                 first_hop_triples[key].add(triple)
     
     print('saving first hop triples...')
+    # 确保目录存在
+    os.makedirs(save_path, exist_ok=True)
     with open(save_path + '/first_hop_triples.pkl', 'wb') as f:
         pkl.dump(first_hop_triples, f)
     
@@ -48,6 +54,8 @@ def two_hop_mapping(mapping_dict, umls_cuis, triple_set, save_path):
                     second_hop_triples[key].add(triple)
                     
     print('saving second hop triples...')
+    # 确保目录存在
+    os.makedirs(save_path, exist_ok=True)
     with open(save_path + '/second_hop_triples.pkl', 'wb') as f:
         pkl.dump(second_hop_triples, f)
         
@@ -60,14 +68,22 @@ def two_hop_mapping(mapping_dict, umls_cuis, triple_set, save_path):
     return triple_count, len(entities), len(relations)
 
 
-ccscm2umls = load_data('/data/pj20/exp_data/ccscm2umls.pkl')
-ccsproc2umls = load_data('/data/pj20/exp_data/ccsproc2umls.pkl')
-atc32umls = load_data('/data/pj20/exp_data/atc32umls.pkl')
+# 获取脚本目录和项目根目录
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.join(script_dir, "..")
+data_dir = os.path.join(project_root, "data")
 
-with open('../KG_mapping/umls/umls.csv', 'r') as f:
+ccscm2umls = load_data(os.path.join(data_dir, 'ccscm2umls.pkl'))
+ccsproc2umls = load_data(os.path.join(data_dir, 'ccsproc2umls.pkl'))
+atc32umls = load_data(os.path.join(data_dir, 'atc32umls.pkl'))
+
+umls_csv_path = os.path.join(project_root, 'KG_mapping/umls/umls.csv')
+concepts_path = os.path.join(project_root, 'KG_mapping/umls/concepts.txt')
+
+with open(umls_csv_path, 'r') as f:
     lines_1 = f.readlines()
 
-with open('../KG_mapping/umls/concepts.txt', 'r') as f:
+with open(concepts_path, 'r') as f:
     umls_cuis = [line.strip() for line in f.readlines()]
 
 triple_set = {(items[1].strip(), items[0].strip(), items[2].strip()) for items in (line.split('\t') for line in lines_1)}
@@ -78,10 +94,11 @@ def threaded_two_hop_mapping(args):
     return two_hop_mapping(*args)
 
 with ThreadPoolExecutor(max_workers=16) as executor:
+    graphs_dir = os.path.join(project_root, 'graphs')
     datasets = [
-        (ccscm2umls, '../graphs/ccscm_umls'),
-        (ccsproc2umls, '../graphs/ccsproc_umls'),
-        (atc32umls, '../graphs/atc3_umls')
+        (ccscm2umls, os.path.join(graphs_dir, 'ccscm_umls')),
+        (ccsproc2umls, os.path.join(graphs_dir, 'ccsproc_umls')),
+        (atc32umls, os.path.join(graphs_dir, 'atc3_umls'))
     ]
 
     results = list(tqdm(executor.map(threaded_two_hop_mapping, [(d[0], umls_cuis, triple_set, d[1]) for d in datasets]), total=len(datasets)))

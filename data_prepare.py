@@ -1,4 +1,5 @@
 import csv
+import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
 from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn
 import pickle
@@ -15,9 +16,9 @@ from torch_geometric.utils import to_networkx, from_networkx
 
 def load_dataset(load_processed_dataset, dataset, task):
     if task == "drugrec":
-        file_name = f'/data/pj20/exp_data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
+        file_name = f'./data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
     elif task == "mortality" or task == "readmission" or task == "lenofstay":        
-        file_name = f'/data/pj20/exp_data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
+        file_name = f'./data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
 
     if load_processed_dataset:
         ### load processed dataset
@@ -54,7 +55,7 @@ def load_dataset(load_processed_dataset, dataset, task):
 
         if dataset == "mimic3":
             ds = MIMIC3Dataset(
-            root="/data/physionet.org/files/mimiciii/1.4/", 
+            root="./data/mimic3/", 
             tables=["DIAGNOSES_ICD", "PROCEDURES_ICD", "PRESCRIPTIONS"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -64,7 +65,7 @@ def load_dataset(load_processed_dataset, dataset, task):
             )
         elif dataset == "mimic4":
             ds = MIMIC4Dataset(
-            root="/data/physionet.org/files/mimiciv/2.0/hosp/", 
+            root="./data/mimic4/", 
             tables=["diagnoses_icd", "procedures_icd", "prescriptions"],      
             code_mapping={
                 "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
@@ -187,9 +188,9 @@ def prepare_drug_indices(sample_dataset):
 
 def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_cluster=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "./clustering/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "./clustering/ccscm_ccsproc_atc3"
 
     if load_cluster:
         with open(f'{path}/clusters_th015.json', 'r', encoding='utf-8') as f:
@@ -202,7 +203,7 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
             map_cluster_inv_rel = json.load(f)
 
     else:
-        cluster_alg = AgglomerativeClustering(n_clusters=None, distance_threshold=threshold, linkage='average', affinity='cosine')
+        cluster_alg = AgglomerativeClustering(n_clusters=None, distance_threshold=threshold, linkage='average', metric='cosine')
         cluster_labels = cluster_alg.fit_predict(ent_emb)
         cluster_labels_rel = cluster_alg.fit_predict(rel_emb)
 
@@ -258,12 +259,21 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
     return map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel
 
 
-def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False):
+def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False, load_graph=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "./data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "./data/ccscm_ccsproc_atc3"
 
+    # Check if graph file exists and load_graph is True
+    graph_file = f'{path}/graph_{dataset}_{task}_th015.pkl'
+    if load_graph and os.path.exists(graph_file):
+        print(f"Loading existing graph from {graph_file}")
+        with open(graph_file, 'rb') as f:
+            G = pickle.load(f)
+        return G
+
+    print("Building graph from scratch...")
     G = nx.Graph()
 
     for cluster_label, item in map_cluster.items():
@@ -363,9 +373,9 @@ def pad_and_convert(visits, max_visits, max_nodes):
 
 def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False):
     if task == "drugrec" or task == "lenofstay":
-        path = "/data/pj20/exp_data/ccscm_ccsproc"
+        path = "./data/ccscm_ccsproc"
     else:
-        path = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
+        path = "./data/ccscm_ccsproc_atc3"
 
     c_v = []
     for patient in sample_dataset:
@@ -475,13 +485,15 @@ def run(dataset, task):
         load_processed_dataset = False
     load_cluster = True
     save_cluster = False
-    save_graph = True
+    load_graph = True  # 新增：优先加载已存在的图文件
+    save_graph = False
     save_processed_dataset = True
 
     print(f"Dataset: {dataset}, Task: {task}")
     print(f"Load processed dataset: {load_processed_dataset}")
     print(f"Load cluster: {load_cluster}")
     print(f"Save cluster: {save_cluster}")
+    print(f"Load graph: {load_graph}")
     print(f"Save graph: {save_graph}")
     print(f"Save processed dataset: {save_processed_dataset}")
 
@@ -499,7 +511,7 @@ def run(dataset, task):
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel = clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=load_cluster, save_cluster=save_cluster)
 
     print("Processing graph...")
-    G = process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=save_graph)
+    G = process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=save_graph, load_graph=load_graph)
     G_tg = from_networkx(G)
 
     print("Processing dataset...")
@@ -508,14 +520,14 @@ def run(dataset, task):
 
 def main():
     datasets = [
-        # "mimic3", 
-        "mimic4"
+        "mimic3", 
+        # "mimic4"
         ]
     tasks = [
         # "drugrec", 
         "mortality", 
-        "readmission", 
-        "lenofstay"
+        # "readmission", 
+        # "lenofstay"
         ]
 
     for dataset in datasets:
