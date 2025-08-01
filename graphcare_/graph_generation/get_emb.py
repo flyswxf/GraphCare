@@ -57,6 +57,7 @@ def embedding_retriever(term):
     base_delay = 1.0  # 基础延迟时间
     
     for attempt in range(max_retries):
+        response = None
         try:
             # Send the request and retrieve the response
             response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=30)
@@ -104,8 +105,13 @@ def embedding_retriever(term):
             if attempt == max_retries - 1:
                 raise Exception(f"网络请求失败: {e}")
         
-        # 等待后重试（非频率限制错误）
-        if attempt < max_retries - 1 and response.status_code != 429:
-            wait_time = (attempt + 1) * 3  # 递增等待时间
-            print(f"等待 {wait_time} 秒后重试...")
-            time.sleep(wait_time)
+        # 等待后重试（非成功情况且非频率限制错误）
+        if attempt < max_retries - 1:
+            if response is not None and response.status_code == 429:
+                # 频率限制错误已经在上面处理了等待时间
+                continue
+            else:
+                # 其他错误情况的等待时间
+                wait_time = (attempt + 1) * 3  # 递增等待时间
+                print(f"等待 {wait_time} 秒后重试...")
+                time.sleep(wait_time)
