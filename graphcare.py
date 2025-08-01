@@ -36,6 +36,8 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
         # 原路径: path_2 = "/data/pj20/g/graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
         path_2 = "./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
 
+    # kg_ratio 是GraphCare中的一个重要超参数，用于控制 知识图谱的完整性比例 。
+    # 
     if kg_ratio != 1.0:
         sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
         graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
@@ -576,7 +578,7 @@ def single_run(args, params):
         run=run
         )
 
-    run.stop()
+    wandb.finish()
 
 
 def hyper_search_(args, params):
