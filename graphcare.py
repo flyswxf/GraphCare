@@ -16,7 +16,7 @@ from pyhealth.metrics import multilabel_metrics_fn
 import torch.nn.functional as F
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score, cohen_kappa_score
 import argparse
-import logging
+import loggingd
 # import neptune
 import wandb
 from copy import deepcopy
@@ -167,7 +167,7 @@ def label_k_hop_nodes(G, dataset, k=1):
     
     return dataset
 
-
+# 这是每次训练加载的data
 def get_subgraph(G, dataset, task, idx, strategy="1"):
     patient = dataset[idx]
     while len(patient['node_set']) == 0:

@@ -102,9 +102,11 @@ class GraphCare(nn.Module):
         super(GraphCare, self).__init__()
 
         self.gnn = gnn
+        # ("BAT", "GAT", "GIN")
         self.embedding_dim = embedding_dim
         self.decay_rate = decay_rate
         self.patient_mode = patient_mode
+        # ("joint", "graph", "node")
         self.use_alpha = use_alpha
         self.use_beta = use_beta
         self.edge_attn = use_edge_attn
