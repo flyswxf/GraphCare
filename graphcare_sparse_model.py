@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch_geometric.nn import GINEConv, GATConv, GINConv
-from pyhealth.models import RETAINLayer
 from torch_geometric.nn.inits import reset
 
 from typing import Callable, Optional, Union
@@ -61,13 +60,9 @@ class BiAttentionGNNConv(MessagePassing):
         if isinstance(x, Tensor):
             x: OptPairTensor = (x, x)
 
-        # Store original edge weights for sparsification
-        if edge_weights is not None:
-            # Apply edge weights during message passing
-            out = self.propagate(edge_index, x=x, edge_attr=edge_attr, size=size, 
-                               attn=attn, edge_weights=edge_weights)
-        else:
-            out = self.propagate(edge_index, x=x, edge_attr=edge_attr, size=size, attn=attn)
+        # Always call propagate with consistent arguments
+        out = self.propagate(edge_index, x=x, edge_attr=edge_attr, size=size, 
+                           attn=attn, edge_weights=edge_weights)
 
         x_r = x[1]
         if x_r is not None:

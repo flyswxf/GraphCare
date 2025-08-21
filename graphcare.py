@@ -16,7 +16,7 @@ from pyhealth.metrics import multilabel_metrics_fn
 import torch.nn.functional as F
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score, cohen_kappa_score
 import argparse
-import loggingd
+import logging
 # import neptune
 import wandb
 from copy import deepcopy

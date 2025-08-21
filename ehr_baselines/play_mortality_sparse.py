@@ -61,7 +61,7 @@ wandb_config = {
     "l1_lambda": 1e-4,
     "connectivity_lambda": 1e-3,
 }
-run = wandb.init(project="GraphCareTest", config=wandb_config)
+run = wandb.init(project="GraphCareSparseTest", config=wandb_config)
 exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}"
 logger = get_logger(exp_name)
 
@@ -81,14 +81,16 @@ except Exception as e:
 
 # Convert networkx graph to PyTorch Geometric format
 G_tg = from_networkx(graph)
-G_tg = G_tg.to(device)
+# 保持 G_tg 在 CPU 上，避免在 Dataset.__getitem__ 内部进行子图提取时出现“indices/device”不匹配错误；
+# 后续每个 batch 的 Data 会在训练/评估循环里被 .to(device) 移动到 GPU。
+# G_tg = G_tg.to(device)
 
 # Get task configuration
 mode, out_channels, loss_function = get_mode_and_out_channels_and_loss_func(task, sample_dataset)
 print(f"Task mode: {mode}, Output channels: {out_channels}")
 
 # Label EHR nodes with patient data
-max_nodes = max(ent2id.values()) + 1
+max_nodes = G_tg.num_nodes  # keep consistent with visit_padded_node last dim (built from G_tg)
 sample_dataset = label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
 
 # Label k-hop subgraph nodes
@@ -126,8 +128,8 @@ model = SparseGraphCare(
     rel_emb=rel_emb_tensor,
     freeze=False,
     patient_mode="joint",
-    use_alpha=True,
-    use_beta=True,
+    use_alpha=False,
+    use_beta=False,
     use_edge_attn=True,
     self_attn=0.,
     gnn="BAT",
@@ -238,26 +240,20 @@ def evaluate(loader):
                 batch_size, -1
             ).float()
             
-            if model.use_sparsification:
-                logits, _ = model(
-                    node_ids=node_ids,
-                    rel_ids=rel_ids,
-                    edge_index=edge_index,
-                    batch=batch,
-                    visit_node=visit_node,
-                    ehr_nodes=ehr_nodes,
-                    in_drop=False
-                )
+            out = model(
+                node_ids=node_ids,
+                rel_ids=rel_ids,
+                edge_index=edge_index,
+                batch=batch,
+                visit_node=visit_node,
+                ehr_nodes=ehr_nodes,
+                in_drop=False
+            )
+            
+            if isinstance(out, tuple):
+                logits = out[0]
             else:
-                logits = model(
-                    node_ids=node_ids,
-                    rel_ids=rel_ids,
-                    edge_index=edge_index,
-                    batch=batch,
-                    visit_node=visit_node,
-                    ehr_nodes=ehr_nodes,
-                    in_drop=False
-                )
+                logits = out
             
             if mode == "binary":
                 y_prob = torch.sigmoid(logits)
