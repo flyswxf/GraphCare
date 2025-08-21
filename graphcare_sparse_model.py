@@ -194,7 +194,11 @@ class SparseGraphCare(nn.Module):
             self.rel_emb = nn.Embedding.from_pretrained(rel_emb, freeze=freeze)
 
         # Linear transformation and normalization
-        self.lin = nn.Linear(embedding_dim, hidden_dim)
+        # Support different pretrained dimensions for node and relation embeddings
+        self.node_in_dim = self.node_emb.embedding_dim
+        self.rel_in_dim = self.rel_emb.embedding_dim
+        self.lin_node = nn.Linear(self.node_in_dim, hidden_dim)
+        self.lin_rel = nn.Linear(self.rel_in_dim, hidden_dim)
         self.bn1 = nn.BatchNorm1d(hidden_dim)
 
         self.layers = layers
@@ -290,8 +294,8 @@ class SparseGraphCare(nn.Module):
         edge_attr = self.rel_emb(rel_ids).float()
 
         # Transform to hidden dimension
-        x = self.lin(x)
-        edge_attr = self.lin(edge_attr)
+        x = self.lin_node(x)
+        edge_attr = self.lin_rel(edge_attr)
 
         # Compute edge scores for sparsification
         edge_scores = None
@@ -367,10 +371,11 @@ class SparseGraphCare(nn.Module):
             # Node-level representation via EHR node averaging
             batch_size = batch.max().item() + 1
             x_node = torch.stack([
-                ehr_nodes[i].view(1, -1) @ self.node_emb.weight / torch.sum(ehr_nodes[i])
+                ehr_nodes[i].view(1, -1) @ self.node_emb.weight / torch.clamp(torch.sum(ehr_nodes[i]), min=1e-6)
                 for i in range(batch_size)
             ])
-            x_node = self.lin(x_node).squeeze(1)
+
+            x_node = self.lin_node(x_node).squeeze(1)
             x_node = F.dropout(x_node, p=self.dropout, training=self.training)
 
         # Final prediction
