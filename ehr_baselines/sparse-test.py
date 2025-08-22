@@ -17,6 +17,7 @@ import numpy as np
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score
 import wandb
 import logging
+import torch.nn as nn
 
 # Configuration
 dataset = "mimic3" 
@@ -81,7 +82,7 @@ except Exception as e:
 
 # Convert networkx graph to PyTorch Geometric format
 G_tg = from_networkx(graph)
-# 保持 G_tg 在 CPU 上，避免在 Dataset.__getitem__ 内部进行子图提取时出现 indices/device 不匹配错误；
+# 保持 G_tg 在 CPU 上，避免在 Dataset.__getitem__ 内部进行子图提取时出现“indices/device”不匹配错误；
 # 后续每个 batch 的 Data 会在训练/评估循环里被 .to(device) 移动到 GPU。
 # G_tg = G_tg.to(device)
 
@@ -110,15 +111,20 @@ num_nodes = max_nodes
 # Determine max_visit from dataset to match visit_padded_node
 max_visit = sample_dataset[0]['visit_padded_node'].shape[0] if 'visit_padded_node' in sample_dataset[0] else 64
 
-# Convert embeddings to tensors
-node_emb_tensor = torch.FloatTensor(ent_emb) if ent_emb is not None else None
-rel_emb_tensor = torch.FloatTensor(rel_emb) if rel_emb is not None else None
+# Prepare embeddings so their sizes match graph dims to avoid matmul mismatch
+# Use G_tg.x (num_nodes x emb_dim) as node embeddings to align with ehr_nodes length
+node_emb_tensor = G_tg.x if hasattr(G_tg, 'x') and G_tg.x is not None else torch.FloatTensor(ent_emb)
+# Use relation embeddings from clustered rel mapping (consistent with edges)
+rel_emb_tensor = get_rel_emb(map_cluster_rel)
+
+# Infer dimensions from tensors
+embedding_dim = int(node_emb_tensor.shape[1])
+num_rels = int(rel_emb_tensor.shape[0])
 
 model = SparseGraphCare(
     num_nodes=num_nodes,
     num_rels=num_rels,
     max_visit=max_visit,
-    embedding_dim=embedding_dim,
     embedding_dim=embedding_dim,
     hidden_dim=128,
     out_channels=out_channels,
@@ -161,6 +167,26 @@ print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requir
 # Optimizer
 optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=1e-4)
 
+# Add: compute class imbalance and set pos_weight for BCEWithLogitsLoss
+if mode == "binary":
+    def compute_pos_weight(loader):
+        pos = 0.0
+        neg = 0.0
+        with torch.no_grad():
+            for batch_data in loader:
+                batch = batch_data.batch
+                curr_bs = int(batch.max().item() + 1)
+                labels = batch_data.label.reshape(curr_bs, -1).float()
+                y = labels.detach().cpu().numpy().reshape(-1)
+                pos += float(y.sum())
+                neg += float(len(y) - y.sum())
+        pw = (neg / max(pos, 1e-6)) if pos > 0 else 1.0
+        return torch.tensor(pw, dtype=torch.float32, device=device)
+
+    pos_weight = compute_pos_weight(train_loader)
+    print(f"Using pos_weight for BCEWithLogitsLoss: {pos_weight.item():.4f}")
+    loss_function = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
+
 # Training function
 def train_one_epoch():
     model.train()
@@ -177,12 +203,16 @@ def train_one_epoch():
         edge_index = batch_data.edge_index
         batch = batch_data.batch
         
+        # 使用实际 batch 大小进行重排，避免最后一个 batch 大小变化导致错位
+        curr_bs = int(batch.max().item() + 1)
+        visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
+        
         # Reshape tensors for GraphCare format
         visit_node = batch_data.visit_padded_node.reshape(
-            batch_size, -1, batch_data.visit_padded_node.shape[1]
+            curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
         ).float()
         ehr_nodes = batch_data.ehr_nodes.reshape(
-            batch_size, -1
+            curr_bs, -1
         ).float()
         
         # Model forward
@@ -209,7 +239,7 @@ def train_one_epoch():
             sparse_loss = 0
         
         # Compute prediction loss
-        labels = batch_data.label.reshape(batch_size, -1).float()
+        labels = batch_data.label.reshape(curr_bs, -1).float()
         pred_loss = loss_function(logits, labels)
         
         # Total loss
@@ -237,11 +267,15 @@ def evaluate(loader):
             edge_index = batch_data.edge_index
             batch = batch_data.batch
             
+            # 使用实际 batch 大小进行重排
+            curr_bs = int(batch.max().item() + 1)
+            visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
+            
             visit_node = batch_data.visit_padded_node.reshape(
-                batch_size, -1, batch_data.visit_padded_node.shape[1]
+                curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
             ).float()
             ehr_nodes = batch_data.ehr_nodes.reshape(
-                batch_size, -1
+                curr_bs, -1
             ).float()
             
             out = model(
@@ -264,13 +298,14 @@ def evaluate(loader):
             else:
                 y_prob = F.softmax(logits, dim=-1)
             
-            labels = batch_data.label.reshape(batch_size, -1)
+            labels = batch_data.label.reshape(curr_bs, -1)
             
             y_true_all.append(labels.cpu().numpy())
             y_prob_all.append(y_prob.cpu().numpy())
     
-    y_true_all = np.concatenate(y_true_all, axis=0)
-    y_prob_all = np.concatenate(y_prob_all, axis=0)
+    # 将二分类的 y_true/y_prob 展平为 1D，避免被 sklearn 当作 (N, 1) 的多标签矩阵
+    y_true_all = np.concatenate(y_true_all, axis=0).reshape(-1)
+    y_prob_all = np.concatenate(y_prob_all, axis=0).reshape(-1)
     
     return y_true_all, y_prob_all
 
@@ -287,7 +322,7 @@ for epoch in range(1, epochs + 1):
     # Validate
     y_true_val, y_prob_val = evaluate(val_loader)
     
-    # Calculate comprehensive validation metrics (following graphcare.py)
+    # Calculate comprehensive validation metrics (following graphcare.py but using probabilities for AUC/PR-AUC)
     if mode == "binary":
         y_pred_val = (y_prob_val >= 0.5).astype(int)
         

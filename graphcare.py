@@ -2,7 +2,11 @@ import pickle
 import json
 import random
 import networkx as nx
-from pyhealth.datasets import SampleDataset
+# Optional: pyhealth is only needed for certain utilities; make import resilient
+try:
+    from pyhealth.datasets import SampleDataset
+except Exception:
+    SampleDataset = None
 from graphcare_ import split_by_patient
 from torch_geometric.utils import to_networkx, from_networkx
 from tqdm import tqdm
@@ -12,7 +16,11 @@ from torch_geometric.loader import DataListLoader, DataLoader
 from torch_geometric.utils import k_hop_subgraph
 from graphcare_ import GAT, GIN, GraphCare
 from tqdm import tqdm
-from pyhealth.metrics import multilabel_metrics_fn
+# Optional: metrics from pyhealth; not required for core training here
+try:
+    from pyhealth.metrics import multilabel_metrics_fn
+except Exception:
+    multilabel_metrics_fn = None
 import torch.nn.functional as F
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score, cohen_kappa_score
 import argparse
@@ -320,86 +328,78 @@ def evaluate(mode, patient_mode, gnn, model, device, loader):
 
             y_prob_all.append(y_prob.cpu())
             y_true_all.append(y_true.cpu())
-            
-    y_true_all = np.concatenate(y_true_all, axis=0)
-    y_prob_all = np.concatenate(y_prob_all, axis=0)
+        
+        # 内存优化：定期清理GPU缓存
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+
+    y_prob_all = torch.cat(y_prob_all, dim=0).detach().cpu().numpy()
+    y_true_all = torch.cat(y_true_all, dim=0).detach().cpu().numpy()
 
     return y_true_all, y_prob_all
 
 def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader, model, optimizer, loss_func, device, epochs, logger=None, run=None, early_stop=5):
-    best_roc_auc = 0
-    best_f1 = 0
+    best_val_auc = 0
     early_stop_indicator = 0
-    for epoch in range(1, epochs+1):
-        loss = train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_func)
-        y_true_all, y_prob_all = evaluate(mode, patient_mode, gnn, model, device, val_loader)
-        
-        if mode == "binary":
-            y_pred_all = (y_prob_all >= 0.5).astype(int)
 
-            val_pr_auc = average_precision_score(y_true_all, y_prob_all)
-            val_roc_auc = roc_auc_score(y_true_all, y_prob_all)
-            val_jaccard = jaccard_score(y_true_all, y_pred_all, average="macro", zero_division=1)
-            val_acc = accuracy_score(y_true_all, y_pred_all)
-            val_f1 = f1_score(y_true_all, y_pred_all, average="macro", zero_division=1)
-            val_precision = precision_score(y_true_all, y_pred_all, average="macro", zero_division=1)
-            val_recall = recall_score(y_true_all, y_pred_all, average="macro", zero_division=1)
-        elif mode == "multilabel":
-            y_pred_all = (y_prob_all >= 0.5).astype(int)
+    print("Start training...")
 
-            val_pr_auc = average_precision_score(y_true_all, y_prob_all, average="samples")
-            val_roc_auc = roc_auc_score(y_true_all, y_prob_all, average="samples")
-            val_jaccard = jaccard_score(y_true_all, y_pred_all, average="samples", zero_division=1)
-            val_acc = accuracy_score(y_true_all, y_pred_all)
-            val_f1 = f1_score(y_true_all, y_pred_all, average="samples", zero_division=1)
-            val_precision = precision_score(y_true_all, y_pred_all, average="samples", zero_division=1)
-            val_recall = recall_score(y_true_all, y_pred_all, average="samples", zero_division=1)
-        elif mode == "multiclass":
-            y_pred_all = np.argmax(y_prob_all, axis=-1)
-            y_true_all = np.argmax(y_true_all, axis=-1)
+    for epoch in range(1, epochs + 1):
+        training_loss = train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_func)
+        y_true_val, y_prob_val = evaluate(mode, patient_mode, gnn, model, device, val_loader)
 
-            val_pr_auc = 0
-            val_roc_auc = roc_auc_score(y_true_all, y_prob_all, multi_class="ovr", average="weighted")
-            val_jaccard = cohen_kappa_score(y_true_all, y_pred_all)
-            val_acc = accuracy_score(y_true_all, y_pred_all)
-            val_f1 = f1_score(y_true_all, y_pred_all, average="weighted")
+        if mode == "multiclass":
+            y_pred = torch.argmax(torch.tensor(y_prob_val), dim=-1)
+            y_true = torch.tensor(y_true_val)
+            val_pr_auc, val_roc_auc = f1_score(y_true, y_pred), accuracy_score(y_true, y_pred)
+            val_f1 = val_pr_auc
+            val_acc = val_roc_auc
             val_precision = 0
             val_recall = 0
+            val_jaccard = 0
+        else:
+            y_pred = torch.tensor(y_prob_val >= 0.5, dtype=torch.float32)
+            y_true = torch.tensor(y_true_val)
+            val_pr_auc = average_precision_score(y_true, y_pred)
+            val_roc_auc = roc_auc_score(y_true, y_pred)
+            val_acc = accuracy_score(y_true, y_pred)
+            val_f1 = f1_score(y_true, y_pred)
+            val_precision = precision_score(y_true, y_pred)
+            val_recall = recall_score(y_true, y_pred)
+            val_jaccard = jaccard_score(y_true, y_pred)
 
-        if val_roc_auc >= best_roc_auc:
-            # 原路径: torch.save(model.state_dict(), f'../../../data/pj20/exp_data/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
-            torch.save(model.state_dict(), f'./data/weights/saved_weights_{dataset}_{task}_{model.gnn}.pkl')
-            print("best model saved")
-            best_roc_auc = val_roc_auc
+        # save model
+        if val_roc_auc >= best_val_auc:
+            # torch.save(model, f"./data/best_model_{dataset}_{task}.pth")
+            torch.save(model.state_dict(), f"./data/best_model_{dataset}_{task}.pth")
+            if run is not None:
+                artifact = wandb.Artifact("{dataset}_{task}_model", type="model")
+                artifact.add_file(f"./data/best_model_{dataset}_{task}.pth")
+                wandb.log_artifact(artifact)
+            best_val_auc = val_roc_auc
             early_stop_indicator = 0
-            # best_f1 = val_f1
+            print(f"  Best model updated! val_roc_auc: {val_roc_auc}")
         else:
             early_stop_indicator += 1
             if early_stop_indicator >= early_stop:
+                print(f"Early stopping. No improvement for {early_stop} epochs.")
                 break
-        if run is not None:
-            # run["train/loss"].append(loss)
-            # run["val/pr_auc"].append(val_pr_auc)
-            # run["val/roc_auc"].append(val_roc_auc)
-            # run["val/acc"].append(val_acc)
-            # run["val/f1"].append(val_f1)
-            # run["val/precision"].append(val_precision)
-            # run["val/recall"].append(val_recall)
-            # run["val/jaccard"].append(val_jaccard)
-            wandb.log({
-                "train/loss": loss,
-                "val/pr_auc": val_pr_auc,
-                "val/roc_auc": val_roc_auc,
-                "val/acc": val_acc,
-                "val/f1": val_f1,
-                "val/precision": val_precision,
-                "val/recall": val_recall,
-                "val/jaccard": val_jaccard
-            })
 
-        print(f'Epoch: {epoch}, Training loss: {loss}, Val PRAUC: {val_pr_auc:.4f}, Val ROC_AUC: {val_roc_auc:.4f}, Val acc: {val_acc:.4f}, Val F1: {val_f1:.4f}, Val precision: {val_precision:.4f}, Val recall: {val_recall:.4f}, Val jaccard: {val_jaccard:.4f}')
-        if logger is not None:
-            logger.info(f'Epoch: {epoch}, Training loss: {loss}, Val PRAUC: {val_pr_auc:.4f}, Val ROC_AUC: {val_roc_auc:.4f}, Val acc: {val_acc:.4f}, Val F1: {val_f1:.4f}, Val precision: {val_precision:.4f}, Val recall: {val_recall:.4f}, Val jaccard: {val_jaccard:.4f}')
+        metrics = {
+            "train/loss": training_loss,
+            "val/pr_auc": val_pr_auc,
+            "val/roc_auc": val_roc_auc,
+            "val/acc": val_acc,
+            "val/f1": val_f1,
+            "val/precision": val_precision,
+            "val/recall": val_recall,
+            "val/jaccard": val_jaccard,
+            "epoch": epoch
+        }
+        if run is not None:
+            wandb.log(metrics)
+
+    return best_val_auc
 
 
 def construct_args():
