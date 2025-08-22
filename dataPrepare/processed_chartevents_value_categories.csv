@@ -1,0 +1,8 @@
+﻿monitor_param,abbr,english_matched_label,itemid,subject_id,hadm_id,icustay_id,charttime,valueuom,valuenum_original,value_category,range_rule
+肺动脉楔压 (PAWP),PAWP,PAWP,220224,36,165660,241249,2134/5/12 12:35,mmHg,58.0,2,low:[<6] normal:[6-12] high:[>12]
+心输出量 (CO),CO,Patient controlled analgesia (PCA) [Inject],223834,36,165660,241249,2134/5/12 12:00,L/min,15.0,2,low:[<4.0] normal:[4.0-8.0] high:[>8.0]
+心脏指数 (CI),CI,CI,224665,36,165660,241249,2134/5/12 12:00,,1.11,0,low:[<2.5] normal:[2.5-4.0] high:[>4.0]
+心脏指数 (CI),CI,CI,224665,36,165660,241249,2134/5/12 13:00,,1.85,0,low:[<2.5] normal:[2.5-4.0] high:[>4.0]
+心脏指数 (CI),CI,CI,224665,36,165660,241249,2134/5/12 14:00,,1.11,0,low:[<2.5] normal:[2.5-4.0] high:[>4.0]
+每搏量变异度 (SVV),SVV,SVV,220277,36,165660,241249,2134/5/12 13:00,%,93.0,2,low:[-] normal:[<13%] high:[≥13%]
+每搏量变异度 (SVV),SVV,SVV,220277,36,165660,241249,2134/5/12 14:00,%,91.0,2,low:[-] normal:[<13%] high:[≥13%]

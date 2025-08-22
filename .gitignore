@@ -51,3 +51,4 @@ GraphCare/graph_generation/openai.key./.git/objects/pack/tmp_pack_xekbeQ
 ./clinical_notes/subject_text_dict.json
 output
 *.pkl
+logs

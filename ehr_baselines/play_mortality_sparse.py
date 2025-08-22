@@ -107,18 +107,24 @@ train_loader, val_loader, test_loader = get_dataloader(
 
 # Initialize model with sparsification
 num_nodes = max_nodes
-num_rels = len(rel2id)
-max_visit = 64
+# Determine max_visit from dataset to match visit_padded_node
+max_visit = sample_dataset[0]['visit_padded_node'].shape[0] if 'visit_padded_node' in sample_dataset[0] else 64
 
-# Convert embeddings to tensors
-node_emb_tensor = torch.FloatTensor(ent_emb) if ent_emb is not None else None
-rel_emb_tensor = torch.FloatTensor(rel_emb) if rel_emb is not None else None
+# Prepare embeddings so their sizes match graph dims to avoid matmul mismatch
+# Use G_tg.x (num_nodes x emb_dim) as node embeddings to align with ehr_nodes length
+node_emb_tensor = G_tg.x if hasattr(G_tg, 'x') and G_tg.x is not None else torch.FloatTensor(ent_emb)
+# Use relation embeddings from clustered rel mapping (consistent with edges)
+rel_emb_tensor = get_rel_emb(map_cluster_rel)
+
+# Infer dimensions from tensors
+embedding_dim = int(node_emb_tensor.shape[1])
+num_rels = int(rel_emb_tensor.shape[0])
 
 model = SparseGraphCare(
     num_nodes=num_nodes,
     num_rels=num_rels,
     max_visit=max_visit,
-    embedding_dim=128,
+    embedding_dim=embedding_dim,
     hidden_dim=128,
     out_channels=out_channels,
     layers=3,
@@ -144,13 +150,16 @@ model = SparseGraphCare(
 
 # Update wandb config with model params
 wandb.config.update({
-    "embedding_dim": 128,
+    "embedding_dim": embedding_dim,
     "hidden_dim": 128,
     "layers": 3,
     "dropout": 0.5,
     "decay_rate": 0.03,
     "gnn": "BAT",
     "patient_mode": "joint",
+    "num_nodes": num_nodes,
+    "num_rels": num_rels,
+    "max_visit": max_visit,
 }, allow_val_change=True)
 print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requires_grad):,}")
 
