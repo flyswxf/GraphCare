@@ -21,10 +21,10 @@ import torch.nn as nn
 
 # Configuration
 dataset = "mimic3" 
-task = "mortality"
+task = "readmission"
 batch_size = 16
 epochs = 5
-lr = 1e-4
+lr = 1e-3
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 print(f"Using device: {device}")
@@ -130,13 +130,13 @@ model = SparseGraphCare(
     out_channels=out_channels,
     layers=3,
     dropout=0.5,
-    decay_rate=0.03,
+    decay_rate=0.01,
     node_emb=node_emb_tensor,
     rel_emb=rel_emb_tensor,
     freeze=False,
     patient_mode="joint",
     use_alpha=False,
-    use_beta=False,
+    use_beta=True,
     use_edge_attn=True,
     self_attn=0.,
     gnn="BAT",
@@ -168,24 +168,24 @@ print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requir
 optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=1e-4)
 
 # Add: compute class imbalance and set pos_weight for BCEWithLogitsLoss
-if mode == "binary":
-    def compute_pos_weight(loader):
-        pos = 0.0
-        neg = 0.0
-        with torch.no_grad():
-            for batch_data in loader:
-                batch = batch_data.batch
-                curr_bs = int(batch.max().item() + 1)
-                labels = batch_data.label.reshape(curr_bs, -1).float()
-                y = labels.detach().cpu().numpy().reshape(-1)
-                pos += float(y.sum())
-                neg += float(len(y) - y.sum())
-        pw = (neg / max(pos, 1e-6)) if pos > 0 else 1.0
-        return torch.tensor(pw, dtype=torch.float32, device=device)
+# if mode == "binary":
+#     def compute_pos_weight(loader):
+#         pos = 0.0
+#         neg = 0.0
+#         with torch.no_grad():
+#             for batch_data in loader:
+#                 batch = batch_data.batch
+#                 curr_bs = int(batch.max().item() + 1)
+#                 labels = batch_data.label.reshape(curr_bs, -1).float()
+#                 y = labels.detach().cpu().numpy().reshape(-1)
+#                 pos += float(y.sum())
+#                 neg += float(len(y) - y.sum())
+#         pw = (neg / max(pos, 1e-6)) if pos > 0 else 1.0
+#         return torch.tensor(pw, dtype=torch.float32, device=device)
 
-    pos_weight = compute_pos_weight(train_loader)
-    print(f"Using pos_weight for BCEWithLogitsLoss: {pos_weight.item():.4f}")
-    loss_function = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
+#     pos_weight = compute_pos_weight(train_loader)
+#     print(f"Using pos_weight for BCEWithLogitsLoss: {pos_weight.item():.4f}")
+#     loss_function = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
 
 # Training function
 def train_one_epoch():

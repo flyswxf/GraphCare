@@ -12,11 +12,15 @@ import torch
 import numpy as np
 from torch_geometric.utils import from_networkx
 
+# New imports for sparse-test-like pipeline
+from graphcare import get_mode_and_out_channels_and_loss_func, get_dataloader, get_rel_emb
+import torch.nn.functional as F
+
 print("=" * 60)
 print("GraphCare Dimension Analysis")
 print("=" * 60)
 
-# Configuration
+# Configuration: align to sparse-test default
 dataset = "mimic3"
 task = "mortality"
 
@@ -69,7 +73,7 @@ try:
         print(f"   - G_tg.x: None (no node features)")
     print()
     
-    # 3. Dataset structure analysis
+    # 3. Sample Dataset Structure
     print(f"3. Sample Dataset Structure:")
     sample = sample_dataset[0]
     print(f"   - Sample keys: {list(sample.keys())}")
@@ -80,115 +84,125 @@ try:
         print(f"     * max_visit: {vpn_shape[0]}")
         print(f"     * num_nodes_dim: {vpn_shape[1]}")
     
-    # Label EHR nodes with different max_nodes values
+    # Label EHR nodes using G_tg.num_nodes to match sparse-test
     print()
-    print(f"4. EHR Node Labeling Test:")
+    print(f"4. EHR Node Labeling with G_tg.num_nodes ({G_tg.num_nodes}):")
+    sample_dataset = label_ehr_nodes(task, sample_dataset, G_tg.num_nodes, 
+                                     ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
+    print("   ✓ Labeled EHR nodes with consistent max_nodes")
     
-    # Test 1: Using len(ent2id) as in original sparse script
-    print(f"   Test 1 - max_nodes = len(ent2id) = {len(ent2id)}:")
-    try:
-        test_dataset_1 = label_ehr_nodes(task, [sample_dataset[0]], len(ent2id), 
-                                       ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
-        ehr_shape_1 = test_dataset_1[0]['ehr_node_set'].shape
-        print(f"     ✓ ehr_node_set shape: {ehr_shape_1}")
-    except Exception as e:
-        print(f"     ✗ Error: {e}")
-    
-    # Test 2: Using G_tg.num_nodes  
-    print(f"   Test 2 - max_nodes = G_tg.num_nodes = {G_tg.num_nodes}:")
-    try:
-        test_dataset_2 = label_ehr_nodes(task, [sample_dataset[0]], G_tg.num_nodes, 
-                                       ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
-        ehr_shape_2 = test_dataset_2[0]['ehr_node_set'].shape
-        print(f"     ✓ ehr_node_set shape: {ehr_shape_2}")
-    except Exception as e:
-        print(f"     ✗ Error: {e}")
-    
-    # Test 3: Using len(map_cluster) as in original graphcare.py
-    print(f"   Test 3 - max_nodes = len(map_cluster) = {len(map_cluster)}:")
-    try:
-        test_dataset_3 = label_ehr_nodes(task, [sample_dataset[0]], len(map_cluster), 
-                                       ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
-        ehr_shape_3 = test_dataset_3[0]['ehr_node_set'].shape
-        print(f"     ✓ ehr_node_set shape: {ehr_shape_3}")
-    except Exception as e:
-        print(f"     ✗ Error: {e}")
-    
-    print()
-    print(f"5. Model Parameter Analysis:")
-    
-    # Create model with different embedding_dim values
-    num_rels = len(rel2id)
-    max_visit = sample['visit_padded_node'].shape[0] if 'visit_padded_node' in sample else 64
-    
-    print(f"   - num_rels: {num_rels}")
-    print(f"   - max_visit: {max_visit}")
-    
-    # Test embedding dimensions
-    if ent_emb is not None:
-        actual_node_emb_dim = np.array(ent_emb).shape[1]
-        print(f"   - Actual node embedding dim: {actual_node_emb_dim}")
-        
-        node_emb_tensor = torch.FloatTensor(ent_emb)
-        print(f"   - node_emb_tensor shape: {node_emb_tensor.shape}")
-    
-    if rel_emb is not None:
-        actual_rel_emb_dim = np.array(rel_emb).shape[1]
-        print(f"   - Actual relation embedding dim: {actual_rel_emb_dim}")
-        
-        rel_emb_tensor = torch.FloatTensor(rel_emb)
-        print(f"   - rel_emb_tensor shape: {rel_emb_tensor.shape}")
-    
-    print()
-    print(f"6. Attention Mechanism Analysis:")
-    
-    # Check attention layer dimensions
-    if ent_emb is not None:
-        # Test different num_nodes values for alpha attention
-        test_num_nodes = [len(ent2id), G_tg.num_nodes, len(map_cluster)]
-        
-        for i, num_nodes in enumerate(test_num_nodes, 1):
-            print(f"   Test {i} - num_nodes = {num_nodes}:")
-            
-            # Calculate alpha attention parameters
-            alpha_params = num_nodes * num_nodes
-            print(f"     * Alpha attention parameters: {alpha_params:,}")
-            
-            if alpha_params > 1000000:  # 1M parameters
-                print(f"     * ⚠️  WARNING: Too many parameters for alpha attention!")
-            else:
-                print(f"     * ✓ Alpha attention parameters manageable")
-    
+    # k-hop labeling
+    sample_dataset = label_k_hop_nodes(G_tg, sample_dataset, k=1)
+    print("   ✓ Added k-hop labels")
+
+    # 5. Attention Mechanism Dimension Check (sparse-test style)
     print()
     print("=" * 60)
-    print("RECOMMENDATIONS")
+    print("ATTENTION SHAPE TEST (sparse-test compatible)")
     print("=" * 60)
-    
-    recommendations = []
-    
-    # Embedding dimension recommendations
-    if ent_emb is not None:
-        actual_emb_dim = np.array(ent_emb).shape[1]
-        recommendations.append(f"Set embedding_dim = {actual_emb_dim} (matches pretrained embeddings)")
-    
-    # num_nodes recommendations
-    vpn_last_dim = sample['visit_padded_node'].shape[1] if 'visit_padded_node' in sample else None
-    if vpn_last_dim:
-        if vpn_last_dim == G_tg.num_nodes:
-            recommendations.append(f"Use num_nodes = G_tg.num_nodes = {G_tg.num_nodes} (matches visit_padded_node)")
-        elif vpn_last_dim == len(map_cluster):
-            recommendations.append(f"Use num_nodes = len(map_cluster) = {len(map_cluster)} (matches visit_padded_node)")
-    
-    # Attention recommendations
-    if len(ent2id) > 10000:  # Large vocabulary
-        recommendations.append("Consider disabling alpha attention (use_alpha=False) to avoid parameter explosion")
-    
-    # Model architecture recommendations
-    recommendations.append("Remove unused RETAINLayer import to avoid pyhealth dependency")
-    
-    for i, rec in enumerate(recommendations, 1):
-        print(f"{i}. {rec}")
-    
+
+    # Build dataloaders
+    mode, out_channels, _ = get_mode_and_out_channels_and_loss_func(task, sample_dataset)
+    batch_size = 8
+    train_dataset, val_dataset, test_dataset = split_by_patient(sample_dataset, [0.8, 0.1, 0.1], seed=528)
+    train_loader, val_loader, test_loader = get_dataloader(G_tg, train_dataset, val_dataset, test_dataset, task, batch_size)
+    print(f"   - mode: {mode}, out_channels: {out_channels}")
+    print(f"   - train/val/test sizes: {len(train_dataset)}/{len(val_dataset)}/{len(test_dataset)}")
+
+    # Choose embeddings
+    node_emb_tensor = G_tg.x if hasattr(G_tg, 'x') and G_tg.x is not None else torch.FloatTensor(ent_emb)
+    rel_emb_tensor = get_rel_emb(map_cluster_rel)
+
+    embedding_dim = int(node_emb_tensor.shape[1])
+    num_nodes = int(G_tg.num_nodes)
+    max_visit = sample['visit_padded_node'].shape[0]
+    num_rels = int(rel_emb_tensor.shape[0])
+
+    print(f"   - num_nodes: {num_nodes}, num_rels: {num_rels}, max_visit: {max_visit}, emb_dim: {embedding_dim}")
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    model = SparseGraphCare(
+        num_nodes=num_nodes,
+        num_rels=num_rels,
+        max_visit=max_visit,
+        embedding_dim=embedding_dim,
+        hidden_dim=64,
+        out_channels=out_channels,
+        layers=2,
+        dropout=0.2,
+        decay_rate=0.03,
+        node_emb=node_emb_tensor,
+        rel_emb=rel_emb_tensor,
+        freeze=False,
+        patient_mode="joint",
+        use_alpha=True,
+        use_beta=True,
+        use_edge_attn=True,
+        self_attn=0.,
+        gnn="BAT",
+        attn_init=None,
+        drop_rate=0.,
+        use_sparsification=False,
+    ).to(device)
+
+    # Pull one batch and run forward
+    batch_data = next(iter(val_loader))
+    batch_data = batch_data.to(device)
+
+    node_ids = batch_data.y
+    rel_ids = batch_data.relation
+    edge_index = batch_data.edge_index
+    batch = batch_data.batch
+
+    curr_bs = int(batch.max().item() + 1)
+    visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
+
+    visit_node = batch_data.visit_padded_node.reshape(
+        curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
+    ).float()
+    ehr_nodes = batch_data.ehr_nodes.reshape(curr_bs, -1).float()
+
+    print(f"   - visit_node shape (B,V,N): {tuple(visit_node.shape)}")
+    print(f"   - ehr_nodes shape (B,N): {tuple(ehr_nodes.shape)}")
+
+    # Sanity checks
+    assert visit_node.shape[0] == curr_bs, "visit_node batch dim mismatch"
+    assert visit_node.shape[1] == visits_per_patient, "visit_node visit dim mismatch"
+    assert visit_node.shape[2] == num_nodes, f"visit_node last dim {visit_node.shape[2]} != num_nodes {num_nodes}"
+    assert ehr_nodes.shape[0] == curr_bs and ehr_nodes.shape[1] == num_nodes, "ehr_nodes shape mismatch"
+
+    with torch.no_grad():
+        out = model(
+            node_ids=node_ids,
+            rel_ids=rel_ids,
+            edge_index=edge_index,
+            batch=batch,
+            visit_node=visit_node,
+            ehr_nodes=ehr_nodes,
+            store_attn=True,
+            in_drop=False,
+        )
+        if isinstance(out, dict):
+            logits = out['logits']
+        elif isinstance(out, tuple):
+            logits = out[0]
+        else:
+            logits = out
+
+    print(f"   - logits shape: {tuple(logits.shape)} (expect (B, 1) for binary)")
+
+    # Inspect stored attentions
+    if hasattr(model, 'alpha_weights') and len(model.alpha_weights) > 0:
+        print(f"   - alpha[layer0] shape: {tuple(model.alpha_weights[0].shape)} (expect (B,V,N))")
+    if hasattr(model, 'beta_weights') and len(model.beta_weights) > 0:
+        print(f"   - beta[layer0]  shape: {tuple(model.beta_weights[0].shape)} (expect (B,V,1))")
+    if hasattr(model, 'attention_weights') and len(model.attention_weights) > 0:
+        print(f"   - attn_edges[layer0] shape: {tuple(model.attention_weights[0].shape)} (expect (E,1))")
+
+    print()
+    print("✓ Attention shape test completed without runtime shape errors.")
+
     print()
     print("=" * 60)
     print("ANALYSIS COMPLETE")

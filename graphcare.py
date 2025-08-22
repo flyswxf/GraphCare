@@ -373,7 +373,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
             # torch.save(model, f"./data/best_model_{dataset}_{task}.pth")
             torch.save(model.state_dict(), f"./data/best_model_{dataset}_{task}.pth")
             if run is not None:
-                artifact = wandb.Artifact("{dataset}_{task}_model", type="model")
+                artifact = wandb.Artifact(f"{dataset}_{task}_model", type="model")
                 artifact.add_file(f"./data/best_model_{dataset}_{task}.pth")
                 wandb.log_artifact(artifact)
             best_val_auc = val_roc_auc
@@ -405,7 +405,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
 def construct_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='mimic3')
-    parser.add_argument('--task', type=str, default='mortality')
+    parser.add_argument('--task', type=str, default='readmission')
     parser.add_argument('--kg', type=str, default='GPT-KG')
     parser.add_argument('--batch_size', type=int, default=64)
     parser.add_argument('--hidden_dim', type=int, default=128)
@@ -546,6 +546,7 @@ def single_run(args, params):
         freeze=True if freeze == "True" else False,
         attn_init=attn_weights if attn_init == "True" else None,
         drop_rate=in_drop_rate,
+        
     )
     model.to(device)
 
@@ -660,8 +661,8 @@ def hyper_search_(args, params):
     for task in [
         # "mortality", 
         # "readmission", 
-        # "lenofstay", 
-        "drugrec"
+        "lenofstay", 
+        # "drugrec"
         ]:
         hyperparameter_options["task"] = [task]
         for hp_name, hp_options in hyperparameter_options.items():

@@ -19,7 +19,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 # refresh_cache=False：使用现有缓存
 # stat()：打印数据集统计信息
 base_dataset = MIMIC3Dataset(
-    root="/shared/eng/pj20/mimiciii/1.4",
+    root="./data/mimic3/",
     tables=["DIAGNOSES_ICD", "PROCEDURES_ICD", "PRESCRIPTIONS"],
     code_mapping={"ICD9CM": "CCSCM", "ICD9PROC": "CCSPROC", "NDC": "ATC"},
     dev=False,
