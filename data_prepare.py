@@ -371,6 +371,8 @@ def pad_and_convert(visits, max_visits, max_nodes):
     return torch.stack(padded_visits, dim=0)
 
 
+
+
 def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./data/ccscm_ccsproc"
