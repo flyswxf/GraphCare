@@ -1,0 +1,14 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+224842,Cardiac Output (CCO),CO (CCO),chartevents,L/min,61260,61260,L/min
+227543,CO (Arterial),CO (Arterial),chartevents,L/min,18609,18609,L/min
+220088,Cardiac Output (thermodilution),CO (thermodilution),chartevents,L/min,9546,9546,L/min
+228178,CO (PiCCO),CO (PiCCO),chartevents,L/min,1979,1979,L/min
+228369,Cardiac Output (CO NICOM),Cardiac Output (CO NICOM),chartevents,L/min,715,715,L/min
+228370,CO / CI Change,CO / CI Change,chartevents,%,108,108,%
+1379,Continuous CO,,chartevents,,44,44,
+4680,co-bedding,,chartevents,,18,0,
+228189,CO-Tandem Heart Flow,CO-Tandem Heart Flow,chartevents,L/min,15,15,L/min
+6364,EDM CO,,chartevents,,11,11,
+2136,CCO CO,,chartevents,,10,10,
+2372,FICK CO,,chartevents,,1,1,
+226858,CO pressure (PA Line),CO pressure (PA Line),chartevents,L/min,0,0,

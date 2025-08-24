@@ -61,8 +61,13 @@ wandb_config = {
     "sparsification_ratio": 0.1,
     "l1_lambda": 1e-4,
     "connectivity_lambda": 1e-3,
+    # attention mechanism - 本次实验使用beta注意力机制
+    "use_beta_attention": True,  # 启用beta注意力机制进行图神经网络的注意力计算
+    "attention_type": "beta",    # 注意力类型标识
 }
-run = wandb.init(project="GraphCareSparseTest", config=wandb_config)
+# 初始化wandb项目 - 本次run使用beta注意力机制进行GraphCare稀疏化实验
+run = wandb.init(project="GraphCareSparseTest", config=wandb_config, 
+                 notes="使用beta注意力机制的GraphCare稀疏化模型实验")
 exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}"
 logger = get_logger(exp_name)
 
@@ -121,6 +126,7 @@ rel_emb_tensor = get_rel_emb(map_cluster_rel)
 embedding_dim = int(node_emb_tensor.shape[1])
 num_rels = int(rel_emb_tensor.shape[0])
 
+# 初始化SparseGraphCare模型 - 配置使用beta注意力机制
 model = SparseGraphCare(
     num_nodes=num_nodes,
     num_rels=num_rels,
@@ -136,10 +142,10 @@ model = SparseGraphCare(
     freeze=False,
     patient_mode="joint",
     use_alpha=False,
-    use_beta=True,
+    use_beta=True,              # 启用beta注意力机制 - 关键配置
     use_edge_attn=True,
     self_attn=0.,
-    gnn="BAT",
+    gnn="BAT",                  # 使用BAT (Beta Attention Transformer) GNN架构
     attn_init=None,
     drop_rate=0.,
     # Sparsification parameters

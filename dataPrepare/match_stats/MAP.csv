@@ -1,0 +1,22 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+672,TCPCV-MAP,,chartevents,,9741,9405,
+224322,IABP Mean,MAP - Assisted,chartevents,mmHg,8448,8448,mmHg
+1199,HFO MAP,,chartevents,,65,65,
+3067,FEM MAP,,chartevents,,54,45,
+2369,fem map,,chartevents,,43,43,
+2770,left radial MAP,,chartevents,,41,41,
+2544,FEM ART MAP,,chartevents,,40,40,
+2522,HFO-MAP,,chartevents,,40,39,
+6605,Fem sheath MAP,,chartevents,,27,27,
+2309,FEM ALINE MAP,,chartevents,,23,23,
+5680,RADIAL MAP,,chartevents,,16,16,
+6399,ART MAP,,chartevents,,14,14,
+5804,sheath MAP,,chartevents,,12,12,
+1321,map,,chartevents,,10,10,
+438,MAP,,chartevents,,10,7,mmHg
+1200,High MAP Alarm,,chartevents,,7,7,
+1201,Low MAP alarm,,chartevents,,7,7,
+227023,MAP_ApacheIV,MAP_ApacheIV,chartevents,mmHg,7,7,mmHg
+2353,R FEM MAP,,chartevents,,4,4,
+6579,IR Sheath MAP,,chartevents,,3,3,
+2974,FEM LINE MAP,,chartevents,,1,1,

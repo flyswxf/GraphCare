@@ -1,0 +1,7 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+818,Lactic Acid(0.5-2.0),,chartevents,,73371,73025,
+225668,Lactic Acid,Lactic Acid,chartevents,None,69432,69432,mmol/L
+1531,Lactic Acid,,chartevents,,63316,63233,
+2638,CEREBRAL LACTATE,,chartevents,,62,62,
+2773,sjlactate,,chartevents,,3,3,
+1634,lactated ringers,,chartevents,,1,1,

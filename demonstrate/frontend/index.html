@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GraphCare ICU 演示</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">GraphCare · ICU 演示</div>
+    <div class="subtitle">心源性休克风险与决策支持</div>
+  </header>
+
+  <main id="app">
+    <!-- 上传界面 -->
+    <section id="upload-section" class="card">
+      <h2>上传患者资料（JSON）</h2>
+      <p class="desc">拖拽或点击上传患者的模拟资料文件，文件中包含历史入院记录和当前状态。</p>
+      <div id="dropzone" class="dropzone">
+        <input id="file-input" type="file" accept="application/json" hidden />
+        <div class="dz-inner">
+          <div class="dz-icon">⬆</div>
+          <div class="dz-title">拖拽文件到此，或点击选择</div>
+          <div id="file-name" class="dz-file">未选择文件</div>
+        </div>
+      </div>
+      <div class="actions">
+        <button id="upload-btn" class="btn primary" disabled>上传并推理</button>
+      </div>
+    </section>
+
+    <!-- 结果界面 -->
+    <section id="result-section" class="card hidden">
+      <div class="toolbar">
+        <button id="back-btn" class="btn ghost">← 返回</button>
+      </div>
+      <div class="grid">
+        <div class="panel">
+          <h3>心源性休克发生概率</h3>
+          <div class="gauge-wrap">
+            <div id="gauge" class="gauge" aria-label="probability gauge">
+              <div id="gauge-center" class="gauge-center">
+                <div id="prob-value" class="prob-value">0%</div>
+                <div class="prob-label">当前概率</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h3>推荐的诊断/治疗措施</h3>
+          <ul id="recommend-list" class="list"></ul>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h3>相似病例医生处理方法及频率</h3>
+        <div id="similar-bars" class="bars"></div>
+      </div>
+
+      <div class="panel">
+        <h3>补充信息（自然语言）</h3>
+        <p class="desc">在获得初步结果后，可补充新的观察或检查结果（例如：“患者皮肤冰冷，乳酸3.1mmol/L，尿量明显减少”）。</p>
+        <textarea id="augment-text" class="input" rows="3" placeholder="请输入补充信息..."></textarea>
+        <div class="actions">
+          <button id="augment-btn" class="btn primary">提交补充信息并更新</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">本演示仅用于科研展示，非医疗用途</footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+116,Cardiac Index,,chartevents,,214772,208629,...
+228177,CI (PiCCO),CI (PiCCO),chartevents,L/min/m2,2568,2568,L/min/m2
+228368,Cardiac Index (CI NICOM),Cardiac Index (CI NICOM),chartevents,L/min/m2,880,880,L/min/m2
+228370,CO / CI Change,CO / CI Change,chartevents,%,108,108,%
+1378,Continuous CI,,chartevents,,44,44,
+1372,ci,,chartevents,,17,17,
+6363,EDM CI,,chartevents,,11,11,
+2135,CCO CI,,chartevents,,5,5,
+7610,cardiac index      o,,chartevents,,1,1,
+226859,CI pressure (PA Line),CI pressure (PA Line),chartevents,L/min/m2,0,0,

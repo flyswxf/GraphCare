@@ -1,0 +1,4 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+227546,SVV (Arterial),SVV (Arterial),chartevents,%,16753,16753,%
+228184,SVV (PiCCO),SVV (PiCCO),chartevents,%,1366,1366,%
+228376,Stroke Volume Variation (SVV NICOM),Stroke Volume Variation (SVI NICOM),chartevents,None,676,676,

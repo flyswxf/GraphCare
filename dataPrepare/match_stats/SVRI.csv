@@ -1,0 +1,4 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+627,SVRI,,chartevents,,194752,194087,...
+228185,SVRI (PiCCO),SVRI (PiCCO),chartevents,dynes.sec.cm-5/m2,1506,1506,dynes.sec.cm-5/m2
+228183,SVRI (PiCCO)_OLD_1,SVRI (PiCCO)_OLD_1,chartevents,dynes.sec.cm-5/m2,0,0,

@@ -1,0 +1,10 @@
+﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
+113,CVP,,chartevents,,1198681,1182436,mmHg
+5814,CVP Alarm [Low],,chartevents,,655454,637383,mmHg
+8548,CVP Alarm [High],,chartevents,,649745,649745,mmHg
+220074,Central Venous Pressure,CVP,chartevents,mmHg,514118,514118,mmHg
+220072,Central Venous Pressure Alarm - High,CVP Alarm - High,chartevents,mmHg,37335,37335,mmHg
+220073,Central Venous Pressure  Alarm - Low,CVP Alarm - Low,chartevents,mmHg,37288,37288,mmHg
+3345,CVP Alarm [Low],,chartevents,,17541,17296,Breath
+8511,CVP Alarm [High],,chartevents,,17364,17364,Breath
+1103,cvp,,chartevents,,2,2,
