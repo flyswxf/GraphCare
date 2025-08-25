@@ -1,5 +1,0 @@
-﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
-504,PCWP,,chartevents,,26530,20583,mmHg
-223771,PCWP,PCWP,chartevents,mmHg,602,602,mmHg
-226854,PCWP (v wave) (PA Line),PCWP (v wave) (PA Line),chartevents,mmHg,0,0,
-226855,PCWP (mean) (PA Line),PCWP (mean) (PA Line),chartevents,mmHg,0,0,

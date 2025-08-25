@@ -1,6 +1,0 @@
-﻿ITEMID,LABEL,ABBREVIATION,LINKSTO,UNITNAME,count_total,count_valuenum_notnull,valueuom_mode
-626,SVR,,chartevents,,202705,196770,...
-1373,svr,,chartevents,,16,16,
-5938,lvad svr,,chartevents,,10,10,
-7847,SVR/PVR ratio,,chartevents,,7,7,
-226865,SVR %O2 Saturation (PA Line),SVR %O2 Saturation (PA Line),chartevents,dynes*sec/cm5,0,0,
