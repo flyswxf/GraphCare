@@ -33,7 +33,7 @@ from copy import deepcopy
 def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
     if kg == "GPT-KG":
         kg = ""
-    if task == "drugrec" or task == "lenofstay":
+    if task == "drugrec" or task == "lenofstay" or task == "procedure":
         # 原路径: path_1 = "/data/pj20/exp_data/ccscm_ccsproc"
         path_1 = "./clustering/ccscm_ccsproc"
         # 原路径: path_2 = "/data/pj20/g/graphs/cond_proc/CCSCM_CCSPROC"
@@ -116,6 +116,10 @@ def get_mode_and_out_channels_and_loss_func(task, sample_dataset):
         mode = "multiclass"
         out_channels = 10
         loss_function = F.cross_entropy
+    elif task == "procedure":
+        mode = "multilabel"
+        out_channels = len(sample_dataset[0]["procedures_ind"]) if "procedures_ind" in sample_dataset[0] else 0
+        loss_function = F.binary_cross_entropy_with_logits
 
     return mode, out_channels, loss_function
 
@@ -127,6 +131,28 @@ def flatten(lst):
         else:
             result.append(item)
     return result
+
+
+# 根据样本中的全部手术码构建多热标签（类似 drugs_ind）
+def prepare_procedure_indices(sample_dataset):
+    # 收集全集的 procedure token
+    all_tokens = []
+    for patient in sample_dataset:
+        if 'procedures' in patient:
+            all_tokens.extend(flatten(patient['procedures']))
+    # 去重并建立映射
+    uniq = sorted(list(set(all_tokens)))
+    token2idx = {tok: i for i, tok in enumerate(uniq)}
+    num_labels = len(token2idx)
+
+    for patient in tqdm(sample_dataset):
+        prots = flatten(patient.get('procedures', []))
+        label_vec = np.zeros(num_labels, dtype=np.float32)
+        for t in prots:
+            if t in token2idx:
+                label_vec[token2idx[t]] = 1.0
+        patient['procedures_ind'] = torch.tensor(label_vec)
+    return sample_dataset
 
 
 def label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus):
@@ -203,6 +229,8 @@ def get_subgraph(G, dataset, task, idx, strategy="1"):
         label = np.zeros(10)
         label[patient['label']] = 1
         P.label = torch.tensor(label)
+    elif task == "procedure":
+        P.label = patient['procedures_ind']
     else:
         P.label = patient['label']
     
@@ -279,7 +307,7 @@ def train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_
         training_loss = loss * accumulation_steps  # 显示真实的loss
         tot_loss += loss * accumulation_steps
         
-        # 只在累积步骤结束时更新参数
+        # 如果达到累积步数，则进行优化步
         if (i + 1) % accumulation_steps == 0:
             optimizer.step()
         
@@ -294,16 +322,17 @@ def train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_
     if len(train_loader) % accumulation_steps != 0:
         optimizer.step()
     
-    return tot_loss
+    return tot_loss/len(train_loader)
+
 
 def evaluate(mode, patient_mode, gnn, model, device, loader):
     model.eval()
-    y_prob_all = []
     y_true_all = []
+    y_prob_all = []
 
-    for data in tqdm(loader):
-        data = data.to(device)
-        with torch.no_grad():    
+    with torch.no_grad():
+        for data in loader:
+            data = data.to(device)
 
             node_ids = data.y
             rel_ids = data.relation
@@ -337,6 +366,7 @@ def evaluate(mode, patient_mode, gnn, model, device, loader):
     y_true_all = torch.cat(y_true_all, dim=0).detach().cpu().numpy()
 
     return y_true_all, y_prob_all
+
 
 def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader, model, optimizer, loss_func, device, epochs, logger=None, run=None, early_stop=5):
     best_val_auc = 0
@@ -398,6 +428,8 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
         }
         if run is not None:
             wandb.log(metrics)
+        if logger is not None:
+            logger.info(str(metrics))
 
     return best_val_auc
 

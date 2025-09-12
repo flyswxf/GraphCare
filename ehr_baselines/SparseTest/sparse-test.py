@@ -6,8 +6,9 @@ import os
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
-from graphcare import label_ehr_nodes, get_rel_emb, label_k_hop_nodes
+from graphcare import label_ehr_nodes, get_rel_emb, label_k_hop_nodes, prepare_procedure_indices
 from graphcare_sparse_model import SparseGraphCare
 from graphcare_ import split_by_patient
 import torch
@@ -18,13 +19,24 @@ from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_sco
 import wandb
 import logging
 import torch.nn as nn
+import re
+from graphcare import get_subgraph
+
+# CLI arguments
+parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
+parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
+parser.add_argument('--task', type=str, default='readmission', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
+parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
+parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
+args = parser.parse_args()
 
 # Configuration
-dataset = "mimic3" 
-task = "readmission"
-batch_size = 16
-epochs = 5
-lr = 1e-3
+dataset = args.dataset
+task = args.task
+batch_size = args.batch_size
+epochs = args.epochs
+lr = args.lr
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 print(f"Using device: {device}")
@@ -76,6 +88,10 @@ try:
     sample_dataset, graph, ent2id, rel2id, ent_emb, rel_emb, \
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_rel_inv, \
     ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(dataset, task)
+
+    # For procedure task, create multilabel indices similar to drugs_ind
+    if task == "procedure":
+        sample_dataset = prepare_procedure_indices(sample_dataset)
     
     print(f"Loaded {len(sample_dataset)} samples")
     print(f"Graph nodes: {graph.number_of_nodes()}, edges: {graph.number_of_edges()}")
@@ -172,26 +188,6 @@ print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requir
 
 # Optimizer
 optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=1e-4)
-
-# Add: compute class imbalance and set pos_weight for BCEWithLogitsLoss
-# if mode == "binary":
-#     def compute_pos_weight(loader):
-#         pos = 0.0
-#         neg = 0.0
-#         with torch.no_grad():
-#             for batch_data in loader:
-#                 batch = batch_data.batch
-#                 curr_bs = int(batch.max().item() + 1)
-#                 labels = batch_data.label.reshape(curr_bs, -1).float()
-#                 y = labels.detach().cpu().numpy().reshape(-1)
-#                 pos += float(y.sum())
-#                 neg += float(len(y) - y.sum())
-#         pw = (neg / max(pos, 1e-6)) if pos > 0 else 1.0
-#         return torch.tensor(pw, dtype=torch.float32, device=device)
-
-#     pos_weight = compute_pos_weight(train_loader)
-#     print(f"Using pos_weight for BCEWithLogitsLoss: {pos_weight.item():.4f}")
-#     loss_function = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
 
 # Training function
 def train_one_epoch():
@@ -309,12 +305,189 @@ def evaluate(loader):
             y_true_all.append(labels.cpu().numpy())
             y_prob_all.append(y_prob.cpu().numpy())
     
-    # 将二分类的 y_true/y_prob 展平为 1D，避免被 sklearn 当作 (N, 1) 的多标签矩阵
+    # 将 y_true/y_prob 展平为 1D，用于计算整体 AUC/PRAUC
     y_true_all = np.concatenate(y_true_all, axis=0).reshape(-1)
     y_prob_all = np.concatenate(y_prob_all, axis=0).reshape(-1)
     
     return y_true_all, y_prob_all
 
+# ===== 用户反馈 -> 节点增删改 =====
+
+def _last_active_visit_index(vpn: torch.Tensor) -> int:
+    """返回 visit_padded_node 中最后一个非空就诊的行索引；若全为空则返回 0。
+    vpn 形状为 (max_visit, max_nodes)。
+    """
+    if vpn.ndim != 2:
+        return 0
+    with torch.no_grad():
+        sums = vpn.sum(dim=1)
+        nonzero = torch.where(sums > 0)[0]
+        if nonzero.numel() == 0:
+            return 0
+        return int(nonzero.max().item())
+
+def parse_feedback_to_actions(feedback_text: str):
+    """解析简单自然语言/指令为节点增删动作列表。
+    支持格式：
+    - "+123", "-45"（正负号+节点ID）
+    - "添加123", "加上123", "加入123", "增加123"
+    - "删除456", "去掉456", "移除456", "排除456"
+    - "add 123", "remove 456"
+    返回: [(op, node_id), ...]，op 为 "+" 或 "-"。
+    """
+    text = feedback_text.strip()
+    actions = []
+
+    # 1) 解析 +N / -N
+    for sign, num in re.findall(r"([+\-])\s*(\d+)", text):
+        actions.append((sign, int(num)))
+
+    # 2) 解析中英文动词 + 数字
+    add_words = ["添加", "加上", "加入", "增加", "include", "add"]
+    del_words = ["删除", "去掉", "移除", "排除", "exclude", "remove"]
+    for w in add_words:
+        for num in re.findall(fr"{w}\s*(\d+)", text, flags=re.IGNORECASE):
+            actions.append(("+", int(num)))
+    for w in del_words:
+        for num in re.findall(fr"{w}\s*(\d+)", text, flags=re.IGNORECASE):
+            actions.append(("-", int(num)))
+
+    # 去重但保留顺序
+    seen = set()
+    dedup = []
+    for a in actions:
+        if a not in seen:
+            dedup.append(a)
+            seen.add(a)
+    return dedup
+
+def apply_user_actions_to_patient(patient: dict, actions, max_nodes: int):
+    """对单个 patient 字典应用增删节点动作，保持 node_set / ehr_node_set / visit_padded_node 一致性。
+    注意：会就地修改 patient。
+    """
+    if not actions:
+        return patient
+
+    # 备份，防止删空
+    old_node_set = list(patient.get('node_set', []))
+    old_ehr = patient.get('ehr_node_set', None)
+    old_vpn = patient.get('visit_padded_node', None)
+
+    # 确保 tensor 类型
+    if isinstance(patient['ehr_node_set'], np.ndarray):
+        patient['ehr_node_set'] = torch.tensor(patient['ehr_node_set'])
+    if isinstance(patient['visit_padded_node'], np.ndarray):
+        patient['visit_padded_node'] = torch.tensor(patient['visit_padded_node'])
+
+    node_set = set(int(x) for x in patient.get('node_set', []))
+    ehr_vec = patient['ehr_node_set'].clone()
+    vpn = patient['visit_padded_node'].clone()
+
+    # 动作执行
+    for op, nid in actions:
+        if not (0 <= int(nid) < max_nodes):
+            continue
+        if op == "+":
+            node_set.add(int(nid))
+            if ehr_vec.shape[0] == max_nodes:
+                ehr_vec[int(nid)] = 1
+            # 将该节点标到“最近一次就诊”上
+            last_idx = _last_active_visit_index(vpn)
+            if vpn.shape[1] == max_nodes:
+                vpn[last_idx, int(nid)] = 1
+        elif op == "-":
+            if int(nid) in node_set:
+                node_set.remove(int(nid))
+            if ehr_vec.shape[0] == max_nodes:
+                ehr_vec[int(nid)] = 0
+            # 从所有就诊中清除该节点
+            if vpn.shape[1] == max_nodes:
+                vpn[:, int(nid)] = 0
+
+    # 防止删空
+    if len(node_set) == 0:
+        patient['node_set'] = old_node_set
+        if old_ehr is not None:
+            patient['ehr_node_set'] = old_ehr
+        if old_vpn is not None:
+            patient['visit_padded_node'] = old_vpn
+        return patient
+
+    # 写回
+    patient['node_set'] = list(sorted(node_set))
+    patient['ehr_node_set'] = ehr_vec
+    patient['visit_padded_node'] = vpn
+    return patient
+
+
+def recompute_with_feedback(patient_id: str, feedback_text: str = None, topk: int = 5):
+    """基于用户自然语言反馈对指定 patient 调整节点后，立刻走一遍前向，返回新预测。
+    - patient_id: 与 sample_dataset[i]['patient_id'] 对应
+    - feedback_text: 自然语言，如 "+123, -456" 或 "删除789, 添加321"
+    返回：包含 logits、prob、以及若任务为 drugrec 则返回 topk 索引。
+    """
+    # 查找样本索引
+    idx = None
+    for i, p in enumerate(sample_dataset):
+        if str(p.get('patient_id')) == str(patient_id):
+            idx = i
+            break
+    if idx is None:
+        raise ValueError(f"patient_id {patient_id} 未找到")
+
+    # 应用反馈
+    if feedback_text and feedback_text.strip():
+        actions = parse_feedback_to_actions(feedback_text)
+        apply_user_actions_to_patient(sample_dataset[idx], actions, max_nodes=max_nodes)
+
+    # 取子图并推理
+    data = get_subgraph(G_tg, sample_dataset, task, idx)
+    data = data.to(device)
+
+    node_ids = data.y
+    rel_ids = data.relation
+    edge_index = data.edge_index
+    batch = data.batch
+
+    # 单样本 reshape
+    visit_node = data.visit_padded_node.reshape(1, -1, data.visit_padded_node.shape[1]).float()
+    ehr_nodes_vec = data.ehr_nodes.reshape(1, -1).float()
+
+    model.eval()
+    with torch.no_grad():
+        out = model(
+            node_ids=node_ids,
+            rel_ids=rel_ids,
+            edge_index=edge_index,
+            batch=batch,
+            visit_node=visit_node,
+            ehr_nodes=ehr_nodes_vec,
+            in_drop=False,
+        )
+        logits = out[0] if isinstance(out, tuple) else out
+
+        if mode == "binary":
+            prob = torch.sigmoid(logits)
+        elif mode in ("multilabel", "multiclass"):
+            prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
+        else:
+            prob = logits
+
+    result = {
+        "logits": logits.detach().cpu().numpy(),
+        "prob": prob.detach().cpu().numpy(),
+    }
+
+    if task == "drugrec":
+        # 返回 topk 建议（基于概率）
+        k = min(topk, prob.shape[-1])
+        topv, topi = torch.topk(prob.view(-1), k)
+        result.update({
+            "topk_indices": topi.detach().cpu().numpy().tolist(),
+            "topk_scores": topv.detach().cpu().numpy().tolist(),
+        })
+
+    return result
 # Training loop with comprehensive WandB logging
 print("Starting training...")
 best_val_auc = 0
@@ -340,14 +513,15 @@ for epoch in range(1, epochs + 1):
         val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
     else:
-        # Other modes (multiclass/multilabel) would be handled here
+        # multilabel (e.g., drugrec/procedure): 使用概率计算 PR-AUC/ROC-AUC，其他指标留空或后续扩展
+        y_pred_val = np.argmax(y_prob_val, axis=-1)
         val_pr_auc = average_precision_score(y_true_val, y_prob_val)
         val_roc_auc = roc_auc_score(y_true_val, y_prob_val)
-        val_jaccard = 0
-        val_acc = 0
-        val_f1 = 0
-        val_precision = 0
-        val_recall = 0
+        val_jaccard = jaccard_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        val_acc = accuracy_score(y_true_val, y_pred_val)
+        val_f1 = f1_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
     
     # Model saving and early stopping
     if val_roc_auc >= best_val_auc:
@@ -404,13 +578,14 @@ if mode == "binary":
     test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_recall = recall_score(y_true_test, y_pred_test, average="macro", zero_division=1)
 else:
+    y_pred_test = (y_prob_test >= 0.5).astype(int)
     test_pr_auc = average_precision_score(y_true_test, y_prob_test)
     test_roc_auc = roc_auc_score(y_true_test, y_prob_test)
-    test_jaccard = 0
-    test_acc = 0
-    test_f1 = 0
-    test_precision = 0
-    test_recall = 0
+    test_jaccard = jaccard_score(y_true_test, y_pred_test, average="macro", zero_division=1)
+    test_acc = accuracy_score(y_true_test, y_pred_test)
+    test_f1 = f1_score(y_true_test, y_pred_test, average="macro", zero_division=1)
+    test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
+    test_recall = recall_score(y_true_test, y_pred_test, average="macro", zero_division=1)
 
 print(f"Test ROC-AUC: {test_roc_auc:.4f}")
 print(f"Test PR-AUC: {test_pr_auc:.4f}")

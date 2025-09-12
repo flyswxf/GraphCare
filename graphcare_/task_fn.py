@@ -1,6 +1,6 @@
 from pyhealth.data import Patient, Visit
 
-def drug_recommendation_fn(patient):
+def drug_recommendation_fn(patient: Patient):
     samples = []
     for i in range(len(patient)):
         visit = patient[i]
