@@ -5,6 +5,7 @@ import sys
 import os
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append('/r/root/workspace/GraphCare')
 
 import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
@@ -22,6 +23,7 @@ import torch.nn as nn
 import re
 from graphcare import get_subgraph
 import json
+from tqdm import tqdm
 
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
@@ -172,6 +174,7 @@ model = SparseGraphCare(
 
 # ===== Inference mode: single-sample forward with strict weight loading =====
 if args.infer:
+    print("Inference mode enabled")
     weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
     if not os.path.exists(weights_path):
         print(f"[ERROR] Weights not found: {weights_path}. Please train the model first or specify --weights_path.")
@@ -229,38 +232,60 @@ if args.infer:
             pass
         sys.exit(1)
 
-    # Build subgraph for the sample
-    data = get_subgraph(G_tg, sample_dataset, task, idx)
-    data = data.to(device)
-
-    node_ids = data.y
-    rel_ids = data.relation
-    edge_index = data.edge_index
-    batch = data.batch
-
-    # 单样本 reshape
-    visit_node = data.visit_padded_node.reshape(1, -1, data.visit_padded_node.shape[1]).float()
-    ehr_nodes_vec = data.ehr_nodes.reshape(1, -1).float()
-
+    # Create a single-sample dataset and DataLoader for proper batch handling
+    from graphcare import Dataset
+    from torch_geometric.loader import DataLoader
+    
+    # Create a dataset with just the target sample
+    single_sample_dataset = [sample_dataset[idx]]
+    inference_dataset = Dataset(G=G_tg, dataset=single_sample_dataset, task=task)
+    inference_loader = DataLoader(inference_dataset, batch_size=1, shuffle=False)
+    
     model.eval()
     with torch.no_grad():
-        out = model(
-            node_ids=node_ids,
-            rel_ids=rel_ids,
-            edge_index=edge_index,
-            batch=batch,
-            visit_node=visit_node,
-            ehr_nodes=ehr_nodes_vec,
-            in_drop=False,
-        )
-        logits = out[0] if isinstance(out, tuple) else out
+        # Get the batched data from DataLoader
+        for batch_data in inference_loader:
+            batch_data = batch_data.to(device)
+            
+            node_ids = batch_data.y
+            rel_ids = batch_data.relation
+            edge_index = batch_data.edge_index
+            batch = batch_data.batch
+            
+            # Extract visit and ehr node features
+            # visit_node = batch_data.visit_padded_node.float()
+            # ehr_nodes_vec = batch_data.ehr_nodes.float()
+            # 使用实际 batch 大小进行重排，避免最后一个 batch 大小变化导致错位
+            curr_bs = int(batch.max().item() + 1)
+            visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
+            
+            # Reshape tensors for GraphCare format
+            visit_node = batch_data.visit_padded_node.reshape(
+                curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
+            ).float()
+            ehr_nodes_vec = batch_data.ehr_nodes.reshape(
+                curr_bs, -1
+            ).float()
+            
+            out = model(
+                node_ids=node_ids,
+                rel_ids=rel_ids,
+                edge_index=edge_index,
+                batch=batch,
+                visit_node=visit_node,
+                ehr_nodes=ehr_nodes_vec,
+                in_drop=False,
+            )
+            logits = out[0] if isinstance(out, tuple) else out
 
-        if mode == "binary":
-            prob = torch.sigmoid(logits)
-        elif mode in ("multilabel", "multiclass"):
-            prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
-        else:
-            prob = logits
+            if mode == "binary":
+                prob = torch.sigmoid(logits)
+            elif mode in ("multilabel", "multiclass"):
+                prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
+            else:
+                prob = logits
+            
+            break  # Only process the single batch
 
     # Prepare output
     pid_val = sample_dataset[idx].get('patient_id', None)
@@ -329,7 +354,10 @@ def train_one_epoch():
     total_loss = 0
     total_sparse_loss = 0
     
-    for batch_data in train_loader:
+    # 创建进度条
+    pbar = tqdm(enumerate(train_loader), total=len(train_loader))
+    
+    for i, batch_data in pbar:
         batch_data = batch_data.to(device)
         optimizer.zero_grad()
         
@@ -385,6 +413,11 @@ def train_one_epoch():
         
         total_loss += pred_loss.item()
         total_sparse_loss += sparse_loss.item() if torch.is_tensor(sparse_loss) else sparse_loss
+        
+        # 更新进度条描述，显示当前损失
+        current_avg_loss = total_loss / (i + 1)
+        current_avg_sparse_loss = total_sparse_loss / (i + 1)
+        pbar.set_description(f'Loss: {current_avg_loss:.4f}, Sparse Loss: {current_avg_sparse_loss:.6f}')
     
     return total_loss / len(train_loader), total_sparse_loss / len(train_loader)
 
@@ -395,7 +428,10 @@ def evaluate(loader):
     y_prob_all = []
     
     with torch.no_grad():
-        for batch_data in loader:
+        # 创建验证进度条
+        eval_pbar = tqdm(loader, desc='Evaluating')
+        
+        for batch_data in eval_pbar:
             batch_data = batch_data.to(device)
             
             node_ids = batch_data.y
