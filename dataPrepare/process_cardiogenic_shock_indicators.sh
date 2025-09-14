@@ -23,24 +23,24 @@ echo "输出目录: $OUTPUT_DIR"
 
 # 定义要处理的指标和对应的同义词
 declare -A ITEMS=(
-    # ["MAP"]="Mean Arterial Pressure"
-    # ["CVP"]="Central Venous Pressure"
-    # ["PAWP"]="Pulmonary Artery Wedge Pressure,Pulmonary Capillary Wedge Pressure,PCWP"
-    # ["CO"]="Cardiac Output"
-    # ["CI"]="Cardiac Index"
-    # ["SVRI"]="Systemic Vascular Resistance Index"
-    # ["LVSWI"]="Left Ventricular Stroke Work Index"
-    # ["HR"]="Heart Rate"
-    # ["LAC"]="Lactate,Lactic Acid"
-    # ["URINE"]="Urine Output"
-    # ["K"]="Potassium,K+"
+    ["MAP"]="Mean Arterial Pressure"
+    ["CVP"]="Central Venous Pressure"
+    ["PAWP"]="Pulmonary Artery Wedge Pressure,Pulmonary Capillary Wedge Pressure,PCWP"
+    ["CO"]="Cardiac Output"
+    ["CI"]="Cardiac Index"
+    ["SVRI"]="Systemic Vascular Resistance Index"
+    ["LVSWI"]="Left Ventricular Stroke Work Index"
+    ["HR"]="Heart Rate"
+    ["LAC"]="Lactate,Lactic Acid"
+    ["URINE"]="Urine Output"
+    ["K"]="Potassium,K+"
     ["PAO2FIO2"]="PaO2/FiO2,PF ratio,PaO2/FiO2 Ratio,P/F Ratio,PF,PF Ratio,Oxygen Index,OI,PaO2/FIO2,PaO2/FIO2 ratio"
-    # ["LVEF"]="Left Ventricular Ejection Fraction"
+    ["LVEF"]="Left Ventricular Ejection Fraction"
 )
 
 # 处理每个指标
-# for item in "MAP" "CVP" "PAWP" "CO" "CI" "SVRI" "LVSWI" "HR" "LAC" "URINE" "K" "PAO2FIO2" "LVEF"; do
-for item in "PAO2FIO2"; do
+for item in ${!ITEMS[@]}; do
+# for item in "PAO2FIO2"; do
     echo ""
     echo "正在处理: $item"
     echo "--------------------------------------"

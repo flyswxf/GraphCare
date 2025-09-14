@@ -38,12 +38,14 @@ def load_itemids(path: str) -> Set[str]:
                 if v:
                     itemids.add(v)
     else:
-        # plain text: one itemid per line
+        # plain text: one itemid per line (assuming first word is the itemid)
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
-                v = line.strip()
-                if v:
-                    itemids.add(v)
+                parts = line.strip().split()
+                if parts:  # 确保行不为空
+                    v = parts[0].strip()  # 只取第一个词作为itemid
+                    if v:
+                        itemids.add(v)
 
     return itemids
 
@@ -102,11 +104,6 @@ def build_dataset(mimic3_root: str, itemid_file: str):
     ds = MIMIC3Dataset(
         root=mimic3_root,
         tables=["DIAGNOSES_ICD", "PROCEDURES_ICD", "PRESCRIPTIONS", "CHARTEVENTS"],
-        code_mapping={
-            "NDC": ("ATC", {"target_kwargs": {"level": 3}}),
-            "ICD9CM": "CCSCM",
-            "ICD9PROC": "CCSPROC",
-        },
     )
 
     # 3) set custom task
@@ -125,13 +122,13 @@ def main():
     parser.add_argument(
         "--itemid_file",
         type=str,
-        default="./dataPrepare/item_ids.txt",
+        default="./dataPrepare/match_stats/itemids.csv",
         help="Path to the file containing desired itemids (txt: one per line; csv: column 'itemid').",
     )
     parser.add_argument(
         "--save_path",
         type=str,
-        default="./data/mimic3/",
+        default="./data/addCHARTEVENT/sample_dataset.pkl",
         help="Optional path to save the prepared sample_dataset as a pickle file.",
     )
 
