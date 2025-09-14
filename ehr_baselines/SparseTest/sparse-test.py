@@ -17,10 +17,11 @@ from torch_geometric.utils import from_networkx
 import numpy as np
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score
 import wandb
-import logging
+from logger import get_logger
 import torch.nn as nn
 import re
 from graphcare import get_subgraph
+import json
 
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
@@ -29,7 +30,22 @@ parser.add_argument('--task', type=str, default='readmission', choices=['readmis
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
+# Inference mode args
+parser.add_argument('--infer', action='store_true', help='Enable single-sample inference mode')
+# patient_id或sample_index任选其一
+parser.add_argument('--patient_id', type=str, default=None, help='Patient ID for single-sample inference')
+parser.add_argument('--sample_index', type=int, default=None, help='Sample index for single-sample inference (0-based)')
+parser.add_argument('--weights_path', type=str, default=None, help='Path to model weights file; defaults to ./data/weights/saved_weights_{dataset}_{task}_sparse.pkl')
+parser.add_argument('--out', type=str, default=None, help='Optional JSON path to save inference result')
 args = parser.parse_args()
+# 推理模式下的参数校验
+if args.infer:
+    if args.sample_index is None and args.patient_id is None:
+        parser.error("Inference mode requires either --sample_index or --patient_id")
+    if args.weights_path is None:
+        parser.error("Inference mode requires --weights_path to load model weights")
+# 启动推理模式的代码示例
+# python -u ehr_baselines/SparseTest/sparse-test.py --dataset mimic3 --task readmission --infer --sample_index 0 --weights_path ./data/weights/saved_weights_mimic3_readmission_sparse.pkl --out ./inference_result.json 
 
 # Configuration
 dataset = args.dataset
@@ -43,26 +59,8 @@ print(f"Using device: {device}")
 print(f"Dataset: {dataset}, Task: {task}")
 
 # Initialize logging and WandB (following graphcare.py style)
-def get_logger(exp_name: str):
-    logger = logging.getLogger(exp_name)
-    logger.setLevel(logging.INFO)
-    formatter = logging.Formatter('%(asctime)s - %(message)s')
-
-    os.makedirs('./training_logs', exist_ok=True)
-    file_handler = logging.FileHandler(f'./training_logs/{exp_name}.log')
-    file_handler.setLevel(logging.INFO)
-    file_handler.setFormatter(formatter)
-    if not any(isinstance(h, logging.FileHandler) and h.baseFilename.endswith(f'{exp_name}.log') for h in logger.handlers):
-        logger.addHandler(file_handler)
-
-    stream_handler = logging.StreamHandler()
-    stream_handler.setLevel(logging.INFO)
-    stream_handler.setFormatter(formatter)
-    if not any(isinstance(h, logging.StreamHandler) for h in logger.handlers):
-        logger.addHandler(stream_handler)
-
-    return logger
-
+# 当处于推理模式时禁用wandb
+os.environ["WANDB_MODE"] = "offline" if args.infer else "online"
 wandb_config = {
     "dataset": dataset,
     "task": task,
@@ -77,10 +75,11 @@ wandb_config = {
     "use_beta_attention": True,  # 启用beta注意力机制进行图神经网络的注意力计算
     "attention_type": "beta",    # 注意力类型标识
 }
-# 初始化wandb项目 - 本次run使用beta注意力机制进行GraphCare稀疏化实验
-run = wandb.init(project="GraphCareSparseTest", config=wandb_config, 
+# 初始化wandb项目 - 
+run = wandb.init(project="GraphCareSparseTest", config=wandb_config,
                  notes="使用beta注意力机制的GraphCare稀疏化模型实验")
 exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}"
+# 初始化日志记录器
 logger = get_logger(exp_name)
 
 # Load GraphCare data and graph
@@ -171,7 +170,142 @@ model = SparseGraphCare(
     connectivity_lambda=1e-3,    # Connectivity preservation strength
 ).to(device)
 
-# Update wandb config with model params
+# ===== Inference mode: single-sample forward with strict weight loading =====
+if args.infer:
+    weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
+    if not os.path.exists(weights_path):
+        print(f"[ERROR] Weights not found: {weights_path}. Please train the model first or specify --weights_path.")
+        # 确保wandb结束（如果意外初始化）
+        try:
+            wandb.finish()
+        except Exception:
+            pass
+        sys.exit(1)
+
+    # Load weights strictly
+    try:
+        state = torch.load(weights_path, map_location=device)
+        model.load_state_dict(state, strict=False)
+        print(f"[INFO] Loaded weights from {weights_path}")
+    except Exception as e:
+        print(f"[ERROR] Failed to load weights: {e}")
+        try:
+            wandb.finish()
+        except Exception:
+            pass
+        sys.exit(1)
+
+    # Resolve sample index
+    # patient_id或sample_index任选其一
+    idx = None
+    if args.patient_id is not None:
+        target_pid = str(args.patient_id)
+        for i, p in enumerate(sample_dataset):
+            if str(p.get('patient_id')) == target_pid:
+                idx = i
+                break
+        if idx is None:
+            print(f"[ERROR] patient_id={target_pid} not found in dataset")
+            try:
+                wandb.finish()
+            except Exception:
+                pass
+            sys.exit(1)
+    elif args.sample_index is not None:
+        if 0 <= int(args.sample_index) < len(sample_dataset):
+            idx = int(args.sample_index)
+        else:
+            print(f"[ERROR] sample_index out of range: {args.sample_index} (0..{len(sample_dataset)-1})")
+            try:
+                wandb.finish()
+            except Exception:
+                pass
+            sys.exit(1)
+    else:
+        print("[ERROR] Inference mode requires --patient_id or --sample_index")
+        try:
+            wandb.finish()
+        except Exception:
+            pass
+        sys.exit(1)
+
+    # Build subgraph for the sample
+    data = get_subgraph(G_tg, sample_dataset, task, idx)
+    data = data.to(device)
+
+    node_ids = data.y
+    rel_ids = data.relation
+    edge_index = data.edge_index
+    batch = data.batch
+
+    # 单样本 reshape
+    visit_node = data.visit_padded_node.reshape(1, -1, data.visit_padded_node.shape[1]).float()
+    ehr_nodes_vec = data.ehr_nodes.reshape(1, -1).float()
+
+    model.eval()
+    with torch.no_grad():
+        out = model(
+            node_ids=node_ids,
+            rel_ids=rel_ids,
+            edge_index=edge_index,
+            batch=batch,
+            visit_node=visit_node,
+            ehr_nodes=ehr_nodes_vec,
+            in_drop=False,
+        )
+        logits = out[0] if isinstance(out, tuple) else out
+
+        if mode == "binary":
+            prob = torch.sigmoid(logits)
+        elif mode in ("multilabel", "multiclass"):
+            prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
+        else:
+            prob = logits
+
+    # Prepare output
+    pid_val = sample_dataset[idx].get('patient_id', None)
+    result = {
+        "patient_id": None if pid_val is None else str(pid_val),
+        "sample_index": idx,
+        "mode": mode,
+        "logits": logits.detach().cpu().numpy().tolist(),
+        "prob": prob.detach().cpu().numpy().tolist(),
+    }
+
+    # For drugrec, also return top-k indices and scores
+    if task == "drugrec":
+        k = min(10, prob.shape[-1])
+        topv, topi = torch.topk(prob.view(-1), k)
+        result.update({
+            "topk_indices": topi.detach().cpu().numpy().tolist(),
+            "topk_scores": topv.detach().cpu().numpy().tolist(),
+        })
+    if task == "procedure":
+        k = min(10, prob.shape[-1])
+        topv, topi = torch.topk(prob.view(-1), k)
+        result.update({
+            "topk_indices": topi.detach().cpu().numpy().tolist(),
+            "topk_scores": topv.detach().cpu().numpy().tolist(),
+        })
+
+    print("[INFER] Single-sample inference done.")
+    print(json.dumps({k: (v if k not in ["logits", "prob"] else f"shape={np.array(v).shape}") for k, v in result.items()}, ensure_ascii=False, indent=2))
+
+    # Save to file if requested
+    if args.out:
+        out_path = args.out
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(result, f, ensure_ascii=False)
+        print(f"[INFER] Result saved to {out_path}")
+
+    try:
+        wandb.finish()
+    except Exception:
+        pass
+    sys.exit(0)
+
+# Update wandb config with model params (training/validation only)
 wandb.config.update({
     "embedding_dim": embedding_dim,
     "hidden_dim": 128,
@@ -311,183 +445,6 @@ def evaluate(loader):
     
     return y_true_all, y_prob_all
 
-# ===== 用户反馈 -> 节点增删改 =====
-
-def _last_active_visit_index(vpn: torch.Tensor) -> int:
-    """返回 visit_padded_node 中最后一个非空就诊的行索引；若全为空则返回 0。
-    vpn 形状为 (max_visit, max_nodes)。
-    """
-    if vpn.ndim != 2:
-        return 0
-    with torch.no_grad():
-        sums = vpn.sum(dim=1)
-        nonzero = torch.where(sums > 0)[0]
-        if nonzero.numel() == 0:
-            return 0
-        return int(nonzero.max().item())
-
-def parse_feedback_to_actions(feedback_text: str):
-    """解析简单自然语言/指令为节点增删动作列表。
-    支持格式：
-    - "+123", "-45"（正负号+节点ID）
-    - "添加123", "加上123", "加入123", "增加123"
-    - "删除456", "去掉456", "移除456", "排除456"
-    - "add 123", "remove 456"
-    返回: [(op, node_id), ...]，op 为 "+" 或 "-"。
-    """
-    text = feedback_text.strip()
-    actions = []
-
-    # 1) 解析 +N / -N
-    for sign, num in re.findall(r"([+\-])\s*(\d+)", text):
-        actions.append((sign, int(num)))
-
-    # 2) 解析中英文动词 + 数字
-    add_words = ["添加", "加上", "加入", "增加", "include", "add"]
-    del_words = ["删除", "去掉", "移除", "排除", "exclude", "remove"]
-    for w in add_words:
-        for num in re.findall(fr"{w}\s*(\d+)", text, flags=re.IGNORECASE):
-            actions.append(("+", int(num)))
-    for w in del_words:
-        for num in re.findall(fr"{w}\s*(\d+)", text, flags=re.IGNORECASE):
-            actions.append(("-", int(num)))
-
-    # 去重但保留顺序
-    seen = set()
-    dedup = []
-    for a in actions:
-        if a not in seen:
-            dedup.append(a)
-            seen.add(a)
-    return dedup
-
-def apply_user_actions_to_patient(patient: dict, actions, max_nodes: int):
-    """对单个 patient 字典应用增删节点动作，保持 node_set / ehr_node_set / visit_padded_node 一致性。
-    注意：会就地修改 patient。
-    """
-    if not actions:
-        return patient
-
-    # 备份，防止删空
-    old_node_set = list(patient.get('node_set', []))
-    old_ehr = patient.get('ehr_node_set', None)
-    old_vpn = patient.get('visit_padded_node', None)
-
-    # 确保 tensor 类型
-    if isinstance(patient['ehr_node_set'], np.ndarray):
-        patient['ehr_node_set'] = torch.tensor(patient['ehr_node_set'])
-    if isinstance(patient['visit_padded_node'], np.ndarray):
-        patient['visit_padded_node'] = torch.tensor(patient['visit_padded_node'])
-
-    node_set = set(int(x) for x in patient.get('node_set', []))
-    ehr_vec = patient['ehr_node_set'].clone()
-    vpn = patient['visit_padded_node'].clone()
-
-    # 动作执行
-    for op, nid in actions:
-        if not (0 <= int(nid) < max_nodes):
-            continue
-        if op == "+":
-            node_set.add(int(nid))
-            if ehr_vec.shape[0] == max_nodes:
-                ehr_vec[int(nid)] = 1
-            # 将该节点标到“最近一次就诊”上
-            last_idx = _last_active_visit_index(vpn)
-            if vpn.shape[1] == max_nodes:
-                vpn[last_idx, int(nid)] = 1
-        elif op == "-":
-            if int(nid) in node_set:
-                node_set.remove(int(nid))
-            if ehr_vec.shape[0] == max_nodes:
-                ehr_vec[int(nid)] = 0
-            # 从所有就诊中清除该节点
-            if vpn.shape[1] == max_nodes:
-                vpn[:, int(nid)] = 0
-
-    # 防止删空
-    if len(node_set) == 0:
-        patient['node_set'] = old_node_set
-        if old_ehr is not None:
-            patient['ehr_node_set'] = old_ehr
-        if old_vpn is not None:
-            patient['visit_padded_node'] = old_vpn
-        return patient
-
-    # 写回
-    patient['node_set'] = list(sorted(node_set))
-    patient['ehr_node_set'] = ehr_vec
-    patient['visit_padded_node'] = vpn
-    return patient
-
-
-def recompute_with_feedback(patient_id: str, feedback_text: str = None, topk: int = 5):
-    """基于用户自然语言反馈对指定 patient 调整节点后，立刻走一遍前向，返回新预测。
-    - patient_id: 与 sample_dataset[i]['patient_id'] 对应
-    - feedback_text: 自然语言，如 "+123, -456" 或 "删除789, 添加321"
-    返回：包含 logits、prob、以及若任务为 drugrec 则返回 topk 索引。
-    """
-    # 查找样本索引
-    idx = None
-    for i, p in enumerate(sample_dataset):
-        if str(p.get('patient_id')) == str(patient_id):
-            idx = i
-            break
-    if idx is None:
-        raise ValueError(f"patient_id {patient_id} 未找到")
-
-    # 应用反馈
-    if feedback_text and feedback_text.strip():
-        actions = parse_feedback_to_actions(feedback_text)
-        apply_user_actions_to_patient(sample_dataset[idx], actions, max_nodes=max_nodes)
-
-    # 取子图并推理
-    data = get_subgraph(G_tg, sample_dataset, task, idx)
-    data = data.to(device)
-
-    node_ids = data.y
-    rel_ids = data.relation
-    edge_index = data.edge_index
-    batch = data.batch
-
-    # 单样本 reshape
-    visit_node = data.visit_padded_node.reshape(1, -1, data.visit_padded_node.shape[1]).float()
-    ehr_nodes_vec = data.ehr_nodes.reshape(1, -1).float()
-
-    model.eval()
-    with torch.no_grad():
-        out = model(
-            node_ids=node_ids,
-            rel_ids=rel_ids,
-            edge_index=edge_index,
-            batch=batch,
-            visit_node=visit_node,
-            ehr_nodes=ehr_nodes_vec,
-            in_drop=False,
-        )
-        logits = out[0] if isinstance(out, tuple) else out
-
-        if mode == "binary":
-            prob = torch.sigmoid(logits)
-        elif mode in ("multilabel", "multiclass"):
-            prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
-        else:
-            prob = logits
-
-    result = {
-        "logits": logits.detach().cpu().numpy(),
-        "prob": prob.detach().cpu().numpy(),
-    }
-
-    if task == "drugrec":
-        # 返回 topk 建议（基于概率）
-        k = min(topk, prob.shape[-1])
-        topv, topi = torch.topk(prob.view(-1), k)
-        result.update({
-            "topk_indices": topi.detach().cpu().numpy().tolist(),
-            "topk_scores": topv.detach().cpu().numpy().tolist(),
-        })
-
-    return result
 # Training loop with comprehensive WandB logging
 print("Starting training...")
 best_val_auc = 0
@@ -608,5 +565,9 @@ if model.use_sparsification:
     print(f"  Target sparsification ratio: {model.sparsification_ratio}")
     print(f"  L1 regularization: {model.l1_lambda}")
     print(f"  Connectivity preservation: {model.connectivity_lambda}")
+    logger.info(f"Sparsification enabled:")
+    logger.info(f"  Target sparsification ratio: {model.sparsification_ratio}")
+    logger.info(f"  L1 regularization: {model.l1_lambda}")
+    logger.info(f"  Connectivity preservation: {model.connectivity_lambda}")
 
 wandb.finish()
