@@ -28,9 +28,11 @@ import logging
 # import neptune
 import wandb
 from copy import deepcopy
+# Import extract_sample_to_pkl function for inference mode
+from ehr_baselines.SparseTest.utils.extract_sample import extract_sample_to_pkl
 
 
-def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
+def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None):
     if kg == "GPT-KG":
         kg = ""
     if task == "drugrec" or task == "lenofstay" or task == "procedure":
@@ -45,13 +47,33 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
         path_2 = "./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
 
     # kg_ratio 是GraphCare中的一个重要超参数，用于控制 知识图谱的完整性比例 。
-    # 
     if kg_ratio != 1.0:
         sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
         graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
     else:
         sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}.pkl"
         graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
+    # 当启用推理模式时,直接读已经提取好的文件,如果没有提取好,利用extract_sample获取对应的样本
+    if inferMode == True:
+        if patient_id is None and index is None:
+            raise ValueError("在推理模式下，必须提供patient_id或index参数")
+        
+        # 使用extract_sample_to_pkl函数获取或创建样本PKL文件
+        sample_pkl_path = extract_sample_to_pkl(
+            dataset=dataset,
+            task=task,
+            patient_id=patient_id,
+            index=index,
+            verbose=True
+        )
+        
+        # 加载单个样本并包装成列表格式
+        with open(sample_pkl_path, 'rb') as f:
+            single_sample = pickle.load(f)
+        sample_dataset = [single_sample]  # 包装成列表格式以保持兼容性
+        
+        print(f"[INFO] 推理模式：已加载单个样本 {sample_pkl_path}")
+        
     map_cluster_file = f"{path_1}/clusters_{th}.json" 
     map_cluster_inv = f"{path_1}/clusters_inv_{th}.json"
     map_cluster_rel = f"{path_1}/clusters_rel_{th}.json"
@@ -67,8 +89,10 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015"):
     rel_emb_file = f"{path_2}/relation_embedding.pkl"
 
 
-    with open(sample_dataset_file, "rb") as f:
-        sample_dataset = pickle.load(f)
+    # 在推理模式下，sample_dataset已经在上面加载了单个样本
+    if not inferMode:
+        with open(sample_dataset_file, "rb") as f:
+            sample_dataset = pickle.load(f)
     with open(graph_file, "rb") as f:
         graph = pickle.load(f)
     with open(ent2id_file, "r") as f:

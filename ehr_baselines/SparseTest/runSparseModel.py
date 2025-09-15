@@ -10,7 +10,7 @@ sys.path.append('/r/root/workspace/GraphCare')
 import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
 from graphcare import label_ehr_nodes, get_rel_emb, label_k_hop_nodes, prepare_procedure_indices
-from graphcare_sparse_model import SparseGraphCare
+from SparseModel import SparseGraphCare
 from graphcare_ import split_by_patient
 import torch
 import torch.nn.functional as F
@@ -119,14 +119,15 @@ sample_dataset = label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus,
 # Label k-hop subgraph nodes
 sample_dataset = label_k_hop_nodes(G_tg, sample_dataset, k=1)
 
-# Split dataset
-train_dataset, val_dataset, test_dataset = split_by_patient(sample_dataset, [0.8, 0.1, 0.1], seed=528)
-print(f"Train: {len(train_dataset)}, Val: {len(val_dataset)}, Test: {len(test_dataset)}")
+if not args.infer:
+    # Split dataset
+    train_dataset, val_dataset, test_dataset = split_by_patient(sample_dataset, [0.8, 0.1, 0.1], seed=528)
+    print(f"Train: {len(train_dataset)}, Val: {len(val_dataset)}, Test: {len(test_dataset)}")
 
-# Create data loaders
-train_loader, val_loader, test_loader = get_dataloader(
-    G_tg, train_dataset, val_dataset, test_dataset, task, batch_size
-)
+    # Create data loaders
+    train_loader, val_loader, test_loader = get_dataloader(
+        G_tg, train_dataset, val_dataset, test_dataset, task, batch_size
+    )
 
 # Initialize model with sparsification
 num_nodes = max_nodes
@@ -198,47 +199,47 @@ if args.infer:
             pass
         sys.exit(1)
 
-    # Resolve sample index
-    # patient_id或sample_index任选其一
-    idx = None
-    if args.patient_id is not None:
-        target_pid = str(args.patient_id)
-        for i, p in enumerate(sample_dataset):
-            if str(p.get('patient_id')) == target_pid:
-                idx = i
-                break
-        if idx is None:
-            print(f"[ERROR] patient_id={target_pid} not found in dataset")
-            try:
-                wandb.finish()
-            except Exception:
-                pass
-            sys.exit(1)
-    elif args.sample_index is not None:
-        if 0 <= int(args.sample_index) < len(sample_dataset):
-            idx = int(args.sample_index)
-        else:
-            print(f"[ERROR] sample_index out of range: {args.sample_index} (0..{len(sample_dataset)-1})")
-            try:
-                wandb.finish()
-            except Exception:
-                pass
-            sys.exit(1)
-    else:
-        print("[ERROR] Inference mode requires --patient_id or --sample_index")
-        try:
-            wandb.finish()
-        except Exception:
-            pass
-        sys.exit(1)
+    # # Resolve sample index
+    # # patient_id或sample_index任选其一
+    # idx = None
+    # if args.patient_id is not None:
+    #     target_pid = str(args.patient_id)
+    #     for i, p in enumerate(sample_dataset):
+    #         if str(p.get('patient_id')) == target_pid:
+    #             idx = i
+    #             break
+    #     if idx is None:
+    #         print(f"[ERROR] patient_id={target_pid} not found in dataset")
+    #         try:
+    #             wandb.finish()
+    #         except Exception:
+    #             pass
+    #         sys.exit(1)
+    # elif args.sample_index is not None:
+    #     if 0 <= int(args.sample_index) < len(sample_dataset):
+    #         idx = int(args.sample_index)
+    #     else:
+    #         print(f"[ERROR] sample_index out of range: {args.sample_index} (0..{len(sample_dataset)-1})")
+    #         try:
+    #             wandb.finish()
+    #         except Exception:
+    #             pass
+    #         sys.exit(1)
+    # else:
+    #     print("[ERROR] Inference mode requires --patient_id or --sample_index")
+    #     try:
+    #         wandb.finish()
+    #     except Exception:
+    #         pass
+    #     sys.exit(1)
 
-    # Create a single-sample dataset and DataLoader for proper batch handling
+    # # Create a single-sample dataset and DataLoader for proper batch handling
     from graphcare import Dataset
     from torch_geometric.loader import DataLoader
     
-    # Create a dataset with just the target sample
-    single_sample_dataset = [sample_dataset[idx]]
-    inference_dataset = Dataset(G=G_tg, dataset=single_sample_dataset, task=task)
+    # # Create a dataset with just the target sample
+    # single_sample_dataset = [sample_dataset[idx]]
+    inference_dataset = Dataset(G=G_tg, dataset=sample_dataset, task=task)
     inference_loader = DataLoader(inference_dataset, batch_size=1, shuffle=False)
     
     model.eval()
@@ -288,10 +289,10 @@ if args.infer:
             break  # Only process the single batch
 
     # Prepare output
-    pid_val = sample_dataset[idx].get('patient_id', None)
+    pid_val = sample_dataset[0].get('patient_id', None)
     result = {
         "patient_id": None if pid_val is None else str(pid_val),
-        "sample_index": idx,
+        "sample_index": None if not args.sample_index else int(args.sample_index),
         "mode": mode,
         "logits": logits.detach().cpu().numpy().tolist(),
         "prob": prob.detach().cpu().numpy().tolist(),

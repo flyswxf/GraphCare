@@ -1,6 +1,8 @@
 """
 GraphCare with Soft Sparsification for Mortality Prediction
 """
+
+# 不使用该文件,使用runSparseModel.py
 import sys
 import os
 # Add parent directory to path for imports
