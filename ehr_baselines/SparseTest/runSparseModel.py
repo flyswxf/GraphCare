@@ -47,7 +47,7 @@ if args.infer:
     if args.weights_path is None:
         parser.error("Inference mode requires --weights_path to load model weights")
 # 启动推理模式的代码示例
-# python -u ehr_baselines/SparseTest/sparse-test.py --dataset mimic3 --task readmission --infer --sample_index 0 --weights_path ./data/weights/saved_weights_mimic3_readmission_sparse.pkl --out ./inference_result.json 
+# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task readmission --infer --sample_index 50 --weights_path ./data/weights/saved_weights_mimic3_readmission_sparse.pkl --out ./inference_result.json 
 
 # Configuration
 dataset = args.dataset
@@ -88,7 +88,9 @@ logger = get_logger(exp_name)
 try:
     sample_dataset, graph, ent2id, rel2id, ent_emb, rel_emb, \
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_rel_inv, \
-    ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(dataset, task)
+    ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(
+        dataset, task, inferMode=args.infer, patient_id=args.patient_id, index=args.sample_index
+    )
 
     # For procedure task, create multilabel indices similar to drugs_ind
     if task == "procedure":

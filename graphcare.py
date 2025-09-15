@@ -28,8 +28,6 @@ import logging
 # import neptune
 import wandb
 from copy import deepcopy
-# Import extract_sample_to_pkl function for inference mode
-from ehr_baselines.SparseTest.utils.extract_sample import extract_sample_to_pkl
 
 
 def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None):
@@ -55,6 +53,9 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
         graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
     # 当启用推理模式时,直接读已经提取好的文件,如果没有提取好,利用extract_sample获取对应的样本
     if inferMode == True:
+        # Import extract_sample_to_pkl function only when needed to avoid circular import
+        from ehr_baselines.SparseTest.utils.extract_sample import extract_sample_to_pkl
+        
         if patient_id is None and index is None:
             raise ValueError("在推理模式下，必须提供patient_id或index参数")
         
