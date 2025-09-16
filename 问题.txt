@@ -1,0 +1,4 @@
+dataPrepare中的处理逻辑,一定要区分不同任务不同的dataset吗?(可能还存在其他不同)
+目前服务器数据中没有drug和lang的dataset,似乎是之前处理的时候出不来
+如果dataset不同数据集中存储信息是一样的.,extract_sample.py中的逻辑也可以调整,不用区分task
+    发现区别了,是label的不同,但label只占很小一个点而已,不需要重复存储dataset.
