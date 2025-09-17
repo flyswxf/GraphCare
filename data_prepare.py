@@ -1,6 +1,7 @@
 import csv
 import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
+from pyhealth.datasets import SampleEHRDataset
 from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn
 import pickle
 import json
@@ -168,13 +169,15 @@ def multihot(label, num_labels):
         multihot[l] = 1
     return multihot
 
-
-def prepare_label(sample_dataset, drugs):
+# 添加了一个类型声明,如果报错就删了
+def prepare_label(sample_dataset:SampleEHRDataset, drugs):
     label_tokenizer = Tokenizer(
         sample_dataset.get_all_tokens(key='drugs')
+        # 返回一个List[str],遍历整个数据集中所有样本的 drugs 字段，提取出所有出现过的药物代码，去重后返回一个列表
     )
 
     labels_index = label_tokenizer.convert_tokens_to_indices(drugs)
+    # 把 drugs 转换为一个索引列表,每个索引对应一个药物代码.索引是tokenizer中的vocabulary,是临时建的,可以认为是随意的分配
     num_labels = label_tokenizer.get_vocabulary_size()
     labels = multihot(labels_index, num_labels)
     return labels
@@ -508,6 +511,7 @@ def run(dataset, task):
     if task == "drugrec" and not load_processed_dataset:
         print("Preparing drug indices...")
         sample_dataset = prepare_drug_indices(sample_dataset)
+        # 就是给每个patient加上一个patient['drugs_ind'],是一个tensor向量,包含该患者的所有drug使用情况
 
     print("Clustering...")
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel = clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=load_cluster, save_cluster=save_cluster)
