@@ -192,8 +192,8 @@ def readmission_prediction_mimic3_fn(patient: Patient, time_window=15):
 def length_of_stay_prediction_mimic3_fn(patient: Patient):
     samples = []
 
-    for visit in patient:
-
+    for i in range(len(patient) - 1):
+        visit = patient[i]
         conditions = visit.get_code_list(table="DIAGNOSES_ICD")
         procedures = visit.get_code_list(table="PROCEDURES_ICD")
         drugs = visit.get_code_list(table="PRESCRIPTIONS")

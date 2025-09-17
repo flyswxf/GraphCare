@@ -28,7 +28,7 @@ from tqdm import tqdm
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
-parser.add_argument('--task', type=str, default='readmission', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--task', type=str, default='lenofstay', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
@@ -62,7 +62,7 @@ print(f"Dataset: {dataset}, Task: {task}")
 
 # Initialize logging and WandB (following graphcare.py style)
 # 当处于推理模式时禁用wandb
-os.environ["WANDB_MODE"] = "offline" if args.infer else "online"
+os.environ["WANDB_MODE"] = "offline" if args.infer else "offline"
 wandb_config = {
     "dataset": dataset,
     "task": task,
@@ -475,10 +475,27 @@ for epoch in range(1, epochs + 1):
         val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
     else:
-        # multilabel (e.g., drugrec/procedure): 使用概率计算 PR-AUC/ROC-AUC，其他指标留空或后续扩展
-        y_pred_val = np.argmax(y_prob_val, axis=-1)
-        val_pr_auc = average_precision_score(y_true_val, y_prob_val)
-        val_roc_auc = roc_auc_score(y_true_val, y_prob_val)
+        # multiclass (e.g., lenofstay): 对于多分类任务，需要重新reshape概率数组
+        # 由于evaluate函数将数据展平为1D，需要根据out_channels重新reshape
+        if len(y_prob_val) % out_channels == 0:
+            # 重新reshape为 (n_samples, n_classes)
+            y_prob_val_reshaped = y_prob_val.reshape(-1, out_channels)
+            y_pred_val = np.argmax(y_prob_val_reshaped, axis=1)
+            
+            # 对于多分类，使用one-vs-rest方式计算AUC
+            try:
+                val_pr_auc = average_precision_score(y_true_val, y_prob_val_reshaped, average="macro")
+                val_roc_auc = roc_auc_score(y_true_val, y_prob_val_reshaped, average="macro", multi_class="ovr")
+            except ValueError:
+                # 如果类别不足，使用默认值
+                val_pr_auc = 0.0
+                val_roc_auc = 0.0
+        else:
+            # 如果无法正确reshape，使用阈值方法作为fallback
+            y_pred_val = (y_prob_val >= 0.5).astype(int)
+            val_pr_auc = 0.0
+            val_roc_auc = 0.0
+            
         val_jaccard = jaccard_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_acc = accuracy_score(y_true_val, y_pred_val)
         val_f1 = f1_score(y_true_val, y_pred_val, average="macro", zero_division=1)
@@ -540,9 +557,27 @@ if mode == "binary":
     test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_recall = recall_score(y_true_test, y_pred_test, average="macro", zero_division=1)
 else:
-    y_pred_test = (y_prob_test >= 0.5).astype(int)
-    test_pr_auc = average_precision_score(y_true_test, y_prob_test)
-    test_roc_auc = roc_auc_score(y_true_test, y_prob_test)
+    # multiclass (e.g., lenofstay): 对于多分类任务，需要重新reshape概率数组
+    # 由于evaluate函数将数据展平为1D，需要根据out_channels重新reshape
+    if len(y_prob_test) % out_channels == 0:
+        # 重新reshape为 (n_samples, n_classes)
+        y_prob_test_reshaped = y_prob_test.reshape(-1, out_channels)
+        y_pred_test = np.argmax(y_prob_test_reshaped, axis=1)
+        
+        # 对于多分类，使用one-vs-rest方式计算AUC
+        try:
+            test_pr_auc = average_precision_score(y_true_test, y_prob_test_reshaped, average="macro")
+            test_roc_auc = roc_auc_score(y_true_test, y_prob_test_reshaped, average="macro", multi_class="ovr")
+        except ValueError:
+            # 如果类别不足，使用默认值
+            test_pr_auc = 0.0
+            test_roc_auc = 0.0
+    else:
+        # 如果无法正确reshape，使用阈值方法作为fallback
+        y_pred_test = (y_prob_test >= 0.5).astype(int)
+        test_pr_auc = 0.0
+        test_roc_auc = 0.0
+        
     test_jaccard = jaccard_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_acc = accuracy_score(y_true_test, y_pred_test)
     test_f1 = f1_score(y_true_test, y_pred_test, average="macro", zero_division=1)

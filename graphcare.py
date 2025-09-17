@@ -27,6 +27,7 @@ import argparse
 import logging
 # import neptune
 import wandb
+import os
 from copy import deepcopy
 
 
@@ -413,15 +414,32 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
             val_recall = 0
             val_jaccard = 0
         else:
+            # 多标签任务处理
             y_pred = torch.tensor(y_prob_val >= 0.5, dtype=torch.float32)
             y_true = torch.tensor(y_true_val)
-            val_pr_auc = average_precision_score(y_true, y_pred)
-            val_roc_auc = roc_auc_score(y_true, y_pred)
-            val_acc = accuracy_score(y_true, y_pred)
-            val_f1 = f1_score(y_true, y_pred)
-            val_precision = precision_score(y_true, y_pred)
-            val_recall = recall_score(y_true, y_pred)
-            val_jaccard = jaccard_score(y_true, y_pred)
+            
+            # 确保数据类型一致
+            y_true_np = y_true.numpy()
+            y_pred_np = y_pred.numpy()
+            y_prob_np = y_prob_val
+            
+            # 多标签指标计算，使用macro平均
+            try:
+                val_pr_auc = average_precision_score(y_true_np, y_prob_np, average='macro')
+            except:
+                val_pr_auc = 0.0
+                
+            try:
+                val_roc_auc = roc_auc_score(y_true_np, y_prob_np, average='macro')
+            except:
+                val_roc_auc = 0.0
+                
+            # 对于二分类指标，使用samples平均或macro平均
+            val_acc = accuracy_score(y_true_np, y_pred_np)
+            val_f1 = f1_score(y_true_np, y_pred_np, average='macro', zero_division=0)
+            val_precision = precision_score(y_true_np, y_pred_np, average='macro', zero_division=0)
+            val_recall = recall_score(y_true_np, y_pred_np, average='macro', zero_division=0)
+            val_jaccard = jaccard_score(y_true_np, y_pred_np, average='macro', zero_division=0)
 
         # save model
         if val_roc_auc >= best_val_auc:
@@ -462,7 +480,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
 def construct_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='mimic3')
-    parser.add_argument('--task', type=str, default='readmission')
+    parser.add_argument('--task', type=str, default='lenofstay')
     parser.add_argument('--kg', type=str, default='GPT-KG')
     parser.add_argument('--batch_size', type=int, default=16)
     parser.add_argument('--hidden_dim', type=int, default=128)
@@ -475,13 +493,13 @@ def construct_args():
     parser.add_argument('--freeze_emb', type=str, default="False")
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--patient_mode', type=str, default='joint', choices=['joint', 'graph', 'node'])
-    parser.add_argument('--alpha', type=str, default="True", choices=["True", "False"])
+    parser.add_argument('--alpha', type=str, default="False", choices=["True", "False"])
     parser.add_argument('--beta', type=str, default="True", choices=["True", "False"])
-    parser.add_argument('--edge_attn', type=str, default="True", choices=["True", "False"])
+    parser.add_argument('--edge_attn', type=str, default="False", choices=["True", "False"])
     parser.add_argument('--self_attn', type=float, default=0.)
     parser.add_argument("--gnn", type=str, default="BAT", choices=["GAT", "BAT", "GIN"])
     parser.add_argument('--hyperparameter_search', type=bool, default=False)
-    parser.add_argument('--attn_init', type=str, default="False", choices=["True", "False"])
+    parser.add_argument('--attn_init', type=str, default="True", choices=["True", "False"])
     parser.add_argument('--in_drop_rate', type=float, default=0.)
     parser.add_argument('--out_drop_rate', type=float, default=0.)
     parser.add_argument('--kg_ratio', type=float, default=1.0)
@@ -517,7 +535,7 @@ def single_run(args, params):
     #     project="patrick.jiang.cs/GraphCare",
     # )
     # run[\"parameters\"] = params
-
+    os.environ["WANDB_MODE"] = "offline"
     run = wandb.init(
         project="GraphCareSparseTest",
         config=params,

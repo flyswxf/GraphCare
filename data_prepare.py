@@ -1,7 +1,7 @@
 import csv
 import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
-from pyhealth.datasets import SampleEHRDataset
+from pyhealth.datasets import SampleDataset
 from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn
 import pickle
 import json
@@ -16,9 +16,10 @@ from torch_geometric.utils import to_networkx, from_networkx
 
 
 def load_dataset(load_processed_dataset, dataset, task):
-    if task == "drugrec":
+    # 应该是从此处加载lenofstay,但是graphcare原始的加载路径是和mortality,readmission在一起的,很奇怪
+    if task == "drugrec" or task == "lenofstay":
         file_name = f'./data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
-    elif task == "mortality" or task == "readmission" or task == "lenofstay":        
+    elif task == "mortality" or task == "readmission" :        
         file_name = f'./data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
 
     if load_processed_dataset:
@@ -170,7 +171,7 @@ def multihot(label, num_labels):
     return multihot
 
 # 添加了一个类型声明,如果报错就删了
-def prepare_label(sample_dataset:SampleEHRDataset, drugs):
+def prepare_label(sample_dataset:SampleDataset, drugs):
     label_tokenizer = Tokenizer(
         sample_dataset.get_all_tokens(key='drugs')
         # 返回一个List[str],遍历整个数据集中所有样本的 drugs 字段，提取出所有出现过的药物代码，去重后返回一个列表
@@ -531,9 +532,9 @@ def main():
         ]
     tasks = [
         # "drugrec", 
-        "mortality", 
+        # "mortality", 
         # "readmission", 
-        # "lenofstay"
+        "lenofstay"
         ]
 
     for dataset in datasets:
