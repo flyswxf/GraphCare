@@ -7,6 +7,9 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.append('/r/root/workspace/GraphCare')
 
+# 导入调试脚本
+from debug_validation_data import save_validation_debug_info, analyze_sklearn_compatibility
+
 import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
 from graphcare import label_ehr_nodes, get_rel_emb, label_k_hop_nodes, prepare_procedure_indices
@@ -463,6 +466,13 @@ for epoch in range(1, epochs + 1):
     # Validate
     y_true_val, y_prob_val = evaluate(val_loader)
     
+    # 调试：保存验证数据的详细信息
+    try:
+        debug_info = save_validation_debug_info(y_true_val, y_prob_val, epoch, task, mode)
+        analyze_sklearn_compatibility(y_true_val, y_prob_val, mode)
+    except Exception as debug_e:
+        print(f"调试信息保存失败: {debug_e}")
+    
     # Calculate comprehensive validation metrics (following graphcare.py but using probabilities for AUC/PR-AUC)
     if mode == "binary":
         y_pred_val = (y_prob_val >= 0.5).astype(int)
@@ -475,27 +485,10 @@ for epoch in range(1, epochs + 1):
         val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
     else:
-        # multiclass (e.g., lenofstay): 对于多分类任务，需要重新reshape概率数组
-        # 由于evaluate函数将数据展平为1D，需要根据out_channels重新reshape
-        if len(y_prob_val) % out_channels == 0:
-            # 重新reshape为 (n_samples, n_classes)
-            y_prob_val_reshaped = y_prob_val.reshape(-1, out_channels)
-            y_pred_val = np.argmax(y_prob_val_reshaped, axis=1)
-            
-            # 对于多分类，使用one-vs-rest方式计算AUC
-            try:
-                val_pr_auc = average_precision_score(y_true_val, y_prob_val_reshaped, average="macro")
-                val_roc_auc = roc_auc_score(y_true_val, y_prob_val_reshaped, average="macro", multi_class="ovr")
-            except ValueError:
-                # 如果类别不足，使用默认值
-                val_pr_auc = 0.0
-                val_roc_auc = 0.0
-        else:
-            # 如果无法正确reshape，使用阈值方法作为fallback
-            y_pred_val = (y_prob_val >= 0.5).astype(int)
-            val_pr_auc = 0.0
-            val_roc_auc = 0.0
-            
+        # multilabel (e.g., drugrec/procedure): 使用概率计算 PR-AUC/ROC-AUC，其他指标留空或后续扩展
+        y_pred_val = np.argmax(y_prob_val, axis=-1)
+        val_pr_auc = average_precision_score(y_true_val, y_prob_val)
+        val_roc_auc = roc_auc_score(y_true_val, y_prob_val)
         val_jaccard = jaccard_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_acc = accuracy_score(y_true_val, y_pred_val)
         val_f1 = f1_score(y_true_val, y_pred_val, average="macro", zero_division=1)
@@ -557,27 +550,9 @@ if mode == "binary":
     test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_recall = recall_score(y_true_test, y_pred_test, average="macro", zero_division=1)
 else:
-    # multiclass (e.g., lenofstay): 对于多分类任务，需要重新reshape概率数组
-    # 由于evaluate函数将数据展平为1D，需要根据out_channels重新reshape
-    if len(y_prob_test) % out_channels == 0:
-        # 重新reshape为 (n_samples, n_classes)
-        y_prob_test_reshaped = y_prob_test.reshape(-1, out_channels)
-        y_pred_test = np.argmax(y_prob_test_reshaped, axis=1)
-        
-        # 对于多分类，使用one-vs-rest方式计算AUC
-        try:
-            test_pr_auc = average_precision_score(y_true_test, y_prob_test_reshaped, average="macro")
-            test_roc_auc = roc_auc_score(y_true_test, y_prob_test_reshaped, average="macro", multi_class="ovr")
-        except ValueError:
-            # 如果类别不足，使用默认值
-            test_pr_auc = 0.0
-            test_roc_auc = 0.0
-    else:
-        # 如果无法正确reshape，使用阈值方法作为fallback
-        y_pred_test = (y_prob_test >= 0.5).astype(int)
-        test_pr_auc = 0.0
-        test_roc_auc = 0.0
-        
+    y_pred_test = (y_prob_test >= 0.5).astype(int)
+    test_pr_auc = average_precision_score(y_true_test, y_prob_test)
+    test_roc_auc = roc_auc_score(y_true_test, y_prob_test)
     test_jaccard = jaccard_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_acc = accuracy_score(y_true_test, y_pred_test)
     test_f1 = f1_score(y_true_test, y_pred_test, average="macro", zero_division=1)
