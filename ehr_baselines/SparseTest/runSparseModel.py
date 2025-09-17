@@ -201,40 +201,6 @@ if args.infer:
             pass
         sys.exit(1)
 
-    # # Resolve sample index
-    # # patient_id或sample_index任选其一
-    # idx = None
-    # if args.patient_id is not None:
-    #     target_pid = str(args.patient_id)
-    #     for i, p in enumerate(sample_dataset):
-    #         if str(p.get('patient_id')) == target_pid:
-    #             idx = i
-    #             break
-    #     if idx is None:
-    #         print(f"[ERROR] patient_id={target_pid} not found in dataset")
-    #         try:
-    #             wandb.finish()
-    #         except Exception:
-    #             pass
-    #         sys.exit(1)
-    # elif args.sample_index is not None:
-    #     if 0 <= int(args.sample_index) < len(sample_dataset):
-    #         idx = int(args.sample_index)
-    #     else:
-    #         print(f"[ERROR] sample_index out of range: {args.sample_index} (0..{len(sample_dataset)-1})")
-    #         try:
-    #             wandb.finish()
-    #         except Exception:
-    #             pass
-    #         sys.exit(1)
-    # else:
-    #     print("[ERROR] Inference mode requires --patient_id or --sample_index")
-    #     try:
-    #         wandb.finish()
-    #     except Exception:
-    #         pass
-    #     sys.exit(1)
-
     # # Create a single-sample dataset and DataLoader for proper batch handling
     from graphcare import Dataset
     from torch_geometric.loader import DataLoader
