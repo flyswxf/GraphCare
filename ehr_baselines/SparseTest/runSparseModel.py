@@ -32,7 +32,7 @@ from tqdm import tqdm
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
-parser.add_argument('--task', type=str, default='mortality', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--task', type=str, default='drugrec', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
@@ -503,11 +503,12 @@ for epoch in range(1, epochs + 1):
         y_pred_val = np.argmax(y_prob_val, axis=-1)
         val_pr_auc = average_precision_score(y_true_val, y_prob_val)
         val_roc_auc = roc_auc_score(y_true_val, y_prob_val)
-        val_jaccard = jaccard_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        val_jaccard = cohen_kappa_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_acc = accuracy_score(y_true_val, y_pred_val)
         val_f1 = f1_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        
     
     # Model saving and early stopping
     if val_roc_auc >= best_val_auc:
