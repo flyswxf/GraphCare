@@ -485,14 +485,11 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
 
 
 def run(dataset, task):
-    if task == "drugrec":
-        load_processed_dataset = False
-    else:
-        load_processed_dataset = False
+    load_processed_dataset = False
     load_cluster = True
     save_cluster = False
     load_graph = True  # 新增：优先加载已存在的图文件
-    save_graph = False
+    save_graph = True
     save_processed_dataset = True
 
     print(f"Dataset: {dataset}, Task: {task}")
@@ -531,10 +528,10 @@ def main():
         # "mimic4"
         ]
     tasks = [
-        # "drugrec", 
+        "drugrec", 
         # "mortality", 
         # "readmission", 
-        "lenofstay"
+        # "lenofstay"
         ]
 
     for dataset in datasets:

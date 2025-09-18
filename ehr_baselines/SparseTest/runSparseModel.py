@@ -19,6 +19,7 @@ import torch
 import torch.nn.functional as F
 from torch_geometric.utils import from_networkx
 import numpy as np
+from torch_geometric.loader import DataLoader
 from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score
 import wandb
 from logger import get_logger
@@ -394,7 +395,7 @@ def train_one_epoch():
     return total_loss / len(train_loader), total_sparse_loss / len(train_loader)
 
 # Evaluation function
-def evaluate(loader):
+def evaluate(loader:DataLoader):
     model.eval()
     y_true_all = []
     y_prob_all = []
@@ -448,8 +449,10 @@ def evaluate(loader):
             y_prob_all.append(y_prob.cpu().numpy())
     
     # 将 y_true/y_prob 展平为 1D，用于计算整体 AUC/PRAUC
-    y_true_all = np.concatenate(y_true_all, axis=0).reshape(-1)
-    y_prob_all = np.concatenate(y_prob_all, axis=0).reshape(-1)
+    # y_true_all = np.concatenate(y_true_all, axis=0).reshape(-1)
+    # y_prob_all = np.concatenate(y_prob_all, axis=0).reshape(-1)
+    y_true_all = np.concatenate(y_true_all, axis=0)
+    y_prob_all = np.concatenate(y_prob_all, axis=0)
     
     return y_true_all, y_prob_all
 
@@ -484,7 +487,18 @@ for epoch in range(1, epochs + 1):
         val_f1 = f1_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
         val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
-    else:
+    elif mode == "multiclass":
+        y_pred_val = np.argmax(y_prob_val, axis=-1)
+        y_true_val = np.argmax(y_true_val, axis=-1)
+
+        val_pr_auc = 0
+        val_roc_auc = roc_auc_score(y_true_val, y_prob_val, multi_class="ovr", average="weighted")
+        val_jaccard = cohen_kappa_score(y_true_val, y_pred_val)
+        val_acc = accuracy_score(y_true_val, y_pred_val)
+        val_f1 = f1_score(y_true_val, y_pred_val, average="weighted")
+        val_precision = 0
+        val_recall = 0
+    elif mode == "multilabel":
         # multilabel (e.g., drugrec/procedure): 使用概率计算 PR-AUC/ROC-AUC，其他指标留空或后续扩展
         y_pred_val = np.argmax(y_prob_val, axis=-1)
         val_pr_auc = average_precision_score(y_true_val, y_prob_val)

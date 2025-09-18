@@ -401,27 +401,39 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
 
     for epoch in range(1, epochs + 1):
         training_loss = train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_func)
-        y_true_val, y_prob_val = evaluate(mode, patient_mode, gnn, model, device, val_loader)
+        y_true_all, y_prob_all = evaluate(mode, patient_mode, gnn, model, device, val_loader)
 
-        if mode == "multiclass":
-            y_pred = torch.argmax(torch.tensor(y_prob_val), dim=-1)
-            y_true = torch.tensor(y_true_val)
-            val_pr_auc, val_roc_auc = f1_score(y_true, y_pred), accuracy_score(y_true, y_pred)
-            val_f1 = val_pr_auc
-            val_acc = val_roc_auc
+        if mode == "binary":
+            y_pred_all = (y_prob_all >= 0.5).astype(int)
+
+            val_pr_auc = average_precision_score(y_true_all, y_prob_all)
+            val_roc_auc = roc_auc_score(y_true_all, y_prob_all)
+            val_jaccard = jaccard_score(y_true_all, y_pred_all, average="macro", zero_division=1)
+            val_acc = accuracy_score(y_true_all, y_pred_all)
+            val_f1 = f1_score(y_true_all, y_pred_all, average="macro", zero_division=1)
+            val_precision = precision_score(y_true_all, y_pred_all, average="macro", zero_division=1)
+            val_recall = recall_score(y_true_all, y_pred_all, average="macro", zero_division=1)
+        elif mode == "multilabel":
+            y_pred_all = (y_prob_all >= 0.5).astype(int)
+
+            val_pr_auc = average_precision_score(y_true_all, y_prob_all, average="samples")
+            val_roc_auc = roc_auc_score(y_true_all, y_prob_all, average="samples")
+            val_jaccard = jaccard_score(y_true_all, y_pred_all, average="samples", zero_division=1)
+            val_acc = accuracy_score(y_true_all, y_pred_all)
+            val_f1 = f1_score(y_true_all, y_pred_all, average="samples", zero_division=1)
+            val_precision = precision_score(y_true_all, y_pred_all, average="samples", zero_division=1)
+            val_recall = recall_score(y_true_all, y_pred_all, average="samples", zero_division=1)
+        elif mode == "multiclass":
+            y_pred_all = np.argmax(y_prob_all, axis=-1)
+            y_true_all = np.argmax(y_true_all, axis=-1)
+
+            val_pr_auc = 0
+            val_roc_auc = roc_auc_score(y_true_all, y_prob_all, multi_class="ovr", average="weighted")
+            val_jaccard = cohen_kappa_score(y_true_all, y_pred_all)
+            val_acc = accuracy_score(y_true_all, y_pred_all)
+            val_f1 = f1_score(y_true_all, y_pred_all, average="weighted")
             val_precision = 0
             val_recall = 0
-            val_jaccard = 0
-        else:
-            y_pred = torch.tensor(y_prob_val >= 0.5, dtype=torch.float32)
-            y_true = torch.tensor(y_true_val)
-            val_pr_auc = average_precision_score(y_true, y_pred)
-            val_roc_auc = roc_auc_score(y_true, y_pred)
-            val_acc = accuracy_score(y_true, y_pred)
-            val_f1 = f1_score(y_true, y_pred)
-            val_precision = precision_score(y_true, y_pred)
-            val_recall = recall_score(y_true, y_pred)
-            val_jaccard = jaccard_score(y_true, y_pred)
 
         # save model
         if val_roc_auc >= best_val_auc:

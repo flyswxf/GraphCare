@@ -2,7 +2,7 @@ from pyhealth.data import Patient, Visit
 
 def drug_recommendation_fn(patient: Patient):
     samples = []
-    for i in range(len(patient)):
+    for i in range(len(patient) - 1):
         visit = patient[i]
         conditions = visit.get_code_list(table="DIAGNOSES_ICD")
         procedures = visit.get_code_list(table="PROCEDURES_ICD")
