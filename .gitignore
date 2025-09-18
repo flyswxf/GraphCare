@@ -13,6 +13,7 @@ baselines.py
 .pdf
 /data
 /clustering
+/graphs
 __pycache__
 .output
 .neptune
@@ -50,5 +51,5 @@ GraphCare/graph_generation/openai.key./.git/objects/pack/tmp_pack_xekbeQ
 ./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/relation_embedding.pkl
 ./clinical_notes/subject_text_dict.json
 output
-*.pkl
+# *.pkl
 logs

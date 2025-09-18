@@ -27,7 +27,7 @@ def save_validation_debug_info(y_true_val, y_prob_val, epoch=None, task=None, mo
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
     # 创建保存目录
-    save_dir = "ehr_baselines\SparseTest\samples"
+    save_dir = "ehr_baselines/SparseTest/samples"
     os.makedirs(save_dir, exist_ok=True)
     
     # 收集详细的类型和形状信息

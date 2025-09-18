@@ -20,7 +20,7 @@ import torch.nn.functional as F
 from torch_geometric.utils import from_networkx
 import numpy as np
 from torch_geometric.loader import DataLoader
-from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score
+from sklearn.metrics import average_precision_score, roc_auc_score, accuracy_score, f1_score, precision_score, recall_score, jaccard_score,cohen_kappa_score
 import wandb
 from logger import get_logger
 import torch.nn as nn
@@ -32,7 +32,7 @@ from tqdm import tqdm
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
-parser.add_argument('--task', type=str, default='lenofstay', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--task', type=str, default='mortality', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
