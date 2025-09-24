@@ -89,6 +89,47 @@ def drug_recommendation_mimic4_fn(patient: Patient):
     return samples
 
 
+def procedure_recommendation_mimic3_fn(patient:Patient):
+    samples = []
+    for i in range(len(patient) - 1):
+        visit: Visit = patient[i]
+        conditions = visit.get_code_list(table="diagnoses_icd")
+        procedures = visit.get_code_list(table="procedures_icd")
+        drugs = visit.get_code_list(table="prescriptions")
+        # exclude: visits without procedure code
+        if len(conditions) * len(procedures) * len(drugs) == 0:
+            continue
+        samples.append(
+            {
+                "visit_id": visit.visit_id,
+                "patient_id": patient.patient_id,
+                "conditions": conditions,
+                "procedures_all": procedures,
+                "procedures": procedures,
+                "drugs": drugs,
+            }
+        )
+    if len(samples) < 1:
+        return []
+    # add history
+    samples[0]["conditions"] = [samples[0]["conditions"]]
+    samples[0]["procedures"] = [samples[0]["procedures"]]
+    samples[0]["drugs"] = [samples[0]["drugs"]]
+
+    for i in range(1, len(samples)):
+        samples[i]["conditions"] = samples[i - 1]["conditions"] + [
+            samples[i]["conditions"]
+        ]
+        samples[i]["procedures_all"] = samples[i - 1]["procedures_all"] + [
+            samples[i]["procedures_all"]
+        ]
+        samples[i]["drugs"] = samples[i - 1]["drugs"] + [
+            samples[i]["drugs"]
+        ]
+    
+    return samples
+
+
 def mortality_prediction_mimic3_fn(patient):
     samples = []
 

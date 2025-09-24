@@ -158,26 +158,7 @@ def flatten(lst):
     return result
 
 
-# 根据样本中的全部手术码构建多热标签（类似 drugs_ind）
-def prepare_procedure_indices(sample_dataset):
-    # 收集全集的 procedure token
-    all_tokens = []
-    for patient in sample_dataset:
-        if 'procedures' in patient:
-            all_tokens.extend(flatten(patient['procedures']))
-    # 去重并建立映射
-    uniq = sorted(list(set(all_tokens)))
-    token2idx = {tok: i for i, tok in enumerate(uniq)}
-    num_labels = len(token2idx)
 
-    for patient in tqdm(sample_dataset):
-        prots = flatten(patient.get('procedures', []))
-        label_vec = np.zeros(num_labels, dtype=np.float32)
-        for t in prots:
-            if t in token2idx:
-                label_vec[token2idx[t]] = 1.0
-        patient['procedures_ind'] = torch.tensor(label_vec)
-    return sample_dataset
 
 
 def label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus):

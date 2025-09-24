@@ -2,7 +2,8 @@ import csv
 import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
 from pyhealth.datasets import SampleDataset
-from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn
+from graphcare import prepare_procedure_indices
+from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn,procedure_recommendation_mimic3_fn
 import pickle
 import json
 from pyhealth.tokenizer import Tokenizer
@@ -84,6 +85,11 @@ def load_dataset(load_processed_dataset, dataset, task):
                 sample_dataset = ds.set_task(drug_recommendation_fn)
             if dataset == "mimic4":
                 sample_dataset = ds.set_task(drug_recommendation_mimic4_fn)
+        elif task == "procedure":
+            if dataset == "mimic3":
+                sample_dataset = ds.set_task(procedure_recommendation_mimic3_fn)
+            # if dataset == "mimic4":
+            #     sample_dataset = ds.set_task(procedure_recommendation_mimic4_fn)
         elif task == "mortality":
             if dataset == "mimic3":
                 sample_dataset = ds.set_task(mortality_prediction_mimic3_fn)
@@ -187,6 +193,24 @@ def prepare_label(sample_dataset:SampleDataset, drugs):
 def prepare_drug_indices(sample_dataset):
     for patient in tqdm(sample_dataset):
         patient['drugs_ind'] = torch.tensor(prepare_label(sample_dataset, patient['drugs']))
+    return sample_dataset
+
+def prepare_procedure_label(sample_dataset:SampleDataset, procedures):
+    label_tokenizer = Tokenizer(
+        sample_dataset.get_all_tokens(key='procedures')
+        # 返回一个List[str],遍历整个数据集中所有样本的 procedures 字段，提取出所有出现过的手术代码，去重后返回一个列表
+    )
+
+    labels_index = label_tokenizer.convert_tokens_to_indices(procedures)
+    # 把 procedures 转换为一个索引列表,每个索引对应一个手术代码.索引是tokenizer中的vocabulary,是临时建的,可以认为是随意的分配
+    num_labels = label_tokenizer.get_vocabulary_size()
+    labels = multihot(labels_index, num_labels)
+    return labels
+
+# 根据样本中的全部手术码构建多热标签（类似 drugs_ind）
+def prepare_procedure_indices(sample_dataset):
+    for patient in tqdm(sample_dataset):
+        patient['procedures_ind'] = torch.tensor(prepare_label(sample_dataset, patient['procedures']))
     return sample_dataset
 
 
@@ -510,6 +534,10 @@ def run(dataset, task):
         print("Preparing drug indices...")
         sample_dataset = prepare_drug_indices(sample_dataset)
         # 就是给每个patient加上一个patient['drugs_ind'],是一个tensor向量,包含该患者的所有drug使用情况
+        
+    elif task == "procedure" and not load_processed_dataset:
+        print("Preparing procedure indeces...")
+        sample_dataset = prepare_procedure_indices(sample_dataset)
 
     print("Clustering...")
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel = clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=load_cluster, save_cluster=save_cluster)
