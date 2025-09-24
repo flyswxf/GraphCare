@@ -555,6 +555,7 @@ for epoch in range(1, epochs + 1):
 print("\nFinal evaluation on test set...")
 y_true_test, y_prob_test = evaluate(test_loader)
 
+
 if mode == "binary":
     y_pred_test = (y_prob_test >= 0.5).astype(int)
     test_pr_auc = average_precision_score(y_true_test, y_prob_test)
@@ -564,11 +565,22 @@ if mode == "binary":
     test_f1 = f1_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_recall = recall_score(y_true_test, y_pred_test, average="macro", zero_division=1)
-else:
-    y_pred_test = (y_prob_test >= 0.5).astype(int)
+elif mode == "multiclass":
+    y_pred_test = np.argmax(y_prob_test, axis=-1)
+    y_true_test = np.argmax(y_true_test, axis=-1)
+
+    test_pr_auc = 0
+    test_roc_auc = roc_auc_score(y_true_test, y_prob_test, multi_class="ovr", average="weighted")
+    test_jaccard = cohen_kappa_score(y_true_test, y_pred_test)
+    test_acc = accuracy_score(y_true_test, y_pred_test)
+    test_f1 = f1_score(y_true_test, y_pred_test, average="weighted")
+    test_precision = 0
+    test_recall = 0
+elif mode == "multilabel":
+    y_pred_test = np.argmax(y_prob_test, axis=-1)
     test_pr_auc = average_precision_score(y_true_test, y_prob_test)
     test_roc_auc = roc_auc_score(y_true_test, y_prob_test)
-    test_jaccard = jaccard_score(y_true_test, y_pred_test, average="macro", zero_division=1)
+    test_jaccard = cohen_kappa_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_acc = accuracy_score(y_true_test, y_pred_test)
     test_f1 = f1_score(y_true_test, y_pred_test, average="macro", zero_division=1)
     test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
