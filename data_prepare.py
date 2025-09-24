@@ -22,6 +22,8 @@ def load_dataset(load_processed_dataset, dataset, task):
         file_name = f'./data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
     elif task == "mortality" or task == "readmission" :        
         file_name = f'./data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
+    elif task =="procedure":
+        file_name = f'./data/ccscm_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
 
     if load_processed_dataset:
         ### load processed dataset
@@ -166,6 +168,16 @@ def load_embeddings(task):
             ent_emb = pickle.load(file)
         with open('./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3/relation_embedding.pkl', 'rb') as file:
             rel_emb = pickle.load(file)
+    
+    elif task == "procedure":
+        with open('./graphs/cond_drug/CCSCM_ATC3/ent2id.json', 'r') as file:
+            ent2id = json.load(file)
+        with open('./graphs/cond_drug/CCSCM_ATC3/rel2id.json', 'r') as file:
+            rel2id = json.load(file)
+        with open('./graphs/cond_drug/CCSCM_ATC3/entity_embedding.pkl', 'rb') as file:
+            ent_emb = pickle.load(file)
+        with open('./graphs/cond_drug/CCSCM_ATC3/relation_embedding.pkl', 'rb') as file:
+            rel_emb = pickle.load(file)
 
     return ent2id, rel2id, ent_emb, rel_emb
 
@@ -217,8 +229,10 @@ def prepare_procedure_indices(sample_dataset):
 def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_cluster=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./clustering/ccscm_ccsproc"
-    else:
+    elif task == "mortality" or task == "readmission" : 
         path = "./clustering/ccscm_ccsproc_atc3"
+    elif task == "procedure":
+        path = "./clustering/ccscm_atc3"
 
     if load_cluster:
         with open(f'{path}/clusters_th015.json', 'r', encoding='utf-8') as f:
@@ -290,8 +304,10 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
 def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False, load_graph=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./data/ccscm_ccsproc"
-    else:
+    elif task == "mortality" or task == "readmission":
         path = "./data/ccscm_ccsproc_atc3"
+    elif task == "procedure":
+        path = "./data/ccscm_atc3"
 
     # Check if graph file exists and load_graph is True
     graph_file = f'{path}/graph_{dataset}_{task}_th015.pkl'
@@ -333,30 +349,30 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
                         triple_set.add(triple)
                 except:
                     continue
-        
-        procedures = flatten(patient['procedures'])
-        for procedure in procedures:
-            proc_file = f'./graphs/procedure/CCSPROC/{procedure}.txt'
-            with open(proc_file, 'r') as f:
-                lines = f.readlines()
-            for line in lines:
-                try:
-                    items = line.split('\t')
-                    if len(items) == 3:
-                        h, r, t = items
-                        t = t[:-1]
-                        h = ent2id[h]
-                        r = rel2id[r]
-                        t = ent2id[t]
-                        triple = (h, r, t)
-                        if triple not in triple_set:
-                            edge = (int(map_cluster_inv[h]), int(map_cluster_inv[t]))
-                            G.add_edge(*edge, relation=int(map_cluster_inv_rel[r]))
-                            triple_set.add(triple)   
-                except:
-                    continue
+        if task != "procedure":
+            procedures = flatten(patient['procedures'])
+            for procedure in procedures:
+                proc_file = f'./graphs/procedure/CCSPROC/{procedure}.txt'
+                with open(proc_file, 'r') as f:
+                    lines = f.readlines()
+                for line in lines:
+                    try:
+                        items = line.split('\t')
+                        if len(items) == 3:
+                            h, r, t = items
+                            t = t[:-1]
+                            h = ent2id[h]
+                            r = rel2id[r]
+                            t = ent2id[t]
+                            triple = (h, r, t)
+                            if triple not in triple_set:
+                                edge = (int(map_cluster_inv[h]), int(map_cluster_inv[t]))
+                                G.add_edge(*edge, relation=int(map_cluster_inv_rel[r]))
+                                triple_set.add(triple)   
+                    except:
+                        continue
 
-        if task == "mortality" or task == "readmission":
+        if task == "mortality" or task == "readmission" or task == "procedure":
             drugs = flatten(patient['drugs'])
             for drug in drugs:
                 drug_file = f'./graphs/drug/ATC3/{drug}.txt'
@@ -380,6 +396,8 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
                                 triple_set.add(triple)
                     except:
                         continue
+        #------------------------------------------------------
+        # 未来此处应该还需要添加处理CHARTEVENTS表的流程
 
     if save_graph:
         with open(f'{path}/graph_{dataset}_{task}_th015.pkl', 'wb') as f:
@@ -404,8 +422,10 @@ def pad_and_convert(visits, max_visits, max_nodes):
 def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./data/ccscm_ccsproc"
-    else:
+    elif task == "mortality" or task == "readmission":
         path = "./data/ccscm_ccsproc_atc3"
+    elif task == "procedure":
+        path = "./data/ccscm_atc3"
 
     c_v = []
     for patient in sample_dataset:
@@ -420,8 +440,9 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
             triple_set = set()
             node_set = set() 
             conditions = patient['conditions'][visit_i]
-            procedures = patient['procedures'][visit_i]
-            if task == "mortality" or task == "readmission":
+            if task != "procedure":
+                procedures = patient['procedures'][visit_i]
+            if task == "mortality" or task == "readmission" or task == "procedure":
                 drugs = patient['drugs'][visit_i]
 
             for condition in conditions:
@@ -445,30 +466,31 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
                                 node_set.add(int(map_cluster_inv[t]))
                     except:
                         continue
+            
+            if task != "procedure":
+                for procedure in procedures:
+                    proc_file = f'./graphs/procedure/CCSPROC/{procedure}.txt'
+                    with open(proc_file, 'r') as f:
+                        lines = f.readlines()
+                    for line in lines:
+                        try:
+                            items = line.split('\t')
+                            if len(items) == 3:
+                                h, r, t = items
+                                t = t[:-1]
+                                h = ent2id[h]
+                                # r = int(rel2id[r]) + len(ent_emb)
+                                t = ent2id[t]
+                                triple = (h, r, t)
+                                if triple not in triple_set:
+                                    triple_set.add(triple)
+                                    node_set.add(int(map_cluster_inv[h]))
+                                    # node_set.add(r)
+                                    node_set.add(int(map_cluster_inv[t]))
+                        except:
+                            continue
 
-            for procedure in procedures:
-                proc_file = f'./graphs/procedure/CCSPROC/{procedure}.txt'
-                with open(proc_file, 'r') as f:
-                    lines = f.readlines()
-                for line in lines:
-                    try:
-                        items = line.split('\t')
-                        if len(items) == 3:
-                            h, r, t = items
-                            t = t[:-1]
-                            h = ent2id[h]
-                            # r = int(rel2id[r]) + len(ent_emb)
-                            t = ent2id[t]
-                            triple = (h, r, t)
-                            if triple not in triple_set:
-                                triple_set.add(triple)
-                                node_set.add(int(map_cluster_inv[h]))
-                                # node_set.add(r)
-                                node_set.add(int(map_cluster_inv[t]))
-                    except:
-                        continue
-
-            if task == "mortality" or task == "readmission":
+            if task == "mortality" or task == "readmission" or task == "procedure":
                 for drug in drugs:
                     drug_file = f'./graphs/drug/ATC3/{drug}.txt'
 
@@ -556,10 +578,11 @@ def main():
         # "mimic4"
         ]
     tasks = [
-        "drugrec", 
+        # "drugrec", 
         # "mortality", 
         # "readmission", 
-        # "lenofstay"
+        # "lenofstay",
+        "procedure"
         ]
 
     for dataset in datasets:

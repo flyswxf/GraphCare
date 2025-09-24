@@ -1,0 +1,15 @@
+graphs/cond_drug/CCSCM_ATC3
+data/ccscm_atc3
+clustering/ccscm_atc3
+
+需要在data_prepare外额外准备的文件:
+with open('./graphs/cond_drug/CCSCM_ATC3/ent2id.json', 'r') as file:
+            ent2id = json.load(file)
+        with open('./graphs/cond_drug/CCSCM_ATC3/rel2id.json', 'r') as file:
+            rel2id = json.load(file)CCSCM_ATC3
+        with open('./graphs/cond_drug/CCSCM_ATC3/entity_embedding.pkl', 'rb') as file:
+            ent_emb = pickle.load(file)
+        with open('./graphs/cond_drug/CCSCM_ATC3/relation_embedding.pkl', 'rb') as file:
+            rel_emb = pickle.load(file)
+
+这些使用graphs/cond_drug/CCSCM_ATC3中的merge.ipynb获得

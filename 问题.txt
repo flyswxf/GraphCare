@@ -4,3 +4,5 @@ dataPrepare中的处理逻辑,一定要区分不同任务不同的dataset吗?(�
     发现区别了,是label的不同,但label只占很小一个点而已,不需要重复存储dataset.
 
 已经理论上确认data_prepare可以完成drug的任务
+
+drug任务只使用condition和procedure的图,是因为如果额外添加了drug的图,相当于每个样本,都是已知患者用药情况了.不符合实际

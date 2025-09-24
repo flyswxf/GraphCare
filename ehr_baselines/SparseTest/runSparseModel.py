@@ -95,10 +95,6 @@ try:
     ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(
         dataset, task, inferMode=args.infer, patient_id=args.patient_id, index=args.sample_index
     )
-
-    # For procedure task, create multilabel indices similar to drugs_ind
-    if task == "procedure":
-        sample_dataset = prepare_procedure_indices(sample_dataset)
     
     print(f"Loaded {len(sample_dataset)} samples")
     print(f"Graph nodes: {graph.number_of_nodes()}, edges: {graph.number_of_edges()}")
