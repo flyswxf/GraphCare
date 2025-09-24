@@ -33,18 +33,16 @@ from copy import deepcopy
 def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None):
     if kg == "GPT-KG":
         kg = ""
-    if task == "drugrec" or task == "lenofstay" or task == "procedure":
-        # 原路径: path_1 = "/data/pj20/exp_data/ccscm_ccsproc"
+    if task == "drugrec" or task == "lenofstay":
         path_1 = "./clustering/ccscm_ccsproc"
-        # 原路径: path_2 = "/data/pj20/g/graphs/cond_proc/CCSCM_CCSPROC"
         path_2 = "./graphs/cond_proc/CCSCM_CCSPROC"
     elif task == "mortality" or task == "readmission":
-        # 原路径: path_1 = "/data/pj20/exp_data/ccscm_ccsproc_atc3"
         path_1 = "./clustering/ccscm_ccsproc_atc3"
-        # 原路径: path_2 = "/data/pj20/g/graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
         path_2 = "./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
-    
-
+    elif task == "procedure":
+        path_1="./clustering/ccscm_atc3"
+        path_2 = "./graphs/cond_drug/CCSCM_ATC3"
+        
     # kg_ratio 是GraphCare中的一个重要超参数，用于控制 知识图谱的完整性比例 。
     if kg_ratio != 1.0:
         sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
@@ -81,8 +79,9 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
     map_cluster_rel = f"{path_1}/clusters_rel_{th}.json"
     map_cluster_rel_inv = f"{path_1}/clusters_inv_rel_{th}.json"
     ccscm_id2clus = f"{path_1}/ccscm_id2clus.json"
-    ccsproc_id2clus = f"{path_1}/ccsproc_id2clus.json"
-    if task == "mortality" or task == "readmission":
+    if task != "procedure":
+        ccsproc_id2clus = f"{path_1}/ccsproc_id2clus.json"
+    if task == "mortality" or task == "readmission" or task == "procedure":
         atc3_id2clus = f"{path_1}/atc3_id2clus.json"
 
     ent2id_file = f"{path_2}/ent2id.json"
@@ -115,9 +114,10 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
         map_cluster_rel_inv = json.load(f)
     with open(ccscm_id2clus, "r") as f:
         ccscm_id2clus = json.load(f)
-    with open(ccsproc_id2clus, "r") as f:
-        ccsproc_id2clus = json.load(f)
-    if task == "mortality" or task == "readmission":
+    if task != "procedure":
+        with open(ccsproc_id2clus, "r") as f:
+            ccsproc_id2clus = json.load(f)
+    if task == "mortality" or task == "readmission" or task == "procedure":
         with open(atc3_id2clus, "r") as f:
             atc3_id2clus = json.load(f)
     else:
@@ -144,7 +144,7 @@ def get_mode_and_out_channels_and_loss_func(task, sample_dataset):
         loss_function = F.cross_entropy
     elif task == "procedure":
         mode = "multilabel"
-        out_channels = len(sample_dataset[0]["procedures_ind"]) if "procedures_ind" in sample_dataset[0] else 0
+        out_channels = len(sample_dataset[0]["procedures_ind"])
         loss_function = F.binary_cross_entropy_with_logits
 
     return mode, out_channels, loss_function
@@ -171,12 +171,13 @@ def label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2c
             nodes.append(int(ehr_node))
             patient['node_set'].append(int(ehr_node))
 
-        for procedure in flatten(patient['procedures']):
-            ehr_node = ccsproc_id2clus[procedure]
-            nodes.append(int(ehr_node))
-            patient['node_set'].append(int(ehr_node))
+        if task != "procedure":
+            for procedure in flatten(patient['procedures']):
+                ehr_node = ccsproc_id2clus[procedure]
+                nodes.append(int(ehr_node))
+                patient['node_set'].append(int(ehr_node))
 
-        if task == "mortality" or task == "readmission":
+        if task == "mortality" or task == "readmission" or task == "procedure":
             for drug in flatten(patient['drugs']):
                 ehr_node = atc3_id2clus[drug]
                 nodes.append(int(ehr_node))
@@ -550,11 +551,11 @@ def single_run(args, params):
     # get initial node attention
     print("Getting initial node attention...")
     if task == "mortality" or task == "readmission":
-        # 原路径: attn_file = f"/data/pj20/exp_data/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
         attn_file = f"./data/ccscm_ccsproc_atc3/attention_weights_{task}.pkl"
     elif task == "lenofstay" or task == "drugrec":
-        # 原路径: attn_file = f"/data/pj20/exp_data/ccscm_ccsproc/attention_weights_{task}.pkl"
         attn_file = f"./data/ccscm_ccsproc/attention_weights_{task}.pkl"
+    elif task == "procedure":
+        attn_file = f"./data/ccscm_atc3/attention_weights_{task}.pkl"
     else:
         raise NotImplementedError
     
