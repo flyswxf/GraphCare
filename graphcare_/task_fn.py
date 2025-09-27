@@ -93,9 +93,9 @@ def procedure_recommendation_mimic3_fn(patient:Patient):
     samples = []
     for i in range(len(patient) - 1):
         visit: Visit = patient[i]
-        conditions = visit.get_code_list(table="diagnoses_icd")
-        procedures = visit.get_code_list(table="procedures_icd")
-        drugs = visit.get_code_list(table="prescriptions")
+        conditions = visit.get_code_list(table="DIAGNOSES_ICD")
+        procedures = visit.get_code_list(table="PROCEDURES_ICD")
+        drugs = visit.get_code_list(table="PRESCRIPTIONS")
         # exclude: visits without procedure code
         if len(conditions) * len(procedures) * len(drugs) == 0:
             continue
@@ -113,7 +113,7 @@ def procedure_recommendation_mimic3_fn(patient:Patient):
         return []
     # add history
     samples[0]["conditions"] = [samples[0]["conditions"]]
-    samples[0]["procedures"] = [samples[0]["procedures"]]
+    samples[0]["procedures_all"] = [samples[0]["procedures_all"]]
     samples[0]["drugs"] = [samples[0]["drugs"]]
 
     for i in range(1, len(samples)):

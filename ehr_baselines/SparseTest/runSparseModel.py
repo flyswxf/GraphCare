@@ -12,7 +12,7 @@ from debug_validation_data import save_validation_debug_info, analyze_sklearn_co
 
 import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
-from graphcare import label_ehr_nodes, get_rel_emb, label_k_hop_nodes, prepare_procedure_indices
+from graphcare import label_ehr_nodes, get_rel_emb, label_k_hop_nodes
 from SparseModel import SparseGraphCare
 from graphcare_ import split_by_patient
 import torch
@@ -66,7 +66,7 @@ print(f"Dataset: {dataset}, Task: {task}")
 
 # Initialize logging and WandB (following graphcare.py style)
 # 当处于推理模式时禁用wandb
-os.environ["WANDB_MODE"] = "offline" if args.infer else "offline"
+os.environ["WANDB_MODE"] = "offline" if args.infer else "online"
 wandb_config = {
     "dataset": dataset,
     "task": task,
@@ -466,11 +466,11 @@ for epoch in range(1, epochs + 1):
     y_true_val, y_prob_val = evaluate(val_loader)
     
     # 调试：保存验证数据的详细信息
-    try:
-        debug_info = save_validation_debug_info(y_true_val, y_prob_val, epoch, task, mode)
-        analyze_sklearn_compatibility(y_true_val, y_prob_val, mode)
-    except Exception as debug_e:
-        print(f"调试信息保存失败: {debug_e}")
+    # try:
+    #     debug_info = save_validation_debug_info(y_true_val, y_prob_val, epoch, task, mode)
+    #     analyze_sklearn_compatibility(y_true_val, y_prob_val, mode)
+    # except Exception as debug_e:
+    #     print(f"调试信息保存失败: {debug_e}")
     
     # Calculate comprehensive validation metrics (following graphcare.py but using probabilities for AUC/PR-AUC)
     if mode == "binary":
@@ -496,14 +496,14 @@ for epoch in range(1, epochs + 1):
         val_recall = 0
     elif mode == "multilabel":
         # multilabel (e.g., drugrec/procedure): 使用概率计算 PR-AUC/ROC-AUC，其他指标留空或后续扩展
-        y_pred_val = np.argmax(y_prob_val, axis=-1)
-        val_pr_auc = average_precision_score(y_true_val, y_prob_val)
-        val_roc_auc = roc_auc_score(y_true_val, y_prob_val)
-        val_jaccard = cohen_kappa_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        y_pred_val = (y_prob_val >= 0.5).astype(int)
+        val_pr_auc = average_precision_score(y_true_val, y_prob_val, average="samples")
+        val_roc_auc = roc_auc_score(y_true_val, y_prob_val, average="samples")
+        val_jaccard = jaccard_score(y_true_val, y_pred_val, average="samples", zero_division=1)
         val_acc = accuracy_score(y_true_val, y_pred_val)
-        val_f1 = f1_score(y_true_val, y_pred_val, average="macro", zero_division=1)
-        val_precision = precision_score(y_true_val, y_pred_val, average="macro", zero_division=1)
-        val_recall = recall_score(y_true_val, y_pred_val, average="macro", zero_division=1)
+        val_f1 = f1_score(y_true_val, y_pred_val, average="samples", zero_division=1)
+        val_precision = precision_score(y_true_val, y_pred_val, average="samples", zero_division=1)
+        val_recall = recall_score(y_true_val, y_pred_val, average="samples", zero_division=1)
         
     
     # Model saving and early stopping
@@ -573,15 +573,14 @@ elif mode == "multiclass":
     test_precision = 0
     test_recall = 0
 elif mode == "multilabel":
-    y_pred_test = np.argmax(y_prob_test, axis=-1)
-    test_pr_auc = average_precision_score(y_true_test, y_prob_test)
-    test_roc_auc = roc_auc_score(y_true_test, y_prob_test)
-    test_jaccard = cohen_kappa_score(y_true_test, y_pred_test, average="macro", zero_division=1)
+    y_pred_test = (y_prob_test >= 0.5).astype(int)
+    test_pr_auc = average_precision_score(y_true_test, y_prob_test, average="samples")
+    test_roc_auc = roc_auc_score(y_true_test, y_prob_test, average="samples")
+    test_jaccard = jaccard_score(y_true_test, y_pred_test, average="samples", zero_division=1)
     test_acc = accuracy_score(y_true_test, y_pred_test)
-    test_f1 = f1_score(y_true_test, y_pred_test, average="macro", zero_division=1)
-    test_precision = precision_score(y_true_test, y_pred_test, average="macro", zero_division=1)
-    test_recall = recall_score(y_true_test, y_pred_test, average="macro", zero_division=1)
-
+    test_f1 = f1_score(y_true_test, y_pred_test, average="samples", zero_division=1)
+    test_precision = precision_score(y_true_test, y_pred_test, average="samples", zero_division=1)
+    test_recall = recall_score(y_true_test, y_pred_test, average="samples", zero_division=1)
 print(f"Test ROC-AUC: {test_roc_auc:.4f}")
 print(f"Test PR-AUC: {test_pr_auc:.4f}")
 

@@ -2,7 +2,6 @@ import csv
 import os
 from pyhealth.datasets import MIMIC3Dataset, MIMIC4Dataset
 from pyhealth.datasets import SampleDataset
-from graphcare import prepare_procedure_indices
 from graphcare_.task_fn import drug_recommendation_fn, drug_recommendation_mimic4_fn, mortality_prediction_mimic3_fn, readmission_prediction_mimic3_fn, length_of_stay_prediction_mimic3_fn, length_of_stay_prediction_mimic4_fn, mortality_prediction_mimic4_fn, readmission_prediction_mimic4_fn,procedure_recommendation_mimic3_fn
 import pickle
 import json
@@ -222,7 +221,7 @@ def prepare_procedure_label(sample_dataset:SampleDataset, procedures):
 # 根据样本中的全部手术码构建多热标签（类似 drugs_ind）
 def prepare_procedure_indices(sample_dataset):
     for patient in tqdm(sample_dataset):
-        patient['procedures_ind'] = torch.tensor(prepare_label(sample_dataset, patient['procedures']))
+        patient['procedures_ind'] = torch.tensor(prepare_procedure_label(sample_dataset, patient['procedures']))
     return sample_dataset
 
 
@@ -532,8 +531,8 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
 
 def run(dataset, task):
     load_processed_dataset = False
-    load_cluster = True
-    save_cluster = False
+    load_cluster = False
+    save_cluster = True
     load_graph = True  # 新增：优先加载已存在的图文件
     save_graph = True
     save_processed_dataset = True
