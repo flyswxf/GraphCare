@@ -28,6 +28,7 @@ import logging
 # import neptune
 import wandb
 from copy import deepcopy
+from ehr_baselines.SparseTest.comprehensive_debug import save_comprehensive_debug_info
 
 
 def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None):
@@ -40,7 +41,7 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
         path_1 = "./clustering/ccscm_ccsproc_atc3"
         path_2 = "./graphs/cond_proc_drug/CCSCM_CCSPROC_ATC3"
     elif task == "procedure":
-        path_1="./clustering/ccscm_atc3"
+        path_1= "./clustering/ccscm_atc3"
         path_2 = "./graphs/cond_drug/CCSCM_ATC3"
         
     # kg_ratio 是GraphCare中的一个重要超参数，用于控制 知识图谱的完整性比例 。
@@ -117,6 +118,8 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
     if task != "procedure":
         with open(ccsproc_id2clus, "r") as f:
             ccsproc_id2clus = json.load(f)
+    else:
+        ccsproc_id2clus = None
     if task == "mortality" or task == "readmission" or task == "procedure":
         with open(atc3_id2clus, "r") as f:
             atc3_id2clus = json.load(f)
@@ -386,6 +389,22 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
         training_loss = train(mode, patient_mode, gnn, model, device, train_loader, optimizer, loss_func)
         y_true_all, y_prob_all = evaluate(mode, patient_mode, gnn, model, device, val_loader)
 
+        # 保存综合调试信息
+        try:
+            y_pred_all = (y_prob_all >= 0.5).astype(int) if mode == "multilabel" or mode == "binary" else np.argmax(y_prob_all, axis=-1)
+            save_comprehensive_debug_info(
+                model=model,
+                y_true=y_true_all,
+                y_prob=y_prob_all,
+                y_pred=y_pred_all,
+                epoch=epoch,
+                phase="val",
+                mode=mode,
+                train_loss=training_loss,
+            )
+        except Exception as debug_e:
+            print(f"综合调试信息保存失败: {debug_e}")
+
         if mode == "binary":
             y_pred_all = (y_prob_all >= 0.5).astype(int)
 
@@ -457,11 +476,11 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
 def construct_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='mimic3')
-    parser.add_argument('--drugrec', type=str, default='readmission')
+    parser.add_argument('--task', type=str, default='procedure')
     parser.add_argument('--kg', type=str, default='GPT-KG')
     parser.add_argument('--batch_size', type=int, default=16)
     parser.add_argument('--hidden_dim', type=int, default=128)
-    parser.add_argument('--epochs', type=int, default=5)# 原本是100
+    parser.add_argument('--epochs', type=int, default=2)# 原本是100
     parser.add_argument('--lr', type=float, default=1e-3)
     parser.add_argument('--weight_decay', type=float, default=1e-5)
     parser.add_argument('--dropout', type=float, default=0.5)
@@ -470,7 +489,7 @@ def construct_args():
     parser.add_argument('--freeze_emb', type=str, default="False")
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--patient_mode', type=str, default='joint', choices=['joint', 'graph', 'node'])
-    parser.add_argument('--alpha', type=str, default="True", choices=["True", "False"])
+    parser.add_argument('--alpha', type=str, default="False", choices=["True", "False"])
     parser.add_argument('--beta', type=str, default="True", choices=["True", "False"])
     parser.add_argument('--edge_attn', type=str, default="True", choices=["True", "False"])
     parser.add_argument('--self_attn', type=float, default=0.)
@@ -514,9 +533,9 @@ def single_run(args, params):
     # run[\"parameters\"] = params
 
     run = wandb.init(
-        project="Drugrec",
+        project="procedure",
         config=params,
-        notes="测试原始graphcare的drugrec准确度"
+        notes="测试原始graphcare的procedure准确度"
     )
     
     device = torch.device(f"cuda:{args.device}" if torch.cuda.is_available() else 'cpu')
@@ -559,8 +578,11 @@ def single_run(args, params):
     else:
         raise NotImplementedError
     
-    with open(attn_file, "rb") as f:
-        attn_weights = torch.tensor(pickle.load(f))
+    # 这是给alpha attention预赋值用的
+    # with open(attn_file, "rb") as f:
+    #     attn_weights = torch.tensor(pickle.load(f))
+    # 但我不用alpha attention
+    attn_weights = None
 
 
     # get embedding

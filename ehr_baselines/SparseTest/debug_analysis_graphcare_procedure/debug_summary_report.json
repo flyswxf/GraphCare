@@ -1,0 +1,10 @@
+{
+  "generated_at": "2025-10-02T19:51:50.363380",
+  "debug_files": [
+    "model_states_epoch2_val.json",
+    "prediction_analysis_epoch1_val.json",
+    "prediction_analysis_epoch2_val.json",
+    "model_states_epoch1_val.json"
+  ],
+  "analysis_summary": {}
+}

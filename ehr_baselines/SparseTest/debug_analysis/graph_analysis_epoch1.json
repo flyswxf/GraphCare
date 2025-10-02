@@ -1,0 +1,8 @@
+{
+  "basic_graph_stats": {
+    "num_nodes": 81633,
+    "num_edges": 81633,
+    "avg_degree": 2.0,
+    "density": 2.4500196001568013e-05
+  }
+}
