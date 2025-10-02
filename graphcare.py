@@ -457,7 +457,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
 def construct_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='mimic3')
-    parser.add_argument('--task', type=str, default='readmission')
+    parser.add_argument('--drugrec', type=str, default='readmission')
     parser.add_argument('--kg', type=str, default='GPT-KG')
     parser.add_argument('--batch_size', type=int, default=16)
     parser.add_argument('--hidden_dim', type=int, default=128)
@@ -514,9 +514,9 @@ def single_run(args, params):
     # run[\"parameters\"] = params
 
     run = wandb.init(
-        project="GraphCareSparseTest",
+        project="Drugrec",
         config=params,
-        notes="使用beta注意力的GraphCare原始模型"
+        notes="测试原始graphcare的drugrec准确度"
     )
     
     device = torch.device(f"cuda:{args.device}" if torch.cuda.is_available() else 'cpu')
