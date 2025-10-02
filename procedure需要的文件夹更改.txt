@@ -13,3 +13,6 @@ with open('./graphs/cond_drug/CCSCM_ATC3/ent2id.json', 'r') as file:
             rel_emb = pickle.load(file)
 
 这些使用graphs/cond_drug/CCSCM_ATC3中的merge.ipynb获得
+
+还需要获得id2clus,但这个东西在不同的任务中值也不同,不过本地有这个文件,可以检查一下为什么.好了这个也解决了
+只要运行graphcare_\graph_generation\ehr_emb_ret.ipynb即可
