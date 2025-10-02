@@ -30,6 +30,69 @@ from graphcare import get_subgraph
 import json
 from tqdm import tqdm
 
+# ===== Helper: FocalLoss and multilabel decision strategy =====
+class FocalLoss(nn.Module):
+    def __init__(self, alpha=0.25, gamma=2.0, reduction='mean'):
+        super().__init__()
+        self.alpha = alpha
+        self.gamma = gamma
+        self.reduction = reduction
+
+    def forward(self, logits, targets):
+        # logits: (N, C), targets: (N, C)
+        bce = F.binary_cross_entropy_with_logits(logits, targets, reduction='none')
+        probs = torch.sigmoid(logits)
+        pt = probs * targets + (1 - probs) * (1 - targets)
+        focal = (self.alpha * (1 - pt) ** self.gamma * bce)
+        if self.reduction == 'mean':
+            return focal.mean()
+        elif self.reduction == 'sum':
+            return focal.sum()
+        return focal
+
+def compute_pos_weight(loader, num_classes, device):
+    pos_counts = torch.zeros(num_classes, device=device)
+    neg_counts = torch.zeros(num_classes, device=device)
+    for batch in loader:
+        y = batch.label
+        pos_counts += y.sum(dim=0)
+        neg_counts += (y.shape[0] - y.sum(dim=0))
+    # Avoid div-by-zero
+    pos_counts = torch.clamp(pos_counts, min=1.0)
+    neg_counts = torch.clamp(neg_counts, min=1.0)
+    return neg_counts / pos_counts
+
+def multilabel_decision(y_prob, strategy='threshold', threshold=0.5, topk=10, per_class_thresholds=None):
+    # y_prob: np.ndarray of shape (N, C)
+    if strategy == 'threshold':
+        if per_class_thresholds is not None and len(per_class_thresholds) == y_prob.shape[1]:
+            thr = np.array(per_class_thresholds)
+            return (y_prob >= thr[None, :]).astype(int)
+        return (y_prob >= float(threshold)).astype(int)
+    elif strategy == 'topk':
+        N, C = y_prob.shape
+        y_bin = np.zeros_like(y_prob, dtype=int)
+        k = int(topk)
+        k = max(1, min(C, k))
+        top_idx = np.argpartition(-y_prob, kth=k-1, axis=1)[:, :k]
+        rows = np.arange(N)[:, None]
+        y_bin[rows, top_idx] = 1
+        return y_bin
+    elif strategy == 'hybrid':
+        # threshold first, if none selected in a row, fallback to topk=1
+        y_bin = multilabel_decision(y_prob, strategy='threshold', threshold=threshold, per_class_thresholds=per_class_thresholds)
+        row_sum = y_bin.sum(axis=1)
+        fallback_rows = np.where(row_sum == 0)[0]
+        if len(fallback_rows) > 0:
+            k = max(1, min(y_prob.shape[1], int(topk)))
+            top_idx = np.argpartition(-y_prob[fallback_rows], kth=k-1, axis=1)[:, :k]
+            rows = fallback_rows[:, None]
+            y_bin[rows, top_idx] = 1
+        return y_bin
+    else:
+        # default threshold
+        return (y_prob >= float(threshold)).astype(int)
+
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
@@ -44,6 +107,20 @@ parser.add_argument('--patient_id', type=str, default=None, help='Patient ID for
 parser.add_argument('--sample_index', type=int, default=None, help='Sample index for single-sample inference (0-based)')
 parser.add_argument('--weights_path', type=str, default=None, help='Path to model weights file; defaults to ./data/weights/saved_weights_{dataset}_{task}_sparse.pkl')
 parser.add_argument('--out', type=str, default=None, help='Optional JSON path to save inference result')
+# Decision strategy for multilabel tasks
+parser.add_argument('--decision_strategy', type=str, default='threshold', choices=['threshold', 'topk', 'hybrid'], help='Decision policy for multilabel predictions')
+parser.add_argument('--threshold', type=float, default=0.5, help='Global threshold for multilabel prediction')
+parser.add_argument('--per_class_thresholds', type=str, default=None, help='JSON file path containing per-class thresholds list')
+parser.add_argument('--topk', type=int, default=10, help='Top-K per sample for multilabel prediction')
+# Sparsification controls
+parser.add_argument('--use_sparsification', action='store_true', help='Enable sparsification (soft edge weighting + top-k mask)')
+parser.add_argument('--sparsification_ratio', type=float, default=0.1, help='Fraction of edges to keep (Top-K)')
+parser.add_argument('--l1_lambda', type=float, default=1e-4, help='L1 sparsification regularization strength')
+parser.add_argument('--connectivity_lambda', type=float, default=1e-3, help='Connectivity preservation strength')
+# Loss options
+parser.add_argument('--use_focal', action='store_true', help='Use FocalLoss for multilabel')
+parser.add_argument('--focal_gamma', type=float, default=2.0, help='Focal loss gamma')
+parser.add_argument('--focal_alpha', type=float, default=0.25, help='Focal loss alpha (pos class weight)')
 args = parser.parse_args()
 # 推理模式下的参数校验
 if args.infer:
@@ -75,9 +152,9 @@ wandb_config = {
     "epochs": epochs,
     "lr": lr,
     # sparsification params
-    "sparsification_ratio": 0.1,
-    "l1_lambda": 1e-4,
-    "connectivity_lambda": 1e-3,
+    "sparsification_ratio": float(args.sparsification_ratio),
+    "l1_lambda": float(args.l1_lambda),
+    "connectivity_lambda": float(args.connectivity_lambda),
     # attention mechanism - 本次实验使用beta注意力机制
     "use_beta_attention": True,  # 启用beta注意力机制进行图神经网络的注意力计算
     "attention_type": "beta",    # 注意力类型标识
@@ -132,6 +209,17 @@ if not args.infer:
         G_tg, train_dataset, val_dataset, test_dataset, task, batch_size
     )
 
+    # Configure loss for multilabel with class imbalance handling
+    if mode == "multilabel":
+        if args.use_focal:
+            loss_function = FocalLoss(alpha=args.focal_alpha, gamma=args.focal_gamma)
+            print(f"[INFO] Using FocalLoss(alpha={args.focal_alpha}, gamma={args.focal_gamma}) for multilabel task")
+        else:
+            # Compute pos_weight from training data
+            pos_weight = compute_pos_weight(train_loader, out_channels, device)
+            loss_function = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
+            print(f"[INFO] Using BCEWithLogitsLoss with pos_weight (shape={tuple(pos_weight.shape)}) for multilabel task")
+
 # Initialize model with sparsification
 num_nodes = max_nodes
 # Determine max_visit from dataset to match visit_padded_node
@@ -170,10 +258,10 @@ model = SparseGraphCare(
     attn_init=None,
     drop_rate=0.,
     # Sparsification parameters
-    use_sparsification=True,
-    sparsification_ratio=0.1,    # Keep top 10% of edges
-    l1_lambda=1e-4,             # L1 regularization strength
-    connectivity_lambda=1e-3,    # Connectivity preservation strength
+    use_sparsification=bool(args.use_sparsification),
+    sparsification_ratio=float(args.sparsification_ratio),
+    l1_lambda=float(args.l1_lambda),
+    connectivity_lambda=float(args.connectivity_lambda),
 ).to(device)
 
 # ===== Inference mode: single-sample forward with strict weight loading =====
@@ -312,6 +400,10 @@ wandb.config.update({
     "num_nodes": num_nodes,
     "num_rels": num_rels,
     "max_visit": max_visit,
+    "use_sparsification": bool(args.use_sparsification),
+    "sparsification_ratio": float(args.sparsification_ratio),
+    "l1_lambda": float(args.l1_lambda),
+    "connectivity_lambda": float(args.connectivity_lambda),
 }, allow_val_change=True)
 print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requires_grad):,}")
 
@@ -435,7 +527,7 @@ def evaluate(loader:DataLoader):
             else:
                 logits = out
             
-            if mode == "binary":
+            if mode == "binary" or mode == "multilabel":
                 y_prob = torch.sigmoid(logits)
             else:
                 y_prob = F.softmax(logits, dim=-1)
@@ -471,7 +563,22 @@ for epoch in range(1, epochs + 1):
     
     # 保存综合调试信息
     try:
-        y_pred_val = (y_prob_val >= 0.5).astype(int) if mode == "multilabel" or mode == "binary" else np.argmax(y_prob_val, axis=-1)
+        if mode == "multilabel":
+            per_class_thr = None
+            if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
+                with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
+                    per_class_thr = json.load(f)
+            y_pred_val = multilabel_decision(
+                y_prob_val,
+                strategy=args.decision_strategy,
+                threshold=args.threshold,
+                topk=args.topk,
+                per_class_thresholds=per_class_thr
+            )
+        elif mode == "binary":
+            y_pred_val = (y_prob_val >= float(args.threshold)).astype(int)
+        else:
+            y_pred_val = np.argmax(y_prob_val, axis=-1)
         save_comprehensive_debug_info(
             model=model,
             y_true=y_true_val,
@@ -491,7 +598,7 @@ for epoch in range(1, epochs + 1):
     
     # Calculate comprehensive validation metrics (following graphcare.py but using probabilities for AUC/PR-AUC)
     if mode == "binary":
-        y_pred_val = (y_prob_val >= 0.5).astype(int)
+        y_pred_val = (y_prob_val >= float(args.threshold)).astype(int)
         
         val_pr_auc = average_precision_score(y_true_val, y_prob_val)
         val_roc_auc = roc_auc_score(y_true_val, y_prob_val)
@@ -512,7 +619,17 @@ for epoch in range(1, epochs + 1):
         val_precision = 0
         val_recall = 0
     elif mode == "multilabel":
-        y_pred_val = (y_prob_val >= 0.5).astype(int)
+        per_class_thr = None
+        if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
+            with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
+                per_class_thr = json.load(f)
+        y_pred_val = multilabel_decision(
+            y_prob_val,
+            strategy=args.decision_strategy,
+            threshold=args.threshold,
+            topk=args.topk,
+            per_class_thresholds=per_class_thr
+        )
         val_pr_auc = average_precision_score(y_true_val, y_prob_val, average="samples")
         val_roc_auc = roc_auc_score(y_true_val, y_prob_val, average="samples")
         val_jaccard = jaccard_score(y_true_val, y_pred_val, average="samples", zero_division=1)

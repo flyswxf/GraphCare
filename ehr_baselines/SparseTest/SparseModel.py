@@ -300,9 +300,24 @@ class SparseGraphCare(nn.Module):
         # Compute edge scores for sparsification
         edge_scores = None
         sparsification_loss = 0.0
-        if self.use_sparsification and self.training:
-            edge_scores = self.edge_scorer(x, edge_index, edge_attr)
-            sparsification_loss, l1_loss, connectivity_loss = self.compute_sparsification_loss(edge_scores, edge_index)
+        sparsification_mask = None
+        if self.use_sparsification:
+            # Always compute edge scores to apply sparsification consistently in train/eval/infer
+            edge_scores = self.edge_scorer(x, edge_index, edge_attr)  # [num_edges, 1], in [0,1]
+
+            # Apply Top-K mask according to sparsification_ratio (keep top percentage of edges)
+            num_edges = edge_index.size(1)
+            k_keep = max(1, int(num_edges * float(self.sparsification_ratio)))
+            # Top-K threshold
+            topk_vals, _ = torch.topk(edge_scores.squeeze(), k_keep)
+            thresh = topk_vals.min()
+            sparsification_mask = (edge_scores.squeeze() >= thresh).float().view(-1, 1)
+            # Store for debug/analysis
+            self.last_sparsification_mask = sparsification_mask.detach()
+
+            # Compute sparsification losses only during training
+            if self.training:
+                sparsification_loss, l1_loss, connectivity_loss = self.compute_sparsification_loss(edge_scores, edge_index)
 
         # Store attention weights if requested
         if store_attn:
@@ -340,7 +355,13 @@ class SparseGraphCare(nn.Module):
 
             # Apply convolution with edge weights
             if self.gnn == "BAT":
-                x, w_rel = self.conv[str(layer)](x, edge_index, edge_attr, attn=attn_edges, edge_weights=edge_scores)
+                # Apply masked edge weights if available
+                edge_weights_input = None
+                if edge_scores is not None:
+                    edge_weights_input = edge_scores
+                    if sparsification_mask is not None:
+                        edge_weights_input = edge_weights_input * sparsification_mask
+                x, w_rel = self.conv[str(layer)](x, edge_index, edge_attr, attn=attn_edges, edge_weights=edge_weights_input)
             elif self.gnn == "GAT":
                 x = self.conv[str(layer)](x, edge_index)
             elif self.gnn == "GIN":
