@@ -28,7 +28,7 @@ import logging
 # import neptune
 import wandb
 from copy import deepcopy
-from ehr_baselines.SparseTest.comprehensive_debug import save_comprehensive_debug_info
+from ehr_baselines.SparseTest.utils.comprehensive_debug import save_comprehensive_debug_info
 
 
 def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None):
@@ -400,6 +400,7 @@ def train_loop(dataset, task, mode, patient_mode, gnn, train_loader, val_loader,
                 epoch=epoch,
                 phase="val",
                 mode=mode,
+                task=task,
                 train_loss=training_loss,
             )
         except Exception as debug_e:

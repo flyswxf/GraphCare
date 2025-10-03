@@ -13,6 +13,30 @@ from collections import defaultdict
 # import seaborn as sns
 from datetime import datetime
 
+# 缓存每次进程内已创建的调试目录，避免同一次运行中重复创建
+_DEBUG_DIR_CACHE = {}
+
+def _get_model_tag(model) -> str:
+    """根据模型类名生成简洁标签: 'sparsemodel' 或 'graphcare'"""
+    name = model.__class__.__name__.lower() if hasattr(model, '__class__') else str(model).lower()
+    return 'sparsemodel' if 'sparse' in name else 'graphcare'
+
+def _ensure_unique_subdir(base_dir: str, subdir_name: str) -> str:
+    """在 base_dir 下为 subdir_name 选择不重复的目录名，如果存在则追加数字后缀。并创建该目录。"""
+    os.makedirs(base_dir, exist_ok=True)
+    candidate = os.path.join(base_dir, subdir_name)
+    if not os.path.exists(candidate):
+        os.makedirs(candidate, exist_ok=False)
+        return candidate
+
+    idx = 1
+    while True:
+        candidate_i = os.path.join(base_dir, f"{subdir_name}_{idx}")
+        if not os.path.exists(candidate_i):
+            os.makedirs(candidate_i, exist_ok=False)
+            return candidate_i
+        idx += 1
+
 class ComprehensiveDebugger:
     def __init__(self, save_dir="ehr_baselines/SparseTest/debug_analysis_sparse_drug"):
         self.save_dir = save_dir
@@ -267,7 +291,8 @@ class ComprehensiveDebugger:
 
 def save_comprehensive_debug_info(model, y_true, y_prob, y_pred, epoch, phase="val", 
                                 mode="multilabel", edge_index=None, attention_weights=None,
-                                train_loss=None, sparse_loss=None, save_dir="ehr_baselines/SparseTest/debug_analysis_graphcare_procedure"):
+                                train_loss=None, sparse_loss=None, task=None,
+                                save_dir_base="ehr_baselines/SparseTest/debug_analysis"):
     """
     综合调试信息保存函数
     
@@ -283,9 +308,21 @@ def save_comprehensive_debug_info(model, y_true, y_prob, y_pred, epoch, phase="v
         attention_weights: 注意力权重
         train_loss: 训练损失
         sparse_loss: 稀疏化损失
-        save_dir: 保存目录
+        task: 当前任务名称（如 "readmission", "drugrec", "procedure" 等）
+        save_dir_base: 基础保存目录（默认 ehr_baselines/SparseTest/debug_analysis）
     """
-    debugger = ComprehensiveDebugger(save_dir)
+    # 计算目标保存目录：基础目录 / (模型标签_任务)
+    model_tag = _get_model_tag(model)
+    task_tag = (task or 'unknown').lower()
+    cache_key = f"{model_tag}_{task_tag}"
+
+    final_dir = _DEBUG_DIR_CACHE.get(cache_key)
+    if final_dir is None:
+        subdir = f"{model_tag}_{task_tag}"
+        final_dir = _ensure_unique_subdir(save_dir_base, subdir)
+        _DEBUG_DIR_CACHE[cache_key] = final_dir
+
+    debugger = ComprehensiveDebugger(final_dir)
     
     # 保存各类调试信息
     results = {}
@@ -322,6 +359,6 @@ def save_comprehensive_debug_info(model, y_true, y_prob, y_pred, epoch, phase="v
         results['summary_report'] = debugger.generate_summary_report()
     
     print(f"[DEBUG] Comprehensive debug info saved for epoch {epoch}, phase {phase}")
-    print(f"[DEBUG] Saved to: {save_dir}")
+    print(f"[DEBUG] Saved to: {final_dir}")
     
     return results

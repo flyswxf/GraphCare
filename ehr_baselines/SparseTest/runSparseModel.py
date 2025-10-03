@@ -9,7 +9,7 @@ sys.path.append('/r/root/workspace/GraphCare')
 
 # 导入调试脚本
 from debug_validation_data import save_validation_debug_info, analyze_sklearn_compatibility
-from comprehensive_debug import save_comprehensive_debug_info
+from utils.comprehensive_debug import save_comprehensive_debug_info
 
 import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
@@ -33,7 +33,7 @@ from tqdm import tqdm
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
-parser.add_argument('--task', type=str, default='drugrec', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--task', type=str, default='procedure', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=2, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
@@ -83,8 +83,8 @@ wandb_config = {
     "attention_type": "beta",    # 注意力类型标识
 }
 # 初始化wandb项目 - 
-run = wandb.init(project="procedure", config=wandb_config,
-                 notes="稀疏化GraphCare模型实验")
+run = wandb.init(project=f"{task}", config=wandb_config,
+                 notes="稀疏化GraphCare模型实验，仅调整evaluate为正确逻辑")
 exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}"
 # 初始化日志记录器
 logger = get_logger(exp_name)
@@ -435,10 +435,10 @@ def evaluate(loader:DataLoader):
             else:
                 logits = out
             
-            if mode == "binary":
-                y_prob = torch.sigmoid(logits)
-            else:
+            if mode == "multiclass":
                 y_prob = F.softmax(logits, dim=-1)
+            else:
+                y_prob = torch.sigmoid(logits)
             
             labels = batch_data.label.reshape(curr_bs, -1)
             
@@ -470,22 +470,23 @@ for epoch in range(1, epochs + 1):
     # save_validation_debug_info(y_true_val, y_prob_val, epoch, "val")
     
     # 保存综合调试信息
-    try:
-        y_pred_val = (y_prob_val >= 0.5).astype(int) if mode == "multilabel" or mode == "binary" else np.argmax(y_prob_val, axis=-1)
-        save_comprehensive_debug_info(
-            model=model,
-            y_true=y_true_val,
-            y_prob=y_prob_val,
-            y_pred=y_pred_val,
-            epoch=epoch,
-            phase="val",
-            mode=mode,
-            edge_index=G_tg.edge_index,
-            train_loss=train_loss,
-            sparse_loss=sparse_loss
-        )
-    except Exception as debug_e:
-        print(f"综合调试信息保存失败: {debug_e}")
+    # try:
+    #     y_pred_val = (y_prob_val >= 0.5).astype(int) if mode == "multilabel" or mode == "binary" else np.argmax(y_prob_val, axis=-1)
+#           save_comprehensive_debug_info(
+#             model=model,
+#             y_true=y_true_val,
+#             y_prob=y_prob_val,
+#             y_pred=y_pred_val,
+#             epoch=epoch,
+#             phase="val",
+#             mode=mode,
+#             task=task,
+#             edge_index=G_tg.edge_index,
+#             train_loss=train_loss,
+#             sparse_loss=sparse_loss
+#         )
+    # except Exception as debug_e:
+    #     print(f"综合调试信息保存失败: {debug_e}")
     
     # 计算验证指标
     
@@ -568,20 +569,20 @@ print("\nFinal evaluation on test set...")
 y_true_test, y_prob_test = evaluate(test_loader)
 
 # 保存测试集的综合调试信息
-try:
-    y_pred_test = (y_prob_test >= 0.5).astype(int) if mode == "multilabel" else np.argmax(y_prob_test, axis=-1)
-    save_comprehensive_debug_info(
-        model=model,
-        y_true=y_true_test,
-        y_prob=y_prob_test,
-        y_pred=y_pred_test,
-        epoch=epochs,  # 使用最终epoch
-        phase="test",
-        mode=mode,
-        edge_index=G_tg.edge_index
-    )
-except Exception as debug_e:
-    print(f"测试集调试信息保存失败: {debug_e}")
+# try:
+#     y_pred_test = (y_prob_test >= 0.5).astype(int) if mode == "multilabel" else np.argmax(y_prob_test, axis=-1)
+#     save_comprehensive_debug_info(
+#         model=model,
+#         y_true=y_true_test,
+#         y_prob=y_prob_test,
+#         y_pred=y_pred_test,
+#         epoch=epochs,  # 使用最终epoch
+#         phase="test",
+#         mode=mode,
+#         edge_index=G_tg.edge_index
+#     )
+# except Exception as debug_e:
+#     print(f"测试集调试信息保存失败: {debug_e}")
 
 
 if mode == "binary":
