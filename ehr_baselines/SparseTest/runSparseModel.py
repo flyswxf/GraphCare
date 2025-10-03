@@ -9,7 +9,7 @@ sys.path.append('/r/root/workspace/GraphCare')
 
 # 导入调试脚本
 from debug_validation_data import save_validation_debug_info, analyze_sklearn_compatibility
-from comprehensive_debug import save_comprehensive_debug_info
+from utils.comprehensive_debug import save_comprehensive_debug_info
 
 import argparse
 from graphcare import load_everything, get_mode_and_out_channels_and_loss_func, get_dataloader
@@ -527,10 +527,10 @@ def evaluate(loader:DataLoader):
             else:
                 logits = out
             
-            if mode == "binary" or mode == "multilabel":
-                y_prob = torch.sigmoid(logits)
-            else:
+            if mode == "multiclass":
                 y_prob = F.softmax(logits, dim=-1)
+            else:
+                y_prob = torch.sigmoid(logits)
             
             labels = batch_data.label.reshape(curr_bs, -1)
             
@@ -587,6 +587,7 @@ for epoch in range(1, epochs + 1):
             epoch=epoch,
             phase="val",
             mode=mode,
+            task=task,
             edge_index=G_tg.edge_index,
             train_loss=train_loss,
             sparse_loss=sparse_loss
@@ -695,6 +696,7 @@ try:
         epoch=epochs,  # 使用最终epoch
         phase="test",
         mode=mode,
+        task=task,
         edge_index=G_tg.edge_index
     )
 except Exception as debug_e:
