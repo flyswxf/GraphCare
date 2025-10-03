@@ -96,7 +96,7 @@ def multilabel_decision(y_prob, strategy='threshold', threshold=0.5, topk=10, pe
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
-parser.add_argument('--task', type=str, default='drugrec', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--task', type=str, default='procedure', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=2, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
@@ -108,7 +108,7 @@ parser.add_argument('--sample_index', type=int, default=None, help='Sample index
 parser.add_argument('--weights_path', type=str, default=None, help='Path to model weights file; defaults to ./data/weights/saved_weights_{dataset}_{task}_sparse.pkl')
 parser.add_argument('--out', type=str, default=None, help='Optional JSON path to save inference result')
 # Decision strategy for multilabel tasks
-parser.add_argument('--decision_strategy', type=str, default='threshold', choices=['threshold', 'topk', 'hybrid'], help='Decision policy for multilabel predictions')
+parser.add_argument('--decision_strategy', type=str, default='hybrid', choices=['threshold', 'topk', 'hybrid'], help='Decision policy for multilabel predictions')
 parser.add_argument('--threshold', type=float, default=0.5, help='Global threshold for multilabel prediction')
 parser.add_argument('--per_class_thresholds', type=str, default=None, help='JSON file path containing per-class thresholds list')
 parser.add_argument('--topk', type=int, default=10, help='Top-K per sample for multilabel prediction')
@@ -144,7 +144,7 @@ print(f"Dataset: {dataset}, Task: {task}")
 
 # Initialize logging and WandB (following graphcare.py style)
 # 当处于推理模式时禁用wandb
-os.environ["WANDB_MODE"] = "offline" if args.infer else "online"
+os.environ["WANDB_MODE"] = "offline" if args.infer else "offline"
 wandb_config = {
     "dataset": dataset,
     "task": task,
