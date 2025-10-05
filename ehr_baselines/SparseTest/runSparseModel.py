@@ -264,148 +264,9 @@ model = SparseGraphCare(
     connectivity_lambda=float(args.connectivity_lambda),
 ).to(device)
 
-# ===== Inference mode: single-sample forward with strict weight loading =====
-if args.infer:
-    print("Inference mode enabled")
-    weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
-    if not os.path.exists(weights_path):
-        print(f"[ERROR] Weights not found: {weights_path}. Please train the model first or specify --weights_path.")
-        # 确保wandb结束（如果意外初始化）
-        try:
-            wandb.finish()
-        except Exception:
-            pass
-        sys.exit(1)
 
-    # Load weights strictly
-    try:
-        state = torch.load(weights_path, map_location=device)
-        model.load_state_dict(state, strict=False)
-        print(f"[INFO] Loaded weights from {weights_path}")
-    except Exception as e:
-        print(f"[ERROR] Failed to load weights: {e}")
-        try:
-            wandb.finish()
-        except Exception:
-            pass
-        sys.exit(1)
 
-    # # Create a single-sample dataset and DataLoader for proper batch handling
-    from graphcare import Dataset
-    from torch_geometric.loader import DataLoader
-    
-    # # Create a dataset with just the target sample
-    # single_sample_dataset = [sample_dataset[idx]]
-    inference_dataset = Dataset(G=G_tg, dataset=sample_dataset, task=task)
-    inference_loader = DataLoader(inference_dataset, batch_size=1, shuffle=False)
-    
-    model.eval()
-    with torch.no_grad():
-        # Get the batched data from DataLoader
-        for batch_data in inference_loader:
-            batch_data = batch_data.to(device)
-            
-            node_ids = batch_data.y
-            rel_ids = batch_data.relation
-            edge_index = batch_data.edge_index
-            batch = batch_data.batch
-            
-            # Extract visit and ehr node features
-            # visit_node = batch_data.visit_padded_node.float()
-            # ehr_nodes_vec = batch_data.ehr_nodes.float()
-            # 使用实际 batch 大小进行重排，避免最后一个 batch 大小变化导致错位
-            curr_bs = int(batch.max().item() + 1)
-            visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
-            
-            # Reshape tensors for GraphCare format
-            visit_node = batch_data.visit_padded_node.reshape(
-                curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
-            ).float()
-            ehr_nodes_vec = batch_data.ehr_nodes.reshape(
-                curr_bs, -1
-            ).float()
-            
-            out = model(
-                node_ids=node_ids,
-                rel_ids=rel_ids,
-                edge_index=edge_index,
-                batch=batch,
-                visit_node=visit_node,
-                ehr_nodes=ehr_nodes_vec,
-                in_drop=False,
-            )
-            logits = out[0] if isinstance(out, tuple) else out
 
-            if mode == "binary":
-                prob = torch.sigmoid(logits)
-            elif mode in ("multilabel", "multiclass"):
-                prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
-            else:
-                prob = logits
-            
-            break  # Only process the single batch
-
-    # Prepare output
-    pid_val = sample_dataset[0].get('patient_id', None)
-    result = {
-        "patient_id": None if pid_val is None else str(pid_val),
-        "sample_index": None if not args.sample_index else int(args.sample_index),
-        "mode": mode,
-        "logits": logits.detach().cpu().numpy().tolist(),
-        "prob": prob.detach().cpu().numpy().tolist(),
-    }
-
-    # For drugrec, also return top-k indices and scores
-    if task == "drugrec":
-        k = min(10, prob.shape[-1])
-        topv, topi = torch.topk(prob.view(-1), k)
-        result.update({
-            "topk_indices": topi.detach().cpu().numpy().tolist(),
-            "topk_scores": topv.detach().cpu().numpy().tolist(),
-        })
-    if task == "procedure":
-        k = min(10, prob.shape[-1])
-        topv, topi = torch.topk(prob.view(-1), k)
-        result.update({
-            "topk_indices": topi.detach().cpu().numpy().tolist(),
-            "topk_scores": topv.detach().cpu().numpy().tolist(),
-        })
-
-    print("[INFER] Single-sample inference done.")
-    print(json.dumps({k: (v if k not in ["logits", "prob"] else f"shape={np.array(v).shape}") for k, v in result.items()}, ensure_ascii=False, indent=2))
-
-    # Save to file if requested
-    if args.out:
-        out_path = args.out
-        os.makedirs(os.path.dirname(out_path), exist_ok=True)
-        with open(out_path, 'w', encoding='utf-8') as f:
-            json.dump(result, f, ensure_ascii=False)
-        print(f"[INFER] Result saved to {out_path}")
-
-    try:
-        wandb.finish()
-    except Exception:
-        pass
-    sys.exit(0)
-
-# Update wandb config with model params (training/validation only)
-wandb.config.update({
-    "embedding_dim": embedding_dim,
-    "hidden_dim": 128,
-    "layers": 3,
-    "dropout": 0.5,
-    "decay_rate": 0.03,
-    "gnn": "BAT",
-    "patient_mode": "joint",
-    "num_nodes": num_nodes,
-    "num_rels": num_rels,
-    "max_visit": max_visit,
-    "use_sparsification": bool(args.use_sparsification),
-    "sparsification_ratio": float(args.sparsification_ratio),
-    "l1_lambda": float(args.l1_lambda),
-    "connectivity_lambda": float(args.connectivity_lambda),
-}, allow_val_change=True)
-print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requires_grad):,}")
 
 # Optimizer
 optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=1e-4)
@@ -544,6 +405,206 @@ def evaluate(loader:DataLoader):
     y_prob_all = np.concatenate(y_prob_all, axis=0)
     
     return y_true_all, y_prob_all
+
+# ===== Inference mode: single-sample forward with strict weight loading =====
+if args.infer:
+    print("Inference mode enabled")
+    weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
+    if not os.path.exists(weights_path):
+        print(f"[ERROR] Weights not found: {weights_path}. Please train the model first or specify --weights_path.")
+        # 确保wandb结束（如果意外初始化）
+        try:
+            wandb.finish()
+        except Exception:
+            pass
+        sys.exit(1)
+
+    # Load weights strictly
+    try:
+        state = torch.load(weights_path, map_location=device)
+        model.load_state_dict(state, strict=False)
+        print(f"[INFO] Loaded weights from {weights_path}")
+    except Exception as e:
+        print(f"[ERROR] Failed to load weights: {e}")
+        try:
+            wandb.finish()
+        except Exception:
+            pass
+        sys.exit(1)
+
+    # # Create a single-sample dataset and DataLoader for proper batch handling
+    from graphcare import Dataset
+    from torch_geometric.loader import DataLoader
+    
+    # # Create a dataset with just the target sample
+    # single_sample_dataset = [sample_dataset[idx]]
+    inference_dataset = Dataset(G=G_tg, dataset=sample_dataset, task=task)
+    inference_loader = DataLoader(inference_dataset, batch_size=1, shuffle=False)
+
+    y_true_all, y_prob_all = evaluate(loader=inference_loader)
+    
+    # model.eval()
+    # with torch.no_grad():
+    #     # Get the batched data from DataLoader
+    #     for batch_data in inference_loader:
+    #         batch_data = batch_data.to(device)
+            
+    #         node_ids = batch_data.y
+    #         rel_ids = batch_data.relation
+    #         edge_index = batch_data.edge_index
+    #         batch = batch_data.batch
+            
+    #         # Extract visit and ehr node features
+    #         # visit_node = batch_data.visit_padded_node.float()
+    #         # ehr_nodes_vec = batch_data.ehr_nodes.float()
+    #         # 使用实际 batch 大小进行重排，避免最后一个 batch 大小变化导致错位
+    #         curr_bs = int(batch.max().item() + 1)
+    #         visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
+            
+    #         # Reshape tensors for GraphCare format
+    #         visit_node = batch_data.visit_padded_node.reshape(
+    #             curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
+    #         ).float()
+    #         ehr_nodes_vec = batch_data.ehr_nodes.reshape(
+    #             curr_bs, -1
+    #         ).float()
+            
+    #         # out = model(
+    #         #     node_ids=node_ids,
+    #         #     rel_ids=rel_ids,
+    #         #     edge_index=edge_index,
+    #         #     batch=batch,
+    #         #     visit_node=visit_node,
+    #         #     ehr_nodes=ehr_nodes_vec,
+    #         #     in_drop=False,
+    #         # )
+
+    #         if model.use_sparsification:
+    #             logits, sparse_loss = model(
+    #                 node_ids=node_ids,
+    #                 rel_ids=rel_ids,
+    #                 edge_index=edge_index,
+    #                 batch=batch,
+    #                 visit_node=visit_node,
+    #                 ehr_nodes=ehr_nodes_vec,
+    #                 in_drop=True
+    #             )
+    #         else:
+    #             logits = model(
+    #                 node_ids=node_ids,
+    #                 rel_ids=rel_ids,
+    #                 edge_index=edge_index,
+    #                 batch=batch,
+    #                 visit_node=visit_node,
+    #                 ehr_nodes=ehr_nodes_vec,
+    #                 in_drop=True
+    #             )
+    #             sparse_loss = 0
+    #         # logits = out[0] if isinstance(out, tuple) else out
+    #         if mode == "multiclass":
+    #             prob = F.softmax(logits, dim=-1)
+    #         else:
+    #             prob = torch.sigmoid(logits)
+    #         # if mode == "binary":
+    #         #     prob = torch.sigmoid(logits)
+    #         # elif mode in ("multilabel", "multiclass"):
+    #         #     prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
+    #         # else:
+    #         #     prob = logits
+            
+    #         break  # Only process the single batch
+
+    # 使用统一的决策逻辑与multilabel输出
+    # y_true_all, y_prob_all: numpy arrays with shape (1, C) for batch_size=1
+    # 读取每类阈值（如提供）
+    per_class_thr = None
+    if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
+        with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
+            per_class_thr = json.load(f)
+
+    # 计算预测标签
+    if mode == "multilabel":
+        y_pred_all = multilabel_decision(
+            y_prob_all,
+            strategy=args.decision_strategy,
+            threshold=args.threshold,
+            topk=args.topk,
+            per_class_thresholds=per_class_thr
+        )
+    elif mode == "binary":
+        y_pred_all = (y_prob_all >= float(args.threshold)).astype(int)
+    else:
+        y_pred_all = np.argmax(y_prob_all, axis=-1)
+
+    # 组装输出结果（仅单样本）
+    pid_val = sample_dataset[0].get('patient_id', None)
+    result = {
+        "patient_id": None if pid_val is None else str(pid_val),
+        "sample_index": None if not args.sample_index else int(args.sample_index),
+        "mode": mode,
+        "decision_strategy": args.decision_strategy if mode == "multilabel" else None,
+        "threshold": float(args.threshold) if mode in ("multilabel", "binary") else None,
+        "topk": int(args.topk) if mode == "multilabel" else None,
+        "per_class_thresholds": per_class_thr,
+        "y_true": y_true_all[0].tolist(),
+        "y_prob": y_prob_all[0].tolist(),
+        "y_pred": y_pred_all[0].tolist() if mode == "multilabel" else int(y_pred_all[0]) if mode == "binary" else int(y_pred_all[0])
+    }
+
+    # 为drugrec/procedure任务提供top-k索引与分数（按概率降序）
+    if task in ("drugrec", "procedure") and mode == "multilabel":
+        C = y_prob_all.shape[1]
+        k = max(1, min(C, int(args.topk) if args.topk is not None else 10))
+        probs_row = y_prob_all[0]
+        top_idx = np.argsort(-probs_row)[:k]
+        top_scores = probs_row[top_idx]
+        result.update({
+            "topk_indices": top_idx.tolist(),
+            "topk_scores": top_scores.tolist(),
+        })
+
+    print("[INFER] Single-sample inference done.")
+    # 打印摘要信息（避免输出大数组）
+    summary = {
+        k: (v if k not in ["y_prob", "y_pred", "y_true"] else f"shape={np.array(v).shape}")
+        for k, v in result.items()
+    }
+    print(json.dumps(summary, ensure_ascii=False, indent=2))
+
+    # Save to file if requested
+    if args.out:
+        out_path = args.out
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(result, f, ensure_ascii=False)
+        print(f"[INFER] Result saved to {out_path}")
+
+    try:
+        wandb.finish()
+    except Exception:
+        pass
+    sys.exit(0)
+
+
+# Update wandb config with model params (training/validation only)
+wandb.config.update({
+    "embedding_dim": embedding_dim,
+    "hidden_dim": 128,
+    "layers": 3,
+    "dropout": 0.5,
+    "decay_rate": 0.03,
+    "gnn": "BAT",
+    "patient_mode": "joint",
+    "num_nodes": num_nodes,
+    "num_rels": num_rels,
+    "max_visit": max_visit,
+    "use_sparsification": bool(args.use_sparsification),
+    "sparsification_ratio": float(args.sparsification_ratio),
+    "l1_lambda": float(args.l1_lambda),
+    "connectivity_lambda": float(args.connectivity_lambda),
+}, allow_val_change=True)
+print(f"Model parameters: {sum(p.numel() for p in model.parameters() if p.requires_grad):,}")
+
 
 # Training loop with comprehensive WandB logging
 print("Starting training...")
