@@ -264,10 +264,6 @@ model = SparseGraphCare(
     connectivity_lambda=float(args.connectivity_lambda),
 ).to(device)
 
-
-
-
-
 # Optimizer
 optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=1e-4)
 

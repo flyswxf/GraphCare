@@ -174,8 +174,8 @@ if __name__ == "__main__":
     current_dir = os.path.dirname(__file__)
     project_root = os.path.join(current_dir, '../../..')
     
-    inference_result_path = os.path.join(project_root, 'inference_result.json')
-    output_path = os.path.join(current_dir, 'inference_result_with_names.json')
+    inference_result_path = os.path.join(project_root, 'inference/inference_result.json')
+    output_path = os.path.join(project_root, 'inference_result_with_names.json')
     atc_csv_path = os.path.join(project_root, 'resources/ATC.csv')
     
     # 检查文件是否存在
