@@ -154,9 +154,20 @@ def process_inference_result(inference_result_path, output_path, atc_csv_path,
             for i, rec in enumerate(recommendations[:5]):
                 print(f"  {rec['rank']}. {rec['atc3_code']} - {rec['drug_name']} (score: {rec['score']:.4f})")
         
-        # 5. 保存结果
-        print(f"Saving results to {output_path}...")
-        with open(output_path, 'w', encoding='utf-8') as f:
+        # 5. 保存结果（按现有文件自动递增 index）
+        output_dir = os.path.dirname(output_path)
+        os.makedirs(output_dir, exist_ok=True)
+
+        index = 1
+        while True:
+            candidate = os.path.join(output_dir, f"{task}_final_inference_{index}.json")
+            if not os.path.exists(candidate):
+                final_output_path = candidate
+                break
+            index += 1
+
+        print(f"Saving results to {final_output_path}...")
+        with open(final_output_path, 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
         
         print("Conversion completed successfully!")
@@ -175,7 +186,7 @@ if __name__ == "__main__":
     project_root = os.path.join(current_dir, '../../..')
     
     inference_result_path = os.path.join(project_root, 'inference/inference_result.json')
-    output_path = os.path.join(project_root, 'inference_result_with_names.json')
+    output_path = os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result_with_names.json')
     atc_csv_path = os.path.join(project_root, 'resources/ATC.csv')
     
     # 检查文件是否存在

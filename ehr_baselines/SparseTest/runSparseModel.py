@@ -129,7 +129,7 @@ if args.infer:
     if args.weights_path is None:
         parser.error("Inference mode requires --weights_path to load model weights")
 # 启动推理模式的代码示例
-# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task readmission --infer --sample_index 50 --weights_path ./data/weights/saved_weights_mimic3_readmission_sparse.pkl --out ./inference_result.json 
+# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --infer --sample_index 50 --weights_path ./data/weights/saved_weights_mimic3_drugrec_sparse.pkl --out ./ehr_baselines/SparseTest/result/inference_result.json
 
 # Configuration
 dataset = args.dataset
@@ -438,77 +438,6 @@ if args.infer:
     inference_loader = DataLoader(inference_dataset, batch_size=1, shuffle=False)
 
     y_true_all, y_prob_all = evaluate(loader=inference_loader)
-    
-    # model.eval()
-    # with torch.no_grad():
-    #     # Get the batched data from DataLoader
-    #     for batch_data in inference_loader:
-    #         batch_data = batch_data.to(device)
-            
-    #         node_ids = batch_data.y
-    #         rel_ids = batch_data.relation
-    #         edge_index = batch_data.edge_index
-    #         batch = batch_data.batch
-            
-    #         # Extract visit and ehr node features
-    #         # visit_node = batch_data.visit_padded_node.float()
-    #         # ehr_nodes_vec = batch_data.ehr_nodes.float()
-    #         # 使用实际 batch 大小进行重排，避免最后一个 batch 大小变化导致错位
-    #         curr_bs = int(batch.max().item() + 1)
-    #         visits_per_patient = int(batch_data.visit_padded_node.shape[0] // curr_bs)
-            
-    #         # Reshape tensors for GraphCare format
-    #         visit_node = batch_data.visit_padded_node.reshape(
-    #             curr_bs, visits_per_patient, batch_data.visit_padded_node.shape[1]
-    #         ).float()
-    #         ehr_nodes_vec = batch_data.ehr_nodes.reshape(
-    #             curr_bs, -1
-    #         ).float()
-            
-    #         # out = model(
-    #         #     node_ids=node_ids,
-    #         #     rel_ids=rel_ids,
-    #         #     edge_index=edge_index,
-    #         #     batch=batch,
-    #         #     visit_node=visit_node,
-    #         #     ehr_nodes=ehr_nodes_vec,
-    #         #     in_drop=False,
-    #         # )
-
-    #         if model.use_sparsification:
-    #             logits, sparse_loss = model(
-    #                 node_ids=node_ids,
-    #                 rel_ids=rel_ids,
-    #                 edge_index=edge_index,
-    #                 batch=batch,
-    #                 visit_node=visit_node,
-    #                 ehr_nodes=ehr_nodes_vec,
-    #                 in_drop=True
-    #             )
-    #         else:
-    #             logits = model(
-    #                 node_ids=node_ids,
-    #                 rel_ids=rel_ids,
-    #                 edge_index=edge_index,
-    #                 batch=batch,
-    #                 visit_node=visit_node,
-    #                 ehr_nodes=ehr_nodes_vec,
-    #                 in_drop=True
-    #             )
-    #             sparse_loss = 0
-    #         # logits = out[0] if isinstance(out, tuple) else out
-    #         if mode == "multiclass":
-    #             prob = F.softmax(logits, dim=-1)
-    #         else:
-    #             prob = torch.sigmoid(logits)
-    #         # if mode == "binary":
-    #         #     prob = torch.sigmoid(logits)
-    #         # elif mode in ("multilabel", "multiclass"):
-    #         #     prob = torch.sigmoid(logits) if mode == "multilabel" else F.softmax(logits, dim=-1)
-    #         # else:
-    #         #     prob = logits
-            
-    #         break  # Only process the single batch
 
     # 使用统一的决策逻辑与multilabel输出
     # y_true_all, y_prob_all: numpy arrays with shape (1, C) for batch_size=1
