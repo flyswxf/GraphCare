@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import os
 import sys
+import argparse
 
 # 添加项目根目录到路径
 sys.path.append(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -181,12 +182,26 @@ def process_inference_result(inference_result_path, output_path, atc_csv_path,
 
 
 if __name__ == "__main__":
-    # 设置文件路径
+    # 设置文件路径与命令行参数
     current_dir = os.path.dirname(__file__)
     project_root = os.path.join(current_dir, '../../..')
-    
-    inference_result_path = os.path.join(project_root, 'inference/inference_result.json')
-    output_path = os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result_with_names.json')
+
+    # 命令行参数支持 --input / --output（默认为当前路径设置）
+    parser = argparse.ArgumentParser(description="Convert inference indices to ATC codes and names")
+    parser.add_argument(
+        "--input", "-i",
+        default=os.path.join(project_root, 'inference/inference_result.json'),
+        help="Path to inference_result.json"
+    )
+    parser.add_argument(
+        "--output", "-o",
+        default=os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result_with_names.json'),
+        help="Output file path (directory will be created if not exists)"
+    )
+    args = parser.parse_args()
+
+    inference_result_path = os.path.abspath(args.input)
+    output_path = os.path.abspath(args.output)
     atc_csv_path = os.path.join(project_root, 'resources/ATC.csv')
     
     # 检查文件是否存在
