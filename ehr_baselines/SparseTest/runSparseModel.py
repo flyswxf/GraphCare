@@ -30,6 +30,12 @@ from graphcare import get_subgraph
 import json
 from tqdm import tqdm
 
+# ===== Paths constants (feedback files) =====
+# Make it easy to adjust later without touching code logic
+FEEDBACK_CLUSTER_INDEX_FILE = os.path.join(
+    os.path.dirname(__file__), 'utils', 'feedback', 'result', 'clusterIndex.txt'
+)
+
 # ===== Helper: FocalLoss and multilabel decision strategy =====
 class FocalLoss(nn.Module):
     def __init__(self, alpha=0.25, gamma=2.0, reduction='mean'):
@@ -121,6 +127,7 @@ parser.add_argument('--connectivity_lambda', type=float, default=1e-3, help='Con
 parser.add_argument('--use_focal', action='store_true', help='Use FocalLoss for multilabel')
 parser.add_argument('--focal_gamma', type=float, default=2.0, help='Focal loss gamma')
 parser.add_argument('--focal_alpha', type=float, default=0.25, help='Focal loss alpha (pos class weight)')
+parser.add_argument('--feedback', action='store_true', help='Enable feedback mode (infer only): apply add/remove cluster indices to EHR nodes')
 args = parser.parse_args()
 # 推理模式下的参数校验
 if args.infer:
@@ -194,7 +201,28 @@ print(f"Task mode: {mode}, Output channels: {out_channels}")
 
 # Label EHR nodes with patient data
 max_nodes = G_tg.num_nodes  # keep consistent with visit_padded_node last dim (built from G_tg)
-sample_dataset = label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus)
+
+# Optionally load feedback cluster indices
+feedback_add_clusters = None
+feedback_remove_clusters = None
+if args.feedback and args.infer:
+    try:
+        if os.path.exists(FEEDBACK_CLUSTER_INDEX_FILE):
+            with open(FEEDBACK_CLUSTER_INDEX_FILE, 'r', encoding='utf-8') as f:
+                fb = json.load(f)
+            feedback_add_clusters = fb.get('add') or []
+            feedback_remove_clusters = fb.get('remove') or []
+            print(f"[FEEDBACK] Loaded add={len(feedback_add_clusters)} remove={len(feedback_remove_clusters)} cluster indices")
+        else:
+            print(f"[FEEDBACK] Cluster index file not found at {FEEDBACK_CLUSTER_INDEX_FILE}; proceeding without feedback")
+    except Exception as e:
+        print(f"[FEEDBACK] Failed to load feedback clusters: {e}; proceeding without feedback")
+
+sample_dataset = label_ehr_nodes(
+    task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus,
+    feedback_add_clusters=feedback_add_clusters,
+    feedback_remove_clusters=feedback_remove_clusters
+)
 
 # Label k-hop subgraph nodes
 sample_dataset = label_k_hop_nodes(G_tg, sample_dataset, k=1)

@@ -165,26 +165,41 @@ def flatten(lst):
 
 
 
-def label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus):
+def label_ehr_nodes(task, sample_dataset, max_nodes, ccscm_id2clus, ccsproc_id2clus, atc3_id2clus,
+                    feedback_add_clusters=None, feedback_remove_clusters=None):
+
+    # Apply feedback-based removal/addition if provided
+    rem_set = set(feedback_remove_clusters or [])
+    add_set = set(feedback_add_clusters or [])
 
     for patient in tqdm(sample_dataset):
         nodes = []
         for condition in flatten(patient['conditions']):
             ehr_node = ccscm_id2clus[condition]
-            nodes.append(int(ehr_node))
-            patient['node_set'].append(int(ehr_node))
+            if int(ehr_node) not in rem_set:
+                nodes.append(int(ehr_node))
+                patient['node_set'].append(int(ehr_node))
 
         if task != "procedure":
             for procedure in flatten(patient['procedures']):
                 ehr_node = ccsproc_id2clus[procedure]
-                nodes.append(int(ehr_node))
-                patient['node_set'].append(int(ehr_node))
+                if int(ehr_node) not in rem_set:
+                    nodes.append(int(ehr_node))
+                    patient['node_set'].append(int(ehr_node))
 
         if task == "mortality" or task == "readmission" or task == "procedure":
             for drug in flatten(patient['drugs']):
                 ehr_node = atc3_id2clus[drug]
-                nodes.append(int(ehr_node))
-                patient['node_set'].append(int(ehr_node))
+                if int(ehr_node) not in rem_set:
+                    nodes.append(int(ehr_node))
+                    patient['node_set'].append(int(ehr_node))
+
+        # Add specified nodes
+        if add_set:
+            for n in add_set:
+                if 0 <= int(n) < int(max_nodes):
+                    nodes.append(int(n))
+                    patient['node_set'].append(int(n))
 
         # make one-hot encoding
         node_vec = np.zeros(max_nodes)

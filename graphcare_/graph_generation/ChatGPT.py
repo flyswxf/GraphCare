@@ -2,7 +2,8 @@ import os
 from openai import OpenAI
 
 # 读取ECNU API key
-with open("../../resources/ecnu.key", 'r') as f:
+key_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "resources","ecnu.key")
+with open(key_path, 'r') as f:
     ecnu_key = f.readlines()[0].strip()
 
 # 保留原有的OpenAI实现
