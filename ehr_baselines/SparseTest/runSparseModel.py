@@ -108,6 +108,7 @@ parser.add_argument('--epochs', type=int, default=2, help='Number of training ep
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
 # Inference mode args
 parser.add_argument('--infer', action='store_true', help='Enable single-sample inference mode')
+parser.add_argument('--feedback', action='store_true', help='Enable feedback mode (infer only): apply add/remove cluster indices to EHR nodes')
 # patient_id或sample_index任选其一
 parser.add_argument('--patient_id', type=str, default=None, help='Patient ID for single-sample inference')
 parser.add_argument('--sample_index', type=int, default=None, help='Sample index for single-sample inference (0-based)')
@@ -127,7 +128,8 @@ parser.add_argument('--connectivity_lambda', type=float, default=1e-3, help='Con
 parser.add_argument('--use_focal', action='store_true', help='Use FocalLoss for multilabel')
 parser.add_argument('--focal_gamma', type=float, default=2.0, help='Focal loss gamma')
 parser.add_argument('--focal_alpha', type=float, default=0.25, help='Focal loss alpha (pos class weight)')
-parser.add_argument('--feedback', action='store_true', help='Enable feedback mode (infer only): apply add/remove cluster indices to EHR nodes')
+
+
 args = parser.parse_args()
 # 推理模式下的参数校验
 if args.infer:

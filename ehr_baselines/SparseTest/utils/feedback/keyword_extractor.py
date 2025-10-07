@@ -6,8 +6,6 @@ Keyword extractor for user feedback using LLM + embeddings.
 2) 通过 ChatECNU 大模型将文本拆分成两组关键词："add" 与 "remove"；
 3) 使用 embedding_retriever 为关键词与反馈文本生成向量，按相似度排序；
 4) 截取前 k（由 num_add/num_remove 控制），写入 KEYWORD_FILE（JSON：{"add": [...], "remove": [...]}）。
-
-这样避免候选池的复杂设计，直接以大模型理解为主，embedding 仅用于稳健排序与截断。
 """
 
 import os
