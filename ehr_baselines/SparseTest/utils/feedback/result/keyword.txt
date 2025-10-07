@@ -1,8 +1,18 @@
 {
   "add": [
-    "myocarditis"
+    "peptic ulcer drugs",
+    "drugs for constipation",
+    "analgesics",
+    "GERD therapy",
+    "antithrombotic agents",
+    "antipyretics"
   ],
   "remove": [
-    "coronary artery bypass graft"
+    "intravenous additives",
+    "IV drugs",
+    "IV solution additives",
+    "infusion additives",
+    "solution additives",
+    "parenteral nutrition"
   ]
 }

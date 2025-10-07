@@ -12,6 +12,7 @@ from typing import List, Dict
 import sys
 
 sys.path.append(r'D:\\desktop\\code\\ICU\\GraphCare')
+sys.path.append(r'/r/root/workspace/GraphCare')
 
 from constants import (
     KEYWORD_FILE,
@@ -46,10 +47,38 @@ def _cluster_file_for_task(task: str) -> str:
     return CLUSTERS_CCSPROC_CCSSCM
 
 
+import numpy as np
+
+def cosine_similarity(u, v):
+    """
+    计算两个向量的余弦相似度，安全处理零向量情况
+    """
+    norm_u = np.linalg.norm(u)
+    norm_v = np.linalg.norm(v)
+    
+    # 如果任一向量为零向量，返回0相似度
+    if norm_u == 0 or norm_v == 0:
+        return 0.0
+    
+    return np.dot(u, v) / (norm_u * norm_v)
+
+
 def _cosine(u, v) -> float:
     import math
     if not u or not v:
         return 0.0
+    
+    # Handle nested list format for embeddings
+    # u是嵌套列表，形式如[[1,2,3]]
+    if isinstance(u, list) and len(u) > 0 and isinstance(u[0], list):
+        u = u[0]
+    # if isinstance(v, list) and len(v) > 0 and isinstance(v[0], list):
+    #     v = v[0]
+    
+    # Ensure both vectors have the same length
+    if len(u) != len(v):
+        return 0.0
+    
     dot = sum(a*b for a, b in zip(u, v))
     nu = math.sqrt(sum(a*a for a in u))
     nv = math.sqrt(sum(b*b for b in v))

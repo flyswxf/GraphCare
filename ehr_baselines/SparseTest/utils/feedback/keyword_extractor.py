@@ -15,6 +15,7 @@ from typing import List, Dict, Tuple
 import sys
 
 sys.path.append(r'D:\\desktop\\code\\ICU\\GraphCare')
+sys.path.append(r'/r/root/workspace/GraphCare')
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # 兼容包内导入与直接脚本运行的常量导入

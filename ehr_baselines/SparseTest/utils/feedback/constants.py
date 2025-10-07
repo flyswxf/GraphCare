@@ -11,10 +11,11 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../.."
 
 # Paths for feedback I/O (files live directly under utils/feedback)
 FEEDBACK_DIR = os.path.join(BASE_DIR, "ehr_baselines", "SparseTest", "utils", "feedback")
-RESPONSE_FILE = os.path.join(FEEDBACK_DIR, "response.txt")
 RESULT_DIR = os.path.join(FEEDBACK_DIR, "result")
 KEYWORD_FILE = os.path.join(RESULT_DIR, "keyword.txt")
 CLUSTER_INDEX_FILE = os.path.join(RESULT_DIR, "clusterIndex.txt")
+RESPONSE_FILE = os.path.join(RESULT_DIR, "response.txt")
+
 
 # Model output for context (optional)
 INFERENCE_RESULT_FILE = os.path.join(BASE_DIR, "ehr_baselines", "SparseTest", "result", "inference_result_with_names.json")
