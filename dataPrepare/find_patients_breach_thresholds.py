@@ -8,7 +8,7 @@
 - 阈值表: `dataPrepare/match_stats/chartevents_thresholds.csv`
   - 需要列: `ITEMID, LABEL, valueuom_mode, LOW, HIGH`
 - CHARTEVENTS 数据表: CSV，需包含列: `SUBJECT_ID, ITEMID, VALUENUM, VALUE, VALUEUOM`
-  - 示例文件: `data/simpleCHARTEVENT.csv`（参考 `process_chartevents_to_ranges.py`）
+  - 示例文件: `data/mimic3/CHARTEVENTS.csv`（参考 `process_chartevents_to_ranges.py`）
 
 输出文件
 - 病人ID列表: 文本文件（每行一个 SUBJECT_ID），默认写到 `dataPrepare/match_stats/patients_crossing_thresholds.txt`
@@ -16,13 +16,13 @@
 用法示例
 - 基本用法（按默认路径）:
     python dataPrepare/find_patients_breach_thresholds.py \
-        --chartevents data/simpleCHARTEVENT.csv \
+        --chartevents data/mimic3/CHARTEVENTS.csv \
         --thresholds dataPrepare/match_stats/chartevents_thresholds.csv \
         --out dataPrepare/match_stats/patients_crossing_thresholds.txt
 
 - 严格按单位过滤（只计算与阈值表 `valueuom_mode` 一致的记录）:
     python dataPrepare/find_patients_breach_thresholds.py \
-        --chartevents data/simpleCHARTEVENT.csv \
+        --chartevents data/mimic3/CHARTEVENTS.csv \
         --unit_strict
 
 参数说明
