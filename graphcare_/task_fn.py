@@ -1,6 +1,48 @@
 from pyhealth.data import Patient, Visit
+import os
+ALLOWED_IDS_CACHE = None
+
+def _load_allowed_patient_ids():
+    global ALLOWED_IDS_CACHE
+    if ALLOWED_IDS_CACHE is not None:
+        return ALLOWED_IDS_CACHE
+    here = os.path.abspath(os.path.dirname(__file__))
+    root = os.path.abspath(os.path.join(here, os.pardir))
+    candidates = [
+        os.path.join(root, "dataPrepare", "match_stats", "patients_crossing_thresholds.txt"),
+    ]
+    ids = set()
+    for p in candidates:
+        if os.path.isfile(p):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    for line in f:
+                        s = line.strip()
+                        if not s:
+                            continue
+                        try:
+                            ids.add(int(s))
+                        except Exception:
+                            ids.add(s)
+            except Exception:
+                pass
+            break
+    ALLOWED_IDS_CACHE = ids
+    return ids
+
+def _id_in_set(pid, ids):
+    try:
+        pid_int = int(pid)
+        if pid_int in ids or str(pid_int) in ids:
+            return True
+    except Exception:
+        pass
+    return pid in ids
 
 def drug_recommendation_fn(patient: Patient):
+    allowed_ids = _load_allowed_patient_ids()
+    if allowed_ids and not _id_in_set(patient.patient_id, allowed_ids):
+        return []
     samples = []
     for i in range(len(patient) - 1):
         visit = patient[i]
