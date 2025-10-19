@@ -1,0 +1,9 @@
+ITEMID,LABEL,valueuom_mode,LOW,HIGH
+224322,IABPMean,mmHg,82,102
+113,CVP,mmHg,6,12
+116,CI,L/min/m2,2.8,3.6
+224842,CO,L/min,4.0,8.0
+211,HeartRate,BPM,60,100
+431,LVSWI,g*m/m2,44,68
+225668,LAC,mmol/L,,2.0
+504,PCWP,mmHg,6,12
