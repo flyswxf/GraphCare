@@ -14,11 +14,14 @@ from collections import defaultdict
 import networkx as nx
 from torch_geometric.utils import to_networkx, from_networkx
 
-
-def load_dataset(load_processed_dataset, dataset, task):
+# 添加一个可选参数Heart, 代表选择带有心脏问题的病人数据集
+def load_dataset(load_processed_dataset, dataset, task, Heart=False):
     # 应该是从此处加载lenofstay,但是graphcare原始的加载路径是和mortality,readmission在一起的,很奇怪
     if task == "drugrec" or task == "lenofstay":
         file_name = f'./data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_th015.pkl'
+        # 目前先在drugrec任务上添加, 因为drug任务效果比较好
+        if Heart:
+            file_name = f'./data/ccscm_ccsproc/sample_dataset_{dataset}_{task}_Heart_th015.pkl'
     elif task == "mortality" or task == "readmission" :        
         file_name = f'./data/ccscm_ccsproc_atc3/sample_dataset_{dataset}_{task}_th015.pkl'
     elif task =="procedure":
@@ -300,7 +303,7 @@ def clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=False, save_
     return map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel
 
 
-def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False, load_graph=False):
+def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=False, load_graph=False, Heart=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./data/ccscm_ccsproc"
     elif task == "mortality" or task == "readmission":
@@ -309,7 +312,11 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
         path = "./data/ccscm_atc3"
 
     # Check if graph file exists and load_graph is True
-    graph_file = f'{path}/graph_{dataset}_{task}_th015.pkl'
+    if Heart:
+        graph_file = f'{path}/graph_{dataset}_{task}_Heart_th015.pkl'
+    else:
+        graph_file = f'{path}/graph_{dataset}_{task}_th015.pkl'
+        
     if load_graph and os.path.exists(graph_file):
         print(f"Loading existing graph from {graph_file}")
         with open(graph_file, 'rb') as f:
@@ -397,10 +404,16 @@ def process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, ma
                         continue
         #------------------------------------------------------
         # 未来此处应该还需要添加处理CHARTEVENTS表的流程
+        # CHARTEVENTS表无法添加, 此功能废弃
 
     if save_graph:
-        with open(f'{path}/graph_{dataset}_{task}_th015.pkl', 'wb') as f:
-            pickle.dump(G, f)
+        if Heart:
+            with open(f'{path}/graph_{dataset}_{task}_Heart_th015.pkl', 'wb') as f:
+                pickle.dump(G, f)
+        else:
+            with open(f'{path}/graph_{dataset}_{task}_th015.pkl', 'wb') as f:
+                pickle.dump(G, f)
+        
 
     return G
 
@@ -418,7 +431,7 @@ def pad_and_convert(visits, max_visits, max_nodes):
 
 
 
-def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False):
+def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=False, Heart=False):
     if task == "drugrec" or task == "lenofstay":
         path = "./data/ccscm_ccsproc"
     elif task == "mortality" or task == "readmission":
@@ -523,19 +536,24 @@ def process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, 
 
 
     if save_dataset:
-        with open(f'{path}/sample_dataset_{dataset}_{task}_th015.pkl', 'wb') as f:
-            pickle.dump(sample_dataset, f)
+        if Heart:
+            with open(f'{path}/sample_dataset_{dataset}_{task}_Heart_th015.pkl', 'wb') as f:
+                pickle.dump(sample_dataset, f)
+        else:
+            with open(f'{path}/sample_dataset_{dataset}_{task}_th015.pkl', 'wb') as f:
+                pickle.dump(sample_dataset, f)
 
     return sample_dataset
 
 
 def run(dataset, task):
     load_processed_dataset = False
-    load_cluster = False
-    save_cluster = True
-    load_graph = True  # 新增：优先加载已存在的图文件
+    load_cluster = True
+    save_cluster = False
+    load_graph = False  # 新增：优先加载已存在的图文件
     save_graph = True
     save_processed_dataset = True
+    Heart = True
 
     print(f"Dataset: {dataset}, Task: {task}")
     print(f"Load processed dataset: {load_processed_dataset}")
@@ -544,9 +562,10 @@ def run(dataset, task):
     print(f"Load graph: {load_graph}")
     print(f"Save graph: {save_graph}")
     print(f"Save processed dataset: {save_processed_dataset}")
+    print(f"Heart: {Heart}")
 
     print("Loading dataset...")
-    sample_dataset = load_dataset(load_processed_dataset, dataset=dataset, task=task)
+    sample_dataset = load_dataset(load_processed_dataset, dataset=dataset, task=task, Heart=Heart)
 
     print("Loading embeddings...")
     ent2id, rel2id, ent_emb, rel_emb = load_embeddings(task)
@@ -564,11 +583,11 @@ def run(dataset, task):
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel = clustering(task, ent_emb, rel_emb, threshold=0.15, load_cluster=load_cluster, save_cluster=save_cluster)
 
     print("Processing graph...")
-    G = process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=save_graph, load_graph=load_graph)
+    G = process_graph(dataset, task, sample_dataset, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_graph=save_graph, load_graph=load_graph, Heart=Heart)
     G_tg = from_networkx(G)
 
     print("Processing dataset...")
-    sample_dataset = process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=save_processed_dataset)
+    sample_dataset = process_sample_dataset(dataset, task, sample_dataset, G_tg, ent2id, rel2id, map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_inv_rel, save_dataset=save_processed_dataset, Heart=Heart)
 
 
 def main():
@@ -577,11 +596,11 @@ def main():
         # "mimic4"
         ]
     tasks = [
-        # "drugrec", 
+        "drugrec", 
         # "mortality", 
         # "readmission", 
         # "lenofstay",
-        "procedure"
+        # "procedure"
         ]
 
     for dataset in datasets:
