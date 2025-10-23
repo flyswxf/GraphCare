@@ -44,10 +44,11 @@ import pandas as pd
 
 DEFAULT_KEYWORDS = [
     # 中文
-    "心源性休克", "心肌梗死", "急性心肌梗死",
+    # 
     # 英文
     "cardiogenic shock", "myocardial infarction", "acute myocardial infarction",
     "stemi", "nstemi", "ami", "heart attack",
+    "cardiogenic", "myocardial"
 ]
 
 
