@@ -1,0 +1,30 @@
+﻿ICD9_CODE,SHORT_TITLE,LONG_TITLE,count_rows,count_subjects,count_hadm
+41000,"AMI anterolateral,unspec","Acute myocardial infarction of anterolateral wall, episode of care unspecified",2,2,2
+41001,"AMI anterolateral, init","Acute myocardial infarction of anterolateral wall, initial episode of care",142,142,142
+41002,"AMI anterolateral,subseq","Acute myocardial infarction of anterolateral wall, subsequent episode of care",7,7,7
+41010,"AMI anterior wall,unspec","Acute myocardial infarction of other anterior wall, episode of care unspecified",1,1,1
+41011,"AMI anterior wall, init","Acute myocardial infarction of other anterior wall, initial episode of care",544,540,544
+41012,"AMI anterior wall,subseq","Acute myocardial infarction of other anterior wall, subsequent episode of care",29,29,29
+41020,"AMI inferolateral,unspec","Acute myocardial infarction of inferolateral wall, episode of care unspecified",1,1,1
+41021,"AMI inferolateral, init","Acute myocardial infarction of inferolateral wall, initial episode of care",115,115,115
+41022,"AMI inferolateral,subseq","Acute myocardial infarction of inferolateral wall, subsequent episode of care",3,3,3
+41030,"AMI inferopost, unspec","Acute myocardial infarction of inferoposterior wall, episode of care unspecified",0,0,0
+41031,"AMI inferopost, initial","Acute myocardial infarction of inferoposterior wall, initial episode of care",140,140,140
+41032,"AMI inferopost, subseq","Acute myocardial infarction of inferoposterior wall, subsequent episode of care",2,2,2
+41040,"AMI inferior wall,unspec","Acute myocardial infarction of other inferior wall, episode of care unspecified",1,1,1
+41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",573,567,573
+41042,"AMI inferior wall,subseq","Acute myocardial infarction of other inferior wall, subsequent episode of care",28,28,28
+41050,"AMI lateral NEC, unspec","Acute myocardial infarction of other lateral wall, episode of care unspecified",0,0,0
+41051,"AMI lateral NEC, initial","Acute myocardial infarction of other lateral wall, initial episode of care",47,47,47
+41052,"AMI lateral NEC, subseq","Acute myocardial infarction of other lateral wall, subsequent episode of care",0,0,0
+41080,"AMI NEC, unspecified","Acute myocardial infarction of other specified sites, episode of care unspecified",0,0,0
+41081,"AMI NEC, initial","Acute myocardial infarction of other specified sites, initial episode of care",73,73,73
+41082,"AMI NEC, subsequent","Acute myocardial infarction of other specified sites, subsequent episode of care",8,8,8
+41090,"AMI NOS, unspecified","Acute myocardial infarction of unspecified site, episode of care unspecified",3,3,3
+41091,"AMI NOS, initial","Acute myocardial infarction of unspecified site, initial episode of care",354,347,353
+41092,"AMI NOS, subsequent","Acute myocardial infarction of unspecified site, subsequent episode of care",53,53,53
+4110,Post MI syndrome,Postmyocardial infarction syndrome,39,38,39
+41181,Acute cor occlsn w/o MI,Acute coronary occlusion without myocardial infarction,17,17,17
+412,Old myocardial infarct,Old myocardial infarction,3278,2787,3278
+42979,Other sequelae of MI NEC,"Certain sequelae of myocardial infarction, not elsewhere classified, other",11,11,11
+78551,Cardiogenic shock,Cardiogenic shock,1154,1125,1154

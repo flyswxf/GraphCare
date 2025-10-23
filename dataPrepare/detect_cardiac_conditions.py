@@ -21,16 +21,18 @@
         --codes "785.51,410.90,410.71" \
         --out dataPrepare/cardiac_condition_flags.csv
 
-- 从文件读取代码（每行一个 ICD9 代码）:
+- 从 CSV 读取代码（列 'ICD9_CODE'）:
     python dataPrepare/detect_cardiac_conditions.py \
-        --codes_file dataPrepare/my_selected_icd9.txt \
+        --codes_file dataPrepare/match_stats/cardiac_icd_candidates.csv \
         --out dataPrepare/cardiac_condition_flags.csv
 
 参数说明
 - --diagnoses: DIAGNOSES_ICD CSV 路径（默认 data/mimic3/DIAGNOSES_ICD.csv）
 - --patients_txt: 越界病人列表 TXT 路径（默认 dataPrepare/match_stats/patients_crossing_thresholds.txt）
 - --codes: 逗号分隔 ICD9 代码集合（如 785.51 对应 cardiogenic shock，410.xx 对应 MI 变种）
-- --codes_file: ICD9 代码文件路径（每行一个），与 --codes 合并去重
+- --codes_file: ICD9 代码文件路径（支持两种格式）与 --codes 合并去重
+  1) TXT：每行一个代码
+  2) CSV：包含列名 'ICD9_CODE'
 - --out: 输出 CSV 路径（默认 dataPrepare/cardiac_condition_flags.csv）
 - --chunksize: 读取 DIAGNOSES_ICD 的分块大小（默认 500000）
 
@@ -75,11 +77,29 @@ def load_codes(codes_arg: str, codes_file: str) -> List[str]:
     if codes_arg:
         codes.extend([c.strip() for c in codes_arg.split(",") if c.strip()])
     if codes_file and os.path.isfile(codes_file):
-        with open(codes_file, "r", encoding="utf-8") as f:
-            for line in f:
-                s = line.strip()
+        ext = os.path.splitext(codes_file)[1].lower()
+        if ext == ".csv":
+            try:
+                df = pd.read_csv(codes_file)
+            except Exception as e:
+                raise ValueError(f"无法读取 CSV 文件: {codes_file}: {e}")
+            col_name = None
+            for cand in ["ICD9_CODE", "icd9_code", "Code", "code"]:
+                if cand in df.columns:
+                    col_name = cand
+                    break
+            if col_name is None:
+                raise ValueError(f"CSV 缺少 'ICD9_CODE' 列: {codes_file}")
+            for s in df[col_name].astype(str).tolist():
+                s = s.strip()
                 if s:
                     codes.append(s)
+        else:
+            with open(codes_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    s = line.strip()
+                    if s:
+                        codes.append(s)
     # 去重
     seen = set()
     uniq = []
@@ -122,7 +142,7 @@ def main():
     parser.add_argument("--diagnoses", default=os.path.join(root, "data", "mimic3", "DIAGNOSES_ICD.csv"), help="Path to DIAGNOSES_ICD.csv")
     parser.add_argument("--patients_txt", default=os.path.join(root, "dataPrepare", "match_stats", "patients_crossing_thresholds.txt"), help="Path to threshold-crossing patients TXT")
     parser.add_argument("--codes", default="", help="Comma-separated ICD9 codes to flag (e.g. 785.51,410.71,410.90)")
-    parser.add_argument("--codes_file", default="", help="File path containing ICD9 codes (one per line)")
+    parser.add_argument("--codes_file", default="", help="File path containing ICD9 codes (TXT: one per line; CSV: column 'ICD9_CODE')")
     parser.add_argument("--out", default=os.path.join(root, "dataPrepare", "cardiac_condition_flags.csv"), help="Output CSV path")
     parser.add_argument("--chunksize", type=int, default=500_000, help="Chunk size when streaming DIAGNOSES_ICD")
 

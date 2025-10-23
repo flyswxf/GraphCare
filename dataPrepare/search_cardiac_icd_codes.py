@@ -17,7 +17,7 @@
     python dataPrepare/search_cardiac_icd_codes.py \
         --d_icd data/mimic3/D_ICD_DIAGNOSES.csv \
         --diagnoses data/mimic3/DIAGNOSES_ICD.csv \
-        --out dataPrepare/cardiac_icd_candidates.csv
+        --out dataPrepare/match_stats/cardiac_icd_candidates.csv
 
 - 自定义关键词（逗号分隔，不区分大小写）:
     python dataPrepare/search_cardiac_icd_codes.py \
@@ -47,8 +47,8 @@ DEFAULT_KEYWORDS = [
     # 
     # 英文
     "cardiogenic shock", "myocardial infarction", "acute myocardial infarction",
-    "stemi", "nstemi", "ami", "heart attack",
-    "cardiogenic", "myocardial"
+    # "stemi", "nstemi", "ami", "heart attack",
+    # "cardiogenic", "myocardial"
 ]
 
 
