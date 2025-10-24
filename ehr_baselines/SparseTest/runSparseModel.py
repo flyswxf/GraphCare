@@ -157,7 +157,7 @@ print(f"Using device: {device}")
 print(f"Dataset: {dataset}, Task: {task}, Heart: {Heart}")
 
 # 当处于推理模式时禁用wandb
-os.environ["WANDB_MODE"] = "offline" if args.infer else "offline"
+os.environ["WANDB_MODE"] = "offline" if args.infer else "online"
 wandb_config = {
     "dataset": dataset,
     "task": task,
@@ -185,7 +185,7 @@ try:
     sample_dataset, graph, ent2id, rel2id, ent_emb, rel_emb, \
     map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_rel_inv, \
     ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(
-        dataset, task, inferMode=args.infer, patient_id=args.patient_id, index=args.sample_index
+        dataset, task, inferMode=args.infer, patient_id=args.patient_id, index=args.sample_index, Heart=Heart
     )
     
     print(f"Loaded {len(sample_dataset)} samples")
