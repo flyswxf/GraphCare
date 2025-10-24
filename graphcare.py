@@ -31,7 +31,7 @@ from copy import deepcopy
 from ehr_baselines.SparseTest.utils.comprehensive_debug import save_comprehensive_debug_info
 
 
-def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None):
+def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=False,patient_id=None,index=None,Heart=False):
     if kg == "GPT-KG":
         kg = ""
     if task == "drugrec" or task == "lenofstay":
@@ -49,8 +49,12 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
         sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}_kg{kg_ratio}.pkl"
         graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
     else:
-        sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}.pkl"
-        graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
+        if Heart:
+            sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_Heart_{kg}{th}.pkl"
+            graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_Heart_{kg}{th}.pkl"
+        else:
+            sample_dataset_file = f"./data/{path_1.split('/')[-1]}/sample_dataset_{dataset}_{task}_{kg}{th}.pkl"
+            graph_file = f"./data/{path_1.split('/')[-1]}/graph_{dataset}_{task}_{kg}{th}.pkl"
     # 当启用推理模式时,直接读已经提取好的文件,如果没有提取好,利用extract_sample获取对应的样本
     if inferMode == True:
         # Import extract_sample_to_pkl function only when needed to avoid circular import
@@ -131,7 +135,7 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
                     ccscm_id2clus, ccsproc_id2clus, atc3_id2clus
 
 
-def get_mode_and_out_channels_and_loss_func(task, sample_dataset):
+def get_mode_and_out_channels_and_loss_func(task, sample_dataset,Heart=False):
     mode = ""
     if task == "mortality" or task == "readmission":
         mode = "binary"
@@ -139,8 +143,13 @@ def get_mode_and_out_channels_and_loss_func(task, sample_dataset):
         loss_function = F.binary_cross_entropy_with_logits
     elif task == "drugrec":
         mode = "multilabel"
-        out_channels = len(sample_dataset[0]["drugs_ind"])
+        # TODO 应该还需要一个channel计算心源性休克/心肌梗死的概率, 目前还没做
+        if Heart:
+            out_channels = len(sample_dataset[0]["drugs_ind"])
+        else:
+            out_channels = len(sample_dataset[0]["drugs_ind"])
         loss_function = F.binary_cross_entropy_with_logits
+        # 在runSparseModel.py中, 实际使用了别的loss_function
     elif task == "lenofstay":
         mode = "multiclass"
         out_channels = 10

@@ -102,10 +102,12 @@ def multilabel_decision(y_prob, strategy='threshold', threshold=0.5, topk=10, pe
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
 parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 'mimic4'], help='Dataset to use')
-parser.add_argument('--task', type=str, default='procedure', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--task', type=str, default='drugrec', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
+parser.add_argument('--Heart', action='store_true', help='Enable Heart dataset')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
 parser.add_argument('--epochs', type=int, default=2, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
+
 # Inference mode args
 parser.add_argument('--infer', action='store_true', help='Enable single-sample inference mode')
 parser.add_argument('--feedback', action='store_true', help='Enable feedback mode (infer only): apply add/remove cluster indices to EHR nodes')
@@ -114,6 +116,7 @@ parser.add_argument('--patient_id', type=str, default=None, help='Patient ID for
 parser.add_argument('--sample_index', type=int, default=None, help='Sample index for single-sample inference (0-based)')
 parser.add_argument('--weights_path', type=str, default=None, help='Path to model weights file; defaults to ./data/weights/saved_weights_{dataset}_{task}_sparse.pkl')
 parser.add_argument('--out', type=str, default=None, help='Optional JSON path to save inference result')
+
 # Decision strategy for multilabel tasks
 parser.add_argument('--decision_strategy', type=str, default='hybrid', choices=['threshold', 'topk', 'hybrid'], help='Decision policy for multilabel predictions')
 parser.add_argument('--threshold', type=float, default=0.5, help='Global threshold for multilabel prediction')
@@ -129,7 +132,6 @@ parser.add_argument('--use_focal', action='store_true', help='Use FocalLoss for 
 parser.add_argument('--focal_gamma', type=float, default=2.0, help='Focal loss gamma')
 parser.add_argument('--focal_alpha', type=float, default=0.25, help='Focal loss alpha (pos class weight)')
 
-
 args = parser.parse_args()
 # 推理模式下的参数校验
 if args.infer:
@@ -139,24 +141,27 @@ if args.infer:
         parser.error("Inference mode requires --weights_path to load model weights")
 # 启动推理模式的代码示例
 # python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --infer --sample_index 50 --weights_path ./data/weights/saved_weights_mimic3_drugrec_sparse.pkl --out ./ehr_baselines/SparseTest/result/inference_result.json
+# 启动heart数据集的代码示例
+# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --Heart 
 
 # Configuration
 dataset = args.dataset
 task = args.task
+Heart = args.Heart
 batch_size = args.batch_size
 epochs = args.epochs
 lr = args.lr
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 print(f"Using device: {device}")
-print(f"Dataset: {dataset}, Task: {task}")
+print(f"Dataset: {dataset}, Task: {task}, Heart: {Heart}")
 
-# Initialize logging and WandB (following graphcare.py style)
 # 当处于推理模式时禁用wandb
 os.environ["WANDB_MODE"] = "offline" if args.infer else "offline"
 wandb_config = {
     "dataset": dataset,
     "task": task,
+    "Heart": Heart,
     "batch_size": batch_size,
     "epochs": epochs,
     "lr": lr,
@@ -168,10 +173,10 @@ wandb_config = {
     "use_beta_attention": True,  # 启用beta注意力机制进行图神经网络的注意力计算
     "attention_type": "beta",    # 注意力类型标识
 }
-# 初始化wandb项目 - 
-run = wandb.init(project="procedure", config=wandb_config,
-                 notes="稀疏化GraphCare模型实验")
-exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}"
+# 初始化wandb项目
+run = wandb.init(project=f"{task}", config=wandb_config,
+                 notes="稀疏化GraphCare模型实验" + (", 包含心脏问题的病人数据集" if Heart else ""))
+exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}_{'Heart' if Heart else 'NoHeart'}"
 # 初始化日志记录器
 logger = get_logger(exp_name)
 
@@ -191,17 +196,14 @@ except Exception as e:
     print("Please ensure GraphCare data files are available at the expected paths")
     sys.exit(1)
 
-# Convert networkx graph to PyTorch Geometric format
 G_tg = from_networkx(graph)
 # 保持 G_tg 在 CPU 上，避免在 Dataset.__getitem__ 内部进行子图提取时出现“indices/device”不匹配错误；
 # 后续每个 batch 的 Data 会在训练/评估循环里被 .to(device) 移动到 GPU。
-# G_tg = G_tg.to(device)
 
-# Get task configuration
-mode, out_channels, loss_function = get_mode_and_out_channels_and_loss_func(task, sample_dataset)
+# 获取模型的损失函数和输出通道数
+mode, out_channels, loss_function = get_mode_and_out_channels_and_loss_func(task, sample_dataset, Heart)
 print(f"Task mode: {mode}, Output channels: {out_channels}")
 
-# Label EHR nodes with patient data
 max_nodes = G_tg.num_nodes  # keep consistent with visit_padded_node last dim (built from G_tg)
 
 # Optionally load feedback cluster indices
@@ -281,10 +283,10 @@ model = SparseGraphCare(
     freeze=False,
     patient_mode="joint",
     use_alpha=False,
-    use_beta=True,              # 启用beta注意力机制 - 关键配置
+    use_beta=True,              # 启用beta注意力机制
     use_edge_attn=True,
     self_attn=0.,
-    gnn="BAT",                  # 使用BAT (Beta Attention Transformer) GNN架构
+    gnn="BAT",
     attn_init=None,
     drop_rate=0.,
     # Sparsification parameters

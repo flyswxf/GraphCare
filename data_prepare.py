@@ -195,6 +195,7 @@ def prepare_label(sample_dataset:SampleDataset, drugs):
     label_tokenizer = Tokenizer(
         sample_dataset.get_all_tokens(key='drugs')
         # 返回一个List[str],遍历整个数据集中所有样本的 drugs 字段，提取出所有出现过的药物代码，去重后返回一个列表
+        # 使用了heart数据集后, 理论上drug列表的长度会减少
     )
 
     labels_index = label_tokenizer.convert_tokens_to_indices(drugs)
