@@ -131,12 +131,26 @@ def process_inference_result(inference_result_path, output_path, atc_csv_path,
             
             # 转换ATC3代码到药物名称
             topk_names = convert_codes_to_names(topk_codes, atc_mapping)
+
+            # 过滤以V开头的ATC代码（跳过该项）
+            filtered = [
+                (idx, code, name, score)
+                for idx, code, name, score in zip(topk_indices, topk_codes, topk_names, topk_scores)
+                if isinstance(code, str) and not code.startswith('V')
+            ]
+            if filtered:
+                topk_indices = [x[0] for x in filtered]
+                topk_codes = [x[1] for x in filtered]
+                topk_names = [x[2] for x in filtered]
+                topk_scores = [x[3] for x in filtered]
+            else:
+                topk_indices, topk_codes, topk_names, topk_scores = [], [], [], []
             
             # 添加到结果中
             result['topk_codes'] = topk_codes
             result['topk_names'] = topk_names
             
-            # 创建详细的推荐列表
+            # 创建详细的推荐列表（已过滤掉以V开头的项）
             recommendations = []
             for i, (idx, code, name, score) in enumerate(zip(topk_indices, topk_codes, topk_names, topk_scores)):
                 recommendations.append({
@@ -202,7 +216,9 @@ if __name__ == "__main__":
 
     inference_result_path = os.path.abspath(args.input)
     output_path = os.path.abspath(args.output)
-    atc_csv_path = os.path.join(project_root, 'resources/ATC.csv')
+    # atc_csv_path = os.path.join(project_root, 'resources/ATC.csv')
+    # 或使用中文ATC.csv
+    atc_csv_path = os.path.join(project_root, 'resources/ATC_Chinese.csv')
     
     # 检查文件是否存在
     if not os.path.exists(inference_result_path):
