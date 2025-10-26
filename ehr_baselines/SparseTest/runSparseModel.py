@@ -29,6 +29,7 @@ import re
 from graphcare import get_subgraph
 import json
 from tqdm import tqdm
+import csv
 
 # ===== Paths constants (feedback files) =====
 # Make it easy to adjust later without touching code logic
@@ -191,6 +192,36 @@ try:
     print(f"Loaded {len(sample_dataset)} samples")
     print(f"Graph nodes: {graph.number_of_nodes()}, edges: {graph.number_of_edges()}")
     
+    # Heart augmentation: append cardiac flag as extra channel for drugrec
+    if Heart and task == 'drugrec':
+        cardiac_map = {}
+        csv_path = os.path.join(os.path.dirname(__file__), '..', '..', 'dataPrepare', 'match_stats', 'cardiac_condition_flags.csv')
+        if os.path.exists(csv_path):
+            try:
+                with open(csv_path, 'r', encoding='utf-8') as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        try:
+                            pid = int(row.get('patient_id'))
+                            flag = int(row.get('cardiac'))
+                            cardiac_map[pid] = flag
+                        except Exception:
+                            pass
+            except Exception as e:
+                print(f"[HEART] Failed reading cardiac flags: {e}")
+        else:
+            print(f"[HEART] Cardiac flags CSV not found at {csv_path}; skipping augmentation")
+        if cardiac_map:
+            for p in sample_dataset:
+                pid = int(p.get('patient_id', -1))
+                flag = float(cardiac_map.get(pid, 0))
+                if isinstance(p.get('drugs_ind'), torch.Tensor):
+                    p['drugs_ind'] = torch.cat([p['drugs_ind'].float(), torch.tensor([flag], dtype=torch.float32)], dim=0)
+                else:
+                    arr = np.array(p.get('drugs_ind'), dtype=float)
+                    p['drugs_ind'] = torch.tensor(np.append(arr, flag), dtype=torch.float32)
+            print(f"[HEART] Appended cardiac flag to drugs_ind for {len(sample_dataset)} samples")
+
 except Exception as e:
     print(f"Error loading data: {e}")
     print("Please ensure GraphCare data files are available at the expected paths")
@@ -656,6 +687,32 @@ for epoch in range(1, epochs + 1):
         val_f1 = f1_score(y_true_val, y_pred_val, average="samples", zero_division=1)
         val_precision = precision_score(y_true_val, y_pred_val, average="samples", zero_division=1)
         val_recall = recall_score(y_true_val, y_pred_val, average="samples", zero_division=1)
+
+        # Extra cardiac metrics when Heart and drugrec
+        if Heart and task == 'drugrec':
+            c_idx = y_prob_test.shape[1] - 1
+            y_true_c = y_true_test[:, c_idx]
+            y_prob_c = y_prob_test[:, c_idx]
+            thr_c = float(args.threshold)
+            if per_class_thr is not None and len(per_class_thr) == y_prob_val.shape[1]:
+                try:
+                    thr_c = float(per_class_thr[c_idx])
+                except Exception:
+                    pass
+            y_pred_c = (y_prob_c >= thr_c).astype(int)
+            try:
+                val_roc_auc_c = roc_auc_score(y_true_c, y_prob_c)
+            except Exception:
+                val_roc_auc_c = float('nan')
+            try:
+                val_pr_auc_c = average_precision_score(y_true_c, y_prob_c)
+            except Exception:
+                val_pr_auc_c = float('nan')
+            val_acc_c = accuracy_score(y_true_c, y_pred_c)
+            val_f1_c = f1_score(y_true_c, y_pred_c, zero_division=1)
+            val_precision_c = precision_score(y_true_c, y_pred_c, zero_division=1)
+            val_recall_c = recall_score(y_true_c, y_pred_c, zero_division=1)
+            val_jaccard_c = jaccard_score(y_true_c, y_pred_c, zero_division=1)
         
     
     # Model saving and early stopping
@@ -698,6 +755,10 @@ for epoch in range(1, epochs + 1):
     log_msg = f'Epoch: {epoch}, Training loss: {train_loss:.4f}, Sparse loss: {sparse_loss:.6f}, Val PRAUC: {val_pr_auc:.4f}, Val ROC_AUC: {val_roc_auc:.4f}, Val acc: {val_acc:.4f}, Val F1: {val_f1:.4f}, Val precision: {val_precision:.4f}, Val recall: {val_recall:.4f}, Val jaccard: {val_jaccard:.4f}'
     print(log_msg)
     logger.info(log_msg)
+    log_msg_c = f'Val Heart ROC_AUC: {val_roc_auc_c:.4f}, Val Heart PRAUC: {val_pr_auc_c:.4f}, Val Heart acc: {val_acc_c:.4f}, Val Heart F1: {val_f1_c:.4f}, Val Heart precision: {val_precision_c:.4f}, Val Heart recall: {val_recall_c:.4f}, Val Heart jaccard: {val_jaccard_c:.4f}'
+    print(log_msg_c)
+    logger.info(log_msg_c)
+    
 
 # Final evaluation on test set
 print("\nFinal evaluation on test set...")
@@ -750,6 +811,7 @@ elif mode == "multilabel":
     test_f1 = f1_score(y_true_test, y_pred_test, average="samples", zero_division=1)
     test_precision = precision_score(y_true_test, y_pred_test, average="samples", zero_division=1)
     test_recall = recall_score(y_true_test, y_pred_test, average="samples", zero_division=1)
+    
 print(f"Test ROC-AUC: {test_roc_auc:.4f}")
 print(f"Test PR-AUC: {test_pr_auc:.4f}")
 
