@@ -69,7 +69,8 @@ def load_everything(dataset, task, kg="", kg_ratio=1.0, th="th015", inferMode=Fa
             task=task,
             patient_id=patient_id,
             index=index,
-            verbose=True
+            verbose=True,
+            Heart=Heart
         )
         
         # 加载单个样本并包装成列表格式

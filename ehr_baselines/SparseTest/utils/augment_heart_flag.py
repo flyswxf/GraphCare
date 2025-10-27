@@ -51,18 +51,49 @@ def get_dataset_file_path(dataset: str, task: str, Heart: bool) -> str:
 
 
 def read_cardiac_flags(csv_path: str) -> Dict[int, int]:
-    """Read patient_id -> cardiac flag mapping from CSV."""
+    """Read patient_id -> cardiac flag mapping from CSV.
+
+    Robust to BOM headers and alternate column names (e.g., 'bool').
+    """
     cardiac_map: Dict[int, int] = {}
     if not os.path.exists(csv_path):
         print(f"[HEART] Cardiac flags CSV not found at {csv_path}; skipping augmentation")
         return cardiac_map
     try:
-        with open(csv_path, 'r', encoding='utf-8') as f:
+        # Use utf-8-sig to strip BOM if present
+        with open(csv_path, 'r', encoding='utf-8-sig') as f:
             reader = csv.DictReader(f)
+            if not reader.fieldnames:
+                print("[HEART] Cardiac flags CSV has no header; skipping")
+                return cardiac_map
+
+            # Normalize field names (strip spaces)
+            normalized_fieldnames = [fn.strip() for fn in reader.fieldnames]
+            # Determine candidate keys
+            pid_keys = ['patient_id', 'subject_id', 'SUBJECT_ID']
+            flag_keys = ['cardiac', 'bool', 'flag', 'FLAG']
+
             for row in reader:
                 try:
-                    pid = int(row.get('patient_id'))
-                    flag = int(row.get('cardiac'))
+                    # Try multiple keys to be robust
+                    pid_raw = None
+                    for k in pid_keys:
+                        if k in row and row.get(k) is not None:
+                            pid_raw = row.get(k)
+                            break
+                    flag_raw = None
+                    for k in flag_keys:
+                        if k in row and row.get(k) is not None:
+                            flag_raw = row.get(k)
+                            break
+
+                    if pid_raw is None or flag_raw is None:
+                        continue
+
+                    pid = int(str(pid_raw).strip())
+                    # Some files may have float-like strings; coerce then binarize
+                    flag_f = float(str(flag_raw).strip())
+                    flag = 1 if flag_f > 0 else 0
                     cardiac_map[pid] = flag
                 except Exception:
                     # Skip malformed rows
@@ -126,8 +157,8 @@ def main():
         print("[INFO] Exiting without changes.")
         sys.exit(0)
 
-    # Read cardiac flags CSV (same relative path logic as runSparseModel.py)
-    csv_path = os.path.join(CURRENT_DIR, '..', '..', 'dataPrepare', 'match_stats', 'cardiac_condition_flags.csv')
+    # Read cardiac flags CSV from project root dataPrepare/match_stats
+    csv_path = os.path.join(PROJECT_ROOT, 'dataPrepare', 'match_stats', 'cardiac_condition_flags.csv')
     csv_path = os.path.abspath(csv_path)
     print(f"[INFO] Reading cardiac flags from: {csv_path}")
     cardiac_map = read_cardiac_flags(csv_path)
