@@ -144,6 +144,8 @@ if args.infer:
 # python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --infer --sample_index 50 --weights_path ./data/weights/saved_weights_mimic3_drugrec_sparse.pkl --out ./ehr_baselines/SparseTest/result/inference_result.json
 # 启动heart数据集的代码示例
 # python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --Heart 
+# 启动heart数据集的推理模式代码示例
+# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --Heart --infer --patient_id 17 --weights_path ./data/weights/saved_weights_mimic3_drugrec_sparse_Heart.pkl --out ./ehr_baselines/SparseTest/result/inference_result.json
 
 # Configuration
 dataset = args.dataset
@@ -235,6 +237,7 @@ G_tg = from_networkx(graph)
 # 获取模型的损失函数和输出通道数
 mode, out_channels, loss_function = get_mode_and_out_channels_and_loss_func(task, sample_dataset, Heart)
 print(f"Task mode: {mode}, Output channels: {out_channels}")
+print(f"Epochs: {epochs}")
 
 max_nodes = G_tg.num_nodes  # keep consistent with visit_padded_node last dim (built from G_tg)
 
@@ -514,77 +517,77 @@ if args.infer:
     if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
         with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
             per_class_thr = json.load(f)
-        
-        # Heart+drugrec 情况下：分离最后一位（心源性休克概率），并从输出维度中移除
-        cardiogenic_prob = None
-        if Heart and task == 'drugrec' and mode == "multilabel":
-            C_full = y_prob_all.shape[1]
-            if C_full >= 1:
-                c_idx = C_full - 1
-                try:
-                    cardiogenic_prob = float(y_prob_all[0][c_idx])
-                except Exception:
-                    cardiogenic_prob = float('nan')
-                # 去掉最后一位
-                y_prob_all = y_prob_all[:, :c_idx]
-                y_true_all = y_true_all[:, :c_idx]
-                # 若提供了每类阈值，截断为一致长度
-                if per_class_thr is not None and isinstance(per_class_thr, list) and len(per_class_thr) == C_full:
-                    per_class_thr = per_class_thr[:c_idx]
-        
-        # 计算预测标签（使用可能被截断后的概率）
-        if mode == "multilabel":
-            y_pred_all = multilabel_decision(
-                y_prob_all,
-                strategy=args.decision_strategy,
-                threshold=args.threshold,
-                topk=args.topk,
-                per_class_thresholds=per_class_thr
-            )
-        elif mode == "binary":
-            y_pred_all = (y_prob_all >= float(args.threshold)).astype(int)
-        else:
-            y_pred_all = np.argmax(y_prob_all, axis=-1)
-        
-        # 组装输出结果（仅单样本；y_prob/y_true/y_pred 若为 Heart+drugrec 已去除最后一位）
-        pid_val = sample_dataset[0].get('patient_id', None)
-        result = {
-            "patient_id": None if pid_val is None else str(pid_val),
-            "sample_index": None if not args.sample_index else int(args.sample_index),
-            "mode": mode,
-            "decision_strategy": args.decision_strategy if mode == "multilabel" else None,
-            "threshold": float(args.threshold) if mode in ("multilabel", "binary") else None,
-            "topk": int(args.topk) if mode == "multilabel" else None,
-            "per_class_thresholds": per_class_thr,
-            "y_true": y_true_all[0].tolist(),
-            "y_prob": y_prob_all[0].tolist(),
-            "y_pred": y_pred_all[0].tolist() if mode == "multilabel" else int(y_pred_all[0]) if mode == "binary" else int(y_pred_all[0])
-        }
-        
-        # 单独输出心源性休克概率（浮点），但不参与 topk 与其它输出的维度
-        if cardiogenic_prob is not None:
-            result["cardiogenic_shock"] = float(cardiogenic_prob)
-        
-        # 为drugrec/procedure任务提供top-k索引与分数（按概率降序；Heart+drugrec时已排除最后一位）
-        if task in ("drugrec", "procedure") and mode == "multilabel":
-            C = y_prob_all.shape[1]
-            k = max(1, min(C, int(args.topk) if args.topk is not None else 10))
-            probs_row = y_prob_all[0]
-            top_idx = np.argsort(-probs_row)[:k]
-            top_scores = probs_row[top_idx]
-            result.update({
-                "topk_indices": top_idx.tolist(),
-                "topk_scores": top_scores.tolist(),
-            })
-        
-        print("[INFER] Single-sample inference done.")
-        # 打印摘要信息（避免输出大数组）
-        summary = {
-            k: (v if k not in ["y_prob", "y_pred", "y_true"] else f"shape={np.array(v).shape}")
-            for k, v in result.items()
-        }
-        print(json.dumps(summary, ensure_ascii=False, indent=2)
+
+    # Heart+drugrec 情况下：分离最后一位（心源性休克概率），并从输出维度中移除
+    cardiogenic_prob = None
+    if Heart and task == 'drugrec' and mode == "multilabel":
+        C_full = y_prob_all.shape[1]
+        if C_full >= 1:
+            c_idx = C_full - 1
+            try:
+                cardiogenic_prob = float(y_prob_all[0][c_idx])
+            except Exception:
+                cardiogenic_prob = float('nan')
+            # 去掉最后一位
+            y_prob_all = y_prob_all[:, :c_idx]
+            y_true_all = y_true_all[:, :c_idx]
+            # 若提供了每类阈值，截断为一致长度
+            if per_class_thr is not None and isinstance(per_class_thr, list) and len(per_class_thr) == C_full:
+                per_class_thr = per_class_thr[:c_idx]
+
+    # 计算预测标签（使用可能被截断后的概率）
+    if mode == "multilabel":
+        y_pred_all = multilabel_decision(
+            y_prob_all,
+            strategy=args.decision_strategy,
+            threshold=args.threshold,
+            topk=args.topk,
+            per_class_thresholds=per_class_thr
         )
+    elif mode == "binary":
+        y_pred_all = (y_prob_all >= float(args.threshold)).astype(int)
+    else:
+        y_pred_all = np.argmax(y_prob_all, axis=-1)
+
+    # 组装输出结果（仅单样本；y_prob/y_true/y_pred 若为 Heart+drugrec 已去除最后一位）
+    pid_val = sample_dataset[0].get('patient_id', None)
+    result = {
+        "patient_id": None if pid_val is None else str(pid_val),
+        "sample_index": None if not args.sample_index else int(args.sample_index),
+        "mode": mode,
+        "decision_strategy": args.decision_strategy if mode == "multilabel" else None,
+        "threshold": float(args.threshold) if mode in ("multilabel", "binary") else None,
+        "topk": int(args.topk) if mode == "multilabel" else None,
+        "per_class_thresholds": per_class_thr,
+        "y_true": y_true_all[0].tolist(),
+        "y_prob": y_prob_all[0].tolist(),
+        "y_pred": y_pred_all[0].tolist() if mode == "multilabel" else int(y_pred_all[0]) if mode == "binary" else int(y_pred_all[0])
+    }
+
+    # 单独输出心源性休克概率（浮点），但不参与 topk 与其它输出的维度
+    if cardiogenic_prob is not None:
+        result["cardiogenic_shock"] = float(cardiogenic_prob)
+
+    # 为drugrec/procedure任务提供top-k索引与分数（按概率降序；Heart+drugrec时已排除最后一位）
+    if task in ("drugrec", "procedure") and mode == "multilabel":
+        C = y_prob_all.shape[1]
+        k = max(1, min(C, int(args.topk) if args.topk is not None else 10))
+        probs_row = y_prob_all[0]
+        top_idx = np.argsort(-probs_row)[:k]
+        top_scores = probs_row[top_idx]
+        result.update({
+            "topk_indices": top_idx.tolist(),
+            "topk_scores": top_scores.tolist(),
+        })
+
+    print("[INFER] Single-sample inference done.")
+    # 打印摘要信息（避免输出大数组）
+    summary = {
+        k: (v if k not in ["y_prob", "y_pred", "y_true"] else f"shape={np.array(v).shape}")
+        for k, v in result.items()
+    }
+    print(json.dumps(summary, ensure_ascii=False, indent=2)
+    )
 
     # Save to file if requested
     if args.out:
@@ -700,26 +703,39 @@ for epoch in range(1, epochs + 1):
         if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
             with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
                 per_class_thr = json.load(f)
+        # 当 Heart+drugrec 时，原始指标需去掉最后一维（心源性休克）
+        calc_y_true = y_true_val
+        calc_y_prob = y_prob_val
+        calc_thr = per_class_thr
+        if Heart and task == 'drugrec':
+            C_full = y_prob_val.shape[1]
+            if C_full >= 1:
+                c_idx = C_full - 1
+                calc_y_true = y_true_val[:, :c_idx]
+                calc_y_prob = y_prob_val[:, :c_idx]
+                if per_class_thr is not None and isinstance(per_class_thr, list) and len(per_class_thr) == C_full:
+                    calc_thr = per_class_thr[:c_idx]
+
         y_pred_val = multilabel_decision(
-            y_prob_val,
+            calc_y_prob,
             strategy=args.decision_strategy,
             threshold=args.threshold,
             topk=args.topk,
-            per_class_thresholds=per_class_thr
+            per_class_thresholds=calc_thr
         )
-        val_pr_auc = average_precision_score(y_true_val, y_prob_val, average="samples")
-        val_roc_auc = roc_auc_score(y_true_val, y_prob_val, average="samples")
-        val_jaccard = jaccard_score(y_true_val, y_pred_val, average="samples", zero_division=1)
-        val_acc = accuracy_score(y_true_val, y_pred_val)
-        val_f1 = f1_score(y_true_val, y_pred_val, average="samples", zero_division=1)
-        val_precision = precision_score(y_true_val, y_pred_val, average="samples", zero_division=1)
-        val_recall = recall_score(y_true_val, y_pred_val, average="samples", zero_division=1)
+        val_pr_auc = average_precision_score(calc_y_true, calc_y_prob, average="samples")
+        val_roc_auc = roc_auc_score(calc_y_true, calc_y_prob, average="samples")
+        val_jaccard = jaccard_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
+        val_acc = accuracy_score(calc_y_true, y_pred_val)
+        val_f1 = f1_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
+        val_precision = precision_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
+        val_recall = recall_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
 
         # Extra cardiac metrics when Heart and drugrec
         if Heart and task == 'drugrec':
-            c_idx = y_prob_test.shape[1] - 1
-            y_true_c = y_true_test[:, c_idx]
-            y_prob_c = y_prob_test[:, c_idx]
+            c_idx = y_prob_val.shape[1] - 1
+            y_true_c = y_true_val[:, c_idx]
+            y_prob_c = y_prob_val[:, c_idx]
             thr_c = float(args.threshold)
             if per_class_thr is not None and len(per_class_thr) == y_prob_val.shape[1]:
                 try:
@@ -833,14 +849,24 @@ elif mode == "multiclass":
     test_precision = 0
     test_recall = 0
 elif mode == "multilabel":
-    y_pred_test = (y_prob_test >= 0.5).astype(int)
-    test_pr_auc = average_precision_score(y_true_test, y_prob_test, average="samples")
-    test_roc_auc = roc_auc_score(y_true_test, y_prob_test, average="samples")
-    test_jaccard = jaccard_score(y_true_test, y_pred_test, average="samples", zero_division=1)
-    test_acc = accuracy_score(y_true_test, y_pred_test)
-    test_f1 = f1_score(y_true_test, y_pred_test, average="samples", zero_division=1)
-    test_precision = precision_score(y_true_test, y_pred_test, average="samples", zero_division=1)
-    test_recall = recall_score(y_true_test, y_pred_test, average="samples", zero_division=1)
+    # Heart+drugrec：测试集原始指标需去掉最后一维（心源性休克）
+    calc_y_true = y_true_test
+    calc_y_prob = y_prob_test
+    if Heart and task == 'drugrec':
+        C_full = y_prob_test.shape[1]
+        if C_full >= 1:
+            c_idx = C_full - 1
+            calc_y_true = y_true_test[:, :c_idx]
+            calc_y_prob = y_prob_test[:, :c_idx]
+
+    y_pred_test = (calc_y_prob >= 0.5).astype(int)
+    test_pr_auc = average_precision_score(calc_y_true, calc_y_prob, average="samples")
+    test_roc_auc = roc_auc_score(calc_y_true, calc_y_prob, average="samples")
+    test_jaccard = jaccard_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
+    test_acc = accuracy_score(calc_y_true, y_pred_test)
+    test_f1 = f1_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
+    test_precision = precision_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
+    test_recall = recall_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
     
 print(f"Test ROC-AUC: {test_roc_auc:.4f}")
 print(f"Test PR-AUC: {test_pr_auc:.4f}")

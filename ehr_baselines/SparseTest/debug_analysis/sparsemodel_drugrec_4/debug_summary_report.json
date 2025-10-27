@@ -1,0 +1,24 @@
+{
+  "generated_at": "2025-10-27T18:30:20.097388",
+  "debug_files": [
+    "graph_analysis_epoch3.json",
+    "graph_analysis_epoch5.json",
+    "prediction_analysis_epoch5_val.json",
+    "model_states_epoch2_val.json",
+    "debug_summary_report.json",
+    "prediction_analysis_epoch1_val.json",
+    "model_states_epoch3_val.json",
+    "prediction_analysis_epoch5_test.json",
+    "model_states_epoch5_test.json",
+    "graph_analysis_epoch1.json",
+    "graph_analysis_epoch4.json",
+    "prediction_analysis_epoch2_val.json",
+    "prediction_analysis_epoch4_val.json",
+    "prediction_analysis_epoch3_val.json",
+    "model_states_epoch1_val.json",
+    "model_states_epoch5_val.json",
+    "graph_analysis_epoch2.json",
+    "model_states_epoch4_val.json"
+  ],
+  "analysis_summary": {}
+}

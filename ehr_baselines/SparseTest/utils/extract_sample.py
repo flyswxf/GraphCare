@@ -101,7 +101,7 @@ def build_tree_text(obj: Any, max_depth: int = 4, max_items: int = 10) -> str:
 
 
 def extract_sample_to_pkl(dataset='mimic3', task='readmission', patient_id=None, index=None, 
-                          out_pkl=None, out_txt=None, max_depth=4, max_items=10, verbose=True):
+                          out_pkl=None, out_txt=None, max_depth=4, max_items=10, verbose=True, Heart=False):
     """
     Extract a single sample from GraphCare sample_dataset and save it as PKL file.
     
@@ -158,7 +158,7 @@ def extract_sample_to_pkl(dataset='mimic3', task='readmission', patient_id=None,
         print(f"[INFO] 正在加载数据集...")
     sample_dataset, graph, ent2id, rel2id, ent_emb, rel_emb, \
         map_cluster, map_cluster_inv, map_cluster_rel, map_cluster_rel_inv, \
-        ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(dataset, task)
+        ccscm_id2clus, ccsproc_id2clus, atc3_id2clus = load_everything(dataset, task, Heart=Heart)
     
     # Locate sample
     idx = None
