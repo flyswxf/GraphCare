@@ -169,22 +169,24 @@ def process_inference_result(inference_result_path, output_path, atc_csv_path,
             for i, rec in enumerate(recommendations[:5]):
                 print(f"  {rec['rank']}. {rec['atc3_code']} - {rec['drug_name']} (score: {rec['score']:.4f})")
         
-        # 5. 保存结果（按现有文件自动递增 index）
+        # 5. 保存结果（固定文件名，若存在则覆写）
         output_dir = os.path.dirname(output_path)
         os.makedirs(output_dir, exist_ok=True)
 
-        index = 1
-        while True:
-            candidate = os.path.join(output_dir, f"{task}_final_inference_{index}.json")
-            if not os.path.exists(candidate):
-                final_output_path = candidate
-                break
-            index += 1
+        # 原先的按序号递增命名逻辑，现注释掉以使用固定文件名
+        # index = 1
+        # while True:
+        #     candidate = os.path.join(output_dir, f"{task}_final_inference_{index}.json")
+        #     if not os.path.exists(candidate):
+        #         final_output_path = candidate
+        #         break
+        #     index += 1
 
+        final_output_path = output_path
         print(f"Saving results to {final_output_path}...")
         with open(final_output_path, 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
-        
+
         print("Conversion completed successfully!")
         return result
         

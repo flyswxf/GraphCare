@@ -106,7 +106,7 @@ parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 
 parser.add_argument('--task', type=str, default='drugrec', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--Heart', action='store_true', help='Enable Heart dataset')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
-parser.add_argument('--epochs', type=int, default=2, help='Number of training epochs')
+parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
 
 # Inference mode args
@@ -192,35 +192,36 @@ try:
     print(f"Loaded {len(sample_dataset)} samples")
     print(f"Graph nodes: {graph.number_of_nodes()}, edges: {graph.number_of_edges()}")
     
-    # Heart augmentation: append cardiac flag as extra channel for drugrec
-    if Heart and task == 'drugrec':
-        cardiac_map = {}
-        csv_path = os.path.join(os.path.dirname(__file__), '..', '..', 'dataPrepare', 'match_stats', 'cardiac_condition_flags.csv')
-        if os.path.exists(csv_path):
-            try:
-                with open(csv_path, 'r', encoding='utf-8') as f:
-                    reader = csv.DictReader(f)
-                    for row in reader:
-                        try:
-                            pid = int(row.get('patient_id'))
-                            flag = int(row.get('cardiac'))
-                            cardiac_map[pid] = flag
-                        except Exception:
-                            pass
-            except Exception as e:
-                print(f"[HEART] Failed reading cardiac flags: {e}")
-        else:
-            print(f"[HEART] Cardiac flags CSV not found at {csv_path}; skipping augmentation")
-        if cardiac_map:
-            for p in sample_dataset:
-                pid = int(p.get('patient_id', -1))
-                flag = float(cardiac_map.get(pid, 0))
-                if isinstance(p.get('drugs_ind'), torch.Tensor):
-                    p['drugs_ind'] = torch.cat([p['drugs_ind'].float(), torch.tensor([flag], dtype=torch.float32)], dim=0)
-                else:
-                    arr = np.array(p.get('drugs_ind'), dtype=float)
-                    p['drugs_ind'] = torch.tensor(np.append(arr, flag), dtype=torch.float32)
-            print(f"[HEART] Appended cardiac flag to drugs_ind for {len(sample_dataset)} samples")
+    # # Heart augmentation: append cardiac flag as extra channel for drugrec
+    # if Heart and task == 'drugrec':
+    #     cardiac_map = {}
+    #     csv_path = os.path.join(os.path.dirname(__file__), '..', '..', 'dataPrepare', 'match_stats', 'cardiac_condition_flags.csv')
+    #     if os.path.exists(csv_path):
+    #         try:
+    #             with open(csv_path, 'r', encoding='utf-8') as f:
+    #                 reader = csv.DictReader(f)
+    #                 for row in reader:
+    #                     try:
+    #                         pid = int(row.get('patient_id'))
+    #                         flag = int(row.get('cardiac'))
+    #                         cardiac_map[pid] = flag
+    #                     except Exception:
+    #                         pass
+    #         except Exception as e:
+    #             print(f"[HEART] Failed reading cardiac flags: {e}")
+    #     else:
+    #         print(f"[HEART] Cardiac flags CSV not found at {csv_path}; skipping augmentation")
+    #     if cardiac_map:
+    #         for p in sample_dataset:
+    #             pid = int(p.get('patient_id', -1))
+    #             flag = float(cardiac_map.get(pid, 0))
+    #             # 增加一个额外的通道来表示心脏问题
+    #             if isinstance(p.get('drugs_ind'), torch.Tensor):
+    #                 p['drugs_ind'] = torch.cat([p['drugs_ind'].float(), torch.tensor([flag], dtype=torch.float32)], dim=0)
+    #             else:
+    #                 arr = np.array(p.get('drugs_ind'), dtype=float)
+    #                 p['drugs_ind'] = torch.tensor(np.append(arr, flag), dtype=torch.float32)
+    #         print(f"[HEART] Appended cardiac flag to drugs_ind for {len(sample_dataset)} samples")
 
 except Exception as e:
     print(f"Error loading data: {e}")
@@ -468,7 +469,11 @@ def evaluate(loader:DataLoader):
 # ===== Inference mode: single-sample forward with strict weight loading =====
 if args.infer:
     print("Inference mode enabled")
-    weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
+    # 添加Heart数据集的权重路径判断
+    if Heart:
+        weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse_Heart.pkl'
+    else:
+        weights_path = args.weights_path or f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
     if not os.path.exists(weights_path):
         print(f"[ERROR] Weights not found: {weights_path}. Please train the model first or specify --weights_path.")
         # 确保wandb结束（如果意外初始化）
@@ -509,55 +514,77 @@ if args.infer:
     if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
         with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
             per_class_thr = json.load(f)
-
-    # 计算预测标签
-    if mode == "multilabel":
-        y_pred_all = multilabel_decision(
-            y_prob_all,
-            strategy=args.decision_strategy,
-            threshold=args.threshold,
-            topk=args.topk,
-            per_class_thresholds=per_class_thr
+        
+        # Heart+drugrec 情况下：分离最后一位（心源性休克概率），并从输出维度中移除
+        cardiogenic_prob = None
+        if Heart and task == 'drugrec' and mode == "multilabel":
+            C_full = y_prob_all.shape[1]
+            if C_full >= 1:
+                c_idx = C_full - 1
+                try:
+                    cardiogenic_prob = float(y_prob_all[0][c_idx])
+                except Exception:
+                    cardiogenic_prob = float('nan')
+                # 去掉最后一位
+                y_prob_all = y_prob_all[:, :c_idx]
+                y_true_all = y_true_all[:, :c_idx]
+                # 若提供了每类阈值，截断为一致长度
+                if per_class_thr is not None and isinstance(per_class_thr, list) and len(per_class_thr) == C_full:
+                    per_class_thr = per_class_thr[:c_idx]
+        
+        # 计算预测标签（使用可能被截断后的概率）
+        if mode == "multilabel":
+            y_pred_all = multilabel_decision(
+                y_prob_all,
+                strategy=args.decision_strategy,
+                threshold=args.threshold,
+                topk=args.topk,
+                per_class_thresholds=per_class_thr
+            )
+        elif mode == "binary":
+            y_pred_all = (y_prob_all >= float(args.threshold)).astype(int)
+        else:
+            y_pred_all = np.argmax(y_prob_all, axis=-1)
+        
+        # 组装输出结果（仅单样本；y_prob/y_true/y_pred 若为 Heart+drugrec 已去除最后一位）
+        pid_val = sample_dataset[0].get('patient_id', None)
+        result = {
+            "patient_id": None if pid_val is None else str(pid_val),
+            "sample_index": None if not args.sample_index else int(args.sample_index),
+            "mode": mode,
+            "decision_strategy": args.decision_strategy if mode == "multilabel" else None,
+            "threshold": float(args.threshold) if mode in ("multilabel", "binary") else None,
+            "topk": int(args.topk) if mode == "multilabel" else None,
+            "per_class_thresholds": per_class_thr,
+            "y_true": y_true_all[0].tolist(),
+            "y_prob": y_prob_all[0].tolist(),
+            "y_pred": y_pred_all[0].tolist() if mode == "multilabel" else int(y_pred_all[0]) if mode == "binary" else int(y_pred_all[0])
+        }
+        
+        # 单独输出心源性休克概率（浮点），但不参与 topk 与其它输出的维度
+        if cardiogenic_prob is not None:
+            result["cardiogenic_shock"] = float(cardiogenic_prob)
+        
+        # 为drugrec/procedure任务提供top-k索引与分数（按概率降序；Heart+drugrec时已排除最后一位）
+        if task in ("drugrec", "procedure") and mode == "multilabel":
+            C = y_prob_all.shape[1]
+            k = max(1, min(C, int(args.topk) if args.topk is not None else 10))
+            probs_row = y_prob_all[0]
+            top_idx = np.argsort(-probs_row)[:k]
+            top_scores = probs_row[top_idx]
+            result.update({
+                "topk_indices": top_idx.tolist(),
+                "topk_scores": top_scores.tolist(),
+            })
+        
+        print("[INFER] Single-sample inference done.")
+        # 打印摘要信息（避免输出大数组）
+        summary = {
+            k: (v if k not in ["y_prob", "y_pred", "y_true"] else f"shape={np.array(v).shape}")
+            for k, v in result.items()
+        }
+        print(json.dumps(summary, ensure_ascii=False, indent=2)
         )
-    elif mode == "binary":
-        y_pred_all = (y_prob_all >= float(args.threshold)).astype(int)
-    else:
-        y_pred_all = np.argmax(y_prob_all, axis=-1)
-
-    # 组装输出结果（仅单样本）
-    pid_val = sample_dataset[0].get('patient_id', None)
-    result = {
-        "patient_id": None if pid_val is None else str(pid_val),
-        "sample_index": None if not args.sample_index else int(args.sample_index),
-        "mode": mode,
-        "decision_strategy": args.decision_strategy if mode == "multilabel" else None,
-        "threshold": float(args.threshold) if mode in ("multilabel", "binary") else None,
-        "topk": int(args.topk) if mode == "multilabel" else None,
-        "per_class_thresholds": per_class_thr,
-        "y_true": y_true_all[0].tolist(),
-        "y_prob": y_prob_all[0].tolist(),
-        "y_pred": y_pred_all[0].tolist() if mode == "multilabel" else int(y_pred_all[0]) if mode == "binary" else int(y_pred_all[0])
-    }
-
-    # 为drugrec/procedure任务提供top-k索引与分数（按概率降序）
-    if task in ("drugrec", "procedure") and mode == "multilabel":
-        C = y_prob_all.shape[1]
-        k = max(1, min(C, int(args.topk) if args.topk is not None else 10))
-        probs_row = y_prob_all[0]
-        top_idx = np.argsort(-probs_row)[:k]
-        top_scores = probs_row[top_idx]
-        result.update({
-            "topk_indices": top_idx.tolist(),
-            "topk_scores": top_scores.tolist(),
-        })
-
-    print("[INFER] Single-sample inference done.")
-    # 打印摘要信息（避免输出大数组）
-    summary = {
-        k: (v if k not in ["y_prob", "y_pred", "y_true"] else f"shape={np.array(v).shape}")
-        for k, v in result.items()
-    }
-    print(json.dumps(summary, ensure_ascii=False, indent=2))
 
     # Save to file if requested
     if args.out:
@@ -719,7 +746,10 @@ for epoch in range(1, epochs + 1):
     if val_roc_auc >= best_val_auc:
         # Create weights directory if it doesn't exist
         os.makedirs('./data/weights', exist_ok=True)
-        model_path = f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
+        if Heart:
+            model_path = f'./data/weights/saved_weights_{dataset}_{task}_sparse_Heart.pkl'
+        else:
+            model_path = f'./data/weights/saved_weights_{dataset}_{task}_sparse.pkl'
         torch.save(model.state_dict(), model_path)
         print(f"  New best model saved! ROC-AUC: {val_roc_auc:.4f}")
         
