@@ -122,7 +122,7 @@ parser.add_argument('--out', type=str, default=None, help='Optional JSON path to
 parser.add_argument('--decision_strategy', type=str, default='hybrid', choices=['threshold', 'topk', 'hybrid'], help='Decision policy for multilabel predictions')
 parser.add_argument('--threshold', type=float, default=0.5, help='Global threshold for multilabel prediction')
 parser.add_argument('--per_class_thresholds', type=str, default=None, help='JSON file path containing per-class thresholds list')
-parser.add_argument('--topk', type=int, default=10, help='Top-K per sample for multilabel prediction')
+parser.add_argument('--topk', type=int, default=20, help='Top-K per sample for multilabel prediction')
 # Sparsification controls
 parser.add_argument('--use_sparsification', action='store_true', help='Enable sparsification (soft edge weighting + top-k mask)')
 parser.add_argument('--sparsification_ratio', type=float, default=0.1, help='Fraction of edges to keep (Top-K)')
@@ -145,7 +145,7 @@ if args.infer:
 # 启动heart数据集的代码示例
 # python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --Heart 
 # 启动heart数据集的推理模式代码示例
-# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --Heart --infer --patient_id 17 --weights_path ./data/weights/saved_weights_mimic3_drugrec_sparse_Heart.pkl --out ./ehr_baselines/SparseTest/result/inference_result.json
+# python -u ehr_baselines/SparseTest/runSparseModel.py --dataset mimic3 --task drugrec --Heart --infer --patient_id 21 --weights_path ./data/weights/saved_weights_mimic3_drugrec_sparse_Heart.pkl --out ./ehr_baselines/SparseTest/result/inference_result.json
 
 # Configuration
 dataset = args.dataset

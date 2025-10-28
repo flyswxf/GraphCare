@@ -108,7 +108,7 @@ def process_inference_result(inference_result_path, output_path, atc_csv_path,
         
         # 2. 加载数据集和tokenizer
         print("Loading dataset...")
-        sample_dataset = load_dataset(load_processed_dataset, dataset, task)
+        sample_dataset = load_dataset(load_processed_dataset, dataset, task,Heart=True)
         
         print("Creating tokenizer...")
         label_tokenizer = Tokenizer(
@@ -133,18 +133,18 @@ def process_inference_result(inference_result_path, output_path, atc_csv_path,
             topk_names = convert_codes_to_names(topk_codes, atc_mapping)
 
             # 过滤以V开头的ATC代码（跳过该项）
-            filtered = [
-                (idx, code, name, score)
-                for idx, code, name, score in zip(topk_indices, topk_codes, topk_names, topk_scores)
-                if isinstance(code, str) and not code.startswith('V')
-            ]
-            if filtered:
-                topk_indices = [x[0] for x in filtered]
-                topk_codes = [x[1] for x in filtered]
-                topk_names = [x[2] for x in filtered]
-                topk_scores = [x[3] for x in filtered]
-            else:
-                topk_indices, topk_codes, topk_names, topk_scores = [], [], [], []
+            # filtered = [
+            #     (idx, code, name, score)
+            #     for idx, code, name, score in zip(topk_indices, topk_codes, topk_names, topk_scores)
+            #     if isinstance(code, str) and not code.startswith('V')
+            # ]
+            # if filtered:
+            #     topk_indices = [x[0] for x in filtered]
+            #     topk_codes = [x[1] for x in filtered]
+            #     topk_names = [x[2] for x in filtered]
+            #     topk_scores = [x[3] for x in filtered]
+            # else:
+            #     topk_indices, topk_codes, topk_names, topk_scores = [], [], [], []
             
             # 添加到结果中
             result['topk_codes'] = topk_codes
@@ -206,12 +206,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert inference indices to ATC codes and names")
     parser.add_argument(
         "--input", "-i",
-        default=os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result.json'),
+        default=os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result_2.json'),
         help="Path to inference_result.json"
     )
     parser.add_argument(
         "--output", "-o",
-        default=os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result_with_names.json'),
+        default=os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result_with_names_2.json'),
         help="Output file path (directory will be created if not exists)"
     )
     args = parser.parse_args()
