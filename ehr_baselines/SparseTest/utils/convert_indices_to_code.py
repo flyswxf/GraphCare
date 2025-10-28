@@ -206,7 +206,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert inference indices to ATC codes and names")
     parser.add_argument(
         "--input", "-i",
-        default=os.path.join(project_root, 'inference/inference_result.json'),
+        default=os.path.join(project_root, 'ehr_baselines', 'SparseTest', 'result', 'inference_result.json'),
         help="Path to inference_result.json"
     )
     parser.add_argument(
