@@ -30,6 +30,8 @@ from graphcare import get_subgraph
 import json
 from tqdm import tqdm
 import csv
+import os
+
 
 # ===== Paths constants (feedback files) =====
 # Make it easy to adjust later without touching code logic
@@ -99,6 +101,53 @@ def multilabel_decision(y_prob, strategy='threshold', threshold=0.5, topk=10, pe
     else:
         # default threshold
         return (y_prob >= float(threshold)).astype(int)
+
+# ===== Helper: search per-class thresholds to optimize F1 =====
+def find_best_per_class_thresholds(y_true: np.ndarray, y_prob: np.ndarray, grid_size: int = 200):
+    """
+    For multilabel outputs, find a threshold per class that maximizes binary F1 per class on provided data.
+    y_true: (N, C) binary labels
+    y_prob: (N, C) probabilities
+    Returns list[float] of length C
+    """
+    N, C = y_prob.shape
+    thresholds = []
+    for c in range(C):
+        yt = y_true[:, c].astype(int)
+        yp = y_prob[:, c].astype(float)
+
+        # If class has no positive labels, fall back to 0.5 to avoid degenerate F1
+        if np.sum(yt) == 0:
+            thresholds.append(0.5)
+            continue
+
+        # Candidate thresholds from quantiles of yp to keep compute bounded
+        uniq = np.unique(yp)
+        if uniq.shape[0] > grid_size:
+            cand = np.quantile(yp, np.linspace(0.01, 0.99, grid_size))
+        else:
+            cand = uniq
+
+        best_t = 0.5
+        best_f1 = -1.0
+        # Evaluate single-class F1 across candidates
+        for t in cand:
+            yhat = (yp >= float(t)).astype(int)
+            f1c = f1_score(yt, yhat, average='binary', zero_division=0)
+            if f1c > best_f1:
+                best_f1 = f1c
+                best_t = float(t)
+        thresholds.append(best_t)
+    return thresholds
+
+def _resolve_thresholds_out_path(dataset: str, task: str, Heart: bool, arg_path: str):
+    """Decide where to save per-class thresholds JSON."""
+    if arg_path is not None and len(str(arg_path)) > 0:
+        return str(arg_path)
+    default_dir = os.path.join(os.path.dirname(__file__), 'result')
+    os.makedirs(default_dir, exist_ok=True)
+    fname = f'per_class_thresholds_{dataset}_{task}{"_Heart" if Heart else ""}.json'
+    return os.path.join(default_dir, fname)
 
 # CLI arguments
 parser = argparse.ArgumentParser(description="Sparse GraphCare runner")
@@ -514,9 +563,18 @@ if args.infer:
     # y_true_all, y_prob_all: numpy arrays with shape (1, C) for batch_size=1
     # 读取每类阈值（如提供）
     per_class_thr = None
-    if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
-        with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
-            per_class_thr = json.load(f)
+    # 优先使用用户提供路径，否则尝试默认保存路径
+    try:
+        thr_path_infer = None
+        if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
+            thr_path_infer = args.per_class_thresholds
+        else:
+            thr_path_infer = _resolve_thresholds_out_path(dataset, task, Heart, args.per_class_thresholds)
+        if thr_path_infer and os.path.exists(thr_path_infer):
+            with open(thr_path_infer, 'r', encoding='utf-8') as f:
+                per_class_thr = json.load(f)
+    except Exception:
+        per_class_thr = None
 
     # Heart+drugrec 情况下：分离最后一位（心源性休克概率），并从输出维度中移除
     cardiogenic_prob = None
@@ -629,6 +687,7 @@ print("Starting training...")
 best_val_auc = 0
 early_stop_indicator = 0
 early_stop = 5
+best_val_f1_opt = -1.0
 
 for epoch in range(1, epochs + 1):
     # Train
@@ -699,14 +758,17 @@ for epoch in range(1, epochs + 1):
         val_precision = 0
         val_recall = 0
     elif mode == "multilabel":
-        per_class_thr = None
-        if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
-            with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
-                per_class_thr = json.load(f)
         # 当 Heart+drugrec 时，原始指标需去掉最后一维（心源性休克）
         calc_y_true = y_true_val
         calc_y_prob = y_prob_val
-        calc_thr = per_class_thr
+        per_class_thr = None
+        # 若用户提供了阈值文件，尝试读取（仅用于对比）
+        if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
+            try:
+                with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
+                    per_class_thr = json.load(f)
+            except Exception:
+                per_class_thr = None
         if Heart and task == 'drugrec':
             C_full = y_prob_val.shape[1]
             if C_full >= 1:
@@ -714,14 +776,18 @@ for epoch in range(1, epochs + 1):
                 calc_y_true = y_true_val[:, :c_idx]
                 calc_y_prob = y_prob_val[:, :c_idx]
                 if per_class_thr is not None and isinstance(per_class_thr, list) and len(per_class_thr) == C_full:
-                    calc_thr = per_class_thr[:c_idx]
+                    per_class_thr = per_class_thr[:c_idx]
 
+        # 基于当前验证集概率，搜索每类F1最优阈值并用于计算验证指标
+        per_class_thr_opt = find_best_per_class_thresholds(calc_y_true, calc_y_prob)
+
+        # 使用搜索到的每类阈值进行决策
         y_pred_val = multilabel_decision(
             calc_y_prob,
-            strategy=args.decision_strategy,
+            strategy='threshold',
             threshold=args.threshold,
             topk=args.topk,
-            per_class_thresholds=calc_thr
+            per_class_thresholds=per_class_thr_opt
         )
         val_pr_auc = average_precision_score(calc_y_true, calc_y_prob, average="samples")
         val_roc_auc = roc_auc_score(calc_y_true, calc_y_prob, average="samples")
@@ -730,6 +796,21 @@ for epoch in range(1, epochs + 1):
         val_f1 = f1_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
         val_precision = precision_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
         val_recall = recall_score(calc_y_true, y_pred_val, average="samples", zero_division=1)
+
+        # 保存阈值文件（在F1优化后且更优时）
+        try:
+            if val_f1 > best_val_f1_opt:
+                best_val_f1_opt = val_f1
+                thr_out_path = _resolve_thresholds_out_path(dataset, task, Heart, args.per_class_thresholds)
+                # Heart+drugrec 情况下，阈值文件仅保存截断后的类别阈值
+                os.makedirs(os.path.dirname(thr_out_path), exist_ok=True)
+                with open(thr_out_path, 'w', encoding='utf-8') as f:
+                    json.dump([float(t) for t in per_class_thr_opt], f)
+                log_msg_thr = f"Saved per-class thresholds to: {thr_out_path} (len={len(per_class_thr_opt)}) with Val F1={val_f1:.4f}"
+                print(log_msg_thr)
+                logger.info(log_msg_thr)
+        except Exception as _thr_e:
+            print(f"保存阈值文件失败: {_thr_e}")
 
         # Extra cardiac metrics when Heart and drugrec
         if Heart and task == 'drugrec':
@@ -859,7 +940,27 @@ elif mode == "multilabel":
             calc_y_true = y_true_test[:, :c_idx]
             calc_y_prob = y_prob_test[:, :c_idx]
 
-    y_pred_test = (calc_y_prob >= 0.5).astype(int)
+    # 加载并使用保存的每类阈值；若不存在则回退到0.5
+    test_thr = None
+    thr_out_path = _resolve_thresholds_out_path(dataset, task, Heart, args.per_class_thresholds)
+    if os.path.exists(thr_out_path):
+        try:
+            with open(thr_out_path, 'r', encoding='utf-8') as f:
+                test_thr = json.load(f)
+            if isinstance(test_thr, list) and len(test_thr) == calc_y_prob.shape[1]:
+                y_pred_test = multilabel_decision(
+                    calc_y_prob,
+                    strategy='threshold',
+                    threshold=0.5,
+                    topk=args.topk,
+                    per_class_thresholds=test_thr
+                )
+            else:
+                y_pred_test = (calc_y_prob >= 0.5).astype(int)
+        except Exception:
+            y_pred_test = (calc_y_prob >= 0.5).astype(int)
+    else:
+        y_pred_test = (calc_y_prob >= 0.5).astype(int)
     test_pr_auc = average_precision_score(calc_y_true, calc_y_prob, average="samples")
     test_roc_auc = roc_auc_score(calc_y_true, calc_y_prob, average="samples")
     test_jaccard = jaccard_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
