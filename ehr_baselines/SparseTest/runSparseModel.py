@@ -155,7 +155,7 @@ parser.add_argument('--dataset', type=str, default='mimic3', choices=['mimic3', 
 parser.add_argument('--task', type=str, default='drugrec', choices=['readmission', 'mortality', 'lenofstay', 'drugrec', 'procedure'], help='Task to run')
 parser.add_argument('--Heart', action='store_true', help='Enable Heart dataset')
 parser.add_argument('--batch_size', type=int, default=16, help='Batch size')
-parser.add_argument('--epochs', type=int, default=5, help='Number of training epochs')
+parser.add_argument('--epochs', type=int, default=10, help='Number of training epochs')
 parser.add_argument('--lr', type=float, default=1e-3, help='Learning rate')
 
 # Inference mode args
@@ -226,8 +226,8 @@ wandb_config = {
     "attention_type": "beta",    # 注意力类型标识
 }
 # 初始化wandb项目
-run = wandb.init(project=f"{task}", config=wandb_config,
-                 notes="稀疏化GraphCare模型实验" + (", 包含心脏问题的病人数据集" if Heart else ""))
+run = wandb.init(project=f"{task}_Formal", config=wandb_config,
+                 notes="GraphCare模型" + (", 包含心脏问题的病人数据集" if Heart else ""))
 exp_name = f"{dataset}_{task}_sparse_bs{batch_size}_ep{epochs}_lr{lr}_{'Heart' if Heart else 'NoHeart'}"
 # 初始化日志记录器
 logger = get_logger(exp_name)
@@ -242,37 +242,6 @@ try:
     
     print(f"Loaded {len(sample_dataset)} samples")
     print(f"Graph nodes: {graph.number_of_nodes()}, edges: {graph.number_of_edges()}")
-    
-    # # Heart augmentation: append cardiac flag as extra channel for drugrec
-    # if Heart and task == 'drugrec':
-    #     cardiac_map = {}
-    #     csv_path = os.path.join(os.path.dirname(__file__), '..', '..', 'dataPrepare', 'match_stats', 'cardiac_condition_flags.csv')
-    #     if os.path.exists(csv_path):
-    #         try:
-    #             with open(csv_path, 'r', encoding='utf-8') as f:
-    #                 reader = csv.DictReader(f)
-    #                 for row in reader:
-    #                     try:
-    #                         pid = int(row.get('patient_id'))
-    #                         flag = int(row.get('cardiac'))
-    #                         cardiac_map[pid] = flag
-    #                     except Exception:
-    #                         pass
-    #         except Exception as e:
-    #             print(f"[HEART] Failed reading cardiac flags: {e}")
-    #     else:
-    #         print(f"[HEART] Cardiac flags CSV not found at {csv_path}; skipping augmentation")
-    #     if cardiac_map:
-    #         for p in sample_dataset:
-    #             pid = int(p.get('patient_id', -1))
-    #             flag = float(cardiac_map.get(pid, 0))
-    #             # 增加一个额外的通道来表示心脏问题
-    #             if isinstance(p.get('drugs_ind'), torch.Tensor):
-    #                 p['drugs_ind'] = torch.cat([p['drugs_ind'].float(), torch.tensor([flag], dtype=torch.float32)], dim=0)
-    #             else:
-    #                 arr = np.array(p.get('drugs_ind'), dtype=float)
-    #                 p['drugs_ind'] = torch.tensor(np.append(arr, flag), dtype=torch.float32)
-    #         print(f"[HEART] Appended cardiac flag to drugs_ind for {len(sample_dataset)} samples")
 
 except Exception as e:
     print(f"Error loading data: {e}")
@@ -700,38 +669,38 @@ for epoch in range(1, epochs + 1):
     # save_validation_debug_info(y_true_val, y_prob_val, epoch, "val")
     
     # 保存综合调试信息
-    try:
-        if mode == "multilabel":
-            per_class_thr = None
-            if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
-                with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
-                    per_class_thr = json.load(f)
-            y_pred_val = multilabel_decision(
-                y_prob_val,
-                strategy=args.decision_strategy,
-                threshold=args.threshold,
-                topk=args.topk,
-                per_class_thresholds=per_class_thr
-            )
-        elif mode == "binary":
-            y_pred_val = (y_prob_val >= float(args.threshold)).astype(int)
-        else:
-            y_pred_val = np.argmax(y_prob_val, axis=-1)
-        save_comprehensive_debug_info(
-            model=model,
-            y_true=y_true_val,
-            y_prob=y_prob_val,
-            y_pred=y_pred_val,
-            epoch=epoch,
-            phase="val",
-            mode=mode,
-            task=task,
-            edge_index=G_tg.edge_index,
-            train_loss=train_loss,
-            sparse_loss=sparse_loss
-        )
-    except Exception as debug_e:
-        print(f"综合调试信息保存失败: {debug_e}")
+    # try:
+    #     if mode == "multilabel":
+    #         per_class_thr = None
+    #         if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
+    #             with open(args.per_class_thresholds, 'r', encoding='utf-8') as f:
+    #                 per_class_thr = json.load(f)
+    #         y_pred_val = multilabel_decision(
+    #             y_prob_val,
+    #             strategy=args.decision_strategy,
+    #             threshold=args.threshold,
+    #             topk=args.topk,
+    #             per_class_thresholds=per_class_thr
+    #         )
+    #     elif mode == "binary":
+    #         y_pred_val = (y_prob_val >= float(args.threshold)).astype(int)
+    #     else:
+    #         y_pred_val = np.argmax(y_prob_val, axis=-1)
+    #     save_comprehensive_debug_info(
+    #         model=model,
+    #         y_true=y_true_val,
+    #         y_prob=y_prob_val,
+    #         y_pred=y_pred_val,
+    #         epoch=epoch,
+    #         phase="val",
+    #         mode=mode,
+    #         task=task,
+    #         edge_index=G_tg.edge_index,
+    #         train_loss=train_loss,
+    #         sparse_loss=sparse_loss
+    #     )
+    # except Exception as debug_e:
+    #     print(f"综合调试信息保存失败: {debug_e}")
     
     # 计算验证指标
     
@@ -758,10 +727,19 @@ for epoch in range(1, epochs + 1):
         val_precision = 0
         val_recall = 0
     elif mode == "multilabel":
-        # 当 Heart+drugrec 时，原始指标需去掉最后一维（心源性休克）
+        # Heart+drugrec：验证集原始指标需去掉最后一维（心源性休克）
         calc_y_true = y_true_val
         calc_y_prob = y_prob_val
         per_class_thr = None
+        
+        # 初始化心源性休克相关指标变量
+        val_roc_auc_c = float('nan')
+        val_pr_auc_c = float('nan')
+        val_acc_c = float('nan')
+        val_f1_c = float('nan')
+        val_precision_c = float('nan')
+        val_recall_c = float('nan')
+        val_jaccard_c = float('nan')
         # 若用户提供了阈值文件，尝试读取（仅用于对比）
         if args.per_class_thresholds is not None and os.path.exists(args.per_class_thresholds):
             try:
@@ -851,9 +829,9 @@ for epoch in range(1, epochs + 1):
         print(f"  New best model saved! ROC-AUC: {val_roc_auc:.4f}")
         
         # Log model as WandB Artifact
-        artifact = wandb.Artifact(f"{dataset}_{task}_sparse_model", type="model", metadata={"val_roc_auc": float(val_roc_auc), "epoch": epoch})
-        artifact.add_file(model_path)
-        wandb.log_artifact(artifact)
+        # artifact = wandb.Artifact(f"{dataset}_{task}_sparse_model", type="model", metadata={"val_roc_auc": float(val_roc_auc), "epoch": epoch})
+        # artifact.add_file(model_path)
+        # wandb.log_artifact(artifact)
         
         best_val_auc = val_roc_auc
         early_stop_indicator = 0
@@ -863,7 +841,7 @@ for epoch in range(1, epochs + 1):
             print(f"Early stopping triggered after {epoch} epochs")
             break
     
-    # WandB logging with all metrics
+    # Log metrics to WandB
     wandb_metrics = {
         "train/loss": train_loss,
         "train/sparse_loss": sparse_loss,
@@ -876,6 +854,19 @@ for epoch in range(1, epochs + 1):
         "val/jaccard": val_jaccard,
         "epoch": epoch
     }
+    
+    # 添加心源性休克相关指标（仅在Heart+drugrec模式下有效值）
+    if Heart and task == 'drugrec':
+        wandb_metrics.update({
+            "val/cardiogenic_shock/roc_auc": val_roc_auc_c,
+            "val/cardiogenic_shock/pr_auc": val_pr_auc_c,
+            "val/cardiogenic_shock/acc": val_acc_c,
+            "val/cardiogenic_shock/f1": val_f1_c,
+            "val/cardiogenic_shock/precision": val_precision_c,
+            "val/cardiogenic_shock/recall": val_recall_c,
+            "val/cardiogenic_shock/jaccard": val_jaccard_c,
+        })
+    
     wandb.log(wandb_metrics)
     
     # Console and logger output
@@ -969,11 +960,55 @@ elif mode == "multilabel":
     test_precision = precision_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
     test_recall = recall_score(calc_y_true, y_pred_test, average="samples", zero_division=1)
     
+    # 计算心源性休克相关指标（仅在Heart+drugrec模式下）
+    test_roc_auc_c = float('nan')
+    test_pr_auc_c = float('nan')
+    test_acc_c = float('nan')
+    test_f1_c = float('nan')
+    test_precision_c = float('nan')
+    test_recall_c = float('nan')
+    test_jaccard_c = float('nan')
+    
+    if Heart and task == 'drugrec':
+        c_idx = y_prob_test.shape[1] - 1
+        y_true_c = y_true_test[:, c_idx]
+        y_prob_c = y_prob_test[:, c_idx]
+        thr_c = float(args.threshold)
+        if test_thr is not None and len(test_thr) == y_prob_test.shape[1]:
+            try:
+                thr_c = float(test_thr[c_idx])
+            except Exception:
+                pass
+        y_pred_c = (y_prob_c >= thr_c).astype(int)
+        try:
+            test_roc_auc_c = roc_auc_score(y_true_c, y_prob_c)
+        except Exception:
+            test_roc_auc_c = float('nan')
+        try:
+            test_pr_auc_c = average_precision_score(y_true_c, y_prob_c)
+        except Exception:
+            test_pr_auc_c = float('nan')
+        test_acc_c = accuracy_score(y_true_c, y_pred_c)
+        test_f1_c = f1_score(y_true_c, y_pred_c, zero_division=1)
+        test_precision_c = precision_score(y_true_c, y_pred_c, zero_division=1)
+        test_recall_c = recall_score(y_true_c, y_pred_c, zero_division=1)
+        test_jaccard_c = jaccard_score(y_true_c, y_pred_c, zero_division=1)
+    
 print(f"Test ROC-AUC: {test_roc_auc:.4f}")
 print(f"Test PR-AUC: {test_pr_auc:.4f}")
 
+# 打印心源性休克相关测试结果（仅在Heart+drugrec模式下）
+if Heart and task == 'drugrec':
+    print(f"Test Cardiogenic Shock ROC-AUC: {test_roc_auc_c:.4f}")
+    print(f"Test Cardiogenic Shock PR-AUC: {test_pr_auc_c:.4f}")
+    print(f"Test Cardiogenic Shock F1: {test_f1_c:.4f}")
+    print(f"Test Cardiogenic Shock Accuracy: {test_acc_c:.4f}")
+    print(f"Test Cardiogenic Shock Precision: {test_precision_c:.4f}")
+    print(f"Test Cardiogenic Shock Recall: {test_recall_c:.4f}")
+    print(f"Test Cardiogenic Shock Jaccard: {test_jaccard_c:.4f}")
+
 # Log test metrics to WandB and set summary
-wandb.log({
+test_metrics = {
     "test/pr_auc": test_pr_auc,
     "test/roc_auc": test_roc_auc,
     "test/acc": test_acc,
@@ -981,8 +1016,28 @@ wandb.log({
     "test/precision": test_precision,
     "test/recall": test_recall,
     "test/jaccard": test_jaccard,
-})
+}
+
+# 添加心源性休克相关测试指标（仅在Heart+drugrec模式下有效值）
+if Heart and task == 'drugrec':
+    test_metrics.update({
+        "test/cardiogenic_shock/roc_auc": test_roc_auc_c,
+        "test/cardiogenic_shock/pr_auc": test_pr_auc_c,
+        "test/cardiogenic_shock/acc": test_acc_c,
+        "test/cardiogenic_shock/f1": test_f1_c,
+        "test/cardiogenic_shock/precision": test_precision_c,
+        "test/cardiogenic_shock/recall": test_recall_c,
+        "test/cardiogenic_shock/jaccard": test_jaccard_c,
+    })
+
+wandb.log(test_metrics)
 wandb.run.summary["best/val_roc_auc"] = best_val_auc
+
+# 添加心源性休克相关指标到summary（仅在Heart+drugrec模式下）
+if Heart and task == 'drugrec':
+    wandb.run.summary["best/cardiogenic_shock/test_roc_auc"] = test_roc_auc_c
+    wandb.run.summary["best/cardiogenic_shock/test_pr_auc"] = test_pr_auc_c
+    wandb.run.summary["best/cardiogenic_shock/test_f1"] = test_f1_c
 
 # Print sparsification statistics if enabled
 if model.use_sparsification:

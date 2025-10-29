@@ -1,0 +1,14 @@
+{
+  "basic_graph_stats": {
+    "num_nodes": 78061,
+    "num_edges": 78061,
+    "avg_degree": 2.0,
+    "density": 2.5621316935690495e-05
+  },
+  "sparsification_stats": {
+    "kept_edges": 768453.0,
+    "removed_edges": -690392.0,
+    "actual_sparsification_ratio": -8.844262820102228,
+    "connectivity_preserved": true
+  }
+}
